@@ -1,17 +1,11 @@
 {
   "kategoria": "C/3 Munkajog és társadalombiztosítási jog",
-  "forras": "jogedu notes type=deck flashcards Published",
-  "pakli": 100,
-  "kartya": 3144,
-  "hianyzikSorszam": [
-    33,
-    35,
-    42,
-    47,
-    52,
-    53
-  ],
-  "megjegyzes": "A 33., 35., 42., 47., 52. es 53. anyagreszhez csak Draft pakli van. Nincs kitalalt fajl.",
+  "forras": "jogedu notes type=deck flashcards Published + Draft",
+  "pakli": 114,
+  "kartya": 4668,
+  "publishedPakli": 100,
+  "draftPakli": 14,
+  "megjegyzes": "A Draft paklik is benne vannak. Egy notes-dokumentum = egy fajl. Nincs osszevonas.",
   "items": [
     {
       "file": "tanulokartyak/01/fogalom_DLnoQKoCNkC0bnNf7Z2d.json",
@@ -19,6 +13,7 @@
       "id": "DLnoQKoCNkC0bnNf7Z2d",
       "deckType": "fogalom",
       "title": "1. Az Mt. bevezető rendelkezései és jelentőségük.",
+      "visibility": "Published",
       "cards": 27,
       "sha256": "dbe3a10a32269e045cc42745ab92e21db5801dc3890a777a264a65a8dd34f78f"
     },
@@ -28,6 +23,7 @@
       "id": "tnMkaL9KaisQU55Qdp7E",
       "deckType": "kerdes",
       "title": "1. Az Mt. bevezető rendelkezései és jelentőségük.",
+      "visibility": "Published",
       "cards": 53,
       "sha256": "eedacf41e091c142c7b515e479966af421c74a2b558fd90acb01c3ef78f85cf9"
     },
@@ -37,6 +33,7 @@
       "id": "jvtNUXQTU0kVsBjcR19h",
       "deckType": "kerdes",
       "title": "2. A munkaviszonnyal kapcsolatos jognyilatkozatok, a jognyilatkozatok (...)",
+      "visibility": "Published",
       "cards": 53,
       "sha256": "ec0f958ed57513ea79531b70f492ba3a9b3a35a7180b31461cada9d2adbced3f"
     },
@@ -46,6 +43,7 @@
       "id": "kBmPyXQmbmVgSx4LfxC9",
       "deckType": "fogalom",
       "title": "2. A munkaviszonnyal kapcsolatos jognyilatkozatok, a jognyilatkozatok (...)",
+      "visibility": "Published",
       "cards": 27,
       "sha256": "193415c48f7cd10515d0d86698288a6ca7ecffedb5bb093b90b2e60337e65c33"
     },
@@ -55,6 +53,7 @@
       "id": "vdEB81vW4pjXtMSbuARs",
       "deckType": "kerdes",
       "title": "3. Az érvénytelenség.",
+      "visibility": "Published",
       "cards": 45,
       "sha256": "5dfa8df8f40565658ac81d876366f743e273a49d9f5566ed0cc8abb907f62df0"
     },
@@ -64,6 +63,7 @@
       "id": "XjXN8zWhFIEySMFCJU3Y",
       "deckType": "fogalom",
       "title": "3. Az érvénytelenség.",
+      "visibility": "Published",
       "cards": 22,
       "sha256": "71772bd008f53cc423cee380c5267a080be0df5525d0821666858944d987540f"
     },
@@ -73,6 +73,7 @@
       "id": "4gjx1MptcQFli3fG6EqS",
       "deckType": "fogalom",
       "title": "4. A munkaviszony alanyai. A cselekvőképtelen munkavállaló.",
+      "visibility": "Published",
       "cards": 23,
       "sha256": "ae438e82a07c24522f6893067b1199154eab86df6a564aa2cbfb131e0ed0c2c4"
     },
@@ -82,6 +83,7 @@
       "id": "aOpga4Ez7DOGxgkrekpV",
       "deckType": "kerdes",
       "title": "4. A munkaviszony alanyai. A cselekvőképtelen munkavállaló.",
+      "visibility": "Published",
       "cards": 46,
       "sha256": "0296cc42e0739a12a12f67e4ef2f3b389af8b3ce0a3411463f5c754ad68f40f9"
     },
@@ -91,6 +93,7 @@
       "id": "czc7fdeGJ7Q77oLBw5BS",
       "deckType": "fogalom",
       "title": "5. A munkáltató személyében bekövetkező változás.",
+      "visibility": "Published",
       "cards": 17,
       "sha256": "52b96d2b7b58b102d91e311647b98b77a99904670db079fde3e450d1b6ebf2ad"
     },
@@ -100,6 +103,7 @@
       "id": "t2cuKkg9g2tN2UUNmXxT",
       "deckType": "kerdes",
       "title": "5. A munkáltató személyében bekövetkező változás.",
+      "visibility": "Published",
       "cards": 33,
       "sha256": "2698197e53bcfb7adfae5f5dd92de82beaa105d822b6b7efd65795099827185e"
     },
@@ -109,6 +113,7 @@
       "id": "9FbkGcOWPH0BaUZaToHh",
       "deckType": "kerdes",
       "title": "6. A munkaviszony létesítése, a munkaszerződés tartalma, a munkáltató (...)",
+      "visibility": "Published",
       "cards": 53,
       "sha256": "d7b17210e8136775f4dfd694c3dbaf1a3f7c228c74b3ea28f66da5fb0523072d"
     },
@@ -118,6 +123,7 @@
       "id": "vZAqlV8mLObKhnVrQiVV",
       "deckType": "fogalom",
       "title": "6. A munkaviszony létesítése, a munkaszerződés tartalma, a munkáltató (...)",
+      "visibility": "Published",
       "cards": 26,
       "sha256": "8c52900a06f2ed250f69cf9e9a3491a3fab12159992df7d22b0c3aa53c0aa53e"
     },
@@ -127,6 +133,7 @@
       "id": "GVq5Q1y29S3f6g5VoakQ",
       "deckType": "fogalom",
       "title": "7. A munkaviszony kezdete; a próbaidő jogi természete, rendeltetése, időtartama.",
+      "visibility": "Published",
       "cards": 13,
       "sha256": "b6a47daa2d851fd6b51ca674cd044c7ad06d0bd91e03ed794bdf6f706b28cd13"
     },
@@ -136,8 +143,19 @@
       "id": "W4tnaqk0wdZGt0Is0vFy",
       "deckType": "kerdes",
       "title": "7. A munkaviszony kezdete; a próbaidő jogi természete, rendeltetése, időtartama.",
+      "visibility": "Published",
       "cards": 26,
       "sha256": "82ccfc6e42974b17f7e0edcd628fc4eef399ee280adee85b05e701298e9a10d9"
+    },
+    {
+      "file": "tanulokartyak/08/kerdes_FQ7cQQuyZBjDdY2OaQKi.json",
+      "sorszam": 8,
+      "id": "FQ7cQQuyZBjDdY2OaQKi",
+      "deckType": "kerdes",
+      "title": "8. A munkaszerződés teljesítése, alapvető kötelezettségek, a (...)",
+      "visibility": "Draft",
+      "cards": 253,
+      "sha256": "9b21b951255963be2f6e49c87a361761cb221c9c08be3a3e7d016195fca541ce"
     },
     {
       "file": "tanulokartyak/08/fogalom_IPmBX8am4q0JmjK2uYrQ.json",
@@ -145,6 +163,7 @@
       "id": "IPmBX8am4q0JmjK2uYrQ",
       "deckType": "fogalom",
       "title": "8. A munkaszerződés teljesítése, alapvető kötelezettségek, a (...)",
+      "visibility": "Published",
       "cards": 50,
       "sha256": "b6e626a180ed59eb8a738447c9b6e48df74b5e5185f9a1b176ae02fdef9c2f78"
     },
@@ -154,8 +173,19 @@
       "id": "JTnYg2QHISwafEtPdDuT",
       "deckType": "kerdes",
       "title": "8. A munkaszerződés teljesítése, alapvető kötelezettségek, a (...)",
+      "visibility": "Published",
       "cards": 50,
       "sha256": "51b35df137992f3cef029ed39ebf8fb7e6d9f5a1800d6d24ad3684cba39c9eac"
+    },
+    {
+      "file": "tanulokartyak/08/fogalom_RN7Z0SYwMyq5nL0y0zNi.json",
+      "sorszam": 8,
+      "id": "RN7Z0SYwMyq5nL0y0zNi",
+      "deckType": "fogalom",
+      "title": "8. A munkaszerződés teljesítése, alapvető kötelezettségek, a (...)",
+      "visibility": "Draft",
+      "cards": 127,
+      "sha256": "5239459dff996e498f2ae8725ca809f29bcb46d5c26fa8fad3c10f5b7202dad5"
     },
     {
       "file": "tanulokartyak/09/kerdes_qqJNT6HEBi9RdaaQSrz7.json",
@@ -163,6 +193,7 @@
       "id": "qqJNT6HEBi9RdaaQSrz7",
       "deckType": "kerdes",
       "title": "9. Az utasítás teljesítésének megtagadása, mentesülés a munkavégzési (...)",
+      "visibility": "Published",
       "cards": 45,
       "sha256": "7edec830c4282ed3ecff0a4dee2d31786977a3af7d3004fd04aec0f1b38926d0"
     },
@@ -172,6 +203,7 @@
       "id": "xpKgQX9tLNlUMuMZTdKz",
       "deckType": "fogalom",
       "title": "9. Az utasítás teljesítésének megtagadása, mentesülés a munkavégzési (...)",
+      "visibility": "Published",
       "cards": 23,
       "sha256": "67b88e3ce896b1f869517abc35e91c0a90b3575209a674e1aae8d2c15981bd56"
     },
@@ -181,6 +213,7 @@
       "id": "vwn1W6AdXhrUi2UCfRoP",
       "deckType": "kerdes",
       "title": "10. Jogkövetkezmények a munkavállaló vétkes kötelezettségszegéséért.",
+      "visibility": "Published",
       "cards": 28,
       "sha256": "07f6d49e384c0c047a8efae27ca81d25a15f3ab651c05a97a0b0477d1f6a2673"
     },
@@ -190,6 +223,7 @@
       "id": "zQgZhWenmsZ6mvo2tKzD",
       "deckType": "fogalom",
       "title": "10. Jogkövetkezmények a munkavállaló vétkes kötelezettségszegéséért.",
+      "visibility": "Published",
       "cards": 14,
       "sha256": "c30266c3230466c5a2295f06f23322eca7d410a08426235fd3ce55160df0d92e"
     },
@@ -199,6 +233,7 @@
       "id": "kUomBAzapdwghYwB9lKt",
       "deckType": "kerdes",
       "title": "11. A munkaszerződés módosítása.",
+      "visibility": "Published",
       "cards": 45,
       "sha256": "fdefd7605a1b98610471cd7ec9a3ec68affec2c662ad8c69bd4b08379744a732"
     },
@@ -208,6 +243,7 @@
       "id": "UTsuElFMCxh5MTfce4KI",
       "deckType": "fogalom",
       "title": "11. A munkaszerződés módosítása.",
+      "visibility": "Published",
       "cards": 23,
       "sha256": "36f073da63aca48bbc0596e3e9bc11e1a87dc072b1ea745d7699400151f6543b"
     },
@@ -217,6 +253,7 @@
       "id": "4pRXiSE9cWGmAazQrDvN",
       "deckType": "fogalom",
       "title": "12. A munkaviszony megszűnése és megszüntetése.",
+      "visibility": "Published",
       "cards": 22,
       "sha256": "f481e2d213755b43ad55a3a67fddb8cbfdc9661b2e7a839909b74cbca40639f7"
     },
@@ -226,6 +263,7 @@
       "id": "WcplQNy63D92l4lgT0S8",
       "deckType": "kerdes",
       "title": "12. A munkaviszony megszűnése és megszüntetése.",
+      "visibility": "Published",
       "cards": 45,
       "sha256": "58f932a3dccad4cf5d893e23d27a92537d20b0a2dd2bfb7dfe67d68d639c4230"
     },
@@ -235,6 +273,7 @@
       "id": "5mRMEgKSaKm4WsSSfUxy",
       "deckType": "fogalom",
       "title": "13. A felmondás, a munkavállalói, illetve a munkáltatói felmondás szabályai (...)",
+      "visibility": "Published",
       "cards": 23,
       "sha256": "5dd3900c904f64bc2409f96d24d4d138daf5118c4fcda85ab65dda315e901bb7"
     },
@@ -244,6 +283,7 @@
       "id": "U4IsQTUGCGdop9UcX4d2",
       "deckType": "kerdes",
       "title": "13. A felmondás, a munkavállalói, illetve a munkáltatói felmondás szabályai (...)",
+      "visibility": "Published",
       "cards": 45,
       "sha256": "7f847dfab4eeca6e943c0923ded16a1cbacfd018b0093dd9547a7aa6e50dfbc7"
     },
@@ -253,6 +293,7 @@
       "id": "36xClRDuuqzQQPnWBc6Y",
       "deckType": "fogalom",
       "title": "14. A felmondási tilalmak és a felmondási korlátozások, a felmondási idő (...)",
+      "visibility": "Published",
       "cards": 22,
       "sha256": "80afcfa9038b695d74e49c8019f46b9b3f352ce7e038b99c1b5cd459c411b7d0"
     },
@@ -262,6 +303,7 @@
       "id": "5vf8QE6hNJYBOap5yzW6",
       "deckType": "kerdes",
       "title": "14. A felmondási tilalmak és a felmondási korlátozások, a felmondási idő (...)",
+      "visibility": "Published",
       "cards": 43,
       "sha256": "5638fea9ce99f6e6c8fed55270521597227a2f9b82e2d57b9f271c2922ebf039"
     },
@@ -271,6 +313,7 @@
       "id": "5aBfQgLPygy3PcLISAcx",
       "deckType": "kerdes",
       "title": "15. A csoportos létszámcsökkentésre vonatkozó főbb szabályok.",
+      "visibility": "Published",
       "cards": 37,
       "sha256": "781011d057646d90640295ed45c793bce4cad7e467787e292b445f224415bff2"
     },
@@ -280,6 +323,7 @@
       "id": "XwyDC00t8QAIyM2BxrmX",
       "deckType": "fogalom",
       "title": "15. A csoportos létszámcsökkentésre vonatkozó főbb szabályok.",
+      "visibility": "Published",
       "cards": 18,
       "sha256": "e5e7977d3d4dd756a9340f298035a152face3b82a2de0a8546566f0928a2c401"
     },
@@ -289,6 +333,7 @@
       "id": "3HTCgpkcF1o2NiHvAzrb",
       "deckType": "kerdes",
       "title": "16. A végkielégítés.",
+      "visibility": "Published",
       "cards": 39,
       "sha256": "2ac679b0cf39aebd007a8a84688a7e398f0018fa61e5da870c24a0c5a24fca13"
     },
@@ -298,6 +343,7 @@
       "id": "8NPpztSU39JNiOQdDIfj",
       "deckType": "fogalom",
       "title": "16. A végkielégítés.",
+      "visibility": "Published",
       "cards": 19,
       "sha256": "82b5dc352cdf524c9a9d7e0b37c5dd23f1671c5b6a035bfbbf1706ff95d91478"
     },
@@ -307,6 +353,7 @@
       "id": "NagthorpY7x5oZScdO7G",
       "deckType": "fogalom",
       "title": "17. Az azonnali hatályú felmondás feltételei, fajtái.",
+      "visibility": "Published",
       "cards": 11,
       "sha256": "62018a4c2f69077bff3d00e19395a4fb25c2396f0078116e189253afad93bff6"
     },
@@ -316,6 +363,7 @@
       "id": "YKbd1fm6wJKkf7Mvdtaq",
       "deckType": "kerdes",
       "title": "17. Az azonnali hatályú felmondás feltételei, fajtái.",
+      "visibility": "Published",
       "cards": 23,
       "sha256": "a9d9eb45b2c6e28355d3a70867a9a81b0e61c017e696d605ac353f15512597cf"
     },
@@ -325,6 +373,7 @@
       "id": "GuG4SWmSe7spAsb49dHg",
       "deckType": "kerdes",
       "title": "18. Eljárás a munkaviszony megszüntetése (megszűnése) esetén.",
+      "visibility": "Published",
       "cards": 23,
       "sha256": "8f1aba9fbd3b202b229740ab8d188591ef3ee8642682fc7bf72cacf98f4007e3"
     },
@@ -334,6 +383,7 @@
       "id": "wFtHp7n8cr5NtRs00gMc",
       "deckType": "fogalom",
       "title": "18. Eljárás a munkaviszony megszüntetése (megszűnése) esetén.",
+      "visibility": "Published",
       "cards": 11,
       "sha256": "24cf1e40b5e51e160c68b9ff970f7da809aef5e3513ac05bfd68632ec7bf691c"
     },
@@ -343,6 +393,7 @@
       "id": "3drbE8kE8mE8YCHXCfkR",
       "deckType": "fogalom",
       "title": "19. A munkaviszony jogellenes megszüntetése és jogkövetkezményei.",
+      "visibility": "Published",
       "cards": 20,
       "sha256": "1d61f873d842d565de78989c0d32604ddc6efe2848c658efc31ad5d420185740"
     },
@@ -352,6 +403,7 @@
       "id": "oIXBCdI0Y7qwvgn0eEB0",
       "deckType": "kerdes",
       "title": "19. A munkaviszony jogellenes megszüntetése és jogkövetkezményei.",
+      "visibility": "Published",
       "cards": 40,
       "sha256": "8d201cb4f91e609e3225103962a73f3ff2328b7382c713323514cefd04e9dfce"
     },
@@ -361,6 +413,7 @@
       "id": "gVxgmOftoRmOFuTiJ6rE",
       "deckType": "fogalom",
       "title": "20. A munka- és pihenőidő fogalmai, a napi munkaidőre, a munkaidőkeretre és (...)",
+      "visibility": "Published",
       "cards": 20,
       "sha256": "1a7539fea1d2c8a29ebb5fb77bf47bf8d1741d91ba945d5e0f355ce445ea15ff"
     },
@@ -370,6 +423,7 @@
       "id": "pyAy4LYNRveyPCAfpAwE",
       "deckType": "kerdes",
       "title": "20. A munka- és pihenőidő fogalmai, a napi munkaidőre, a munkaidőkeretre és (...)",
+      "visibility": "Published",
       "cards": 39,
       "sha256": "64201f9a5f4a517e7c8b13df014c10235ab81be63c97d4686af6ddf5d9e91024"
     },
@@ -379,6 +433,7 @@
       "id": "GUwemJXEKqs2QceywauC",
       "deckType": "fogalom",
       "title": "21. A munkaidő vasárnapra vagy munkaszüneti napra történő beosztása. A (...)",
+      "visibility": "Published",
       "cards": 22,
       "sha256": "bfba4151aa15171b85d210f5eca60bd1e8ce49671e04bada2fa88bdfb7c1efe2"
     },
@@ -388,6 +443,7 @@
       "id": "ULWDoQvoopV0fgxSTYMl",
       "deckType": "kerdes",
       "title": "21. A munkaidő vasárnapra vagy munkaszüneti napra történő beosztása. A (...)",
+      "visibility": "Published",
       "cards": 44,
       "sha256": "3247a2bbf841fda83f4f3f16d02448c63b904b7351db0cb88e6ed387c354d8de"
     },
@@ -397,6 +453,7 @@
       "id": "JctelJylJntJcUQRtm2b",
       "deckType": "kerdes",
       "title": "22. A napi és a heti pihenőidőre, illetve a heti pihenőnapra vonatkozó (...)",
+      "visibility": "Published",
       "cards": 45,
       "sha256": "562f283029fa714329a5a93535179151f50af1755f3cef053dfd18fd6f870438"
     },
@@ -406,6 +463,7 @@
       "id": "TbrvyOLupmwbvB3FIZsS",
       "deckType": "fogalom",
       "title": "22. A napi és a heti pihenőidőre, illetve a heti pihenőnapra vonatkozó (...)",
+      "visibility": "Published",
       "cards": 23,
       "sha256": "e7a5c8c4b97127876e19388cc4e34c4cf260cbe1644789ba2cbb909219cc056d"
     },
@@ -415,6 +473,7 @@
       "id": "BBbVJAxK47O8YyyUwY9X",
       "deckType": "kerdes",
       "title": "23. A rendkívüli munkaidő fogalma, elrendelése és elrendelésének korlátai (...)",
+      "visibility": "Published",
       "cards": 45,
       "sha256": "c5402f2af491f34db8b058b7e65b78fadbcf85e43c56678b5d5c151d650f440e"
     },
@@ -424,6 +483,7 @@
       "id": "bVV36tx4UnQRIF7RPZsi",
       "deckType": "fogalom",
       "title": "23. A rendkívüli munkaidő fogalma, elrendelése és elrendelésének korlátai (...)",
+      "visibility": "Published",
       "cards": 23,
       "sha256": "706209b0b353f4e5e627f4a16a3a24d160026377f49815c5b5b777502a44d3c6"
     },
@@ -433,6 +493,7 @@
       "id": "8fzhsMOPpA4bxuPdWsh2",
       "deckType": "fogalom",
       "title": "24. A szabadság (alap- és pótszabadság) mértéke, kiadása, az apasági (...)",
+      "visibility": "Published",
       "cards": 24,
       "sha256": "350934e0943497fac87755d88d6e2e2afaee4341db7c4ed798cc4dfe93245a7c"
     },
@@ -442,6 +503,7 @@
       "id": "ACLGi5jQ03htIPpPZdbv",
       "deckType": "kerdes",
       "title": "24. A szabadság (alap- és pótszabadság) mértéke, kiadása, az apasági (...)",
+      "visibility": "Published",
       "cards": 48,
       "sha256": "3bc1731b52436d3ade74aa789dff4d12c2ecae20b5845520ab1c29a8d1fcc97a"
     },
@@ -451,6 +513,7 @@
       "id": "deyvEisxlykMgSTn3xc7",
       "deckType": "kerdes",
       "title": "25. A betegszabadság, a szülési szabadság és a fizetés nélküli szabadság, a (...)",
+      "visibility": "Published",
       "cards": 53,
       "sha256": "190d2a9d996b229f3d68bdcccdfd0a50c46f873f5e0f70088b69c458ff782ffd"
     },
@@ -460,6 +523,7 @@
       "id": "xpEUnrgaZJGzdztppNsf",
       "deckType": "fogalom",
       "title": "25. A betegszabadság, a szülési szabadság és a fizetés nélküli szabadság, a (...)",
+      "visibility": "Published",
       "cards": 27,
       "sha256": "5c5a230c7d15ff11c7eab635bf32cf7ee1b462509e75096bea978764d37ce244"
     },
@@ -469,6 +533,7 @@
       "id": "fMZlkBB3MVGH3xSsm4c1",
       "deckType": "kerdes",
       "title": "26. A munka díjazása, díjazás munkavégzés hiányában, a távolléti díj számítása.",
+      "visibility": "Published",
       "cards": 45,
       "sha256": "f08c58fa9cca99d125f4a3b2e0c61dff6a04dd51d1a648e5240d44b814676cc3"
     },
@@ -478,6 +543,7 @@
       "id": "wHpRVLDXETj4ymNRE60x",
       "deckType": "fogalom",
       "title": "26. A munka díjazása, díjazás munkavégzés hiányában, a távolléti díj számítása.",
+      "visibility": "Published",
       "cards": 23,
       "sha256": "409eef2d7ae5a759ba7c6afe703cb1797e4a624d0092980b8fc3dddba4c231cd"
     },
@@ -487,6 +553,7 @@
       "id": "dHdRKg0KhtzMcex4Y3mi",
       "deckType": "kerdes",
       "title": "27. A munkabér védelme, a munkabérből való levonás szabályai, a jogalap (...)",
+      "visibility": "Published",
       "cards": 53,
       "sha256": "febedbeacda70fc7168f3792395fea4ab8b48cce96558fbd2784637d109f6421"
     },
@@ -496,6 +563,7 @@
       "id": "wwLrpoZ3FPIDfnJaVTvy",
       "deckType": "fogalom",
       "title": "27. A munkabér védelme, a munkabérből való levonás szabályai, a jogalap (...)",
+      "visibility": "Published",
       "cards": 27,
       "sha256": "95700482b4d575d9ed77e42bbb36cfc0ed1612ed258cdaf26c7d5ab661d3d764"
     },
@@ -505,6 +573,7 @@
       "id": "b2tyFsMoxokmECK7lBy8",
       "deckType": "fogalom",
       "title": "28. A munkáltató kártérítési felelőssége.",
+      "visibility": "Published",
       "cards": 23,
       "sha256": "d5ce04421f2329e9f8e8ccbf8553a4d08e155145ca138fb06420d643e5554523"
     },
@@ -514,6 +583,7 @@
       "id": "nBMTrXC7cqT73NbLghrX",
       "deckType": "kerdes",
       "title": "28. A munkáltató kártérítési felelőssége.",
+      "visibility": "Published",
       "cards": 45,
       "sha256": "ef836f8067cc4268502e0776af6aa9784680f069d09f0369b9340a44505b61ea"
     },
@@ -523,6 +593,7 @@
       "id": "BJw6sHKewTC9h1gYde0g",
       "deckType": "kerdes",
       "title": "29. A munkavállaló kártérítési felelőssége, a megőrzési felelősség, a (...)",
+      "visibility": "Published",
       "cards": 39,
       "sha256": "13fe1c460a44f3d407f138f42282d81e25f4755fc0509c7d746b6001ab57172c"
     },
@@ -532,6 +603,7 @@
       "id": "Pt6lNowUY98yJeQ765C1",
       "deckType": "fogalom",
       "title": "29. A munkavállaló kártérítési felelőssége, a megőrzési felelősség, a (...)",
+      "visibility": "Published",
       "cards": 20,
       "sha256": "cd804e5b7c11b2fd70c099661009f4d66159fb8cadbf3c018305b80dfc176102"
     },
@@ -541,6 +613,7 @@
       "id": "p9UK17t1M6yjiDitI6ad",
       "deckType": "kerdes",
       "title": "30. A határozott idejű munkaviszonyra vonatkozó különös szabályok (...)",
+      "visibility": "Published",
       "cards": 36,
       "sha256": "4f6ce309f0c660114c9733fbe3ff15504a23238c4477ad779f50d719b4d43470"
     },
@@ -550,6 +623,7 @@
       "id": "y47QTeXFDhqJDp2M8lp4",
       "deckType": "fogalom",
       "title": "30. A határozott idejű munkaviszonyra vonatkozó különös szabályok (...)",
+      "visibility": "Published",
       "cards": 18,
       "sha256": "4b6c77466aefbe3f99a1c2b09ea1c8ee33cfaf0b700529ddb0ee6c1aa49022aa"
     },
@@ -559,6 +633,7 @@
       "id": "8z2MXELCUgLYJjlhLYAM",
       "deckType": "fogalom",
       "title": "31. A munkakör megosztása, több munkáltató által létesített munkaviszony, a (...)",
+      "visibility": "Published",
       "cards": 16,
       "sha256": "f5514746d17f046c4e54d3708a5d659db7f3c6592ab8794d181824da7a1ddcf2"
     },
@@ -568,6 +643,7 @@
       "id": "teejcEwHVbeAPNYQ1JLH",
       "deckType": "kerdes",
       "title": "31. A munkakör megosztása, több munkáltató által létesített munkaviszony, a (...)",
+      "visibility": "Published",
       "cards": 31,
       "sha256": "74e13032562e11960ec8847a16908187e954d742ace69f5df9442b0cddde1b04"
     },
@@ -577,6 +653,7 @@
       "id": "6um3UkeUyuyFrP2aruo5",
       "deckType": "fogalom",
       "title": "32. A bedolgozói jogviszony és az egyszerűsített foglalkoztatásra vagy (...)",
+      "visibility": "Published",
       "cards": 19,
       "sha256": "218af0191d5d87ffe76952dc71244f36d035d293979b16f8c7b2142df2aef98e"
     },
@@ -586,8 +663,29 @@
       "id": "F8DjHd5wmMLy5Dj0i0E1",
       "deckType": "kerdes",
       "title": "32. A bedolgozói jogviszony és az egyszerűsített foglalkoztatásra vagy (...)",
+      "visibility": "Published",
       "cards": 38,
       "sha256": "23fa950ae4bc3e27f372992eeb54ffba27167b1e9ec7211508b0420b79ae35ed"
+    },
+    {
+      "file": "tanulokartyak/33/fogalom_RKjH15td3BgwTBsS226D.json",
+      "sorszam": 33,
+      "id": "RKjH15td3BgwTBsS226D",
+      "deckType": "fogalom",
+      "title": "33. A köztulajdonban álló munkáltatóval fennálló munkaviszonyra vonatkozó (...)",
+      "visibility": "Draft",
+      "cards": 34,
+      "sha256": "caee565dc0a6bfa1a1fc78e5adc9cacad4bee26acb291cf56d3158e84b293ada"
+    },
+    {
+      "file": "tanulokartyak/33/kerdes_TcsEXLdfDPQu4BtsNTWN.json",
+      "sorszam": 33,
+      "id": "TcsEXLdfDPQu4BtsNTWN",
+      "deckType": "kerdes",
+      "title": "33. A köztulajdonban álló munkáltatóval fennálló munkaviszonyra vonatkozó (...)",
+      "visibility": "Draft",
+      "cards": 67,
+      "sha256": "0841d6ffa444409fdce315922de77aab438c04c53fc9996d8a891a4220a88db0"
     },
     {
       "file": "tanulokartyak/34/kerdes_7G0KCZr8HqgPeHCYYzMy.json",
@@ -595,6 +693,7 @@
       "id": "7G0KCZr8HqgPeHCYYzMy",
       "deckType": "kerdes",
       "title": "34. A vezető állású munkavállalóra vonatkozó rendelkezések.",
+      "visibility": "Published",
       "cards": 29,
       "sha256": "af6aaf1ab31cc4b7becafae82de68890c154aee0784731035b3caa2a3abb3482"
     },
@@ -604,8 +703,29 @@
       "id": "Du3LfMUTqT5zMdEg5Vqd",
       "deckType": "fogalom",
       "title": "34. A vezető állású munkavállalóra vonatkozó rendelkezések.",
+      "visibility": "Published",
       "cards": 14,
       "sha256": "f67b68f1ab3b51bdb929203396ded0104489905bb8ae0363c6f380d5bc649027"
+    },
+    {
+      "file": "tanulokartyak/35/kerdes_q2tfLNjQ9iQaQy20reW0.json",
+      "sorszam": 35,
+      "id": "q2tfLNjQ9iQaQy20reW0",
+      "deckType": "kerdes",
+      "title": "35. A munkaerő-kölcsönzésre vonatkozó legfontosabb rendelkezések.",
+      "visibility": "Draft",
+      "cards": 237,
+      "sha256": "3499a34a8e8bf2c48e5de42c1647dcdf8d94e1c674e168fd65a934608def6991"
+    },
+    {
+      "file": "tanulokartyak/35/fogalom_QIMJKwQ27LudPYpWM80n.json",
+      "sorszam": 35,
+      "id": "QIMJKwQ27LudPYpWM80n",
+      "deckType": "fogalom",
+      "title": "35. A munkaerő-kölcsönzésre vonatkozó legfontosabb rendelkezések.",
+      "visibility": "Draft",
+      "cards": 119,
+      "sha256": "45363e3bcab467d23c9f992bcc5e7ccec772adea39f1c3590c7e6527d6d72b6d"
     },
     {
       "file": "tanulokartyak/36/fogalom_nF9SgqdsEHl8gXVO6fKk.json",
@@ -613,6 +733,7 @@
       "id": "nF9SgqdsEHl8gXVO6fKk",
       "deckType": "fogalom",
       "title": "36. A munkaviszonyhoz kapcsolódó egyes megállapodások: a versenytilalmi (...)",
+      "visibility": "Published",
       "cards": 23,
       "sha256": "ae375d4dba950c046b5a6268ab54d679d8d8fbba0f19c0d8105a366239dcc8b1"
     },
@@ -622,6 +743,7 @@
       "id": "Zj0kSKpfJX7vyOXa1Pok",
       "deckType": "kerdes",
       "title": "36. A munkaviszonyhoz kapcsolódó egyes megállapodások: a versenytilalmi (...)",
+      "visibility": "Published",
       "cards": 45,
       "sha256": "a6b1008fb738f97c32a3b7c0c768f963cbbdda159c0261196ea50f2404555129"
     },
@@ -631,6 +753,7 @@
       "id": "h95VDnOTy25c3RsIEZ0o",
       "deckType": "kerdes",
       "title": "37. A kollektív szerződés megkötése és tartalma, hatálya, megszűnése.",
+      "visibility": "Published",
       "cards": 37,
       "sha256": "595935276e60a059671c3a0140adab4c7243b1f290e3f80fe403e2908dbb76ec"
     },
@@ -640,6 +763,7 @@
       "id": "uM4IHN6sdRrv9gR9apL0",
       "deckType": "fogalom",
       "title": "37. A kollektív szerződés megkötése és tartalma, hatálya, megszűnése.",
+      "visibility": "Published",
       "cards": 18,
       "sha256": "4158769b9f21ef36ed3327d01cde5de38b82adcb2f5adf902136bce4563f3243"
     },
@@ -649,6 +773,7 @@
       "id": "8hLtNAHDySyE9cYVxKXA",
       "deckType": "kerdes",
       "title": "38. A munkajogi igény érvényesítésének szabályai.",
+      "visibility": "Published",
       "cards": 53,
       "sha256": "9326e632e08bf704754c818204e493e7d0d95f1105cb61ebafd930f7533548b2"
     },
@@ -658,6 +783,7 @@
       "id": "FB1bMA1W1JKOUxWfqF2f",
       "deckType": "fogalom",
       "title": "38. A munkajogi igény érvényesítésének szabályai.",
+      "visibility": "Published",
       "cards": 27,
       "sha256": "d3b0575bb49c4832973820d3691af46a33438565c767e5606c8b0670d77a6570"
     },
@@ -667,6 +793,7 @@
       "id": "IXWHU8UqJkQvTIcVeAgj",
       "deckType": "kerdes",
       "title": "39. Kollektív munkaügyi vita.",
+      "visibility": "Published",
       "cards": 45,
       "sha256": "48835673c253e16942020b9746f7c7b4aba9bd88a5aeecbc0d668682867b8db7"
     },
@@ -676,6 +803,7 @@
       "id": "kGEz3DGPyjglv56scEM6",
       "deckType": "fogalom",
       "title": "39. Kollektív munkaügyi vita.",
+      "visibility": "Published",
       "cards": 23,
       "sha256": "fe7cded0fd944d489472e9e14d2c439a84a5f9e8100133011446a28cae3887a3"
     },
@@ -685,6 +813,7 @@
       "id": "UqnavHxPyhOdWALeKqum",
       "deckType": "kerdes",
       "title": "40. A sztrájkhoz való jog a sztrájkról szóló 1989. évi VII. törvény (...)",
+      "visibility": "Published",
       "cards": 38,
       "sha256": "396c226250d59dfee742cd1fe363c85c97f72539fc099c6bc9d96f51dd326619"
     },
@@ -694,6 +823,7 @@
       "id": "xVdzy51vMbxU15qzR79D",
       "deckType": "fogalom",
       "title": "40. A sztrájkhoz való jog a sztrájkról szóló 1989. évi VII. törvény (...)",
+      "visibility": "Published",
       "cards": 19,
       "sha256": "90b098d43054f1a32babbb7c2d5c470db5be8f99db401cb1fec8a24039e08adb"
     },
@@ -703,6 +833,7 @@
       "id": "HOawYErNZC1gsKVpV8V1",
       "deckType": "fogalom",
       "title": "41. A rendezett munkaügyi kapcsolatok követelménye",
+      "visibility": "Published",
       "cards": 16,
       "sha256": "05d6092542ba8f2d9dfde9731be8c25e869d547283815e91469d2e380fafe7a4"
     },
@@ -712,8 +843,29 @@
       "id": "IGTVTXjpqyIXBlJHyaSx",
       "deckType": "kerdes",
       "title": "41. A rendezett munkaügyi kapcsolatok követelménye",
+      "visibility": "Published",
       "cards": 33,
       "sha256": "d8208890a385b348fac0d373a7dde5181958fa5d19e10dbc1fe82f2ead7e1f6c"
+    },
+    {
+      "file": "tanulokartyak/42/fogalom_kVtrT8TKupgQWrTEggFe.json",
+      "sorszam": 42,
+      "id": "kVtrT8TKupgQWrTEggFe",
+      "deckType": "fogalom",
+      "title": "42. A Kit. hatálya, a központosított álláshelyállomány és az álláshely fogalma.",
+      "visibility": "Draft",
+      "cards": 55,
+      "sha256": "b4cb837338fc5147fbb910d449dbe59c18492fefd6bfff00b03b7f9f7f06fffa"
+    },
+    {
+      "file": "tanulokartyak/42/kerdes_oGlHZ1xgxXCLexfgYFhy.json",
+      "sorszam": 42,
+      "id": "oGlHZ1xgxXCLexfgYFhy",
+      "deckType": "kerdes",
+      "title": "42. A Kit. hatálya, a központosított álláshelyállomány és az álláshely fogalma.",
+      "visibility": "Draft",
+      "cards": 110,
+      "sha256": "5f0315a28ae10b8f21d8f434424fe5ab82e02bbb7e5a8b7c85016f089c1c37da"
     },
     {
       "file": "tanulokartyak/43/kerdes_5qoPapROwIUEZThifQDQ.json",
@@ -721,6 +873,7 @@
       "id": "5qoPapROwIUEZThifQDQ",
       "deckType": "kerdes",
       "title": "43. A Kit. szerinti kormányzati szolgálati jogviszony és annak alanyai (...)",
+      "visibility": "Published",
       "cards": 45,
       "sha256": "f4e5c65927b3431e6abd130a536b79538b219e7a2ed8cc848fc8481aa3403ecb"
     },
@@ -730,6 +883,7 @@
       "id": "tUbTV8LzhQqwhH1uojVR",
       "deckType": "fogalom",
       "title": "43. A Kit. szerinti kormányzati szolgálati jogviszony és annak alanyai (...)",
+      "visibility": "Published",
       "cards": 23,
       "sha256": "cf9b59ce0696d4207fd408977e023289a608e4d8884718b440b0a11b048c88d3"
     },
@@ -739,6 +893,7 @@
       "id": "VJaSd4se6QzXuSNHgMun",
       "deckType": "fogalom",
       "title": "44. A Kit. szerinti kormányzati szolgálati jogviszony megszűnésére és (...)",
+      "visibility": "Published",
       "cards": 21,
       "sha256": "e4f6e7e76f2cecabf1984a4efaef7d223a98cd6c6c821b5bfa728fa80124342a"
     },
@@ -748,6 +903,7 @@
       "id": "y756In1kpmFMvCX2ENP4",
       "deckType": "kerdes",
       "title": "44. A Kit. szerinti kormányzati szolgálati jogviszony megszűnésére és (...)",
+      "visibility": "Published",
       "cards": 43,
       "sha256": "67ccce1fe64f53c411f62f1595f5cefacf4acfddac71273cb01414a4063432d0"
     },
@@ -757,6 +913,7 @@
       "id": "Y6g8g3RLhkuf2PVSE3Qu",
       "deckType": "fogalom",
       "title": "45. A kormányzati szolgálati jogviszony tartalma, jogok és kötelezettségek.",
+      "visibility": "Published",
       "cards": 23,
       "sha256": "3d60e264e093c42eb3108eef3213806a5cad0baf83a92974048ebc1edf92c9ab"
     },
@@ -766,6 +923,7 @@
       "id": "znpOKM2v1zs6dCtWfzJx",
       "deckType": "kerdes",
       "title": "45. A kormányzati szolgálati jogviszony tartalma, jogok és kötelezettségek.",
+      "visibility": "Published",
       "cards": 45,
       "sha256": "ee38b5bf9665498a05fed14e08edf93d4a3a8cfe0603d61080a8a06cc782da01"
     },
@@ -775,6 +933,7 @@
       "id": "dJBHcsOJprXY6NbSbxNW",
       "deckType": "fogalom",
       "title": "46. A Magyar Kormánytisztviselői Kar jogköre és az érdekegyeztetés",
+      "visibility": "Published",
       "cards": 23,
       "sha256": "5886e65964c897024903475bc25e58861b2e9eaeac1144c92cd523be50916fc6"
     },
@@ -784,8 +943,29 @@
       "id": "t8GXkiMmUep1r3zHGrLy",
       "deckType": "kerdes",
       "title": "46. A Magyar Kormánytisztviselői Kar jogköre és az érdekegyeztetés",
+      "visibility": "Published",
       "cards": 45,
       "sha256": "edc39a32732c4f70bcf2b07c4bc3bca3c45895ce55ad5af82c346cd1f406726f"
+    },
+    {
+      "file": "tanulokartyak/47/kerdes_eRKZevGYvZWC19eZ71Ls.json",
+      "sorszam": 47,
+      "id": "eRKZevGYvZWC19eZ71Ls",
+      "deckType": "kerdes",
+      "title": "47. A bizalomvesztés, a méltatlanság és a fegyelmi eljárás, a kártérítés (Kttv.)",
+      "visibility": "Draft",
+      "cards": 208,
+      "sha256": "c513e61c707086c3aba8195cc8efcdcb80949713a65d7f0edf50f9408ce73e6a"
+    },
+    {
+      "file": "tanulokartyak/47/fogalom_IWk0POmJtF7qtOtvk0XT.json",
+      "sorszam": 47,
+      "id": "IWk0POmJtF7qtOtvk0XT",
+      "deckType": "fogalom",
+      "title": "47. A bizalomvesztés, a méltatlanság és a fegyelmi eljárás, a kártérítés (Kttv.)",
+      "visibility": "Draft",
+      "cards": 104,
+      "sha256": "8e3893c937fd2f1210f597a673df515b76e69ade00db1b50a91f9725c303c45f"
     },
     {
       "file": "tanulokartyak/48/fogalom_8Fue3V6FYM98P8U7ATlE.json",
@@ -793,6 +973,7 @@
       "id": "8Fue3V6FYM98P8U7ATlE",
       "deckType": "fogalom",
       "title": "48. Az érdemtelenség és a fegyelmi eljárás, a Közszolgálati Döntőbizottság (...)",
+      "visibility": "Published",
       "cards": 27,
       "sha256": "870103a90fdc6807f77a318416d33bb4532ab74a05c687c7aea8fdc1cd661fa3"
     },
@@ -802,6 +983,7 @@
       "id": "OBXO5T160rnPACXXhkN6",
       "deckType": "kerdes",
       "title": "48. Az érdemtelenség és a fegyelmi eljárás, a Közszolgálati Döntőbizottság (...)",
+      "visibility": "Published",
       "cards": 53,
       "sha256": "a8b89904006d66e8732914df09d97fe585bc7812441e4a589f39676da1ae4eef"
     },
@@ -811,6 +993,7 @@
       "id": "Ar9200ENlbfdlWEYcBs5",
       "deckType": "fogalom",
       "title": "49. A Kttv. hatálya. a Kttv. szerinti kormányzati szolgálati jogviszony (...)",
+      "visibility": "Published",
       "cards": 11,
       "sha256": "f52147ac0b0e75479bc5bb90f852077edc1e6d1729e309bb56886f70266c6979"
     },
@@ -820,6 +1003,7 @@
       "id": "mSrr3rKYbVsdX2kofXrB",
       "deckType": "kerdes",
       "title": "49. A Kttv. hatálya. a Kttv. szerinti kormányzati szolgálati jogviszony (...)",
+      "visibility": "Published",
       "cards": 23,
       "sha256": "cd8bc866deff386d08065b6b6ecd35d808853418b0142f9f5b0be306a6e2460f"
     },
@@ -829,6 +1013,7 @@
       "id": "23zHwJU8rsyRnQLm6Zhy",
       "deckType": "kerdes",
       "title": "50. A közalkalmazotti jogviszonyra vonatkozó szabályok, a közalkalmazotti (...)",
+      "visibility": "Published",
       "cards": 53,
       "sha256": "3b28fce1df76b9bfdf0483225b22cf2fefbc440e56ea374e33e291e6644e75eb"
     },
@@ -838,6 +1023,7 @@
       "id": "52OYWOewawnMk4EQKuc5",
       "deckType": "fogalom",
       "title": "50. A közalkalmazotti jogviszonyra vonatkozó szabályok, a közalkalmazotti (...)",
+      "visibility": "Published",
       "cards": 27,
       "sha256": "f03308a5a8c4e8531598f60eaabe248a653f0e7d31edd2ab6806bd2baa938aac"
     },
@@ -847,6 +1033,7 @@
       "id": "0Wp0WZTKbGO9MqmijGid",
       "deckType": "fogalom",
       "title": "51. A kártérítési felelősségre vonatkozó főbb rendelkezések a (...)",
+      "visibility": "Published",
       "cards": 6,
       "sha256": "19a311c34e4af417e5604a0a320d97e34cf70a8f1827f25e2b5a739c1eeb0693"
     },
@@ -856,8 +1043,49 @@
       "id": "mcOSQZ0HcnDy8ipoWWJm",
       "deckType": "kerdes",
       "title": "51. A kártérítési felelősségre vonatkozó főbb rendelkezések a (...)",
+      "visibility": "Published",
       "cards": 10,
       "sha256": "68ffa23691f1bae63b78ab2749ab8c0baaebc756b61168c1a1fd4106455a6e35"
+    },
+    {
+      "file": "tanulokartyak/52/fogalom_0uuU68mKyQwWgcUElEu7.json",
+      "sorszam": 52,
+      "id": "0uuU68mKyQwWgcUElEu7",
+      "deckType": "fogalom",
+      "title": "52. A közszolgálati jog fogalma, annak a magánmunkajogtól való (...)",
+      "visibility": "Draft",
+      "cards": 31,
+      "sha256": "7a45df508ff1767c31b72571355e201218c78af03c474c7c033858be2fc5f812"
+    },
+    {
+      "file": "tanulokartyak/52/kerdes_besgiwINpdoAaZHHyqen.json",
+      "sorszam": 52,
+      "id": "besgiwINpdoAaZHHyqen",
+      "deckType": "kerdes",
+      "title": "52. A közszolgálati jog fogalma, annak a magánmunkajogtól való (...)",
+      "visibility": "Draft",
+      "cards": 61,
+      "sha256": "52a42194f03c33d675ba8f25c95c03730e1f410d141434059a99b653d0c4da0e"
+    },
+    {
+      "file": "tanulokartyak/53/kerdes_kotnuJrwSmK6nG9RxFGh.json",
+      "sorszam": 53,
+      "id": "kotnuJrwSmK6nG9RxFGh",
+      "deckType": "kerdes",
+      "title": "53. A törvény célja, alapelvek, fontosabb fogalmak és értelmező rendelkezések.",
+      "visibility": "Draft",
+      "cards": 79,
+      "sha256": "2c827471282c51e43f0e835e79ff4b4a8ad00a7069142cb5736fbf1da027ec94"
+    },
+    {
+      "file": "tanulokartyak/53/fogalom_v7fUBH0tOMXt0AXr3eki.json",
+      "sorszam": 53,
+      "id": "v7fUBH0tOMXt0AXr3eki",
+      "deckType": "fogalom",
+      "title": "53. A törvény célja, alapelvek, fontosabb fogalmak és értelmező rendelkezések.",
+      "visibility": "Draft",
+      "cards": 39,
+      "sha256": "3137f233a68a23234fd9221f6935f1e1e00de6c26ded19e6021e4be98c8c7ddd"
     },
     {
       "file": "tanulokartyak/54/fogalom_ubXykErD8tyjlmf0R8Vi.json",
@@ -865,6 +1093,7 @@
       "id": "ubXykErD8tyjlmf0R8Vi",
       "deckType": "fogalom",
       "title": "54. A társadalombiztosítás ellátásai és az ellátásra jogosultak.",
+      "visibility": "Published",
       "cards": 27,
       "sha256": "f7ed5581c59a58183b4db537b17aa40f00e55582cba5f77804344162329b92af"
     },
@@ -874,6 +1103,7 @@
       "id": "Vq9oSmckz40TJ5nPKa1z",
       "deckType": "kerdes",
       "title": "54. A társadalombiztosítás ellátásai és az ellátásra jogosultak.",
+      "visibility": "Published",
       "cards": 53,
       "sha256": "40b24a7b3663a0e7eeabb37e7cd55654246df62eeaa59e03d6b56279a283c0fb"
     },
@@ -883,6 +1113,7 @@
       "id": "5oqCeSsgU6CQYiwSXu64",
       "deckType": "fogalom",
       "title": "55. A járulékfizetésre vonatkozó általános szabályok, megállapodás (...)",
+      "visibility": "Published",
       "cards": 27,
       "sha256": "e51e5e7193b1f001af3222cb8c764a59340c149e6532a6bce7844e857e5883cd"
     },
@@ -892,6 +1123,7 @@
       "id": "AuIi9l8C81FPZM7NgjBU",
       "deckType": "kerdes",
       "title": "55. A járulékfizetésre vonatkozó általános szabályok, megállapodás (...)",
+      "visibility": "Published",
       "cards": 53,
       "sha256": "2c7a406913667c8d0f3ca97385f60d5cab34e04b27b0fc2330880e789e9ebf46"
     },
@@ -901,6 +1133,7 @@
       "id": "Wav0BMf4rsmcufmtmDDS",
       "deckType": "fogalom",
       "title": "56. Késedelem, mulasztás következményei, valamint az ellátásokhoz (...)",
+      "visibility": "Published",
       "cards": 19,
       "sha256": "0cc0a373499b079c3db15f0a0b0e6851d3b7df63cf37775e6f97065c1abe8967"
     },
@@ -910,6 +1143,7 @@
       "id": "Xk41IVE21FbLkAV41RpZ",
       "deckType": "kerdes",
       "title": "56. Késedelem, mulasztás következményei, valamint az ellátásokhoz (...)",
+      "visibility": "Published",
       "cards": 38,
       "sha256": "78fd98528a10842fda393b116c8a13a6240c2e85ba6a31e04c3f96ed41aaa8b3"
     }
