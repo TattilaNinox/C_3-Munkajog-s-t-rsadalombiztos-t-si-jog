@@ -1,0 +1,1251 @@
+{
+  "id": "WXgiFwehHv3OvGJaKTaU",
+  "sorszam": 50,
+  "cim": "A közalkalmazotti jogviszonyra vonatkozó szabályok, a közalkalmazotti (...)",
+  "generationType": "kerdes",
+  "title": "50. A közalkalmazotti jogviszonyra vonatkozó szabályok, a közalkalmazotti (...)",
+  "questions": [
+    {
+      "question": "Eset: Klára 2024. március 1-jétől közfoglalkoztatási szerződés alapján dolgozik a városi könyvtárban (helyi önkormányzati költségvetési szerv). A HR 2024. május 15-én külön kinevezés nélkül „közalkalmazotti állományba” sorolja, mert „már költségvetési szervnél közszolgáltatást lát el”. Ugyanitt Jánost 2024. június 1-jén egyszerűsített foglalkoztatással veszik fel nyári katalogizálásra, és őt is a Kjt. hatálya alá írják. Mely megállapítások helyesek?",
+      "options": [
+        {
+          "text": "János egyszerűsített foglalkoztatása szintén a Kjt. 1. § (4) bekezdés kivétele alá esik; a Kjt. nyilvántartásba vétel önmagában nem létesít közalkalmazotti jogviszonyt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 1. § (4) bekezdése az egyszerűsített foglalkoztatásról szóló külön törvény alapján foglalkoztatott munkavállalót is kivonja a hatály alól. A hatály alá sorolás adminisztratív jelölése nem pótolja a 21. § szerinti kinevezést és elfogadást. János ezért a katalogizálás idején sem közalkalmazott."
+        },
+        {
+          "text": "János egyszerűsített foglalkoztatását a Kit. méltatlansági szabályai közalkalmazotti kinevezéssé alakítják át, mert költségvetési szervnél dolgozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. méltatlansági rendje nem képez létesítő jogcímet a Kjt. hatályán kívül. A helyes elhatárolás a Kjt. 1. § (4) bekezdése: az egyszerűsített foglalkoztatás kivétel. Sem a Kit., sem a mögöttes Mt. nem alakítja át János jogviszonyát kinevezéssé."
+        },
+        {
+          "text": "Ha a foglalkoztató helyi önkormányzati költségvetési szerv, a közfoglalkoztatott automatikusan közalkalmazottá válik, mert a Kjt. 1. § (1) bekezdése a szervtípushoz köti a hatályt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szervtípus nem írja felül a hatálykivételt. A Kjt. 1. § (4) bekezdése a közfoglalkoztatottat az (1) bekezdés alól kiveszi. Az (1) bekezdés kivétel nélküli olvasata ezért Klára esetében is téves."
+        },
+        {
+          "text": "Klára közfoglalkoztatási jogcíme miatt a Kjt. 1. § (4) bekezdése szerint nem tartozik a törvény hatálya alá, hiába lát el közszolgáltatást költségvetési szervnél.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 1. § (4) bekezdése a közfoglalkoztatás keretében foglalkoztatottat kifejezetten kiveszi az (1) bekezdés hatálya alól. A szervtípus és a közszolgáltatási feladat önmagában nem írja felül ezt a kivételt. Klára tehát 2024. május 15-én sem válik közalkalmazottá puszta „állománybavétellel”."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "37a95b3d30ce"
+    },
+    {
+      "question": "Eset: egy 56 éves, hivatásos szolgálati viszonyban álló tisztet az 1. § (1) bekezdése szerinti költségvetési szervhez vezényelnek; a szerv vezetője elutasítja a fogadást, mert „nincs betölthető, a képesítésének megfelelő munkakör, és vezényléssel nem létesíthető kinevezés”. Mely állítások igazak?",
+      "options": [
+        {
+          "text": "Ha a vezényelt az 55. életévét betöltötte és az alkalmazási feltételeknek megfelel, a költségvetési szerv köteles fogadni őt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 1. § (7) bekezdése az ötvenötödik életévét betöltött, hivatásos vagy szerződéses szolgálati viszonyban álló tiszti vagy altiszti honvéd vezénylésénél fogadási kötelezettséget ír elő, ha az alkalmazási feltételeknek megfelel. A fogadás nem a szerv szabad mérlegelésétől függ ebben a körben. Ha nincs a képesítésnek megfelelő betölthető munkakör, a szervnek képzést kell biztosítania."
+        },
+        {
+          "text": "Ha a szerv nem rendelkezik a vezényelt képesítésének megfelelő betölthető munkakörrel, gondoskodnia kell a munkakör betöltéséhez szükséges képzésről, és a képzés elvégzéséig a vezető határozza meg a feladatokat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 1. § (7) bekezdése a képesítés hiányát képzési kötelezettséggel oldja fel. A képzés elvégzéséig a költségvetési szerv vezetője határozza meg a vezényelt által ellátandó feladatokat. A fogadási kötelezettség tehát nem szűnik meg pusztán a munkakör-azonosság hiányában."
+        },
+        {
+          "text": "Betölthető, képesítésnek megfelelő munkakör hiányában a fogadási kötelezettség megszűnik, mert a szervnek nincs jogszerűen ellátható feladat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a betölthető, képesítésnek megfelelő munkakör hiánya nem oldja fel a fogadást. A helyes: a Kjt. 1. § (7) bekezdése szerint a szervnek képzést kell biztosítania, és a képzésig a vezető jelöli ki a feladatokat. A fogadás feltételeinek munkakör-azonosságra szűkítése ezért téves."
+        },
+        {
+          "text": "A vezénylés a Kjt. 21. § szerinti kinevezéssel azonos létesítési forma, ezért a szerv a kinevezés elfogadásának hiányában jogszerűen elutasíthatja a fogadást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a honvéd vezénylése nem kinevezés, ezért a fogadás nem a 21. § szerinti elfogadástól függ. A helyes: a Kjt. 1. § (7) bekezdése fogadási kötelezettséget állít az alkalmazási feltételeknek megfelelő vezényelt iránt. A 21. § ezzel szemben a közalkalmazotti jogviszony írásbeli kinevezéssel és elfogadással való létrejöttét rendezi."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "7924030cffbb"
+    },
+    {
+      "question": "Eset: a munkáltató a kinevezési okmányban csak a munkakört és az illetményt rögzíti, a fizetési osztályt és fokozatot, valamint a munkavégzés helyét szóban közli; a határozott időt „próba jelleggel, egy évre” adja meg, anélkül hogy helyettesítésről vagy meghatározott feladatról szólna. Mely következmények helytállóak?",
+      "options": [
+        {
+          "text": "A felek az Mt. 50. § szerinti munkaszerződés-tartalommal is létrehozhatják a közalkalmazotti jogviszonyt, ha a kinevezési okmány hiányos.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közalkalmazotti jogviszony a Kjt. 21. § (1) bekezdése szerint kinevezéssel és elfogadással jön létre, írásban. A helyes: a 24. § (2) bekezdése az Mt. 50. §-át nem alkalmazhatóvá teszi, ezért a munkaszerződéses tartalom nem pótolja a kinevezést. A kinevezés és a munkaszerződés összemosása tipikus hiba."
+        },
+        {
+          "text": "A kinevezési okmánynak tartalmaznia kell a munkakört, a besorolás alapjául szolgáló fizetési osztályt és fokozatot, az illetményt és a munkavégzés helyét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 21. § (3) bekezdése kötelezően előírja a munkakört, a fizetési osztályt és fokozatot, az illetményt és a munkavégzés helyét a kinevezési okmányban. A szóban közölt besorolás vagy hely nem pótolja az írásbeli okmányt. A tárgyévi illetményplafon a megelőző évi nemzetgazdasági havi átlagos bruttó kereset tízszerese."
+        },
+        {
+          "text": "Ha a határozott időre történő kinevezés nem felel meg a helyettesítés vagy a meghatározott munka, illetve feladat ellátása címének, a jogviszonyt határozatlan idejűnek kell tekinteni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 21. § (2) bekezdése — törvény eltérő rendelkezése hiányában — csak helyettesítésre vagy meghatározott munka, illetve feladat ellátására engedi a határozott kinevezést. Az (5) bekezdés szerint, ha a határozott kinevezés nem felel meg a (2) bekezdésnek, a jogviszony határozatlan idejűnek minősül. A „próba jellegű egy év” önmagában nem érvényes határozott jogcím."
+        },
+        {
+          "text": "A hiányos okmány ellenére a határozott idő érvényes marad, mert a felek egyéves tartamban megállapodtak, és a Kjt. a határozott kinevezést szabadon engedi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határozott kinevezés nem szabad megállapodás. A helyes szabály a Kjt. 21. § (2) és (5) bekezdése: csak a nevesített címeken lehet határozott időre kinevezni, ellenkező esetben a jogviszony határozatlan. Az Mt. szabadabb határozott idejű rendjének ráolvasása ezért téves."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "9ef13b728412"
+    },
+    {
+      "question": "Eset: Éva E-fizetési osztályba, a munkáltató alaptevékenységéhez tartozó határozatlan kinevezést kap; a munkakörhöz szükséges szakmai gyakorlata másfél év. A gyakornoki idő végén „nem megfelelt” minősítést kap, amelyet a 40. § szerint ismertetnek vele. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A „nem megfelelt” minősítés a törvény erejénél fogva megszünteti a közalkalmazotti jogviszonyt a minősítés eredményének ismertetését követő tizedik napon.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 22. § (16) bekezdése szerint a jogviszony a törvény erejénél fogva megszűnik „nem megfelelt” minősítésnél. A megszűnés napja a 40. § (5) bekezdése szerinti ismertetést követő tizedik nap. A (15) bekezdés szerint harminc százalék alatt „nem megfelelt”, harminctól száz százalékig „megfelelt” eredmény adható."
+        },
+        {
+          "text": "Az E fizetési osztályban a gyakornoki idő főszabály szerint két év, de ha a közalkalmazott egy évet meghaladó szakmai gyakorlattal rendelkezik, a tartam egy év.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 22. § (5) bekezdése az E-fizetési osztályba tartozó munkakörben két évet, az F–H osztályban és a tudományos kutatói munkakörben három évet ír elő. Ha az E-fizetési osztályba tartozó munkakörben egy évet meghaladó a szakmai gyakorlat, a gyakornoki idő egy év. Éva másfél éves gyakorlata ezért egyéves tartamot indokol, ha az (1) bekezdés szerinti kötelező kikötés fennáll."
+        },
+        {
+          "text": "A „nem megfelelt” eredmény csak rendes felmentést alapoz meg a 30. § (1) bekezdés c) pontja szerint, harminc napos felmentési idővel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a gyakornoki „nem megfelelt” minősítés nem a 30. § szerinti felmentés. A helyes: a Kjt. 22. § (16) bekezdése a törvény erejénél fogva, az ismertetést követő tizedik napon szünteti meg a jogviszonyt. A megszűnés és a felmentéses megszüntetés összecserélése ezért téves."
+        },
+        {
+          "text": "Évánál a gyakornoki idő kikötése mellőzhető, mert másfél év szakmai gyakorlat a három évet meghaladó gyakorlatot pótolja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a három évet meghaladó szakmai gyakorlat az (1) bekezdés szerint mentesít; a másfél év ezt nem éri el. A helyes: a Kjt. 22. § (5) bekezdése a rövidebb, egy évet meghaladó gyakorlatnál az E-fizetési osztályba tartozó munkakörben egyéves gyakornoki időt ír elő, nem a kikötés mellőzését. A mentesítő küszöb és a rövidített tartam összekeverése tipikus hiba."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "f1471e279598"
+    },
+    {
+      "question": "Eset: Gábor határozatlan idejű kinevezésében a munkáltató öt hónapos próbaidőt köt ki, majd a negyedik hónapban egyoldalúan meghosszabbítja további egy hónappal. A második hónapban Gábor azonnali hatállyal, indokolás nélkül megszünteti a jogviszonyt. Milyen tartamban és milyen jogkövetkezménnyel érvényes a próbaidő a Kjt. szerint?",
+      "options": [
+        {
+          "text": "A próbaidő az Mt. 45. § szerint legfeljebb hat hónap, és a munkáltató egyoldalúan meghosszabbíthatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közalkalmazotti próbaidőt a Kjt. 21/A. § rendezi, nem az Mt. 45. §. A helyes mérték három hónap, legfeljebb négy hónap, meghosszabbítás nélkül. Az Mt. munkaszerződéses próbaidő-szabályának ráolvasása a kinevezésre jogviszony-összemosás."
+        },
+        {
+          "text": "Gábor csak indokolt felmondással léphet ki a próbaidő alatt, mert a közalkalmazotti jogviszony stabilitása kizárja az azonnali hatályú megszüntetést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a próbaidő alatt a 21/A. § mindkét félnek azonnali hatályú, indokolás nélküli megszüntetést nyit. A helyes: a felmentési garanciák a 30. § taxációjában jelennek meg, nem a próbaidő alatt. A stabilitás próbaidőre való kiterjesztése ezért téves."
+        },
+        {
+          "text": "A próbaidő a kinevezésben három hónap, legfeljebb négy hónap lehet, és a meghosszabbítása tilos.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 21/A. § szerint a próbaidő a kinevezésben három hónap, legfeljebb négy hónap. Az öt hónapos kikötés és a későbbi meghosszabbítás egyaránt sérti ezt a keretet. A meghosszabbítás tilalma kógens, a felek megállapodása sem oldja fel."
+        },
+        {
+          "text": "A próbaidő tartama alatt bármelyik fél azonnali hatállyal, indokolás nélkül megszüntetheti a közalkalmazotti jogviszonyt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 21/A. § a próbaidő alatt mindkét félnek azonnali hatályú, indokolás nélküli megszüntetést enged. Gábor második hónapos lépése — érvényes próbaidő mellett — ezért e jogcímen áll. Ez nem a 30. § szerinti felmentés, és indokolást nem igényel."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "cfb3c8dab2a3"
+    },
+    {
+      "question": "Eset: Petra közalkalmazott magasabb vezetői megbízást kap a kinevezése szerinti munkakör mellett, hat évre; gyakornoki ideje még tart. A megbízás visszavonásakor indokolást nem kap, mert „vezetői megbízásnál ez nem jár”. Miben tér el a vezetői megbízás a kinevezéstől?",
+      "options": [
+        {
+          "text": "Gyakornoki idő tartama alatt a közalkalmazott nem lehet megbízott vezető; a visszavonást a közalkalmazott kérelmére indokolni kell, és a valóság, valamint az okszerűség bizonyítása a munkáltatót terheli.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 23. § (1) bekezdése kizárja a gyakornoki idő alatti megbízott vezetői státuszt. Az (5) bekezdés szerint a visszavonást — kérelemre — indokolni kell, és vita esetén a munkáltató bizonyítja a valóságot és az okszerűséget. A „nem jár indokolás” állítás ezért téves."
+        },
+        {
+          "text": "A vezetői megbízás új közalkalmazotti kinevezést létesít, ezért a visszavonás a 30. § szerinti felmentés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kjt. 23. § (1) bekezdése szerint a megbízás a meglévő kinevezés szerinti munkakör mellett áll fenn, nem új kinevezés. A helyes: a visszavonás a megbízást érinti, a (6) bekezdés szerint utána a kinevezés szerinti munkakörben kell továbbfoglalkoztatni. A vezetői pótlék elvesztése nem azonos a közalkalmazotti jogviszony 30. § szerinti felmentésével."
+        },
+        {
+          "text": "A visszavonás indokolása mindig mellőzhető, mert a vezetői pótlék elvesztése nem érinti a közalkalmazotti jogviszonyt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 23. § (5) bekezdése a közalkalmazott kérelmére kötelezővé teszi az indokolást, és a bizonyítási terhet a munkáltatóra telepíti. A helyes: a jogviszony a kinevezett munkakörben fennmaradhat, de a visszavonás jogszerűsége ettől függetlenül vizsgálható. A fennmaradásból következtetett indokolásmentesség ezért téves."
+        },
+        {
+          "text": "A magasabb vezetői, illetve vezetői feladat ellátása megbízással történik, a kinevezés szerinti munkakör mellett, írásban, legfeljebb öt évig terjedő határozott időre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 23. § (1) és (3) bekezdése a vezetői feladatot megbízáshoz köti, a kinevezés szerinti munkakör mellett. A megbízás jogszabályban megjelölt, legfeljebb öt évig terjedő határozott időre szól. A hatéves kikötés ezért túllépi a törvényi maximumot."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "0d57061519b3"
+    },
+    {
+      "question": "Eset: Márton, a megyei kórház igazgatója, 2025. szeptember 1-jén az intenzív osztály nővérhiányát munkaerő-kölcsönzéssel akarja pótolni, mert „sürgős a létszámhiány”; iskolaszövetkezeti hallgatót is beosztana az alapápolásra. A HR jegyzőkönyve szerint átcsoportosítással és túlórával a személyi feltétel még biztosítható. Mikor tilos, illetve mikor engedhető ez a foglalkoztatás?",
+      "options": [
+        {
+          "text": "Az intenzív osztály alapápolása a munkáltató alaptevékenységébe tartozik, ezért munkaerő-kölcsönzéssel vagy iskolaszövetkezeti tagsággal főszabály szerint nem tölthető be a Kjt. 3. § (3) bekezdése szerint.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 3. § (3) bekezdése az alaptevékenység körében tiltja a kölcsönzött és az iskolaszövetkezeti foglalkoztatást. Az ápolói alapfeladat ezért nem szabadon kölcsönözhető. Márton „sürgős létszámhiány” indoka önmagában nem nyitja meg a tilalmat."
+        },
+        {
+          "text": "Iskolaszövetkezeti hallgató az alapápolásban szabadon foglalkoztatható, a tilalom csak a munkaerő-kölcsönzésre vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 3. § (3) bekezdése a munkaerő-kölcsönzést és az iskolaszövetkezeti tagságot együtt említi. Mindkét forma tilos az alaptevékenységben, kivéve a konjunktív sürgősségi feltételeket. A hallgató beosztása tehát nem menekül a tilalom alól."
+        },
+        {
+          "text": "Az Mt. kölcsönzési szabályai a közalkalmazotti jogviszonyban korlátozás nélkül alkalmazhatók, mert a Kjt. 2. § (3) bekezdése az Mt.-t mögöttesként rendeli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 2. § (3) bekezdése az Mt.-t csak az e törvényben foglalt eltérésekkel rendeli. A Kjt. 3. § (3) bekezdése az alaptevékenységi kölcsönzést kifejezetten korlátozza. A mögöttes Mt. ezért nem oldja fel Márton tilalmát."
+        },
+        {
+          "text": "Ha az átcsoportosítás és a túlóra még rendelkezésre áll, a 3. § (3) bekezdés kivétele nem nyílik meg, mert a személyi feltétel más munkaszervezési eszközzel biztosítható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 3. § (3) bekezdése a kivételt két konjunktív feltételhez köti: a munkakör haladéktalan betöltése a folyamatos ellátás biztonságához elengedhetetlen, és a személyi feltételek más munkaszervezési eszközökkel nem biztosíthatók. A HR szerint az átcsoportosítás és a túlóra még rendelkezésre áll, ezért a második feltétel hiányzik. A konjunktív feltételek hiányában a kölcsönzés és az iskolaszövetkezeti beosztás az alapápolásban tilos marad."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "86c2b7684c35"
+    },
+    {
+      "question": "Eset: két Kjt. hatálya alá tartozó munkáltató és Anna „áthelyezésben” állapodik meg, de csak az új munkakört rögzítik; az illetményt és az időpontot későbbre hagyják. A fogadó munkáltató azt állítja, hogy az áthelyezés egyoldalú utasítás. Mely megállapítások helytállóak?",
+      "options": [
+        {
+          "text": "Meg kell állapodni az új munkakörben, a munkahelyben, az illetményben és az áthelyezés időpontjában; az áthelyezést megelőző közalkalmazotti időt úgy kell tekinteni, mintha az új munkáltatónál töltötték volna.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 26. § (2) bekezdése az új munkakört, a munkahelyet, az illetményt és az áthelyezés időpontját kötelező megállapodási elemként sorolja. A (3) bekezdés szerint az áthelyezést megelőző közalkalmazotti időt úgy kell tekinteni, mintha az új munkáltatónál töltötték volna. Az illetmény vagy az időpont hiánya hiányos áthelyezés."
+        },
+        {
+          "text": "Az áthelyezés a munkáltató egyoldalú utasítása, mint az Mt. szerinti átirányítás, és a közalkalmazott hozzájárulása mellőzhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 26. § (1) bekezdése a közalkalmazott egyetértését is megköveteli. A helyes: háromoldalú megállapodás kell, nem Mt.-s átirányítás. A magánmunkajogi utasítási jog ráolvasása a Kjt. áthelyezésére ezért téves."
+        },
+        {
+          "text": "Az áthelyezésben a két munkáltatónak egymással és a közalkalmazottal kölcsönösen meg kell állapodnia.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 26. § (1) bekezdése háromoldalú megállapodást követel a két munkáltató és a közalkalmazott között. Az egyoldalú munkáltatói utasítás ezért nem áthelyezés. A 25. § (2) bekezdés b) pontja az áthelyezést megszüntetési jogcímként nevezi, a tartalmi feltételeket a 26. § adja."
+        },
+        {
+          "text": "Elég a munkakörben megállapodni; az illetmény és az időpont a fogadó munkáltató későbbi egyoldalú döntése.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 26. § (2) bekezdése az illetményt és az áthelyezés időpontját is kötelező elemmé teszi. A helyes: mind a négy elemben kölcsönös megállapodás kell. A kötelező tartalom csonkítása tipikus hiba."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "ffdcac9968fc"
+    },
+    {
+      "question": "Eset: Nóra 2025. január 10-én határozatlan idejű közalkalmazotti jogviszonyát lemondással megszünteti, indokolást nem ad. A munkáltató 2025. április 10-ig (három hónap) akarja bent tartani, mert „az Mt. szerinti felmondási idő jár”. Ugyanaznap Pál rendkívüli lemondást jelent be, mert a munkáltató szándékosan, jelentős mértékben elmulasztotta az illetményfizetést. Milyen tartamú a lemondási idő, és miben tér el a rendkívüli lemondástól?",
+      "options": [
+        {
+          "text": "Nóra sima lemondásánál a lemondási idő a Kjt. 28. § (2) bekezdése szerint két hónap, ezért a munkáltató három hónapos „felmondási idő” követelése nem állja meg a helyét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 28. § (1)–(2) bekezdése a határozatlan idejű jogviszony sima lemondását indokolás nélkül, bármikor lehetővé teszi, két hónapos lemondási idővel. Nóra 2025. január 10-i lemondásához tehát két hónap tartozik, nem három. Az Mt. felmondási ideje ide nem ültethető át, mert a közalkalmazotti jogviszony megszüntetése lemondás, nem felmondás."
+        },
+        {
+          "text": "Nórának a lemondást mindig indokolnia kell, mert a közalkalmazotti jogviszony a közalkalmazott oldaláról is csak taxatív okkal szüntethető meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kjt. 28. § (1) bekezdése szerinti sima lemondás indokolás nélkül, bármikor lehetséges. Indokolási kötelezettség a 29. § rendkívüli lemondásánál (és a határozott idejű jogviszony indokolt lemondásánál) áll fenn. A felmentés taxatív okainak ráolvasása Nóra lemondására nem helytálló."
+        },
+        {
+          "text": "Pál rendkívüli lemondása a Kjt. 29. § (1) bekezdése szerint indoklásköteles, és a munkáltató lényeges kötelezettségszegéséhez kötött; ez elválik Nóra 28. § szerinti sima lemondásától.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 29. § (1) bekezdése a rendkívüli lemondást a munkáltató szándékos vagy súlyosan gondatlan, jelentős kötelezettségszegéséhez, illetve a jogviszony fenntartását ellehetetlenítő magatartásához köti. Az indokolásból az oknak világosan ki kell tűnnie; vita esetén a bizonyítás Pált terheli. A 28. § sima lemondása ezzel szemben indokolás nélküli, két hónapos lemondási idővel."
+        },
+        {
+          "text": "A lemondási idő az Mt. szerinti felmondási idővel azonos, ezért legalább harminc nap, és a munkáltató egyoldalúan három hónapra hosszabbíthatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kjt. 28. § (2) bekezdése két hónapos lemondási időt ír elő, nem az Mt. felmondási idejét. A közalkalmazotti lemondás a Kjt. saját jogcíme; a felmondás fogalma ide nem helyettesíthető. A munkáltató egyoldalú három hónapos „felmondási idő” követelése ezért Nóránál jogellenes."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "1daffa95ff74"
+    },
+    {
+      "question": "Eset: a könyvtár létszámcsökkentést hajt végre képviselő-testületi döntés alapján; Cecília közalkalmazottat „Mt. szerinti felmondással” akarják elküldeni, indokolás nélkül. Mi következik a felmentés szabályaiból?",
+      "options": [
+        {
+          "text": "A felmentést indokolni kell; az indokolásból a felmentés okának világosan ki kell tűnnie, és a valóság, valamint az okszerűség bizonyítása a munkáltatót terheli.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 30. § (2) bekezdése kötelező indokolást és munkáltatói bizonyítási terhet ír elő a valóságra és az okszerűségre. Az indokolás nélküli „felmondás” ezért nem felel meg a Kjt.-nek. A 826/B/1996. AB határozat a létszámcsökkentést objektív munkáltatói okként értékelte, nem személyre szóló alkalmassági ítéletként."
+        },
+        {
+          "text": "Létszámcsökkentés vagy átszervezés esetén a munkáltató felmentéssel szüntetheti meg a jogviszonyt, ha emiatt a közalkalmazott további foglalkoztatására nincs lehetőség.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 30. § (1) bekezdés b) pontja a létszámcsökkentést és az átszervezést taxatív felmentési okként nevezi, ha a további foglalkoztatásra nincs lehetőség. A döntésnek az Országgyűlés, a Kormány, a fejezetet irányító szerv, a központi költségvetési szerv vezetője vagy az önkormányzati képviselő-testület döntésén kell alapulnia. Az Mt. szerinti felmondás e helyett nem alkalmazható."
+        },
+        {
+          "text": "Létszámcsökkentésnél az indokolás mellőzhető, mert a képviselő-testületi döntés önmagában pótolja a felmentés indokát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 30. § (2) bekezdése akkor is indokolást követel, ha az ok a b) pont szerinti létszámcsökkentés. A helyes: a képviselő-testületi döntés a felmentés alapja, de az indokolásból az oknak világosan ki kell tűnnie. A döntés és a közalkalmazott felé szóló indokolás összemosása ezért téves."
+        },
+        {
+          "text": "A munkáltató az Mt. 66. § szerinti felmondással, indokolás nélkül is megszüntetheti a közalkalmazotti jogviszonyt létszámcsökkentéskor.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közalkalmazotti jogviszony megszüntetése felmentéssel történik a Kjt. 30. § szerint, nem Mt.-s felmondással. A helyes: a 38. § (1) bekezdése az Mt. 66. § (1)–(3) és (8)–(9) bekezdését a közalkalmazotti jogviszonyra nem alkalmazhatóvá teszi. A létszámcsökkentésnél a 30. § (1) bekezdés b) pontja és a (2) bekezdés szerinti indokolás az irányadó."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "4a1c581918ea"
+    },
+    {
+      "question": "Eset: Dóra határozott idejű kinevezéssel helyettesít; a munkáltató a 30. § (1) bekezdés a) pontjára hivatkozva azonnali hatállyal megszünteti a jogviszonyt. Dóra egyévi távolléti díjat kér. Milyen mértékű térítés jár?",
+      "options": [
+        {
+          "text": "Határozott idejű közalkalmazotti jogviszonynál azonnali hatályú megszüntetéskor mindig az Mt. szerinti végkielégítés jár, távolléti díj nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 27. § (2) bekezdése távolléti díjat rendel előre megfizetni, nem az Mt. végkielégítését. A helyes: a mérték egyévi vagy egyhavi a megszüntetési októl függően. Az Mt. végkielégítésének ráolvasása a Kjt. határozott idejű megszüntetésére ezért téves."
+        },
+        {
+          "text": "Dóra csak akkor kap térítést, ha a határozott idő lejárt, mert azonnali hatályú megszüntetésnél a Kjt. nem biztosít díjazást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, éppen az azonnali hatályú megszüntetéshez fűzi a Kjt. 27. § (2) bekezdése a távolléti díj előre megfizetését. A helyes: a határozott idő lejárata a 25. § (1) bekezdés a) pontja szerinti megszűnés, más jogkövetkezménnyel. A megszűnés és a megszüntetés elválasztása a 25. § (1)–(2) bekezdésének taxációjából következik."
+        },
+        {
+          "text": "Határozott idejű jogviszonynál a munkáltató a 30. § (1) bekezdés a)–d) pontjai alapján azonnali hatállyal megszüntetheti a jogviszonyt, és főszabály szerint egyévi — vagy a hátralévő rövidebb időre jutó — távolléti díjat köteles előre megfizetni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 27. § (2) bekezdése a 30. § (1) bekezdés a)–d) pontjaira alapított azonnali hatályú megszüntetéshez egyévi távolléti díjat rendel, ha a hátralévő idő egy évnél nem rövidebb. Ha rövidebb, a hátralévő időre jutó díj jár. A 25. § (2) bekezdés fb) alpontja ezt az azonnali hatályú megszüntetést nevezi meg."
+        },
+        {
+          "text": "Ha a megszüntetés a 30. § (1) bekezdés c) pontján alapul — nem megfelelő munkavégzés vagy nem egészségügyi okkal összefüggő alkalmatlanság miatt —, csak egyhavi, illetve a hátralévő rövidebb időre jutó távolléti díj jár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 27. § (2) bekezdése a c) pont szerinti, nem egészségügyi alkalmatlanság vagy nem megfelelő munkavégzés esetén egyhavi távolléti díjat ír elő. Ha a hátralévő idő egy hónapnál rövidebb, a hátralévő időre jutó díj jár. A főszabály egyévi mértékétől ez a kivétel eltér."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "d6ffb61b10ba"
+    },
+    {
+      "question": "Eset: Erik tizenkét éve közalkalmazott; felmentik létszámcsökkentés miatt. A HR „harminc nap felmentési időt” közöl, mert „alkalmatlanságnál ennyi jár”, és a felét sem mentesíti. Milyen tartamú a felmentési idő?",
+      "options": [
+        {
+          "text": "Létszámcsökkentésnél a felmentési idő mindig harminc nap, mert a 33. § (1) bekezdése ezt rendeli a 30. § (1) bekezdés b) pontjára.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a harminc napos felmentési idő a 33. § (1) bekezdése szerint a 30. § (1) bekezdés c) pontjára — egészségügyi alkalmatlanság kivételével — vonatkozik, nem a létszámcsökkentésre. A helyes: b) pontnál a hatvan napos alap és a szolgálati idő szerinti hosszabbítás érvényesül. A c) pont kivételének ráolvasása a b) pontra ezért téves."
+        },
+        {
+          "text": "A felmentési idő az Mt. felmondási idejével azonos, ezért a munkáltató egyoldalúan harminc napot is megállapíthat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felmentési időt a Kjt. 33. § rendezi, nem az Mt. felmondási ideje. A helyes: legalább hatvan nap a főszabály, a 30. § (1) bekezdés c) pontjánál — egészségügyi alkalmatlanság kivételével — harminc nap. A szolgálati idő szerinti hosszabbítás a 33. § (2) bekezdése szerint a hatvannapos alapra épül."
+        },
+        {
+          "text": "A munkáltató legalább a felmentési idő felére köteles a közalkalmazottat mentesíteni a munkavégzés alól, és a mentesítés felét a kívánt időben és részletekben kell kiadni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 33. § (3) bekezdése kötelező mentesítést ír elő legalább a felmentési idő felére. A mentesítési idő legalább felét a közalkalmazott kívánságának megfelelő időben és részletekben kell kiadni. A teljes mentesítés elmaradása ezért jogsértő."
+        },
+        {
+          "text": "Felmentés esetén a felmentési idő főszabály szerint legalább hatvan nap, de a nyolc hónapot nem haladhatja meg; tizenkét év után a hatvan nap két hónappal meghosszabbodik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 33. § (1) bekezdése a főszabályt legalább hatvan napban, legfeljebb nyolc hónapban rögzíti. A (2) bekezdés szerint tíz év után két hónappal hosszabbodik a hatvannapos alap. Erik tizenkét éve ezért legalább négy hónapos felmentési időt indokol, ha a felek vagy a kollektív szerződés nem hosszabbít."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "46b15ced758e"
+    },
+    {
+      "question": "Eset: Ferenc nyolc éve közalkalmazott; 2025. június 1-jén átszervezés miatt felmentik. A HR azt állítja, hogy végkielégítés helyett csak felmentési idő jár. Ugyanakkor a nyugdíjasnak minősülő Ilona szintén átszervezéses felmentést kap, és három havi távolléti díjnak megfelelő végkielégítést kér. Ki jogosult, és milyen mértékben?",
+      "options": [
+        {
+          "text": "Ilona a Kjt. 37. § (2) bekezdés a) pontja szerint nem jogosult végkielégítésre, ha a jogviszony megszűnésekor nyugdíjasnak minősül; az átszervezéses felmentés sem oldja fel ezt a kizárást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 37. § (2) bekezdés a) pontja kizárja a végkielégítést, ha a közalkalmazott legkésőbb a jogviszony megszűnésekor nyugdíjasnak minősül. Ilona három havi igénye ezért a nyugdíjas státusz miatt elesik. A tisztes végelbánás funkciója nála a nyugellátásra tekintettel nem indokolja ugyanezt a mértéket."
+        },
+        {
+          "text": "Ferenc végkielégítésének mértéke a Kjt. 37. § (6) bekezdés c) pontja szerint három havi távolléti díj, mert a közalkalmazotti jogviszonyban töltött idő legalább nyolc év, és az átszervezéses felmentés nem zárja ki a jogosultságot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 37. § (6) bekezdés c) pontja legalább nyolc év közalkalmazotti időnél három havi távolléti díjat rendel. Ferenc nyolc éves ideje ezért ebbe a sávba esik. Az átszervezés miatti felmentés a 30. § (1) bekezdés b) pontja szerinti objektív ok; a 37. § (2) bekezdés kizáró okai rá nem vonatkoznak."
+        },
+        {
+          "text": "Ilona is teljes, három havi végkielégítést kap, mert az átszervezéses felmentés mindig tisztes végelbánást követel, és a Kttv. méltatlansági kizárása ide nem alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kjt. 37. § (2) bekezdés a) pontja a nyugdíjasnak minősülőt kizárja a végkielégítésből, függetlenül attól, hogy a felmentés átszervezésen alapul. A Kttv. méltatlansági rendje nem a Kjt. végkielégítési kizárásának pótló jogcíme. Ilona igénye ezért a (2) bekezdés a) pontja szerint elesik, a három havi mérték csak Ferenc 37. § (6) bekezdés c) pontja szerinti jogosultságára vonatkozik."
+        },
+        {
+          "text": "Közalkalmazottnál végkielégítés soha nem jár, mert a Kjt. csak felmentési időt biztosít, és a felmondási járandóság az Mt.-ből nem vehető át.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 37. § a felmentéshez végkielégítést is fűz, a felmentési idő pedig a 33. § szerinti külön intézmény. Ferenc nyolc éves idejénél a (6) bekezdés c) pontja három havi távolléti díjat ír elő. A két jogintézmény összecserélése és a „soha nem jár” állítás ezért téves."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "39b60a0258e4"
+    },
+    {
+      "question": "Eset: a munkáltató Gizellát a 20. § (6) bekezdése szerint felhívja hatósági bizonyítvány benyújtására; Gizella tizenöt munkanapon belül nem tesz eleget, és a mulasztást nem menti. Mi a jogkövetkezmény?",
+      "options": [
+        {
+          "text": "A mulasztás csak fegyelmi eljárást indíthat, a jogviszony felmentéssel, hatvan napos felmentési idővel szüntethető meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 25. § (3) bekezdése azonnali hatályú megszüntetést rendel, nem a 30. § szerinti felmentést. A helyes: a tizenöt munkanapos mulasztás kötelező azonnali hatályú jogkövetkezménye. A felmentés ráolvasása erre a jogcímre ezért téves."
+        },
+        {
+          "text": "Az azonnali hatályú megszüntetést írásban indokolni kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 25. § (4) bekezdése az azonnali hatályú megszüntetés írásbeli indokolását kötelezővé teszi. Az indokolás nélkül közölt megszüntetés ezért formai hibás. A jogcím a 25. § (2) bekezdés fd) alpontja szerinti azonnali hatály."
+        },
+        {
+          "text": "Gizella a határidő elmulasztása után is pótolhatja az igazolást bármikor, mert a Kjt. nem fűz jogvesztést a tizenöt munkanaphoz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 25. § (3) bekezdés a) pontja a tizenöt munkanapos mulasztáshoz — menthető ok hiányában — azonnali hatályú megszüntetési kötelezettséget fűz. A helyes: a határidő elmulasztása a jogviszony megszüntetéséhez vezet. A határidő dispositív olvasata tipikus hiba."
+        },
+        {
+          "text": "A munkáltató köteles a közalkalmazotti jogviszonyt az Mt. 29. § (1) bekezdése alapján azonnali hatállyal megszüntetni, ha a felhívástól számított tizenöt munkanapon belül a közalkalmazott nem igazol, és a mulasztás nem menthető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 25. § (3) bekezdés a) pontja kötelező azonnali hatályú megszüntetést ír elő, ha a 20. § (6) bekezdése szerinti felhívástól számított tizenöt munkanapon belül a közalkalmazott nem igazol, és a mulasztás nem menthető. A 20. § (6) bekezdése a felhívás és a tizenöt munkanapos határidő kerete. A mulasztás menthető oka a megszüntetést elháríthatja."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "b86cf539e19c"
+    },
+    {
+      "question": "Eset: Helga a munkáltató lényeges kötelezettségszegése miatt rendkívüli lemondással él; a tudomásszerzéstől számított huszadik napon közli. A munkáltató „elkésett, és végkielégítés sem jár” címen elutasítja. Mely határidők és jogkövetkezmények irányadók?",
+      "options": [
+        {
+          "text": "A rendkívüli lemondás határideje harminc nap, mint az Mt. azonnali hatályú felmondásánál, és a huszadik nap még határidőben van.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 29. § (2) bekezdése tizenöt napos szubjektív határidőt ír elő, nem harminc napot. A helyes: Helga huszadik napi közlése elkésett. Az Mt. azonnali hatályú felmondási határidejének ráolvasása ezért téves."
+        },
+        {
+          "text": "A rendkívüli lemondás jogát az okról való tudomásszerzéstől számított tizenöt napon belül, legfeljebb az ok bekövetkeztétől számított egy éven belül lehet gyakorolni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 29. § (2) bekezdése a tudomásszerzéstől számított tizenöt napos szubjektív és az ok bekövetkeztétől számított egyéves objektív határidőt rögzíti; bűncselekménynél a büntetőeljárás megindítására nyitva álló elévülés az irányadó. Helga huszadik napi közlése a szubjektív határidőn kívül esik. A határidő elmulasztása a jog gyakorlását elzárja."
+        },
+        {
+          "text": "Rendkívüli lemondásnál a sima lemondás két hónapos ideje alkalmazandó, és végkielégítés soha nem jár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kjt. 29. § (4) bekezdése — a törvényben előírt kivételektől eltekintve — a 28. § lemondási szabályait nem alkalmazza a rendkívüli lemondásra. A helyes: érvényes rendkívüli lemondásnál a 29. § (3) bekezdése szerinti távolléti díj és a 37. § (8) bekezdése szerinti kétszeres végkielégítés járhat. A sima lemondás két hónapos ideje ide nem húzható rá."
+        },
+        {
+          "text": "Érvényes rendkívüli lemondás esetén a munkáltató annyi időre járó távolléti díjat köteles fizetni, amennyi felmentés esetén járna, és a közalkalmazott kártérítést is követelhet; a 37. § szerint végkielégítés is jár, kétszeres mértékben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 29. § (3) bekezdése a felmentés esetén járó távolléti díjat és a kártérítést rendezi érvényes rendkívüli lemondásnál. A 37. § (1) bekezdés b) pontja végkielégítést fűz, a (8) bekezdés a mértéket a (6)–(7) bekezdés kétszeresére emeli. A „végkielégítés sem jár” állítás ezért téves."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "ceaf8cc52b6a"
+    },
+    {
+      "question": "Eset: a pályázatot kétszer, kilencven napon belül eredménytelenül írták ki; a munkáltató az ösztöndíjas foglalkoztatottat egy hónapon belül, pályázat nélkül nevezi ki. Az ellenérdekű jelölt azt állítja, hogy pályázat nélkül soha nem lehet kinevezni. Mely állítások igazak?",
+      "options": [
+        {
+          "text": "Főszabály szerint közalkalmazotti jogviszony pályázat alapján létesíthető, és csak az nevezhető ki, aki a pályázaton részt vett és a feltételeknek megfelelt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 20/A. § (1) bekezdése szerint közalkalmazotti jogviszony pályázat alapján létesíthető, és csak az nevezhető ki, aki a pályázaton részt vett és a feltételeknek megfelelt. A kinevezési jogkör gyakorlója — törvény eltérő rendelkezése hiányában — írja ki a pályázatot. A pályázat nélküli kinevezés csak a törvényben nevesített kivételekkel lehetséges."
+        },
+        {
+          "text": "Pályázat nélkül közalkalmazotti jogviszony soha nem létesíthető, mert a 20/A. § kógens.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 20/A. § (2) bekezdése expressis verbis pályázat nélküli eseteket nevesít. A helyes: a főszabály a 20/A. § (1) bekezdése szerinti pályázat, a kivételek taxatívak. A főszabály önmagában nem zárja ki a törvényben felsorolt pályázat nélküli utakat."
+        },
+        {
+          "text": "Pályázat nélkül is létesíthető jogviszony többek között a kétszeri, kilencven napon belüli eredménytelen kiírás, a folyamatos ellátáshoz elengedhetetlen haladéktalan betöltés, az ösztöndíjas foglalkoztatott egy hónapon belüli kinevezése, a helyettesítésre vagy meghatározott munkára szóló határozott kinevezés, valamint az áthelyezés esetén.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 20/A. § (2) bekezdése pályázat nélküli esetként nyitja többek között a kétszeri, kilencven napon belüli eredménytelen kiírást és az ösztöndíjas foglalkoztatott egy hónapon belüli kinevezését. A helyettesítésre vagy meghatározott munkára szóló határozott kinevezés, valamint az áthelyezés szintén e kivételi körbe tartozhat. A „soha nem lehet pályázat nélkül” állítás ezért túl tág."
+        },
+        {
+          "text": "Az ösztöndíjas foglalkoztatott csak új pályázat után nevezhető ki, mert az ösztöndíj nem közalkalmazotti jogviszony.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a pályázat nélküli kivételek között szerepel az ösztöndíjas foglalkoztatott egy hónapon belüli kinevezése a 20/A. § (2) bekezdése szerint. A helyes: a törvény ezt a folytonosságot kifejezetten megengedi. A kivétel figyelmen kívül hagyása tipikus hiba."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "c36120e7e5af"
+    },
+    {
+      "question": "Eset: Ilona közalkalmazott a munkaköre mellett átmenetileg más munkakör feladatait is ellátja, jelentős többletmunkával; a munkáltató csak az illetményt fizeti, „helyettesítés a kinevezés része”. Jár-e külön díjazás, és mi nem olvasható rá a kinevezésre?",
+      "options": [
+        {
+          "text": "Az Mt. 50. § a kinevezés tartalmát is meghatározza, mert a Kjt. 2. § az Mt.-t mögöttesként rendeli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 24. § (2) bekezdése az Mt. 50. §-át kizárja; a mögöttes alkalmazás csak az eltérésekkel érvényesül. A helyes: a kinevezési okmány a 21. § (3) bekezdése szerinti saját okirat. A mögöttes Mt. abszolutizálása tipikus hiba."
+        },
+        {
+          "text": "Ha a közalkalmazott a munkaköre ellátása mellett a munkáltató rendelkezése alapján átmenetileg más munkakörébe tartozó feladatokat is ellát, és ezáltal jelentős többletmunkát végez, illetményén felül a végzett munkával arányos helyettesítési díj is megilleti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 24. § (1) bekezdése szerint, ha a közalkalmazott a munkaköre mellett a munkáltató rendelkezése alapján átmenetileg más munkakör feladatait is ellátja, és jelentős többletmunkát végez, illetményén felül a végzett munkával arányos helyettesítési díj is megilleti. A „kinevezés része” fordulat a jelentős többletmunka díjazását nem szünteti meg. A díj aránya a ténylegesen végzett többletmunkához igazodik."
+        },
+        {
+          "text": "Helyettesítési díj csak akkor jár, ha a felek az Mt. szerinti munkaszerződés-módosításban megállapodnak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 24. § (1) bekezdése törvényi alapon rendezi a helyettesítési díjat, nem Mt.-s szerződésmódosításhoz köti. A helyes: a jelentős többletmunka az illetményen felüli, arányos díjazást vonja. Az Mt. munkaszerződés-módosítási rendje a 24. § (2) bekezdése miatt amúgy sem alkalmazható."
+        },
+        {
+          "text": "A közalkalmazotti jogviszony tekintetében az Mt. 50. §-a — a munkaszerződés tartalmára vonatkozó megállapodási rend — nem alkalmazható; a kinevezés tartalmát a Kjt. 21. § (3) bekezdése szerinti okmány adja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 24. § (2) bekezdése az Mt. 50. §-át kifejezetten kizárja a közalkalmazotti jogviszonyból. A kinevezés tartalmát a 21. § (3) bekezdése szerinti okmány adja, nem a munkaszerződéses megállapodási rend. A felek Mt. szerinti megállapodása ezért nem pótolja a kinevezési okmányt."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "a54c4c836b65"
+    },
+    {
+      "question": "Eset: a fenntartó „rendkívül indokolt esetben” áthelyezést kezdeményez az általa fenntartott két Kjt.-s munkáltató között; a közalkalmazott nem járul hozzá. A fenntartó egyoldalú határozattal átviszi. Jogszerű-e ez?",
+      "options": [
+        {
+          "text": "Fenntartói áthelyezésnél a Kit. szabályai alkalmazandók, mert a fenntartó kormányzati szerv.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a helyzet a Kjt. 26. § hatálya alá tartozik, nem a Kit. alá. A helyes: a közalkalmazotti áthelyezés a Kjt. háromoldalú rendje. A Kjt. és a Kit. összemosása tipikus hiba."
+        },
+        {
+          "text": "A fenntartó — törvény eltérő rendelkezése hiányában — az általa fenntartott, e törvény hatálya alá tartozó munkáltatók között kezdeményezheti a határozatlan időre szóló áthelyezést, rendkívül indokolt esetben, különösen munkaszervezési kényszerre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 26. § (4) bekezdése szerint a fenntartó — törvény eltérő rendelkezése hiányában — az általa fenntartott, e törvény hatálya alá tartozó munkáltatók között kezdeményezheti a határozatlan időre szóló áthelyezést, rendkívül indokolt esetben, különösen munkaszervezési kényszerre. A kezdeményezés azonban nem azonos az egyoldalú áthelyezéssel. Az (1) bekezdés szerinti háromoldalú megállapodás ettől függetlenül kell."
+        },
+        {
+          "text": "Az áthelyezéshez a két munkáltató és a közalkalmazott kölcsönös megállapodása akkor is szükséges, ha a fenntartó kezdeményez; a közalkalmazott hozzájárulása nélkül az áthelyezés nem jön létre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 26. § (1) bekezdése a két munkáltató és a közalkalmazott kölcsönös megállapodását főszabályként írja elő. A (4) bekezdés csak a kezdeményezést rendezi, nem oldja fel a hozzájárulást. Az egyoldalú fenntartói határozat ezért nem áthelyezés."
+        },
+        {
+          "text": "A fenntartó egyoldalú határozata pótolja a közalkalmazott hozzájárulását, mert a (4) bekezdés munkaszervezési kényszernél kötelező áthelyezést rendel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 26. § (4) bekezdése kezdeményezési jogot ad, nem egyoldalú áthelyezési jogot. A helyes: az (1) bekezdés szerinti megállapodás kell a közalkalmazott hozzájárulásával. A kezdeményezés és a kötelező áthelyezés összecserélése ezért téves."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "05ab56b34322"
+    },
+    {
+      "question": "Eset: János felmentési ideje alatt nemzetközi szervezetnél külföldi munkát végez államközi egyezmény alapján; a munkáltató a felmentési időt azonnal elindítja. Mikor kezdődhet a felmentési idő?",
+      "options": [
+        {
+          "text": "A külföldi munka a felmentési időt megszakítja, de a kezdőnapot nem tolja el; a 33. § szerinti hatvan nap azonnal fut.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 31. § expressis verbis a felmentési idő legkorábbi kezdőnapját a nevesített tartamok lejártát követő naphoz köti. A helyes: a 33. § tartama csak a megkezdett felmentési időre vonatkozik. A tartam és a kezdőnap összecserélése ezért téves."
+        },
+        {
+          "text": "Felmentés esetén a felmentési idő legkorábban a 31. §-ban nevesített tartamok — így a nemzetközi szervezetnél vagy államközi egyezmény alapján végzett külföldi munka — lejártát követő napon kezdődik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 31. § a) pontja szerint a felmentési idő legkorábban a nemzetközi szervezetnél vagy államközi egyezmény alapján végzett külföldi munka lejártát követő napon kezdődik. A 31. § a kezdőnapot tolja el, nem a 33. § szerinti tartamot rövidíti. Jánosnál a felmentési idő a külföldi munka lejártát követő napon indulhat."
+        },
+        {
+          "text": "A 31. § csak a Kit. kormánytisztviselőire vonatkozik, közalkalmazottnál a felmentési idő azonnal indul.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 31. § a Kjt. felmentési rendjének része, nem a Kit. kormánytisztviselőié. A helyes: a közalkalmazotti felmentési idő kezdőnapját a Kjt. 31. § tolja. A kormányzati szolgálati és a közalkalmazotti jogállás elhatárolása itt a Kjt. szakaszán nyugszik."
+        },
+        {
+          "text": "Ugyanígy tolja a kezdőnapot a tartósan külföldi szolgálatot teljesítő házastárs, élettárs fizetés nélküli szabadsága, az ösztöndíjas külföldi tanulmányút és a munkáltató hozzájárulásával biztosított képzési felmentés tartama.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 31. § b)–d) pontjai a tartósan külföldi szolgálatot teljesítő házastárs, élettárs fizetés nélküli szabadságát, az ösztöndíjas külföldi tanulmányutat és a munkáltató hozzájárulásával biztosított képzési felmentést is felsorolják. A 31/A. § a felmentési védelem szempontjából a közlés időpontját teszi irányadóvá. A kezdőnap eltolása nem azonos a felmentési tilalommal."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "a261cfeb7e9f"
+    },
+    {
+      "question": "Eset: Katalin egyedülálló, tizenhat éves eltartott gyermeke van; a munkáltatónál van alkalmas betöltetlen munkakör, amelyet elvállalna. Létszámcsökkentés miatt mégis felmentik, állásfelajánlás nélkül. Mi a fokozott védelem tartalma?",
+      "options": [
+        {
+          "text": "Létszámcsökkentésnél a fokozott védelem nem érvényesül, mert a 30. § (1) bekezdés b) pontja objektív ok, és az állásfelajánlás mellőzhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 32. § (2) bekezdése a 30/A. § szerinti körben írja elő az állásfelajánlást; a kötelezettség alóli mentesülés a c)–d) pont és a (4) bekezdés esetére szól, nem a b) pontra. A helyes: létszámcsökkentésnél a védett közalkalmazottnál az állásfelajánlás kötelező. A mentesülés kiterjesztése tipikus hiba."
+        },
+        {
+          "text": "Egyedülálló szülőnél a felmentés mindig tilos a gyermek huszonegyedik életévéig, állásfelajánlás nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 32. § (1) bekezdés b) pontja a tizennyolc éves kort jelöli, nem a huszonegyediket, és a védelmet különösen indokolt esethez, valamint állásfelajánláshoz köti. A helyes: a tilalom addig tart, amíg alkalmas munkakör felajánlható és elvállalható. A korhatár és a modalitás elcsúsztatása ezért téves."
+        },
+        {
+          "text": "A közalkalmazotti jogviszony csak különösen indokolt esetben szüntethető meg felmentéssel, ha a közalkalmazott egyedülálló, eltartott gyermeke tizennyolc éves koráig.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 32. § (1) bekezdés b) pontja szerint a közalkalmazotti jogviszony csak különösen indokolt esetben szüntethető meg felmentéssel, ha a közalkalmazott egyedülálló, eltartott gyermeke tizennyolc éves koráig. Katalin tizenhat éves gyermeke e korhatár alatt van. A védelem a felmentést különösen indokolt esethez köti."
+        },
+        {
+          "text": "Ha a 30/A. § (1) bekezdése szerinti munkáltatónál van olyan munkakör, amelynek ellátására a védett közalkalmazott alkalmas, a felmentés mindaddig tilos, amíg ilyen munkahelyre áthelyezhető, feltéve hogy ezt elvállalja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 32. § (2) bekezdése szerint, ha a 30/A. § (1) bekezdése szerinti munkáltatónál van alkalmas munkakör, a felmentés mindaddig tilos, amíg a közalkalmazott ilyen munkahelyre áthelyezhető, feltéve hogy ezt elvállalja. A munkáltató a 30/A. § és a 30/C. § szerint köteles eljárni. Az állásfelajánlás elmaradása ezért jogsértő."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "eb8e8aceaf8a"
+    },
+    {
+      "question": "Eset: László huszonöt évi közalkalmazotti jogviszony után nyugdíjasnak minősülése miatt kap felmentést a 30. § (1) bekezdés d) pontja alapján. A megszűnés évében esedékes jubileumi jutalmat a munkáltató „majd nyugdíjasként” fizetné. Mikor jár a jutalom?",
+      "options": [
+        {
+          "text": "A huszonöt, harminc, illetve negyvenévi közalkalmazotti jogviszonnyal rendelkező közalkalmazottnak jubileumi jutalom jár; huszonöt év után kéthavi illetmény.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 78. § (1)–(2) bekezdése a huszonöt, harminc és negyvenéves küszöböt rögzíti: huszonöt évnél kéthavi, harmincnál háromhavi, negyvennél öthavi illetmény. László huszonöt éve a kéthavi jutalmat indokolja. A 495/B/2001. AB határozat a jutalmat a közszférában eltöltött pályaút honorálásaként tartotta fenn."
+        },
+        {
+          "text": "Ha a jogviszony a 30. § (1) bekezdés d) pontja alapján szűnik meg, a megszűnés évében esedékessé váló jubileumi jutalmat az utolsó munkában töltött napon ki kell fizetni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 78. § (3) bekezdése szerint, ha a jogviszony a 30. § (1) bekezdés d) pontja alapján szűnik meg, a megszűnés évében esedékessé váló jubileumi jutalmat az utolsó munkában töltött napon ki kell fizetni. A „majd nyugdíjasként” halasztás ezért jogsértő. A jutalom a megszűnéshez kötött esedékességű kifizetés."
+        },
+        {
+          "text": "Nyugdíjasnak minősülés miatti felmentésnél jubileumi jutalom soha nem jár, mert a 37. § a végkielégítést is kizárja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a végkielégítés kizárása a 37. § (2) bekezdése, a jubileumi jutalom a 78. § (3) bekezdése szerint éppen nyugdíjasnak minősülés miatti felmentésnél az utolsó munkában töltött napon jár. A helyes: a két juttatás külön jogintézmény. A végkielégítési kizárás ráolvasása a jutalomra ezért téves."
+        },
+        {
+          "text": "A jubileumi jutalom csak a negyvenéves küszöbnél jár, a huszonöt és a harminc év nem keletkeztet igényt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kjt. 78. § (2) bekezdése mindhárom küszöböt nevesíti: huszonöt évnél kéthavi, harmincnál háromhavi, negyvennél öthavi illetmény. A helyes: a huszonöt éves küszöb önállóan keletkeztet igényt. A negyvenéves küszöb kizárólagos olvasata a lista csonkítása."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "2d4d4cfc7087"
+    },
+    {
+      "question": "Eset: a munkáltató Mária közalkalmazotti jogviszonyát közös megegyezéssel szünteti meg a korhatár előtti ellátás igénybevétele előtt; Mária a 78. § (4) bekezdése szerinti kedvezményes negyvenéves jutalmat kéri, noha nincs felmentés és nem minősül nyugdíjasnak. Jár-e a kedvezményes jutalom?",
+      "options": [
+        {
+          "text": "A 78. § (4) bekezdése szerinti negyvenéves jutalom a megszűnéskor akkor jár, ha a közalkalmazott legkésőbb a megszűnéskor nyugdíjasnak minősül vagy felmentésére a 30. § (4) bekezdése alapján kerül sor, és legalább harmincöt évi közalkalmazotti jogviszonnyal rendelkezik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 78. § (4) bekezdése szerinti negyvenéves jutalom a megszűnéskor akkor jár, ha a közalkalmazott legkésőbb a megszűnéskor nyugdíjasnak minősül vagy felmentésére a 30. § (4) bekezdése alapján kerül sor, és legalább harmincöt évi közalkalmazotti jogviszonnyal rendelkezik. Az áthelyezés a 25. § (2) bekezdés b) pont 1. alpontja szerint, valamint a rendkívüli felmentés e kedvezményes kifizetés alól kivétel. A közös megegyezés önmagában nem nyitja meg a (4) bekezdést."
+        },
+        {
+          "text": "A 3001/2017. (I. 5.) AB határozat szerint a közös megegyezéssel, korhatár előtti ellátás mellett megszűnt jogviszonyban a kedvezményes jutalom hiánya nem alaptörvény-ellenes, mert a (3)–(4) bekezdés a felmentéshez és a nyugdíjasnak minősüléshez kötötte a kifizetést.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 3001/2017. (I. 5.) AB határozat szerint a közös megegyezéssel, korhatár előtti ellátás mellett megszűnt jogviszonyban a kedvezményes jutalom hiánya nem alaptörvény-ellenes, mert a 78. § (3)–(4) bekezdése a felmentéshez és a nyugdíjasnak minősüléshez kötötte a kifizetést. Mária esetén sem a felmentés, sem a nyugdíjasnak minősülés nem áll fenn. A korhatár előtti ellátás nem pótolja a törvényi feltételeket."
+        },
+        {
+          "text": "Közös megegyezésnél a kedvezményes negyvenéves jutalom mindig jár, ha a közalkalmazott harmincöt évet eltöltött.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 78. § (4) bekezdése a nyugdíjasnak minősülést vagy a 30. § (4) bekezdése szerinti felmentést is megköveteli a harmincöt év mellett. A helyes: a harmincöt év szükséges, de nem elégséges a kedvezményes negyvenéves jutalomhoz. A közös megegyezés e feltételrendszert nem helyettesíti."
+        },
+        {
+          "text": "A korhatár előtti ellátás a Kjt. alkalmazásában nyugdíjasnak minősülést jelent, ezért a (4) bekezdés automatikusan alkalmazandó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nyugdíjasnak minősülés az Mt. 294. § (1) bekezdés g) pontjára utal, és a 3001/2017. AB határozat tényállásában a közös megegyezés mellett a kedvezményes jutalom nem járt. A helyes: a korhatár előtti ellátás nem pótolja a 78. § (4) bekezdés feltételeit. A nyugdíjas fogalom kiterjesztése tipikus hiba."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "0546c27fe884"
+    },
+    {
+      "question": "Eset: Nóra felmentéskor a 30/A. § szerinti megfelelő munkakört alapos indok nélkül elutasítja; a munkáltató a végkielégítést teljes összegben fizetné. Milyen mértékű végkielégítés jár?",
+      "options": [
+        {
+          "text": "Állásfelajánlás elutasításánál végkielégítés soha nem jár, mert a közalkalmazott „önhibás”.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (9) bekezdés felezést rendel, nem teljes megvonást. A helyes: a Kjt. 37. § (9) bekezdése szerint alapos indok nélküli elutasításnál a felére jogosult. A felezés és a teljes kizárás összecserélése ezért téves."
+        },
+        {
+          "text": "A végkielégítés összegének a felére jogosult a közalkalmazott, ha felmentésére vagy a munkáltató jogutód nélküli megszűnésére azért került sor, mert a felajánlott, 30/A. § szerinti munkakörbe helyezéshez szükséges kinevezés-módosításhoz vagy áthelyezéshez nem járult hozzá, vagy nem nyilatkozott — kivéve, ha a hozzájárulást alapos indokkal tagadta meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 37. § (9) bekezdése szerint a végkielégítés felére jogosult, aki a 30/A. § szerinti megfelelő munkakörbe helyezéshez szükséges kinevezés-módosításhoz vagy áthelyezéshez alapos indok nélkül nem járul hozzá, vagy nem nyilatkozik. Az alapos indok nélküli elutasítás ezért felezést von. A teljes összegű kifizetés ilyenkor túlfizetés lenne."
+        },
+        {
+          "text": "Alapos indok különösen, ha a felajánlott illetmény a korábbi 80%-ánál kevesebb, ha a munkaidő aránytalanul változik, ha határozatlan helyett határozott jogviszonyt ajánlanak, vagy ha az oda-vissza utazás napi két órát — tíz éven aluli gyermeknél másfél órát — meghaladja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 37. § (9) bekezdés a)–d) pontja alapos indokként nevezi különösen, ha a felajánlott illetmény a korábbi 80%-ánál kevesebb, ha a munkaidő aránytalanul változik, ha határozatlan helyett határozott jogviszonyt ajánlanak, vagy ha az oda-vissza utazás napi két órát — tíz éven aluli gyermeknél másfél órát — meghaladja. Az a) pontnál a felajánlott illetmény a garantált illetménynél nem lehet alacsonyabb. Ha alapos indok van, a felezés nem alkalmazható."
+        },
+        {
+          "text": "A felezés csak a Kit. kormányzati szolgálati jogviszonyában alkalmazandó, a Kjt. teljes összeget ír elő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 37. § (9) bekezdése a Kjt. végkielégítési rendje, nem a Kit. szabálya. A helyes: közalkalmazottnál is felezés járhat az állásfelajánlás alapos indok nélküli elutasításánál. A közalkalmazotti szabály a Kjt. taxációjából következik, nem a kormányzati szolgálati rendből."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "5d016826c7d5"
+    },
+    {
+      "question": "Eset: Olivér felmentési ideje alatt másik költségvetési szervvel részmunkaidős jogviszonyt létesít, és ezt nem jelenti be. Milyen jogkövetkezménye van ennek a 37. § (12) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Másik költségvetési szervnél létesített részmunkaidő nem érinti a távolléti díjat és a végkielégítést, ha a közalkalmazott nem jelenti be.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kjt. 37. § (12) bekezdése a bejelentéstől függetlenül a jogosultság elvesztését rendeli, ha az új költségvetési jogviszony létrejön. A helyes: a bejelentés a) pont szerinti kötelezettség, a b)–c) pont pedig a távolléti díjtól és a végkielégítéstől elesést vonja. A bejelentés elmaradása nem tartja fenn a kifizetést."
+        },
+        {
+          "text": "Csak teljes munkaidős új jogviszony vonja el a végkielégítést; részmunkaidőnél a teljes összeg megmarad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (12) bekezdés a teljes vagy részmunkaidős jogviszonyt egyaránt említi. A helyes: a Kjt. 37. § (12) bekezdése szerint a részmunkaidő is elesést von. A részmunkaidő kivételként kezelése tipikus hiba."
+        },
+        {
+          "text": "Ha a közalkalmazott a munkavégzés alóli mentesítés ideje alatt bármely költségvetési szervvel vagy annak többségi befolyása alatt álló gazdálkodó szervezettel jogviszonyt létesít, ezt korábbi munkáltatójának haladéktalanul írásban be kell jelentenie.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 37. § (12) bekezdés a) pontja szerint, ha a közalkalmazott a munkavégzés alóli mentesítés ideje alatt bármely költségvetési szervvel vagy annak többségi befolyása alatt álló gazdálkodó szervezettel jogviszonyt létesít, ezt korábbi munkáltatójának haladéktalanul írásban be kell jelentenie. Olivér mulasztása ezért önálló jogsértés. A szabály a kettős költségvetési foglalkoztatással szembeni védelmet szolgálja."
+        },
+        {
+          "text": "Ilyen új jogviszonynál a felmentési időből hátralévő időre távolléti díjra és végkielégítésre nem jogosult; az új jogviszonyban azonban a végkielégítésre jogosító időbe a felmentéssel megszüntetett jogviszony idejét is be kell számítani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 37. § (12) bekezdés b)–c) pontja szerint ilyen új jogviszonynál a felmentési időből hátralévő időre távolléti díjra és végkielégítésre nem jogosult; az új jogviszonyban azonban a végkielégítésre jogosító időbe a felmentéssel megszüntetett jogviszony idejét is be kell számítani. A szankció a kifizetés elvesztése, nem a jogosító idő törlése. Az új munkáltatónál a korábbi idő beszámít."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "a884269616bc"
+    },
+    {
+      "question": "Eset: a miniszter létszámcsökkentést eredményező döntést készít elő; a HR azt állítja, hogy az Alkotmánybírósággal kell egyeztetni, az érdekegyeztető fórumot megkerülve. Ki a tárgyalás alanya?",
+      "options": [
+        {
+          "text": "A létszámcsökkentés előtti egyeztetés az Alkotmánybíróság hatásköre, mert a 826/B/1996. AB határozat ezt írja elő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kjt. 38. § (4) bekezdése az ágazati érdekegyeztető fórumot és a KOMT-ot nevezi meg a létszámcsökkentés előtti tárgyalás alanyaként. A helyes: a 826/B/1996. AB határozat a normaalkotmányosságot vizsgálta, nem az előzetes egyeztetés fórumát. Az érdekegyeztetés felei és az Alkotmánybíróság hatásköre elválik."
+        },
+        {
+          "text": "A közalkalmazotti jogviszony tekintetében az Mt. 71–76. §-át azzal az eltéréssel kell alkalmazni, hogy a működési okra alapított felmondáson felmentést kell érteni, ha a közlés a 30. § (1) bekezdés a) vagy b) pontján alapul.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 38. § (2) bekezdés a) pontja szerint az Mt. 71–76. §-át azzal az eltéréssel kell alkalmazni, hogy a működési okra alapított felmondáson felmentést kell érteni, ha a közlés a 30. § (1) bekezdés a) vagy b) pontján alapul. Az Mt. csoportos létszámcsökkentési tájékoztatási rendje tehát felmentésre olvasandó. A nemzetbiztonsági szolgálatoknál a 38. § (3) bekezdése szerint a 71–76. § nem alkalmazható."
+        },
+        {
+          "text": "Létszámcsökkentést eredményező döntés előtt a miniszter az ágazati (alágazati) érdekegyeztető fórumban — annak hiányában a KOMT-ban —, az önkormányzat az önkormányzati érdekegyeztető fórumban tárgyalást kezdeményez az érdekegyeztetésben részt vevő felekkel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 38. § (4) bekezdése szerint létszámcsökkentést eredményező döntés előtt a miniszter az ágazati (alágazati) érdekegyeztető fórumban — annak hiányában a KOMT-ban —, az önkormányzat az önkormányzati érdekegyeztető fórumban tárgyalást kezdeményez az érdekegyeztetésben részt vevő felekkel. A 38/A. § (3) bekezdése ugyanezen típusú döntés előtt egyeztetést rendel. Az alanyok az érdekegyeztetés felei, nem az Alkotmánybíróság."
+        },
+        {
+          "text": "Az Mt. 66. § szerinti felmondás a közalkalmazotti létszámcsökkentésnél is alkalmazható, mert a 38. § az egész X. fejezetet átveszi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kjt. 38. § (1) bekezdése az Mt. 66. § (1)–(3) és (8)–(9) bekezdését kifejezetten kizárja. A helyes: létszámcsökkentésnél felmentés a 30. § (1) bekezdés b) pontja szerint, indokolással. Az Mt. felmondása a közalkalmazotti jogviszonyban nem alkalmazható."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "8cc5b8fb8789"
+    },
+    {
+      "question": "Eset: a bíróság megállapítja, hogy a munkáltató megsértette a 30/A–30/D. § és a 32. § szerinti felmentési korlátozásokat. Petra a jogviszony helyreállítását kéri. Mi a jogkövetkezmény?",
+      "options": [
+        {
+          "text": "A közalkalmazotti jogviszony tekintetében az Mt. 83. §-át azzal az eltéréssel kell alkalmazni, hogy a közalkalmazott kérelmére a bíróság a jogviszonyt akkor is helyreállítja, ha a munkáltató vagy a fenntartója a felmentési korlátozásokat megsérti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 38. § (5) bekezdése szerint az Mt. 83. §-át azzal az eltéréssel kell alkalmazni, hogy a közalkalmazott kérelmére a bíróság a jogviszonyt akkor is helyreállítja, ha a munkáltató vagy a fenntartója a 30/A–30/D. § és a 32. § szerinti felmentési korlátozásokat megsérti. A helyreállítás e korlátozások megsértése esetén is elérhető kérelemre. Az Mt. 82. § (1) bekezdése szerinti jogkövetkezményeken túl ez a speciális út."
+        },
+        {
+          "text": "Felmentési korlátozás megsértésénél a bíróság csak kártérítést ítélhet, helyreállításnak nincs helye.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kjt. 38. § (5) bekezdése expressis verbis a helyreállítást engedi a felmentési korlátozások megsértése esetén. A helyes: a közalkalmazott kérelmére a bíróság a jogviszonyt helyreállítja, ha a 30/A–30/D. § vagy a 32. § sérül. A puszta kártérítés nem az egyetlen lehetséges jogkövetkezmény."
+        },
+        {
+          "text": "A helyreállítás a közalkalmazott kérelméhez kötött; a felmentési korlátozások megsértése önmagában is elegendő ok a Kjt. szerinti helyreállításhoz.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 38. § (5) bekezdése a kérelmet és a korlátozások megsértését köti össze. Petra kérelme ezért a speciális helyreállítási utat nyitja. A fenntartói jogsértés is ugyanide tartozik."
+        },
+        {
+          "text": "A helyreállítás csak a Kit. szerinti kormányzati szolgálati jogvitában alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 38. § (5) bekezdése a közalkalmazotti jogviszonyra szól, nem a Kit. kormányzati szolgálati jogvitájára. A helyes: a Kjt. saját eltérése az Mt. 83. §-ához. A felmentés és a kinevezés a Kjt. fogalmai, a kormányzati szolgálati párhuzam ide nem vihető át."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "0fb3b744717b"
+    },
+    {
+      "question": "Eset: a munkáltató egésze Mt. hatálya alá tartozó gazdasági társaságnak kerül átadásra. Rita közalkalmazott azt hiszi, hogy jogviszonya változatlanul folytatódik. Mi történik az átadás időpontjában?",
+      "options": [
+        {
+          "text": "Ha a munkáltató egésze vagy egy része az Mt. hatálya alá tartozó munkáltató számára kerül átadásra, a közalkalmazotti jogviszony az átadás időpontjában megszűnik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 25/A. § (1) bekezdése szerint, ha a munkáltató egésze vagy egy része az Mt. hatálya alá tartozó munkáltató számára kerül átadásra, a közalkalmazotti jogviszony az átadás időpontjában megszűnik. Ez a 25. § (1) bekezdés d) pontja szerinti megszűnési eset. A jogviszony tehát nem változatlanul folytatódik közalkalmazottiként."
+        },
+        {
+          "text": "Az átadás csak a Kit. szerinti kormányzati szervek között értelmezhető, a Kjt. nem ismer ilyen jogcímet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kjt. 25/A. § (1) bekezdése Mt. hatályú átvevőnél megszűnést rendel az átadás időpontjában. A helyes: a 25/C. § (4) bekezdése a közszolgálati vagy igazságügyi átvevőnél jogállásváltozást ír elő. Az átadás tehát a Kjt. saját rendje, nem a Kit. kizárólagos területe."
+        },
+        {
+          "text": "A 25/C. § (4) bekezdése szerint, ha az átvevő a közszolgálati tisztviselőkről szóló vagy az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény hatálya alá tartozik, a jogviszony — meghatározott kivételekkel — a jogállásváltozás időpontjában kormányzati szolgálati, közszolgálati vagy igazságügyi szolgálati jogviszonnyá alakul.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 25/C. § (4) bekezdése szerint, ha az átvevő a közszolgálati tisztviselőkről szóló vagy az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény hatálya alá tartozik, a jogviszony — meghatározott kivételekkel — a jogállásváltozás időpontjában kormányzati szolgálati, közszolgálati vagy igazságügyi szolgálati jogviszonnyá alakul. Az Mt. hatályú átvevőnél viszont a 25/A. § (1) bekezdése szerinti megszűnés az irányadó. A két átadási út elhatárolása ezért döntő."
+        },
+        {
+          "text": "Mt. hatályú átvevőnél a közalkalmazotti jogviszony automatikusan Mt.-s munkaviszonnyá alakul, felmentés és végkielégítés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 25/A. § (1) bekezdése megszűnést rendel, nem automatikus Mt.-s átalakulást. A helyes: az átadás időpontjában a közalkalmazotti jogviszony megszűnik; a további foglalkoztatás és a végkielégítés a 25/A–25/B. § rendje szerint alakul. A jogállásváltozás és a megszűnés összecserélése ezért téves."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "83f68cefb70d"
+    },
+    {
+      "question": "Eset: a Tny. 18. § (2a) bekezdése szerinti feltételt a felmentési idő leteltekor teljesítő Szilvia kérelmezi a felmentést; a munkáltató „mérlegelés alapján” elutasítja. Kötelező-e a felmentés?",
+      "options": [
+        {
+          "text": "A munkáltató a kérelmet szabadon elbírálhatja, mert a felmentés mindig diszkrecionális.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 30. § (4) bekezdése „meg kell szüntetni” formulával kötelezővé teszi a felmentést. A helyes: a kérelem és a Tny.-feltétel teljesülése mellett nincs mérlegelés. A diszkrecionális felmentés ráolvasása ezért téves."
+        },
+        {
+          "text": "A közalkalmazotti jogviszonyt felmentéssel meg kell szüntetni, ha a Tny. 18. § (2a) bekezdésében foglalt feltételt legkésőbb a felmentési idő leteltekor teljesítő közalkalmazott kérelmezi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 30. § (4) bekezdése szerint a közalkalmazotti jogviszonyt felmentéssel meg kell szüntetni, ha a Tny. 18. § (2a) bekezdésében foglalt feltételt legkésőbb a felmentési idő leteltekor teljesítő közalkalmazott kérelmezi. A „meg kell szüntetni” formula kötelezővé teszi a felmentést. A jogosultsági időt az (5) bekezdés szerint a nyugdíjbiztosítási igazgatási szerv határozatával kell igazolni."
+        },
+        {
+          "text": "A Tny. 18. § (2a) bekezdése szerinti felmentés csak a Kttv. köztisztviselőire vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 30. § (4) bekezdése a Kjt. közalkalmazotti felmentési rendje, nem a Kttv. köztisztviselőié. A Tny. 18. § (2a) bekezdésében foglalt feltételt a felmentési idő leteltekor teljesítő közalkalmazott kérelmére a felmentés kötelező. Az (5) bekezdés szerint a jogosultsági időt a nyugdíjbiztosítási igazgatási szerv határozatával kell igazolni; a Kttv. fogalmai ide nem helyettesíthetők."
+        },
+        {
+          "text": "Erre a felmentésre a 37. § (2) bekezdése szerint végkielégítés nem jár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 37. § (2) bekezdés b) pontja a 30. § (4) bekezdése alapján történő felmentést a végkielégítésből kizárja. A kötelező felmentés és a végkielégítés-kizárás együtt jár. A 78. § (4) bekezdése viszont a kedvezményes jubileumi jutalom feltételévé teheti ezt a felmentést."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "17a11237a05d"
+    },
+    {
+      "question": "Eset: Tamás a határozott idejű közalkalmazotti jogviszonyát lemondással kívánja megszüntetni, mert a jogviszony fenntartása aránytalan sérelemmel járna; indokolást nem fűz. Érvényes-e a lemondás?",
+      "options": [
+        {
+          "text": "Határozott idejű közalkalmazotti jogviszonynál a közalkalmazott ugyanúgy indokolás nélkül léphet ki, mint a 28. § szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 27. § (1) bekezdése írásbeli indokolást és tartalmi okot követel. A helyes: a 28. § csak a határozatlan idejűre szól. A két lemondási rend összecserélése ezért téves."
+        },
+        {
+          "text": "A határozott idejű közalkalmazotti jogviszonyt a közalkalmazott írásban indokolt lemondással akkor szüntetheti meg, ha a lemondás indoka a jogviszony fenntartását lehetetlenné tenné, vagy körülményeire tekintettel aránytalan sérelemmel járna.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 27. § (1) bekezdése szerint a határozott idejű közalkalmazotti jogviszonyt a közalkalmazott írásban indokolt lemondással akkor szüntetheti meg, ha a lemondás indoka a jogviszony fenntartását lehetetlenné tenné, vagy körülményeire tekintettel aránytalan sérelemmel járna. A sima, indokolás nélküli lemondás a 28. § szerint a határozatlan idejű jogviszonyra szól. Tamás indokolás nélküli lépése ezért nem felel meg a 27. § (1) bekezdésének."
+        },
+        {
+          "text": "Határozott idejű jogviszonynál a közalkalmazott egyáltalán nem mondhat le, csak a munkáltató szüntetheti meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 27. § (1) bekezdése expressis verbis engedi a közalkalmazotti lemondást a nevesített okokra. A helyes: lemondás lehetséges, de indokoltan. A kilépési jog teljes tagadása tipikus hiba."
+        },
+        {
+          "text": "A határozatlan idejű jogviszonynál a 28. § szerinti lemondás indokolás nélkül, bármikor lehetséges; a határozott idejűnél az indokolás kötelező.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 28. § a határozatlan idejű jogviszonynál indokolás nélküli lemondást enged, a 27. § (1) bekezdése a határozott idejűnél indokolást és tartalmi okot követel. A határozott idő védelme a közalkalmazott kilépését is feltételekhez köti. Az indokolás hiánya a határozott idejű lemondást érvénytelenítheti."
+        }
+      ],
+      "sourceKerdesSorszam": 29,
+      "sourceHash": "1ed550dc2692"
+    },
+    {
+      "question": "Tanító eset: a munkáltató a következő négy megszüntetési megoldást javasolja közalkalmazottra. Melyek hamisak — egyik sem felel meg a Kjt.-nek?",
+      "options": [
+        {
+          "text": "A közalkalmazotti jogviszony Mt. 66. § szerinti felmondással, indokolás nélkül megszüntethető létszámcsökkentéskor.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közalkalmazotti jogviszony megszüntetése felmentéssel történik a Kjt. 30. § szerint. A helyes: a 38. § (1) bekezdése az Mt. 66. § (1)–(3) és (8)–(9) bekezdését kizárja, ezért indokolás nélküli felmondásnak nincs helye. A taxatív felmentési ok és a 30. § (2) bekezdése szerinti indokolás együtt kötelező."
+        },
+        {
+          "text": "A felmentés helyett azonnali hatályú „bizalomvesztéses” megszüntetés alkalmazható, mint a Kit.-ben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közalkalmazotti megszüntetés jogcímeit a 25. § (2) bekezdése taxálja; a bizalomvesztés a Kit. fogalma, nem a Kjt. felmentése. A helyes: felmentés a 30. § (1) bekezdés taxatív okain. A Kit. és a Kjt. összecserélése ezért téves."
+        },
+        {
+          "text": "A közalkalmazott sima lemondása helyett mindig rendkívüli felmondást kell közölni az Mt. szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 28. § a sima lemondást két hónapos idővel engedi; az Mt. rendkívüli felmondása nem a közalkalmazotti kilépés formája. A helyes: lemondás vagy rendkívüli lemondás a 28–29. § szerint. Az Mt. felmondási fogalmainak ráolvasása tipikus hiba."
+        },
+        {
+          "text": "A kinevezés helyett elegendő az Mt. szerinti munkaszerződés, ha a felek így állapodnak meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 21. § (1) bekezdése kinevezést és elfogadást követel; a 24. § (2) bekezdése az Mt. 50. §-át kizárja. A helyes: írásbeli kinevezés a 21. § (3) bekezdése szerinti okmánnyal. A munkaszerződés ráolvasása tipikus hiba."
+        }
+      ],
+      "sourceKerdesSorszam": 30,
+      "sourceHash": "0ea484c9df78"
+    },
+    {
+      "question": "Eset: a megyei könyvtár kollektív szerződése 2025. március 1-jétől a felmentési időt a Kjt. 33. §-ától eltérően egy hónapra csökkenti; a munkáltató ezt alkalmazza Szilviára. A közalkalmazotti szabályzat ugyanezt „helyi gyakorlattá” emeli. Mi a forráshierarchia és a jogkövetkezmény?",
+      "options": [
+        {
+          "text": "Jogszabállyal ellentétes KSZ-szabály csak felmondható, de érvényes marad a felmondásig; a Kttv. bizalomvesztési rendje ezt megerősíti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kjt. 2. § (2) bekezdése a jogszabállyal ellentétes KSZ-rendelkezést semmisnek nyilvánítja, nem felmondható, de addig hatályos szabálynak. A helyes: a felmentési idő alsó határa a 33. § (1) bekezdése szerint legalább hatvan nap, az egy hónapos KSZ-tartam tehát érvénytelen. A Kttv. bizalomvesztése nem a Kjt. forráshierarchiájának jogkövetkezménye."
+        },
+        {
+          "text": "Szilvia felmentési idejét a Kjt. 33. § szerinti törvényi mérték határozza meg; a KSZ és a közalkalmazotti szabályzat a 2. § (2) bekezdése szerint nem írhatja felül a jogszabályt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 2. § (1) bekezdése a kollektív szerződést és a közalkalmazotti szabályzatot is szabályforrásként nevezi, de a (2) bekezdés a jogszabállyal ellentétes rendelkezést semmisnek minősíti. A 33. § (1) bekezdése a felmentési idő alsó határát legalább hatvan napban állapítja meg, a (2) bekezdés pedig a kollektív szerződésnek nyolc hónapnál hosszabb tartamot tilt. A megyei könyvtár egy hónapos KSZ-csökkentése ezért semmis, Szilvia felmentési idejét a 33. § törvényi mértéke adja."
+        },
+        {
+          "text": "A Kjt. 2. § (2) bekezdése szerint a kollektív szerződés és a közalkalmazotti szabályzat jogszabállyal ellentétes rendelkezése semmis, ezért Szilviára az egy hónapos felmentési idő nem alkalmazható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2. § (2) bekezdése a jogszabállyal ellentétes KSZ- és szabályzat-rendelkezést semmissé teszi. A felmentési időt a Kjt. 33. § rendezi; attól a KSZ nem térhet el. A semmisség automatikus jogkövetkezmény, nem csupán megtámadhatóság, így a munkáltatói alkalmazás sem mentheti meg a szabályt."
+        },
+        {
+          "text": "A kollektív szerződés a Kjt. rendelkezéseitől szabadon eltérhet, mert a 2. § (2a) bekezdése ezt a feleknek engedi, ha a közalkalmazotti tanács egyetért.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2a) bekezdés törvénynek engedi az eltérést, nem a KSZ-nek vagy a felek megállapodásának. A 2. § (2) bekezdése szerint a jogszabállyal ellentétes KSZ-rendelkezés semmis. A törvényi eltérés és a KSZ eltérés összecserélése Szilvia esetében is téves."
+        }
+      ],
+      "sourceKerdesSorszam": 31,
+      "sourceHash": "1d2e37611580"
+    },
+    {
+      "question": "Eset: Ubul tizennyolcadik életévét be nem töltötte, de a munkáltató közalkalmazotti jogviszonyt létesítene vele „kivételes tehetség” címén. Mely létesítési feltételek zárják ezt ki?",
+      "options": [
+        {
+          "text": "Közalkalmazotti jogviszony — többek között — tizennyolcadik életévét betöltött, büntetlen előéletű, és a 20. § (2) bekezdés c) pontja szerinti állampolgársági vagy tartózkodási feltételnek megfelelő személlyel létesíthető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 20. § (2) bekezdés a)–c) pontja szerint közalkalmazotti jogviszony — többek között — tizennyolcadik életévét betöltött, büntetlen előéletű, és a c) pont szerinti állampolgársági vagy tartózkodási feltételnek megfelelő személlyel létesíthető. A tizennyolcadik életév betöltése főszabály. A végrehajtási jogszabály a (3) bekezdés szerint a b) és c) pont alól mentesítést adhat."
+        },
+        {
+          "text": "Az életkori feltétel csak a Kit. kormánytisztviselőinél kötelező, a Kjt. ettől eltekint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 20. § (2) bekezdés b) pontja a Kjt. létesítési feltétele. A helyes: közalkalmazottnál is be kell tölteni a tizennyolcadik életévet. A Kjt. szakaszai az irányadók, a kormányzati szolgálati intézmények ráolvasása nem helytálló."
+        },
+        {
+          "text": "Tizennyolcadik életévét be nem töltött személy is kinevezhető, ha a felek az Mt. szerinti fiatalkorú munkavállalói szabályokat alkalmazzák.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kjt. 20. § (2) bekezdés b) pontja a tizennyolcadik életév betöltését követeli. A helyes: mentesítés csak a (3) bekezdés szerinti végrehajtási jogszabállyal adható a b) és c) pont alól. Az Mt. fiatalkorú munkavállalói szabályai a közalkalmazotti létesítést nem írják felül."
+        },
+        {
+          "text": "A közalkalmazotti jogviszony alanyai a munkáltató és a közalkalmazott; a jogviszony nem munkaszerződéssel, hanem kinevezéssel jön létre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 20. § (1) bekezdése az alanyokat a munkáltatóban és a közalkalmazottban rögzíti, a 21. § (1) bekezdése a kinevezést és elfogadást. A „kivételes tehetség” nem pótolja a törvényi életkori feltételt. A létesítés a 20. § (2) bekezdés feltételeinek teljesüléséhez kötött."
+        }
+      ],
+      "sourceKerdesSorszam": 32,
+      "sourceHash": "ec4d9a447680"
+    },
+    {
+      "question": "Eset: a munkáltató Viktorral azonos felek között újabb kinevezést létesít; a korábbi határozott kinevezés után próbaidőt is kiköt. Mikor nem kell próbaidőt megállapítani?",
+      "options": [
+        {
+          "text": "Próbaidő csak a munkáltató javára köthető, a közalkalmazott nem szüntetheti meg azonnali hatállyal.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 21/A. § mindkét félnek azonnali hatályú, indokolás nélküli megszüntetést enged a próbaidő alatt. A helyes: a jog mindkét oldalon fennáll. Az egyoldalú próbaidő-olvasat tipikus hiba."
+        },
+        {
+          "text": "Áthelyezés, meghatározott munkára szóló határozott kinevezés és azonos felek közötti újabb kinevezés esetén próbaidőt nem kell megállapítani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 21/A. § szerint áthelyezés, meghatározott munkára szóló határozott kinevezés és azonos felek közötti újabb kinevezés esetén próbaidőt nem kell megállapítani. Viktor újabb kinevezésénél a próbaidő kikötése ezért mellőzendő. A főszabály három, legfeljebb négy hónap a kinevezésben."
+        },
+        {
+          "text": "Azonos felek közötti újabb kinevezésnél is kötelező a próbaidő, mert minden kinevezés új jogviszony.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 21/A. § expressis verbis kizárja a próbaidőt azonos felek közötti újabb kinevezésnél. A helyes: ilyenkor nem kell megállapítani. Az „új jogviszony = új próbaidő” egyszerűsítés ezért téves."
+        },
+        {
+          "text": "A próbaidő meghosszabbítása tilos; a tartama alatt bármelyik fél azonnali hatállyal, indokolás nélkül megszüntetheti a jogviszonyt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 21/A. § a meghosszabbítás tilalmát és a próbaidő alatt mindkét fél azonnali hatályú, indokolás nélküli megszüntetését rögzíti. A kivételi körben azonban próbaidő egyáltalán nem állapítható meg. A tilalom a felek megállapodását is köti."
+        }
+      ],
+      "sourceKerdesSorszam": 33,
+      "sourceHash": "735d77371df5"
+    },
+    {
+      "question": "Eset: a 826/B/1996. AB határozatra hivatkozva a munkáltató azt állítja, hogy létszámcsökkentésnél a bíróság vizsgálhatja, miért éppen az érintett közalkalmazottat választották az azonos munkakörűek közül. Mely megállapítások állják meg a helyüket a bírói vizsgálat határáról?",
+      "options": [
+        {
+          "text": "Az AB szerint a létszámcsökkentéses felmentés alkotmányellenes, mert a közalkalmazott elmozdíthatatlan.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 826/B/1996. AB határozat az indítványt elutasította, és kimondta, hogy a közalkalmazotti jogviszony nem jelent elmozdíthatatlanságot. A helyes: a 30. § (1) bekezdés b) pontja szerinti felmentés objektív okon nyugodhat. A státusz stabilitása nem abszolút felbonthatatlanság."
+        },
+        {
+          "text": "Létszámcsökkentésnél a bíróság köteles megvizsgálni, miért nem a másik azonos munkakörű közalkalmazottat mentették fel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az MK 95. átültetése szerint a bíróság éppen azt nem vizsgálhatja, miért nem a másik azonos munkakörű közalkalmazottat mentették fel. A helyes: a 30. § (1) bekezdés b) pontja szerinti felmentésnél a felhozott tény valósága vizsgálható, a választás célszerűsége nem. A bírói kontroll a személyi szelekcióra nem terjed ki."
+        },
+        {
+          "text": "Az MK 95. számú állásfoglalás közalkalmazotti átültetése szerint a bíróság a felmentés alapjául felhozott tény valóságát vizsgálhatja, az átszervezés célszerűségét és azt, hogy a munkáltató miért éppen az érintettet választotta az azonos munkakört betöltők közül, nem.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az MK 95. számú állásfoglalás közalkalmazotti átültetése és a 826/B/1996. AB határozat szerint a bíróság a felmentés alapjául felhozott tény valóságát vizsgálhatja. Az átszervezés célszerűségét és azt, hogy a munkáltató miért éppen az érintettet választotta az azonos munkakört betöltők közül, nem vizsgálhatja. A létszámcsökkentés a 30. § (1) bekezdés b) pontja szerinti objektív munkáltatói ok."
+        },
+        {
+          "text": "Az Alkotmánybíróság szerint a közalkalmazotti jogviszony nem jelent elmozdíthatatlanságot; a létszámcsökkentésen és átszervezésen alapuló felmentés objektív munkáltatói ok, nem személyre szóló alkalmassági ítélet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 826/B/1996. AB határozat szerint a közalkalmazotti jogviszony nem jelent elmozdíthatatlanságot; a létszámcsökkentésen és átszervezésen alapuló felmentés objektív munkáltatói ok, nem személyre szóló alkalmassági ítélet. A 30. § (1) bekezdés b) pontja ezért nem personalizált alkalmatlansági döntés. A státusz stabilitása nem abszolút elmozdíthatatlanság."
+        }
+      ],
+      "sourceKerdesSorszam": 34,
+      "sourceHash": "93c45a3b46c4"
+    },
+    {
+      "question": "Eset: Zsófia vezetői megbízásáról írásban lemond; a munkáltató azonnali hatállyal „visszavonja a kinevezését is”. Mi a lemondás tartama, és mi marad fenn?",
+      "options": [
+        {
+          "text": "A munkáltató a vezetői lemondással egyidejűleg indokolás nélkül felmentheti a közalkalmazottat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felmentés a 30. § taxatív okaihoz és a (2) bekezdés szerinti indokoláshoz kötött. A helyes: a megbízás megszűnése után a 23. § (6) bekezdése szerinti továbbfoglalkoztatás jár. A megbízásvég és a felmentés összemosása tipikus hiba."
+        },
+        {
+          "text": "A lemondás, a megbízás visszavonása, valamint a megbízás határozott idejének letelte után a közalkalmazottat a kinevezése szerinti munkakörében kell továbbfoglalkoztatni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 23. § (6) bekezdése a lemondás, a visszavonás és a határozott idő letelte utáni továbbfoglalkoztatást kötelezővé teszi. A kinevezés automatikus megszüntetése ezért jogsértő. A vezetői pótlék elvesztése nem azonos a jogviszony megszüntetésével."
+        },
+        {
+          "text": "A magasabb vezető és a vezető a vezetői beosztásáról írásban lemondhat; a lemondási idő két hónap.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 23. § (4) bekezdése szerint a magasabb vezető és a vezető a vezetői beosztásáról írásban lemondhat; a lemondási idő két hónap. A lemondás a megbízásra vonatkozik, nem a közalkalmazotti kinevezésre. A (6) bekezdés szerint a megbízás megszűnése után a kinevezés szerinti munkakörben kell továbbfoglalkoztatni."
+        },
+        {
+          "text": "A vezetői megbízásról való lemondás egyben a közalkalmazotti jogviszony 28. § szerinti lemondása is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 23. § (4) bekezdése a beosztásról való lemondást rendezi, a (6) bekezdés pedig a kinevezett munkakörben való továbbfoglalkoztatást. A helyes: a közalkalmazotti jogviszony fennmarad. A megbízás és a kinevezés összecserélése ezért téves."
+        }
+      ],
+      "sourceKerdesSorszam": 35,
+      "sourceHash": "ed39aff1a1c3"
+    },
+    {
+      "question": "Eset: a munkáltató a 30. § (1) bekezdés c) pontja alapján, nem egészségügyi alkalmatlanság miatt ment fel; a felmentési idő előtt nem ad lehetőséget a védekezésre, noha az elvárható lett volna. Milyen eljárási szabály sérült?",
+      "options": [
+        {
+          "text": "A védekezés mellőzése mindig jogszerű, mert a felmentés egyoldalú munkáltatói aktus.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mellőzés csak akkor jogszerű, ha a munkáltatótól a 30. § (3) bekezdése szerint nem várható el. A helyes: főszabály a védekezés lehetősége a felhozott kifogásokkal szemben. A kivétel nem teszi általánossá a mellőzést."
+        },
+        {
+          "text": "A felmentést köteles megindokolni a munkáltató; az indokolásból a felmentés okának világosan ki kell tűnnie, és a valóság, valamint az okszerűség bizonyítása a munkáltatót terheli.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 30. § (2) bekezdése az indokolási és bizonyítási kötelezettséget rögzíti a valóságra és az okszerűségre. A védekezés lehetősége a (3) bekezdés szerint és az indokolás együtt a felmentés jogszerűségének része. A bizonyítási teher a munkáltatónál marad."
+        },
+        {
+          "text": "Ha az alkalmatlanság a közalkalmazott munkavégzésével vagy magatartásával függ össze, a felmentés előtt lehetőséget kell adni a vele szemben felhozott kifogások elleni védekezésre, kivéve, ha ez a munkáltatótól nem várható el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 30. § (3) bekezdése szerint, ha az alkalmatlanság a közalkalmazott munkavégzésével vagy magatartásával függ össze, a felmentés előtt lehetőséget kell adni a kifogások elleni védekezésre, kivéve, ha ez a munkáltatótól nem várható el. A c) pont szerinti, magatartással összefüggő alkalmatlanságnál a védekezés főszabály. A mellőzés csak akkor jogszerű, ha az eset körülményei szerint nem várható el."
+        },
+        {
+          "text": "Védekezési lehetőség csak fegyelmi eljárásnál jár, felmentésnél soha.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kjt. 30. § (3) bekezdése expressis verbis a felmentés előtti védekezést rendezi, ha az alkalmatlanság a munkavégzéssel vagy a magatartással függ össze. A helyes: a c) pont szerinti körben a védekezés főszabály. A garancia nem csak a fegyelmi eljárásra korlátozódik."
+        }
+      ],
+      "sourceKerdesSorszam": 36,
+      "sourceHash": "962a5c910134"
+    },
+    {
+      "question": "Eset: ugyanazon munkáltató kétszer, négy hónap megszakítással határozott idejű közalkalmazotti jogviszonyt létesít Ádámmal; a második jogviszony a 27. § (2) bekezdése szerint, a 30. § (1) bekezdés a) pontján alapulva szűnik meg. Jár-e végkielégítés?",
+      "options": [
+        {
+          "text": "A végkielégítésre való jogosultság megállapításakor a (6) bekezdést kell alkalmazni azzal, hogy az e bekezdés szerinti jogcímen megszűnt vagy megszüntetett határozott idejű jogviszonyok időtartamát kell összeszámítani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 37. § (3) bekezdése az összeszámítást és a (6) bekezdés mértékrendjét köti össze az ismételt határozott kinevezéseknél. A korábbi végkielégítéssel már elszámolt időszakot újabb azonos felek közötti határozott kinevezésnél figyelmen kívül kell hagyni. A mérték az összeszámított, még el nem számolt időtől függ."
+        },
+        {
+          "text": "A hat hónapos megszakítás után is összeszámítható minden korábbi határozott idejű jogviszony.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kjt. 37. § (3) bekezdése szerint kettőnél több határozott idejű jogviszonynál a hat hónapnál hosszabb megszakítás előtt fennállt jogviszonyok időtartamát nem lehet figyelembe venni. A helyes: a hosszú megszakítás elvágja az összeszámítást. A korábbi szakaszok korlátlan beszámítása ezért nem lehetséges."
+        },
+        {
+          "text": "Ismételt határozott kinevezésnél végkielégítés soha nem jár, csak a határozatlan idejű felmentésnél.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés expressis verbis végkielégítést rendel az ismételt határozott körben. A helyes: a Kjt. 37. § (3) bekezdése szerint a hat hónapos megszakítási korlát és a nevesített megszűnési okok mellett jár. A jogosultság teljes tagadása ezért téves."
+        },
+        {
+          "text": "Ha ugyanazon munkáltató legalább két alkalommal határozott időre létesít jogviszonyt, és a megszűnés, valamint az újabb létesítés között hat hónapnál hosszabb idő nem telt el, a közalkalmazott végkielégítésre jogosult, ha a megszüntetés a 27. § (2) bekezdése szerint a 30. § (1) bekezdés a) vagy b) pontján alapul, vagy a határozott idő a 25. § (1) bekezdés a) pontja szerint lejár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 37. § (3) bekezdése szerint, ha ugyanazon munkáltató legalább két alkalommal határozott időre létesít jogviszonyt, és a megszűnés, valamint az újabb létesítés között hat hónapnál hosszabb idő nem telt el, a közalkalmazott végkielégítésre jogosult, ha a megszüntetés a 27. § (2) bekezdése szerint a 30. § (1) bekezdés a) vagy b) pontján alapul, vagy a határozott idő a 25. § (1) bekezdés a) pontja szerint lejár. Ádám négy hónapos megszakítása a hat hónapos küszöb alatt van. A 30. § (1) bekezdés a) pontján alapuló megszüntetés a jogosultságot megnyitja."
+        }
+      ],
+      "sourceKerdesSorszam": 37,
+      "sourceHash": "b0efdf7820ac"
+    },
+    {
+      "question": "Tanító eset: a HR a következő négy „gyorsmegoldást” javasolja. Mely állítások hamisak a Kjt. megszűnési–megszüntetési rendjében?",
+      "options": [
+        {
+          "text": "A munkáltató jogutód nélküli megszűnése felmentés, ezért mindig hatvan napos felmentési idő fut.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 25. § (1) bekezdés c) pontja a munkáltató jogutód nélküli megszűnését megszűnésként rendezi, nem a 30. § szerinti felmentésként. A helyes: végkielégítés a 37. § (1) bekezdés c) pontja szerint járhat, de ez nem felmentési idő. A megszűnés felmentésként kezelése tipikus hiba."
+        },
+        {
+          "text": "A próbaidő alatti azonnali hatályú megszüntetéshez a 30. § taxatív felmentési okai kellenek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 25. § (2) bekezdés fa) alpontja és a 21/A. § a próbaidő alatt indokolás nélküli azonnali hatályt enged. A helyes: nem a 30. § felmentési okai az irányadók. A felmentés ráolvasása a próbaidőre ezért téves."
+        },
+        {
+          "text": "A közalkalmazott halála megszüntetési jogcím, ezért felmentési idő és végkielégítés jár az örökösnek automatikusan.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 25. § (1) bekezdés b) pontja a halált megszűnésként nevesíti, nem megszüntetésként. A helyes: a megszűnés és a megszüntetés elválik; a jubileumi jutalomnál a 78. § (5) bekezdése az örökösre speciális szabályt ad. A két kategória összecserélése ezért téves."
+        },
+        {
+          "text": "A közös megegyezés csak akkor érvényes, ha a munkáltató egyben felmentési okot is megjelöl.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 25. § (2) bekezdés a) pontja a közös megegyezést önálló megszüntetési jogcímként nevezi. A helyes: felmentési ok nem feltétele a közös megegyezésnek. A felmentés és a közös megegyezés összemosása tipikus hiba."
+        }
+      ],
+      "sourceKerdesSorszam": 38,
+      "sourceHash": "f479a9f99826"
+    },
+    {
+      "question": "Eset: a foglalkoztatási igazolásból a munkáltató kihagyja a jubileumi jutalom kifizetését és az emelt végkielégítés tényét, mert „ezek nem a Flt. adatai”. Mit kell tartalmaznia az igazolásnak?",
+      "options": [
+        {
+          "text": "A 37. § (7) bekezdése szerinti emelés tényének rögzítése a kettős kifizetés elkerülését szolgálja; az igazolás megszűnéshez kötött okirati kötelezettség, nem önálló megszüntetési jogcím.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 36. § e) pontja szerinti emelés tényének rögzítése a kettős kifizetés elkerülését szolgálja. Az igazolás megszűnéshez kötött okirati kötelezettség, nem önálló megszüntetési jogcím. Az emelt végkielégítés korábbi igénybevétele a 37. § (7) bekezdése szerint kizárja az újabb emelést."
+        },
+        {
+          "text": "Az igazolás elmaradása a jogviszonyt automatikusan helyreállítja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 36. § okirati kötelezettség a megszűnéskor, nem helyreállítási jogcím. A helyes: a megszüntetés és a megszűnés a 25. § szerint alakul. Az igazolás joghatásának túlértékelése tipikus hiba."
+        },
+        {
+          "text": "A foglalkoztatási igazolás csak a Flt. adatait tartalmazhatja; a Kjt. többletelemei diszpozitívak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kjt. 36. § a foglalkoztatás elősegítéséről szóló törvény adatain túl kötelező közalkalmazotti tartalmat ír elő. A helyes: a jubileumi jutalom kifizetése és a 37. § (7) bekezdése szerinti emelt végkielégítés ténye is része az igazolásnak. A Flt. adatköre önmagában nem meríti ki az igazolást."
+        },
+        {
+          "text": "A közalkalmazotti jogviszony megszűnésekor kiállított foglalkoztatási igazolás a Flt. 36/A. § (2) bekezdésében foglaltakon túl tartalmazza többek között a magánnyugdíjpénztár adatait, a 22. § (8) bekezdésében meghatározottakat és a szülési szabadságot, az illetménnyel fedezett, munkában nem töltött időt, a jubileumi jutalom kifizetését és időpontját, valamint a 37. § (7) bekezdése szerinti emelt végkielégítésben való részesülést.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 36. § a)–e) pontja szerint a foglalkoztatási igazolás a Flt. 36/A. § (2) bekezdésén túl tartalmazza többek között a magánnyugdíjpénztár adatait, a 22. § (8) bekezdésében meghatározottakat és a szülési szabadságot, az illetménnyel fedezett, munkában nem töltött időt, a jubileumi jutalom kifizetését és időpontját, valamint a 37. § (7) bekezdése szerinti emelt végkielégítésben való részesülést. A jubileumi jutalom és az emelt végkielégítés rögzítése tehát kötelező. Az igazolás a későbbi ellátás és a kettős kifizetés elkerülése szempontjából irányadó."
+        }
+      ],
+      "sourceKerdesSorszam": 39,
+      "sourceHash": "6cc48764cc95"
+    },
+    {
+      "question": "Eset: a 44/B/1993. AB határozatra hivatkozva a munkáltató azt állítja, hogy a nyugdíjasnak minősülő közalkalmazott felmentése alkotmányellenes, mert a taxált okok abszolút védelmet adnak. Mit rögzít a határozat a Kjt. 30. § (1) bekezdés d) pontjáról?",
+      "options": [
+        {
+          "text": "A taxált felmentési okok a közszolgálati és közalkalmazotti státusz stabilitásának garanciái; a saját jogon szerzett öregségi vagy rokkantsági nyugellátás elérése után e kiemelt védelem indoka már nem áll fenn.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 44/B/1993. AB határozat szerint a taxált felmentési okok a közszolgálati és közalkalmazotti státusz stabilitásának garanciái; a saját jogon szerzett öregségi vagy rokkantsági nyugellátás elérése után e kiemelt védelem indoka már nem áll fenn. A határozat a Kjt. 30. § (1) bekezdés d) pontja és a Ktv. 17. § (1) bekezdés f) pontja kapcsán az indítványt elutasította. A nyugellátásra szerzett jogosultság nem alkotmányellenes megszüntetési jogcím."
+        },
+        {
+          "text": "Nyugdíjasnak minősülésnél a felmentés csak a Kit. szerint lehetséges, a Kjt. ezt nem ismeri.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kjt. 30. § (1) bekezdés d) pontja a közalkalmazotti felmentés saját taxatív oka. A helyes: a közalkalmazott is felmenthető nyugdíjasnak minősülés címén, az Mt. 294. § (1) bekezdés g) pontjára utalva. A Kit. bizalomvesztése ide nem helyettesíthető."
+        },
+        {
+          "text": "Az AB megsemmisítette a 30. § (1) bekezdés d) pontját, mert a nyugdíjas közalkalmazott elmozdíthatatlan.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 44/B/1993. AB határozat az indítványt elutasította a Kjt. 30. § (1) bekezdés d) pontja kapcsán. A helyes: a nyugdíjasnak minősülés címén a felmentés fenntartható. A kiemelt védelem indoka a nyugellátás elérése után már nem áll fenn."
+        },
+        {
+          "text": "A nyugellátásra való jogosultság megszerzése nem akadályozza újabb közalkalmazotti jogviszony létesítését, és nem vonja kötelező erővel maga után a fennálló jogviszony megszűnését.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ugyanez a határozat szerint a nyugellátásra való jogosultság megszerzése nem akadályozza újabb közalkalmazotti jogviszony létesítését, és nem vonja kötelező erővel maga után a fennálló jogviszony megszűnését. A d) pont szerinti felmentés lehetőség, nem automatikus megszűnés. A hatályos Kjt. a nyugdíjasnak minősülést az Mt. 294. § (1) bekezdés g) pontjára utalva tartja fenn."
+        }
+      ],
+      "sourceKerdesSorszam": 40,
+      "sourceHash": "68057386a6c7"
+    },
+    {
+      "question": "Eset: a vezető állású Mt.-szabályokat a munkáltató minden közalkalmazotti vezetőre alkalmazni akarja. Mely körben engedi ezt a Kjt.?",
+      "options": [
+        {
+          "text": "A 22/B. § a munkáltató működése szempontjából meghatározó magasabb vezetői munkakörökre — végrehajtási rendelet szerint — az Mt. vezető állású munkavállalójára vonatkozó rendelkezéseivel létesítendő munkaviszonyt enged; ez nem a 23. § szerinti megbízott vezető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 22/B. § a munkáltató működése szempontjából meghatározó magasabb vezetői munkakörökre — végrehajtási rendelet szerint — az Mt. vezető állású munkavállalójára vonatkozó rendelkezéseivel létesítendő munkaviszonyt enged. A 23. § szerinti megbízott vezető ettől elválik, mert a kinevezés szerinti munkakör mellett látja el a vezetői feladatot. A megbízott vezető nem válik automatikusan Mt.-s vezető állásúvá."
+        },
+        {
+          "text": "Minden vezetői megbízás automatikusan az Mt. 208–211. § hatálya alá esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kjt. 3. § (2) bekezdése csak a 22/B. § szerinti magasabb vezetőre engedi az Mt. 208–211. §-át. A helyes: a 23. § szerinti megbízott vezető a kinevezés szerinti munkakör mellett látja el a vezetői feladatot, és közalkalmazott marad. A vezető állású Mt.-rend nem általánosítható minden vezetői megbízásra."
+        },
+        {
+          "text": "A Kjt. 3. § az atipikus Mt.-szabályokat korlátozás nélkül átveszi a közalkalmazotti jogviszonyba.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kjt. 3. § (2) bekezdése kizárja az Mt. 198–207. §, 213. § és 228. § alkalmazását, a (3) bekezdés pedig az alaptevékenységben korlátozza a kölcsönzést. A helyes: vezető állású szabály csak a 22/B. § szerinti körben, kölcsönzés pedig csak a konjunktív sürgősségi kivételnél. A mögöttes Mt. nem nyitja fel ezeket a tilalmakat."
+        },
+        {
+          "text": "Az Mt. 208–211. §-a csak a 22/B. § szerinti magasabb vezetőre alkalmazható; az Mt. 198–207. §, 213. § és 228. § a közalkalmazotti jogviszonyban nem alkalmazható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 3. § (2) bekezdése szerint az Mt. 208–211. §-a csak a 22/B. § szerinti magasabb vezetőre alkalmazható. Az Mt. 198–207. §, 213. § és 228. § a közalkalmazotti jogviszonyban nem alkalmazható. A 23. § szerinti megbízott vezető közalkalmazott marad a kinevezés szerinti munkakör mellett."
+        }
+      ],
+      "sourceKerdesSorszam": 41,
+      "sourceHash": "3eff2e2da422"
+    },
+    {
+      "question": "Eset: a Kjt. hatálybalépésekor a költségvetési szervnél foglalkoztatottak munkaviszonyban álltak. Mi történik a jogviszonyukkal, és hogyan számít a közalkalmazotti idő?",
+      "options": [
+        {
+          "text": "A Kit. és a Kttv. szerinti idő soha nem számítható be a közalkalmazotti időbe.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 87/A. § expressis verbis beszámítja a Kit. és a Kttv. jogviszonyokat is. A helyes: azonos időtartamra csak egy jogviszony számítható. A beszámítási kör csonkítása tipikus hiba."
+        },
+        {
+          "text": "A 87/A. § a közalkalmazotti időbe a Kjt., a Kttv., a Kit., a szolgálati, a honvédelmi és a rendvédelmi, az egészségügyi szolgálati és a köznevelési foglalkoztatotti jogviszonyokat is beszámítja, azonos időtartamra azonban csak egy jogviszonyt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 87/A. § a közalkalmazotti időbe a Kjt., a Kttv., a Kit., a szolgálati, a honvédelmi és a rendvédelmi, az egészségügyi szolgálati és a köznevelési foglalkoztatotti jogviszonyokat is beszámítja. Azonos időtartamra azonban csak egy jogviszony számítható. A 25/D. § a kormányzati szolgálati jogviszony megszűnését követő harminc napon belüli első közalkalmazotti jogviszonyt folyamatossá teszi."
+        },
+        {
+          "text": "A hatálybalépéskori munkaviszony változatlanul Mt.-s marad, amíg a felek kinevezést nem kötnek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 87. § (1) bekezdése törvény erejénél fogva alakítja át a jogviszonyt. A helyes: a hatálybalépéssel közalkalmazotti jogviszony jön létre. Az átalakulás dispositív olvasata ezért téves."
+        },
+        {
+          "text": "A Kjt. 87. § (1) bekezdése szerint e törvény hatálybalépésével a hatálya alá tartozó munkáltatónál foglalkoztatottak munkaviszonya közalkalmazotti jogviszonnyá alakul át.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 87. § (1) bekezdése szerint e törvény hatálybalépésével a hatálya alá tartozó munkáltatónál foglalkoztatottak munkaviszonya közalkalmazotti jogviszonnyá alakul át. A munkaviszony tehát nem marad Mt.-s jogviszony. A közalkalmazotti idő számítását a 87/A. § bontja ki a beszámítható jogviszonyok katalógusával."
+        }
+      ],
+      "sourceKerdesSorszam": 42,
+      "sourceHash": "8eb27aaa1df4"
+    },
+    {
+      "question": "Eset: a munkáltató a felmentési idő alatt a közalkalmazottat egyáltalán nem mentesíti, mert „a teljesítést akarja”; a felmentési idő öt hónap. Mennyi mentesítés jár legalább?",
+      "options": [
+        {
+          "text": "A munkavégzés alól a közalkalmazottat — a mentesítési idő legalább felének megfelelő időtartamban — a kívánságának megfelelő időben és részletekben kell felmenteni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 33. § (3) bekezdése a mentesítés ütemezését a közalkalmazott kívánságához köti, a mentesítési idő legalább felére. A munkáltató egyoldalú „végig dolgozol” utasítása ezért sérti a szabályt. A mentesítés törvényi kötelezettség, nem a munkáltató szívessége."
+        },
+        {
+          "text": "Mentesítés csak a közalkalmazott kérelmére jár, és a munkáltató szabadon megtagadhatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 33. § (3) bekezdése kötelező mentesítést rendel legalább a felére. A helyes: a kívánság az ütemezésre vonatkozik, nem a mentesítés létére. A kötelezettség dispositívvá tétele ezért téves."
+        },
+        {
+          "text": "A munkáltató legalább a felmentési idő felére köteles a közalkalmazottat mentesíteni a munkavégzés alól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 33. § (3) bekezdése szerint a munkáltató legalább a felmentési idő felére köteles a közalkalmazottat mentesíteni a munkavégzés alól. Öt hónapnál ez legalább két és fél hónap. A teljes mentesítés elmaradása jogsértő."
+        },
+        {
+          "text": "A mentesítés az Mt. felmondási idejére vonatkozó szabályai szerint alakul, ezért elhagyható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felmentési idő mentesítését a Kjt. 33. § (3) bekezdése rendezi, nem az Mt. felmondási ideje. A helyes: legalább a felmentési idő felére kötelező a mentesítés. Az Mt. felmondási szabályainak ráolvasása a felmentési időre nem helytálló."
+        }
+      ],
+      "sourceKerdesSorszam": 43,
+      "sourceHash": "b30be74021bb"
+    },
+    {
+      "question": "Eset: a végkielégítés mértékénél a munkáltató a korábbi, más munkáltatónál töltött közalkalmazotti időt is beszámítja, noha áthelyezés nem történt; a 22. § (8) bekezdés b) pontja szerinti, harminc napot meghaladó fizetés nélküli szabadságot is beleszámolja. Helyes-e a számítás?",
+      "options": [
+        {
+          "text": "A végkielégítésre való jogosultság megállapításánál — az áthelyezést kivéve — nem lehet beszámítani a korábbi közalkalmazotti jogviszonyban töltött időt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 37. § (4) bekezdése szerint a végkielégítésre való jogosultság megállapításánál — az áthelyezést kivéve — nem lehet beszámítani a korábbi közalkalmazotti jogviszonyban töltött időt. Áthelyezés nélkül a más munkáltatónál töltött idő nem növeli a mértéket. Az (5) bekezdés a jogutódlás, az átadás és a 25/D. § szerinti köz kivételeit adja."
+        },
+        {
+          "text": "A 22. § (8) bekezdés b) pontja szerinti fizetés nélküli szabadság mindig teljes egészében jogosító idő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 37. § (4) bekezdése főszabályként figyelmen kívül hagyja a 22. § (8) bekezdés b) pontja szerinti fizetés nélküli szabadságot. A helyes: csak a nevesített gondozási célú kivételek számíthatók be. A generális fizetés nélküli szabadság nem jogosító idő."
+        },
+        {
+          "text": "Figyelmen kívül kell hagyni a 22. § (8) bekezdés b) és c) pontjában meghatározott időtartamot is, kivéve a hozzátartozó, valamint a tizennégy éven aluli gyermek gondozása, ápolása, továbbá a tizenkét éven aluli gyermek betegsége miatti otthoni ápolás céljából igénybe vett fizetés nélküli szabadságot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 37. § (4) bekezdése szerint figyelmen kívül kell hagyni a 22. § (8) bekezdés b) és c) pontjában meghatározott időtartamot is. Kivétel a hozzátartozó, valamint a tizennégy éven aluli gyermek gondozása, ápolása, továbbá a tizenkét éven aluli gyermek betegsége miatti otthoni ápolás céljából igénybe vett fizetés nélküli szabadság. A generális, harminc napot meghaladó fizetés nélküli szabadság ezért nem számít."
+        },
+        {
+          "text": "Minden korábbi közalkalmazotti idő mindig beszámít, mert a közszféra egységes.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kjt. 37. § (4) bekezdése főszabályként kizárja a korábbi közalkalmazotti jogviszony beszámítását, kivéve az áthelyezést. A helyes: áthelyezés nélkül a más munkáltatónál töltött idő nem növeli a végkielégítést. A közszféra egységességére hivatkozás e tilalmat nem oldja fel."
+        }
+      ],
+      "sourceKerdesSorszam": 44,
+      "sourceHash": "5b7d9b3174b6"
+    },
+    {
+      "question": "Eset: a munkáltató a 30. § (1) bekezdés a) és b) pontja, valamint egészségügyi alkalmatlanság esetén — nyugdíjasnak nem minősülő közalkalmazottnál — nem tájékoztat a megfelelő betöltetlen munkakör felajánlásának lehetőségéről. Milyen határidővel kell nyilatkozni a tájékoztatásról?",
+      "options": [
+        {
+          "text": "A 30/A. § (1) bekezdése szerint a munkáltató írásban tájékoztatja a közalkalmazottat a munkáltatón belüli, az irányítása alatt álló, illetve a fenntartója által fenntartott más, e törvény hatálya alá tartozó munkáltatóhoz tartozó megfelelő betöltetlen munkakör felajánlásának lehetőségéről.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kjt. 30/A. § (1) bekezdése szerint a munkáltató írásban tájékoztatja a közalkalmazottat a megfelelő betöltetlen munkakör felajánlásának lehetőségéről a 30. § (1) bekezdés a)–b) pontja és az egészségügyi alkalmatlanság esetén, ha a közalkalmazott nem minősül nyugdíjasnak. A tájékoztatás elmaradása a felmentési korlátozás sérelme. A 38. § (5) bekezdése a korlátozások megsértése esetén helyreállítást is lehetővé tesz."
+        },
+        {
+          "text": "A közalkalmazott a tájékoztatás közlésétől számított két munkanapon belül írásban nyilatkozik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ugyanez a 30/A. § (1) bekezdése a tájékoztatás közlésétől számított két munkanapos írásbeli nyilatkozati határidőt rögzíti. A rövid határidő a felmentési eljárás gyorsaságát szolgálja. A szóban tett nyilatkozat nem felel meg."
+        },
+        {
+          "text": "A közalkalmazottnak harminc napja van a nyilatkozatra, mint az Mt. felmondási idejénél.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kjt. 30/A. § (1) bekezdése a tájékoztatás közlésétől számított két munkanapos írásbeli nyilatkozati határidőt ír elő. A helyes: a nyilatkozatnak írásban és e rövid határidőn belül kell megérkeznie. Az Mt. felmondási idejének harminc napos mértéke az állásfelajánlási nyilatkozatra nem ültethető át."
+        },
+        {
+          "text": "Állásfelajánlási tájékoztatás csak a Kit. szerint kötelező; a Kjt. ezt nem ismeri.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 30/A. § a Kjt. saját állásfelajánlási rendje, nem a Kit. szabálya. A helyes: a tájékoztatás és a két munkanapos nyilatkozat a közalkalmazotti felmentéshez tartozik. A Kit. és a Kjt. összecserélése ezért téves."
+        }
+      ],
+      "sourceKerdesSorszam": 45,
+      "sourceHash": "18a1b7a579e4"
+    },
+    {
+      "question": "Eset: a Ktv. 17. § (1) bekezdés f) pontja és a Kjt. 30. § (1) bekezdés d) pontja kapcsán a jelölt azt állítja, hogy a két norma funkciója eltér, mert az egyik köztisztviselői, a másik közalkalmazotti. Miben egyezik i olvasat?",
+      "options": [
+        {
+          "text": "A Ktv. 17. § és a Kjt. 30. § d) pontja ellentétes, ezért az AB megsemmisítette a Kjt. szabályát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határozat mindkét szabályt fenntartotta, az indítványt elutasította. A helyes: a Kjt. 30. § (1) bekezdés d) pontja és a Ktv. 17. § (1) bekezdés f) pontja funkciója azonos, a megsemmisítés elmaradt. Az elutasított indítvány olvasata ezért téves."
+        },
+        {
+          "text": "A Kjt. d) pontja helyett ma már csak a Kit. bizalomvesztése alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kjt. 30. § (1) bekezdés d) pontja hatályos felmentési ok a nyugdíjasnak minősülés címén. A helyes: a nyugdíjasnak minősülés az Mt. 294. § (1) bekezdés g) pontjára utalva a Kjt. taxációja. A Kit. bizalomvesztése ezt a felmentési okot nem helyettesíti."
+        },
+        {
+          "text": "A 44/B/1993. AB határozat a Ktv. 17. § (1) bekezdés f) pontját a Kjt. 30. § (1) bekezdés d) pontjával együtt tartotta fenn; a két norma funkciója a taxált felmentési okok határának kijelölése a nyugellátásra szerzett jogosultság után.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 44/B/1993. AB határozat a Ktv. 17. § (1) bekezdés f) pontját a Kjt. 30. § (1) bekezdés d) pontjával együtt tartotta fenn; a két norma funkciója a taxált felmentési okok határának kijelölése a nyugellátásra szerzett jogosultság után. A versenyszféra akkor hatályos, indokoláshoz kötött, de okában szabad felmondásához képest többletvédelem. A nyugellátás e védelem határát jelöli ki."
+        },
+        {
+          "text": "A hatályos Kjt. 30. § (1) bekezdés d) pontja a nyugdíjasnak minősülést az Mt. 294. § (1) bekezdés g) pontjára utalva tartja fenn.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hatályos Kjt. 30. § (1) bekezdés d) pontja a nyugdíjasnak minősülést az Mt. 294. § (1) bekezdés g) pontjára utalva tartja fenn. A Ktv. f) pontja a határozat tárgya, de a funkció azonos. A közalkalmazotti felmentésnél tehát a nyugdíjasnak minősülés az irányadó fogalom."
+        }
+      ],
+      "sourceKerdesSorszam": 46,
+      "sourceHash": "190e366917b8"
+    }
+  ]
+}

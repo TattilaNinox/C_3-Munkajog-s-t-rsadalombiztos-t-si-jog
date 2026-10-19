@@ -1,0 +1,765 @@
+{
+  "id": "WxKddz0QKmNRHlN4YPUy",
+  "sorszam": 54,
+  "cim": "A társadalombiztosítás ellátásai és az ellátásra jogosultak.",
+  "generationType": "fogalom",
+  "title": "54. A társadalombiztosítás ellátásai és az ellátásra jogosultak.",
+  "questions": [
+    {
+      "question": "A Tbj. 5. § szerinti ellátáskatalógus hogyan választja szét a társadalombiztosítás két fő ágát, és mi a taxativitás joghatása?",
+      "options": [
+        {
+          "text": "A katalógus taxatív: ami a Tbj. 5. § felsorolásában nincs, az e törvény alapján nem társadalombiztosítási ellátás, még akkor sem, ha szociális jellegű pénzbeli juttatásról van szó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 5. § a fedezeti és jogszerzési rendhez zárt ellátáskatalógust kapcsol. A 6. § szerinti biztosított — ha törvény eltérően nem rendelkezik — e körre szerez jogot a 7. § alapján. A taxativitás tehát a jogszerzés tárgyi határa, nem csupán példálózó útmutató."
+        },
+        {
+          "text": "A Tbj. 5. § példálózó felsorolás: a biztosított bármely, a társadalombiztosítás céljához igazodó ellátásra jogosultságot szerezhet, ha járulékot fizet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a példálózó olvasat ellentétes a zárt katalógussal. A Tbj. 5. § (1)–(3) bekezdése taxatíve sorolja fel az egészségbiztosítási és nyugdíjbiztosítási ellátásokat, a 7. § pedig e körre nyit teljes jogszerzést törvényi eltérés hiányában. A járulékfizetés a fedezetet adja, de nem bővíti a tárgyi listát. A tévedés a járulékfizetés és a tárgyi ellátáskör összekeveréséből fakad."
+        },
+        {
+          "text": "A Tbj. 5. § (1) bekezdése az egészségbiztosítást, a nyugdíjbiztosítást és a családügyi ellátásokat egyenrangú három ágra bontja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a három ágra bontás nincs a normában. A Tbj. 5. § (1) bekezdése szerint az ellátások „az egészségbiztosítás és a nyugdíjbiztosítás keretében vehetők igénybe”. A csecsemőgondozási díj, a gyermekgondozási díj és az örökbefogadói díj a (2) bekezdés b) pontja szerint az egészségbiztosítás pénzbeli ellátásai. A tévedés a családi jellegű ellátások önálló ággá emeléséből ered."
+        },
+        {
+          "text": "A Tbj. 5. § (1) bekezdése szerint a társadalombiztosítás rendszerében nyújtott ellátások az egészségbiztosítás és a nyugdíjbiztosítás keretében vehetők igénybe.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 5. § (1) bekezdése a kötelező társadalombiztosítás ellátásait két zárt ágra szűkíti: „az egészségbiztosítás és a nyugdíjbiztosítás keretében vehetők igénybe”. Harmadik, családügyi ágat e szakasz nem nyit. Ami egyik ágba sem tartozik, az e törvény alapján nem a 5. § szerinti társadalombiztosítási ellátás."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "b4f14f43263e"
+    },
+    {
+      "question": "Miben tér el a Tbj. 5. § (2) bekezdése szerinti pénzbeli egészségbiztosítási ellátások köre a baleseti ellátásoktól és a megváltozott munkaképességű személyek ellátásaitól?",
+      "options": [
+        {
+          "text": "A baleseti ellátások a baleseti egészségügyi szolgáltatás, a baleseti táppénz és a baleseti járadék; ezek elkülönülnek a (2) bekezdés b) pont szerinti pénzbeli ellátásoktól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 5. § (2) bekezdés c) pontja szerint a baleseti ellátások: „baleseti egészségügyi szolgáltatás”, „baleseti táppénz” és „baleseti járadék”. A baleseti táppénz tehát nem a ba)–bd) alpontok egyikeként, hanem a baleseti csoportban jelenik meg. Az elhatárolás a jogcím és a fedezeti ág szempontjából is kötelező."
+        },
+        {
+          "text": "A táppénz és a baleseti táppénz egyaránt a Tbj. 5. § (2) bekezdés b) pontja szerinti pénzbeli ellátás, mert mindkettő keresőképtelenséghez kapcsolódik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két ellátás nem ugyanabba a pontba tartozik. A Tbj. 5. § (2) bekezdés b) pont bc) alpontja a táppénzt a pénzbeli ellátások között, a c) pont cb) alpontja a baleseti táppénzt a baleseti ellátások között sorolja. A keresőképtelenség önmagában nem helyezi a baleseti táppénzt a pénzbeli csoportba. A tévedés a két táppénzfajta elnevezésbeli hasonlóságából ered."
+        },
+        {
+          "text": "A pénzbeli ellátások taxatív köre a csecsemőgondozási díj, a gyermekgondozási díj, a táppénz és az örökbefogadói díj; ezek a (2) bekezdés b) pontjában, nem a c) vagy d) pontban szerepelnek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 5. § (2) bekezdés b) pontja a pénzbeli ellátásokat taxatíve sorolja: csecsemőgondozási díj, gyermekgondozási díj, táppénz és örökbefogadói díj. A baleseti táppénz és a baleseti járadék a c) pont alá tartozik, a rokkantsági és a rehabilitációs ellátás pedig a d) pont alá. A négyes lista tehát nem olvad össze a baleseti vagy a megváltozott munkaképességű ággal."
+        },
+        {
+          "text": "A rokkantsági és a rehabilitációs ellátás a Tbj. 5. § (3) bekezdése szerinti nyugdíjbiztosítási ellátás, mert tartós jövedelempótló jellegű.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 5. § (2) bekezdés d) pont da)–db) alpontja a rokkantsági és a rehabilitációs ellátást az egészségbiztosítási ágban nevezi meg; az Ebtv. 1. § (2) bekezdése e körre külön törvényt rendel. A (3) bekezdés a) pontja saját jogú nyugellátásként csak az öregségi nyugdíjat említi. A tévedés a tartós pénzellátás és a nyugdíjág összecseréléséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "54c51d4a9f1a"
+    },
+    {
+      "question": "A Tbj. 5. § (3) bekezdése szerint hogyan bontakozik a nyugdíjbiztosítási ellátások saját jogú és hozzátartozói oldala?",
+      "options": [
+        {
+          "text": "A baleseti hozzátartozói nyugellátások a Tbj. 5. § (2) bekezdés c) pontja szerinti baleseti ellátások közé tartoznak, nem a nyugdíjbiztosítási ágba.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a baleseti hozzátartozói nyugellátások a nyugdíjágon vannak. A Tbj. 5. § (3) bekezdés b) pont bd) alpontja a hozzátartozói nyugellátások között nevezi meg őket, míg a (2) bekezdés c) pontja a baleseti egészségügyi szolgáltatást, a baleseti táppénzt és a baleseti járadékot sorolja. A tévedés a „baleseti” jelző két ágon való megjelenésének összekeveréséből fakad."
+        },
+        {
+          "text": "Hozzátartozói nyugellátásként az özvegyi nyugdíj, az árvaellátás, a szülői nyugdíj és a baleseti hozzátartozói nyugellátások jelennek meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 5. § (3) bekezdés b) pont ba)–bd) alpontja e négy elemet sorolja. A hozzátartozói ág tehát nem csupán az özvegyi nyugdíjra korlátozódik. A baleseti hozzátartozói nyugellátások a nyugdíjbiztosítási katalógusban, nem az egészségbiztosítás baleseti ágában szerepelnek."
+        },
+        {
+          "text": "Saját jogú nyugellátásként a Tbj. 5. § (3) bekezdés a) pontja kizárólag az öregségi nyugdíjat nevezi meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 5. § (3) bekezdés a) pontja szerint saját jogú nyugellátás „öregségi nyugdíj”. E törvényi helyen a katalógus nem sorol fel rokkantsági nyugdíjat vagy más saját jogú nyugdíjfajtát. A saját jogú oldal tehát az öregségi nyugdíjra szűkül."
+        },
+        {
+          "text": "A Tbj. 5. § (3) bekezdése saját jogú nyugellátásként az öregségi nyugdíjat és a rokkantsági ellátást egyaránt felsorolja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés nem említi a rokkantsági ellátást. A Tbj. 5. § (3) bekezdés a) pontja saját jogú nyugellátásként csak az öregségi nyugdíjat nevezi meg, míg a rokkantsági ellátás a (2) bekezdés d) pont da) alpontja szerinti egészségbiztosítási ellátás. A tévedés a rokkantsági ellátás nyugdíjággá sorolásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "d2b139c8ac60"
+    },
+    {
+      "question": "Az Ebtv. 5/B. § a) pontja szerint miben tér el a „biztosított” fogalom az egészségügyi szolgáltatás, a pénzbeli ellátások és a baleseti egészségügyi szolgáltatás tekintetében?",
+      "options": [
+        {
+          "text": "Egészségügyi szolgáltatásnál a biztosított fogalma a Tbj. 6. § szerinti biztosítotton túl a Tbj. 3. § és a 22. § (1) és (3) bekezdése szerint egészségügyi szolgáltatásra jogosultat is magában foglalja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Ebtv. 5/B. § a) pont aa) alpontja e tágabb kört rögzíti. A származékos jogosult így az egészségügyi szolgáltatás tekintetében bekerül a biztosított-fogalomba, noha nem a Tbj. 6. § szerinti biztosított. Az aa) és az ab) alpont elhatárolása ezért nem stiláris."
+        },
+        {
+          "text": "A Tbj. 22. § szerint egészségügyi szolgáltatásra jogosult nyugdíjas a pénzbeli ellátások tekintetében is az Ebtv. 5/B. § szerinti biztosítottnak minősül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 22. § szerinti jogosultság nem nyit pénzbeli biztosítotti fogalmat. Az Ebtv. 5/B. § a) pont ab) alpontja a pénzbeli ellátásoknál csak a Tbj. 6. § szerinti biztosítottra utal, míg az aa) alpont a 22. §-t az egészségügyi szolgáltatáshoz köti. A tévedés a származékos jogosultság teljes biztosítotti státusszá tágításából fakad."
+        },
+        {
+          "text": "Baleseti egészségügyi szolgáltatásnál biztosítottnak kizárólag a Tbj. 6. § szerinti biztosított minősül, a Tbj. 21. § szerinti jogosult nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szűkítés csak a pénzbeli oldalra igaz, a baleseti egészségügyi szolgáltatásra nem. Az Ebtv. 5/B. § a) pont ad) alpontja a Tbj. 6. § szerinti biztosítotton túl a Tbj. 21. § szerint jogosultat és az egyszerűsített foglalkoztatás keretében alkalmazott munkavállalót is ide sorolja. A tévedés a pénzbeli ellátások ab) alpontjának átviteléből ered."
+        },
+        {
+          "text": "Pénzbeli egészségbiztosítási ellátások tekintetében biztosítottnak csak a Tbj. 6. § szerinti biztosított minősül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Ebtv. 5/B. § a) pont ab) alpontja szerint a pénzbeli ellátások tekintetében biztosított „a Tbj. 6. §-a szerinti biztosított”. A Tbj. 22. § szerinti származékos egészségügyi-szolgáltatás-jogosult tehát önmagában nem válik pénzbeli ellátásra jogosult „biztosítottá”. A fogalom ellátástípusonként válik szét."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "444a9f2be0d1"
+    },
+    {
+      "question": "Mi következik abból, ha valaki a Tbj. 6. § szerint biztosított, a Tbj. 7. § és a 21–22. § viszonyában?",
+      "options": [
+        {
+          "text": "A Tbj. 21. § és 22. § szerinti nem biztosított jogosult csak a nevesített ellátásra (baleseti egészségügyi szolgáltatás, illetve egészségügyi szolgáltatás) kap jogot, nem a 7. § szerinti teljes katalógusra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 21. § a baleseti egészségügyi szolgáltatást, a 22. § az egészségügyi szolgáltatást terjeszti ki meghatározott nem biztosítottakra. E kör nem válik a 6. § szerinti biztosítottá, ezért a 7. § teljes jogszerzése rájuk nem nyílik. A származékos jogosultság ellátásspecifikus."
+        },
+        {
+          "text": "A Tbj. 7. § szerint a biztosítottak — ha törvény eltérően nem rendelkezik — a társadalombiztosítás valamennyi ellátására jogosultságot szerezhetnek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 7. § a 6. § szerinti biztosítotti státus joghatását a teljes Tbj. 5. §-katalógusra nyitja. A főszabály tehát nem korlátozódik az egészségügyi szolgáltatásra. A törvényi eltérés különösen a 21–22. § származékos jogosultjainál jelenik meg, akik nem e teljes körű jogszerzők."
+        },
+        {
+          "text": "A Tbj. 22. § szerint egészségügyi szolgáltatásra jogosult hajléktalan a 7. § alapján automatikusan táppénzre és öregségi nyugdíjra is jogosultságot szerez.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 22. § csak az egészségügyi szolgáltatásra nyit származékos jogot. A Tbj. 7. § a 6. § szerinti biztosítottakra vonatkozik; a hajléktalan e szakasz alapján nem válik teljes katalógusra jogosult biztosítotttá. A tévedés a származékos jogosultság és a biztosítotti státus összecseréléséből ered."
+        },
+        {
+          "text": "A Tbj. 21. § szerinti tanulói gyakorlati képzésben részt vevő a baleseti táppénzre és a baleseti járadékra is ugyanúgy jogosult, mint a 6. § szerinti biztosított.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 21. § szövege csak a baleseti egészségügyi szolgáltatásra jogosít a nevesített nem biztosított körben. A baleseti táppénz és a baleseti járadék a 5. § (2) bekezdés c) pontjának további elemei, de a 21. § ezeket nem terjeszti ki. A tévedés a baleseti ág teljes csomagjának a 21. §-ra olvasásából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "e8a29cd8df23"
+    },
+    {
+      "question": "A Tbj. 6. § (1) bekezdés f) pontja és a 12. § szerint milyen küszöbhöz és elbírálási rendhez kötött a díjazásos egyéb jogviszony biztosítása?",
+      "options": [
+        {
+          "text": "A díjazás ellenében, munkavégzésre irányuló egyéb jogviszonyban személyesen munkát végző akkor biztosított, ha a tárgyhavi járulékalapot képező jövedelme eléri a minimálbér harminc százalékát, vagy naptári napokra annak harmincad részét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 6. § (1) bekezdés f) pontja e harminc százalékos küszöbhöz köti a biztosítotti minőséget. A közérdekű önkéntes tevékenységet végző e pont alól ki van véve. A küszöb elérése nélkül az egyéb jogviszony önmagában nem keletkeztet biztosítást."
+        },
+        {
+          "text": "A 12. § (1) bekezdése szerint a biztosítást havonta kell elbírálni, és ugyanannál a foglalkoztatónál a naptári hónapban elért járulékalapokat össze kell számítani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 12. § (1) bekezdése a küszöböt nem ügyletenként, hanem azonos foglalkoztatónál havi összeszámítással méri. A 9. § szerinti külön-külön elbírálás a jogviszonyok önállóságát őrzi; a 12. § e küszöbszámításnál azonos foglalkoztatóra szabott kivétel. A hónapon belüli több megbízás így összeadódhat."
+        },
+        {
+          "text": "Az egyéb jogviszonyban a biztosítotti minőség ügyleti szinten dől el: minden egyes megbízási díj külön-külön akkor keletkeztet biztosítást, ha önmagában eléri a minimálbér harminc százalékát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 12. § (1) bekezdése havi elbírálást és azonos foglalkoztatónál összeszámítást ír elő. A 6. § (1) bekezdés f) pontjának küszöbe tehát a naptári hónapban ugyanott elért járulékalapok összege szerint dől el. A tévedés az ügyletenkénti küszöbölésből ered."
+        },
+        {
+          "text": "A 12. § (2) bekezdése szerint a küszöb alatti hónapban is fennmarad a biztosítás, ha a személy a megelőző három hónap bármelyikében biztosított volt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 12. § (2) bekezdése a biztosítást a 8. § szerinti időszakon belül akkor tartja fenn, ha a személy táppénzben, baleseti táppénzben, csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban vagy a nevesített gyermekgondozási, ápolási ellátásokban részesül, és az ellátás folyósítását közvetlenül megelőző napon biztosított volt. Három hónapos visszatekintő szabály e helyen nincs. A tévedés egy általános „folytonossági” olvasatból fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "f5b791873588"
+    },
+    {
+      "question": "Mely esetben nem szünetel a biztosítás a Tbj. 16. § a) pontja szerint a fizetés nélküli szabadság ideje alatt?",
+      "options": [
+        {
+          "text": "Nem szünetel, ha a fizetés nélküli szabadságot tizenkét évesnél fiatalabb beteg gyermek ápolása címén veszik igénybe, vagy azt önkéntes tartalékos katonai szolgálat teljesítése céljából veszik igénybe.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 16. § a) pont ab) és ac) alpontja e két tényállást szintén kiveszi a szünetelés alól. A tizenkét éves korhatár az ápolási kivétel tényállási eleme. Az önkéntes tartalékos katonai szolgálat a harmadik nevesített kivétel a fizetés nélküli szabadság körében."
+        },
+        {
+          "text": "A fizetés nélküli szabadság ideje alatt a biztosítás minden esetben szünetel, mert a Tbj. 16. § a) pontja kivételt nem ismer.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 16. § a) pontja a fizetés nélküli szabadságot főszabályként szünetelési oknak nevezi, de az aa)–ac) alpontokban kivételeket sorol. A csecsemőgondozási díj, az örökbefogadói díj, a gyermekgondozási díj és a további nevesített gyermekgondozási, ápolási, valamint tartalékos katonai esetek tehát nem szüneteltetnek. A tévedés a főszabály kivétel nélküli olvasatából ered."
+        },
+        {
+          "text": "A táppénz folyósítása a fizetés nélküli szabadság idején automatikusan megszünteti a 16. § a) pontja szerinti szünetelést, mert a táppénz is pénzbeli egészségbiztosítási ellátás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 16. § a) pont aa) alpontja a csecsemőgondozási díjat, az örökbefogadói díjat, a gyermekgondozási díjat, a gyermekgondozást segítő ellátást és a gyermeknevelési támogatást nevezi meg, a táppénzt nem. A táppénz a 5. § (2) bekezdés b) pont bc) alpontja szerinti pénzbeli ellátás, de e szünetelési kivétel listáján nem szerepel. A tévedés a pénzbeli ellátások listájának a szünetelési kivételekre való átviteléből fakad."
+        },
+        {
+          "text": "Nem szünetel, ha a fizetés nélküli szabadság idejére csecsemőgondozási díj, örökbefogadói díj, gyermekgondozási díj, gyermekgondozást segítő ellátás vagy gyermeknevelési támogatás kerül folyósításra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 16. § a) pont aa) alpontja e folyósításokat a szünetelés alóli kivételként nevezi meg. A fizetés nélküli szabadság főszabálya tehát nem érvényesül, ha e díjak vagy ellátások folynak. A kivétel a gyermekgondozási pénzbeli jogcímekhez kötött."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "34260dba734b"
+    },
+    {
+      "question": "A Tbj. 8. § és a 9. § szerint hogyan kapcsolódik a biztosítás időbeli fennállása a jogviszonyhoz, ha több biztosítással járó jogviszony áll fenn egyidejűleg?",
+      "options": [
+        {
+          "text": "Az egyidejűleg több biztosítással járó jogviszonyban álló személy biztosításának fennállását mindegyik jogviszonyában külön-külön kell elbírálni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 9. § a többes jogviszonyt önálló elbírálásra bontja. A halmozódás nem szünteti meg a második jogviszony biztosítotti minőségét, és nem vonja össze a jogviszonyokat egyetlen biztosítássá. Mindegyik fennálló biztosítás a 7. § szerinti jogszerzést önállóan viselheti."
+        },
+        {
+          "text": "A biztosítás a foglalkoztató bejelentésének napján keletkezik, és a bejelentés visszavonásáig tart, akkor is, ha a jogviszony már korábban megszűnt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 8. § a biztosítást az alapul szolgáló jogviszony kezdetétől annak megszűnéséig rendeli fennállni. A bejelentés adminisztratív kötelezettség, de nem helyettesíti a jogviszonyhoz kötött időbeli hatályt. A tévedés a bejelentési aktus és az ex lege keletkező biztosítás összekeveréséből fakad."
+        },
+        {
+          "text": "Ha valaki egyidejűleg munkaviszonyban és társas vállalkozóként is biztosított, a Tbj. 9. § szerint csak a magasabb járulékalapú jogviszony tartja fenn a biztosítást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 9. § szerint a fennállást mindegyik jogviszonyában külön-külön kell elbírálni; nincs „főjogviszony” szerinti kizárólagosság. A 8. § mindkét jogviszony saját kezdetéhez és megszűnéséhez köti a biztosítást. A tévedés a többes biztosítás egyetlen jogviszonnyá olvasásából ered."
+        },
+        {
+          "text": "A biztosítás — ha a Tbj. eltérően nem rendelkezik — az alapul szolgáló jogviszony kezdetétől annak megszűnéséig áll fenn.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 8. § a biztosítást a jogviszony időbeli határaihoz köti, nem a bejelentés napjához. A 10–14. § a vállalkozói, őstermelői és egyéb különös kezdő- és zárónapokat e főszabályhoz képest tölti ki. A 16. § a szünetelést a fennállás felfüggesztéseként kezeli, a jogviszonyt nem szünteti meg."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "d66243d955af"
+    },
+    {
+      "question": "Mi a jogkövetkezménye a Tbj. 15. § szerint annak, ha a munkaviszony jogellenesen megszűnik, majd helyreáll?",
+      "options": [
+        {
+          "text": "A 15. § csak a nyugdíjjogosultság szolgálati idejénél alkalmazható, a táppénz és a csecsemőgondozási díj igényénél nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 15. § a „társadalombiztosítási ellátások iránti igények” elbírálásáról beszél, nem szűkíti a fikciót a nyugdíjáig. A helyreállítást követően keletkező egészségbiztosítási és nyugdíjbiztosítási igényeknél egyaránt irányadó lehet. A tévedés a szolgálati idő speciális szabályainak a 15. §-ra szűkítéséből fakad."
+        },
+        {
+          "text": "A jogellenes megszűnés napjától a biztosítás minden ellátás tekintetében folyamatosan fennáll, akkor is, ha a munkaviszonyt soha nem állítják helyre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 15. § a fikciót a helyreállítást követően keletkezett igények elbírálásához köti. Helyszállítás hiányában e pótlólagos biztosítási idő nem keletkezik. A tévedés a 15. § feltétel nélküli, folyamatos biztosításként olvasásából ered."
+        },
+        {
+          "text": "A fikció a 8. § szerinti megszűnéshez képest pótlólagos: a helyreállításig terjedő idő az ellátási igény szempontjából biztosítási időnek minősül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 8. § főszabálya a jogviszony megszűnéséhez köti a biztosítás végét, a 15. § viszont a jogellenes megszűnés és a helyreállítás közötti szakaszt az ellátási elbírálásnál biztosítási időnek rendeli. A fikció csak a helyreállítást követően keletkezett társadalombiztosítási ellátások iránti igényeknél hat. Helyreállítás hiányában e pótlólagos biztosítási idő nem keletkezik."
+        },
+        {
+          "text": "A jogellenes megszűnéstől a helyreállításig terjedő időszakot biztosítási jogviszonyban töltött időszaknak kell tekinteni a helyreállítást követően keletkezett társadalombiztosítási ellátások iránti igények elbírálásakor.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 15. § e fikciót kifejezetten a helyreállítást követő ellátási igényekhez köti. A szabály tehát nem a megszűnés pillanatában, hanem az utóbb keletkező igényeknél hat. A jogellenes megszüntetés így nem szakítja meg a jogszerzést, ha a munkaviszony helyreáll."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "55dbfba1e188"
+    },
+    {
+      "question": "A Tbj. 17. § (1) bekezdése szerint mely alanyi körre nem terjed ki a biztosítás, ha a küldő vagy a nemzetközi szervezet rendszere rájuk kiterjed?",
+      "options": [
+        {
+          "text": "Nem terjed ki a nemzetközi szervezet nemzetközi szerződés alapján mentességet élvező tisztviselőjére és vele közös háztartásban élő családtagjára, ha kiterjed rájuk a szervezet szociális biztonsági rendszere, továbbá az európai parlamenti képviselőre sem.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 17. § (1) bekezdés b) és c) pontja e két alanyi kört külön nevezi meg. A nemzetközi szervezeti mentességhez a szervezet saját szociális biztonsági rendszerének kiterjedése kell. Az európai parlamenti képviselőnél e feltétel nélkül is kimondott a kiterjesztés hiánya."
+        },
+        {
+          "text": "A diplomáciai képviselet magyar állampolgárságú tagjára a 17. § (1) bekezdés a) pontja ugyanúgy kiterjeszti a mentesülést, mint a külföldi állampolgárságú tagra.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 17. § (1) bekezdés a) pontja a képviselet „külföldi állampolgárságú tagjáról” beszél. A magyar állampolgárságú tag e pont szerinti mentesülési tényállásba nem fér bele. A tévedés az állampolgársági feltétel figyelmen kívül hagyásából ered."
+        },
+        {
+          "text": "Nem terjed ki a külföldi állam Magyarországra akkreditált diplomáciai és konzuli képviselete személyzetének külföldi állampolgárságú tagjára, a kizárólag nála álló külföldi háztartási alkalmazottra és a vele közös háztartásban élő külföldi családtagra, ha rájuk a küldő vagy más állam társadalombiztosítási rendszere kiterjed.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 17. § (1) bekezdés a) pontja e diplomáciai-konzuli kört a biztosítás alól kiveszi a nevesített feltétellel. A mentesülés tehát nem abszolút: a küldő vagy más állam rendszerének kiterjedése tényállási elem. A családtag körét a pont házastársra és gyermekre szűkíti."
+        },
+        {
+          "text": "A 17. § (1) bekezdése a mentesült diplomáciai és nemzetközi szervezeti kört egyben elzárja a Tbj. 48. és 49. § szerinti megállapodás megkötésétől is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 20. § éppen a 17. § (1) bekezdésében meghatározott személyek számára nyitja a 48. és 49. § szerinti megállapodást. A mentesülés tehát nem zárja el a szerződéses jogszerzést. A tévedés a mentesülés és a megállapodás kizáró viszonyaként olvasásából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "dda0fc9b16c4"
+    },
+    {
+      "question": "Milyen tartamban és milyen előfeltételekkel mentesül a Tbj. 17. § (2) bekezdés a) pontja szerint a harmadik államból kiküldött, külföldinek minősülő munkavállaló a magyar biztosítás alól?",
+      "options": [
+        {
+          "text": "A Tbj. 18. § szerint e mentesülés akkor is alkalmazható, ha a kiküldött a harmadik államban fennálló biztosítását az 1. melléklet szerint igazolja, függetlenül attól, hogy állampolgársága szerinti állammal Magyarországnak hatályos szociális biztonsági egyezménye áll-e fenn.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 18. § (1) bekezdése az igazoláshoz köti a 17. § (2) bekezdés a) pontjának alkalmazhatóságát. A (2) bekezdés ugyanezt nyitja, ha a kiküldött nem tartozik a koordinációs uniós rendeletek hatálya alá. Az 1. melléklet szerinti igazolás a külföldi biztosítás bizonyítéka."
+        },
+        {
+          "text": "A mentesüléshez az kell, hogy a magyar jogszabályok szerint be nem jegyzett külföldi munkáltató foglalkoztassa Magyarországon, a munkavégzés kiküldetés, kirendelés vagy munkaerő-kölcsönzés keretében történjen, a két évet ne haladja meg, és az előző belföldi munkavégzés befejezésétől három év elteljen.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 17. § (2) bekezdés a) pontja e feltételeket konjunktívan rögzíti. A két éves felső határ és a három éves szünet a tényállás része. A harmadik állam állampolgársága és a külföldinek minősülés szintén szükséges."
+        },
+        {
+          "text": "A hallgatói munkaszerződés alapján létrejött jogviszony ugyanazon két éves és három éves küszöbhöz kötött, mint a harmadik állami kiküldött.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 17. § (2) bekezdés b) pontja az Nftv. 44. § (1) bekezdés a) pontja szerinti hallgatói munkaszerződést önállóan, tartamküszöb nélkül veszi ki a biztosítás alól. A két és három éves feltételek az a) pont kiküldötti tényállásához tartoznak. A tévedés a (2) bekezdés pontjainak összemosásából ered."
+        },
+        {
+          "text": "A két éves kiküldetés letelte után a mentesülés automatikusan további két évre meghosszabbodik, bejelentés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 19. § (1) bekezdése a két évnél hosszabb munkavégzéshez külön, bejelentéshez kötött lehetőséget ad, előre nem látható körülmény és legalább egy év elteltével. A (2) bekezdés szerint a biztosítási és járulékfizetési kötelezettség a kiküldetés kezdetét követő második év végétől áll fenn. Automatikus két éves hosszabbítás nincs."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "674738cc76f4"
+    },
+    {
+      "question": "Egy harmadik államból kiküldött munkavállaló a magyarországi munkavégzés kezdetét követő tizennegyedik hónapban bejelenti, hogy előre nem látható okból a kiküldetés két évnél hosszabbá válik. Mi következik a Tbj. 19. § szerint?",
+      "options": [
+        {
+          "text": "A bejelentés hatására a biztosítási kötelezettség a kiküldetés első napjától visszamenőlegesen fennáll.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 19. § (2) bekezdése a kötelezettséget a kiküldetés kezdetét követő második év végétől rendeli fennállni. Visszamenőleges, a teljes időszakra nyíló magyar biztosítás e szakaszból nem következik. A tévedés a bejelentés hatályának a kiküldetés kezdetére tolásából ered."
+        },
+        {
+          "text": "A 19. § (1) bekezdése szerint a bejelentéshez az kell, hogy az előre nem látható körülmény a magyarországi munkavégzés kezdetét követő legalább egy év után következzen be, és a munkavállaló azt nyolc napon belül bejelentse az állami adóhatóságnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 19. § (1) bekezdés a)–b) pontja e két feltételt konjunktívan rögzíti. A tizennegyedik hónap megfelel a legalább egy éves várakozásnak. A nyolc napos bejelentés az érvényesítés feltétele."
+        },
+        {
+          "text": "A 19. § (2) bekezdése szerint a biztosítási és járulékfizetési kötelezettség a kiküldetés kezdetét követő második év végétől áll fenn.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hosszabbítás nem teszi a teljes időtartamot magyar biztosítási idővé. A Tbj. 19. § (2) bekezdése a kötelezettséget a második év végétől nyitja. A két éves mentesülési szakasz tehát megmarad, utána kezdődik a Tbj. hatálya."
+        },
+        {
+          "text": "A 19. § csak akkor alkalmazható, ha a kiküldött magyar állampolgár, a harmadik állami állampolgárra a 17. § (2) bekezdés a) pontja mindenképpen véglegesen mentesít.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 19. § a 17. § (2) bekezdés a) pontjától eltérő hosszabbítási szabály, és a harmadik államból kiküldött személyre szabott. Az állampolgársági szűkítés e szakaszban nincs. A tévedés a mentesülés és a hosszabbítás alanyi körének indokolatlan szétválasztásából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "34e634334779"
+    },
+    {
+      "question": "A Tbj. 21. § szerinti baleseti egészségügyi szolgáltatásra jogosult nem biztosított kör miben tér el a 6. § szerinti biztosítottól?",
+      "options": [
+        {
+          "text": "A közérdekű munkát végző a 21. § alapján a Tbj. 6. § szerinti biztosítottá válik a munkavégzés idejére.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 21. § e) pontja a közérdekű munkát végzőt a baleseti egészségügyi szolgáltatásra jogosítja, nem a 6. § biztosítotti katalógusába emeli. A Tbj. 7. § szerinti, valamennyi ellátásra nyíló jogszerzés a 6. § szerinti biztosítottakra vonatkozik, ezért a közérdekű munkát végzőre e jogcímből nem nyílik. A tévedés a 21. § és a 6. § alanyi hatásának összecseréléséből fakad."
+        },
+        {
+          "text": "A 21. § szerinti fogvatartott a baleseti táppénzre és a baleseti járadékra is jogosult, mert ezek is baleseti ellátások.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 21. § chapeau-ja és felsorolása csak a baleseti egészségügyi szolgáltatásról beszél. A baleseti táppénz és a baleseti járadék a 5. § (2) bekezdés c) pont cb)–cc) alpontjában szerepel, de a 21. § ezeket a nem biztosítottakra nem terjeszti ki. A tévedés a baleseti ág teljes csomagjának a 21. §-ra olvasásából ered."
+        },
+        {
+          "text": "A 21. § szerinti jogosult nem válik a 6. § szerinti biztosítottá, ezért a 7. § szerinti teljes ellátáskatalógusra nem szerez jogot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 21. § a baleseti egészségügyi szolgáltatást terjeszti ki a nevesített nem biztosítottakra, nem a teljes 5. §-katalógust. Az Ebtv. 5/B. § a) pont ad) alpontja e kört a baleseti egészségügyi szolgáltatás biztosított-fogalmába emeli, de ez nem azonos a Tbj. 6. § szerinti teljes biztosítotti státusszal. A táppénz vagy az öregségi nyugdíj e jogcímből nem következik."
+        },
+        {
+          "text": "A 21. § a baleseti egészségügyi szolgáltatást a 6. § szerinti biztosítotton és a 3. § szerint baleseti egészségügyi szolgáltatásra jogosulton túl meghatározott nem biztosított alanyi körnek is adja, például a gyakorlati képzésben részt vevő tanulónak, hallgatónak, a fogvatartottnak és a közérdekű önkéntes tevékenységet végzőnek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 21. § a)–f) pontja e taxatív kört sorolja. A jogosultság csak a baleseti egészségügyi szolgáltatásra nyílik. A külföldi állampolgár a gyakorlati képzési pont alól ki van véve."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "72f55e2d5bb9"
+    },
+    {
+      "question": "A Tbj. 22. § szerint egészségügyi szolgáltatásra jogosult nem biztosítottnál hogyan dől el, ha több jogcím egyszerre fennáll?",
+      "options": [
+        {
+          "text": "A jogosult szabadon választhatja meg, hogy az (1) bekezdés melyik pontja alapján kéri az egészségügyi szolgáltatást, ha több pont is fennáll.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 22. § (4) bekezdése az (1) bekezdés felsorolását jogosultsági sorrendnek minősíti, nem választási listának. Egyszerre csak egy jogcím állapítható meg. A tévedés a sorrend diszpozitív olvasatából ered."
+        },
+        {
+          "text": "A 22. § (1) bekezdés b) pontja szerinti nyugellátásban részesülő a 7. § alapján a Tbj. 5. § teljes ellátáskatalógusára jogosultságot szerez.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 22. § (1) bekezdés b) pontja az 5. § (3) bekezdése szerinti nyugellátásban részesülőt az egészségügyi szolgáltatásra jogosítja. A 7. § a 6. § szerinti biztosítottakra vonatkozik; a nyugdíjas e pont alapján nem válik teljes katalógusra jogosult biztosítottá. A tévedés a származékos jogosultság és a biztosítotti státus összecseréléséből fakad."
+        },
+        {
+          "text": "Az egészségügyi szolgáltatásokra vonatkozó igényjogosultságot egyszerre csak egy jogcímre tekintettel lehet megállapítani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 22. § (4) bekezdése az egyidejű többes jogcímet kizárja. A jogosultság tehát nem halmozódik párhuzamosan. A szabály a származékos egészségügyi-szolgáltatás-jogosultság rendezettségét szolgálja."
+        },
+        {
+          "text": "Ha a jogosultság egyszerre több jogcím alapján is megállapítható, az (1) bekezdés felsorolása jogosultsági sorrendet jelent, és a (2) bekezdés szerinti jogcím az (1) bekezdésbeli jogcímeket megelőzi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 22. § (4) bekezdése az (1) bekezdés felsorolását jogosultsági sorrendnek minősíti, és kimondja, hogy a (2) bekezdésben meghatározott jogcím az (1) bekezdésbeli jogcímeket megelőzi. A 3. § hatálya alá tartozó külföldi tehát a (2) bekezdés szerint megelőzi az (1) bekezdés a)–v) pontjait. A sorrend nem a jogosult diszpozitív választása."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "db83017d1c3f"
+    },
+    {
+      "question": "Az Ebtv. 2. § szerint miben tér el az egészségügyi szolgáltatások és a pénzbeli egészségbiztosítási ellátások igénybevételének mércéje?",
+      "options": [
+        {
+          "text": "A táppénz összege az Ebtv. 2. § (1) bekezdése szerint az egészségi állapot által indokolt mértékhez igazodik, nem a járulékalaphoz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a táppénz pénzbeli egészségbiztosítási ellátás, ezért az Ebtv. 2. § (2) bekezdésének járulékaranyos mércéje alá tartozik. Az (1) bekezdés a természetbeni egészségügyi szolgáltatásokra vonatkozik. A tévedés a két mérce ellátástípus szerinti elválasztásának figyelmen kívül hagyásából ered."
+        },
+        {
+          "text": "A pénzbeli egészségbiztosítási ellátások — az Ebtv. és a külképviseleti törvény kivételeivel — a társadalombiztosítási járulékfizetési kötelezettséggel arányosan vehetők igénybe.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Ebtv. 2. § (2) bekezdése a járulékaranyos mércét mondja ki a pénzbeli oldalra. Ez a Tbj. 5. § (2) bekezdés b) pontja szerinti csecsemőgondozási díj, gyermekgondozási díj, táppénz és örökbefogadói díj dogmatikájához kapcsolódik. A természetbeni és a pénzbeli ág mércéje tehát szándékosan elválik."
+        },
+        {
+          "text": "Az Ebtv. 2. § mindkét bekezdés ugyanazt a járulékaranyos mércét alkalmazza az egészségügyi szolgáltatásra és a pénzbeli ellátásra.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Ebtv. 2. § (1) bekezdése szükségletelvű, a (2) bekezdés járulékaranyos mércét ad. A két bekezdés szándékosan választja szét a természetbeni és a pénzbeli oldalt. A tévedés a kettős mérce egyetlen szabályként olvasásából fakad."
+        },
+        {
+          "text": "Az egészségügyi szolgáltatások — a törvény és a nevesített kivételek keretei között — az egészségi állapot által indokolt mértékben vehetők igénybe, nem a járulékösszeg arányában.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Ebtv. 2. § (1) bekezdése a szükségletelvű mércét rögzíti. A finanszírozási, vizsgálati és terápiás eljárási rendek, valamint a gyógyszer- és gyógyászatisegédeszköz-szabályok a keretet adják. A járulékfizetés mértéke e szolgáltatások terjedelmét nem arányosítja."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "df2820fade92"
+    },
+    {
+      "question": "Az Ebtv. 6. § szerint miben áll a Tbj. szerinti biztosított és a Tbj. 22. § szerinti egészségügyi szolgáltatásra jogosult viszonya?",
+      "options": [
+        {
+          "text": "Az Ebtv. 6. § (1) bekezdése a Tbj. 21. § szerinti baleseti egészségügyi szolgáltatásra jogosultat is valamennyi Ebtv.-ellátásra jogosítja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Ebtv. 6. § (1) bekezdése a Tbj. szerint biztosított személyről beszél. A 21. § szerinti jogosultra a (4) bekezdés a baleseti egészségügyi szolgáltatások tekintetében ad a biztosítottal azonos ellátást. A teljes Ebtv.-katalógus e jogcímből nem nyílik. A tévedés az (1) és a (4) bekezdés alanyi körének összecseréléséből fakad."
+        },
+        {
+          "text": "A Tbj. szerint biztosított személy valamennyi, az Ebtv.-ben szabályozott ellátásra jogosult.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Ebtv. 6. § (1) bekezdése a Tbj. 7. § egészségbiztosítási párja. A 6. § szerinti biztosítotti státus tehát az Ebtv. teljes ellátáskörét megnyitja. Ez tágabb, mint a csupán egészségügyi szolgáltatásra szóló származékos jog."
+        },
+        {
+          "text": "A Tbj. 22. § szerinti jogosult az Ebtv. 6. § (2) bekezdése folytán a pénzbeli ellátásokra is a biztosítottal azonos jogállást kap.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Ebtv. 6. § (2) bekezdése a II. és III. fejezet alkalmazásában az egészségügyi szolgáltatásra jogosultat emeli a biztosítottal azonos ellátásba. A pénzbeli ellátásoknál az Ebtv. 5/B. § a) pont ab) alpontja továbbra is csak a Tbj. 6. § szerinti biztosítottra szűkít. A tévedés az azonos ellátás fikciójának a pénzbeli ágra tágításából ered."
+        },
+        {
+          "text": "A II. és III. fejezet alkalmazásában a Tbj. szerint egészségügyi szolgáltatásra jogosultat — ideértve azt is, aki után a központi költségvetés egészségbiztosítási járulékot fizet — a biztosítottal azonos ellátás illeti meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Ebtv. 6. § (2) bekezdése e fikciót az egészségügyi szolgáltatásra szabja. A 22. § szerinti nyugdíjas, tanuló vagy hajléktalan így nem válik Tbj. 6. § szerinti biztosítottá, de az egészségügyi szolgáltatásban a biztosítottal azonos Ebtv.-jogosult. A (3)–(4) bekezdés a baleseti ágon hasonló azonosítást ad."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "b9ce5212db3b"
+    },
+    {
+      "question": "A Tbj. 6. § chapeau-ja szerint ki esik ki a biztosítotti katalógusból, és mi a 6. § (1) bekezdés a) pontjának „munkaviszony” gyűjtőfogalma?",
+      "options": [
+        {
+          "text": "A kiegészítő tevékenységet folytató egyéni vállalkozó a 6. § (1) bekezdés d) pontja alapján akkor is biztosított, ha a chapeau szerinti kizárás fennáll.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 6. § (1) bekezdésének bevezető fordulata a kiegészítő tevékenységet folytató személyt a teljes (1) bekezdés alól kiveszi, ideértve a d) pont szerinti egyéni vállalkozót is. A pontok csak a chapeau feltételének teljesülése mellett alkalmazhatók. A tévedés a d) pont önálló, chapeau nélküli olvasatából ered."
+        },
+        {
+          "text": "A 6. § (1) bekezdése szerint biztosított a kiegészítő tevékenységet folytató személynek nem minősülő, a pontokban felsorolt jogviszonyokban álló személy; a kiegészítő tevékenységet folytató tehát kiesik e biztosítotti körből.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 6. § (1) bekezdésének bevezető fordulata a kiegészítő tevékenységet folytató személyt eleve kizárja a taxatív listából. A biztosítotti minőséghez tehát nemcsak a nevesített jogviszony, hanem a kiegészítő tevékenység hiánya is kell. A chapeau és a pontok együttesen zárják a kört."
+        },
+        {
+          "text": "Az a) pont a közalkalmazotti, kormányzati szolgálati, bírói, ügyészi és más nevesített közszolgálati, honvédelmi és rendvédelmi jogviszonyokat a továbbiakban együtt munkaviszonynak nevezi, tekintet nélkül a teljes vagy részmunkaidőre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 6. § (1) bekezdés a) pontja e gyűjtőfogalmat kifejezetten kimondja. A Tbj. szempontjából tehát e közjogi jogviszonyok is a munkaviszony-gyűjtőbe tartoznak. A részmunkaidő önmagában nem zárja ki a biztosítotti minőséget."
+        },
+        {
+          "text": "A közalkalmazotti jogviszony a Tbj. 6. § (1) bekezdés a) pontja szerint nem tartozik a munkaviszony gyűjtőfogalom alá, ezért csak külön törvény alapján keletkeztet biztosítást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 6. § (1) bekezdés a) pontja a közalkalmazotti jogviszonyt kifejezetten felsorolja, és a nevesített jogviszonyokat együtt munkaviszonynak nevezi. A biztosítotti minőség e pont alapján, a Tbj. erejénél fogva keletkezik. A tévedés a közalkalmazotti jogviszony Tbj.-n kívüli kezeléséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "2b7b665158d3"
+    },
+    {
+      "question": "A Tny. 6. § szerinti nyugdíjszolgáltatási katalógus miben tér el a Tbj. 5. § (3) bekezdésének nyugdíjbiztosítási felsorolásától az özvegyi járadék tekintetében?",
+      "options": [
+        {
+          "text": "A Tny. 6. § (2) bekezdés e) pontja a hozzátartozói nyugellátások között nevesíti az özvegyi járadékot, noha a Tbj. 5. § (3) bekezdés b) pontja ezt az elemet nem sorolja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tny. 6. § (2) bekezdés a)–e) pontja az özvegyi nyugdíjat, az árvaellátást, a szülői nyugdíjat, a baleseti hozzátartozói nyugellátásokat és az özvegyi járadékot nevezi meg. A Tbj. 5. § (3) bekezdés ba)–bd) alpontja az özvegyi járadékot nem tartalmazza. A két katalógus tehát e ponton nem azonos terjedelmű."
+        },
+        {
+          "text": "Az özvegyi járadék a Tbj. 5. § (2) bekezdés c) pontja szerinti baleseti ellátás, ezért a Tny. 6. §-ban nem jelenhet meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tny. 6. § (2) bekezdés e) pontja az özvegyi járadékot a hozzátartozói nyugellátások között nevezi meg. A Tbj. 5. § (2) bekezdés c) pontja a baleseti egészségügyi szolgáltatást, a baleseti táppénzt és a baleseti járadékot sorolja, az özvegyi járadékot nem. A tévedés a „járadék” elnevezések összekeveréséből fakad."
+        },
+        {
+          "text": "A Tny. 6. § (1) bekezdése saját jogú nyugellátásként csak az öregségi nyugdíjat nevezi meg, összhangban a Tbj. 5. § (3) bekezdés a) pontjával.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tny. 6. § (1) bekezdés a) pontja az öregségi nyugdíjat sorolja, a b)–d) pontok a hatályos szövegben üresek. A saját jogú oldal tehát mindkét törvényben az öregségi nyugdíjra szűkül. A Tny. e helyen a szolgáltatáskatalógust adja, nem a Tbj. 5. § személyi hatályát."
+        },
+        {
+          "text": "A Tbj. 5. § (3) bekezdés b) pontja és a Tny. 6. § (2) bekezdése szó szerint azonos hozzátartozói listát ad, ideértve az özvegyi járadékot is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 5. § (3) bekezdés b) pontja négy elemet sorol: özvegyi nyugdíj, árvaellátás, szülői nyugdíj és baleseti hozzátartozói nyugellátások. A Tny. 6. § (2) bekezdés e) pontja emellett az özvegyi járadékot is nevesíti. A két lista tehát nem szó szerint azonos. A tévedés a két törvény hozzátartozói listájának indokolatlan azonosításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "14287c0a8e39"
+    },
+    {
+      "question": "A Tbj. 10. § szerint milyen napokhoz kötött az egyéni vállalkozó biztosítási és járulékfizetési kötelezettségének kezdete és vége?",
+      "options": [
+        {
+          "text": "Az egyéni vállalkozó biztosítása mindig a tényleges tevékenység megkezdésének napján keletkezik, a nyilvántartásba vétel napjától függetlenül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 10. § a) pontja a nyilvántartásba való bejegyzés napjától a törlés napjáig rendeli a kötelezettséget. A tényleges tevékenység önálló, a 10. § a) pontját felülíró kezdőnapot e szakasz nem ad. A tévedés a 11. § társas vállalkozói tényleges közreműködési szabályának az egyéni vállalkozóra átviteléből ered."
+        },
+        {
+          "text": "A nyilvántartásba vett egyéni vállalkozónál a kötelezettség a bejegyzés napjától a törlés napjáig tart.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 10. § a) pontja a közhiteles egyéni vállalkozói nyilvántartás napjaihoz köti a biztosítást. A 8. § általános, jogviszonyhoz kötött idejét e szakasz e nyilvántartási napokkal tölti ki. A bejegyzés és a törlés tehát a kezdő és záró nap."
+        },
+        {
+          "text": "Ügyvédnél és egyéni szabadalmi ügyvivőnél a kamarai tagság kezdete és megszűnése, közjegyzőnél és önálló bírósági végrehajtónál a szolgálat kezdete és megszűnése az irányadó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 10. § b) és c) pontja e különös alanyi köröket a kamarai, illetve a szolgálati jogállás napjaihoz köti. Európai közösségi jogásznál a nyilvántartásba vétel és a törlés a mérce. A három pont tehát nem azonos naptípusra épül."
+        },
+        {
+          "text": "A Tbj. 10. § a társas vállalkozó biztosítását is a cégbejegyzés napjához köti, ugyanazzal a szerkezettel, mint az egyéni vállalkozónál.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a társas vállalkozó biztosítását a Tbj. 11. § rendezi: a tényleges személyes közreműködés, a tagság vagy a vezető tisztségviselői jogviszony napjaihoz igazítja. A 10. § az egyéni vállalkozói, kamarai és szolgálati körre szabott. A tévedés a 10. és a 11. § alanyi körének összecseréléséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "b9c11bb89879"
+    },
+    {
+      "question": "A Tbj. 20. § és az Ebtv. 7. § szerint mi a kapcsolat a 17. § (1) bekezdése szerinti mentesülés és a megállapodás között?",
+      "options": [
+        {
+          "text": "A Tbj. 17. § (2) bekezdés a) pontja szerinti kiküldött is a 20. § alapján köthet 48. és 49. § szerinti megállapodást a mentesülés idejére.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 20. § kifejezetten a 17. § (1) bekezdésében meghatározott személyekre utal. A (2) bekezdés a) pontja szerinti kiküldötti mentesülés ebbe az utaló körbe nem tartozik. A tévedés a 17. § (1) és (2) bekezdésének indokolatlan azonosításából fakad."
+        },
+        {
+          "text": "A 20. § szerinti megállapodás a mentesült személyt a Tbj. 6. § szerinti biztosítottá teszi valamennyi ellátás tekintetében.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 20. § csak a 48. és 49. § szerinti megállapodásra utal. Az Ebtv. 7. § a kedvezményezettet a megállapodásban megjelölt ellátás tekintetében helyezi a biztosítottal egy tekintet alá, nem a Tbj. 6. § teljes biztosítotti katalógusába. A tévedés a megállapodás teljes katalógusra nyitó olvasatából ered."
+        },
+        {
+          "text": "A Tbj. 20. § a 17. § (1) bekezdésében meghatározott személyek társadalombiztosítási ellátására a 48. és 49. § szerinti megállapodás megkötését teszi lehetővé.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a mentesülés nem zárja el a szerződéses jogszerzést. A Tbj. 20. § maga nem szabályozza a megállapodás tartalmát, csak a 17. § (1) bekezdésének alanyait utalja a 48. és 49. §-ra. A diplomáciai, nemzetközi szervezeti és a nevesített további mentes alanyok ezen az úton pótolhatják a kieső biztosítást."
+        },
+        {
+          "text": "Az Ebtv. 7. § szerint a Tbj. szerint kötött megállapodás kedvezményezettje a megállapodás tárgyát képező ellátás tekintetében — a Tbj. és az Ebtv. kivételeivel — a biztosítottal egy tekintet alá esik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Ebtv. 7. § szerint a Tbj. szerint megállapodást kötött személy a megállapodás tárgyát képező ellátás tekintetében a biztosítottal esik egy tekintet alá, a Tbj. és az Ebtv. kivételeivel. A joghatás tehát nem a Tbj. 6. § szerinti teljes biztosítotti státus, hanem a megjelölt ellátásra szabott fikció. A 20. § a 17. § (1) bekezdésének mentes alanyait éppen e megállapodási útra utalja."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "5b5c50f7d823"
+    },
+    {
+      "question": "Az Ebtv. 4. § fedezetgaranciája mit biztosít, és miben egyezik a Tbj. 2. § (2) bekezdésének, illetve a Tny. 2. § (2) bekezdésének logikájával?",
+      "options": [
+        {
+          "text": "A szabály a Tny. 2. § (2) bekezdésének nyugdíjági és a Tbj. 2. § (2) bekezdésének általános fedezetgaranciájával párhuzamos: a hiány nem szünteti meg az ellátási kötelezettséget.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tny. 2. § (2) bekezdése a Nyugdíjbiztosítási Alap hiányánál a központi költségvetés előirányzatát is nevesíti. Az Ebtv. 4. § ugyanezt az egészségbiztosítási oldalon mondja ki. A három norma a kockázatközösség állami helytállását zárja."
+        },
+        {
+          "text": "Az Ebtv. 4. § szerint az Alap hiánya esetén az egészségügyi szolgáltatás szünetel, a pénzbeli ellátások azonban továbbfolyósítandók.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Ebtv. 4. § az e törvényben meghatározott ellátások teljesítését a hiány mellett is biztosítja, ellátástípus szerinti szünetelési kivétel nélkül. A szükségletelvű egészségügyi szolgáltatás és a járulékaranyos pénzbeli oldal egyaránt az állami garancia alá tartozik. A tévedés a garancia részleges olvasatából ered."
+        },
+        {
+          "text": "Az állam az Ebtv.-ben meghatározott ellátások teljesítését akkor is biztosítja, ha az ahhoz szükséges kiadások az Egészségbiztosítási Alapból nem fedezhetők.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Ebtv. 4. § a jogosulti igényt az állami teljesítési kötelezettséghez köti, nem az Alap mindenkori egyenlegéhez. A garancia a fedezeti hiány mellett is kötelez. A járulék- és hozzájárulás-fizetés alól e szabály nem mentesít."
+        },
+        {
+          "text": "Az Ebtv. 4. § csak akkor alkalmazható, ha a biztosított a Tbj. 6. § szerint biztosított; a 22. § szerinti származékos jogosultra nem terjed ki.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Ebtv. 4. § az e törvényben meghatározott ellátások teljesítéséről beszél, alanyi szűkítés nélkül a 6. §-ra. Az Ebtv. 1. § (1) bekezdése a hatályt a biztosítottakon túl a 22. § szerinti jogosultakra és más körökre is kiterjeszti. A tévedés a fedezetgarancia és a biztosítotti státus indokolatlan összekötéséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "7b51f502d93c"
+    },
+    {
+      "question": "Mely esetben nem terjed ki a biztosítás a Tbj. 17. § (2) bekezdés b) és c) pontja szerint a jogviszony jellegére tekintettel?",
+      "options": [
+        {
+          "text": "Nem terjed ki az Nftv. 44. § (1) bekezdés a) pontja szerint a hallgatói munkaszerződés alapján létrejött jogviszonyra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 17. § (2) bekezdés b) pontja e jogviszonyt a biztosítás alól kiveszi. A mentesülés itt jogviszonyi, nem alanyi diplomáciai jellegű. A hallgatói munkavégzés tehát nem a 6. § (1) bekezdés a) pontja szerinti munkaviszony-gyűjtőbe kerül."
+        },
+        {
+          "text": "A hallgatói munkaszerződés alapján létrejött jogviszony a 6. § (1) bekezdés a) pontja szerint biztosított munkaviszony, ha a hallgató nagykorú.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 17. § (2) bekezdés b) pontja a hallgatói munkaszerződést a biztosítás alól kiveszi, életkori feltétel nélkül. A 6. § (1) bekezdés a) pontjának gyűjtőfogalma e kivétel mellett nem érvényesül. A tévedés a hallgatói jogviszony általános munkaviszonyként kezeléséből ered."
+        },
+        {
+          "text": "Nem terjed ki az Szja tv. 1. számú melléklet 4. pont 4.51. alpontja szerinti munkaviszonyra vagy díjazás ellenében munkavégzésre irányuló egyéb jogviszonyra sem.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 17. § (2) bekezdés c) pontja e különös adójogi tényállást is kiveszi. A mentesülés a munkaviszonyra és a megbízási, illetve nem egyéni vállalkozói vállalkozási jogviszonyra egyaránt vonatkozhat a hivatkozott alpont szerint. A 6. § taxációját e pont törli az adott jogviszonyra."
+        },
+        {
+          "text": "A 17. § (2) bekezdés b) pontja csak akkor mentesít, ha a hallgatói munkavégzés a két évet nem haladja meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két éves felső határ a Tbj. 17. § (2) bekezdés a) pontjának kiküldötti tényállásához tartozik. A b) pont a hallgatói munkaszerződést tartamküszöb nélkül veszi ki. A tévedés az a) és a b) pont feltételeinek összecseréléséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "b34042c35ea2"
+    },
+    {
+      "question": "Az Ebtv. 5/C. § (1) bekezdése szerint melyek az egészségbiztosítás pénzbeli ellátásai, és mi a jövedelem fogalma e számításnál?",
+      "options": [
+        {
+          "text": "A jövedelem fogalmába az Ebtv. 5/C. § szerint a járulékalapot nem képező, adómentes szociális juttatások is beleszámítanak, ha a biztosított azokat rendszeresen kapja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Ebtv. 5/C. § (1) bekezdés a) pontja a társadalombiztosítási járulékalapot képező, adóelőleg-megállapításhoz bevallott jövedelmet követeli. A járulékalapot nem képező adómentes juttatás e fogalomba nem fér bele. A tévedés a szociális juttatások járulékalapként kezeléséből fakad."
+        },
+        {
+          "text": "Jövedelem az adóelőleg megállapításához az állami adóhatósághoz bevallott, társadalombiztosítási járulékalapot képező jövedelem az Ebtv.-ben meghatározott időszakra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Ebtv. 5/C. § (1) bekezdés a) pontja a pénzbeli ellátások és a baleseti táppénz összegének kiszámításánál e jövedelemfogalmat adja. A mérce tehát a bevallott járulékalap, nem a bruttó szerződéses összeg önmagában. A baleseti táppénz számításánál is ez a jövedelemfogalom irányadó."
+        },
+        {
+          "text": "A baleseti járadék az Ebtv. 5/C. § szerinti pénzbeli egészségbiztosítási ellátások közé tartozik, mert baleseti ágon járó pénzellátás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Ebtv. 5/C. § a pénzbeli ellátásokként a csecsemőgondozási díjat, az örökbefogadói díjat, a gyermekgondozási díjat és a táppénzt nevezi meg. A baleseti járadék a Tbj. 5. § (2) bekezdés c) pont cc) alpontja szerinti baleseti ellátás. A tévedés a baleseti pénzellátások pénzbeli csoportba sorolásából ered."
+        },
+        {
+          "text": "Az egészségbiztosítás pénzbeli ellátásai e szakasz szerint a csecsemőgondozási díj, az örökbefogadói díj, a gyermekgondozási díj és a táppénz.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Ebtv. 5/C. § a pénzbeli ellátások fogalmi rendjét e négyes listára zárja. Ez egybeesik a Tbj. 5. § (2) bekezdés b) pont ba)–bd) alpontjával. A baleseti táppénz e négyes listán nem szerepel, külön ágon van."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "fd6c1c21ca1c"
+    },
+    {
+      "question": "A Tny. 4. § (1) bekezdése szerint mi az öregségi nyugdíj és a szolgálati idő fogalmi ismérve?",
+      "options": [
+        {
+          "text": "Az öregségi nyugdíj a Tny. 4. § szerint akkor is jár, ha az igénylő csak a korhatárt töltötte be, szolgálati idő nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tny. 4. § (1) bekezdés b) pontja a meghatározott életkort és a meghatározott szolgálati időt együtt követeli. A Tny. 18. § (2) és (3) bekezdése a teljes, illetve a résznyugdíjnál is szolgálati időt ír elő. A tévedés a korhatár önálló elégséges feltételként olvasásából ered."
+        },
+        {
+          "text": "Öregségi nyugdíj a meghatározott életkor elérése és meghatározott szolgálati idő megszerzése esetén járó nyugellátás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tny. 4. § (1) bekezdés b) pontja e két konjunktív ismérvet rögzíti. Az életkor önmagában, szolgálati idő nélkül nem elégséges. A Tny. 18. § e fogalmat a korhatár és a szolgálati idő konkrét mértékeivel tölti ki."
+        },
+        {
+          "text": "A szolgálati időbe a Tny. 4. § (1) bekezdés h) pontja szerint minden biztosítási jogviszony automatikusan beleszámít, akkor is, ha nyugdíjjárulékfizetési kötelezettség nem állt fenn és a Tny. külön nem ismeri el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tny. 4. § (1) bekezdés h) pontja szerint szolgálati idő az az időszak, amely alatt a biztosított nyugdíjjárulék fizetésére kötelezett volt, illetve megállapodás alapján nyugdíjjárulékot fizetett, és a járulék nélküli időszakokat a Tny. külön határozza meg. Automatikus, járulék és külön elismerés nélküli beszámítás e fogalomból nem következik. A tévedés a biztosítás és a szolgálati idő azonosításából fakad."
+        },
+        {
+          "text": "Szolgálati idő az az időszak, amely alatt a biztosított nyugdíjjárulék fizetésére kötelezett volt, illetve megállapodás alapján nyugdíjjárulékot fizetett; a járulékfizetés nélküli, szolgálati időnek minősülő időszakokat a Tny. külön határozza meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tny. 4. § (1) bekezdés h) pontja a szolgálati időt a járulékfizetéshez és a megállapodáshoz köti. A járulékmentes, mégis elismert időszakok külön törvényi felsorolást igényelnek. A fogalom tehát nem azonos a puszta munkaviszony fennállásával."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "65e74a55a4e3"
+    },
+    {
+      "question": "Egy előadó művész felhasználási szerződés alapján fellép; a szerződéskötés és az előadás között tizenkét nap telik el. A Tbj. 13. § (3) bekezdése szerint milyen tartamban bírálható el a biztosítási kötelezettsége?",
+      "options": [
+        {
+          "text": "Ha a szerződéskötés és az előadás között tizenkét nap van, a biztosítási idő automatikusan a teljes tizenkét nap.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 13. § (3) bekezdése a figyelembe vehető tartamot szerződésenként legfeljebb hét napban maximálja. A naptári táv meghaladhatja a hét napot, de a biztosítási elbírálásnál a hét nap a plafon. A tévedés a naptári időszak és a figyelembe vehető tartam azonosításából ered."
+        },
+        {
+          "text": "Az előadó biztosítási ideje a Tbj. 6. § (1) bekezdés f) pontjának havi harminc százalékos küszöbe nélkül, a fellépés napján ex lege keletkezik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 13. § (3) bekezdése az előadó (művész) biztosítási kötelezettségének elbírálásánál figyelembe vehető időtartamot állapítja meg. A biztosítotti minőséghez a 6. § (1) bekezdés f) pontjának járulékalap-küszöbe továbbra is irányadó lehet, ha az előadó egyéb jogviszonyban végez személyes munkát. A tévedés az időtartam-szabály és a küszöbszabály összecseréléséből fakad."
+        },
+        {
+          "text": "A figyelembe vehető időtartam a felhasználási szerződés megkötésétől az előadás napjáig áll fenn, szerződésenként azonban legfeljebb hét nap vehető figyelembe.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 13. § (3) bekezdése e felső korlátot kifejezetten kimondja. A tizenkét napos naptári táv tehát nem vihető át teljes egészében a biztosítási időbe. Írásbeli szerződés hiányában a felkérés elfogadása a kezdőnap."
+        },
+        {
+          "text": "A hét napos korlát szerződésenként (előadásonként) érvényesül, nem az előadó éves összes fellépésére összevontan.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 13. § (3) bekezdése a „szerződésenként (előadásonként)” fordulatot használja. Több külön szerződés külön-külön, egyenként legfeljebb hét nappal számolható. A 13. § a 8. § pótlólagos időtartam-szabálya, ha a kezdő vagy befejező nap vitatott vagy hiányzik."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "f0a2a14ae977"
+    },
+    {
+      "question": "A Tbj. 16. § d) pontja szerint mikor szünetel a biztosítás a letartóztatás és a szabadságvesztés ideje alatt, és mi a fogvatartott által létesített jogviszony kivétele?",
+      "options": [
+        {
+          "text": "A letartóztatás ideje alatt a biztosítás soha nem szünetel, mert a fogvatartott a 22. § (1) bekezdés n) pontja szerint egészségügyi szolgáltatásra jogosult.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 16. § d) pontja a letartóztatás tartamát főszabályként szünetelési oknak nevezi. A 22. § (1) bekezdés n) pontja a fogvatartottat az egészségügyi szolgáltatásra jogosítja, ami nem azonos a 6. § szerinti biztosítás fennállásával. A tévedés a származékos egészségügyi jogosultság és a biztosítotti fennállás összecseréléséből ered."
+        },
+        {
+          "text": "Szünetel a letartóztatás tartama alatt, kivéve, ha a letartóztatottat jogerősen felmentették, vagy a büntetőeljárást a nevesített jogerős, végleges, illetve további jogorvoslattal nem támadható határozattal megszüntették.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 16. § d) pontja a letartóztatást főszabályként szünetelési oknak nevezi, de a felmentés és a megszüntetés kivételeit taxatíve sorolja. A szünetelés a jogviszonyt nem szünteti meg, csak a biztosítás fennállását függeszti fel. A kivétel a büntetőeljárás kimeneteléhez kötött."
+        },
+        {
+          "text": "A szabadságvesztés alatt létesített, 6. § szerinti jogviszony is szünetelteti a biztosítást, mert a d) pont a szabadságvesztés tartamát kivétel nélkül szünetelési oknak minősíti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 16. § d) pontja a szabadságvesztés alóli kivételként kifejezetten nevesíti a fogvatartott által a végrehajtási törvény szerint létesített, 6. § szerinti biztosítással járó jogviszonyt. A szünetelés tehát nem érvényesül ezekre a jogviszonyokra. A tévedés a d) pont kivétel nélküli olvasatából fakad."
+        },
+        {
+          "text": "A szabadságvesztés tartama alatt a biztosítás szünetel, kivéve a jogerős felmentést, és ide nem értve a fogvatartott által a végrehajtási törvény szabályai szerint létesített, a 6. § szerint biztosítási kötelezettséggel járó jogviszonyt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 16. § d) pontja a szabadságvesztés alatti, 6. § szerinti jogviszonyt kifejezetten kiveszi a szünetelés alól. A fogvatartott tehát e külön jogviszonyban biztosítottá válhat. A kivétel a végrehajtás alatt létesített, biztosítással járó jogviszonyra szabott."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "6306f509efeb"
+    },
+    {
+      "question": "A Tny. 1. § szerint mi az állam feladata a nyugdíjrendszerben, és hogyan hat a nemzetközi szerződés a Tny. alkalmazására?",
+      "options": [
+        {
+          "text": "A Tny. 1. § (2) bekezdése szerint a nemzetközi szerződés csak akkor alkalmazható, ha az kedvezőbb a biztosítottnak, különben a Tny. marad az irányadó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tny. 1. § (2) bekezdése a hatálya alá tartozó személyre a törvényt az adott szerződés (egyezmény) szabályai szerint rendeli alkalmazni. Kedvezőbb szabály szerinti választási mércét e szakasz nem ír elő. A kollíziós utalás kötelező. A tévedés a szociális jog kedvezőbb szabály elvének e szakaszra olvasásából ered."
+        },
+        {
+          "text": "A szociális biztonsági tárgyú nemzetközi szerződés, illetve szociálpolitikai egyezmény hatálya alá tartozó személyre a Tny.-t az adott szerződés (egyezmény) szabályai szerint kell alkalmazni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tny. 1. § (2) bekezdése kollíziós szabály: a szociális biztonsági tárgyú nemzetközi szerződés vagy szociálpolitikai egyezmény hatálya alá tartozó személyre a Tny.-t az adott szerződés szabályai szerint kell alkalmazni. Az Ebtv. 8/A. § (1) bekezdése az uniós rendeletek hatálya alá tartozó személyekre és ellátásokra az Ebtv.-t az uniós rendeletekben meghatározott módon rendeli alkalmazni. Az Ebtv. 8/A. § (2) bekezdése a nemzetközi egyezmény hatálya alá tartozó személyre az egyezmény szabályait írja elő."
+        },
+        {
+          "text": "A kötelező társadalombiztosítási nyugdíjrendszer működtetése és fejlesztése az állam feladata; a rendszer öregség esetén a biztosítottnak, elhalálozás esetén a hozzátartozónak egységes elvek alapján biztosít nyugellátást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tny. 1. § (1) bekezdése az állami feladatot és az egységes elvű saját jogú, illetve hozzátartozói ellátást együtt rögzíti. A Tbj. 5. § (3) bekezdésének saját jogú és hozzátartozói bontása e kötelezettség tartalmát adja. A szervezeti rendet a (4) bekezdés külön törvényre utalja."
+        },
+        {
+          "text": "A Tny. 1. § (1) bekezdése szerint a nyugdíjbiztosítás szervezetét is e törvény rendezi, külön törvényre utalás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tny. 1. § (4) bekezdése szerint a nyugdíjbiztosítás szervezetéről külön törvény rendelkezik. Az (1) bekezdés a működtetés és fejlesztés állami feladatát, valamint az egységes elvű nyugellátást rögzíti. A tévedés a tartalmi kötelezettség és a szervezeti szabályozás összecseréléséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "a844bfc35347"
+    },
+    {
+      "question": "A Tbj. 22. § (6) bekezdése szerint meddig jogosult egészségügyi szolgáltatásra a nappali rendszerű oktatásban tanulmányokat folytató tanuló, képzésben részt vevő személy és hallgató?",
+      "options": [
+        {
+          "text": "A 22. § (6) bekezdése a diákigazolványra való jogosultság megszűnéséhez köti a záró napot, nem a vizsgaidőszak utolsó napjához önmagában.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 22. § (6) bekezdése a diákigazolványra való jogosultság megszűnését nevezi meg zárópontként. A tanulói vagy hallgatói jogviszony kezdete a nyitó nap. A szünetelés alatti jogosultság e kereten belül marad."
+        },
+        {
+          "text": "A tanulói vagy hallgatói jogviszony kezdetétől a diákigazolványra való jogosultság megszűnéséig jogosult, ideértve a jogviszony szünetelésének időtartamát is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 22. § (6) bekezdése e kezdő és záró napot, valamint a szünetelés alatti fennmaradást kifejezetten kimondja. A jogosultság az (1) bekezdés i) pontjához kapcsolódik. A szünetelés tehát nem szakítja meg az egészségügyi szolgáltatásra szóló származékos jogot."
+        },
+        {
+          "text": "A hallgatói jogviszony szünetelése alatt az egészségügyi szolgáltatásra való jogosultság a 22. § (6) bekezdése szerint szünetel, mert a biztosítás is szünetelne.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 22. § (6) bekezdése a szünetelés időtartamát kifejezetten a jogosultságba vonja. A 16. § a 6. § szerinti biztosítás szünetelését rendezi, nem a 22. § származékos egészségügyi jogosultságát. A tévedés a két szünetelési rend összecseréléséből ered."
+        },
+        {
+          "text": "A 22. § (6) bekezdése a külföldi állampolgár hallgatót is ugyanígy jogosítja, ha nappali rendszerű képzésben vesz részt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 22. § (1) bekezdés i) pontja a nagykorú magyar állampolgár, menekült, oltalmazott, illetve a nevesített ösztöndíjas és szomszédos állambeli körökre bontja a tanulói-hallgatói jogcímeket; a (6) bekezdés az (1) bekezdés i) pontjában említett személyekre utal. Automatikus, minden külföldi hallgatóra kiterjedő jogosultság ebből nem következik. A tévedés a (6) bekezdés alanyi körének indokolatlan tágításából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "ba287a9b0b8e"
+    }
+  ]
+}

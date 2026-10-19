@@ -1,0 +1,763 @@
+{
+  "id": "FCC1oTlf6Dv4YQwsGycY",
+  "sorszam": 33,
+  "cim": "A köztulajdonban álló munkáltatóval fennálló munkaviszonyra vonatkozó (...)",
+  "generationType": "fogalom",
+  "title": "A köztulajdonban álló munkáltatóval fennálló munkaviszonyra vonatkozó (...)",
+  "questions": [
+    {
+      "question": "Mit jelent a köztulajdonban álló munkáltató fogalma az Mt. szerint?",
+      "options": [
+        {
+          "text": "Köztulajdonban álló munkáltató a közalapítvány, valamint az a gazdasági társaság, amelyben a törvényben felsorolt közszereplők külön-külön vagy együttesen többségi befolyással rendelkeznek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a minősítés két diszjunktív ágon áll: a közalapítvány önmagában, a gazdasági társaság pedig közszereplői többségi befolyás esetén. Az Mt. 204. § (1) bekezdése szerint a befolyással rendelkezők az állam, a helyi önkormányzat, a nemzetiségi önkormányzat, az önkormányzati társulás, a térségi fejlesztési tanács, a költségvetési szerv vagy a közalapítvány. A többségi befolyás külön-külön vagy együttesen számítandó, tehát az aggregált szavazati hányad is elegendő. A különös szabályok a munkáltató szervezeti-tulajdonosi minősítéséhez kapcsolódnak, nem a munkavállaló közjogi státusához."
+        },
+        {
+          "text": "A köztulajdonban álló munkáltatóval fennálló jogviszony nem külön jogállás, hanem az Mt. szerinti munkaviszony, amelyet a XX. fejezet kógens korlátokkal terhel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogviszony alaptípusa a munkaviszony marad, a különös fejezet csak a szerződéses autonómiát szűkíti. A köztulajdonban álló munkáltatóval fennálló munkaviszony nem külön jogállás, hanem az Mt. szerinti munkaviszony, amelyet a XX. fejezet és a 213. § f) pontja kógens korlátokkal terhel. A munkaviszonyra ezért az általános rész irányadó, a 205–207. § pedig ezen belül zárja az alkuképességet. A párhuzamos 2009. évi CXXII. törvény a társasági oldal átláthatóságát rendezi, nem új jogállást hoz létre."
+        },
+        {
+          "text": "Köztulajdonban álló munkáltató csak az a gazdasági társaság lehet, amelyben az állam közvetlenül legalább kilencven százalékos szavazati joggal rendelkezik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kilencven százalékos küszöb nem a munkáltatói minősítés feltétele, hanem az állami részvényes fogalmához tartozik. Az Mt. 204. § (1) bekezdése szerint köztulajdonban álló munkáltató a közalapítvány is, továbbá az a gazdasági társaság, amelyben a felsorolt közszereplők többségi — több mint ötven százalékos — befolyással rendelkeznek. A 2009. évi CXXII. törvény 1. § d) pontja szerinti állami részvényesnél jelenik meg a szavazatok legalább kilencven százalékát biztosító befolyás. A tévedés az állami részvényes és a köztulajdonban álló munkáltató fogalmának összecseréléséből ered."
+        },
+        {
+          "text": "A köztulajdonban álló munkáltatóval fennálló munkaviszony külön közjogi jogállás, amelyre az Mt. általános része nem irányadó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a külön jogállás olvasat nem állja meg a helyét. A köztulajdonban álló munkáltatóval fennálló munkaviszony az Mt. szerinti munkaviszony, amelyet a XX. fejezet és a 213. § f) pontja kógens korlátokkal terhel; az általános rész irányadó marad. A 204–207. § nem a 2. § mellé lép, hanem azon belül működik. A tévedés a közszolgálati jogviszonyokkal való összetévesztésből fakad, ahol önálló jogállási törvények érvényesülnek."
+        }
+      ],
+      "sourceKerdesSorszam": 1
+    },
+    {
+      "question": "Hogyan határozza meg az Mt. a többségi befolyást a köztulajdonban álló munkáltató szempontjából?",
+      "options": [
+        {
+          "text": "Többségi befolyás az a kapcsolat, amelynek alapján a befolyással rendelkező a szavazatok több mint ötven százalékával rendelkezik, közvetlenül vagy köztes vállalkozáson keresztül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a küszöb a szavazatok több mint ötven százaléka, és a közvetett út is beleszámít. Az Mt. 204. § (2) bekezdése szerint a többségi befolyás a szavazatok több mint ötven százalékával — közvetlenül vagy a jogi személyben szavazati joggal rendelkező más jogi személy (köztes vállalkozás) szavazati jogán keresztül — való rendelkezés. A közvetett hányadot a köztes vállalkozásban fennálló szavazati hányaddal meg kell szorozni. Ha a köztes vállalkozásban a szavazat meghaladja az ötven százalékot, azt egy egészként kell figyelembe venni."
+        },
+        {
+          "text": "Ha a köztes vállalkozásban fennálló szavazatok aránya az ötven százalékot meghaladja, a számításkor azt egy egészként kell figyelembe venni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a törvény a többségi köztes részesedést egésszé kerekíti a szorzás helyett. Az Mt. 204. § (2) bekezdése kimondja: ha a köztes vállalkozásban fennálló szavazatok aránya az ötven százalékot meghaladja, akkor azt egy egészként kell figyelembe venni. A szabály a közvetett rendelkezés meghatározásához tartozik, a köztes vállalkozást megillető szavazati hányad és a befolyással rendelkező köztes hányadának szorzása mellett. Így a többségi köztes kontroll teljes átszármaztatást jelent a céljogi személy szavazataira."
+        },
+        {
+          "text": "Többségi befolyásnak már a szavazatok huszonöt százalékát elérő közvetett részesedés is minősül, ha azt köztes vállalkozáson keresztül gyakorolják.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. szerinti többségi befolyás küszöbe nem huszonöt, hanem több mint ötven százalék. Az Mt. 204. § (2) bekezdése a szavazatok több mint ötven százalékával való rendelkezést követeli, közvetlenül vagy köztes vállalkozáson keresztül. A huszonöt százalékos küszöb a 2009. évi CXXII. törvény 1. § b) pontjában jelenik meg: ott a huszonöt százalékot el nem érő közvetett befolyást nem kell figyelembe venni. A tévedés a két törvény befolyás-számítási szabályának összecseréléséből ered."
+        },
+        {
+          "text": "A többségi befolyás megállapításához elegendő, ha két, egyenként tizenhat százalékos nem többségi közvetett hányad együttesen meghaladja a harminc százalékot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nem többségi közvetett befolyások egymáshoz nem adódnak hozzá. Az Mt. 204. § (2) bekezdése szerint amennyiben a befolyással rendelkező több közvetett tulajdonnal is rendelkezik, a nem többségi közvetett befolyás mértéke nem adódik hozzá a másik nem többségi közvetett befolyás mértékéhez. Két tizenhat százalékos közvetett hányad ezért nem eredményez többséget. A tévedés a szavazati hányadok mechanikus összeadásának magánjogi beidegzéséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 2
+    },
+    {
+      "question": "Miben tér el a 2009. évi CXXII. törvény szerinti köztulajdonban álló gazdasági társaság fogalma az Mt. 204. § szerinti köztulajdonban álló munkáltatótól?",
+      "options": [
+        {
+          "text": "A 2009. évi CXXII. törvény alanya mindig gazdasági társaság; a közalapítvány ott befolyással rendelkező, nem a szabályozott jogalany.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két törvény alanyi köre hasonló, de nem azonos. A 2009. évi CXXII. törvény 1. § a) pontja a köztulajdonban álló gazdasági társaságot határozza meg, tehát az alany mindig gazdasági társaság. Az Mt. 204. § (1) bekezdése ezzel szemben a közalapítványt magát is munkáltatóvá minősíti. A közalapítvány mint munkáltató ezért az Mt. 204–207. § alá esik, a 2009. évi CXXII. törvény díjazási és közzétételi rendje alá nem. A két definíció nem helyettesíti egymást."
+        },
+        {
+          "text": "A 2009. évi CXXII. törvény szerinti többségi befolyás számításánál nem kell figyelembe venni a huszonöt százalékot el nem érő közvetett befolyást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ez a törvény saját számítási küszöbe, amely az Mt.-ből hiányzik. A 2009. évi CXXII. törvény 1. § b) pontja szerint a befolyás számításánál nem kell figyelembe venni a huszonöt százalékot el nem érő közvetett befolyást. Az Mt. 204. § (2) bekezdése e huszonöt százalékos figyelmen kívül hagyási küszöböt nem ismeri. A közvetett rendelkezés szorzása és az ötven százalék feletti köztes hányad egybeszámítása mindkét törvényben megjelenik, de a huszonöt százalékos filter csak a 2009. évi CXXII. törvényben."
+        },
+        {
+          "text": "A két törvény fogalma teljesen azonos, ezért a közalapítvány mint munkáltató a 2009. évi CXXII. törvény díjazási plafonjai alá is esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két definíció nem helyettesíti egymást. A közalapítvány mint munkáltató az Mt. 204–207. § alá esik, a 2009. évi CXXII. törvény díjazási és közzétételi rendje alá nem, mert utóbbi 1. § a) pontja csak gazdasági társaságot szabályoz. Az Mt. 204. § (1) bekezdése a közalapítványt magát is munkáltatóvá minősíti. A tévedés a hasonló alanyi felsorolás automatikus azonosságává olvasásából ered."
+        },
+        {
+          "text": "Az Mt. 204. § (2) bekezdése is figyelmen kívül hagyja a huszonöt százalékot el nem érő közvetett befolyást, csakúgy mint a 2009. évi CXXII. törvény.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. e küszöböt nem ismeri. Az Mt. 204. § (2) bekezdése a közvetett rendelkezésnél a szorzást és az ötven százalék feletti köztes hányad egybeszámítását írja elő, de huszonöt százalékos figyelmen kívül hagyási szabályt nem tartalmaz. A huszonöt százalékot el nem érő közvetett befolyás figyelmen kívül hagyása a 2009. évi CXXII. törvény 1. § b) pontjának sajátossága. A tévedés a két párhuzamos befolyás-fogalom összecseréléséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 3
+    },
+    {
+      "question": "A törvény által felsoroltak közül melyik szerepel ténylegesen a köztulajdonban álló munkáltató Mt. szerinti fogalmában?",
+      "options": [
+        {
+          "text": "A térségi fejlesztési tanács a befolyással rendelkező közszereplők között szerepel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a térségi fejlesztési tanács az Mt. taxatív listájának eleme. Az Mt. 204. § (1) bekezdése szerint a gazdasági társaság akkor köztulajdonban álló munkáltató, ha abban az állam, a helyi önkormányzat, a nemzetiségi önkormányzat, az önkormányzati társulás, a térségi fejlesztési tanács, a költségvetési szerv vagy a közalapítvány külön-külön vagy együttesen többségi befolyással rendelkezik. A lista diszjunktív a közalapítványra és konjunktív-aggregált a felsorolt közszereplők szavazati jogára. A minősítés tehát nem csupán állami vagy önkormányzati tulajdonhoz kötött."
+        },
+        {
+          "text": "A költségvetési szerv többségi befolyása is megalapozhatja a gazdasági társaság köztulajdonban álló munkáltatói minőségét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a költségvetési szerv a 204. § (1) bekezdés taxatív felsorolásában szerepel. Az Mt. 204. § (1) bekezdése a költségvetési szervet a befolyással rendelkező közszereplők között nevezi meg, a többségi befolyás pedig külön-külön vagy együttesen számítandó. A köztulajdonban álló minőség tehát nem feltételezi, hogy a többségi szavazat közvetlenül az államé vagy a helyi önkormányzaté legyen. A közalapítvány e listában egyszerre lehet befolyással rendelkező és — önállóan — maga a munkáltató."
+        },
+        {
+          "text": "A helyi önkormányzat jogi személyiségű társulása az Mt. 204. § (1) bekezdésének expressis verbis eleme.",
+          "isCorrect": false,
+          "rationale": "HAMIS, ez a finomabb megnevezés a 2009. évi CXXII. törvény listájához tartozik, nem az Mt. munkáltatói fogalmához. Az Mt. 204. § (1) bekezdése az „önkormányzati társulás” és a „térségi fejlesztési tanács” fordulatokat használja a befolyással rendelkezők között. A 2009. évi CXXII. törvény 1. § a) pontja ezzel szemben megjeleníti a helyi önkormányzat jogi személyiséggel rendelkező társulását, a többcélú kistérségi társulást és a nemzetiségi önkormányzat jogi személyiségű társulását. A tévedés a két törvény befolyásoló-listájának összecseréléséből ered."
+        },
+        {
+          "text": "Az állami részvényes — a szavazatok legalább kilencven százalékát biztosító befolyással — az Mt. 204. § fogalmi eleme.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állami részvényes fogalma nem az Mt. 204. §-ában, hanem a 2009. évi CXXII. törvény 1. § d) pontjában szerepel. Az Mt. 204. § (1) bekezdése a köztulajdonban álló munkáltatót a közalapítványra és a többségi közszereplői befolyás alatt álló gazdasági társaságra építi, a küszöb pedig több mint ötven százalék. Az állami részvényes a magyar állam, vagy olyan gazdasági társaság, amelyben a magyar állam a szavazatok legalább kilencven százalékát biztosító befolyással rendelkezik. A tévedés a közzétételi törvény értelmező rendelkezésének a munkáltatói fogalomba emeléséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 4
+    },
+    {
+      "question": "Mi következik abból, ha a felek a köztulajdonban álló munkáltatóra vonatkozó 200–207. §-tól el kívánnak térni?",
+      "options": [
+        {
+          "text": "A felek megállapodása vagy a kollektív szerződés a 200–207. §-ban foglaltaktól nem térhet el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom fejezeti szintű és mind az egyéni, mind a kollektív alkura kiterjed. Az Mt. 213. § f) pontja szerint a felek megállapodása vagy kollektív szerződés a 200–207. §-ban foglaltaktól nem térhet el. A tilalom nem csupán a 205. § pontonkénti záradékaiból következik, hanem a 213. § önálló, fejezeti szintű lockjából. A köztulajdonban álló munkáltatóra írt teljes fejezet tehát kógens. A d) pont a törvény szövegében üresen áll; a működő tilalom az f) pont."
+        },
+        {
+          "text": "A 206. § a XIX–XXI. fejezet rendelkezéseitől való eltérést külön is megtiltja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 206. § a zárást fejezeti szintre emeli a pontonkénti tilalmak mellett. Az Mt. 206. § egyetlen mondatban rögzíti: a XIX–XXI. fejezet rendelkezéseitől eltérni nem lehet. A 213. § f) pontja a 200–207. §-t már kógenssé teszi; a 206. § ezt a zárást a három fejezet egészére kiterjeszti. Sem a munkaszerződés, sem a kollektív szerződés nem nyithatja fel a XIX–XXI. fejezetet. A két szabály együtt a különös munkajogi rendet két irányból zárja."
+        },
+        {
+          "text": "A kollektív szerződés a munkavállaló javára eltérhet a 205. § felmondási időre és végkielégítésre vonatkozó záradékaitól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 205. § (1) bekezdése a kollektív szerződést is elzárja ezektől a szabályoktól. Az Mt. 205. § (1) bekezdése szerint kollektív szerződés vagy a felek megállapodása a felmondási idő 69. § (1)–(2) és (4)–(5) bekezdésében, valamint a végkielégítés 77. §-ában meghatározott szabályaitól nem térhet el. Emellett a 213. § f) pontja a 200–207. § egészétől való eltérést tiltja. A tévedés a magánmunkáltatóknál ismert, munkavállaló javára engedő kollektív eltérés mintájának ráírásából ered."
+        },
+        {
+          "text": "A 213. § d) pontja a 200–207. §-tól való eltérést tiltó működő tilalom.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a d) pont a törvény szövegében üresen áll; a működő tilalom az f) pont. Az Mt. 213. § f) pontja sorolja fel a 200–207. §-t azon rendelkezések között, amelyektől a felek megállapodása vagy a kollektív szerződés nem térhet el. A 213. § d) pontja tartalom nélküli, ezért nem lehet belőle eltérési tilalmat levezetni. A tévedés a 213. § betűjelzett pontjainak mechanikus, tartalom nélküli azonosításából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 5
+    },
+    {
+      "question": "Mely esetben nem írható elő rövidebb teljes napi munkaidő a köztulajdonban álló munkáltatóval fennálló munkaviszonyban?",
+      "options": [
+        {
+          "text": "Az általános teljes napi munkaidőnél rövidebb teljes napi munkaidő — az egészségi ártalom vagy veszély kizárása érdekében történő megállapítás kivételével — nem írható elő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a főszabály tilalom, egyetlen nevesített kivétellel. Az Mt. 205. § (3) bekezdése szerint a köztulajdonban álló munkáltatóval fennálló munkaviszonyban az általános teljes napi munkaidőnél rövidebb teljes napi munkaidő — az egészségi ártalom vagy veszély kizárása érdekében történő megállapítást kivéve — nem írható elő. A kivétel tehát nem általános alkuképesség, hanem egészségvédelmi célhoz kötött. A szabály a közvagyonnal való gazdálkodás miatt vonja el a munkaidő e formájú szerződéses alakítását."
+        },
+        {
+          "text": "A 205. § (2) bekezdés b) pontja a 86. § (3) bekezdésétől való eltérést is megtiltja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkaidőre vonatkozó zárás nem csak a (3) bekezdés rövidebb teljes napi munkaidejére korlátozódik. Az Mt. 205. § (2) bekezdés b) pontja szerint a köztulajdonban álló munkáltatóval fennálló munkaviszonyban a 86. § (3) bekezdésétől nem lehet eltérni. A (2) bekezdés a) pontja emellett a 69. § (3) bekezdését nem alkalmazhatóvá nyilvánítja. A felmondási idő, a végkielégítés és a munkaidő alkuképességének elvonása együtt olvasandó a XX. fejezet céljával."
+        },
+        {
+          "text": "A felek megállapodással bármikor előírhatják az általános teljes napi munkaidőnél rövidebb teljes napi munkaidőt, ha a munkavállaló ezt kifejezetten kéri.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkavállaló kérése nem nyitja fel a 205. § (3) bekezdés tilalmát. Az Mt. 205. § (3) bekezdése szerint az általános teljes napi munkaidőnél rövidebb teljes napi munkaidő csak az egészségi ártalom vagy veszély kizárása érdekében írható elő; egyéb esetben nem. A 213. § f) pontja a 200–207. §-tól való eltérést a felek megállapodása számára is tiltja. A tévedés a magánmunkáltatói munkaszerződéses autonómia ráírásából ered."
+        },
+        {
+          "text": "Rövidebb teljes napi munkaidő kizárólag kollektív szerződésben, a munkavállaló javára írható elő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kollektív szerződés sem mentesít a 205. § (3) bekezdés tilalma alól. Az Mt. 205. § (3) bekezdése a rövidebb teljes napi munkaidőt — egészségi ártalom vagy veszély kizárása kivételével — nem engedi előírni, alanytól és jogforrástól függetlenül. Emellett a 213. § f) pontja a kollektív szerződést is elzárja a 200–207. §-tól. A tévedés a munkavállaló javára engedő kollektív eltérés általános dogmatikájának indokolatlan kiterjesztéséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 6
+    },
+    {
+      "question": "Milyen tartamban és ellenértékkel köthető versenytilalmi megállapodás a 208. § szerinti vezető állású munkavállalóval köztulajdonban álló munkáltatónál?",
+      "options": [
+        {
+          "text": "Versenytilalmi megállapodást a tulajdonosi jogokat gyakorló hozzájárulásával, legfeljebb egyéves tartamra lehet megkötni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tartam plafonja egy év, és a hozzájárulás a tulajdonosi jogokat gyakorlóé. Az Mt. 207. § (3) bekezdése szerint versenytilalmi megállapodást a 208. §-ban foglaltak szerinti vezető állású munkavállalóval a tulajdonosi jogokat gyakorló hozzájárulásával, legfeljebb egyéves tartamra lehet megkötni. A tulajdonosi jogokat gyakorló meghatározhatja azt a munkakört, amelyre vonatkozóan versenytilalmi megállapodás köthető, és további feltételeket írhat elő. A magánmunkáltatói mintához képest tehát a döntés kiemelkedik a munkáltatói jogkör gyakorlójától."
+        },
+        {
+          "text": "A versenytilalmi megállapodás szerinti ellenérték a megállapodás tartamára nem haladhatja meg az azonos időszakra járó távolléti díj ötven százalékát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az ellenérték törvényi plafonja a távolléti díj fele. Az Mt. 207. § (4) bekezdése szerint a versenytilalmi megállapodás szerinti ellenérték a megállapodás tartamára nem haladhatja meg az azonos időszakra járó távolléti díj ötven százalékát. A (3) bekezdés egyéves tartami plafonja és a (4) bekezdés ellenérték-plafonja együttesen zárja a vezetővel kötött versenytilalmat. A tulajdonosi jogokat gyakorló az (5) bekezdés szerint — törvény eltérő rendelkezése hiányában — e jogot más személyre, szervre vagy testületre átruházhatja."
+        },
+        {
+          "text": "A versenytilalmi megállapodás tartama legfeljebb két év lehet, ha a tulajdonosi jogokat gyakorló ehhez hozzájárul.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törvényi plafon egy év, a hozzájárulás ezt nem tágíthatja. Az Mt. 207. § (3) bekezdése szerint a versenytilalmi megállapodás legfeljebb egyéves tartamra köthető, a tulajdonosi jogokat gyakorló hozzájárulásával. A tulajdonosi jogokat gyakorló további feltételeket írhat elő, de a tartami maximumot nem emelheti. A tévedés a magánszférában ismert, hosszabb versenytilalmi tartamok ráírásából ered."
+        },
+        {
+          "text": "Az ellenérték felső határa az azonos időszakra járó távolléti díj teljes összege, mert a vezető állású munkavállaló fokozott felelőssége ezt indokolja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a plafon nem a teljes, hanem az ötven százalékos távolléti díj. Az Mt. 207. § (4) bekezdése szerint az ellenérték a megállapodás tartamára nem haladhatja meg az azonos időszakra járó távolléti díj ötven százalékát. A (3) bekezdés egyéves tartami korlátja mellett ez a második kógens plafon. A tévedés a vezető fokozott felelősségéből levont, de a szöveggel ellentétes ellenérték-olvasatból fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 7
+    },
+    {
+      "question": "Mit jelent a tulajdonosi jogokat gyakorló hatásköre a 208. § szerinti vezető állású munkavállalókkal összefüggésben?",
+      "options": [
+        {
+          "text": "A tulajdonosi jogokat gyakorló jogosult meghatározni azokat a munkaköröket, amelyekben csak a 208. § (2) bekezdése alkalmazásával köthető munkaszerződés.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkakörök kijelölése a tulajdonosi jogokat gyakorlóé, nem a mindennapi munkáltatói jogkör gyakorlójáé. Az Mt. 207. § (1) bekezdése szerint a tulajdonosi jogokat gyakorló jogosult meghatározni azokat a munkaköröket, amelyekben csak a 208. § (2) bekezdésében foglaltak alkalmazásával köthető munkaszerződés. A (2) bekezdés a vezető teljesítménykövetelményét, teljesítménybérét vagy egyéb juttatását ugyanehhez a szervhez köti. A magánmunkáltatói gyakorlattól eltérően tehát e döntések kiemelkednek."
+        },
+        {
+          "text": "A 208. § szerinti vezető állású munkavállaló számára teljesítménykövetelményt, valamint az ahhoz kapcsolódó teljesítménybért vagy egyéb juttatást a tulajdonosi jogokat gyakorló állapíthat meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a teljesítménybér és az egyéb juttatás megállapítása is a tulajdonosi oldal hatásköre. Az Mt. 207. § (2) bekezdése szerint a 208. §-ban foglaltak alapján vezető állású munkavállaló számára teljesítménykövetelményt, valamint az ahhoz kapcsolódó teljesítménybért vagy egyéb juttatást a tulajdonosi jogokat gyakorló állapíthat meg. Az (5) bekezdés — törvény eltérő rendelkezése hiányában — e jog átruházását más személyre, szervre vagy testületre megengedi. A 2009. évi CXXII. törvény javadalmazási szabályzata e körrel párhuzamosan érvényesül a társasági oldalon."
+        },
+        {
+          "text": "A teljesítménykövetelményt és a teljesítménybért minden esetben a munkáltatói jogkör gyakorlója állapítja meg, a tulajdonosi jogokat gyakorló csak utólag ellenőrizheti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megállapítás joga elsődlegesen a tulajdonosi jogokat gyakorlóé. Az Mt. 207. § (2) bekezdése szerint a vezető állású munkavállaló teljesítménykövetelményét, valamint az ahhoz kapcsolódó teljesítménybért vagy egyéb juttatást a tulajdonosi jogokat gyakorló állapíthat meg. Az (5) bekezdés szerint e jog — törvény eltérő rendelkezése hiányában — más személyre, szervre vagy testületre átruházható, de az átruházás nélkül a hatáskör nála marad. A tévedés a magánmunkáltatói jogkör-gyakorlás mintájának ráírásából ered."
+        },
+        {
+          "text": "A tulajdonosi jogokat gyakorló az (1)–(4) bekezdésben meghatározott jogokat törvény eltérő rendelkezése hiányában sem ruházhatja át más személyre vagy testületre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az átruházás főszabály szerint megengedett. Az Mt. 207. § (5) bekezdése szerint a tulajdonosi jogokat gyakorló az (1)–(4) bekezdésben meghatározott jog gyakorlására — törvény eltérő rendelkezése hiányában — más személyt, szervet vagy testületet is feljogosíthat. Az átruházás tehát a törvényi tiltás hiányában lehetséges, nem tilos. A tévedés a kógens fejezet átruházhatatlanságának indokolatlan feltételezéséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 8
+    },
+    {
+      "question": "Mely megállapítások állják meg a helyüket a felmondási időre és a végkielégítésre vonatkozó kógens szabályokról?",
+      "options": [
+        {
+          "text": "Kollektív szerződés vagy a felek megállapodása a felmondási idő 69. § (1)–(2) és (4)–(5) bekezdésében, valamint a végkielégítés 77. §-ában meghatározott szabályaitól nem térhet el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felmondási idő és a végkielégítés szabályaitól sem a kollektív szerződés, sem a felek megállapodása nem térhet el. Az Mt. 205. § (1) bekezdés a) és b) pontja szerint kollektív szerződés vagy a felek megállapodása a felmondási idő 69. § (1)–(2) bekezdésében és (4)–(5) bekezdésében, valamint a végkielégítés 77. §-ában meghatározott szabályaitól nem térhet el. A (2) bekezdés a) pontja emellett a 69. § (3) bekezdését nem alkalmazhatóvá nyilvánítja. A közvagyonnal való gazdálkodás így a felmondási idő és a végkielégítés alkuképességét elvonja."
+        },
+        {
+          "text": "A 69. § (3) bekezdése a köztulajdonban álló munkáltatóval fennálló munkaviszonyban nem alkalmazható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés a) pontja expressis verbis kizárja a 69. § (3) bekezdés alkalmazását. Az Mt. 205. § (2) bekezdés a) pontja szerint a köztulajdonban álló munkáltatóval fennálló munkaviszonyban a 69. § (3) bekezdése nem alkalmazható. Ez a tilalom az (1) bekezdés eltérést tiltó listáját egészíti ki: nemcsak az eltérés, hanem maga a (3) bekezdés alkalmazása is kizárt. A szabály a különös fejezet kógens jellegét a felmondási időn belül is megerősíti."
+        },
+        {
+          "text": "A felek a végkielégítés 77. §-ától a munkavállaló javára eltérhetnek, ha a kollektív szerződés ezt lehetővé teszi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 205. § (1) bekezdés b) pontja a végkielégítés 77. §-ától való eltérést a kollektív szerződés számára is tiltja. Az Mt. 205. § (1) bekezdése szerint kollektív szerződés vagy a felek megállapodása a végkielégítés 77. §-ában meghatározott szabályaitól nem térhet el. A 213. § f) pontja a 200–207. § egészétől való eltérést szintén kizárja. A tévedés a munkavállaló javára engedő kollektív eltérés általános mintájának ráírásából ered."
+        },
+        {
+          "text": "A 205. § (2a) bekezdése minden korábbi munkaviszonyban töltött időt automatikusan beszámít a felmondási időbe és a végkielégítésbe.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a beszámítás kumulatív feltételekhez kötött, nem automatikus. Az Mt. 205. § (2a) bekezdése szerint a korábbi munkáltatónál töltött időt akkor kell figyelembe venni, ha a megszüntetés közös megegyezéssel történt, a munkavállaló csak a jogszabály szerint járó munkabért vagy juttatást kapta, a korábbi munkáltató a megszűnéskor köztulajdonban állónak minősült, és az új munkaviszony közvetlenül ezután jött létre. A tévedés a (2a) bekezdés kedvező céljának feltétel nélküli általánosításából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 9
+    },
+    {
+      "question": "Mely kumulatív feltételek mellett kell figyelembe venni a korábbi köztulajdonú munkaviszonyban töltött időt a felmondási idő és a végkielégítés szempontjából?",
+      "options": [
+        {
+          "text": "A jogviszony megszüntetésére közös megegyezéssel került sor, és a munkavállaló kizárólag a jogszabály alapján járó munkabért vagy juttatást kapta.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az első feltétel a közös megegyezés és a juttatás jogszabályi szintre szorítása. Az Mt. 205. § (2a) bekezdés a) pontja szerint a korábbi idő beszámításához szükséges, hogy a megszüntetés közös megegyezéssel történt, és a munkavállaló a megszüntetésre tekintettel kizárólag olyan munkabérben vagy egyéb juttatásban részesült, amely jogszabály alapján megilleti. Extra, alkudott juttatás esetén a kedvezmény nem jár. A szabály a közszférán belüli azonnali átlépésnél a megszűnéshez kapcsolódó időszámítás nullázását akadályozza, ha nem volt „csomag”."
+        },
+        {
+          "text": "A korábbi munkáltató a megszűnéskor köztulajdonban állónak minősült, és az új munkaviszony létesítésére közvetlenül a megszüntetést követően került sor.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a b) és c) pont a korábbi munkáltató minősítését és az azonnali átlépést követeli. Az Mt. 205. § (2a) bekezdés b) pontja szerint a korábbi munkáltató a munkaviszony megszűnésekor köztulajdonban állónak minősült, a c) pont szerint pedig a munkaviszony létesítésére közvetlenül a jogviszony megszüntetését követően került sor. Az (1) bekezdéstől eltérően tehát a korábbi idő beszámítható, de csak e kumulatív feltételek együttes fennállása esetén. A megszakított átlépés vagy a magántulajdonú előzménymunkáltató kiesik."
+        },
+        {
+          "text": "Elegendő, ha a korábbi munkáltató bármikor a munkaviszony tartama alatt köztulajdonban állónak minősült, a megszűnéskori állapot közömbös.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törvény a megszűnéskori minősítést követeli, nem a tartam közbeni állapotot. Az Mt. 205. § (2a) bekezdés b) pontja szerint a korábbi munkáltató a munkaviszony megszűnésekor köztulajdonban állónak minősült. Emellett az a) és c) pont szerinti közös megegyezés, juttatási korlát és közvetlen átlépés is szükséges. A tévedés a köztulajdonú minőség tartamra kiterjesztett, de a szöveggel ellentétes olvasatából fakad."
+        },
+        {
+          "text": "A korábbi idő beszámítása akkor is kötelező, ha a munkavállaló a közös megegyezés mellett extra végkielégítést kapott.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az extra juttatás kizárja a (2a) bekezdés alkalmazását. Az Mt. 205. § (2a) bekezdés a) pontja szerint a munkavállaló a megszüntetésre tekintettel kizárólag olyan munkabérben vagy egyéb juttatásban részesülhetett, amely jogszabály alapján megilleti. Ha az alkudott csomag ezt meghaladja, a korábbi idő beszámítása nem jár. A tévedés a munkavállaló javára billentő cél feltétel nélküli kiterjesztéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 10
+    },
+    {
+      "question": "Mit jelent a 2009. évi CXXII. törvény szerinti közzétételi kötelezettség a vezető tisztségviselők és a meghatározó munkavállalók tekintetében?",
+      "options": [
+        {
+          "text": "A köztulajdonban álló gazdasági társaság közzéteszi a vezető tisztségviselők, a felügyelőbizottsági tagok, az Mt. 208. § szerinti vezető állású munkavállalók, valamint az önállóan cégjegyzésre vagy a bankszámla felett rendelkező munkavállalók nevét, tisztségét vagy munkakörét és a megjelölt pénzbeli adatokat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2009. évi CXXII. törvény 2. § (1) bekezdése taxatívan jelöli ki a személyi kört és az adatkört. Ugyanezen bekezdés a közzététel időpontjában fennálló adatok alapján kötelezi a társaságot e személyek nevének, tisztségének vagy munkakörének, a munkaviszonyhoz kapcsolódó pénzbeli juttatásoknak, a végkielégítés és a felmondási idő mértékének, valamint a Munka Törvénykönyve 228. §-a szerinti kikötés tartamának és ellenértékének nyilvánosságára. A közzététel a 1. § c) pontja szerint az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti elektronikus közzététel. A kötelezettség a társasági oldalt terheli, nem a Munka Törvénykönyve 204. §-a szerinti közalapítványt mint munkáltatót."
+        },
+        {
+          "text": "A másokkal együttesen cégjegyzésre vagy a bankszámla felett rendelkező, valamint a működés szempontjából meghatározó munkavállalóknál az (1) bekezdés b)–c) pontját kell közzétenni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés szűkebb adatkört ír elő e személyi körre. A 2009. évi CXXII. törvény 2. § (2) bekezdése szerint a társaság a másokkal együttesen cégjegyzésre vagy a bankszámla feletti rendelkezésre jogosult munkavállalók, valamint a működés szempontjából meghatározó jelentőségű egyéb munkavállalók esetében az (1) bekezdés b)–c) pontjában meghatározott adatokat teszi közzé. Az (1) bekezdés a) pontja szerinti név tehát e körben nem ugyanazzal a teljesességgel jelenik meg, mint a vezetőknél. A (3) bekezdés emellett a közbeszerzési értékhatárt elérő vagyonmozgások szerződéses adatait is nyilvánosságra viszi."
+        },
+        {
+          "text": "A közzétételi kötelezettség a közalapítvány mint munkáltató vezetőire is azonos tartalommal kiterjed.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 2. § a köztulajdonban álló gazdasági társaságot kötelezi, nem a közalapítványt mint munkáltatót. A 2009. évi CXXII. törvény 1. § a) pontja szerint a törvény alanya gazdasági társaság; a közalapítvány befolyással rendelkező, nem a szabályozott jogalany. Az Mt. 204. § (1) bekezdése a közalapítványt munkáltatóvá minősíti, de a 2009. évi CXXII. törvény díjazási és közzétételi rendje alá nem vonja. A tévedés a két törvény alanyi körének összecseréléséből ered."
+        },
+        {
+          "text": "Önkormányzati rendelet az egyszerű közbeszerzési eljárás értékhatáránál magasabb összegben is meghatározhatja a kötelezően közzéteendő szerződések értékhatárát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az önkormányzati rendelet csak lefelé viheti az értékhatárt. A 2009. évi CXXII. törvény 2. § (3) bekezdése szerint önkormányzati rendelet a kötelezően közzétételre kerülő szerződések értékhatárát az egyszerű közbeszerzési eljárás értékhatáránál alacsonyabb összegben is meghatározhatja. Magasabb küszöb megállapítására nincs felhatalmazás. A tévedés a helyi szabályozás mindkét irányú eltérítési lehetőségének feltételezéséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 11
+    },
+    {
+      "question": "Mi következik abból, ha a köztulajdonban álló gazdasági társaság nem fizeti ki a munkaszerződés vagy egyoldalú kötelezettségvállalás alapján járó prémiumot?",
+      "options": [
+        {
+          "text": "A ki nem fizetésből eredő felelősség kizárólag a köztulajdonban álló gazdasági társaságot terheli, az igényt a társasággal szemben kell érvényesíteni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felelősség a társaságra koncentrálódik, nem a vezetőkre vagy a tulajdonosi jogok gyakorlójára. A 2009. évi CXXII. törvény 5. § (1) bekezdése szerint a munkaszerződés vagy egyoldalú kötelezettségvállalás alapján járó, alapbéren kívüli teljesítménybér (prémium), valamint az alapbéren felüli rendszeres pénzbeli és nem pénzbeli juttatás ki nem fizetéséből eredő felelősség kizárólag a társaságot terheli. Az igényt a gazdasági társasággal szemben kell érvényesíteni. A munkavállaló tehát nem a tulajdonosi jogok gyakorlójától követelheti a prémiumot."
+        },
+        {
+          "text": "A társaság e felelősség kapcsán a vezető tisztségviselőjével, a felügyelőbizottsági taggal és a tulajdonosi jogok gyakorlójával szemben követelést nem érvényesíthet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a regressz e személyi körrel szemben kizárt. A 2009. évi CXXII. törvény 5. § (1) bekezdése második mondata szerint a társaság ezen felelősségével összefüggésben a vezető tisztségviselőjével, a felügyelőbizottsági tagjával és a tulajdonosi jogok gyakorlójával szemben követelést nem érvényesíthet. A felelősség tehát egyirányú: a munkavállaló a társasággal szemben léphet fel, a társaság pedig nem háríthatja tovább e kört. A szabály a javadalmazási vita közjogi-társasági áthárítását zárja."
+        },
+        {
+          "text": "A munkavállaló a ki nem fizetett prémiumot közvetlenül a tulajdonosi jogok gyakorlójával szemben is érvényesítheti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az igény kizárólag a társasággal szemben érvényesíthető. A 2009. évi CXXII. törvény 5. § (1) bekezdése szerint a felelősség kizárólag a köztulajdonban álló gazdasági társaságot terheli, és az igényt a gazdasági társasággal szemben kell érvényesíteni. A tulajdonosi jogok gyakorlója e felelősségi láncban nem alperes. A tévedés a tulajdonosi döntési hatáskör és a kifizetési felelősség összecseréléséből ered."
+        },
+        {
+          "text": "A társaság a ki nem fizetett prémium miatti helytállás után regresszúton követelheti a vezető tisztségviselőjétől a kifizetett összeget.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törvény e regresszt kifejezetten kizárja. A 2009. évi CXXII. törvény 5. § (1) bekezdése szerint a társaság ezen felelősségével összefüggésben a vezető tisztségviselőjével, a felügyelőbizottsági tagjával és a tulajdonosi jogok gyakorlójával szemben követelést nem érvényesíthet. A felelősség tehát a társaságnál megáll. A tévedés a polgári jogi kártérítési regressz általános mintájának ráírásából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 12
+    },
+    {
+      "question": "Milyen tartamban kell a javadalmazási szabályzatot a cégiratok közé letétbe helyezni, és mi a szabályzattól való eltérés jogkövetkezménye?",
+      "options": [
+        {
+          "text": "A legfőbb szerv köteles szabályzatot alkotni a vezető tisztségviselők, a felügyelőbizottsági tagok és az Mt. 208. § hatálya alá eső munkavállalók javadalmazásáról, valamint a jogviszony megszűnése esetére biztosított juttatásokról.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szabályzatalkotás a legfőbb szerv kötelezettsége, meghatározott személyi körre. A 2009. évi CXXII. törvény 5. § (3) bekezdése szerint a legfőbb szerv e törvény és más jogszabályok keretei között köteles szabályzatot alkotni a vezető tisztségviselők, felügyelőbizottsági tagok, valamint az Mt. 208. § hatálya alá eső munkavállalók javadalmazása, valamint a jogviszony megszűnése esetére biztosított juttatások módjának, mértékének elveiről és rendszeréről. A szabályzat tehát nem fakultatív belső iránymutatás. A (4) bekezdés szerint a szabályzat rendelkezéseitől érvényesen eltérni nem lehet."
+        },
+        {
+          "text": "A szabályzatot az elfogadásától számított harminc napon belül a cégiratok közé letétbe kell helyezni, és a szabályzattól érvényesen eltérni nem lehet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a letéti határidő harminc nap, az eltérés pedig érvénytelen. A 2009. évi CXXII. törvény 5. § (3) bekezdése szerint a szabályzatot az elfogadásától számított harminc napon belül a cégiratok közé letétbe kell helyezni. A (4) bekezdés kimondja: „A (3) bekezdésben meghatározott szabályzat rendelkezéseitől érvényesen eltérni nem lehet.” A letétbe helyezett rend a szerződéses autonómiát ezen a körön belül megszünteti. A határidő elmulasztása és az eltérő szerződés egyaránt a törvényi rendet sérti."
+        },
+        {
+          "text": "A szabályzatot az elfogadásától számított hatvan napon belül kell a cégiratok közé letétbe helyezni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határidő harminc nap, nem hatvan. A 2009. évi CXXII. törvény 5. § (3) bekezdése szerint a szabályzatot az elfogadásától számított harminc napon belül a cégiratok közé letétbe kell helyezni. A (4) bekezdés szerint a szabályzattól érvényesen eltérni nem lehet. A tévedés a társasági jogban ismert hosszabb letéti vagy bejelentési határidők ráírásából ered."
+        },
+        {
+          "text": "A munkaszerződés a szabályzattól a munkavállaló javára érvényesen eltérhet, ha a felek ezt kifejezetten kikötik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szabályzattól való eltérés érvénytelen, a munkavállaló javára sem. A 2009. évi CXXII. törvény 5. § (4) bekezdése szerint a (3) bekezdésben meghatározott szabályzat rendelkezéseitől érvényesen eltérni nem lehet. A letétbe helyezett rend a szerződéses autonómiát ezen a körön belül megszünteti. A tévedés a munkajogi, munkavállaló javára engedő eltérés dogmatikájának indokolatlan ráírásából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 13
+    },
+    {
+      "question": "Milyen mértékben plafonálja a törvény az igazgatósági és a felügyelőbizottsági díjazást?",
+      "options": [
+        {
+          "text": "Az igazgatóság elnökének e jogviszonyára tekintettel megállapított díjazása nem haladhatja meg a mindenkori kötelező legkisebb munkabér hétszeresét, a többi tagé az ötszörösét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az elnöki plafon hétszeres, a tagsági plafon ötszörös. A 2009. évi CXXII. törvény 6. § (1) bekezdése szerint az igazgatóság elnökének e jogviszonyára tekintettel megállapított díjazása nem haladhatja meg a mindenkori kötelező legkisebb munkabér hétszeresét, illetve az igazgatóság többi tagja esetében az ötszörösét. A plafon a megbízatásra tekintettel járó díjra vonatkozik, nem az Mt. szerinti munkabérre. A két jogviszony elválasztása a 2. § közzétételi megbontásával összhangban áll."
+        },
+        {
+          "text": "A felügyelőbizottság elnökénél a plafon a kötelező legkisebb munkabér ötszöröse, a többi tagnál a háromszorosa; e díjazáson kívül — az igazolt, megbízatással összefüggő költségtérítés kivételével — más javadalmazás nem jár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felügyelőbizottsági plafon szigorúbb, és a járandóság köre zárt. A 2009. évi CXXII. törvény 6. § (2) bekezdése szerint a felügyelőbizottság elnökének havi díjazása nem haladhatja meg a mindenkori kötelező legkisebb munkabér ötszörösét, a többi tagé a háromszorosát. E díjazáson kívül a felügyelőbizottsági tag — az igazolt, a megbízatásával összefüggésben felmerült költségeinek megtérítésén kívül — más javadalmazásra nem jogosult. A (3) bekezdés a megbízatás megszűnésére juttatást nem enged."
+        },
+        {
+          "text": "Az igazgatóság elnökének díjazása elérheti a kötelező legkisebb munkabér tízszeresét, ha a társaság legfőbb szerve így dönt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törvényi plafon hétszeres, a legfőbb szerv ezt nem emelheti. A 2009. évi CXXII. törvény 6. § (1) bekezdése az igazgatóság elnökénél a mindenkori kötelező legkisebb munkabér hétszeresét rögzíti felső határként. Az 5. § (3)–(4) bekezdése szerinti javadalmazási szabályzat e kereten belül mozoghat, de a 6. § plafonját nem törheti át. A tévedés a legfőbb szerv diszkréciójának túlterjesztéséből ered."
+        },
+        {
+          "text": "A felügyelőbizottsági tagnak a díjazáson felül teljesítménybér is megállapítható, ha azt a javadalmazási szabályzat tartalmazza.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felügyelőbizottsági tag más javadalmazásra — a költségtérítés kivételével — nem jogosult. A 2009. évi CXXII. törvény 6. § (2) bekezdése szerint e díjazáson kívül a felügyelőbizottsági tag az igazolt, megbízatással összefüggő költségtérítésen kívül más javadalmazásra nem jogosult. A szabályzat az 5. § (3) bekezdése szerint e törvény keretei között alkotható, tehát a 6. § tilalmát nem oldhatja fel. A tévedés a munkaviszonybeli teljesítménybér szabályának a megbízatásra ráírásából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 14
+    },
+    {
+      "question": "Miben tér el a megbízatás megszűnésére járó juttatás és a többes megbízatás díjazásának szabálya az igazgatósági és felügyelőbizottsági tisztségeknél?",
+      "options": [
+        {
+          "text": "Az igazgatóság és a felügyelőbizottság elnökének vagy tagjának e jogviszonyára tekintettel a megbízatás megszűnése esetére juttatás nem biztosítható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a megszűnéskori juttatás tilalma mindkét testületre kiterjed. A 2009. évi CXXII. törvény 6. § (3) bekezdése szerint a társaság igazgatósága elnökének vagy más tagjának, továbbá felügyelőbizottsága elnökének vagy más tagjának e jogviszonyára tekintettel a megbízatás megszűnése esetére juttatás nem biztosítható. A tilalom a megbízatásra tekintettel járó díjhoz kapcsolódik, nem az esetleges párhuzamos munkaviszony Mt. szerinti végkielégítéséhez. A (4) bekezdés emellett a természetes személy többes díjazását is korlátozza."
+        },
+        {
+          "text": "Egy természetes személy legfeljebb egy köztulajdonban álló gazdasági társaságnál betöltött vezető tisztségviselői megbízatás és legfeljebb egy felügyelőbizottsági tagság után részesülhet javadalmazásban.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fizetett megbízatások száma személyenként zárt. A 2009. évi CXXII. törvény 6. § (4) bekezdése szerint egy természetes személy legfeljebb egy köztulajdonban álló gazdasági társaságnál betöltött vezető tisztségviselői megbízatás, valamint legfeljebb egy köztulajdonban álló gazdasági társaságnál betöltött felügyelőbizottsági tagság után részesülhet javadalmazásban. Több társaságnál betöltött, de díjazás nélküli tagság ettől a plafontól elválik. A szabály a közszférán belüli párhuzamos díjazások felhalmozását korlátozza."
+        },
+        {
+          "text": "A megbízatás megszűnése esetére legfeljebb háromhavi díjazásnak megfelelő juttatás biztosítható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megszűnéskori juttatás egyáltalán nem biztosítható. A 2009. évi CXXII. törvény 6. § (3) bekezdése szerint az igazgatóság és a felügyelőbizottság elnökének vagy tagjának e jogviszonyára tekintettel a megbízatás megszűnése esetére juttatás nem biztosítható. Nincs háromhavi vagy más mértékbeli kivétel. A tévedés a munkaviszonybeli végkielégítés mintájának a megbízatásra ráírásából ered."
+        },
+        {
+          "text": "Egy természetes személy korlátlan számú köztulajdonban álló társaságnál részesülhet felügyelőbizottsági díjazásban, ha az egyes díjak külön-külön a törvényi plafon alatt maradnak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felügyelőbizottsági díjazás is legfeljebb egy társaságra korlátozódik. A 2009. évi CXXII. törvény 6. § (4) bekezdése szerint egy természetes személy legfeljebb egy köztulajdonban álló gazdasági társaságnál betöltött felügyelőbizottsági tagság után részesülhet javadalmazásban. A 6. § (2) bekezdés szerinti mértékplafon tehát nem oldja fel a számbeli korlátot. A tévedés a mértékplafon és a többes díjazás tilalmának összecseréléséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 15
+    },
+    {
+      "question": "Hogyan kell értelmezni a jogról lemondó vagy abból engedő nyilatkozatot a köztulajdonban álló munkáltató kógens szabályai mellett?",
+      "options": [
+        {
+          "text": "A jogról lemondó vagy abból engedő nyilatkozatot nem lehet kiterjesztően értelmezni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szűkítő értelmezés törvényi parancs. Az Mt. 5. § (2) bekezdése szerint a jogról lemondó vagy abból engedő nyilatkozatot nem lehet kiterjesztően értelmezni. A 205. § (1) bekezdése és a 213. § f) pontja szerinti tilalom alóli „lemondás” vagy „engedés” ezért szűken értendő: a kógens lockot a felek nyilatkozata nem tágíthatja. A 2009. évi CXXII. törvény 5. § (4) bekezdése szerinti, szabályzattól való érvénytelen eltérés ugyanezt a szűkítő olvasatot erősíti. Az (1) bekezdés emellett a törvényt Magyarország és az Európai Unió jogrendjével összhangban rendeli értelmezni."
+        },
+        {
+          "text": "Az Mt. rendelkezéseit Magyarország és az Európai Unió jogrendjével összhangban kell értelmezni; a 204–207. § sem olvasható e kereten kívül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az értelmezési keret a különös fejezetre is kiterjed. Az Mt. 5. § (1) bekezdése szerint a törvény rendelkezéseit Magyarország és az Európai Unió jogrendjével összhangban kell értelmezni. A 204–207. § és a 213. § f) pontja sem olvasható e kereten kívül. Az uniós összhang a közzétételi és javadalmazási szabályoknál a 2009. évi CXXII. törvény 1. § e)–g) pontjában hivatkozott hitelminősítési és pénzügyi-eszköz fogalmakkal is találkozik. A kógencia tehát nem mentesít az összhang-követelmény alól."
+        },
+        {
+          "text": "A felek egyező lemondó nyilatkozata kiterjesztően feloldhatja a 213. § f) pont szerinti eltérési tilalmat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a lemondó nyilatkozat nem tágíthatja a kógens lockot. Az Mt. 5. § (2) bekezdése a jogról lemondó vagy abból engedő nyilatkozat kiterjesztő értelmezését tiltja, a 213. § f) pontja pedig a 200–207. §-tól való eltérést zárja. A 205. § (1) bekezdése szerinti tilalom alóli „engedés” ezért szűken értendő. A tévedés a diszpozitív munkajogi alkuképesség ráírásából ered."
+        },
+        {
+          "text": "A 204–207. § lex specialis jellege miatt az Mt. 5. § értelmezési szabályai a különös fejezetre nem vonatkoznak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az 5. § a törvény egészére — így a 204–207. §-ra is — irányadó. Az Mt. 5. § (1) bekezdése a törvény rendelkezéseinek uniós és magyar jogrenddel összhangban álló értelmezését írja elő, kivétel nélkül. A (2) bekezdés szűkítő lemondás-értelmezése a 205. § és a 213. § f) pont kógens tilalmait erősíti. A tévedés a lex specialis indokolatlan, értelmezési szabályt kiiktató olvasatából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 16
+    },
+    {
+      "question": "Mely általános magatartási követelmények maradnak fenn a köztulajdonban álló munkáltató kógens fejezete mellett is?",
+      "options": [
+        {
+          "text": "A munkáltató a munkavállaló érdekeit a méltányos mérlegelés alapján köteles figyelembe venni; a teljesítés módjának egyoldalú meghatározása aránytalan sérelmet nem okozhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Munka Törvénykönyve 6. § (3) bekezdésének méltányossági parancsa a különös fejezet mellett is él. Ugyanezen bekezdés szerint a munkáltató a munkavállaló érdekeit a méltányos mérlegelés alapján köteles figyelembe venni, és a teljesítés módjának egyoldalú meghatározása a munkavállalónak aránytalan sérelmet nem okozhat. A 207. § szerinti tulajdonosi döntés e méltányossági keretben érvényesül. A XX. fejezet kógenciája tehát nem mentesít a 6. § szerinti magatartási követelmények alól."
+        },
+        {
+          "text": "A felek kötelesek egymást minden olyan lényeges tényről, adatról és körülményről tájékoztatni, amely a munkaviszony létesítése, valamint a jogok gyakorlása és a kötelezettségek teljesítése szempontjából lényeges.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a feleket terhelő tájékoztatási kötelezettség a Munka Törvénykönyve 6. § (4) bekezdéséből következik. Ugyanezen bekezdés szerint az e törvény hatálya alá tartozók kötelesek egymást minden olyan tényről, adatról, körülményről vagy ezek változásáról tájékoztatni, amely a munkaviszony létesítése, valamint az e törvényben meghatározott jogok gyakorlása és a kötelezettségek teljesítése szempontjából lényeges. A 2009. évi CXXII. törvény 2. §-a szerinti közzététel e tájékoztatási kerettel párhuzamosan érvényesül. A kógens fejezet a tájékoztatási kötelezettséget nem kapcsolja ki."
+        },
+        {
+          "text": "A 204–207. § kógenciája mentesíti a munkáltatót a jóhiszeműség és a tisztesség követelménye alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a XX. fejezet kógenciája nem mentesít a Munka Törvénykönyve 6. §-ának magatartási követelményei alól. A 6. § (2) bekezdése szerint a jogok gyakorlása és a kötelezettségek teljesítése során a jóhiszeműség és a tisztesség elvének megfelelően kell eljárni, továbbá kölcsönösen együtt kell működni. A 207. § szerinti tulajdonosi döntés és a közzététel e magatartási keretben érvényesül. A tévedés a kógens fejezetet teljes kivételként olvasó, indokolatlan értelmezésből fakad."
+        },
+        {
+          "text": "Felróható magatartására előnyök szerzése végett a munkáltató a 205. § zártsága miatt hivatkozhat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felróható magatartásra előnyszerzés végett senki nem hivatkozhat. Az Mt. 6. § (1) bekezdése szerint a munkaszerződés teljesítése során — törvény eltérő követelménye hiányában — úgy kell eljárni, ahogy az adott helyzetben általában elvárható, és felróható magatartására előnyök szerzése végett senki nem hivatkozhat. A 205. § a felmondási idő, a végkielégítés és a munkaidő alkuját zárja, de a 6. § tilalmát nem oldja fel. A tévedés a kógens zárás hatályának túlterjesztéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 17
+    },
+    {
+      "question": "Mit jelent az állami részvényes fogalma a 2009. évi CXXII. törvényben?",
+      "options": [
+        {
+          "text": "Állami részvényes a magyar állam, vagy olyan gazdasági társaság, amelyben a magyar állam a szavazatok legalább kilencven százalékát biztosító befolyással rendelkezik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az állami részvényes kétágú fogalom: maga az állam vagy a legalább kilencven százalékos állami befolyású társaság. A 2009. évi CXXII. törvény 1. § d) pontja szerint állami részvényes a magyar állam, vagy olyan gazdasági társaság, amelyben a magyar állam a szavazatok legalább 90%-át biztosító befolyással rendelkezik (állami gazdasági társaság). A küszöb tehát szigorúbb, mint a köztulajdonban álló társaság többségi — több mint ötven százalékos — befolyása. A fogalom a törvény további pontjainak alkalmazásához szükséges."
+        },
+        {
+          "text": "A közzététel a törvény alkalmazásában az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott elektronikus közzététel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közzététel fogalma az Infotv. szerinti elektronikus közzétételre utal. A 2009. évi CXXII. törvény 1. § c) pontja szerint közzététel: az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott elektronikus közzététel. A törvény 2. §-ának közzétételi kötelezettségei erre az elektronikus közzétételi fogalomra épülnek. A papíralapú vagy belső irattári nyilvánosság e törvényi értelemben nem helyettesíti az elektronikus közzétételt."
+        },
+        {
+          "text": "Állami részvényesnek minősül minden olyan társaság, amelyben az állam bármilyen, akár egyszázalékos szavazati joggal rendelkezik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állami gazdasági társasághoz a szavazatok legalább kilencven százalékát biztosító befolyás kell. A 2009. évi CXXII. törvény 1. § d) pont db) alpontja szerint állami részvényes az a gazdasági társaság is, amelyben a magyar állam a szavazatok legalább 90%-át biztosító befolyással rendelkezik. Az egyszázalékos részesedés sem az állami részvényes, sem a köztulajdonban álló társaság fogalmát nem alapozza meg. A tévedés a „állami jelenlét” laza olvasatából fakad."
+        },
+        {
+          "text": "Az állami részvényes fogalma azonos az Mt. 204. § szerinti köztulajdonban álló munkáltató fogalmával.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két fogalom küszöbe és alanyi köre is eltér. Az Mt. 204. § (1) bekezdése a közalapítványt és a többségi — több mint ötven százalékos — közszereplői befolyás alatt álló gazdasági társaságot minősíti munkáltatóvá. A 2009. évi CXXII. törvény 1. § d) pontja az állami részvénynél a magyar államot vagy a legalább kilencven százalékos állami befolyást követeli. A tévedés a párhuzamos értelmező rendelkezések azonosságának feltételezéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 18
+    },
+    {
+      "question": "Egy állami többségi tulajdonú gazdasági társaság kölcsönvevőként fogad munkavállalót. Mely megállapítások állják meg a helyüket a személyi hatályról?",
+      "options": [
+        {
+          "text": "A köztulajdonban álló munkáltató az Mt. 2. § (1) bekezdése szerinti személyi körben munkáltató; a nála foglalkoztatott — ha munkaviszonyban áll — munkavállaló.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a különös fejezet nem lép a személyi hatály mellé, hanem azon belül működik. A Munka Törvénykönyve 2. § (1) bekezdése a törvényt a munkáltatóra, a munkavállalóra, a munkáltatói érdek-képviseleti szervezetre, az üzemi tanácsra és a szakszervezetre terjeszti ki. A 204–207. § különös rendje ezért a 2. § szerinti személyi kör keretében érvényesül. A kölcsönvevőként eljáró köztulajdonban álló szervezet is e személyi körbe tartozhat."
+        },
+        {
+          "text": "A XVI. fejezetet a kölcsönvevőre is alkalmazni kell; a kölcsönvevő akkor is a különös fejezet alá eshet, ha maga köztulajdonban álló munkáltató.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kölcsönvevőre a XVI. fejezet kiterjed, és a köztulajdonú minőség a különös szabályokat is megnyithatja. A Munka Törvénykönyve 2. § (2) bekezdés a) pontja a XVI. fejezetet a kölcsönvevőre is alkalmazni rendeli. Ha a kölcsönvevő maga is köztulajdonban álló munkáltató, a 204–207. § kógens rendje rá is irányadó lehet. A kollektív szerződés a 205. § (1) bekezdése és a 213. § szerint a különös fejezettől nem térhet el."
+        },
+        {
+          "text": "A kölcsönvevőre a XVI. fejezet soha nem alkalmazható, ha a kölcsönbe adó magántulajdonú munkáltató.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a XVI. fejezet alkalmazása a kölcsönvevőre nem a kölcsönbe adó tulajdonosi minőségétől függ. A Munka Törvénykönyve 2. § (2) bekezdés a) pontja a XVI. fejezetet a kölcsönvevőre alkalmazni rendeli. A köztulajdonban álló minőség a kölcsönvevő saját minősítésénél válik döntővé a 204–207. § szempontjából. A tévedés a kölcsönbe adó és a kölcsönvevő alanyi szerepének összecseréléséből ered."
+        },
+        {
+          "text": "A 204–207. § a 2. § személyi hatálya mellé lépő, önálló hatályi szabály.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 204–207. § a 2. §-on belül működik, nem mellé lép. A Munka Törvénykönyve 2. § (1) bekezdése adja a személyi kört, a köztulajdonban álló munkáltató e körben munkáltató. A különös fejezet a szerződéses autonómiát szűkíti, de új személyi hatályt nem alkot. A tévedés a különös fejezetet önálló kódexként olvasó megközelítésből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 19
+    },
+    {
+      "question": "Miben tér el a XIX–XXI. fejezet zártsága a 205. § pontonkénti eltérési tilalmától?",
+      "options": [
+        {
+          "text": "A 206. § egyetlen mondatban zárja a XIX–XXI. fejezetet: e rendelkezésektől eltérni nem lehet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom a három fejezet egészét fogja, nem pontonkénti listát. A Munka Törvénykönyve 206. §-a kimondja: „A XIX–XXI. fejezet rendelkezéseitől eltérni nem lehet.” A tilalom tágabb, mint a 205. § pontonkénti lockja. Sem a munkaszerződés, sem a kollektív szerződés nem nyithatja fel ezeket a fejezeteket. A köztulajdonban álló munkáltatónál ezért a különös fejezetek diszpozitivitása megszűnik."
+        },
+        {
+          "text": "A 213. § f) pontja a 200–207. §-t már kógenssé teszi; a 206. § ezt a zárást a fejezeti szintre emeli.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két szabály rétegezett zárást ad. A Munka Törvénykönyve 213. § f) pontja szerint a felek megállapodása vagy kollektív szerződés a 200–207. §-ban foglaltaktól nem térhet el. A 206. § ehhez képest a XIX–XXI. fejezet egészét zárja. A két irányú lock együtt olvasható: egyrészt a 200–207. §, másrészt a három fejezet. A d) pont üresen áll; a működő tilalom az f) pont."
+        },
+        {
+          "text": "A 206. § csak a felmondási időre és a végkielégítésre vonatkozik, a munkaidőre nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 206. § a XIX–XXI. fejezet teljes rendelkezési körét zárja. A Munka Törvénykönyve 206. §-a szerint e fejezetek rendelkezéseitől eltérni nem lehet, tárgy szerinti leszűkítés nélkül. A felmondási idő és a végkielégítés pontonkénti zárása a 205. § (1) bekezdéséhez tartozik. A tévedés a 205. § és a 206. § hatályának összecseréléséből ered."
+        },
+        {
+          "text": "A kollektív szerződés a XIX–XXI. fejezettől a munkavállaló javára eltérhet, ha a 206. § ezt kifejezetten megengedi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a XIX–XXI. fejezet zártsága semmilyen eltérést nem enged, a munkavállaló javára sem. A Munka Törvénykönyve 206. §-a szerint a XIX–XXI. fejezet rendelkezéseitől eltérni nem lehet. Emellett a 213. § f) pontja a 200–207. §-tól való eltérést a kollektív szerződés számára is tiltja. A tévedés a munkavállaló javára engedő kollektív eltérés általános mintájának ráírásából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 20
+    },
+    {
+      "question": "Mi a tisztességes foglalkoztatás céljának szerepe a köztulajdonban álló munkáltató kógens szabályainál?",
+      "options": [
+        {
+          "text": "Az Mt. 1. § a tisztességes foglalkoztatás alapvető szabályait a vállalkozás és a munkavállalás szabadságához, valamint a felek gazdasági és szociális érdekeihez köti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a célnorma a különös kógencia értelmezési kerete. A Munka Törvénykönyve 1. §-a szerint a törvény a tisztességes foglalkoztatás alapvető szabályait állapítja meg a vállalkozás és a munkavállalás szabadságának elve szerint, tekintettel a munkáltató és a munkavállaló gazdasági, valamint szociális érdekeire. A köztulajdonban álló munkáltatóra írt kógencia nem külön kódex, hanem ezen a célon belüli korlát. A közvagyonnal való gazdálkodás a felmondási idő, a végkielégítés és a munkaidő alkuképességét elvonja."
+        },
+        {
+          "text": "A 205–207. § és a 213. § f) pontja nem „kedvezmény”, amit a felek kicserélhetnek, hanem az 1. § szerinti érdekmérlegelés törvényi rögzítése.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kógens szabályok az érdekmérlegelést rögzítik, nem elcserélhető kedvezményt adnak. A vállalkozás szabadsága a közszereplői többségi befolyás alatt a munkaszerződés tartalmában szűkebb, mint a magántulajdonú munkáltatónál. A Munka Törvénykönyve 213. § f) pontja a 200–207. §-tól való eltérést tiltja. A 205. § a felmondási idő, a végkielégítés és a munkaidő alkuját zárja. A felek tehát nem „vásárolhatják ki” a kógenciát."
+        },
+        {
+          "text": "A vállalkozás szabadsága a köztulajdonban álló munkáltatónál ugyanolyan széles szerződéses autonómiát ad, mint a magántulajdonú munkáltatónál.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közszereplői többségi befolyás alatt a munkaszerződés tartalma szűkebb. A Munka Törvénykönyve 1. §-a a vállalkozás szabadságát a tisztességes foglalkoztatás keretében értelmezi, a 205–207. § pedig a közvagyon miatt elvonja a felmondási idő, a végkielégítés és a munkaidő alkuképességét. A 213. § f) pontja a 200–207. §-tól való eltérést tiltja. A tévedés a magánmunkáltatói autonómia indokolatlan ráírásából ered."
+        },
+        {
+          "text": "A 205–207. § a felek megállapodásával kicserélhető kedvezményrendszer, ha a munkavállaló ezt írásban elfogadja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a különös fejezet nem elcserélhető kedvezmény. A Munka Törvénykönyve 213. § f) pontja szerint a felek megállapodása a 200–207. §-ban foglaltaktól nem térhet el. A 205–207. § az 1. § szerinti érdekmérlegelés törvényi rögzítése. A tévedés a diszpozitív munkajogi alkuképesség ráírásából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 21
+    },
+    {
+      "question": "A törvény által felsoroltak közül melyik szerepel ténylegesen a 2009. évi CXXII. törvény szerinti köztulajdonban álló gazdasági társaság befolyásolóinak listájában?",
+      "options": [
+        {
+          "text": "A helyi önkormányzat jogi személyiséggel rendelkező társulása és a többcélú kistérségi társulás is a befolyással rendelkezők között szerepel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2009. évi CXXII. törvény listája finomabb, mint a Munka Törvénykönyve 204. § (1) bekezdése. A 2009. évi CXXII. törvény 1. § a) pontja szerint a befolyással rendelkezők között megjelenik a helyi önkormányzat jogi személyiséggel rendelkező társulása, a többcélú kistérségi társulás, a fejlesztési tanács és a nemzetiségi önkormányzat jogi személyiségű társulása. A többségi befolyás külön-külön vagy együttesen számítandó. A közalapítvány itt befolyásoló, nem a szabályozott jogalany."
+        },
+        {
+          "text": "A nemzetiségi önkormányzat jogi személyiségű társulása a törvény szerinti befolyással rendelkező lehet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nemzetiségi önkormányzat társulása expressis verbis szerepel. A 2009. évi CXXII. törvény 1. § a) pontja a nemzetiségi önkormányzatot és a nemzetiségi önkormányzat jogi személyiségű társulását is felsorolja a befolyással rendelkezők között. A gazdasági társaság akkor köztulajdonban álló, ha e közszereplők külön-külön vagy együttesen többségi befolyással rendelkeznek. Az Mt. 204. § (1) bekezdése e finomított társulási alakzatot nem nevezi meg ugyanígy."
+        },
+        {
+          "text": "A közalapítvány a 2009. évi CXXII. törvény szerint maga is a szabályozott köztulajdonban álló gazdasági társaság.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közalapítvány e törvényben befolyással rendelkező, nem a szabályozott jogalany. A 2009. évi CXXII. törvény 1. § a) pontja a köztulajdonban álló gazdasági társaságot határozza meg; az alany mindig gazdasági társaság. A közalapítvány mint munkáltató a Munka Törvénykönyve 204–207. § alá esik, e törvény díjazási és közzétételi rendje alá nem. A tévedés a két törvény alanyi körének összecseréléséből ered."
+        },
+        {
+          "text": "A térségi fejlesztési tanács a 2009. évi CXXII. törvény 1. § a) pontjának expressis verbis eleme.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 2009. évi CXXII. törvény a „fejlesztési tanács” fordulatot használja, nem a „térségi fejlesztési tanács” megnevezést. A 2009. évi CXXII. törvény 1. § a) pontja a fejlesztési tanácsot sorolja fel. A „térségi fejlesztési tanács” a Munka Törvénykönyve 204. § (1) bekezdésének eleme. A tévedés a két törvény listájának szó szerinti azonosításából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 22
+    },
+    {
+      "question": "Mely esetben nem alkalmazható a 69. § (3) bekezdése, és mit tilt a 86. § (3) bekezdésétől való eltérés?",
+      "options": [
+        {
+          "text": "A köztulajdonban álló munkáltatóval fennálló munkaviszonyban a 69. § (3) bekezdése nem alkalmazható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 205. § (2) bekezdés a) pontja kizárja a 69. § (3) bekezdés alkalmazását. A Munka Törvénykönyve 205. § (2) bekezdés a) pontja szerint a köztulajdonban álló munkáltatóval fennálló munkaviszonyban a 69. § (3) bekezdése nem alkalmazható. Ez túlmutat az (1) bekezdés eltérést tiltó listáján: nemcsak az eltérés, hanem maga az alkalmazás is kizárt. A felmondási idő különös szabálya így két irányból zárul."
+        },
+        {
+          "text": "A köztulajdonban álló munkáltatóval fennálló munkaviszonyban a 86. § (3) bekezdésétől nem lehet eltérni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés b) pontja a munkaidő e szabályától való eltérést tiltja. A Munka Törvénykönyve 205. § (2) bekezdés b) pontja szerint a 86. § (3) bekezdésétől nem lehet eltérni. A (3) bekezdés emellett — egészségi ártalom vagy veszély kizárása kivételével — az általános teljes napi munkaidőnél rövidebb teljes napi munkaidőt sem engedi előírni. A munkaidő alkuképessége tehát több ponton el van vonva."
+        },
+        {
+          "text": "A 69. § (3) bekezdése alkalmazható, de a felek megállapodása nem térhet el tőle.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 69. § (3) bekezdése egyenesen nem alkalmazható, nem csupán eltérést tiltó. A Munka Törvénykönyve 205. § (2) bekezdés a) pontja szerint a köztulajdonban álló munkáltatóval fennálló munkaviszonyban a 69. § (3) bekezdése nem alkalmazható. Az (1) bekezdés az eltérést tiltja a 69. § (1)–(2) és (4)–(5) bekezdésétől; a (3) bekezdés külön kezelésű. A tévedés az eltérési tilalom és az alkalmazási tilalom összecseréléséből ered."
+        },
+        {
+          "text": "A 86. § (3) bekezdésétől a kollektív szerződés a munkavállaló javára eltérhet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 205. § (2) bekezdés b) pontja az eltérést a kollektív szerződés számára is tiltja. A Munka Törvénykönyve 205. § (2) bekezdés b) pontja szerint a 86. § (3) bekezdésétől nem lehet eltérni. Emellett a 213. § f) pontja a 200–207. § egészétől való eltérést zárja. A tévedés a munkavállaló javára engedő kollektív eltérés mintájának ráírásából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 23
+    },
+    {
+      "question": "Mit kell közzétenni a megbízási jogviszonyban álló vezető tisztségviselőknél és a felügyelőbizottsági tagoknál?",
+      "options": [
+        {
+          "text": "A Gt. 22. § (2) bekezdés a) pontja szerinti jogviszony, valamint a felügyelőbizottsági tagok esetén a megbízási díjat, az azon felüli járandóságokat és a jogviszony megszűnése esetén járó pénzbeli juttatásokat kell közzétenni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a megbízási oldalon a díj, a felüli járandóság és a megszűnéskori juttatás a közzéteendő kör. A 2009. évi CXXII. törvény 2. § (1) bekezdés d) pontja szerint a gazdasági társaságokról szóló 2006. évi IV. törvény 22. § (2) bekezdés a) pontja szerinti jogviszony, valamint a felügyelőbizottsági tagok esetén közzéteendő a megbízási díj, a megbízási díjon felüli egyéb járandóságok és a jogviszony megszűnése esetén járó pénzbeli juttatások. Ez elválik a munkaviszonyban állók ca)–cc) pont szerinti adatkörétől. A 6. § (3) bekezdése ehhez képest a megszűnéskori juttatás biztosítását tiltja az igazgatósági és felügyelőbizottsági megbízatásra."
+        },
+        {
+          "text": "A munkaviszonyban álló személyeknél külön fel kell tüntetni az alapbért, az egyéb időbért, a teljesítménybért, valamint az időbért megalapozó időtartamot, illetve a teljesítménybért megalapozó teljesítménykövetelményeket.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkaviszonybeli pénzbeli juttatások megbontása kötelező. A 2009. évi CXXII. törvény 2. § (1) bekezdés ca) pontja szerint közzéteendők a munkavállaló részére a munkaviszonya alapján közvetlenül vagy közvetve nyújtott pénzbeli juttatások, ezen belül külön feltüntetve az alapbért, egyéb időbért, teljesítménybért, valamint az időbért megalapozó időtartamot, illetve a teljesítménybért megalapozó teljesítménykövetelményeket. A cb) pont a végkielégítés és a felmondási idő mértékét, a cc) pont a 228. § szerinti kikötést rendezi. A megbontás a transzparencia célját szolgálja."
+        },
+        {
+          "text": "A felügyelőbizottsági tagnál elegendő a megbízási díj közzététele; az azon felüli járandóságok nem tartoznak a kötelező körbe.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felügyelőbizottsági tagnál a díjon felüli járandóságok és a megszűnéskori juttatások is közzéteendők. A 2009. évi CXXII. törvény 2. § (1) bekezdés d) pontja a megbízási díjat, a megbízási díjon felüli egyéb járandóságokat és a jogviszony megszűnése esetén járó pénzbeli juttatásokat egyaránt felsorolja. A 6. § (2) bekezdése a díjazáson kívüli javadalmazást — költségtérítés kivételével — tiltja, de a közzétételi lista ettől függetlenül teljes. A tévedés a közzétételi kör indokolatlan leszűkítéséből fakad."
+        },
+        {
+          "text": "A munkaviszonyban álló vezetőnél az alapbér és a teljesítménybér összevontan, egy összegben is közzétehető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törvény a pénzbeli juttatások külön feltüntetését követeli. A 2009. évi CXXII. törvény 2. § (1) bekezdés ca) pontja szerint az alapbért, az egyéb időbért és a teljesítménybért külön fel kell tüntetni, továbbá az időbért megalapozó időtartamot, illetve a teljesítménybért megalapozó teljesítménykövetelményeket is. Az összevont közlés e megbontást nem teljesíti. A tévedés a transzparencia követelményének laza olvasatából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 24
+    },
+    {
+      "question": "Hogyan kell meghatározni a közvetett módon való rendelkezést a többségi befolyás számításánál?",
+      "options": [
+        {
+          "text": "A közvetett módon való rendelkezés meghatározása során a köztes vállalkozást megillető szavazati hányadot meg kell szorozni a befolyással rendelkezőnek a köztes vállalkozásban fennálló szavazati hányadával.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közvetett hányad szorzással számítható. A Munka Törvénykönyve 204. § (2) bekezdése szerint a közvetett módon való rendelkezés meghatározása során a jogi személyben szavazati joggal rendelkező más jogi személyt (köztes vállalkozást) megillető szavazati hányadot meg kell szorozni a befolyással rendelkezőnek a köztes vállalkozásban, illetve vállalkozásokban fennálló szavazati hányadával. Ha a köztes vállalkozásban fennálló szavazatok aránya az ötven százalékot meghaladja, azt egy egészként kell figyelembe venni. A többségi befolyás a szavazatok több mint ötven százaléka."
+        },
+        {
+          "text": "A 2009. évi CXXII. törvény a közvetett rendelkezésnél ugyanezt a szorzást és az ötven százalék feletti egybeszámítást követeli, de a huszonöt százalékot el nem érő közvetett befolyást figyelmen kívül hagyja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szorzás közös, a huszonöt százalékos filter csak a 2009. évi CXXII. törvényben van. A 2009. évi CXXII. törvény 1. § b) pontja a köztes vállalkozásnál a szorzást és az ötven százalék feletti egybeszámítást írja elő, azzal, hogy a befolyás számításánál nem kell figyelembe venni a huszonöt százalékot el nem érő közvetett befolyást. A Munka Törvénykönyve 204. § (2) bekezdése e huszonöt százalékos küszöböt nem ismeri. A két számítási rend ezért nem cserélhető fel."
+        },
+        {
+          "text": "A közvetett befolyás meghatározásánál a köztes vállalkozás szavazati hányadát mindig egy egészként kell figyelembe venni, a köztes részesedés mértékétől függetlenül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az egybeszámítás csak akkor jár, ha a köztes vállalkozásban a szavazat meghaladja az ötven százalékot. A Munka Törvénykönyve 204. § (2) bekezdése szerint ha a köztes vállalkozásban fennálló szavazatok aránya az ötven százalékot meghaladja, akkor azt egy egészként kell figyelembe venni; egyébként szorzás érvényesül. A 2009. évi CXXII. törvény 1. § b) pontja ugyanezt az ötven százalékos feltételt követeli. A tévedés az egybeszámítás feltétel nélküli általánosításából fakad."
+        },
+        {
+          "text": "A nem többségi közvetett befolyások az Mt. szerint összeadhatók, ha együttesen elérik az ötven százalékot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nem többségi közvetett befolyások egymáshoz nem adódnak hozzá. A Munka Törvénykönyve 204. § (2) bekezdése szerint a nem többségi közvetett befolyás mértéke nem adódik hozzá a másik nem többségi közvetett befolyás mértékéhez. Két tizenhat százalékos közvetett hányad ezért nem eredményez többséget. A tévedés a szavazati hányadok mechanikus összeadásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 25
+    },
+    {
+      "question": "Mely állítások helyesek a köztulajdonban álló gazdasági társaság vagyonmozgásainak nyilvánosságáról?",
+      "options": [
+        {
+          "text": "A 7/I. § kivételével a társaság gondoskodik az egyszerű közbeszerzési eljárás értékhatárát elérő vagy azt meghaladó értékű, a pénzeszközök és a vagyon felhasználásával összefüggő szerződések megnevezésének, tárgyának, a felek nevének, a szerződés értékének és — határozott időnél — időtartamának közzétehetővé tételéről.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés a vagyonmozgások szerződéses adatait viszi nyilvánosságra. A 2009. évi CXXII. törvény 2. § (3) bekezdése a 7/I. § kivételével kötelezi a társaságot az egyszerű közbeszerzési eljárás értékhatárát elérő vagy azt meghaladó árubeszerzés, építési beruházás, szolgáltatásmegrendelés, vagyonértékesítés, vagyonhasznosítás, vagyon vagy vagyoni értékű jog átadása, valamint koncesszióba adás adatainak közzétehetővé tételére. A közzéteendő kör a szerződés típusa, tárgya, a felek neve, az érték, határozott időnél az időtartam, valamint ezek változásai. A közzététel a közzététel időpontjában fennálló adatokon alapul."
+        },
+        {
+          "text": "Önkormányzati rendelet a kötelezően közzéteendő szerződések értékhatárát az egyszerű közbeszerzési eljárás értékhatáránál alacsonyabb összegben is meghatározhatja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a helyi rendelet csak lefelé viheti a küszöböt. A 2009. évi CXXII. törvény 2. § (3) bekezdése szerint önkormányzati rendelet a kötelezően közzétételre kerülő szerződések értékhatárát az egyszerű közbeszerzési eljárás értékhatáránál alacsonyabb összegben is meghatározhatja. Magasabb küszöb megállapítására nincs felhatalmazás. A szigorúbb helyi nyilvánosság tehát megengedett, a lazább nem."
+        },
+        {
+          "text": "A vagyonmozgások közzététele csak az állami tulajdonú társaságokra vonatkozik; az önkormányzati többségű társaságok mentesülnek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kötelezettség a köztulajdonban álló gazdasági társaságra általában kiterjed. A 2009. évi CXXII. törvény 2. § (3) bekezdése a köztulajdonban álló gazdasági társaságot kötelezi, az 1. § a) pontja szerinti fogalom pedig az önkormányzati és más közszereplői többséget is lefedi. Nincs állami-tulajdoni szűkítés. A tévedés az „állami cég” laza azonosításából ered."
+        },
+        {
+          "text": "A 7/I. § szerinti esetekben is kötelező a (3) bekezdés szerinti teljes szerződéses adatkör közzététele.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés a 7/I. §-ban foglaltakat kifejezetten kivételként kezeli. A 2009. évi CXXII. törvény 2. § (3) bekezdése a 7/I. §-ban foglaltak kivételével rendeli a vagyonmozgások közzétehetővé tételét. A 7/I. § eseteiben tehát nem a (3) bekezdés teljes rendje az irányadó. A tévedés a kivétel figyelmen kívül hagyásából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 26
+    },
+    {
+      "question": "Mely megállapítások hamisak a versenytilalmi megállapodás tulajdonosi hatásköréről? (tanító)",
+      "options": [
+        {
+          "text": "A versenytilalmi megállapodást a munkáltatói jogkör gyakorlója a tulajdonosi jogokat gyakorló hozzájárulása nélkül is megkötheti a 208. § szerinti vezetővel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hozzájárulás a tulajdonosi jogokat gyakorlóé. A helyes: a Munka Törvénykönyve 207. § (3) bekezdése szerint versenytilalmi megállapodást a 208. § szerinti vezető állású munkavállalóval a tulajdonosi jogokat gyakorló hozzájárulásával, legfeljebb egyéves tartamra lehet megkötni. A tulajdonosi jogokat gyakorló a munkakört és további feltételeket is meghatározhat. A tévedés a magánmunkáltatói jogkör-gyakorlás mintájának ráírásából ered."
+        },
+        {
+          "text": "A versenytilalmi ellenérték elérheti az azonos időszakra járó távolléti díj teljes összegét.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a plafon a távolléti díj ötven százaléka. A helyes: a Munka Törvénykönyve 207. § (4) bekezdése szerint a versenytilalmi megállapodás szerinti ellenérték a megállapodás tartamára nem haladhatja meg az azonos időszakra járó távolléti díj ötven százalékát. A (3) bekezdés egyéves tartami plafonja mellett ez a második kógens korlát. A tévedés a vezető fokozott felelősségéből levont, szövegellenes ellenérték-olvasatból fakad."
+        },
+        {
+          "text": "A tulajdonosi jogokat gyakorló az (1)–(4) bekezdés jogait törvény eltérő rendelkezése hiányában sem ruházhatja át.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az átruházás főszabály szerint megengedett. A helyes: a Munka Törvénykönyve 207. § (5) bekezdése szerint a tulajdonosi jogokat gyakorló az (1)–(4) bekezdésben meghatározott jog gyakorlására — törvény eltérő rendelkezése hiányában — más személyt, szervet vagy testületet is feljogosíthat. Az átruházás tehát a törvényi tiltás hiányában lehetséges. A tévedés a kógens fejezet átruházhatatlanságának indokolatlan feltételezéséből fakad."
+        },
+        {
+          "text": "A versenytilalmi megállapodás tartama legfeljebb két év lehet a tulajdonosi hozzájárulás mellett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tartami plafon egy év. A helyes: a Munka Törvénykönyve 207. § (3) bekezdése szerint a megállapodás legfeljebb egyéves tartamra köthető, a tulajdonosi jogokat gyakorló hozzájárulásával. A tulajdonosi jogokat gyakorló további feltételeket írhat elő, de a tartami maximumot nem emelheti. A tévedés a magánszféra hosszabb versenytilalmi tartamainak ráírásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 27
+    },
+    {
+      "question": "Mi következik abból, ha a köztes vállalkozásban fennálló szavazat meghaladja az ötven százalékot?",
+      "options": [
+        {
+          "text": "A számításkor a köztes vállalkozásban fennálló szavazatok arányát egy egészként kell figyelembe venni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a többségi köztes részesedés teljes átszármaztatást jelent. A Munka Törvénykönyve 204. § (2) bekezdése szerint ha a köztes vállalkozásban fennálló szavazatok aránya az ötven százalékot meghaladja, akkor azt egy egészként kell figyelembe venni. A szabály a közvetett rendelkezés meghatározásához tartozik, a szorzás mellett. A 2009. évi CXXII. törvény 1. § b) pontja ugyanezt az egybeszámítást követeli. A nem többségi köztes hányadnál viszont szorzás érvényesül."
+        },
+        {
+          "text": "A többségi befolyás továbbra is a szavazatok több mint ötven százalékával való rendelkezést jelenti, közvetlenül vagy köztes vállalkozáson keresztül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az egybeszámítás a többségi küszöböt nem változtatja meg, csak a közvetett hányad számítását. A Munka Törvénykönyve 204. § (2) bekezdése a többségi befolyást a szavazatok több mint ötven százalékával — közvetlenül vagy köztes vállalkozás szavazati jogán keresztül — való rendelkezésként határozza meg. Az egybeszámítás azt jelenti, hogy a többségi köztes kontrollnál a céljogi személy szavazatai teljes egészében beszámítanak. A huszonöt százalékos filter csak a 2009. évi CXXII. törvényben jelenik meg."
+        },
+        {
+          "text": "Az ötven százalékot meghaladó köztes hányad esetén a céljogi személyben fennálló szavazatot felezni kell.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törvény egybeszámítást, nem felezést ír elő. A Munka Törvénykönyve 204. § (2) bekezdése szerint ha a köztes vállalkozásban fennálló szavazatok aránya az ötven százalékot meghaladja, azt egy egészként kell figyelembe venni. A 2009. évi CXXII. törvény 1. § b) pontja ugyanezt rögzíti. A tévedés a szorzás és az egybeszámítás összecseréléséből fakad."
+        },
+        {
+          "text": "Az egybeszámítás csak a 2009. évi CXXII. törvényben él; az Mt. mindig szorzást alkalmaz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az egybeszámítás a Munka Törvénykönyve 204. § (2) bekezdésében is megjelenik. Ugyanezen bekezdés szerint ha a köztes vállalkozásban fennálló szavazatok aránya az ötven százalékot meghaladja, azt egy egészként kell figyelembe venni. A 2009. évi CXXII. törvény 1. § b) pontja párhuzamos szabályt ad, a huszonöt százalékos filterrel kiegészítve. A tévedés a két törvény számítási rendjének indokolatlan szétválasztásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 28
+    },
+    {
+      "question": "Milyen körben tilos a rövidebb teljes napi munkaidő előírása, és mi a nevesített kivétel?",
+      "options": [
+        {
+          "text": "Az általános teljes napi munkaidőnél rövidebb teljes napi munkaidő főszabály szerint nem írható elő a köztulajdonban álló munkáltatóval fennálló munkaviszonyban.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom a munkaidő e szerződéses alakítását vonja el. A Munka Törvénykönyve 205. § (3) bekezdése szerint: „A köztulajdonban álló munkáltatóval fennálló munkaviszonyban az általános teljes napi munkaidőnél rövidebb teljes napi munkaidő – az egészségi ártalom vagy veszély kizárása érdekében történő megállapítást kivéve – nem írható elő.” A kivétel tehát egészségvédelmi célhoz kötött. A 213. § f) pontja a 200–207. §-tól való eltérést a felek számára is zárja."
+        },
+        {
+          "text": "Egészségi ártalom vagy veszély kizárása érdekében a rövidebb teljes napi munkaidő megállapítható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ez a (3) bekezdés egyetlen nevesített kivétele. A Munka Törvénykönyve 205. § (3) bekezdése az egészségi ártalom vagy veszély kizárása érdekében történő megállapítást kivételként engedi. A kivétel nem általános alkuképesség, és nem a munkavállaló puszta kérésén alapul. A (2) bekezdés b) pontja emellett a 86. § (3) bekezdésétől való eltérést is tiltja. A munkaidő kógens zárása több ponton érvényesül."
+        },
+        {
+          "text": "A rövidebb teljes napi munkaidő a felek egyező akaratával bármely munkakörben előírható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felek egyező akarata nem nyitja fel a (3) bekezdés tilalmát. A Munka Törvénykönyve 205. § (3) bekezdése szerint az általános teljes napi munkaidőnél rövidebb teljes napi munkaidő csak az egészségi ártalom vagy veszély kizárása érdekében írható elő. A 213. § f) pontja a 200–207. §-tól való eltérést a megállapodás számára is tiltja. A tévedés a magánmunkáltatói szerződéses autonómia ráírásából ered."
+        },
+        {
+          "text": "A kivétel a költségcsökkentési célú részmunkaidő-átalakításra is kiterjed.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kivétel kizárólag egészségi ártalom vagy veszély kizárásához kötött. A Munka Törvénykönyve 205. § (3) bekezdése az egészségvédelmi célt nevezi meg, költségvetési vagy szervezési indokot nem. A rövidebb teljes napi munkaidő egyéb esetben nem írható elő. A tévedés a kivétel gazdasági indokokra történő indokolatlan kiterjesztéséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 29
+    }
+  ]
+}

@@ -1,0 +1,603 @@
+{
+  "id": "evWxdEpQktGIvXNvKgW0",
+  "sorszam": 18,
+  "cim": "Eljárás a munkaviszony megszüntetése (megszűnése) esetén.",
+  "generationType": "kerdes",
+  "title": "18. Eljárás a munkaviszony megszüntetése (megszűnése) esetén.",
+  "questions": [
+    {
+      "question": "A munkáltató 2026. március 2-án felmondást közöl; a munkavállaló utolsó tényleges munkanapja március 20., a felmondási idő utolsó naptári napja március 31. Ugyanazon a napon egy másik munkavállalóval közös megegyezéssel szűnik meg a viszony. Mely megállapítások állják meg a helyüket a 80. § (2) bekezdése szerinti kifizetési és igazolási határidőről?",
+      "options": [
+        {
+          "text": "Felmondásnál a határidő a felmondási idő utolsó naptári napjához — itt március 31-hez — igazodik, még ha a munkavállaló március 20. után már nem dolgozik sem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törvény a munkában töltött napot méri, nem a felmondási idő naptári végét. A helyes: az Mt. 80. § (2) bekezdése szerint felmondásnál legkésőbb az utolsó munkában töltött napon kell teljesíteni. A felmondási idő tartama és a kifizetési határidő nem ugyanaz a nap. A tévedés e két időpont összecsúsztatásából ered."
+        },
+        {
+          "text": "Közös megegyezésnél a kifizetés és az igazolás legkésőbb a megszűnéstől számított ötödik munkanapon esedékes, mert ez az „egyébként” sáv.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közös megegyezés nem a felmondási sávba esik. Az Mt. 80. § (2) bekezdése az „egyébként” fordulatot a megszűnéstől számított ötödik munkanaphoz köti; a 64. § (1) bekezdése a közös megegyezést a felmondástól elválasztja. Ugyanezen sávba tartozik az azonnali hatályú felmondás és a 63. § szerinti megszűnés is. A felmondási határidő tehát nem vihető át a közös megegyezésre."
+        },
+        {
+          "text": "Felmondásnál a munkabért, az egyéb járandóságokat és az igazolásokat legkésőbb az utolsó munkában töltött napon — itt március 20-án — kell kiadni, nem a felmondási idő utolsó naptári napján.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felmondási sáv a tényleges utolsó munkanaphoz igazodik. Az Mt. 80. § (2) bekezdése felmondásnál az utolsó munkában töltött napot köti ki; ha a felmondási idő egy részében már nincs munkavégzés, a határidő nem a felmondási idő utolsó naptári napjához igazodik. A 65. § (1) bekezdése szerinti felmondás ehhez a sávhoz tartozik. Március 31. önmagában nem pótolja a március 20-i esedékességet."
+        },
+        {
+          "text": "Mindkét esetben az ötödik munkanap az irányadó, mert a 80. § (2) bekezdése egységesen a megszűnés napjától számol.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határidő ketté van osztva. A helyes: az Mt. 80. § (2) bekezdése felmondásnál az utolsó munkában töltött napot, egyébként a megszűnéstől számított ötödik munkanapot írja elő. A közös megegyezés és az azonnali hatályú felmondás az „egyébként” sávba esik. A tévedés a két sáv egységesítése a „megszűnés napja” fordulatra."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "bb597e12ce77"
+    },
+    {
+      "question": "A munkavállaló a megszűnéskor a munkakört az előírt rendben átadta, és a felek elszámoltak; a munkáltató a munkabért, az egyéb járandóságokat és az igazolásokat a 80. § (2) bekezdése szerinti határidőn túl adja ki. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A (2) bekezdés csak akkor alkalmazandó, ha a munkavállaló az (1) bekezdés szerinti átadást elmulasztotta.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés nem az (1) mulasztásának szankciója. A helyes: az Mt. 80. § (2) bekezdése a megszűnés és a megszüntetés valamennyi alakzatánál a kifizetést és az igazolást határidőhöz köti. Ez független attól, hogy az átadás megtörtént-e. A 84. § (4) bekezdése a hibás átadás szankciója, nem a (2) bekezdés alkalmazási feltétele."
+        },
+        {
+          "text": "A 80. § (1) bekezdése a munkakörátadást és az elszámolást, a (2) bekezdés a munkabér, az egyéb járandóság és az igazolások kiadását rendezi; az (1) teljesítése nem váltja ki és nem tolja el a (2) bekezdés határidejét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 80. § (1) és (2) bekezdése külön kötelezettségi síkot rendez. Az Mt. 80. § (2) bekezdése szerint: „a munkavállaló részére ki kell fizetni a munkabérét, egyéb járandóságait, valamint ki kell adni a munkaviszonyra vonatkozó szabályban és egyéb jogszabályokban előírt igazolásokat”. Az (1) bekezdés a munkavállaló átadási és elszámolási kötelezettségét, a munkáltatót pedig a feltételek biztosítását rendezi. Az elszámolás lezárása nem mentesít a (2) bekezdés esedékessége alól; a határidő aszerint oszlik, hogy a viszony felmondással vagy más alakzatban szűnt meg."
+        },
+        {
+          "text": "Ha a munkakörátadás és az elszámolás rendben megtörtént, a munkáltató mentesül a 80. § (2) bekezdése szerinti kifizetési és igazolási határidő alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (1) teljesítése a (2) kötelezettséget nem oldja fel. A helyes: az Mt. 80. § (2) bekezdése a kifizetést és az igazolást önállóan telepíti. Az átadás és az elszámolás lezárása e határideket nem szünteti meg. A tévedés az (1) és a (2) bekezdés kötelezettségeinek összevonásából ered."
+        },
+        {
+          "text": "A (2) bekezdés szerinti kifizetési és igazolási kötelezettség akkor is fennáll, ha az (1) bekezdés szerinti átadás és elszámolás már megtörtént.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés önálló munkáltatói teher. Az Mt. 80. § (2) bekezdése a munkabért, az egyéb járandóságokat és az előírt igazolásokat határidőhöz köti. E kötelezettség nem függ attól, hogy a munkakörátadás és az elszámolás már lezárult-e. A helyes teljesítés az (1) síkon nem pótolja a (2) sík késedelmét."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "f17ca5fede15"
+    },
+    {
+      "question": "A munkaviszony 2024. június 1-jén létesült, és 2025. április 15-én közös megegyezéssel megszűnt. A munkavállaló 2025. május 10-én szóban kéri a munkájáról szóló értékelést; írásbeli kérelmet nem adott be. Hogyan döntendő el a 81. § szerinti kötelezettség?",
+      "options": [
+        {
+          "text": "A munkáltató nem köteles a 81. § szerinti írásbeli értékelést adni, mert a viszony nem állt fenn legalább egy évig.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az egyéves fennállás konjunktív küszöb. Az Mt. 81. § (1) bekezdése a kérelmet, a legalább egyéves fennállást és a megszüntetéskor (megszűnéskor) vagy az azt követő egy éven belüli időablakot együttesen követeli. Itt a viszony 2024. június 1-től 2025. április 15-ig tartott, tehát egy évnél rövidebb. A kérelem időablaka önmagában nem pótolja a hiányzó fennállási küszöböt."
+        },
+        {
+          "text": "A szóbeli kérelem érvénytelen, mert a 81. § (1) bekezdése a kérelmet is írásbeliséghez köti; ezért a fennállási küszöb vizsgálata fel sem merül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szakasz a kérelemre nem ír elő írásbeliséget. A helyes: az Mt. 81. § (1) bekezdése az értékelés formáját köti írásbeliséghez; a kérelem alakiságát nem. A fennállási küszöb itt önállóan zárja a kötelezettséget. A tévedés az értékelés írásbeliségének a kérelemre való ráírásából ered."
+        },
+        {
+          "text": "A kérelem alakiságát a 81. § (1) bekezdése nem köti írásbeliséghez; a szóbeli kérelem formája önmagában nem zárja a jogot, ha a többi feltétel fennállna.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az írásbeliség az értékelés formájára szól, nem a kérelemre. Az Mt. 81. § (1) bekezdése a munkáltatót a munkavállaló kérelmére kötelezi írásbeli értékelés adására; a kérelem alakiságát e szakasz nem írja elő, az értékelés viszont írásbeli. Szóbeli minősítés vagy kérelem nélküli vélemény az (1) bekezdést nem váltja ki — a kérelem hiánya zár, nem a kérelem szóbeli volta. Itt azonban már az egyéves küszöb hiányzik."
+        },
+        {
+          "text": "Mivel a kérelem a megszűnést követő egy éven belül érkezett, az egyéves fennállás hiánya ellenére is jár az írásbeli értékelés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az időablak és a fennállási küszöb külön feltétel. A helyes: az Mt. 81. § (1) bekezdése a legalább egyéves fennállást és a megszüntetést (megszűnést) követő legfeljebb egyéves kérelem-ablakot együtt követeli. Az ablak megléte a küszöböt nem pótolja. A tévedés a két időszámítás összecsúsztatásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "e4900d281185"
+    },
+    {
+      "question": "A munkáltató az átadás rendjét és eszközeit biztosította; a munkavállaló ennek ellenére a belépőkártyát, a céges laptopot és a folyamatban lévő ügyek listáját nem adja át. Milyen jogkövetkezmény kapcsolódik ehhez?",
+      "options": [
+        {
+          "text": "A (4) bekezdés alkalmazása önmagában nem minősíti utólag jogellenesen megszüntetetté a viszonyt a 64. § szerint; a szankció a hibás átadáshoz kapcsolódik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szankció nem írja át a megszüntetés jogcímét. Az Mt. 84. § (4) bekezdése a 80. § (1) bekezdése szerinti átadási mulasztásra a 84. § díjfizetési rendjét hívja, anélkül, hogy a viszonyt a 64. § szerint utólag jogellenesen megszüntetetté minősítené. A 6/2016. (XI. 28.) KMK vélemény a munkáltatói 82–83. § szerinti jogkövetkezményektől elválik, mert a (4) bekezdés a munkavállalói oldali 84. §-ra utal."
+        },
+        {
+          "text": "A 84. § (4) bekezdése a hibás vagy elmaradt munkakörátadásra a munkavállaló jogellenes megszüntetésének 84. § (1)–(3) bekezdés szerinti díjfizetési és kártérítési mércéjét rendeli megfelelően alkalmazni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hibás vagy elmaradt munkakörátadás a munkavállaló jogellenes megszüntetésének díjfizetési és kártérítési mércéjét hívja. Az Mt. 84. § (4) bekezdése szerint, ha a munkavállaló a munkakörét nem az előírt rendben adja át, az (1)–(3) bekezdés megfelelően alkalmazandó. Az (1) bekezdés a felmondási időre járó távolléti díjat, a (2) a határozott tartam jogellenes bontásánál legfeljebb háromhavi távolléti díjat, a (3) a plafonos kártérítést rendezi. A 80. § (1) bekezdése szerinti kötelezettség tehát nem szankció nélküli."
+        },
+        {
+          "text": "A hibás átadás csak fegyelmi felelősséget indíthat, a 84. § díjfizetési rendje a munkakörátadásra nem terjed ki.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (4) bekezdés expressis verbis a 84. § rendjét hívja. A helyes: az Mt. 84. § (4) bekezdése a munkakör előírt rendben való átadásának elmulasztását a jogellenes munkaviszony-megszüntetés 84. § (1)–(3) bekezdés szerinti szankciórendje alá vonja. A tévedés a mulasztás „csak fegyelmi” leszűkítéséből ered."
+        },
+        {
+          "text": "A hibás átadás a 64. § szerint utólag jogellenes megszüntetéssé minősíti a korábbi felmondást vagy közös megegyezést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (4) bekezdés nem írja át a megszüntetés jogcímét. A helyes: az Mt. 84. § (4) bekezdése a hibás munkakörátadásra a 84. § (1)–(3) bekezdésének mércéjét rendeli, anélkül, hogy a viszonyt a 64. § szerint utólag jogellenesen megszüntetetté minősítené. A tévedés a szankciórend és a megszüntetési jogcím összecsúsztatásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "ac17ac95dcdf"
+    },
+    {
+      "question": "A munkáltató 2026. május 12-én a 78. § szerinti azonnali hatályú felmondást közöl, és a viszony még aznap megszűnik. Mi a helyes kifizetési és igazolási határidő?",
+      "options": [
+        {
+          "text": "Az azonnali hatályú felmondásnál a 80. § (2) bekezdése nem alkalmazandó, mert a viszony ipso iure szűnik meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 80. § a megszüntetés és a megszűnés utáni lezáró eljárásra egyaránt szól. A helyes: az Mt. 80. § (2) bekezdése a 78. § szerinti azonnali hatályú felmondásra is irányadó, és az „egyébként” sáv ötödik munkanapját rendeli. A 63. § (1) bekezdése szerinti ipso iure megszűnés ettől elválik, mert ott nincs megszüntető jognyilatkozat, de a lezáró határidő ott is az „egyébként” sáv. A tévedés a jognyilatkozattal való bontás és az ipso iure megszűnés összecsúsztatásából ered."
+        },
+        {
+          "text": "A munkabért, az egyéb járandóságokat és az igazolásokat legkésőbb a megszűnéstől számított ötödik munkanapon kell kiadni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az azonnali hatályú felmondás az „egyébként” sávba esik. Az Mt. 80. § (2) bekezdése felmondásnál az utolsó munkában töltött napot, egyébként a megszűnéstől számított ötödik munkanapot írja elő. A 78. § szerinti azonnali hatályú felmondás nem a 65. § (1) bekezdése szerinti felmondás. Ezért az ötödik munkanap az irányadó, nem az utolsó munkában töltött nap."
+        },
+        {
+          "text": "Mivel a viszony azonnal megszűnik, a kifizetés és az igazolás még aznap, az utolsó munkában töltött napon esedékes, mint felmondásnál.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az azonnali hatályú felmondás nem a felmondási sáv. A helyes: az Mt. 80. § (2) bekezdése az azonnali hatályú felmondást az „egyébként” sávba sorolja, ahol a megszűnéstől számított ötödik munkanap az irányadó. A tévedés a 78. § és a 65. § alakzatának összekeveréséből ered."
+        },
+        {
+          "text": "A 64. § (1) bekezdése az azonnali hatályú felmondást a felmondástól elválasztja, ezért a (2) bekezdés felmondási sávja rá nem írható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a megszüntetési alakzatok elválasztása a határidő-osztást is meghatározza. Az Mt. 64. § (1) bekezdése a közös megegyezést, a felmondást és az azonnali hatályú felmondást külön sorolja. A 80. § (2) bekezdésének első sávja csak a felmondásra szól. Az azonnali hatályú felmondás így az „egyébként” fordulat alá esik."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "3a59b787a32d"
+    },
+    {
+      "question": "A határozott idejű munkaviszony 2026. július 31-én a tartam lejártával megszűnik. Hogyan számítandó a 80. § (2) bekezdése szerinti határidő?",
+      "options": [
+        {
+          "text": "A 80. § tárgyi köre a zárójelben a megszűnést is átfogja, ezért a lejárat utáni lezáró eljárás is e szakasz alá esik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a lezáró eljárás nem csupán a 64. § jognyilatkozataira szól. Az Mt. 80. § (1)–(2) bekezdése a megszüntetéskor (megszűnéskor) fordulatot használja; a zárójel a 63. § ipso iure eseteit is a munkakörátadás, az elszámolás, a kifizetés és az igazolás alá vonja. A határozott idő lejárta tehát nem esik ki a 80. § alól."
+        },
+        {
+          "text": "A lejáratnál is az utolsó munkában töltött nap az irányadó, mert a viszony utolsó napján még volt munkavégzés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az utolsó munkában töltött nap csak a felmondási sáv mércéje. A helyes: az Mt. 80. § (2) bekezdése a 63. § szerinti megszűnésre az „egyébként” fordulatot és a megszűnéstől számított ötödik munkanapot rendeli. A tévedés a felmondási sáv ráírása a lejáratra."
+        },
+        {
+          "text": "A 63. § szerinti lejáratnál a 80. § (2) bekezdése nem alkalmazandó, mert nincs megszüntető jognyilatkozat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szakasz a megszűnésre is kiterjed. A helyes: az Mt. 80. § a megszüntetéskor (megszűnéskor) fordulattal a 63. § ipso iure eseteit is átfogja, és a (2) bekezdés „egyébként” sávja az ötödik munkanapot írja elő. A határozott idő lejárta tehát nem esik ki a kifizetési és igazolási kötelezettség alól. A tévedés a lezáró eljárásnak a 64. § alakzataira való leszűkítéséből ered."
+        },
+        {
+          "text": "A lejárat a 63. § (1) bekezdése szerinti megszűnés; a kifizetés és az igazolás legkésőbb a megszűnéstől számított ötödik munkanapon esedékes.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tartam lejárta az „egyébként” sávba esik. Az Mt. 63. § (1) bekezdése a határozott idő lejártát ipso iure megszűnésként rendezi. Az Mt. 80. § (2) bekezdése e megszűnésre az ötödik munkanapot írja elő, nem az utolsó munkában töltött napot. A felmondási sáv csak a 65. § (1) bekezdése szerinti felmondásra szól."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "899b064ec4fe"
+    },
+    {
+      "question": "A munkáltató a 79. § (1) bekezdés b) pontja szerinti, határozott idejű, indokolás nélküli azonnali megszüntetést közöl, és a 79. § (2) bekezdése szerinti távolléti díj is jár. Mely megállapítások helytállóak a kifizetés határidejéről?",
+      "options": [
+        {
+          "text": "Mivel a viszony azonnal szűnik meg, a kifizetés az utolsó munkában töltött napon esedékes, mint felmondásnál.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 79. § (1) bekezdés b) pontja nem nyitja a felmondási sávot. A helyes: az Mt. 80. § (2) bekezdése szerint az „egyébként” sávban a megszűnéstől számított ötödik munkanap az irányadó. A tévedés az azonnali megszűnés és a felmondási határidő összekeveréséből ered."
+        },
+        {
+          "text": "A 79. § (2) bekezdése szerinti távolléti díj a 80. § (2) bekezdésének „egyéb járandóságai” alá esik, és szintén az ötödik munkanapig esedékes.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az egyéb járandóság a (2) bekezdés tárgyába tartozik. Az Mt. 79. § (2) bekezdése a határozott idejű, indokolás nélküli azonnali bontásnál tizenkét havi vagy a hátralévő időre járó távolléti díjat ad. Az Mt. 80. § (2) bekezdése a munkabér mellett az egyéb járandóságokat is a határidő alá vonja. E járandóság tehát ugyanazon ötödik munkanapos sávba esik."
+        },
+        {
+          "text": "A 79. § (1) bekezdés b) pontja szerinti intézkedés nem felmondás, ezért a 80. § (2) bekezdésének „egyébként” sávja — ötödik munkanap — az irányadó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az indokolás nélküli azonnali bontás a felmondási sávon kívül esik. Az Mt. 80. § (2) bekezdése a felmondást az utolsó munkában töltött naphoz, az „egyébként” fordulatot az ötödik munkanaphoz köti. A 79. § (1) bekezdés b) pontja szerinti intézkedés nem a 65. § (1) bekezdése szerinti felmondás. Ezért az ötödik munkanap az esedékesség."
+        },
+        {
+          "text": "A 79. § (2) bekezdése szerinti távolléti díj külön, a megszüntetés közlésétől számított tizenöt napon belül esedékes.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törvény e járandóságra külön tizenöt napos határideőt nem állít. A helyes: az Mt. 80. § (2) bekezdése az egyéb járandóságokat is a felmondási vagy az „egyébként” sáv alá vonja; a 79. § (1) bekezdés b) pontja szerinti bontásnál az ötödik munkanap az irányadó. A tévedés egy nem létező külön határidő feltételezéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "c0eae39b1c20"
+    },
+    {
+      "question": "A 80. § (2) bekezdése szerint: „a munkaviszony felmondással történő megszüntetésekor legkésőbb az utolsó munkában töltött naptól, egyébként legkésőbb a munkaviszony megszűnésétől számított ötödik munkanapon” kell teljesíteni. Mire terjed ki e határidő tárgya?",
+      "options": [
+        {
+          "text": "A határidő csak a munkabérre szól; az igazolások és az egyéb járandóságok külön, harminc napos határidő alá esnek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés a három tárgyat együtt köti a határidőhöz. A helyes: az Mt. 80. § (2) bekezdése a munkabért, az egyéb járandóságokat és az igazolásokat ugyanazon felmondási vagy ötödik munkanapos sáv alá vonja. Külön harminc napos igazolási határidő e szakaszból nem olvasható ki. A tévedés a tárgyak szétválasztásából ered."
+        },
+        {
+          "text": "A határidő a munkabér, az egyéb járandóságok és a munkaviszonyra vonatkozó szabályban, valamint egyéb jogszabályokban előírt igazolások kiadására szól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés három tárgyat sorol. Az Mt. 80. § (2) bekezdése szerint ki kell fizetni a munkabért és az egyéb járandóságokat, valamint ki kell adni az előírt igazolásokat. A kötelezettség személytelenül („ki kell fizetni”, „ki kell adni”) a munkáltatóra települ. A munkakörátadás és az elszámolás az (1) bekezdés külön síkja."
+        },
+        {
+          "text": "A határidő a 81. § szerinti írásbeli értékelés kiadására is kiterjed, kérelem nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az írásbeli értékelés önálló, kérelemhez kötött intézmény, nem a (2) bekezdés tárgya. A helyes: az Mt. 80. § (2) bekezdése a munkabérre, az egyéb járandóságokra és az igazolásokra szól; a 81. § (1) bekezdése szerinti írásbeli értékelés kérelemre, legalább egyéves fennállás mellett nyílik meg. A tévedés a két szakasz tárgyának összecsúsztatásából ered."
+        },
+        {
+          "text": "A kifizetés és az igazolás határideje aszerint oszlik ketté, hogy a viszony felmondással szűnt-e meg, vagy más alakzatban.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az idézett fordulat két sávot állít. Az Mt. 80. § (2) bekezdése felmondásnál az utolsó munkában töltött napot, egyébként a megszűnéstől számított ötödik munkanapot rendeli. A 65. § (1) bekezdése szerinti felmondás az első sáv; a közös megegyezés, az azonnali hatályú felmondás és a 63. § szerinti megszűnés a második. A tárgykör — munkabér, egyéb járandóság, igazolás — mindkét sávban azonos."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "259a9a6ac27a"
+    },
+    {
+      "question": "A munkaviszony 2023. január 10-én létesült, 2024. március 1-jén megszűnt, és a munkavállaló 2025. április 20-án kéri az írásbeli értékelést. Mi a 81. § (1) bekezdése szerinti helyzet?",
+      "options": [
+        {
+          "text": "Az egyéves fennállás megvan, de a kérelem a megszűnést követő egyéves időablakon kívül esik, ezért a munkáltató e címen nem köteles értékelést adni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az időablak a megszűnés napjától számított egy év. Az Mt. 81. § (1) bekezdése a kérelmet a megszüntetéskor (megszűnéskor) vagy legfeljebb az azt követő egy éven belül engedi. Itt a megszűnés 2024. március 1., a kérelem 2025. április 20., tehát az ablak lejárt. A fennállási küszöb megléte az ablakot nem hosszabbítja."
+        },
+        {
+          "text": "Mivel a viszony több mint egy évig fennállt, a kérelem bármikor előterjeszthető a megszűnés után.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a fennállási küszöb nem oldja fel az időablakot. A helyes: az Mt. 81. § (1) bekezdése a kérelmet a megszüntetéskor (megszűnéskor) vagy legfeljebb az azt követő egy éven belül engedi; a legalább egyéves fennállás ettől külön feltétel. A tévedés a két időfeltétel összecsúsztatásából ered."
+        },
+        {
+          "text": "A kérelem a későbbi munkakereséshez adott referencia céljából sem nyit újabb ablakot az egyéves záró után.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a referencia iránti igény is az egyéves zárón belül kérhető. Az Mt. 81. § (1) bekezdése a megszüntetést (megszűnést) követő legfeljebb egyéves időablakot állít; e zárón túl a munkáltató e szakasz alapján nem köteles írásbeli értékelést adni. A fennállás tartama itt meghaladta az egy évet, de az ablak önálló feltétel. A későbbi álláskeresés önmagában nem pótolja a lejárt ablakot."
+        },
+        {
+          "text": "A kérelem elkésett, ezért a munkáltató a 84. § (4) bekezdése szerinti szankcióval tartozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 84. § (4) bekezdése a munkakörátadás mulasztására szól, nem a 81. § időablakára. A helyes: az Mt. 81. § (1) bekezdése szerint az ablakon kívüli kérelemre a munkáltató e címen nem köteles értékelést adni; a 84. § (4) bekezdése a hibás átadás szankciója. A tévedés a két intézmény összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "869f156f55b0"
+    },
+    {
+      "question": "A munkáltató kérelemre írásbeli értékelést ad; abban szerepel, hogy a munkavállaló „három alkalommal késett a műszakkezdéssel”, valamint hogy „nem alkalmas vezetői feladatokra”. Mely megállapítások állják meg a helyüket a 81. § (2) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Bármely, a munkavállaló számára kedvezőtlen mondat megsemmisíthető, mert a 81. § (2) bekezdése a teljes értékelést a bíróság elé viszi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bírói út a valótlan ténymegállapításra szűkül. A helyes: az Mt. 81. § (2) bekezdése a valótlan ténymegállapítások megsemmisítését vagy módosítását engedi; értékítélet vagy szakmai vélemény önmagában nem. A tévedés a teljes értékelés perbe vitelének feltételezéséből ered."
+        },
+        {
+          "text": "A kereset a 286. § (1) bekezdése szerinti hároméves elévülés alá esik, nem a 287. § különös rendje alá.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 81. § (2) bekezdése szerinti kereset különös határidő alá esik. A helyes: az Mt. 287. § (1) bekezdés e) pontja e keresetet a munkáltatói jognyilatkozat közlésétől számított harminc napon belül rendeli előterjeszteni; a (4) bekezdés szerint hat hónap után nem érvényesíthető. A 286. § (1) bekezdésének hároméves elévülése e különös rendre nem írható. A tévedés az általános és a különös határidő felcseréléséből ered."
+        },
+        {
+          "text": "A „nem alkalmas vezetői feladatokra” fordulat értékítélet vagy szakmai vélemény; önmagában e keresetre nem visz.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés nem a teljes értékelés hatályon kívül helyezését nyitja. Az Mt. 81. § (2) bekezdése a valótlan ténymegállapítások megsemmisítését vagy módosítását engedi; értékítélet, szakmai vélemény vagy prognózis önmagában e keresetre nem visz. A vezetői alkalmasság minősítése tipikusan e körbe esik. A tényállítás és az értékítélet tehát elválik."
+        },
+        {
+          "text": "A „három alkalommal késett” megállapítás valótlan volta esetén a munkavállaló a bíróságtól kérheti a megsemmisítést vagy a módosítást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés a valótlan ténymegállapításokra nyitja a bírói utat. Az Mt. 81. § (2) bekezdése szerint: „Az értékelés valótlan ténymegállapításainak megsemmisítését vagy módosítását a munkavállaló bíróságtól kérheti.” A késések száma tényállítás. A kereset a 287. § (1) bekezdés e) pontja szerint harminc napos."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "8b75edd491a3"
+    },
+    {
+      "question": "A kollektív szerződés a 81. §-tól a munkavállaló terhére emelné az egyéves fennállási küszöböt két évre, a munkavállaló javára viszont feloldaná a kérelemhez kötöttséget. Mi a 85. § szerinti megengedett irány?",
+      "options": [
+        {
+          "text": "A küszöb emelése abszolút kógens tilalomba ütközik a 85. § (1) bekezdése szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (1) bekezdés abszolút listája a 81. §-t nem tartalmazza. A helyes: az Mt. 85. § (1) bekezdése a 63. § (1) bekezdését, a 64. §-t és a 82. § (1) bekezdését zárja el az eltéréstől; a 81. § a (2) bekezdés f) pontjának relatív kógens rendje alá esik. A tévedés az abszolút és a relatív kógencia felcseréléséből ered."
+        },
+        {
+          "text": "A kollektív szerződés a 81. §-tól mindkét irányban szabadon eltérhet, mert a 80. §-hoz hasonlóan nincs a 85. § listáiban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 81. § expressis verbis a (2) bekezdés f) pontjában szerepel. A helyes: az Mt. 85. § (2) bekezdés f) pontja a 81. §-tól csak a munkavállaló javára enged eltérést; a 80. § valóban egyik listában sem szerepel. A tévedés a 80. § és a 81. § eltérési helyzetének összekeveréséből ered."
+        },
+        {
+          "text": "A munkavállaló javára a kérelemhez kötöttség feloldása megengedett; a 85. § (2) bekezdés f) pontja a 81. §-tól csak a munkavállaló javára enged eltérést.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 81. § a kollektív szerződés eltérési rendjében relatív kógens magba esik. Az Mt. 85. § (2) bekezdés f) pontja a kollektív szerződésnek a 81. §-tól csak a munkavállaló javára enged eltérést. A kérelemhez kötöttség feloldása, az egyéves fennállás lerövidítése vagy az utólagos időablak tágítása in melius megengedett. A teljes 81. § e magba tartozik, nem csupán a (2) bekezdés bírói útja."
+        },
+        {
+          "text": "A munkavállaló terhére a küszöb két évre emelése érvénytelen; in peius eltérés a 81. §-tól zárt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkavállaló terhére szóló eltérés tilos. Az Mt. 85. § (2) bekezdés f) pontja a 81. §-tól csak a munkavállaló javára enged eltérést; a küszöb emelése, a kérelemhez kötöttség szigorítása vagy a bírói út elzárása in peius. Az (1) bekezdés abszolút kógens listája a 81. §-t nem tartalmazza; a relatív kógencia a (2) bekezdés f) pontjából olvasható ki."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "f59b6804de10"
+    },
+    {
+      "question": "A felek megállapodása a 80. § (2) bekezdése szerinti ötödik munkanapos sávot tíz munkanapra tolná. Hogyan értékelendő ez a 85. § eltérési záradéka alapján?",
+      "options": [
+        {
+          "text": "A 85. § (3) bekezdése a 69. § (1) bekezdésénél hosszabb felmondási időt enged; ez nem a 80. § (2) bekezdésének kifizetési határideje.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés a felmondási idő tartamára szól. Az Mt. 85. § (3) bekezdése a kollektív szerződésnek a 69. § (1) bekezdésében foglaltnál hosszabb felmondási időt enged. Ez nem nyitja és nem zárja a 80. § (2) bekezdése szerinti kifizetési sávot. A felmondási idő és a lezáró kifizetési határidő tehát elválik."
+        },
+        {
+          "text": "A 80. § sem az (1), sem a (2) bekezdés taxációjában nem szerepel; a 85. § szerinti eltérési tilalom és a relatív kógencia e záradék alapján a kifizetési határidőre nem terjed ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 80. § a 85. § eltérési záradékának taxatív listáiból kiesik. Az Mt. 85. § (1) bekezdése a 63. § (1) bekezdését, a 64. §-t és a 82. § (1) bekezdését zárja; a (2) bekezdés a 81. §-t a relatív kógens magba emeli. A 80. § sem az abszolút, sem a relatív listában nem szerepel. E záradék alapján tehát a kifizetési és igazolási határidőre a 85. § eltérési tilalma nem írható."
+        },
+        {
+          "text": "A 85. § (1) bekezdése a 80. §-t abszolút kógenssé teszi, ezért a határidő egy nappal sem tolható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (1) bekezdés abszolút listája a 80. §-t nem tartalmazza. A helyes: az Mt. 85. § (1) bekezdése a 63. § (1) bekezdését, a 64. §-t és a 82. § (1) bekezdését zárja; a 80. § e listából hiányzik. A tévedés a lezáró eljárásnak az abszolút kógens megszüntetési magba vonásából ered."
+        },
+        {
+          "text": "A megállapodás érvénytelen, mert a 80. § a 85. § (2) bekezdésének relatív kógens listájában szerepel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 85. § relatív kógens taxációja a munkakörátadás és a kifizetési határidő szakaszát nem említi. A helyes: az Mt. 85. § (2) bekezdés f) pontja a 81. §-t említi; a 80. § e taxációból hiányzik. A kifizetési határidő tehát e záradék alapján nem abszolút vagy relatív kógens. A tévedés a 80. § és a 81. § felcseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "dfc3fca779f4"
+    },
+    {
+      "question": "Egyszerűsített foglalkoztatásra irányuló viszonyban a munkavállaló a megszűnés után írásbeli értékelést kér, és a munkakörátadást is elvárja. Mely szabályok alkalmazandók?",
+      "options": [
+        {
+          "text": "A 203. § (1) bekezdés f) pontja a 81. §-t nem rendeli alkalmazni; kérelemre adandó írásbeli értékelés és a (2) bekezdés szerinti bírói út e viszonyban nincs.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az egyszerűsített foglalkoztatás az írásbeli értékelés kötelezettségét kizárja. Az Mt. 203. § (1) bekezdés f) pontja az egyszerűsített foglalkoztatásra vagy alkalmi munkára irányuló viszonyban a 81. §-t nem alkalmazza. Nincs tehát kérelemre adandó írásbeli értékelés, és nincs a (2) bekezdés szerinti bírói út. A rövid, bejelentéshez kötött alakzat e lezáró elemet kizárja."
+        },
+        {
+          "text": "Az egyszerűsített foglalkoztatásban a 80. § és a 81. § egyaránt kizárt, mert a 203. § a teljes lezáró eljárást elhagyja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kizáró lista a 81. §-t nevesíti, a 80. §-t nem. A helyes: az Mt. 203. § (1) bekezdés f) pontja a 81. §-t zárja ki; a 80. § szerinti munkakörátadás, elszámolás, kifizetés és igazolás irányadó marad. A tévedés a két szakasz együttes kizárásának feltételezéséből ered."
+        },
+        {
+          "text": "A 80. § e kizáró listában nem szerepel; a munkakörátadás, az elszámolás, a kifizetés és az igazolás irányadó marad, hacsak más, e szakaszban nevesített szabály nem zárja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkakörátadás, az elszámolás, a kifizetés és az igazolás az egyszerűsített foglalkoztatásban is fennmarad. Az Mt. 203. § (1) bekezdése a 81. §-t nevesítetten kizárja, a 80. §-t nem. A megszűnéskor tipikusan az „egyébként” sáv — ötödik munkanap — az irányadó, mert e viszony ritkán felmondással, inkább a rövid tartam lejártával vagy azonnali bontással zárul. A 202. § (2) bekezdése a viszonyt a bejelentéssel hozza létre."
+        },
+        {
+          "text": "Ha a viszony legalább egy évig fennállt, a 81. § az egyszerűsített foglalkoztatásban is alkalmazandó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 203. § (1) bekezdés f) pontja a fennállás tartamától függetlenül zár. A helyes: az Mt. 203. § (1) bekezdés f) pontja a 81. §-t nem rendeli alkalmazni az egyszerűsített foglalkoztatásra vagy alkalmi munkára irányuló viszonyban. Az egyéves küszöb e kizárást nem oldja fel. A tévedés a 81. § általános feltételeinek ráírása a 203. § kivételére."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "a1333e9f52ed"
+    },
+    {
+      "question": "A munkaviszony a létesítéstől számított hatodik napon közös megegyezéssel megszűnik. Mikor teljesítendő a 46. § (1) bekezdése szerinti írásbeli tájékoztatás, ha az addig elmaradt?",
+      "options": [
+        {
+          "text": "A tájékoztatás a közös megegyezésnél a felmondási sáv szerint az utolsó munkában töltött napon esedékes.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közös megegyezés az „egyébként” sávba esik. A helyes: az Mt. 80. § (2) bekezdése közös megegyezésnél a megszűnéstől számított ötödik munkanapot írja elő; a 46. § (4) bekezdése ehhez az időponthoz köti a rövid viszony tájékoztatását. A tévedés a felmondási sáv ráírása a közös megegyezésre."
+        },
+        {
+          "text": "A 46. § (1) bekezdés i) pontja a megszüntetéssel összefüggő szabályokról — különösen a felmondási időről — a létesítéskor tájékoztat; e tartalom a rövid viszonyban is a (4) bekezdés időpontjában teljesítendő, ha addig elmaradt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a létesítési tájékoztatás egyik tárgya a megszüntetési rend. Az Mt. 46. § (1) bekezdés i) pontja a munkaviszony megszüntetésével összefüggő szabályokról — különösen a felmondási időről — a létesítéskor tájékoztat. Ha a viszony hét nap eltelte előtt megszűnik, e tájékoztatás is a 80. § (2) bekezdése szerinti időpontban teljesítendő a 46. § (4) bekezdése szerint. A közös megegyezéses rövid viszony sem esik ki e szabály alól."
+        },
+        {
+          "text": "A hét napnál rövidebb viszonynál a 46. § (1) bekezdése szerinti tájékoztatás egyáltalán nem követelhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (4) bekezdés nem oldja fel a tájékoztatást, hanem az időpontját igazítja. A helyes: az Mt. 46. § (4) bekezdése a hét napnál rövidebb viszonynál a 46. § (1) bekezdése szerinti tájékoztatást a 80. § (2) bekezdése szerinti időponthoz köti. A tévedés a rövid viszony teljes tájékoztatási mentességének feltételezéséből ered."
+        },
+        {
+          "text": "A 46. § (4) bekezdése a hét napnál rövidebb viszonynál a 46. § (1) bekezdése szerinti írásbeli tájékoztatást a 80. § (2) bekezdése szerinti időponthoz köti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rövid viszony a tájékoztatást a lezáró kifizetési időponthoz igazítja. Az Mt. 46. § (4) bekezdése a hét napnál rövidebb viszonynál a 46. § (1) bekezdése szerinti tájékoztatást a 80. § (2) bekezdése szerinti időponthoz köti. Itt a közös megegyezés az „egyébként” sávba esik, tehát a megszűnéstől számított ötödik munkanap az irányadó. A létesítéskori elmaradás így a lezáró eljáráshoz kapcsolódik."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "a36f247531eb"
+    },
+    {
+      "question": "A munkáltató a 81. § szerinti értékelésben valótlannak tartott ténymegállapítást közöl. Milyen határidővel indítható a 81. § (2) bekezdése szerinti kereset?",
+      "options": [
+        {
+          "text": "A 287. § (1) bekezdés e) pontja e keresetet a munkáltatói jognyilatkozat közlésétől számított harminc napon belül rendeli előterjeszteni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a különös harminc napos rend irányadó. Az Mt. 287. § (1) bekezdés e) pontja a 81. § (2) bekezdése szerinti értékelési keresetet a munkáltatói jognyilatkozat közlésétől számított harminc naphoz köti. A 285. § (1) bekezdése a munkaviszonyból származó igényt bíróság elé viszi, de a határidőt e különös szabály adja. A hároméves általános elévülés e keresetre nem írható."
+        },
+        {
+          "text": "A kereset a 286. § (1) bekezdése szerint három év alatt évül el, mint a munkajogi igény általában.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 81. § (2) bekezdése szerinti kereset a 287. § különös rendje alá esik. A helyes: az Mt. 287. § (1) bekezdés e) pontja harminc napos határidőt állít, a (4) bekezdés pedig hat hónap után nem érvényesíthetővé teszi az igényt. A 286. § (1) bekezdésének hároméves elévülése e különös keresetre nem irányadó. A tévedés az általános és a különös határidő felcseréléséből ered."
+        },
+        {
+          "text": "A keresetlevél benyújtása a 287. § (5) bekezdése szerint halasztó hatályú, ezért az értékelés a jogerőig nem hatályos.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (5) bekezdés e keresetre nem ad halasztó hatályt. A helyes: az Mt. 287. § (5) bekezdése a keresetlevélnek — az (1) bekezdés c)–d) pontját kivéve — halasztó hatályt nem ad; a 81. § (2) bekezdése szerinti per az értékelés hatályát a jogerőig nem függeszti fel. A tévedés a halasztó hatály általánosításából ered."
+        },
+        {
+          "text": "A 287. § (4) bekezdése a határidő utolsó napi postára adását megtartottnak tekinti, igazolást enged, az igényt azonban hat hónap elteltével nem érvényesíthetővé teszi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (4) bekezdés a megtartottságot és a hat hónapos zárót rendezi. Az Mt. 287. § (4) bekezdése a határidő utolsó napi postára adását megtartottnak tekinti, igazolást enged, az igényt azonban hat hónap elteltével nem érvényesíthetővé teszi. az (5) bekezdés a keresetlevélnek — az (1) bekezdés c)–d) pontját kivéve — halasztó hatályt nem ad, tehát a 81. § (2) bekezdése szerinti per az értékelés hatályát a jogerőig nem függeszti fel."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "b40fda1efac6"
+    },
+    {
+      "question": "Mely állítások tévesek a 80. § (2) bekezdése szerinti határidő-osztásra nézve?",
+      "options": [
+        {
+          "text": "A 79. § (1) bekezdés b) pontja szerinti indokolás nélküli azonnali bontás az „egyébként” sávba esik, ezért a megszűnéstől számított ötödik munkanap az irányadó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, ez az intézkedés nem felmondás, hanem az „egyébként” sáv. Az Mt. 80. § (2) bekezdése szerint a 79. § (1) bekezdés b) pontja szerinti bontásnál a megszűnéstől számított ötödik munkanap az irányadó. A 79. § (2) bekezdése szerinti távolléti díj is e sáv egyéb járandóságai közé tartozik. A munkáltatói egyoldalú bontás önmagában nem teszi felmondássá az intézkedést."
+        },
+        {
+          "text": "Felmondásnál a munkabért, az egyéb járandóságokat és az igazolásokat legkésőbb az utolsó munkában töltött napon kell kiadni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felmondási sáv valóban az utolsó munkában töltött naphoz igazodik. Az Mt. 80. § (2) bekezdése szerint a munkaviszony felmondással történő megszüntetésekor legkésőbb az utolsó munkában töltött naptól kell teljesíteni. A 65. § (1) bekezdése szerinti felmondás az első sáv. Ha a felmondási idő egy részében már nincs munkavégzés, a határidő a tényleges utolsó munkanaphoz igazodik."
+        },
+        {
+          "text": "A 63. § szerinti határozott idő lejáratánál az utolsó munkában töltött nap az irányadó, mert nincs megszüntető jognyilatkozat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a lejárat a megszűnés „egyébként” sávjába esik. Az Mt. 80. § (2) bekezdése a 63. § (1) bekezdése szerinti megszűnésre a megszűnéstől számított ötödik munkanapot rendeli. A felmondási sáv csak a felmondásra szól. A lejáratnak a felmondási sáv alá vonása a két határidejű osztást rontja el."
+        },
+        {
+          "text": "Az azonnali hatályú felmondás és a közös megegyezés is az utolsó munkában töltött naphoz igazodik, mert a viszony azonnal vagy egyezéssel zárul.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ezek az alakzatok az „egyébként” sávba esnek. Az Mt. 80. § (2) bekezdése felmondásnál az utolsó munkában töltött napot, egyébként a megszűnéstől számított ötödik munkanapot írja elő. A 78. § szerinti azonnali hatályú felmondás és a közös megegyezés az utóbbi sáv. A 65. § (1) bekezdése szerinti felmondás az első sáv; az azonnali megszűnés önmagában nem nyitja a felmondási sávot."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "f8fa4a8285c6"
+    },
+    {
+      "question": "Mely állítások tévesek a 81. § szerinti írásbeli értékelésre nézve?",
+      "options": [
+        {
+          "text": "A szóbeli minősítés vagy a munkáltató saját elhatározású véleménye kiváltja a 81. § (1) bekezdése szerinti írásbeli értékelést.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az értékelés formája írásbeli, és kérelemhez kötött. Az Mt. 81. § (1) bekezdése írásbeli értékelést rendel a munkavállaló kérelmére. Szóbeli minősítés vagy kérelem nélküli vélemény az (1) bekezdést nem váltja ki. A 81. § (2) bekezdése csak a kiadott értékelés valótlan ténymegállapításaira nyit bírói utat."
+        },
+        {
+          "text": "A 203. § (1) bekezdés f) pontja az egyszerűsített foglalkoztatásra vagy alkalmi munkára irányuló viszonyban a 81. §-t nem rendeli alkalmazni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az egyszerűsített foglalkoztatás az írásbeli értékelés kötelezettségét kizárja. Az Mt. 203. § (1) bekezdés f) pontja e rövid, bejelentéshez kötött alakzatban kizárja a kérelemre adandó írásbeli értékelést. A (2) bekezdés szerinti bírói út sem nyílik meg; az egyéves fennállási küszöb e kizárást nem oldja fel. A 80. § szerinti munkakörátadás, elszámolás, kifizetés és igazolás a kizáró listában nem szerepel, ezért irányadó marad."
+        },
+        {
+          "text": "A munkáltató kérelem nélkül is köteles a megszűnéskor írásbeli értékelést adni, ha a viszony legalább egy évig fennállt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kérelem konjunktív feltétel, nélküle a kötelezettség nem nyílik meg. Az Mt. 81. § (1) bekezdése szerint a munkáltató a munkavállaló kérelmére ad írásbeli értékelést, ha a munkaviszony legalább egy évig fennállt, a megszüntetéskor (megszűnéskor) vagy legfeljebb az ezt követő egy éven belül. A fennállási küszöb és az időablak önmagában nem pótolja a kérelmet. Szóbeli vagy hallgatólagos munkáltatói vélemény e kötelezettséget nem váltja ki."
+        },
+        {
+          "text": "A 85. § (2) bekezdés f) pontja szerint kollektív szerződés a 81. §-ban foglaltaktól csak a munkavállaló javára térhet el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 81. § a kollektív szerződés eltérése szempontjából relatív kógens. Az Mt. 85. § (2) bekezdés f) pontja a 81. §-t a relatív kógens magba emeli. In peius irány — küszöb emelése, bírói út elzárása — zárt. A 80. § egyik listában sem szerepel, de ez a 81. §-ra nem vihető át."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "07b31f92e947"
+    },
+    {
+      "question": "A felek a megszűnéskor elszámolnak; a munkáltató csak a nettó munkabért fizeti ki, a természetbeni tartozásokat és a munkavállaló felé fennálló egyéb járandóságokat figyelmen kívül hagyja. Mi a 80. § (1)–(2) bekezdése szerinti helyzet?",
+      "options": [
+        {
+          "text": "Az elszámolás a felek kölcsönös pénzbeli és természetbeni tartozásainak lezárása, nem csupán a munkabér kifizetése.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (1) bekezdés elszámolása tágabb a bérkifizetésnél. Az Mt. 80. § (1) bekezdése a munkavállalót a munkáltatóval való elszámolásra kötelezi; az elszámolás a felek kölcsönös pénzbeli és természetbeni tartozásainak lezárása. A (2) bekezdés a munkabér mellett az egyéb járandóságokat is a határidő alá vonja. A puszta nettó bérkifizetés tehát nem meríti ki az elszámolást."
+        },
+        {
+          "text": "A (2) bekezdés szerint az egyéb járandóságokat is a felmondási vagy az „egyébként” sáv szerinti határidőben ki kell fizetni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az egyéb járandóság a (2) bekezdés tárgya. Az Mt. 80. § (2) bekezdése a munkabér, az egyéb járandóságok és az igazolások kiadását a felmondási vagy az ötödik munkanapos sávhoz köti. A természetbeni vagy egyéb járandóságok figyelmen kívül hagyása e határidő megszegése lehet. Az (1) bekezdés elszámolási kötelezettsége és a (2) bekezdés kifizetési kötelezettsége együtt olvasandó."
+        },
+        {
+          "text": "Az egyéb járandóságok csak a 81. § szerinti értékeléshez kapcsolódnak, a 80. § (2) bekezdése rájuk nem terjed ki.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az egyéb járandóságok a 80. § (2) bekezdésének kifejezett tárgyai. A helyes: az Mt. 80. § (2) bekezdése a munkabért, az egyéb járandóságokat és az igazolásokat a határidő alá vonja; a 81. § az írásbeli értékelésről szól. A tévedés a két szakasz tárgyának összekeveréséből ered."
+        },
+        {
+          "text": "Ha a nettó munkabér kifizetésre került, az elszámolás és a (2) bekezdés teljesítettnek minősül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bérkifizetés nem meríti ki sem az elszámolást, sem a (2) bekezdés tárgyát. A helyes: az Mt. 80. § (1) bekezdése szerinti elszámolás a kölcsönös tartozások lezárása; a (2) bekezdés a munkabér mellett az egyéb járandóságokat és az igazolásokat is a határidő alá vonja. A tévedés a bérkifizetés és az elszámolás azonosításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "491341845ff8"
+    },
+    {
+      "question": "A záró elszámolás után a munkáltatónak a munkavállalóval szemben a kötelező legkisebb munkabér kétszeresét meg nem haladó, munkaviszonnyal összefüggő követelése marad. Milyen per előtti út nyílik?",
+      "options": [
+        {
+          "text": "A munkáltatói követelés csak a 81. § (2) bekezdése szerinti értékelési perben érvényesíthető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 81. § (2) bekezdése a valótlan ténymegállapításra szól, nem a munkáltatói pénzkövetelésre. A helyes: az Mt. 285. § (2) bekezdése a kisebb munkáltatói igényre írásbeli fizetési felszólítást enged; a 81. § (2) bekezdése az értékelés valótlan tényeire nyit bírói utat. A tévedés a két intézmény összekeveréséből ered."
+        },
+        {
+          "text": "A kétszeres mérték a háromszoros plafon alatt van, ezért a fizetési felszólítás e címen megnyílhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a plafon a kötelező legkisebb munkabér háromszorosa. Az Mt. 285. § (2) bekezdése a háromszoros mértéket meg nem haladó igényre engedi az írásbeli fizetési felszólítást. A kétszeres követelés e plafon alatt van. A felszólítás a per előtti út, nem a 80. § (2) bekezdése szerinti kifizetési határidő pótlása."
+        },
+        {
+          "text": "A 285. § (2) bekezdése a munkáltatónak a kötelező legkisebb munkabér háromszorosát meg nem haladó, munkaviszonnyal összefüggő igényére írásbeli fizetési felszólítást is enged.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kisebb munkáltatói követelés per előtti útra vihető. Az Mt. 285. § (2) bekezdése a munkáltatónak a kötelező legkisebb munkabér háromszorosát meg nem haladó, munkaviszonnyal összefüggő igényére írásbeli fizetési felszólítást is enged. A 80. § (1) bekezdése szerinti elszámolás után fennmaradó, kisebb követelés e keretbe eshet. Az (1) bekezdés a munkaviszonyból származó igényt bíróság elé viszi."
+        },
+        {
+          "text": "A 285. § (2) bekezdése csak a munkavállaló igényére szól; a munkáltató kizárólag pert indíthat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés kifejezetten a munkáltató igényére engedi a felszólítást. A helyes: az Mt. 285. § (2) bekezdése a munkáltatónak a kötelező legkisebb munkabér háromszorosát meg nem haladó, munkaviszonnyal összefüggő igényére írásbeli fizetési felszólítást is enged. A tévedés a jogosulti oldal felcseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "36399c83eb46"
+    },
+    {
+      "question": "A munkavállaló szóban kéri a 81. § szerinti értékelést; a munkáltató szóban közöl rövid minősítést. Mely megállapítások igazak a kérelem alakiságára és az értékelés formájára?",
+      "options": [
+        {
+          "text": "Az értékelés formája írásbeli; a munkáltató szóbeli minősítése vagy kérelem nélküli saját elhatározású véleménye a 81. § (1) bekezdését nem váltja ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az értékelés írásbelisége kötelező. Az Mt. 81. § (1) bekezdése a munkavállaló munkájáról írásban adandó értékelést rendel. Szóbeli minősítés vagy a kérelem nélküli, saját elhatározású vélemény a szakaszt nem teljesíti. A 81. § (2) bekezdése is a kiadott értékelés valótlan ténymegállapításaira épül, nem a puszta szóbeli közlésre."
+        },
+        {
+          "text": "A szóbeli minősítés kiváltja az írásbeli értékelést, ha a munkavállaló a szóbeli közléssel egyetért.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az egyetértés nem pótolja az írásbeli formát. A helyes: az Mt. 81. § (1) bekezdése írásbeli értékelést rendel. Szóbeli minősítés a szakaszt nem váltja ki. A 81. § (2) bekezdése szerinti bírói út is a kiadott értékelés valótlan ténymegállapításaira szűkül."
+        },
+        {
+          "text": "A kérelem csak írásban érvényes; szóbeli kérelemre a munkáltató nem köteles értékelést adni, még egyéves fennállás mellett sem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törvény a kérelemhez nem ír elő írásbeli alakot. A helyes: a 81. § (1) bekezdése a kérelem alakiságát nem köti írásbeliséghez. Az írásbeliség az értékelés formájára szól. A tévedés a kérelem és az értékelés alakiságának összecseréléséből ered."
+        },
+        {
+          "text": "A 81. § (1) bekezdése a kérelem alakiságát nem köti írásbeliséghez; a szóbeli kérelem önmagában nem zárja ki a kötelezettség megnyílását, ha a fennállási küszöb és az időablak megvan.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kérelem formáját a szakasz nem írja elő. Az Mt. 81. § (1) bekezdése szerint: „A munkáltató a munkavállaló kérelmére, ha a munkaviszony legalább egy évig fennállt, a munkaviszony megszüntetésekor (megszűnésekor) vagy legfeljebb az ezt követő egy éven belül a munkavállaló munkájáról írásban értékelést ad.” A kérelem alakiságát a szakasz nem köti írásbeliséghez. A fennállási küszöb és a megszüntetéskori vagy egyéves utólagos időablak mellett a szóbeli kérelem is megnyithatja a kötelezettséget."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "8e7074354c07"
+    },
+    {
+      "question": "A munkavállaló próbaidő alatt a 79. § (1) bekezdés a) pontja szerinti azonnali hatályú megszüntetéssel él; a viszony még aznap megszűnik. Mi a 80. § (2) bekezdése szerinti esedékesség?",
+      "options": [
+        {
+          "text": "A próbaidő alatti azonnali bontás az „egyébként” sávba esik; a kifizetés és az igazolás legkésőbb a megszűnéstől számított ötödik munkanapon esedékes.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a próbaidő alatti azonnali bontás nem a 65. § (1) bekezdése szerinti felmondás. Az Mt. 80. § (2) bekezdése felmondásnál az utolsó munkában töltött napot, egyébként az ötödik munkanapot írja elő. A próbaidő alatti azonnali bontás a 64. § (1) bekezdése szerinti felmondástól elválik. Ezért az ötödik munkanap az irányadó."
+        },
+        {
+          "text": "A 80. § tárgyi köre a megszüntetéskor (megszűnéskor) fordulattal e próbaidős azonnali bontásra is kiterjed.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a lezáró eljárás nem korlátozódik a 65. § szerinti felmondásra. Az Mt. 80. § (1)–(2) bekezdése a megszüntetés és a megszűnés valamennyi alakzatára szól; a 79. § (1) bekezdés a) pontja szerinti intézkedés e körbe tartozik. A munkakörátadás, az elszámolás, a kifizetés és az igazolás tehát e bontás után is irányadó. A határidő az „egyébként” sáv."
+        },
+        {
+          "text": "Mivel a munkavállaló azonnal távozik, a határidő az utolsó munkában töltött nap, mint felmondásnál.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a próbaidős azonnali bontás nem nyitja a felmondási sávot. A helyes: az Mt. 80. § (2) bekezdése szerint az „egyébként” sávban a megszűnéstől számított ötödik munkanap az irányadó. A tévedés az azonnali távozás és a felmondási határidő összekeveréséből ered."
+        },
+        {
+          "text": "Próbaidő alatt a 80. § (2) bekezdése nem alkalmazandó, mert a viszony még nem „érett” lezáró eljárásra.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 80. § a próbaidős azonnali bontásra sem ad kivételt. A helyes: az Mt. 80. § (2) bekezdése a 79. § (1) bekezdés a) pontja szerinti azonnali bontásra is irányadó, és az „egyébként” sáv ötödik munkanapját rendeli. A tévedés a próbaidőnek a lezáró eljárás alóli kivételként való kezeléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "2e639f5733e4"
+    },
+    {
+      "question": "A 84. § (3) bekezdése szerint az (1) vagy (2) bekezdésben meghatározott mértéket meghaladó kár megtérítése is kérhető, de ezek együttesen nem haladhatják meg a tizenkét havi távolléti díjat. Hogyan kapcsolódik ehhez a (4) bekezdés a hibás munkakörátadásnál?",
+      "options": [
+        {
+          "text": "A hibás átadásnál a tizenkét havi plafon nem alkalmazandó, mert a (4) bekezdés csak az (1) bekezdés távolléti díját hívja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (4) bekezdés az (1)–(3) bekezdést együtt rendeli. A helyes: az Mt. 84. § (4) bekezdése az (1)–(3) bekezdés megfelelő alkalmazását írja elő; a (3) bekezdés tizenkét havi távolléti díjas plafonja így a hibás átadásra is irányadó. A tévedés a (4) bekezdésnek az (1) bekezdésre való leszűkítéséből ered."
+        },
+        {
+          "text": "A (4) bekezdés a hibás átadásra a 84. § (1)–(3) bekezdésének díjfizetési és kártérítési mércéjét — beleértve a tizenkét havi távolléti díj plafont — megfelelően alkalmazni rendeli.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (4) bekezdés a teljes (1)–(3) rendet hívja. Az Mt. 84. § (4) bekezdése szerint, ha a munkavállaló a munkakörét nem az előírt rendben adja át, az (1)–(3) bekezdés megfelelően alkalmazandó. A (3) bekezdés a plafonos kártérítést rendezi: az (1) vagy (2) bekezdés mértékét meghaladó kár is járhat, de együttesen legfeljebb tizenkét havi távolléti díj. A 80. § (1) bekezdése szerinti mulasztás tehát e plafon alá eshet."
+        },
+        {
+          "text": "A szankció alkalmazásának előfeltétele, hogy a munkáltató a 80. § (1) bekezdése szerinti átadási feltételeket biztosította legyen.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a mulasztás csak a biztosított rend mellett hárítható. Az Mt. 80. § (1) bekezdése a feltételek biztosítását a munkáltatóra telepíti; ha ezt elmulasztja, a munkavállaló terhére a mulasztás nem hárítható. A 84. § (4) bekezdése ezért csak akkor nyílik meg érdemben, ha az előírt rend biztosítva volt, és a munkavállaló ennek ellenére hibásan adott át. A feltételek hiánya a szankciót zárja."
+        },
+        {
+          "text": "A (4) bekezdés a munkáltatói 82–83. § szerinti jogkövetkezményeket hívja a hibás átadásra.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (4) bekezdés a munkavállaló oldali szankciórendet hívja, nem a munkáltatói 82–83. §-t. A helyes: az Mt. 84. § (4) bekezdése a 84. § (1)–(3) bekezdését rendeli megfelelően alkalmazni; a 6/2016. (XI. 28.) KMK vélemény a munkáltatói 82–83. § szerinti jogkövetkezményektől elválik. A tévedés a munkáltatói és a munkavállalói szankciórend összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "80c629947409"
+    }
+  ]
+}

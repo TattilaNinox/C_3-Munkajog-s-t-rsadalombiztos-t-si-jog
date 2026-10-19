@@ -1,0 +1,765 @@
+{
+  "id": "TvM2y4xgv9mh24CyznSD",
+  "sorszam": 28,
+  "cim": "A munkáltató kártérítési felelőssége.",
+  "generationType": "fogalom",
+  "title": "28. A munkáltató kártérítési felelőssége.",
+  "questions": [
+    {
+      "question": "Mi a munkáltató kártérítési felelősségének jogalapi jellege az Mt. 166. § szerint a Ptk. 6:519. § felróhatósági deliktumához képest?",
+      "options": [
+        {
+          "text": "A munkáltató csak akkor felel, ha bizonyítottan felróhatóan okozta a kárt, mint a Ptk. 6:519. § szerinti károkozó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 166. § (1) bekezdése objektív helytállást telepít a munkaviszonnyal összefüggésben okozott kárra, felróhatósági feltétel nélkül. A Ptk. 6:519. § szerinti mentesülés a felróhatóság hiányának bizonyításával nem a munkáltatói jogalap. A mentesülést az Mt. 166. § (2) bekezdés a) vagy b) pontja adja, nem a felróhatóság hiánya."
+        },
+        {
+          "text": "A Ptk. 6:519. § a 177. § utaló szabályán keresztül felülírja a 166. § jogalapját, és felróhatósági felelősséget vezet be.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 177. § a kár megtérítésére egyebekben a Ptk. 6:518–534. § szabályait rendeli, de az utalás a terjedelmet és a módot hozza be. A felelősség alapja ettől elválik: a jogalap az Mt. 166. §. A 177. § tehát nem írja felül a 166. § objektív jogalapját felróhatósági deliktummal."
+        },
+        {
+          "text": "A Ptk. 6:519. § felróhatósági deliktuma nem a munkáltatói jogalap: a munkáltató akkor is helytállhat, ha a kárt nem a saját vétkes magatartása okozta.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkáltatói felelősség nem a Ptk. 6:519. § felróhatósági deliktuma. A Ptk. 6:519. § szerint mentesül, aki bizonyítja, hogy magatartása nem volt felróható; az Mt. 166. § (2) bekezdése ettől eltérő mentesülési címeket ad. A munkáltató akkor is helytáll, ha a kárt nem a saját vétkes magatartása okozta, feltéve, hogy a kár a munkaviszonnyal összefügg."
+        },
+        {
+          "text": "A munkáltató a munkaviszonnyal összefüggésben okozott kárért vétkességtől függetlenül, objektív helytállással felel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 166. § (1) bekezdése szerint a munkáltató köteles megtéríteni a munkavállalónak a munkaviszonnyal összefüggésben okozott kárt. Ez a munkaviszonyból folyó, vétkességtől független kártelepítés: alanyi jog a munkavállalóé, objektív helytállás a munkáltatóé. A felelősség alapja tehát nem a felróhatóság, hanem a munkaviszonnyal összefüggő károkozás."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "c38b9c728744"
+    },
+    {
+      "question": "Mit telepít az Mt. 166. § (1) bekezdése, és mi a munkaviszonnyal összefüggés fogalmi tartalma?",
+      "options": [
+        {
+          "text": "Ha a kár részben munkaviszonnyal összefügg, részben nem, a bíróság „részleges összefüggést” állapít meg a jogalapra.",
+          "isCorrect": false,
+          "rationale": "HAMIS, részleges munkaviszony-összefüggés fogalmilag nincs; az Mt. 166. § (1) bekezdése szerinti kapcsolat vagy bizonyított, vagy a kereset elutasítandó. A természetes kórok és a munkahelyi eredet együttese nem részleges jogalap, hanem a kárviselés arányának kérdése a jogalapról szóló döntésben. Az 1/2018. (VI. 25.) KMK vélemény is ezt az elhatárolást rögzíti."
+        },
+        {
+          "text": "Az Mt. 166. § (1) bekezdése csak a munkáltató saját vétkes magatartásával okozott kárra telepít megtérítési kötelezettséget.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 166. § (1) bekezdése a munkaviszonnyal összefüggésben okozott kárra szól, nem a munkáltató saját vétkes magatartására szűkítve. A felelősség objektív helytállás; a mentesülés a (2) bekezdés a) vagy b) pontja szerint történhet. A felróhatóság a 167. § (2)–(3) bekezdésében a kármegosztásnál és a méltányosságnál tér vissza."
+        },
+        {
+          "text": "A munkáltató köteles megtéríteni a munkavállalónak a munkaviszonnyal összefüggésben okozott kárt; alanyi jog a munkavállalóé, objektív helytállás a munkáltatóé.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 166. § (1) bekezdése kimondja: „A munkáltató köteles megtéríteni a munkavállalónak a munkaviszonnyal összefüggésben okozott kárt.” Ez alanyi jogot ad a munkavállalónak. Objektív helytállást telepít a munkáltatóra. A megtérítési kötelezettség vétkességi feltétel nélkül áll a munkaviszonnyal összefüggő kárra."
+        },
+        {
+          "text": "A munkaviszonnyal összefüggés a kár és a fennálló vagy fennállt munkaviszony közötti kapcsolat; részleges összefüggés fogalmilag nincs.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkaviszonnyal összefüggés a kár és a fennálló vagy fennállt munkaviszony közötti kapcsolat: szerződéses feladat, utasítás, előkészület, munkavégzéstől elválaszthatatlan tevékenység, munkahelyi helyzetváltoztatás, kötelezően igénybe vett szállás. Részleges összefüggés nincs: vagy bizonyított a kapcsolat, vagy a kereset elutasítandó. Az Mt. 166. § (1) bekezdése e kapcsolat meglétét kívánja a jogalaphoz."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "c23e82e8bacc"
+    },
+    {
+      "question": "Hogyan válik el az Mt. 166. § (2) bekezdés a) és b) pontja szerinti mentesülés, és ki bizonyít?",
+      "options": [
+        {
+          "text": "A b) pont szerinti mentesüléshez elég, ha a károsult magatartása közrehatott a kárban, akkor is, ha nem kizárólagosan.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 166. § (2) bekezdés b) pontja kizárólagosságot kíván: a kárt kizárólag a károsult elháríthatatlan magatartása okozta. Ha a kár nem kizárólag a munkavállaló magatartására vezethető vissza, a munkáltató e címen nem mentesül. A közrehatás a 167. § (2) bekezdése szerinti kármegosztásnál értékelhető, nem a b) pontbeli teljes mentesülésnél."
+        },
+        {
+          "text": "Az a) pont három együttes feltételt kíván: a körülmény az ellenőrzési körön kívül essék, azzal nem kellett számolni, és nem volt elvárható a károkozó körülmény elkerülése vagy a kár elhárítása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 166. § (2) bekezdés a) pontja szerint a munkáltató akkor mentesül, ha bizonyítja, hogy a kárt az ellenőrzési körén kívül eső olyan körülmény okozta, amellyel nem kellett számolnia, és nem volt elvárható az elkerülés vagy az elhárítás. A három feltétel együttes; bármelyik hiánya az a) pont szerinti mentesülést elveti. A bizonyítási teher a mentesülésen a munkáltatóé."
+        },
+        {
+          "text": "A b) pont csak akkor mentesít, ha a kárt kizárólag a károsult elháríthatatlan magatartása okozta; a két cím egymástól elválasztott.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 166. § (2) bekezdés b) pontja szerint a mentesüléshez az kell, hogy a kárt kizárólag a károsult elháríthatatlan magatartása okozta. Az a) és a b) pont két, egymástól elválasztott mentesülési cím; mindkettőn a munkáltató bizonyít. A károsult elháríthatatlan magatartása vétkességre tekintet nélkül megállapítható, de a kizárólagosság is kell."
+        },
+        {
+          "text": "Az a) pontbeli ellenőrzési körön kívüli körülmény önmagában mentesít, ha a munkáltató a felróhatóság hiányát bizonyítja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 166. § (2) bekezdés a) pontja három együttes feltételt kíván, nem önmagában az ellenőrzési körön kívüliséget. A mentesülés nem a felróhatóság hiányának bizonyítása (az a Ptk. 6:519. § logikája), hanem a háromtagú a) cím vagy a b) pont. Ha bármelyik a) feltétel hiányzik, az a) pont nem mentesít."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "f13d8941090d"
+    },
+    {
+      "question": "Mi tartozik a munkáltató ellenőrzési körébe, és mi esik általában kívül a 166. § (2) bekezdés a) pontja szempontjából?",
+      "options": [
+        {
+          "text": "A telephelyen kívül kijelölt munkavégzési helyszín mindig ellenőrzési körön kívüli, ezért a munkáltató ott okozott kár alól mentesül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a telephelyen kívül kijelölt helyszín az ellenőrzési körbe tartozik, nem kívül esik. Az Mt. 166. § (2) bekezdés a) pontja tehát nem automatikusan mentesít pusztán azért, mert a munkavégzés nem a telephelyen történt. A mentesüléshez a három együttes a) feltétel vagy a b) pont szerinti kizárólagos károsulti magatartás kell."
+        },
+        {
+          "text": "Az ellenőrzési körön kívül esik, amire a munkáltatónak semmilyen ráhatása nincs; a közlekedés ezen a körön kívüli szakasza általában kívül esik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 166. § (2) bekezdés a) pontjának első eleme, hogy a károkozó körülmény az ellenőrzési körön kívül essék. Ellenőrzési körön kívül van, amire a munkáltatónak semmilyen ráhatása nincs. A közlekedés ezen a körön kívüli szakasza általában kívül esik; az 1/2018. (VI. 25.) KMK vélemény II. szakasza ugyanezt rögzíti."
+        },
+        {
+          "text": "A munkáltató járműve és annak megbízott vezetője az ellenőrzési körön kívül esik, ezért a járművel okozott kárnál az a) pont automatikusan mentesít.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkáltató járműve és annak megbízott vezetője az ellenőrzési körbe tartozik, nem kívül esik. Az Mt. 166. § (2) bekezdés a) pontjának első feltétele ezért tipikusan nem teljesül ilyen kárnál. Az ellenőrzési körön belüli kár alól a munkáltató csak a b) pont szerint mentesülhet, ha a kárt kizárólag a károsult elháríthatatlan magatartása okozta."
+        },
+        {
+          "text": "Az ellenőrzési körbe tartozik többek között a feladatellátás, a munkaszervezés, az anyag, a felszerelés, a telephelyen kívül kijelölt helyszín, a munkáltató járműve és annak megbízott vezetője.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az ellenőrzési körbe tartozik a feladatellátás, a személyi magatartás, a munkaszervezés, az anyag, a felszerelés, a berendezés, az energia, a termelés kockázata, a telephelyen kívül kijelölt helyszín, a munkavégzés tárgya, a munkáltató járműve és annak megbízott vezetője. Ezekre a munkáltatónak ráhatása van, ezért az a) pont első feltétele tipikusan nem áll. Az Mt. 166. § (2) bekezdés a) pontja így csak a valóban kívül eső körülményeknél jöhet szóba."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "81fceb166597"
+    },
+    {
+      "question": "Hogyan oszlik meg a bizonyítási teher a munkáltató kártérítési felelősségénél az Mt. 166. § szerint?",
+      "options": [
+        {
+          "text": "A munkavállaló bizonyítja a kárt, a károkozó magatartást, az okozati kapcsolatot és a kár mértékét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a bizonyítási teher a kárra, a károkozó magatartásra, az okozati kapcsolatra és a mértékre a munkavállalót terheli. Az Mt. 166. § (1) bekezdése szerinti jogalaphoz e tényeket a munkavállalónak kell igazolnia. Az 1/2018. (VI. 25.) KMK vélemény ugyanezt a bizonyítási rendet rögzíti."
+        },
+        {
+          "text": "A mentesülés a) pontján a munkavállaló, a b) ponton a munkáltató bizonyít.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 166. § (2) bekezdése mindkét mentesülési címen a munkáltatóra telepíti a bizonyítást. Sem az a), sem a b) pont nem fordítja meg a terhet a munkavállaló javára. A munkavállaló a jogalap és a mérték elemeit, a munkáltató a mentesülést bizonyítja."
+        },
+        {
+          "text": "A mentesülést — mind az a), mind a b) pontot — a munkáltató bizonyítja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 166. § (2) bekezdése szerint a munkáltató akkor mentesül, ha bizonyítja az a) vagy a b) pont szerinti körülményeket. A két mentesülési cím egymástól elválasztott, de mindkettőn a munkáltatóé a bizonyítás. A felróhatóság hiányának bizonyítása nem helyettesíti e címeket."
+        },
+        {
+          "text": "A munkáltató a jogalap elemeit is bizonyítja: neki kell igazolnia a munkaviszonnyal összefüggést és a kár mértékét.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kár, a károkozó magatartás, az okozati kapcsolat és a mérték bizonyítása a munkavállalóé. Az Mt. 166. § (1) bekezdése szerinti alanyi jog érvényesítéséhez e tényeket a károsult igazolja. A munkáltató a (2) bekezdés szerinti mentesülést bizonyítja, nem a jogalap hiányát a munkavállaló helyett."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "a69cb6dea98c"
+    },
+    {
+      "question": "Mit rendel az Mt. 166. § (3) bekezdése a más munkáltatónál történő foglalkoztatásnál?",
+      "options": [
+        {
+          "text": "Az egyetemlegesség csak akkor áll, ha mindkét munkáltató felróhatóan közrehatott a kárban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 166. § (3) bekezdése az egyetemlegességet a más munkáltatónál történő foglalkoztatás esetére rendeli, felróhatósági feltétel nélkül. A munkáltatói felelősség alapja a 166. § szerinti objektív helytállás. A felróhatóság a belső megosztásnál (Ptk. 6:524. §) jöhet szóba, nem az egyetemlegesség feltételeként a károsulttal szemben."
+        },
+        {
+          "text": "A munkavállaló Mt. 53. § szerinti más munkáltatónál történő foglalkoztatása esetén a munkáltatók egyetemlegesen felelnek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 166. § (3) bekezdése kimondja: „A munkavállaló 53. §-ban foglaltak szerinti más munkáltatónál történő foglalkoztatása esetén a munkáltatók egyetemlegesen felelnek.” Az egyetemlegesség a károsulttal szemben áll. Bármelyik érintett munkáltatótól követelhető a teljes megtérítés. A Ptk. 6:524. § (1) bekezdése rokon egyetemlegességet ad a közös károkozókra."
+        },
+        {
+          "text": "Az egyetemlegesség a 166. § szerinti munkáltatói felelősség keretében a két érintett munkáltatóra vonatkozik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés a más munkáltatónál történő foglalkoztatásnál a munkáltatókra telepíti az egyetemleges felelősséget. A Ptk. 6:524. § (1) bekezdése a közös károkozókat a károsulttal szemben egyetemlegesen marasztalja. A 166. § (3) bekezdése ugyanezt a két munkáltatóra viszi; a károsult bármelyikükkel szemben érvényesíthet."
+        },
+        {
+          "text": "Más munkáltatónál történő foglalkoztatásnál csak a fogadó munkáltató felel, a kiküldő mentesül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 166. § (3) bekezdése egyetemlegességet rendel, nem egyetlen munkáltatóra szűkít. A kiküldő és a fogadó munkáltató egyaránt helytállhat a károsulttal szemben. A felelősség megosztása a munkáltatók egymás közötti viszonyában külön kérdés, a károsulttal szemben az egyetemlegesség a főszabály."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "1ce56ea3f4ca"
+    },
+    {
+      "question": "Mit ír elő az Mt. 167. § (1) bekezdése a kár mértékéről és az előre nem látható kárról?",
+      "options": [
+        {
+          "text": "A munkáltató a munkavállaló teljes kárát köteles megtéríteni; nem kell megtéríteni azt a kárt, amelynek bekövetkezése a károkozás idején nem volt előre látható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 167. § (1) bekezdése kimondja: „A munkáltató a munkavállaló teljes kárát köteles megtéríteni. Nem kell megtéríteni azt a kárt, amellyel kapcsolatban bizonyítja, hogy bekövetkezése a károkozás idején nem volt előre látható.” A teljes kár a főszabály a mérték oldalán. Az előre nem látható rész e kivétel alapján esik ki. A kivétel bizonyítása a munkáltatóé, nem a munkavállalóé."
+        },
+        {
+          "text": "Az előre nem látható kár a jogalapot szünteti meg: ha a pontos összeg nem volt előre látható, a munkáltató egyáltalán nem felel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 167. § (1) bekezdése a teljes kárból veszi ki az előre nem látható részt a mérték oldalán, nem a 166. § jogalapját szünteti meg. Az előreláthatóság nem a pontos forintösszeg kérdése. A jogalap a munkaviszonnyal összefüggés; az előreláthatóság a megtérítendő hányadot befolyásolja."
+        },
+        {
+          "text": "A Ptk. 6:521. § előreláthatósági okozatossága a munkáltatói jogalap okozatosságának mércéje a 167. § (1) bekezdés helyett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Ptk. 6:521. § a munkáltatói felelősség vizsgálatakor nem alkalmazható az okozatossághoz. Az Mt. 167. § (1) bekezdése az előre nem látható kárt a mérték oldalán veszi ki. Az okozatosság a tényleges összefüggés és az általános élettapasztalat kérdése; ezt az 1/2018. (VI. 25.) KMK vélemény is rögzíti."
+        },
+        {
+          "text": "Az előreláthatóság nem a pontos forintösszeg, hanem a kár fajtája és nagyságrendje; a munkaszerződéskötéskor és a jogviszony alatt adott tájékoztatás is számít.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az előreláthatóság a károkozás idején fennálló tudattartalom: nem a pontos összeg, hanem a kár nagyságrendje és fajtája. A munkaszerződéskötéskor és a jogviszony alatt adott tájékoztatás is számít. Az 1/2018. (VI. 25.) KMK vélemény III. szakasza ugyanezt az értelmezést rögzíti az Mt. 167. § (1) bekezdéséhez."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "53e2636b7fc6"
+    },
+    {
+      "question": "Mit von le az Mt. 167. § (2) bekezdése a teljes kárból, és ki bizonyítja a kárenyhítés elmulasztását?",
+      "options": [
+        {
+          "text": "A kármegosztás a munkáltató vétkesség nélküli felelőssége mellett is a megállapítható munkáltatói vétkesség és a munkavállaló vétkességének arányán nyugszik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kármegosztás arányát a munkáltató vétkesség nélküli felelőssége mellett is a megállapítható vétkessége és a munkavállaló vétkességének aránya határozza meg. Az Mt. 167. § (2) bekezdése a munkavállaló vétkes közrehatását a mérték oldalán érvényesíti. Az 1/2018. (VI. 25.) KMK vélemény ugyanezt a kármegosztási arányt rögzíti."
+        },
+        {
+          "text": "Nem kell megtéríteni a kárnak azt a részét, amelyet a munkavállaló vétkes magatartása okozott, vagy amely a kárenyhítési kötelezettség elmulasztásából származott.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 167. § (2) bekezdése e két részt vonja le a teljes kárból. A munkavállaló terhére csak a saját vétkes magatartásával összefüggő kár értékelhető. A kárenyhítés szándékos elmulasztása a munkaerő elvárható hasznosításának elmaradása; a mulasztást a munkáltató bizonyítja."
+        },
+        {
+          "text": "A munkavállaló vétkes közrehatása az Mt. 166. § (2) bekezdés b) pontja szerinti teljes mentesülést eredményezi, akkor is, ha nem kizárólagos.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a vétkes közrehatás az Mt. 167. § (2) bekezdése szerinti részleges levonás, nem a 166. § (2) bekezdés b) pontja. A b) pont csak a kizárólagos, elháríthatatlan károsulti magatartásnál mentesít. A két joghelyet tilos összemosni: közrehatás ≠ teljes mentesülés."
+        },
+        {
+          "text": "A kárenyhítés elmulasztását a munkavállaló köteles bizonyítani, különben a teljes kár jár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kárenyhítés szándékos elmulasztását a munkáltató bizonyítja. Az Mt. 167. § (2) bekezdése a levonást a munkáltató számára teszi lehetővé, ha a mulasztás igazolt. A munkavállaló a jogalap és a mérték elemeit bizonyítja, nem a saját kárenyhítési mulasztásának hiányát."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "a4d4f3b7e366"
+    },
+    {
+      "question": "Mit enged az Mt. 167. § (3) bekezdése a bíróságnak a munkáltatói kártérítésnél?",
+      "options": [
+        {
+          "text": "A méltányossági értékelés során különösen a felek vagyoni helyzetét, a jogsértés súlyát és a kártérítés teljesítésének következményeit kell figyelembe venni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 167. § (3) bekezdése e három szempontot emeli ki: „Ennek során különösen a felek vagyoni helyzetét, a jogsértés súlyát, a kártérítés teljesítésének következményeit értékeli.” A felsorolás nem zárt törvényi taxáció. A bírói mérlegelés e támpontok mentén történik. A Ptk. 6:522. § (4) bekezdése rokon csökkentést ad, de a munkáltatóra a 167. § (3) bekezdése az irányadó."
+        },
+        {
+          "text": "A bíróság a munkáltatót rendkívüli méltánylást érdemlő körülmények alapján a kártérítés alól részben mentesítheti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 167. § (3) bekezdése szerint a bíróság rendkívüli méltánylást érdemlő körülmények alapján a munkáltatót részben mentesítheti. Ez nem a 166. § (2) bekezdés szerinti teljes mentesülés. A méltányosság a mérték oldalán álló, bírói cím. A részbeniség a törvényi szöveg része: teljes mentesítés e címen nincs."
+        },
+        {
+          "text": "A méltányossági mentesítés azonos az általános kártérítéssel: ha a kár nem számítható ki, a bíróság csökkentheti az összeget.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az általános kártérítés az Mt. 173. § (2) bekezdése és a Ptk. 6:531. § szerint a bizonyíthatatlan mérték pótlása. A 167. § (3) bekezdése ettől elválasztott, rendkívüli méltányossági mentesítés. Az egyik a teljes anyagi kárpótlásra alkalmas összeget ad, a másik a teljes kárnál alacsonyabb mértékű kötelezettséget."
+        },
+        {
+          "text": "A bíróság a 167. § (3) bekezdése alapján a munkáltatót a teljes kártérítés alól akár teljesen is mentesítheti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 167. § (3) bekezdése csak részbeni mentesítést enged. A teljes mentesülés a 166. § (2) bekezdés a) vagy b) pontjának a tárgya, nem a méltányosságé. A rendkívüli méltányosság a mérték csökkentése, nem a jogalap elvonása."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "32a572bffb21"
+    },
+    {
+      "question": "Hogyan terjed ki a munkáltatói felelősség a munkahelyre bevitt dolgokra az Mt. 168. § szerint?",
+      "options": [
+        {
+          "text": "Ha a munkáltató megőrzőt vagy bejelentést ír elő, illetve az engedélyköteles bevitel szabályait megsértik, a felelősség szándékos károkozásra szűkül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 168. § (2) bekezdése szerint a munkáltató előírhatja a megőrzőben való elhelyezést vagy a bevitel bejelentését; a munkába járáshoz vagy munkavégzéshez nem szükséges dolgok csak engedéllyel vihetők be. E szabályok megsértése esetén a munkáltató csak szándékos károkozása esetén felel. Az engedély nélküli bevitel tehát nem a jogalapot, hanem a felróhatósági küszöböt változtatja meg."
+        },
+        {
+          "text": "Az engedély nélküli bevitel megszünteti a 166. § szerinti jogalapot: a munkáltató egyáltalán nem felel a bevitt dolog káráért.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 168. § (2) bekezdése a felelősséget szándékos károkozásra szűkíti, nem szünteti meg a jogalapot. A bevitt dolog attól még a 166. § szerinti kár lehet. Az engedély a kockázatot a munkavállalóra telepíti, kivéve a szándékos munkáltatói károkozást."
+        },
+        {
+          "text": "A munkáltatót a 166–167. § szerint terheli a felelősség a munkavállaló munkahelyre bevitt tárgyaiban, dolgaiban bekövetkezett károkért.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 168. § (1) bekezdése a 166–167. § szerinti felelősséget a munkahelyre bevitt tárgyakra is kiterjeszti. A dologi kár nem esik ki a XIII. fejezetből. A 168. § a jogalapot, a 170. § a dologi kár mértékét adja."
+        },
+        {
+          "text": "A 168. § a dologi kár összegét a fogyasztói árhoz köti; a 170. § csak a járadékot rendezi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 168. § a jogalapot és a (2) bekezdés szerinti szűkítést adja; a dologi kár összegét az Mt. 170. § a megállapításkori fogyasztói árhoz és az avuláshoz köti. A két szakasz szerepe elválik: jogalap versus mérték. A járadékot az Mt. 173. § rendezi, nem a 170. §."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "227fc8b7d38b"
+    },
+    {
+      "question": "Mit hoz be az Mt. 177. § a Ptk. 6:518–534. § utalásával, és mit nem ír felül?",
+      "options": [
+        {
+          "text": "A 177. § a Ptk. 6:519. § felróhatósági deliktumát a munkáltatói jogalapra húzza rá, ezért a mentesülés a felróhatóság hiányának bizonyítása.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 177. § az általános szabályt a megtérítésre, nem a jogalapra húzza rá. A Ptk. 6:519. § szerinti felróhatósági mentesülés nem helyettesíti az Mt. 166. § (2) bekezdését. A felróhatóság a 167. § (2)–(3) bekezdésében a kármegosztásnál és a méltányosságnál tér vissza."
+        },
+        {
+          "text": "A Ptk. 6:587. § az utaló magatartás a 177. § utaló körének része, és helyettesíti a 166. § objektív helytállását.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Ptk. 6:587. § az utaló körön kívül, önálló tényállásként marad meg. Nem helyettesíti a 166–167. § objektív helytállását, hanem a szándékos indítás, a jóhiszeműség, az alapos ok és az önhiba hiányának együttesén nyugszik. A 177. § a 6:518–534. §-t hívja, nem a 6:587. §-t."
+        },
+        {
+          "text": "A 177. § a kár megtérítésére egyebekben a Ptk. 6:518–534. § szabályait rendeli; az utalás a terjedelmet, a módot, a járadékot, az esedékességet és az elévülés Ptk.-beli eltéréseit hozza be.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 177. § kimondja: „A kár megtérítésére egyebekben a Ptk. 6:518–534. §-a szabályait kell alkalmazni.” Az utalás a megtérítés módjára és terjedelmére hat. A jogalapot ez az utalás nem írja felül. A felelősség alapja az Mt. 166. § objektív helytállása marad."
+        },
+        {
+          "text": "A Ptk. 6:521. § előreláthatósági okozatossága a munkáltatói felelősség vizsgálatakor nem alkalmazható; az okozatosság a tényleges összefüggés és az általános élettapasztalat kérdése.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Ptk. 6:521. § a munkáltatói kárfelelősségnél nem a jogalap okozatosságának mércéje. Az Mt. 167. § (1) bekezdése az előre nem látható kárt a mérték oldalán veszi ki. Okozatosság hiányában a munkáltató nem felel, de ezt a 166. § (1) bekezdése és a bizonyítási rend adja, nem a 6:521. §."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "68ce963359be"
+    },
+    {
+      "question": "Mit számít az Mt. 169. § (1)–(2) bekezdése elmaradt jövedelemként a munkaviszony körében és azon kívül?",
+      "options": [
+        {
+          "text": "A munkaviszonyon kívüli elmaradt jövedelem nem térítendő, mert a 169. § csak a munkabérre szorítkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 169. § (2) bekezdése kifejezetten a munkaviszonyon kívül elmaradt egyéb rendszeres, jogszerűen megszerzett jövedelmet is megtérítteti. A fejezet tehát nem szűkül kizárólag a munkabérre. Az (1) bekezdés a munkaviszony körét, a (2) a kívüli kört rendezi; mindkettő a 169. § része."
+        },
+        {
+          "text": "A munkaviszony körében az elmaradt munkabért és a munkabéren felüli, a károkozást megelőzően rendszeresen igénybe vett rendszeres juttatás pénzbeli értékét kell figyelembe venni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 169. § (1) bekezdése az elmaradt munkabért és a rendszeres juttatás pénzbeli értékét számítja, ha a munkavállaló azt a károkozás előtt rendszeresen igénybe vette. A juttatás a munkaviszony alapján, a munkabéren felül jár. A rendszeresség a törvényi feltétel a figyelembevételhez."
+        },
+        {
+          "text": "A munkabéren felüli juttatás akkor is beleszámít, ha a munkavállaló azt a károkozás előtt soha nem vette igénybe.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 169. § (1) bekezdése a rendszeres igénybevételt a károkozás bekövetkezését megelőzően kívánja. A juttatás puszta jogosultsága önmagában nem elég. A rendszeresség és a megelőző igénybevétel együtt a törvényi feltétel."
+        },
+        {
+          "text": "A munkaviszonyon kívül elmaradt jövedelemként a sérelem folytán elmaradt egyéb rendszeres, jogszerűen megszerzett jövedelmet kell megtéríteni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 169. § (2) bekezdése a munkaviszonyon kívüli, egyéb rendszeres és jogszerűen megszerzett jövedelem elmaradását is megtérítteti. A sérelem folytán elmaradt jelleg a kulcs. Az (1) és a (2) bekezdés tehát a munkaviszonyon belüli és kívüli elmaradt jövedelmet egyaránt lefedi."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "56fee477d880"
+    },
+    {
+      "question": "Mit minősít kárnak az Mt. 169. § (3) bekezdése, és mit vesz ki a (4) bekezdés?",
+      "options": [
+        {
+          "text": "Nem kell megtéríteni azon juttatások értékét, amelyek rendeltetésük szerint csak munkavégzés esetén járnak, továbbá a költségtérítés címén kapott összeget.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 169. § (4) bekezdése e két címet kiveszi a megtérítésből. A csak munkavégzéshez kötött juttatás és a költségtérítés nem része az elmaradt jövedelemnek. A (3) bekezdés a kár fogalmát tágítja, a (4) a kört szűkíti a 169. § szerkezetében."
+        },
+        {
+          "text": "Ha a munkavállaló rendkívüli teljesítménnyel elhárítja a kárt, a munkáltató mentesül a 166. § alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 169. § (3) bekezdése éppen azt mondja, hogy e kárt is meg kell téríteni. A többletenergia nem a 166. § (2) bekezdés szerinti mentesülés. A jogalap és a mérték e címen is fennmarad."
+        },
+        {
+          "text": "A költségtérítés címén kapott összeg az elmaradt jövedelem része, mert a munkaviszonyhoz kapcsolódik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 169. § (4) bekezdése a költségtérítést kifejezetten kiveszi. A csak munkavégzés esetén járó juttatások értéke szintén kimarad. Az (1)–(2) bekezdés szerinti elmaradt jövedelem e kivételekkel olvasandó."
+        },
+        {
+          "text": "Meg kell téríteni azt a kárt is, amelyet a munkavállaló a sérelemből eredő jelentős fogyatékossága ellenére, rendkívüli munkateljesítménnyel hárít el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 169. § (3) bekezdése a jelentős fogyatékosság ellenére rendkívüli munkateljesítménnyel elhárított kárt is kárnak minősíti. A károsult többletenergiája nem mentesíti a munkáltatót. A Ptk. 6:528. § (6) bekezdése a jövedelempótló járadéknál ugyanezt a rendkívüli teljesítményt nem veszi figyelembe a kiesés számításánál."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "976274dae41b"
+    },
+    {
+      "question": "Hogyan kell meghatározni a dologi kár és a természetbeni juttatás összegét az Mt. 170. § szerint?",
+      "options": [
+        {
+          "text": "A természetbeni juttatások értékét és a dologi kár összegét a kártérítés megállapításakor érvényes fogyasztói ár alapján kell meghatározni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 170. § (1) bekezdése a megállapításkori fogyasztói árat teszi mércévé. Nem a károkozáskori, hanem a megállapításkori ár az irányadó. A 168. § szerinti bevitt dolog kára is e számítási rend alá esik."
+        },
+        {
+          "text": "Az avulás figyelmen kívül hagyható, ha a munkáltató objektív felelőssége fennáll.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 170. § (2) bekezdése az avulást kötelezően figyelembe veszi. Az objektív jogalap (166. §) nem mentesít a mértékoldali avulás alól. Kijavíthatóság esetén a javítási költség a kár, nem a teljes újraelőállítási érték."
+        },
+        {
+          "text": "A dologi kár összegét az avulás figyelembevételével kell kiszámítani; ha a dolog értékcsökkenés nélkül kijavítható, a kár a javítási költség.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 170. § (2) bekezdése az avulást kötelezően beszámítja. Értékcsökkenés nélküli kijavíthatóság esetén a javítási költség a kár. A Ptk. 6:534. § az értékviszonyok későbbi, jelentős változását az ítélethozatalkori értékhez igazíthatja."
+        },
+        {
+          "text": "A dologi kár összegét mindig a károkozás idején érvényes fogyasztói ár alapján kell számítani.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 170. § (1) bekezdése a kártérítés megállapításakor érvényes fogyasztói árat írja elő. A károkozáskori ár nem a törvényi mérce. A megállapításkori időpont a dologi kár és a természetbeni juttatás közös kulcsa."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "e5c1b95a80c7"
+    },
+    {
+      "question": "Mit telepít az Mt. 171. § a hozzátartozó kárára és a tartást pótló kártérítésre?",
+      "options": [
+        {
+          "text": "A tartást pótló kártérítés csak egyösszegű lehet; járadékként nem állapítható meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 173. § (1) bekezdése szerint rendszerint járadékot kell megállapítani, ha a kártérítés a tartást vagy annak kiegészítését szolgálja. A 171. § (2) bekezdése szerinti igény tipikusan e körbe esik. A Ptk. 6:529. § a tartást pótló járadék Ptk.-beli párja."
+        },
+        {
+          "text": "A hozzátartozó kára csak akkor térítendő, ha a munkáltató felróhatóan okozta a munkavállaló halálát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 171. § a 166. § szerinti objektív helytállás keretében a hozzátartozóra is kiterjed. Felróhatósági feltétel nincs az (1) bekezdésben. A tartást pótló igény a (2) bekezdés szerint a halál esetén jár, a munkaviszonnyal összefüggő károkozás alapján."
+        },
+        {
+          "text": "A munkáltató köteles megtéríteni a munkavállaló hozzátartozójának a károkozással összefüggésben felmerült kárát is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 171. § (1) bekezdése a hozzátartozó kárát is a munkáltatóra telepíti, ha az a károkozással összefügg. A felelősség nem áll meg a munkavállaló saját káránál. A 173. § a tartást szolgáló igényt rendszerint járadékként rendeli megállapítani."
+        },
+        {
+          "text": "Az eltartott hozzátartozó a munkavállaló halála esetén tartást pótló kártérítést is igényelhet a sérelem előtti szükségleti színvonalon.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 171. § (2) bekezdése az eltartottnak tartást pótló kártérítést ad a munkavállaló halála esetén. A szükséglet sérelem előtti színvonalon tartása a cél. A tényleges vagy elvárhatóan elérhető munkabér és jövedelem is figyelembe veendő; a Ptk. 6:529. § a 177. §-on keresztül a párja."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "798722ace131"
+    },
+    {
+      "question": "Mit kell levonni a kártérítés összegéből az Mt. 172. § (1) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Az elvárhatóan megkereshető összeg csak akkor vonható le, ha a munkavállaló szándékosan mulasztotta el a kárenyhítést a 167. § (2) bekezdése szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 172. § (1) bekezdés b) pontja önálló levonási cím a megkeresett vagy elvárhatóan megkereshető összegre. A 167. § (2) bekezdése a kárenyhítés elmulasztásának külön címe. A két joghely párhuzamosan olvasható, de nem azonos feltételrendszer."
+        },
+        {
+          "text": "Le kell vonni a társadalombiztosítási vagy önkéntes pénztári ellátást, a megkeresett vagy elvárhatóan megkereshető összeget, a megrongálódott dolog hasznosítását és a károkozással megtakarított kiadást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 172. § (1) bekezdés a)–d) pontja e négy levonási címet sorolja. A levonás a teljes kártérítés nettósítása. Nem a 166. § jogalapját vonja el, hanem a mértéket igazítja."
+        },
+        {
+          "text": "A TB-ellátás levonása megszünteti a munkáltató 166. § szerinti felelősségét.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 172. § (1) bekezdés a) pontja a mértéket csökkenti, nem a jogalapot. A 166. § objektív helytállása a levonás után is fennmarad a fennmaradó kárra. A levonás nettósítás, nem a 166. § (2) bekezdés szerinti mentesülés."
+        },
+        {
+          "text": "A kártérítés alapjául szolgáló jövedelmet a jogosultat terhelő társadalombiztosítási járulékkal csökkentett összegben kell figyelembe venni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 172. § (2) bekezdése a jövedelmet a TB-járulékkal csökkentve viszi a számításba. A nettósítás a jövedelemszámítás kötelező része. Az (1) bekezdés a)–d) pontjának levonásai mellett e szabály a számítási alapot is igazítja."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "807e285ef0d0"
+    },
+    {
+      "question": "Mikor kell járadékot és általános kártérítést megállapítani az Mt. 173. § szerint?",
+      "options": [
+        {
+          "text": "Ha a kár vagy egy része pontosan nem számítható ki, a munkáltató általános kártérítés megfizetésére köteles; az általános kártérítés járadékként is megállapítható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 173. § (2) bekezdése az általános kártérítést a pontosan nem kiszámítható kárnál kötelezővé teszi. Az összegnek a teljes anyagi kárpótlásra alkalmasnak kell lennie. A Ptk. 6:531. § az általános kártérítés Ptk.-beli megfelelője; ez nem méltányossági csökkentés."
+        },
+        {
+          "text": "Tartást szolgáló igény esetén a járadék tilos; csak egyösszegű kártérítés állapítható meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 173. § (1) bekezdése szerint rendszerint járadékot kell megállapítani a tartást vagy annak kiegészítését szolgáló igénynél. A járadék a főszabály e körben, nem tilalom. A Ptk. 6:527. § (1) bekezdése a pénzbeli megtérítést főszabályként adja."
+        },
+        {
+          "text": "Az általános kártérítés a 167. § (3) bekezdése szerinti méltányossági mentesítés másik neve.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az általános kártérítés a bizonyíthatatlan mérték pótlása az Mt. 173. § (2) bekezdése szerint. A 167. § (3) bekezdése a rendkívüli méltányossági, részbeni mentesítés. A két cím elválik: pótlás versus csökkentés."
+        },
+        {
+          "text": "Kártérítésként járadékot is meg lehet állapítani; rendszerint járadékot kell megállapítani, ha a kártérítés a tartást vagy annak kiegészítését szolgálja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 173. § (1) bekezdése a járadékot megengedi, és a tartást szolgáló igényt rendszerint járadékként rendeli. A munkavállaló vagy a tartásra jogosult hozzátartozó tartása a tipikus eset. A Ptk. 6:527. § (2) bekezdése a jövőben rendszeres kárra előre fizetendő járadékot enged."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "7e4791110bb7"
+    },
+    {
+      "question": "Ki kérheti a kártérítés módosítását az Mt. 174. § (1) bekezdése szerint, és mi a fiatal munkavállaló járadékának kötelező felülvizsgálata?",
+      "options": [
+        {
+          "text": "A módosítást csak a károsult kérheti; a munkáltató és a biztosító nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 174. § (1) bekezdése a károsultat, a munkáltatót és a felelősségbiztosítás alapján a biztosítót is megnevezi. Mindhárom alany jogosult a módosítás kérésére. A lényeges változás a közös feltétel a kártérítés megállapítása után."
+        },
+        {
+          "text": "A károsult, a munkáltató vagy a felelősségbiztosító a körülmények lényeges változása esetén a megállapított kártérítés módosítását kérheti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 174. § (1) bekezdése e három alanyt jogosítja a módosítás kérésére. A feltétel a kártérítés megállapítása utáni lényeges változás. A Ptk. 6:530. § a járadék megváltoztatását vagy megszüntetését ugyanezen lényeges változáshoz köti."
+        },
+        {
+          "text": "A fiatal munkavállaló járadékát a tizennyolcadik életév vagy a szakképzettségi tanulmányok végét követő egy év elteltével kötelezően felül kell vizsgálni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 174. § (2) bekezdése e kötelező felülvizsgálatot rendeli. Az azt követő időre a kártérítést a munkaképességben vagy a képzettségben bekövetkezett változásnak megfelelően kell megállapítani. Ez a 174. § (1) bekezdés szerinti változás egyik törvényi esete."
+        },
+        {
+          "text": "A fiatal munkavállaló járadékának felülvizsgálata csak a károsult kérelmére történik, kötelező hivatalból nincs.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 174. § (2) bekezdése szerint a felülvizsgálatot el kell végezni a megjelölt időpontokban. Ez kötelező törvényi előírás, nem pusztán kérelemhez kötött lehetőség. Az (1) bekezdés általános módosítási joga ettől elválik."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "a691a7e85dbd"
+    },
+    {
+      "question": "Mi a munkabérváltozás mércéje a kártérítés módosításánál az Mt. 174. § (3)–(4) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Ha a szervezeti egység megszűnik, a kártérítés módosítása többé nem kérhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 174. § (4) bekezdése éppen a megszűnés esetére ad pótlólagos mércét. A módosítás lehetősége a megszűnés után is fennmarad. A 174. § (1) bekezdése szerinti lényeges változás továbbra is alap lehet a károsult, a munkáltató vagy a biztosító kérelmére."
+        },
+        {
+          "text": "A szervezeti egység megszűnésekor előbb a munkáltatói azonos munkakör, majd a munkáltatói átlag az irányadó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 174. § (4) bekezdése a (3) bekezdés szerinti egység megszűnésekor a munkáltatónál a károsulttal azonos munkakört betöltőkre lép. Ilyenek hiányában a munkáltatói átlagos éves munkabér-változás az irányadó. A 176. § (2) bekezdése a munkáltatót tizenöt napon belüli értesítésre kötelezi a módosításra alapul szolgáló bérváltozásról."
+        },
+        {
+          "text": "A módosítás alapja mindig az országos átlagkereset-változás, a szervezeti egységtől függetlenül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 174. § (3)–(4) bekezdése a sérelemkori szervezeti egység, majd a munkáltatói kör átlagát rendeli. Országos átlagkereset-változás nem a törvényi mérce. A konkrét munkáltatói bérpálya a módosítás kulcsa."
+        },
+        {
+          "text": "A mérce a sérelemkori szervezeti egység azonos munkakörű dolgozóinak tényleges átlagos éves munkabérváltozása; hiányukban az egység átlaga.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 174. § (3) bekezdése a károsultat a sérelemkor foglalkoztató szervezeti egység azonos munkakörű dolgozóinak tényleges átlagos éves változását teszi irányadóvá. Azonos munkakör hiányában a szervezeti egység átlagos éves munkabérváltozása a mérce. Az MK 112. számú állásfoglalás gyakorlatát a törvény rögzíti."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "ac7be02cd5f0"
+    },
+    {
+      "question": "Hogyan rendezi az Mt. 175. § az elévülés önállóságát és a kezdőnapokat?",
+      "options": [
+        {
+          "text": "Az elévülés szempontjából önállónak kell tekinteni az elmaradt jövedelem és a táppénz, a csökkent kereset, valamint a rokkantsági vagy rehabilitációs ellátás különbözetének igényét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 175. § (1) bekezdés a)–c) pontja e három önálló igényt nevezi meg. Az elmaradt jövedelem és a táppénz, a csökkent kereset, illetve a rokkantsági/rehabilitációs ellátás különbözete külön fut. Az MK 112. számú állásfoglalás gyakorlatát a törvény rögzíti."
+        },
+        {
+          "text": "Több, eltérő időpontban esedékes elkülönülő kárigény elévülését egymástól függetlenül, az esedékességtől kell számítani; a kezdőnap a táppénz első fizetéséhez, az első jövedelemkieséshez vagy az ellátás folyósításához kötődik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 175. § (2) bekezdése az elkülönülő igények független elévülését rendeli. A (3) bekezdés a kezdőnapot a táppénz első fizetéséhez, az első jövedelemkieséshez, illetve az ellátás folyósításához köti. Az MK 93. számú állásfoglalás ugyanezt a függetlenséget mondta ki."
+        },
+        {
+          "text": "A később keletkező járadékigényt a korábbi igény elévülése magával rántja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 175. § (2) bekezdése szerint a később keletkező követelést a korábbi elévülése nem érinti. Az MK 93. számú állásfoglalás ugyanezt mondja. Az elévülési időket az egyes igények esedékességétől külön-külön kell számítani."
+        },
+        {
+          "text": "Az összes munkáltatói kárigény elévülése egyetlen kezdőnaptól, a károsodás bekövetkeztétől fut egységesen.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 175. § (1)–(2) bekezdése az igények önállóságát és a külön-külön számított elévülést rendeli. A Ptk. 6:532. § szerinti nyombani esedékesség nem azonos az elévülés kezdőnapjával. A 175. § (3) bekezdése a táppénz, az első jövedelemkiesés és az ellátás folyósítása szerint bontja a kezdőnapot."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "7f951d97da7e"
+    },
+    {
+      "question": "Mit rendel az Mt. 176. § a jövedelemigazolásról és a bérváltozás értesítéséről?",
+      "options": [
+        {
+          "text": "Ha a munkáltató elmulasztja a tizenöt napos értesítést, a károsult módosítási igénye elenyészik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az értesítési mulasztás a módosítás iránti igényt nem szünteti meg. Az Mt. 176. § (2) bekezdése eljárási biztosíték, nem jogvesztő határidő a károsultra. A 174. § (1) bekezdése szerinti módosítási jog a károsultnál, a munkáltatónál és a biztosítónál fennmarad."
+        },
+        {
+          "text": "A munkáltató és a biztosító évente igazolást kérhet a munkavállalótól vagy a hozzátartozótól a munkavégzésből származó jövedelemről.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 176. § (1) bekezdése a szükséghez képest éves igazoláskérést enged. A címzett a munkavállaló vagy a hozzátartozó. Az igazolás a jövedelmi viszonyok ellenőrzését szolgálja a kártérítés fenntartásához."
+        },
+        {
+          "text": "Az igazolás évente kötelező; a munkáltató hivatalból köteles bekérni, különben elveszíti a mentesülési jogát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 176. § (1) bekezdése a szükséghez képest enged igazolást kérni, nem kötelező éves hivatalbóli bekérést. A mentesülés a 166. § (2) bekezdésén nyugszik, nem az igazolási rendén. Az igazolás a mérték és a módosítás ellenőrzését szolgálja."
+        },
+        {
+          "text": "A munkáltató a károsultat tizenöt napon belül értesíti, ha a kártérítés módosítására alapul szolgáló munkabérváltozás történt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 176. § (2) bekezdése tizenöt napos értesítési kötelezettséget telepít. Az értesítés a 174. § (3)–(4) bekezdése szerinti átlagos éves változás érvényesítésének eljárási biztosítéka. A mulasztás a módosítás iránti igényt nem szünteti meg."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "ba2464a6371c"
+    },
+    {
+      "question": "Mit enged és mit tilt az Mt. 178. § a kollektív szerződéses eltérésnél a munkáltatói kárfelelősség fejezetében?",
+      "options": [
+        {
+          "text": "A Ptk. 6:526. § a szándékos károkozás, valamint az élet, testi épség és egészség sérelme körében a felelősséget korlátozó vagy kizáró kikötést semmissé teszi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Ptk. 6:526. § e körben a szerződéses korlátozást semmissé teszi. A 178. § a kollektív szerződéses eltérést a munkavállaló javára engedi. A munkaszerződéses kárkizárás egészségkárosodásra nem hatályosul."
+        },
+        {
+          "text": "Kollektív szerződés e fejezet rendelkezéseitől csak a munkavállaló javára térhet el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 178. § kimondja: „Kollektív szerződés e fejezet rendelkezéseitől csak a munkavállaló javára térhet el.” A munkáltató kárfelelősségének leszűkítése a munkavállaló terhére semmis. Egyedi munkaszerződés e szakasz alanya nem. A kollektív szerződés a megengedett eltérési forma a munkavállaló javára."
+        },
+        {
+          "text": "Kollektív szerződés a mentesülést tágíthatja és a kármértéket csökkentheti a munkáltató javára.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 178. § csak a munkavállaló javára enged eltérést. A mentesülés tágítása vagy a kármérték csökkentése a munkavállaló terhére semmis. A 166–167. § szerinti védelem kollektiván sem szűkíthető a munkavállaló rovására."
+        },
+        {
+          "text": "Egyedi munkaszerződéssel a fejezet a munkavállaló terhére is tágítható, ha a felek abban megállapodnak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 178. § alanya a kollektív szerződés, nem az egyedi munkaszerződés. Egyedi munkaszerződéssel a fejezet a munkavállaló terhére nem tágítható. A Ptk. 6:526. § az élet, testi épség, egészség és a szándékos károkozás körében külön is semmissé teszi a korlátozást."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "87e061d11fdd"
+    },
+    {
+      "question": "Mit rögzít az 1/2018. (VI. 25.) KMK vélemény a munkaviszonnyal összefüggésről és a természetes kórok hányadáról?",
+      "options": [
+        {
+          "text": "Összefüggés hiányában is vizsgálni kell az okozatosságot a Ptk. 6:521. § szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, összefüggés hiányában az okozatosság vizsgálata szükségtelen az 1/2018. (VI. 25.) KMK vélemény szerint. A Ptk. 6:521. § előreláthatósági okozatossága a munkáltatói okozatossághoz nem alkalmazható. Okozatosság hiányában felelősség nincs, de ezt az Mt. 166. § (1) bekezdése és a bizonyítási rend adja."
+        },
+        {
+          "text": "A félszemére vak, de munkakörét ellátó munkavállaló a másik szem elvesztése miatti kárnál csak az orvosszakértői hányadot igényelheti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az 1/2018. (VI. 25.) KMK vélemény szerint a teljes kár igényelhető. Nem az ép látású egy szemének orvosszakértői hányada a mérce. Az egyenlő bánásmód tilalma miatt a jogalap a fogyatékosságtól függetlenül állapítandó meg az Mt. 166. § (1) bekezdése szerint."
+        },
+        {
+          "text": "A munkaviszonnyal összefüggés a jogviszony és a kár kapcsolata; írásba foglalt munkaszerződés nélkül is megállapítható, ha a körülmények a jogviszonyra utalnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az 1/2018. (VI. 25.) KMK vélemény szerint az összefüggés a jogviszony és a kár kapcsolata. Írásba foglalt szerződés hiányában is megállapítható, ha a körülmények a jogviszonyra utalnak. Az Mt. 166. § (1) bekezdése e kapcsolat meglétét kívánja a jogalaphoz."
+        },
+        {
+          "text": "Ha a kárt részben munkaviszonnyal összefüggő, részben természetes kórokú betegség okozza, a jogalapról szóló döntés az okok aránya szerint határozza meg a kárviselés hányadát; ez nem részleges összefüggés.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az 1/2018. (VI. 25.) KMK vélemény szerint a természetes kórok és a munkahelyi eredet aránya a teljes kár helyett a hányadra megy. Részleges munkaviszony-összefüggés fogalmilag nincs az Mt. 166. § (1) bekezdése szerint. A kereset vagy áll, vagy elutasítandó; az arány a mértéknél érvényesül."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "9ad007dd37fd"
+    },
+    {
+      "question": "Mikor mentesül a munkáltató az ellenőrzési körön belüli kár alól az 1/2018. KMK vélemény és a 166. § (2) bekezdés szerint?",
+      "options": [
+        {
+          "text": "A károsult elháríthatatlan magatartása vétkességre tekintet nélkül megállapítható, de ha a kár nem kizárólag erre vezethető vissza, mentesülés nincs.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a vétkesség nem feltétele a b) pontbeli elháríthatatlanságnak. A kizárólagosság hiányában a munkáltató e címen nem mentesül. A közrehatás a 167. § (2) bekezdése szerinti kármegosztásnál értékelhető."
+        },
+        {
+          "text": "Az ellenőrzési körön belüli kárnál is elég az a) pont két feltétele: a nem kellett számolni és az el nem háríthatóság.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 166. § (2) bekezdés a) pontjának első feltétele, hogy a körülmény az ellenőrzési körön kívül essék. Belüli kárnál az a) pont nem alkalmazható. Csak a b) pont szerinti kizárólagos károsulti magatartás mentesíthet az 1/2018. (VI. 25.) KMK vélemény II. szakasza szerint is."
+        },
+        {
+          "text": "Az ellenőrzési körön belüli kár alól a munkáltató csak akkor mentesül, ha a kárt kizárólag a károsult elháríthatatlan magatartása okozta.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az 1/2018. (VI. 25.) KMK vélemény II. szakasza szerint a belüli kárnál csak a 166. § (2) bekezdés b) pontja jöhet szóba. Az a) pont háromtagú feltétele a kívül eső körülményt kívánja. A kizárólagosság a b) pont nélkülözhetetlen eleme."
+        },
+        {
+          "text": "A „nem kellett számolnia” feltétel a felróhatóság hiányával azonos, ezért a Ptk. 6:519. § szerinti mentesülést ad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a „nem kellett számolnia” az észszerű gondosság: számolhatott-e a károkozó körülmény valószínű bekövetkezésével. Ez az Mt. 166. § (2) bekezdés a) pontjának eleme, nem a Ptk. 6:519. § felróhatósági mentesülése. A három a) feltétel együttes; bármelyik hiánya az a) címet elveti."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "907479302a97"
+    },
+    {
+      "question": "Mit mond az MK 112. számú állásfoglalás a járadék elévülésének kezdőnapjáról és a relatív keresetveszteségről?",
+      "options": [
+        {
+          "text": "Keresetveszteség az is, ha a jövedelem nem kevesebb a sérelem előttinél, de nem éri el azt, amit a korábbi munkakörben a későbbi bérfejlesztések után megkeresne.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az MK 112. szerint a kár fogalma nem szűkül a nominális kereset alá csökkenésre. A relatív veszteség a megállapított járadék felemelésével érvényesíthető. A mérce a munkáltatónál megvalósult átlagos éves bérfejlesztés; a 174. § (3)–(4) bekezdése ezt törvényesíti."
+        },
+        {
+          "text": "Az áthelyezett munkavállalónál a viszonyítási alap a baleseti ellátás összege, nem a sérelem előtti átlagkereset.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az MK 112. számú állásfoglalás szerint az áthelyezettnél a viszonyítási alap a sérelem előtti átlagkereset, a baleseti ellátással együtt. Nem az ellátás önmagában adja a mércét a különbözet számításához. Az Mt. 175. § az elévülés kezdőnapját ehhez a szerkezethez igazítja a táppénz, a jövedelemkiesés és az ellátás szerint."
+        },
+        {
+          "text": "Ha nominális veszteség soha nem volt, járadék e címen később sem érvényesíthető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az MK 112. szerint a későbbi relatív veszteség akkor is járadékként érvényesíthető. A korábbi munkakör azonos munkakörű dolgozóinak tényleges átlagos éves bérfejlesztése a mérce. A 174. § (3) bekezdése e gyakorlatot viszi a törvénybe."
+        },
+        {
+          "text": "A csökkent kereset különbözetének elévülése akkor indul, amikor a munkaképesség-csökkenés első ízben okozott keresetkiesésben mutatkozó kárt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az MK 112. számú állásfoglalás ezt a kezdőnapot rögzíti. A hatályos Mt. 175. § (3) bekezdés b) pontja ugyanezt viszi a törvénybe. Az önálló igények az átlagkereset és a táppénz, a csökkent kereset, illetve a rokkantsági ellátás különbözete."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "9ec14a34c466"
+    },
+    {
+      "question": "Mit mond az MK 93. számú állásfoglalás az elkülönülő járadékigények elévüléséről és az okozatosság későbbi felismeréséről?",
+      "options": [
+        {
+          "text": "Ha a keresetveszteséget természetes eredetűnek minősítették, utóbb azonban orvosilag a munkaviszonnyal összefüggő okra vezethető vissza, a későbbi megállapításig az elévülés nyugszik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az MK 93. szerint a károsodás és az okozati összefüggés későbbi megállapítása közötti idő az elévülés nyugvása. A jogosult menthető okból nem érvényesített. Az okozati kapcsolat megállapítását követő hat hónapon belül az igény akkor is érvényesíthető, ha az elévülési idő már eltelt, vagy abból hat hónapnál kevesebb van hátra; e hat hónapos érvényesítési szabály az MK 93. állásfoglalás része, nem az Mt. 175. § szövegének törvényi emelése."
+        },
+        {
+          "text": "A korábbi táppénzes igény elévülése a későbbi csökkent kereseti járadékot is elévíti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az MK 93. és az Mt. 175. § (2) bekezdése szerint az elkülönülő igények elévülése független. A későbbi követelést a korábbi elévülése nem érinti. Példa: munkába állás után ugyanabból a balesetből ismételt táppénzes állomány."
+        },
+        {
+          "text": "Ha az új munkakörnél nincs keresetveszteség, és az igényt ezért nem érvényesítik, a későbbi számottevő kár sem indíthat új elévülést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az MK 93. szerint ha az új munkakörnél nincs vagy jelentéktelen a keresetveszteség, a későbbi számottevő kár időpontjától fut az elévülés. Az első jelentéktelen szakasz nem zárja le a későbbi igényt. A 175. § (3) bekezdés b) pontja az első jövedelemkieséshez köti a kezdőnapot."
+        },
+        {
+          "text": "Ha több, eltérő időben esedékes elkülönülő járadékigény származik, elévülési idejüket egymástól függetlenül, az esedékességtől kell számítani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az MK 93. számú állásfoglalás ezt a függetlenséget mondja ki. A később keletkező követelést a korábbi elévülése nem érinti. Az Mt. 175. § (2) bekezdése e mondatot törvényi szabállyá emeli."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "b4f464bc69a7"
+    },
+    {
+      "question": "Mi a Ptk. 6:518. § és a 6:520. § szerepe a 177. § utaló körében a munkáltatói felelősséghez képest?",
+      "options": [
+        {
+          "text": "A 6:518. § a jogellenes károkozást tiltja; a tilalom a 177. §-on keresztül a munkaviszonyban okozott kár megtérítésének háttérnormája.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Ptk. 6:518. § a károkozás általános tilalmát mondja ki. A munkáltatói jogalap ettől függetlenül az Mt. 166. § objektív helytállása. A tilalom nem felróhatósági felelősséget, hanem a károkozás jogellenességének kiindulópontját adja a 177. § utaló körében."
+        },
+        {
+          "text": "A 6:520. § d) pontja szerinti jogszabályi megengedettség mindig megszünteti a munkáltató 166. § szerinti helytállását.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a d) pont szerinti kártalanítás a 166. § objektív helytállását nem szünteti meg, ha a kár a munkaviszonnyal összefügg. A jogellenesség alóli kivétel ritkán, de előfordulhat. A munkáltatói felelősség alapja ettől elválik."
+        },
+        {
+          "text": "A 6:520. § minden károkozást jogellenesnek minősít négy kivétellel; a munkáltatói utasítás és a veszélyes munkafolyamat nem beleegyezés a kárba.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Ptk. 6:520. § a) –d) pontja a kivételeket sorolja. A munkáltatói utasítás nem „beleegyezés a kárba”. A d) pont szerinti kártalanítás a 166. § objektív helytállását nem szünteti meg, ha a kár a munkaviszonnyal összefügg."
+        },
+        {
+          "text": "A 6:518. § felróhatósági felelősséget vezet be a munkáltatóra a 166. § helyett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Ptk. 6:518. § a jogellenes károkozás tilalma, nem a felróhatósági jogalap. A felróhatósági általános szabály a Ptk. 6:519. §, de azt a 177. § nem húzza a munkáltatói jogalapra. A jogalap az Mt. 166. § szerinti objektív helytállás marad a munkaviszonnyal összefüggő kárnál."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "516c6662fb0f"
+    },
+    {
+      "question": "Mi a Ptk. 6:587. § utaló magatartás viszonya a 166–167. § objektív helytállásához?",
+      "options": [
+        {
+          "text": "A 6:587. § a 177. § utaló szabályán keresztül felülírja a 166. § jogalapját.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Ptk. 6:587. § nincs az Mt. 177. § utaló körében. Nem írja felül az Mt. 166. § szerinti objektív helytállást a munkaviszonnyal összefüggő kárnál. Önálló, szándékos indításon, jóhiszeműségen, alapos okon és önhiba hiányán nyugvó cím marad."
+        },
+        {
+          "text": "A 6:587. § nem a 177. § utaló körének része; önálló tényállás a szándékos indítás, a jóhiszeműség, az alapos ok és az önhiba hiányának együttesén.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Ptk. 6:587. § az utaló körön kívül, önálló tényállásként marad meg. A 177. § a Ptk. 6:518–534. §-t hívja, nem a 6:587. §-t. A bíróság a kár egészben vagy részben való megtérítésére kötelezheti a szándékosan indító személyt."
+        },
+        {
+          "text": "Munkáltatói tájékoztatás, utasítás vagy ígéret e tényállás alá eshet, ha a 166. § szerinti kárfelelősség valamely eleme hiányzik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az utaló magatartás a 166–167. § objektív helytállását nem helyettesíti. Akkor jöhet szóba, ha a 166. § szerinti felelősség valamely eleme hiányzik. A kulcs a szándékos indítás, nem a 167. § (3) bekezdése szerinti méltányosság."
+        },
+        {
+          "text": "Az utaló magatartás azonos a 166. § (2) bekezdés b) pontjával: a károsult magatartása mentesíti a munkáltatót.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 166. § (2) bekezdés b) pontja a károsult kizárólagos elháríthatatlan magatartásával mentesít. A Ptk. 6:587. § fordítva: a szándékosan indító személyt kötelezheti megtérítésre. A két jogintézmény iránya és feltételei ellentétesek."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "26de4e15d849"
+    }
+  ]
+}

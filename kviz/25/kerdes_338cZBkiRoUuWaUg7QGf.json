@@ -1,0 +1,1251 @@
+{
+  "id": "338cZBkiRoUuWaUg7QGf",
+  "sorszam": 25,
+  "cim": "A betegszabadság, a szülési szabadság és a fizetés nélküli szabadság, a (...)",
+  "generationType": "kerdes",
+  "title": "25. A betegszabadság, a szülési szabadság és a fizetés nélküli szabadság, a (...)",
+  "questions": [
+    {
+      "question": "Egy munkavállaló január 8-án saját betegsége miatt keresőképtelenné válik; a keresőképtelenség orvosilag igazolt, és nem üzemi baleset, nem foglalkozási betegség, nem veszélyeztetett várandósság. A munkaviszony az év elejétől fennáll. Mely megállapítások állják meg a helyüket a betegszabadság és a táppénz viszonyáról?",
+      "options": [
+        {
+          "text": "A keresőképtelenség első napjától az Ebtv. 43. § szerinti táppénz jár, mert a betegszabadság csak akkor nyílik, ha a biztosító a táppénzt megtagadja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a sorrend fordított: előbb a betegszabadság, utána a táppénz. A helyes: az Mt. 126. § (1) bekezdése a betegség miatti keresőképtelenség tartamára naptári évenként tizenöt munkanap betegszabadságot ad ki; a táppénz az Ebtv. 43. § szerint a biztosítás és a járulékfeltétel mellett a tizenöt munkanap utáni szakaszra érvényesül. A tévedés a munkáltatói betegszabadság és a társadalombiztosítási táppénz sorrendjének felcseréléséből ered."
+        },
+        {
+          "text": "A munkáltató naptári évenként tizenöt munkanap betegszabadságot ad ki a betegség miatti keresőképtelenség tartamára, és e tartamra a munkavállaló a távolléti díj hetven százalékára jogosult.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a betegszabadság munkáltatói teher, nem táppénzelőleg. Az Mt. 126. § (1) bekezdése szerint a munkáltató „a betegség miatti keresőképtelenség tartamára naptári évenként tizenöt munkanap betegszabadságot ad ki”. A 146. § (3) bekezdése e tartamra a távolléti díj hetven százalékát adja. A tizenöt munkanap kimerülte után lép elő a társadalombiztosítási táppénz."
+        },
+        {
+          "text": "A tizenöt munkanap betegszabadság a munkáltató belátása szerint meghosszabbítható további tizenöt nappal, és ez a hosszabbítás a táppénz helyébe lép.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tizenöt munkanap törvényi mérték, nem munkáltatói hosszabbítási keret. A helyes: az Mt. 126. § (1) bekezdése naptári évenként tizenöt munkanapot ad; a tovább fennálló keresőképtelenségre az Ebtv. 43. § szerinti táppénz a TB-síkon érvényesül. A tévedés a betegszabadság mértékének és a táppénz tartamának összecsúsztatásából ered."
+        },
+        {
+          "text": "A tizenötödik munkanap után a továbbra is fennálló keresőképtelenségre az Ebtv. 43. § (1) bekezdése szerinti táppénz a biztosítás fennállása és a Tbj. szerinti járulékfizetési kötelezettség mellett nyílhat meg; a betegszabadság nem a táppénz előlege.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tizenhatodik naptól a TB-sík érvényesül. Az Ebtv. 43. § (1) bekezdése táppénzre azt jogosítja, aki a biztosítás fennállása alatt keresőképtelenné válik, és a Tbj.-ben meghatározott mértékű társadalombiztosítási járulék fizetésére kötelezett. A betegszabadság a munkáltató saját, tizenöt munkanapos teherátvállalása, nem a táppénz előlege. A két intézmény sorrendje és alanya tehát elválik."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "464e8dbcc7a1"
+    },
+    {
+      "question": "A munkavállaló orvosilag igazoltan keresőképtelen, a keresőképtelenség oka társadalombiztosítási szabályok szerinti üzemi baleset. Mely állítások helyesek a betegszabadság kizárásáról?",
+      "options": [
+        {
+          "text": "Üzemi balesetnél is jár a tizenöt munkanap betegszabadság, mert a 126. § (1) bekezdése minden keresőképtelenségre kiterjed, és a (2) bekezdés csak a táppénz mértékét korlátozza.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés a betegszabadság járását zárja ki, nem a táppénz mértékét. A helyes: az Mt. 126. § (2) bekezdése szerint üzemi baleset, foglalkozási betegség és veszélyeztetett várandósság miatti keresőképtelenségre nem jár betegszabadság; e címeken a TB-ellátás érvényesül. A tévedés az (1) bekezdés általános szövegének a (2) bekezdés kizárása feletti érvényesítéséből ered."
+        },
+        {
+          "text": "A 126. § (2) bekezdése ugyanezen kizárást a foglalkozási betegség és a veszélyeztetett várandósság miatti keresőképtelenségre is kiterjeszti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kizárás három című. Az Mt. 126. § (2) bekezdése az üzemi baleset mellett a foglalkozási betegséget és a veszélyeztetett várandósságot is kiveszi a betegszabadság alól. A saját betegség miatti keresőképtelenségre az (1) bekezdés tizenöt munkanapja marad. A keresőképtelenség Ebtv. 44. § szerinti minősítése önmagában nem nyit betegszabadságot e kizárt címeken."
+        },
+        {
+          "text": "Üzemi balesetnél a betegszabadság a távolléti díj száz százalékával jár, mert a 146. § (3) bekezdése hetven százaléka csak a saját betegségre vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, üzemi balesetnél betegszabadság egyáltalán nem jár, így a hetven százalékos díj sem. A helyes: az Mt. 126. § (2) bekezdése az üzemi balesetet kiveszi; a 146. § (3) bekezdése a betegszabadság tartamára adja a távolléti díj hetven százalékát, ha betegszabadság egyáltalán nyílik. A tévedés a díjazási szabálynak a kizárt jogcímre való kiterjesztéséből ered."
+        },
+        {
+          "text": "Üzemi baleset miatti keresőképtelenség tartamára az Mt. 126. § (2) bekezdése szerint nem jár betegszabadság.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az üzemi baleset kiveszi a betegszabadságot. Az Mt. 126. § (2) bekezdése szerint „nem jár betegszabadság a társadalombiztosítási szabályok szerinti üzemi baleset és foglalkozási betegség miatti keresőképtelenség, valamint a veszélyeztetett várandósság miatti keresőképtelenség tartamára”. E címeken a társadalombiztosítási baleseti ellátás érvényesül. A 126. § (1) bekezdés tizenöt munkanapos főszabálya tehát e címre nem nyílik."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "310f50f89d19"
+    },
+    {
+      "question": "Az anya munkavállaló szülési szabadságot kér; a felek és a kollektív szerződés a huszonnégy hetes tartamot tizennyolc hétre rövidítenék. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A kollektív szerződés a 135. § (2) bekezdés r) pontja alapján a szülési szabadságot a munkavállaló terhére tizennyolc hétre csökkentheti, mert a 128–133. § blokkja a szülési szabadságot is lefedi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szülési szabadság nem a 128–133. § fizetés nélküli blokkja. A helyes: az Mt. 127. § (1) bekezdése huszonnégy hetet ad; a 135. § (1) bekezdés g) pontja e tartamtól eltérést nem enged; a (2) bekezdés r) pontja a 128–133. §-tól csak a munkavállaló javára enged kollektív eltérést. A tévedés a szülési és a fizetés nélküli szabadság eltérési rendjének összecsúsztatásából ered."
+        },
+        {
+          "text": "Az anya egybefüggő huszonnégy hét szülési szabadságra jogosult, és ebből két hetet köteles igénybe venni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a huszonnégy hét és a két hetes kötelező mag kógens. Az Mt. 127. § (1) bekezdése szerint „az anya egybefüggő 24 hét szülési szabadságra jogosult azzal, hogy ebből két hetet köteles igénybe venni”. A 135. § (1) bekezdés g) pontja a 127. § (1), (2) és (4) bekezdésétől a felek megállapodásának és a kollektív szerződésnek eltérést nem enged. A tartam tehát nem olvasható be a fizetés nélküli szabadságba."
+        },
+        {
+          "text": "A két hét kötelező igénybevétele elhagyható, ha a munkavállaló írásban lemond róla, mert a 127. § (1) bekezdése csak ajánlás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két hét kötelező, nem elhagyható. A helyes: az Mt. 127. § (1) bekezdése szerint a huszonnégy hétből két hetet köteles igénybe venni a munkavállaló. A 135. § (1) bekezdés g) pontja e rendelkezéstől a felek megállapodásának és a kollektív szerződésnek eltérést nem enged. A tévedés a kógens minimum diszpozitív ajánlásként való olvasásából ered."
+        },
+        {
+          "text": "A huszonnégy hét és a két hét kötelező igénybevétele a 135. § (1) bekezdés g) pontja szerint a felek megállapodásával és kollektív szerződéssel sem rövidíthető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, abszolút kógens mag. Az Mt. 135. § (1) bekezdés g) pontja a 127. § (1), (2) és (4) bekezdésétől eltérést nem enged. A tizennyolc hetes rövidítés tehát e címen érvénytelen. A 135. § (2) bekezdés p) pontja a 127. § (5) bekezdés munkában töltött idő minősítésétől csak a munkavállaló javára enged kollektív eltérést — ez a tartam rövidítésére nem jogosít."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "cb0cdfd7d3bd"
+    },
+    {
+      "question": "A munkavállaló súlyos egészségi okból gondozásra szoruló hozzátartozójának személyes gondozást nyújt; a gondozás előreláthatólag tíz napig tart, orvosi igazolás rendelkezésre áll. Mely állítások helyesek a mentesülés és a tartós ápolási fizetés nélküli szabadság elhatárolásáról?",
+      "options": [
+        {
+          "text": "A tíz napos gondozásra automatikusan a 131. § szerinti kétéves fizetés nélküli szabadság nyílik, mert minden hozzátartozói ápolás tartósnak minősül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 131. § csak az előreláthatólag harminc napot meghaladó ápolásra nyílik. A helyes: az Mt. 131. § (1) bekezdése a tartós, előreláthatólag harminc napot meghaladó személyes ápolásra ad legfeljebb két évet; a rövid, súlyos egészségi okból indokolt gondozásra az 55. § (1) bekezdés l) pontjának évi öt munkanapja szolgál. A tévedés a rövid mentesülés és a tartós fizetés nélküli szabadság felcseréléséből ered."
+        },
+        {
+          "text": "A tartós — előreláthatólag harminc napot meghaladó — személyes ápolásra az Mt. 131. § (1) bekezdése az ápolás idejére, de legfeljebb két évre fizetés nélküli szabadságot ad; a tíz napos előrelátható tartam e küszöb alá esik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a harminc nap a tartós ápolás küszöbe. Az Mt. 131. § (1) bekezdése a hozzátartozó tartós, előreláthatólag harminc napot meghaladó személyes ápolása céljából, az ápolás idejére, de legfeljebb két évre ad fizetés nélküli szabadságot. A (2) bekezdés a tartós ápolást és annak indokoltságát az ápolásra szoruló személy kezelőorvosának igazolásához köti. A tíz napos előrelátható tartam a 131. §-t nem nyitja; a rövid gondozásra az 55. § (1) bekezdés l) pontjának évi öt munkanapja irányadó."
+        },
+        {
+          "text": "Az Mt. 55. § (1) bekezdés l) pontja évente legfeljebb öt munkanap mentesülést ad a súlyos egészségi okból gondozásra szoruló hozzátartozó vagy a közös háztartásban élő személy személyes gondozása céljából.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az öt munkanap rövid gondozói mentesülés. Az Mt. 55. § (1) bekezdés l) pontja e címen évente legfeljebb öt munkanapot nyit; a (3) bekezdés szerint a mentesülést a jogosult kérésének megfelelő időpontban, legfeljebb két részletben kell biztosítani, és a kezelőorvos igazolja a súlyos egészségi okot és a gondozás indokoltságát. Ez nem szabadságkiadás, hanem munkavégzés alóli mentesülés."
+        },
+        {
+          "text": "Az 55. § (1) bekezdés l) pontja szerinti öt munkanap a munkáltató egyoldalú belátása szerint tagadható meg, mert a mentesülés nem alanyi jog.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mentesülés a törvényi feltételek mellett jár, és a kiadás a jogosult kéréséhez igazodik. A helyes: az Mt. 55. § (1) bekezdés l) pontja évente legfeljebb öt munkanapot ad; a (3) bekezdés szerint a mentesülést a jogosult kérésének megfelelő időpontban, legfeljebb két részletben kell biztosítani, orvosi igazolás mellett. A tévedés a mentesülésnek a munkáltatói méltányossággá gyengítéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "599a879cd144"
+    },
+    {
+      "question": "A szoptató anya ikergyermekeket nevel; a szoptatás negyedik hónapjában van. Milyen tartamban mentesül a munkavégzés alól e címén?",
+      "options": [
+        {
+          "text": "Ikergyermekeknél az első hat hónapban naponta kétszer egy óra jár, mert az ikerszorzó csak a kilencedik hónap végéig érvényesül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az ikerszorzó már az első hat hónapban kétszer két óra. A helyes: az Mt. 55. § (1) bekezdés e) pontja az első hat hónapban ikergyermekek esetén kétszer két órát, a kilencedik hónap végéig naponta két órát ad. A tévedés a nem iker „kétszer egy” mértéknek az ikerágra való átviteléből ered."
+        },
+        {
+          "text": "A szoptatási óra helyett a munkavállaló a 128. § szerinti fizetés nélküli szabadságot köteles igénybe venni, ha a gyermek háromévesnél fiatalabb.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szoptatási mentesülés és a fizetés nélküli szabadság elválik. A helyes: az Mt. 55. § (1) bekezdés e) pontja a napi óraszámú mentesülést adja; a 128. § (1) bekezdése a gyermek gondozása céljából a harmadik életévig fizetés nélküli szabadságot nyit. A tévedés a munkaidő-kedvezmény és a fizetés nélküli szabadság összecsúsztatásából ered."
+        },
+        {
+          "text": "Az Mt. 55. § (1) bekezdés e) pontja szerint a szoptatás első hat hónapjában ikergyermekek esetén naponta kétszer két órára mentesül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az ikerág az első hat hónapban kétszer két órát ad. Az Mt. 55. § (1) bekezdés e) pontja szerint a szoptató anya „a szoptatás első hat hónapjában naponta kétszer egy, ikergyermekek esetén kétszer két órára” mentesül. A negyedik hónap még az első hat hónapos sávban van. Ez munkaidő-kedvezmény, nem szabadságkiadás."
+        },
+        {
+          "text": "A kilencedik hónap végéig az ikergyermekek után a napi mentesülés naponta két órára csökken, ha a szoptatás addig tart.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a második sáv szűkebb. Az Mt. 55. § (1) bekezdés e) pontja a kilencedik hónap végéig naponta egy, ikergyermekek esetén naponta két órát rendel. Az első hat hónapos kétszer két órás mérték tehát a hatodik hónap után nem marad fenn. A nem iker ágon a második sáv naponta egy óra."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "b43bee972e8c"
+    },
+    {
+      "question": "Az örökbefogadást elősegítő szervezet igazolást állít ki a személyes találkozáshoz. A munkavállaló a kiállítástól számított századik napon kéri a mentesítést, és csak két munkanappal korábban tájékoztatja a munkáltatót. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A kilencven nap a munkáltató szervezési padlója: a mentesítést legkorábban a kiállítástól számított kilencvenedik napon kell kiadni, ezért a századik nap szabályos.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kilencven nap felső felhasználási határ, nem a kiadás késleltetése. A helyes: az Mt. 55. § (2) bekezdése a mentesítést a kiállítástól számított kilencven napon belül rendeli. A 133. § (2) bekezdés szerinti harmincadik napi megszűnési padló a fizetés nélküli szabadságra szól, nem az örökbefogadási mentesítésre. A tévedés a megszüntetési padló ráírása a (2) bekezdés ablakára."
+        },
+        {
+          "text": "Az Mt. 55. § (2) bekezdése szerint a mentesítést az igazolás kiállításától számított kilencven napon belül kell biztosítani; a századik napi időpont ezen az ablakon kívül esik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kilencven nap a felhasználási ablak felső határa. Az Mt. 55. § (2) bekezdése a j) pontnál a mentesítést a kérésnek megfelelő időpontban, az örökbefogadást elősegítő szervezet igazolása alapján, a kiállításától számított kilencven napon belül rendeli. A századik nap e határidőn kívül van. Az (1) bekezdés j) pont szerinti évi tíz munkanapos keret az ablakon kívül nem érvényesíthető. A 124. § megfelelő alkalmazását a (4) bekezdés e címnél is rendeli."
+        },
+        {
+          "text": "Az igénybevételről a munkavállaló legalább öt munkanappal korábban köteles tájékoztatni a munkáltatót; a két munkanapos előzetes tájékoztatás nem felel meg e szabálynak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az öt munkanapos előzetes tájékoztatás kötelező. Az Mt. 55. § (2) bekezdése második mondata szerint az igénybevételről a munkavállaló legalább öt munkanappal korábban tájékoztatja a munkáltatót. A két munkanapos előzetes közlés e mércének nem felel meg. A tájékoztatás a kilencven napos ablak mellett önálló eljárási elem."
+        },
+        {
+          "text": "Az öt munkanapos előzetes tájékoztatás csak ajánlás; a j) pont szerinti évi tíz munkanap a tájékoztatás elmulasztása mellett is jár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az öt munkanapos előzetes tájékoztatás a (2) bekezdés kötelező eleme. A helyes: az Mt. 55. § (2) bekezdése szerint az igénybevételről a munkavállaló legalább öt munkanappal korábban tájékoztatja a munkáltatót. Az (1) bekezdés j) pont tíz munkanapos kerete e tájékoztatás nélkül nem érvényesíthető szabályosan. A tévedés a tájékoztatás ajánlássá lazításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "cc7769c4b780"
+    },
+    {
+      "question": "A munkavállaló véradáson vesz részt; a munkáltató a távollétet az 55. § (1) bekezdés d) pontja szerint kezeli. Mely állítások helyesek a tartamról és a díjazásról?",
+      "options": [
+        {
+          "text": "A véradás tartamára a távolléti díj hetven százaléka jár, mert a 146. § (3) bekezdése minden 55. §-beli mentesülésre ezt a mértéket írja elő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hetven százalék csak a betegszabadságra vonatkozik. A helyes: az Mt. 146. § (3) bekezdése a betegszabadság tartamára adja a távolléti díj hetven százalékát; a véradás a 146. § (1) bekezdés b) pontja szerint teljes távolléti díjas mentesülés. A tévedés a betegszabadság-díj általánosításából ered."
+        },
+        {
+          "text": "A d) pont szerint a munkavállaló a véradáshoz szükséges, legalább négy óra időtartamra mentesül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a véradás legalább négy órás mentesülést kap. Az Mt. 55. § (1) bekezdés d) pontja „a véradáshoz szükséges, legalább négy óra időtartamra” mentesít. Ez a rendelkezésre állási és munkavégzési kötelezettség alóli mentesülés, nem betegszabadság. A keresőképtelenség a) pontja e címhez nem kell."
+        },
+        {
+          "text": "A 146. § (1) bekezdés b) pontja a d) pont szerinti mentesülés tartamára távolléti díjat rendel, mert a c)–g) pontok között a d) pont is szerepel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a véradás a díjazott mentesülési címek között van. Az Mt. 146. § (1) bekezdés b) pontja az 55. § (1) bekezdés c)–g), j) és m) pontjában meghatározott esetekben távolléti díjat ad; a d) pont e listán benne van. A keresőképtelenség a) pontja e teljes távolléti díjas listán nincs; arra a betegszabadság hetven százaléka irányadó."
+        },
+        {
+          "text": "A véradás mentesülése csak akkor jár, ha a munkavállaló orvosilag keresőképtelennek minősül az Ebtv. 44. § szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a véradás önálló mentesülési cím, nem keresőképtelenség. A helyes: az Mt. 55. § (1) bekezdés d) pontja a véradáshoz szükséges legalább négy órát adja; az Ebtv. 44. § a keresőképtelenség taxációját rendezi a TB-síkon. A tévedés az Mt. mentesülés és az Ebtv. keresőképtelenség összecsúsztatásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "54ea72e1cdf1"
+    },
+    {
+      "question": "A munkáltató a kötelezettségszegés körülményeinek kivizsgálása miatt negyvenöt napra mentesíteni kívánja a munkavállalót a rendelkezésre állás és a munkavégzés alól, és e távollétre a betegszabadság szerinti hetven százalékos távolléti díjat számolna. Mi a törvényi keret?",
+      "options": [
+        {
+          "text": "Az Mt. 55. § (5) bekezdése a vizsgálat lefolytatásához szükséges, de legfeljebb harminc napra engedi a munkáltatói mentesítést; a negyvenöt napos terv túllépi e plafont.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkáltatói mentesítés tartama legfeljebb harminc nap. Az Mt. 55. § (5) bekezdése a kötelezettségszegés körülményeinek kivizsgálásához köti a mentesítést, a vizsgálat szükséges idejére, de legfeljebb harminc napra. A negyvenöt napos tartam e plafonon kívül van. Ez nem a munkavállaló kérésére nyíló l) pont."
+        },
+        {
+          "text": "A munkáltató a kivizsgálás idejére korlátlanul mentesíthet, mert az (5) bekezdés csak a vizsgálat indokoltságát kívánja, tartami plafon nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tartam legfeljebb harminc nap, nem korlátlan. A helyes: az Mt. 55. § (5) bekezdése szerint a munkáltató a kötelezettségszegés körülményeinek kivizsgálása miatt, a vizsgálat lefolytatásához szükséges, de legfeljebb harminc napra mentesítheti a munkavállalót. A 146. § (1) bekezdés e) pontja e mentesülés tartamára távolléti díjat biztosít. A tévedés az indokoltsági feltétel tartami plafon nélküli felhatalmazásként olvasásából ered."
+        },
+        {
+          "text": "Az (5) bekezdés szerinti mentesítés a munkavállaló éves betegszabadság-keretéből kerül elszámolásra, mert mindkettő munkavégzés alóli felmentés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kivizsgálási mentesítés nem betegszabadság. A helyes: az Mt. 55. § (5) bekezdése önálló munkáltatói mentesítési cím; a betegszabadságot a 126. § (1) bekezdése a betegség miatti keresőképtelenségre adja. A tévedés a két intézmény elszámolási keretének összecsúsztatásából ered."
+        },
+        {
+          "text": "A 146. § (1) bekezdés e) pontja az 55. § (5) bekezdése esetén teljes távolléti díjat rendel; a 146. § (3) bekezdés hetven százaléka a betegszabadságra szól, nem e címre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kivizsgálási mentesítés teljes távolléti díjas. Az Mt. 146. § (1) bekezdés e) pontja az 54. § (3) bekezdésben és az 55. § (5) bekezdésében meghatározott esetben távolléti díjat ad. A (3) bekezdés a betegszabadság tartamára a távolléti díj hetven százalékát rendezi. A hetven százalékos számítás tehát e munkáltatói mentesítésre nem irányadó."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "c05b8ff37671"
+    },
+    {
+      "question": "A munkaviszony április 1-jén kezdődik. A munkavállaló júniusban saját betegsége miatt keresőképtelen lesz; üzemi baleset nincs. Mely állítások helyesek a betegszabadság mértékéről?",
+      "options": [
+        {
+          "text": "Évközben kezdődő munkaviszony esetén a munkavállaló a betegszabadság arányos részére jogosult a 126. § (3) bekezdése szerint.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az évközi belépés arányosít. Az Mt. 126. § (3) bekezdése szerint évközben kezdődő munkaviszony esetén a munkavállaló a betegszabadság arányos részére jogosult. Az (1) bekezdés naptári évenkénti tizenöt munkanapja tehát nem jár teljes egészében áprilisi belépésnél. A (2) bekezdés kizárásai e saját betegségi tényállásban nem nyílnak."
+        },
+        {
+          "text": "A teljes tizenöt munkanap csak akkor járna, ha a munkaviszony a naptári év elejétől fennállna; az arányosítás az évközi kezdet sajátja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (1) és a (3) bekezdés együtt olvasandó. Az Mt. 126. § (1) bekezdése a teljes tizenöt munkanapot a naptári évre adja; a (3) bekezdés évközi kezdetnél arányos részt rendel. A kiadásnál a (4) bekezdés a 124. §-t rendeli alkalmazni. A táppénz Ebtv. 43. §-a az arányos betegszabadság kimerülte után léphet elő."
+        },
+        {
+          "text": "Az arányos betegszabadság helyett azonnal az Ebtv. szerinti táppénz jár, mert évközi belépésnél betegszabadság nem nyílik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, évközi belépésnél is van betegszabadság, csak arányos. A helyes: az Mt. 126. § (3) bekezdése arányos részt ad; a táppénz az Ebtv. 43. § szerint a betegszabadság kimerülte után, a biztosítás és a járulékfeltétel mellett érvényesül. A tévedés az arányosításnak a jogcím teljes kizárásaként való olvasásából ered."
+        },
+        {
+          "text": "Évközben kezdődő munkaviszonynál is teljes tizenöt munkanap jár, mert a 126. § (1) bekezdése a belépés időpontjától független.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az évközi kezdet arányosít. A helyes: az Mt. 126. § (3) bekezdése szerint évközben kezdődő munkaviszony esetén a munkavállaló a betegszabadság arányos részére jogosult. Az (1) bekezdés tizenöt munkanapja a teljes naptári évre szól, nem az évközi belépésre. A tévedés a (3) bekezdés mellőzéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "b1e5597f6bc5"
+    },
+    {
+      "question": "Egyenlőtlen munkaidő-beosztás mellett a munkáltató betegszabadságot ad ki. Mely megállapítások állják meg a helyüket a kiadás rendjéről?",
+      "options": [
+        {
+          "text": "Egyenlőtlen beosztásnál a beosztás szerinti heti pihenőnap is betegszabadságként elszámolandó, mert a 124. § (2) bekezdése a hét minden napját munkanapnak tekinti kivétel nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a heti pihenőnap és a munkaszüneti nap kivétel. A helyes: az Mt. 124. § (2) bekezdése szerint egyenlőtlen beosztásnál a hét minden napja munkanapnak számít, kivéve a beosztás szerinti heti pihenőnapot és a munkaszüneti napot. A 126. § (4) bekezdése e rendet a betegszabadságra is átviszi. A tévedés a kivétel elhagyásából ered."
+        },
+        {
+          "text": "A betegszabadságot mindig naptári napokban kell kiadni, mert a 124. § csak az éves szabadságra vonatkozik, a 126. §-ra nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 126. § (4) bekezdése expressis verbis a 124. §-t rendeli. A helyes: az Mt. 126. § (4) bekezdése a betegszabadság kiadásánál a 124. §-t alkalmazza; a 124. § (1) bekezdése a munkaidő-beosztás szerinti munkanapokra adja a kiadást. A tévedés a 124. § hatályának az éves szabadságra szűkítéséből ered."
+        },
+        {
+          "text": "Ha a betegszabadságként elszámolható idő a beosztás szerinti napi munkaidőnél rövidebb, a 126. § (4) bekezdése szerint a teljes beosztás szerinti napi munkaidőt kell betegszabadságként elszámolni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tört nap a munkavállaló javára teljes nappá kerekedik. Az Mt. 126. § (4) bekezdése második mondata a 124. § (3) bekezdés alkalmazásakor e kerekítést írja elő. A 124. § (2) bekezdése egyenlőtlen beosztásnál a hét minden napját munkanapnak számítja, kivéve a beosztás szerinti heti pihenőnapot és a munkaszüneti napot. A kerekítés tehát a beosztási napon belüli rövidebb kiesésre vonatkozik."
+        },
+        {
+          "text": "A 126. § (4) bekezdése a betegszabadság kiadásánál a 124. § rendelkezéseit rendeli alkalmazni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a betegszabadság a szabadságkiadási rendhez igazodik. Az Mt. 126. § (4) bekezdése szerint a betegszabadság kiadásánál a 124. §-ban foglaltakat kell alkalmazni. A 124. § (1) bekezdése a kiadást a munkaidő-beosztás szerinti munkanapokra rendeli. A naptári nap szerinti elszámolás tehát nem a főszabály."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "52392b05e25b"
+    },
+    {
+      "question": "A munkavállaló szülési szabadságon, majd a 128. § szerinti gyermekgondozási fizetés nélküli szabadságon van. Mely állítások helyesek a szabadságra jogosító munkában töltött idő számításáról?",
+      "options": [
+        {
+          "text": "A szülési szabadság nem számít munkában töltött időnek, mert a 115. § (2) bekezdés f) pontja csak az 55. § szerinti mentesülést sorolja fel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szülési szabadság külön a c) ponton számít. A helyes: az Mt. 115. § (2) bekezdés c) pontja a szülési szabadságot minősíti munkában töltött időnek. Az f) pont az 55. § (1) bekezdés a)–n) pontja és az (5) bekezdés szerinti mentesülést sorolja. A tévedés a c) pont mellőzéséből és az f) pont kizárólagos olvasatából ered."
+        },
+        {
+          "text": "A 128. § szerinti gyermekgondozási fizetés nélküli szabadságból a 115. § (2) bekezdés d) pontja csak az első hat hónapot számítja munkában töltött időnek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hetedik hónaptól e címen nem gyarapodik a jogosultság. Az Mt. 115. § (2) bekezdés d) pontja a 128. § szerinti fizetés nélküli szabadság első hat hónapját minősíti munkában töltött időnek. A forrás prózája szerint a hetedik hónaptól a szabadság-jogosultság e címen nem gyarapodik. A szülési szabadság c) pontja e hat hónapos korláttól független."
+        },
+        {
+          "text": "A 115. § (2) bekezdés c) pontja a szülési szabadság tartamát munkában töltött időnek minősíti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szülési szabadság beszámít az éves szabadságra jogosító időbe. Az Mt. 115. § (2) bekezdés c) pontja a szülési szabadságot munkában töltött időnek minősíti. A 127. § (5) bekezdése ugyanezt a minősítést adja, a kifejezetten munkavégzéshez kapcsolódó jogosultság kivételével. A 128. § szerinti fizetés nélküli szakaszra a d) pont csak az első hat hónapot engedi beszámítani."
+        },
+        {
+          "text": "A 128. § teljes tartama — a gyermek hároméves koráig — munkában töltött időnek minősül, mert a d) pont a 128. §-t korlátozás nélkül hivatkozza.",
+          "isCorrect": false,
+          "rationale": "HAMIS, csak az első hat hónap számít. A helyes: az Mt. 115. § (2) bekezdés d) pontja a 128. § szerinti fizetés nélküli szabadság első hat hónapját minősíti munkában töltött időnek. A gyermek hároméves koráig tartó távollét tehát nem egésze jogosító idő. A tévedés a hároméves korhatárnak a beszámítási tartammal való azonosításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "9de67a88d0bc"
+    },
+    {
+      "question": "A munkavállaló gyermeke kétéves; gyermekgondozás céljából fizetés nélküli szabadságot kér, és megjelöli a kezdő napot. Mely megállapítások helyesek?",
+      "options": [
+        {
+          "text": "A 133. § (1) bekezdése szerint a fizetés nélküli szabadság igénybevételét legalább tizenöt nappal korábban írásban be kell jelenteni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tizenöt napos előzetes bejelentés a 128. § címére is irányadó. Az Mt. 133. § (1) bekezdése legalább tizenöt napos előzetes írásbeli bejelentést kíván; a (3) bekezdés e határidőt csak a 132. § szerinti tartalékos szolgálatra engedi el. A kiadás időpontját a 128. § a kéréshez, a megszűnést a 129. § objektív eseményhez köti."
+        },
+        {
+          "text": "A fizetés nélküli szabadság a gyermek ötéves koráig jár, mert a 130. § általános szabálya felülírja a 128. § (1) bekezdését.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 128. § (1) bekezdése hároméves korhatárt ad; a 130. § önálló, GYES-hez kötött cím. A helyes: az Mt. 128. § (1) bekezdése a harmadik életév betöltéséig adja a gondozási fizetés nélküli szabadságot; a 130. § a gyermek tizedik életévéig, a GYES folyósításának tartama alatt nyit további címet. A tévedés a két jogcím korhatárának összecsúsztatásából ered."
+        },
+        {
+          "text": "Az Mt. 128. § (1) bekezdése szerint a munkavállaló gyermeke harmadik életéve betöltéséig — a gyermek gondozása céljából — fizetés nélküli szabadságra jogosult, amelyet a kérésének megfelelő időpontban kell kiadni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hároméves korhatár és a kéréshez igazodó kiadás. Az Mt. 128. § (1) bekezdése a gyermeke harmadik életéve betöltéséig — a gyermek gondozása céljából — fizetés nélküli szabadságot ad, amelyet a kérésnek megfelelő időpontban kell kiadni. A 133. § (1) bekezdése legalább tizenöt napos előzetes írásbeli bejelentést kíván. A 127. § szülési szabadsága huszonnégy hetes, egybefüggő, és nem e bejelentési rend alá esik."
+        },
+        {
+          "text": "A munkáltató a kért időpontot egyoldalúan későbbre tolhatja, mert a kiadás a munkáltató üzemeltetési érdekéhez igazodik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kiadás a munkavállaló kérésének megfelelő időpontban kötelező. A helyes: az Mt. 128. § (1) bekezdése szerint a fizetés nélküli szabadságot a munkavállaló kérésének megfelelő időpontban kell kiadni; a 133. § (1) bekezdése az előzetes bejelentést rendezi. A tévedés az éves szabadság kiadási rugalmasságának e címre való átviteléből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "d0ee317238ad"
+    },
+    {
+      "question": "A gyermeket az anya halála miatt végrehajtható gyámhatósági határozat alapján a munkavállaló gondozza. Milyen szülési szabadsági helyzet áll fenn?",
+      "options": [
+        {
+          "text": "A 127. § (1) bekezdés szerinti huszonnégy hét és a két hét kötelező igénybevétele e kiterjesztett jogosultra is irányadó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés a jogosulti kört bővíti, a tartami magot nem cseréli le. Az Mt. 127. § (1) bekezdése egybefüggő huszonnégy hetet ad, amelyből két hetet köteles igénybe venni. A 135. § (1) bekezdés g) pontja az (1) és a (2) bekezdést egyaránt abszolút kógenssé teszi. A gondozói jogcím tehát nem rövidíti a huszonnégy hetet."
+        },
+        {
+          "text": "A gyámhatósági határozat helyett elegendő a felek munkaszerződéses megállapodása a gondozásról, mert a (2) bekezdés diszpozitív.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés végrehajtható ítéletet vagy gyámhatósági határozatot kíván. A helyes: az Mt. 127. § (2) bekezdése a végrehajtható bírósági ítéletet vagy végrehajtható gyámhatósági határozatot nevezi meg; a 135. § (1) bekezdés g) pontja e rendelkezéstől eltérést nem enged. A tévedés a kógens jogosulti feltétel szerződéses helyettesíthetőségének feltételezéséből ered."
+        },
+        {
+          "text": "A gondozó munkavállalónak csak a 128. § szerinti fizetés nélküli szabadság jár, mert a szülési szabadság kizárólag a szülő nőt illeti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 127. § (2) bekezdése expressis verbis kiterjeszti a szülési szabadságot. A helyes: az Mt. 127. § (2) bekezdése a gyermeket az anya egészségi állapota vagy halála miatt végrehajtható ítélet vagy gyámhatósági határozat alapján gondozó munkavállalónak is adja a szülési szabadságot. A tévedés a jogosulti kör anyára szűkítéséből ered."
+        },
+        {
+          "text": "Az Mt. 127. § (2) bekezdése szerint a szülési szabadság annak a munkavállalónak is jár, aki a gyermeket az anya egészségi állapota vagy halála miatt végrehajtható bírósági ítélet vagy végrehajtható gyámhatósági határozat alapján gondozza.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogosulti kör kiterjed a gondozóra. Az Mt. 127. § (2) bekezdése e feltételek mellett adja a szülési szabadságot. A 135. § (1) bekezdés g) pontja a (2) bekezdéstől eltérést nem enged. A 128. § szerinti fizetés nélküli szabadság e tényállásban nem helyettesíti a szülési címet."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "09069a8b9868"
+    },
+    {
+      "question": "Eltérő megállapodás nélkül hogyan kell kiadni a szülési szabadságot a szülés várható időpontjához képest?",
+      "options": [
+        {
+          "text": "A 135. § (1) bekezdés g) pontja a (3) bekezdést nem sorolja az abszolút eltérési tilalom alá, ellentétben az (1), (2) és (4) bekezdéssel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kiadási ütemezés és a tartami mag elválik. Az Mt. 135. § (1) bekezdés g) pontja a 127. § (1), (2) és (4) bekezdésétől nem enged eltérést; a (3) bekezdés e listán nincs. A felek tehát a négy hetes előrehozatalról eltérően megállapodhatnak. A huszonnégy hét és a két hét kötelező igénybevétele ettől függetlenül kógens marad."
+        },
+        {
+          "text": "Az Mt. 127. § (3) bekezdése szerint — eltérő megállapodás hiányában — legfeljebb négy hét eshet a szülés várható időpontja elé.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a négy hetes előrehozatal a főszabály plafonja. Az Mt. 127. § (3) bekezdése úgy rendeli kiadni a szabadságot, hogy legfeljebb négy hét a szülés várható időpontja elé essen, eltérő megállapodás hiányában. A huszonnégy hetes tartam az (1) bekezdésből következik. A felek megállapodása e kiadási ütemezést módosíthatja, a tartami kógens magot azonban nem."
+        },
+        {
+          "text": "Eltérő megállapodás nélkül a teljes huszonnégy hétnek a szülés várható időpontja elé kell esnie.",
+          "isCorrect": false,
+          "rationale": "HAMIS, legfeljebb négy hét eshet a várható időpont elé. A helyes: az Mt. 127. § (3) bekezdése szerint — eltérő megállapodás hiányában — legfeljebb négy hét a szülés várható időpontja elé essen. A tévedés a négy hetes plafonnak a teljes tartam előrehozatalává tágításából ered."
+        },
+        {
+          "text": "A (3) bekezdés abszolút kógens, ezért a felek a négy hetes előrehozatalról még megállapodással sem térhetnek el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés eltérő megállapodást expressis verbis enged. A helyes: az Mt. 127. § (3) bekezdése „eltérő megállapodás hiányában” fogalmaz; a 135. § (1) bekezdés g) pontja a (3) bekezdést nem zárja el. A tévedés a (3) bekezdésnek az (1) bekezdés kógens magával való azonosításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "6a14aad3bbd8"
+    },
+    {
+      "question": "A gyermeket koraszülöttek ápolására fenntartott intézetben gondozzák; a szülési szabadság egy része igénybe nem vett. Mikor vehető még igénybe a fennmaradó rész?",
+      "options": [
+        {
+          "text": "Az Mt. 127. § (4) bekezdése szerint a ki nem vett rész a szülést követő egy év elteltéig, a gyermeknek az intézetből történt elbocsátása után is igénybe vehető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a koraszülötti intézeti gondozás saját kiadási ablakot nyit. Az Mt. 127. § (4) bekezdése a szülést követő egy év elteltéig engedi az igénybe nem vett rész elbocsátás utáni felhasználását. A 135. § (1) bekezdés g) pontja a (4) bekezdéstől eltérést nem enged. A huszonnégy hetes keret ettől nem bővül, csak a felhasználás időzítése igazodik."
+        },
+        {
+          "text": "A 135. § (1) bekezdés g) pontja a (4) bekezdést abszolút kógenssé teszi, ezért a felek és a kollektív szerződés e szabálytól nem térhetnek el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a koraszülötti kiadási szabály nem diszpozitív. Az Mt. 135. § (1) bekezdés g) pontja a 127. § (1), (2) és (4) bekezdésétől a felek megállapodásának és a kollektív szerződésnek eltérést nem enged. A (4) bekezdés egyéves ablaka tehát nem rövidíthető a munkavállaló terhére. A 128. § fizetés nélküli címe e koraszülötti szabályt nem helyettesíti."
+        },
+        {
+          "text": "A ki nem vett rész a gyermek hároméves koráig bármikor igénybe vehető, mert a 128. § (1) bekezdése felülírja a (4) bekezdést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (4) bekezdés egyéves, intézeti elbocsátáshoz kötött ablakot ad. A helyes: az Mt. 127. § (4) bekezdése a szülést követő egy év elteltéig, az intézetből történt elbocsátás után engedi a ki nem vett rész igénybevételét. A tévedés a szülési és a fizetés nélküli szabadság összecsúsztatásából ered."
+        },
+        {
+          "text": "Koraszülött intézeti gondozásnál a ki nem vett rész elvész, mert a szülési szabadság csak egybefüggően vehető igénybe.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (4) bekezdés éppen a ki nem vett rész későbbi igénybevételét engedi. A helyes: az Mt. 127. § (4) bekezdése a koraszülöttek intézeti gondozása esetén a szülést követő egy év elteltéig, az elbocsátás után is lehetővé teszi a fennmaradó rész igénybevételét. A tévedés az (1) bekezdés egybefüggőségének abszolút elvesztési szabállyá tágításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "fec3d4289f85"
+    },
+    {
+      "question": "A munkavállaló négyéves örökbe fogadott gyermek gondozása céljából fizetés nélküli szabadságot kér. Mely állítások helyesek?",
+      "options": [
+        {
+          "text": "Örökbe fogadott gyermeknél mindig a 128. § (1) bekezdés szerinti, a gyermek harmadik életévéig tartó szabadság jár, életkortól függetlenül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az örökbefogadásra a (2) bekezdés saját mértékei irányadók. A helyes: az Mt. 128. § (2) bekezdése a gondozásba helyezéstől három évet, háromévesnél idősebb gyermeknél hat hónapot ad. A tévedés az (1) bekezdés vér szerinti szabályának az örökbefogadotti címre való átviteléből ered."
+        },
+        {
+          "text": "Négyéves örökbe fogadott gyermeknél a fizetés nélküli szabadság a gyermek tizedik életévéig jár a 130. § alapján, GYES nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, négyéves örökbefogadottnál a 128. § (2) bekezdés hat hónapot ad, nem automatikus tízéves címet. A helyes: az Mt. 128. § (2) bekezdése háromévesnél idősebb örökbe fogadott gyermeknél a gondozásba helyezéstől számított hat hónapig ad fizetés nélküli szabadságot. A 130. § a gyermek tizedik életéve betöltéséig a gyermekgondozást segítő ellátás folyósításának tartama alatt nyit további címet. A tévedés a GYES-folyósítási feltétel elhagyásából és a két jogcím összecsúsztatásából ered."
+        },
+        {
+          "text": "Ha az örökbe fogadott gyermek háromévesnél fiatalabb, a (2) bekezdés a gondozásba helyezéstől számított három évig adja a fizetés nélküli szabadságot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fiatalabb örökbefogadotti ág hároméves. Az Mt. 128. § (2) bekezdése a gyermek gondozásba történő kihelyezésének kezdő időpontjától számított három évig engedi a szabadságot, ha a gyermek nem háromévesnél idősebb. A kiadás a kérésnek megfelelő időpontban kötelező. A 130. § szerinti, a gyermek tizedik életévéig tartó cím a gyermekgondozást segítő ellátás folyósításához kötött, és e (2) bekezdéses örökbefogadotti mértéket nem írja felül."
+        },
+        {
+          "text": "Az Mt. 128. § (2) bekezdése háromévesnél idősebb örökbe fogadott gyermeknél a gondozásba helyezés kezdő időpontjától számított hat hónapig ad fizetés nélküli szabadságot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az idősebb örökbefogadotti ág hat hónapos. Az Mt. 128. § (2) bekezdése a gondozásba helyezés kezdő időpontjától három évig, háromévesnél idősebb gyermeknél hat hónapig adja a szabadságot, a kérésnek megfelelő időpontban. A négyéves gyermek a hat hónapos ágra esik. A 128. § (1) bekezdés vér szerinti hároméves korhatára e címen nem irányadó."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "2d46129d87c3"
+    },
+    {
+      "question": "A nagyszülő részére az Ebtv. 42/G. § szerinti gyermekgondozási díjat állapították meg. Milyen munkajogi fedezet jár a nagyszülő munkavállalónak?",
+      "options": [
+        {
+          "text": "A nagyszülői GYED tartamára a 127. § szerinti szülési szabadság jár, mert a gyermekgondozás egységes munkajogi címet kap.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nagyszülői GYED fedezete a 128. § (3) bekezdése, nem a szülési szabadság. A helyes: az Mt. 128. § (3) bekezdése az Ebtv. 42/G. § szerinti díj időtartamára fizetés nélküli szabadságot ad; a 127. § a huszonnégy hetes szülési szabadságot rendezi. A tévedés a szülési és a fizetés nélküli cím összecsúsztatásából ered."
+        },
+        {
+          "text": "Az Mt. 128. § (3) bekezdése szerint a munkavállaló az Ebtv. 42/G. §-a szerinti gyermekgondozási díj időtartamára fizetés nélküli szabadságra jogosult.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nagyszülői GYED munkajogi fedezete a 128. § (3) bekezdése. Az Mt. 128. § (3) bekezdése expressis verbis az Ebtv. 42/G. § szerinti díj időtartamára adja a fizetés nélküli szabadságot. A tartam tehát az ellátáshoz igazodik, nem önálló életkorhoz. A 128. § (1) bekezdés hároméves korhatára e címen nem helyettesíti a (3) bekezdést."
+        },
+        {
+          "text": "A munkáltató a 128. § (3) bekezdése alapján a GYED tartamára köteles a fizetés nélküli szabadságot kiadni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kiadás kötelező a díj tartamára. Az Mt. 128. § (3) bekezdése a jogosultságot a 42/G. § szerinti gyermekgondozási díj időtartamához köti. A 133. § (1) bekezdése a fizetés nélküli szabadság igénybevételéhez legalább tizenöt napos előzetes írásbeli bejelentést kíván. Az Ebtv. 42/G. § a TB-jogosultságot, az Mt. a munkajogi távollétet rendezi — a két sík nem cserélendő fel."
+        },
+        {
+          "text": "A 128. § (3) bekezdése csak akkor nyílik, ha a nagyszülő egyidejűleg a 130. § szerinti GYES-folyósítás alatt is áll.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés a 42/G. § szerinti GYED-hez kötött, nem a GYES-hez. A helyes: az Mt. 128. § (3) bekezdése az Ebtv. 42/G. § szerinti gyermekgondozási díj időtartamára ad fizetés nélküli szabadságot; a 130. § a GYES folyósításához és a tizedik életévhez kapcsolódik. A tévedés a két ellátási ág munkajogi fedezetének összecsúsztatásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "2701cebfc9d7"
+    },
+    {
+      "question": "A gyermek a szülési szabadság alatt meghal. Mikor szűnik meg a 127. § szerinti szabadság, és mi a tartami minimum?",
+      "options": [
+        {
+          "text": "A 129. § (2) bekezdése szerint az (1) bekezdésben megjelölt esetben a szabadság tartama — a szülést követően — hat hétnél rövidebb nem lehet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a gyermekágyi minimum a megszűnési tényállásokban is érvényesül. Az Mt. 129. § (2) bekezdése a szülést követően hat hétnél rövidebb tartamot nem enged. A halva születés az (1) bekezdés a) pontján, a halál a b) ponton szüntet. A hat hetes padló tehát a tizenötödik napos megszűnést is korlátozza, ha a szülés utáni tartam egyébként rövidebb lenne."
+        },
+        {
+          "text": "Az Mt. 129. § (1) bekezdés b) pontja szerint, ha a gyermek meghal, a szabadság a halált követő tizenötödik napon szűnik meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a halálhoz kötött megszűnés a tizenötödik nap. Az Mt. 129. § (1) bekezdés b) pontja a 127–128. §-ban meghatározott szabadság megszűnését a halált követő tizenötödik naphoz köti. A kiadás időpontját a 128. § a kéréshez, a megszűnést a 129. § objektív eseményhez igazítja. A munkavállaló egyoldalú lemondása e taxációt nem helyettesíti."
+        },
+        {
+          "text": "A gyermek halálakor a szülési szabadság azonnal, a halál napján megszűnik, mert a gondozási cél elesik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megszűnés a halált követő tizenötödik nap. A helyes: az Mt. 129. § (1) bekezdés b) pontja szerint a szabadság a halált követő tizenötödik napon szűnik meg; a (2) bekezdés a szülést követően hat hétnél rövidebb tartamot nem enged. A tévedés az azonnali megszűnés feltételezéséből ered."
+        },
+        {
+          "text": "A 129. § csak a 128. § szerinti fizetés nélküli szabadságra vonatkozik; a szülési szabadság a huszonnégy hét végéig mindig fennmarad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 129. § a 127–128. §-ban meghatározott szabadságra egyaránt vonatkozik. A helyes: az Mt. 129. § (1) bekezdése expressis verbis a 127–128. §-ban meghatározott szabadság megszűnését rendezi; a szülési szabadság tehát e zárt tényállásokkal is megszűnhet. A tévedés a 129. § hatályának a fizetés nélküli címre szűkítéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "a62d28d24155"
+    },
+    {
+      "question": "A tartósan beteg gyermek után a szülő GYES-ben részesül, és a gyermek nyolcéves. Milyen fizetés nélküli szabadság nyílhat?",
+      "options": [
+        {
+          "text": "A 130. § a gyermek tizedik életévéig GYES nélkül is jár, ha a gyermek tartósan beteg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 130. § nem nyílik meg a gyermekgondozást segítő ellátás folyósítása nélkül. A helyes: az Mt. 130. § szerint a fizetés nélküli szabadság a gyermek tizedik életéve betöltéséig a gyermekgondozást segítő ellátás folyósításának tartama alatt jár. A tartós betegség a Cst. 20. § (1) bekezdés c) pontján a GYES korhatárát tágítja, de az Mt. 130. §-hoz a folyósítás is kell. A tévedés a tartós betegségnek önálló, ellátás nélküli jogalappá emeléséből ered."
+        },
+        {
+          "text": "Nyolcéves gyermeknél már csak a 128. § (1) bekezdése alkalmazható, mert a 130. § a hároméves korhatárnál véget ér.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 128. § (1) bekezdése hároméves korhatárú; a 130. § éppen a tizedik életévig nyit. A helyes: az Mt. 130. § a gyermek tizedik életéve betöltéséig adja a szabadságot a GYES folyósítása alatt; a 128. § (1) bekezdése a harmadik életévig tart. A tévedés a két korhatár felcseréléséből ered."
+        },
+        {
+          "text": "A 130. § nem a 128. § meghosszabbítása, hanem a GYES-hez kapcsolt önálló jogcím.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két cím elválik. Az Mt. 130. § szövege expressis verbis a 128. § (1) és (2) bekezdésén túl nyitja a szabadságot. A 128. § (1) bekezdése a harmadik életévig ad gondozási fizetés nélküli szabadságot; a 130. § a tizedik életévig a GYES tartama alatt. A 135. § (2) bekezdés r) pontja mindkét címtől csak a munkavállaló javára enged kollektív eltérést."
+        },
+        {
+          "text": "Az Mt. 130. § szerint a munkavállalónak a gyermek tizedik életéve betöltéséig fizetés nélküli szabadság jár a gyermekgondozást segítő ellátás folyósításának tartama alatt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 130. § a GYES folyósításához és a tizedik életévhez kötött. Az Mt. 130. § a 128. § (1) és (2) bekezdésén túl, a gyermek személyes gondozása érdekében adja e címet. A Cst. 20. § (1) bekezdés c) pontja a tartósan beteg, illetve súlyosan fogyatékos gyermek után a tizedik életévig nyitja a GYES-t. A folyósítás megszűnésével a 130. § szerinti szabadság is véget ér."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "d46c95d589fe"
+    },
+    {
+      "question": "A hozzátartozó előreláthatólag négy hónapos személyes ápolása miatt a munkavállaló fizetés nélküli szabadságot kér; orvosi igazolás van. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "Az Mt. 131. § (1) bekezdése a hozzátartozó tartós — előreláthatólag harminc napot meghaladó — személyes ápolása céljából, az ápolás idejére, de legfeljebb két évre ad fizetés nélküli szabadságot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a négy hónap a harminc napos küszöb felett van, de a két éves plafon alatt. Az Mt. 131. § (1) bekezdése e feltételekkel adja a szabadságot. A (2) bekezdés a tartós ápolást és indokoltságát a kezelőorvos igazolásához köti. Az 55. § (1) bekezdés l) pontjának évi öt munkanapja a rövid gondozásra való, nem e tartós címre."
+        },
+        {
+          "text": "A 131. § szerinti szabadság orvosi igazolás nélkül is jár, ha a hozzátartozói minőség a 294. § szerint igazolt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hozzátartozói minőség önmagában nem pótolja az orvosi igazolást. A helyes: az Mt. 131. § (2) bekezdése szerint a tartós ápolást és annak indokoltságát az ápolásra szoruló személy kezelőorvosa igazolja. A 294. § (1) bekezdés b) pontja csak a hozzátartozói kört adja. A tévedés a személyi és az orvosi feltétel összecsúsztatásából ered."
+        },
+        {
+          "text": "A négy hónapos ápolásra csak az 55. § (1) bekezdés l) pontjának öt munkanapja jár, mert a 131. § kizárólag kétéves ápolásra nyílik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 131. § az ápolás idejére, de legfeljebb két évre adja a szabadságot. A helyes: az Mt. 131. § (1) bekezdése a tartós, előreláthatólag harminc napot meghaladó ápolásra az ápolás idejére, legfeljebb két évre nyit; a négy hónap e keretbe esik. A tévedés a két éves plafonnak kötelező tartammá olvasásából ered."
+        },
+        {
+          "text": "A 294. § (1) bekezdés b) pontja mondja meg, ki a hozzátartozó a 131. § alkalmazásában.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hozzátartozó fogalma zárt taxáció. Az Mt. 294. § (1) bekezdés b) pontja a házastársat, egyeneságbeli rokont, örökbefogadott, mostoha- és nevelt gyermeket, örökbefogadó, mostoha- és nevelőszülőt, testvért, élettársat és a sógorsági kört sorolja. A 131. § (2) bekezdése szerint a tartós ápolást és annak indokoltságát az ápolásra szoruló személy kezelőorvosa igazolja. A közös háztartásban élő, nem hozzátartozó személy az 55. § (1) bekezdés l) pont rövid mentesülésénél jelenik meg, nem a 131. § szövegében."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "ce357370d762"
+    },
+    {
+      "question": "A munkavállaló tényleges önkéntes tartalékos katonai szolgálatot teljesít. Mely állítások helyesek a fizetés nélküli szabadságról és a bejelentési határidőkről?",
+      "options": [
+        {
+          "text": "A 133. § (3) bekezdése szerint az (1)–(2) bekezdés határidőre vonatkozó rendelkezéseit nem kell alkalmazni a 132. § szerinti fizetés nélküli szabadságra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tizenöt és a harminc nap a tartalékos címre nem irányadó. Az Mt. 133. § (1) bekezdése főszabályként legalább tizenöt napos előzetes írásbeli bejelentést, a (2) bekezdés a megszűnésnél legkorábban a közléstől számított harmincadik napot kíván; a (3) bekezdés e határidőket a 132. §-ra nem rendeli. A behívás rendje nem tűri a munkajogi felmondási analógiát."
+        },
+        {
+          "text": "A 115. § (2) bekezdés e) pontja a három hónapot meg nem haladó tényleges önkéntes tartalékos szolgálatteljesítés tartamát munkában töltött időnek minősíti; a 132. § szerinti fizetés nélküli jelleg ettől még fennáll.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rövid tényleges szolgálat beszámít a munkában töltött időbe, de a távollét fizetés nélküli marad. Az Mt. 115. § (2) bekezdés e) pontja a három hónapot meg nem haladó tartamot munkában töltött időnek minősíti. Az Mt. 132. § a tényleges önkéntes tartalékos katonai szolgálatteljesítés tartamára fizetés nélküli szabadságot ad. A beszámítás nem váltja fel a 132. § fizetés nélküli jellegét távolléti díjjal."
+        },
+        {
+          "text": "A 132. § akkor is jár, ha a munkavállaló csak önkéntes tartalékos szerződéses minőségben van, tényleges szolgálatteljesítés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a puszta szerződéses tartalékos minőség nem elég. A helyes: az Mt. 132. § a tényleges önkéntes tartalékos katonai szolgálatteljesítés tartamára adja a fizetés nélküli szabadságot. A Hjt. 2. § 31. pontja a szerződéses minőséget határozza meg; a 132. § azonban a behívott, ténylegesen teljesített időszakot kívánja. A tévedés a szerződéses minőség és a tényleges szolgálat felcseréléséből ered."
+        },
+        {
+          "text": "A 132. § szerinti szabadsághoz is legalább tizenöt napos előzetes írásbeli bejelentés kell, mert a 133. § (1) bekezdése minden fizetés nélküli címre kiterjed.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tartalékos címre a tizenöt napos előzetes bejelentés nem kötelező. A helyes: az Mt. 133. § (3) bekezdése szerint az (1)–(2) bekezdés határidőre vonatkozó rendelkezéseit nem kell alkalmazni a 132. § szerinti fizetés nélküli szabadságra. A 132. § a tényleges szolgálatteljesítés tartamára adja a távollétet. A tévedés a főszabálynak a kifejezett kivétel feletti érvényesítéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "6ece80dc4bde"
+    },
+    {
+      "question": "A munkavállaló a 128. § szerinti fizetés nélküli szabadságot meg kívánja szüntetni, és megjelöli a visszatérés napját. Mi a törvényi keret?",
+      "options": [
+        {
+          "text": "A munkavállaló a megszüntető nyilatkozat közlésének napján azonnal visszatérhet, mert a fizetés nélküli szabadság egyoldalúan bármikor megszüntethető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megszűnés legkorábban a közléstől számított harmincadik nap. A helyes: az Mt. 133. § (2) bekezdése szerint a fizetés nélküli szabadság a megjelölt időpontban, de legkorábban a megszüntetésre irányuló jognyilatkozat közlésétől számított harmincadik napon szűnik meg. A tévedés az azonnali egyoldalú megszüntetés feltételezéséből ered."
+        },
+        {
+          "text": "A 128–131. § szerinti címekre a tizenöt napos előzetes bejelentés és a harminc napos megszűnési padló irányadó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 128–131. § címeire a 133. § (1)–(2) bekezdésének határidői irányadók. Az Mt. 133. § (1) bekezdése legalább tizenöt napos előzetes írásbeli bejelentést, a (2) bekezdés a közléstől számított harmincadik napi megszűnési padlót adja. A (3) bekezdés e határidőket csak a 132. § szerinti, tényleges önkéntes tartalékos szolgálatra nem rendeli alkalmazni. A 127. § szülési szabadsága nem e bejelentési rend alá esik."
+        },
+        {
+          "text": "A 133. § (2) bekezdése csak a 131. § tartós ápolására vonatkozik; a 128. § azonnal megszüntethető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 133. § (2) bekezdése a fizetés nélküli szabadságra általánosan vonatkozik. A helyes: az Mt. 133. § (2) bekezdése a fizetés nélküli szabadság megszűnését rendezi; a (3) bekezdés csak a 132. §-t veszi ki a határidők alól. A tévedés a megszűnési padló indokolatlan szűkítéséből ered."
+        },
+        {
+          "text": "Az Mt. 133. § (2) bekezdése szerint a fizetés nélküli szabadság a munkavállaló által megjelölt időpontban, de legkorábban a megszüntetésre irányuló jognyilatkozat közlésétől számított harmincadik napon szűnik meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a harmincadik nap a munkáltató szervezési idejét védi. Az Mt. 133. § (2) bekezdése e kettős korlátot rögzíti: a megjelölt időpont és a közléstől számított harmincadik nap közül a későbbi az irányadó minimum. Az (1) bekezdés az igénybevételhez legalább tizenöt napos előzetes írásbeli bejelentést kíván. A 132. § tartalékos címe e megszűnési szabály alól a (3) bekezdés szerint ki van véve."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "958ce9024495"
+    },
+    {
+      "question": "A munkavállaló hozzátartozója meghal. Milyen mentesülés és díjazás illeti meg e címén?",
+      "options": [
+        {
+          "text": "A 146. § (1) bekezdés b) pontja az 55. § (1) bekezdés c)–g) pontjai között az f) pontot is teljes távolléti díjjal díjazza.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a gyászmentesülés a díjazott listán van. Az Mt. 146. § (1) bekezdés b) pontja az 55. § (1) bekezdés c)–g), j) és m) pontjában meghatározott esetben távolléti díjat ad; az f) pont e sávban van. A keresőképtelenség a) pontja e teljes díjas listán nincs. A 146. § (3) bekezdés hetven százaléka a betegszabadságra vonatkozik, nem a gyászra."
+        },
+        {
+          "text": "Az Mt. 55. § (1) bekezdés f) pontja szerint a munkavállaló hozzátartozója halálakor két munkanapra mentesül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a gyász két munkanapos mentesülés. Az Mt. 55. § (1) bekezdés f) pontja hozzátartozója halálakor két munkanapra mentesíti a munkavállalót. A 294. § (1) bekezdés b) pontja határozza meg a hozzátartozói kört. Ez nem a 131. § tartós ápolási fizetés nélküli szabadsága."
+        },
+        {
+          "text": "A gyászmentesülés tartamára a távolléti díj hetven százaléka jár a 146. § (3) bekezdése szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hetven százalék a betegszabadság díja. A helyes: az Mt. 146. § (3) bekezdése a betegszabadság tartamára adja a távolléti díj hetven százalékát; a gyász az 55. § (1) bekezdés f) pontján a 146. § (1) bekezdés b) pontja szerint teljes távolléti díjas. A tévedés a betegszabadság-díj általánosításából ered."
+        },
+        {
+          "text": "Hozzátartozó halálakor öt munkanap jár, mert az l) pont gondozói kerete a gyászra is kiterjed.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a gyász az f) ponton két munkanap, nem az l) pont öt napja. A helyes: az Mt. 55. § (1) bekezdés f) pontja hozzátartozója halálakor két munkanapot ad. Az l) pont a súlyos egészségi okból indokolt személyes gondozásra évente legfeljebb öt munkanapot nyit. A tévedés a két mentesülési cím keretének felcseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "958f7a5ffa79"
+    },
+    {
+      "question": "A munkavállaló helyi önkormányzati választáson vesz részt; az adott napra beosztott rendes munkaideje kilenc óra. Mely megállapítások helyesek?",
+      "options": [
+        {
+          "text": "A választási részvételre az 55. § (1) bekezdés i) pontja szerinti hatósági felhívás címén korlátlan tartamú mentesülés jár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a választási részvétel önálló m) pont, legfeljebb két órával. A helyes: az Mt. 55. § (1) bekezdés m) pontja a választási és népszavazási részvételt legfeljebb két órára, nyolc órát meghaladó beosztás mellett rendezi; az i) pont a bíróság vagy hatóság felhívására, illetve az eljárásban való személyes részvételhez szükséges időtartamra vonatkozik. A tévedés a két cím összecsúsztatásából ered."
+        },
+        {
+          "text": "A 146. § (1) bekezdés b) pontja az m) pont szerinti mentesülés tartamára távolléti díjat rendel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a választási mentesülés díjazott. Az Mt. 146. § (1) bekezdés b) pontja az 55. § (1) bekezdés c)–g), j) és m) pontjában meghatározott esetben távolléti díjat ad. Az m) pont tehát a teljes távolléti díjas listán van. A két órás tartam az 55. § (1) bekezdés m) pontjából következik."
+        },
+        {
+          "text": "A választási mentesülés minden beosztási napon jár, a napi munkaidő tartamától függetlenül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nyolc órát meghaladó beosztás feltétele. A helyes: az Mt. 55. § (1) bekezdés m) pontja legfeljebb két órára mentesít, amennyiben e napra beosztott rendes vagy elrendelt rendkívüli munkaidő tartama meghaladja a nyolc órát. A tévedés a beosztási küszöb elhagyásából ered."
+        },
+        {
+          "text": "Az Mt. 55. § (1) bekezdés m) pontja a megjelölt választásokon és népszavazáson való részvétel céljából legfeljebb két óra időtartamra mentesít, ha az aznapi beosztott rendes vagy elrendelt rendkívüli munkaidő meghaladja a nyolc órát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két órás választási mentesülés nyolc órás beosztási küszöbhöz kötött. Az Mt. 55. § (1) bekezdés m) pontja az országgyűlési, EP-, helyi önkormányzati, nemzetiségi választást és a helyi vagy országos népszavazást sorolja fel. A kilenc órás beosztás a nyolc órás küszöb felett van. Hat órás beosztásnál e cím nem nyílna."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "e30600b450af"
+    },
+    {
+      "question": "Kollektív szerződés a naptári évenkénti betegszabadságot a munkavállaló javára tizennyolc munkanapra emelné. Megengedett-e ez az eltérés?",
+      "options": [
+        {
+          "text": "Az Mt. 135. § (2) bekezdés o) pontja a 126. § (1)–(3) és (5) bekezdésétől a kollektív szerződésnek csak a munkavállaló javára enged eltérést, ezért a tizennyolc munkanapos emelés e címen megengedett.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a betegszabadság mértéke a munkavállaló javára kollektív szerződésben tágítható. Az Mt. 135. § (2) bekezdés o) pontja a 126. § (1)–(3) és (5) bekezdését e relatív kógens listán nevezi meg. Az (1) bekezdés tizenöt munkanapos főszabálya tehát KSZ-sel a munkavállaló javára emelhető. A munkavállaló terhére történő csökkentés e ponton nem nyílik."
+        },
+        {
+          "text": "A 126. § (4) bekezdése is szabadon eltéríthető KSZ-sel a munkavállaló javára, mert a (2) bekezdés o) pontja a teljes 126. §-t lefedi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (4) bekezdés az (1) bekezdés f) pontján abszolút kógens. A helyes: az Mt. 135. § (1) bekezdés f) pontja a 126. § (4) bekezdésétől eltérést nem enged; a (2) bekezdés o) pontja csak az (1)–(3) és (5) bekezdést nevezi meg. A tévedés a (4) bekezdésnek a relatív kógens listára olvasásából ered."
+        },
+        {
+          "text": "A kollektív szerződés a betegszabadságot tizenkét munkanapra is csökkentheti, mert a 126. § nincs az abszolút kógens listán.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkavállaló terhére történő csökkentés a (2) bekezdés o) pontján nem megengedett. A helyes: az Mt. 135. § (2) bekezdés o) pontja a 126. § (1)–(3) és (5) bekezdésétől csak a munkavállaló javára enged kollektív eltérést. A tévedés abból ered, hogy ami nincs az (1) bekezdés abszolút tilalmán, azt a munkavállaló terhére is szabadnak véli."
+        },
+        {
+          "text": "A 126. § (4) bekezdés szerinti, 124. §-ra utaló kiadási rend a 135. § (1) bekezdés f) pontja szerint abszolút kógens: attól a felek és a KSZ sem térhet el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kiadási technika és a mérték eltérési rendje elválik. Az Mt. 135. § (1) bekezdés f) pontja a 126. § (4) bekezdésétől eltérést nem enged; a (2) bekezdés o) pontja az (1)–(3) és (5) bekezdéstől csak a munkavállaló javára enged KSZ-eltérést. A tizennyolc napos emelés a mértéket érinti, a 124. § szerinti kiadási kötöttséget nem oldja fel."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "13816b36a1b4"
+    },
+    {
+      "question": "A biztosított egyidejűleg két munkaviszonyban áll ugyanannál a foglalkoztatónál, és keresőképtelenné válik. Mely állítások helyesek a táppénz megállapításáról?",
+      "options": [
+        {
+          "text": "A táppénzre az Ebtv. 43. § (1) bekezdése szerint az a jogosult, aki a biztosítás fennállása alatt keresőképtelenné válik, és a Tbj.-ben meghatározott mértékű társadalombiztosítási járulék fizetésére kötelezett; e feltételeket a két jogviszonyban külön kell vizsgálni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a táppénz feltételei jogviszonyonkénti vizsgálatot kívánnak. Az Ebtv. 43. § (1) bekezdése a biztosítást és a Tbj. szerinti járulékfizetési kötelezettséget köti a jogosultsághoz. Az azonos foglalkoztató melletti két jogviszony sem olvasztja össze e feltételeket egyetlen ellátási üggyé. A 102/1995. (VIII. 25.) Korm. rendelet 10. § (5) bekezdése az orvosi elbírálást is jogviszonyonként rendezi."
+        },
+        {
+          "text": "A több jogviszony miatti külön megállapítás csak az Mt. 126. § betegszabadságára vonatkozik, a táppénzre nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a több jogviszony miatti külön megállapítás az Ebtv. táppénzszabálya, nem az Mt. betegszabadságé. A helyes: az Ebtv. 43. § (2) bekezdése a keresőképtelenséget és a táppénzt mindegyik jogviszonyban külön-külön rendeli megállapítani, akkor is, ha a jogviszonyok ugyanannál a foglalkoztatónál állnak fenn. Az Mt. 126. § (1) bekezdése a betegség miatti keresőképtelenségre naptári évenként tizenöt munkanap betegszabadságot ad, ami ettől elváló munkáltatói teher. A tévedés a TB-szabálynak a munkajogi címre szűkítéséből ered."
+        },
+        {
+          "text": "A 102/1995. (VIII. 25.) Korm. rendelet 10. § (5) bekezdése szerint a kezelőorvos minden egyes jogviszonyban külön-külön bírálja el a keresőképtelenséget, külön naplószámon és külön igazolással.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az orvosi elbírálás is jogviszonyonkénti. A 102/1995. (VIII. 25.) Korm. rendelet 10. § (5) bekezdése az Ebtv. 43. § (2) bekezdésére figyelemmel külön naplószámot, külön igazolást és a munkakör feltüntetését követeli. Ugyanazon személy egyik jogviszonyában keresőképtelen, a másikban keresőképes lehet. A munkáltatói betegszabadság kiadása az Mt. 126. § szerint a saját betegségi címre épül."
+        },
+        {
+          "text": "A két jogviszonyban egyetlen összevont táppénzjárás és egyetlen keresőképtelenségi igazolás elegendő, mert a foglalkoztató azonos.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megállapítás jogviszonyonként külön kötelező. A helyes: az Ebtv. 43. § (2) bekezdése szerint a keresőképtelenséget és a táppénzt mindegyik jogviszonyban külön-külön kell megállapítani, akkor is, ha a jogviszonyok ugyanannál a foglalkoztatónál állnak fenn. A tévedés az azonos foglalkoztató miatti összevonás feltételezéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "4b66757a7b87"
+    },
+    {
+      "question": "A várandós munkavállaló keresőképtelenségének oka veszélyeztetett várandósság. Mely megállapítások állják meg a helyüket a betegszabadságról?",
+      "options": [
+        {
+          "text": "A 126. § (2) bekezdés szerinti kizárás mellett a társadalombiztosítási ellátási sík érvényesülhet; a betegszabadság munkáltatói teherátvállalása e címről elmarad.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kizárás a munkáltatói tizenöt napos teher elmaradását jelenti. Az Mt. 126. § (2) bekezdése a veszélyeztetett várandósságot kiveszi a betegszabadság alól. Az Ebtv. 43. § a táppénz feltételeit a biztosítás és a járulékfizetés mellett rendezi. A két sík — Mt. betegszabadság és Ebtv. táppénz — tehát nem cserélendő fel."
+        },
+        {
+          "text": "Veszélyeztetett várandósságnál a betegszabadság a távolléti díj száz százalékával jár a 146. § (3) bekezdése helyett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, e címre betegszabadság nem jár, így a 146. § (3) bekezdése sem nyílik. A helyes: az Mt. 126. § (2) bekezdése a veszélyeztetett várandósságot kiveszi; a 146. § (3) bekezdése csak a betegszabadság tartamára adja a távolléti díj hetven százalékát. A tévedés a díjazási szabálynak a kizárt jogcímre való kiterjesztéséből ered."
+        },
+        {
+          "text": "Az Mt. 126. § (2) bekezdése szerint a veszélyeztetett várandósság miatti keresőképtelenség tartamára nem jár betegszabadság.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a veszélyeztetett várandósság a kizárt címek között van. Az Mt. 126. § (2) bekezdése az üzemi baleset és a foglalkozási betegség mellett a veszélyeztetett várandósságot is kiveszi. Az (1) bekezdés tizenöt munkanapos főszabálya e címre nem nyílik. A keresőképtelenség Ebtv. 44. § b) pont szerinti várandóssági ága önmagában nem írja felül e kizárást."
+        },
+        {
+          "text": "Veszélyeztetett várandósságnál is jár a tizenöt munkanap betegszabadság, mert az Ebtv. 44. § b) pontja a várandósságot keresőképtelenségnek minősíti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a keresőképtelenség minősítése nem nyit automatikusan betegszabadságot. A helyes: az Mt. 126. § (2) bekezdése a veszélyeztetett várandósság miatti keresőképtelenség tartamára nem ad betegszabadságot; az Ebtv. 44. § a keresőképtelenség taxációját adja. A tévedés az Ebtv. minősítés és az Mt. betegszabadság-járás összecsúsztatásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "96c65ef48264"
+    },
+    {
+      "question": "A munkavállaló kötelező orvosi vizsgálaton vesz részt. Milyen díjazás illeti meg a mentesülés tartamára?",
+      "options": [
+        {
+          "text": "A kötelező orvosi vizsgálat csak akkor mentesít, ha a háziorvos egyidejűleg az Ebtv. 44. § szerint keresőképtelennek minősíti a munkavállalót.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a c) pont önálló Mt.-s mentesülés, nem Ebtv.-s keresőképtelenség. A helyes: az Mt. 55. § (1) bekezdés c) pontja a kötelező orvosi vizsgálat tartamára mentesít; az Ebtv. 44. § a keresőképtelenség taxációját a TB-síkon adja. A tévedés az Mt. mentesülés és az Ebtv. minősítés összecsúsztatásából ered."
+        },
+        {
+          "text": "A kötelező orvosi vizsgálat tartamára a távolléti díj hetven százaléka jár, mert a vizsgálat keresőképtelenségnek minősül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kötelező vizsgálat nem betegszabadság, és teljes távolléti díjas. A helyes: az Mt. 55. § (1) bekezdés c) pontja a vizsgálati tartamra mentesít; a 146. § (1) bekezdés b) pontja e címre távolléti díjat ad. A tévedés a vizsgálatnak a keresőképtelenséggel és a 146. § (3) bekezdés hetven százalékával való azonosításából ered."
+        },
+        {
+          "text": "Az Mt. 55. § (1) bekezdés c) pontja a kötelező orvosi vizsgálat tartamára mentesíti a munkavállalót a rendelkezésre állás és a munkavégzés alól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötelező orvosi vizsgálat önálló mentesülési cím. Az Mt. 55. § (1) bekezdés c) pontja a kötelező orvosi vizsgálat tartamára mentesít. A 294. § (1) bekezdés d) pontja a kötelező orvosi vizsgálat fogalmába a várandós állapotra tekintettel előírt vizsgálatot is bevonja. Ez nem betegszabadság."
+        },
+        {
+          "text": "A 146. § (1) bekezdés b) pontja a c) pont szerinti mentesülés tartamára távolléti díjat biztosít.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötelező vizsgálat díjazott. Az Mt. 146. § (1) bekezdés b) pontja az 55. § (1) bekezdés c)–g), j) és m) pontjában meghatározott esetben távolléti díjat ad; a c) pont e listán van. A keresőképtelenség a) pontja e teljes díjas listán nincs. A 146. § (3) bekezdés hetven százaléka a betegszabadságra vonatkozik."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "b08ff12a8463"
+    },
+    {
+      "question": "A gyermeket harmincöt napra bentlakásos szociális intézményben helyezik el a 128. § szerinti fizetés nélküli szabadság alatt. Mi következik?",
+      "options": [
+        {
+          "text": "A bentlakásos elhelyezés csak akkor szüntet, ha legalább kilencven napig tart, mert a 129. § a 131. § két éves plafonjához igazodik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a küszöb harminc napot meghaladó bentlakásos elhelyezés. A helyes: az Mt. 129. § (1) bekezdés c) pontja a harminc napot meghaladó bentlakásos szociális intézményi elhelyezést nevezi meg; a megszűnés az elhelyezést követő nap. A tévedés a 131. § tartós ápolási plafonjának a 129. § szüntető küszöbévé emeléséből ered."
+        },
+        {
+          "text": "A 129. § (2) bekezdése a szülést követően hat hétnél rövidebb tartamot akkor sem enged, ha az (1) bekezdés szerinti szüntető ok bekövetkezik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a gyermekágyi minimum a megszűnési tényállásokban is érvényesül. Az Mt. 129. § (2) bekezdése szerint az (1) bekezdésben megjelölt esetben a szabadság tartama — a szülést követően — hat hétnél rövidebb nem lehet. A harmincöt napos bentlakásos elhelyezés a c) pontot nyitja. A hat hetes padló a szülést követő időszak védelme."
+        },
+        {
+          "text": "Az Mt. 129. § (1) bekezdés c) pontja szerint, ha a gyermeket harminc napot meghaladóan bentlakásos szociális intézményben helyezték el, a szabadság a gyermek elhelyezését követő napon szűnik meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a harminc napot meghaladó bentlakásos elhelyezés szüntető ok. Az Mt. 129. § (1) bekezdés c) pontja az ideiglenes hatályú elhelyezést, az átmeneti vagy tartós nevelésbe vételt és a harminc napot meghaladó bentlakásos szociális elhelyezést nevezi meg; a megszűnés az elhelyezést követő nap. A 128. § kéréshez igazodó kiadása az objektív megszűnést nem oldja fel."
+        },
+        {
+          "text": "A 128. § szerinti szabadság a bentlakásos elhelyezés alatt is fennmarad a gyermek hároméves koráig, mert a 129. § csak a szülési szabadságra vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 129. § a 127–128. §-ban meghatározott szabadságra egyaránt vonatkozik. A helyes: az Mt. 129. § (1) bekezdése a 127–128. §-ban meghatározott szabadság megszűnését rendezi; a c) pont a harminc napot meghaladó bentlakásos elhelyezésnél az elhelyezést követő napon szüntet. A tévedés a 129. § hatályának a szülési címre szűkítéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 29,
+      "sourceHash": "a44a0fb177c5"
+    },
+    {
+      "question": "A napközbeni bölcsődei ellátás mellett a szülő a gyermeket életvitelszerűen otthon neveli. Megszakad-e a Cst. szerinti saját háztartás?",
+      "options": [
+        {
+          "text": "A Cst. 4. § k) pontja szerint saját háztartásban nevelt, gondozott gyermek az, aki a 7. § (1) bekezdés a) pontja szerinti személlyel életvitelszerűen együtt él, és gondozásából rendszeres jelleggel legfeljebb csak napközbeni időszakra kerül ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a napközbeni intézményi ellátás önmagában nem szakítja meg a saját háztartást. A Cst. 4. § k) pontja az életvitelszerű együttélést és a legfeljebb napközbeni kikerülést rögzíti. Az Mt. 294. § (1) bekezdés c) pontja a gyermek fogalmát a családok támogatásáról szóló törvényhez utalja. A 128. § és a 130. § „gyermeke” fordulata az ismérv nélkül nem azonosítható."
+        },
+        {
+          "text": "A saját háztartás csak akkor áll fenn, ha a gyermek egyáltalán nem vesz igénybe intézményi ellátást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a k) pont expressis verbis engedi a napközbeni kikerülést. A helyes: a Cst. 4. § k) pontja az életvitelszerű együttélést és azt kívánja, hogy a gyermek gondozásából rendszeres jelleggel legfeljebb csak napközbeni időszakra kerüljön ki. A tévedés a napközbeni intézmény teljes tilalmának feltételezéséből ered."
+        },
+        {
+          "text": "A Cst. 7. § (1) bekezdés a) pontja adja meg, ki a nevelési ellátás — és a k) pont utalása révén a saját háztartás — szerinti szülő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szülői kör taxatív. A Cst. 7. § (1) bekezdés a) pontja a vér szerinti vagy örökbe fogadó szülőt, a szülővel együtt élő házastársat, az örökbefogadást előkészítő személyt, a szülővel együtt élő élettársat a nyilvántartási vagy közokirati egyéves feltétellel, a nevelőszülőt, a gyámot és az ideiglenes hatályú elhelyezett gondozóját sorolja. Az Mt. 130. § a gyermekgondozást segítő ellátás folyósításához köti a tizedik életévig tartó fizetés nélküli szabadságot. A Cst. jogosulti köre és az Mt. távolléti címe tehát összekapcsolódik, de nem azonosítható."
+        },
+        {
+          "text": "Bölcsődei napközbeni ellátás esetén a saját háztartás megszűnik, ezért a 128. § és a 130. § nem alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a legfeljebb napközbeni kikerülés a saját háztartás ismérveinek része. A helyes: a Cst. 4. § k) pontja szerint a gyermek gondozásából rendszeres jelleggel legfeljebb csak napközbeni időszakra kerülhet ki, és ez nem szakítja meg a saját háztartást. A tévedés a napközbeni ellátásnak automatikus megszakító faktorként való olvasásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 30,
+      "sourceHash": "9eb17f6319a1"
+    },
+    {
+      "question": "A munkavállaló apasági szabadságának hetedik munkanapján van. Milyen díjazás illeti meg?",
+      "options": [
+        {
+          "text": "A hetedik munkanapra a távolléti díj negyven százaléka jár; a 146. § (3) bekezdés hetven százaléka a betegszabadságra vonatkozik, az apasági cím e napjára nem.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hetedik nap a (4) bekezdés negyven százalékos sávjában van. Az Mt. 146. § (4) bekezdése szerint az apasági szabadság öt munkanapjára távolléti díj, a hatodik munkanapjától a távolléti díj negyven százaléka jár. A (3) bekezdés a betegszabadság tartamára adja a távolléti díj hetven százalékát. A hetedik apasági napra tehát a negyven százalék irányadó, nem a hetven."
+        },
+        {
+          "text": "Az Mt. 146. § (4) bekezdése szerint az apasági szabadság öt munkanapjára távolléti díj, a hatodik munkanapjától a távolléti díj negyven százaléka jár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az ötödik napig teljes, a hatodiktól negyven százalék. Az Mt. 146. § (4) bekezdése e sávos díjazást rögzíti. A hetedik munkanap tehát már a negyven százalékos sávban van. A 146. § (3) bekezdése e mentesülési cím díját nem határozza meg."
+        },
+        {
+          "text": "A hatodik munkanaptól is teljes távolléti díj jár, mert a negyven százalék csak a szülői szabadságra vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a negyven százalék az apasági (4) bekezdés második sávja. A helyes: az Mt. 146. § (4) bekezdése szerint a hatodik munkanaptól a távolléti díj negyven százaléka jár. Az (5) bekezdés a szülői szabadságra a távolléti díj tíz százalékát rendezi. A tévedés a (4) és az (5) bekezdés sávjainak felcseréléséből ered."
+        },
+        {
+          "text": "Az apasági szabadság teljes tartamára a távolléti díj hetven százaléka jár a 146. § (3) bekezdése szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés a betegszabadság díja; az apaságira a (4) bekezdés irányadó. A helyes: az Mt. 146. § (4) bekezdése az apasági szabadság öt munkanapjára távolléti díjat, a hatodiktól a távolléti díj negyven százalékát adja. A tévedés a betegszabadság-díjnak az apasági címre való átviteléből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 31,
+      "sourceHash": "abab1ff6754e"
+    },
+    {
+      "question": "A munkáltató nem az államháztartás kizárt alrendszerébe tartozik; munkavállalója tényleges önkéntes tartalékos szolgálatot teljesít. Mely állítások helyesek a kompenzációról?",
+      "options": [
+        {
+          "text": "A 294/2011. (XII. 22.) Korm. rendelet 1. § (1) bekezdése szerint a tényleges katonai szolgálatteljesítés időtartamára a munkáltató kompenzációra jogosult az önkéntes tartalékos munkavállalója után.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kompenzáció a munkáltatót illeti, nem a munkavállaló díjazását pótolja. A 294/2011. (XII. 22.) Korm. rendelet 1. § (1) bekezdése a tényleges szolgálat tartamára adja a kompenzációt. Az Mt. 132. § szerinti fizetés nélküli szabadság a kompenzációtól függetlenül jár. A megállapodás hiányában a munkáltató kompenzációra nem jogosult."
+        },
+        {
+          "text": "Megállapodás nélkül is jár a teljes kompenzáció, ha a munkavállaló tényleges szolgálatot teljesít.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kompenzáció a Magyar Honvédséggel kötött megállapodáshoz kötött. A helyes: a 294/2011. (XII. 22.) Korm. rendelet 1. § (8) bekezdése szerint a 2. § (1) bekezdése szerinti megállapodás hiányában a munkáltató kompenzációra nem jogosult; a 132. § szerinti fizetés nélküli szabadság ettől függetlenül jár. A tévedés a megállapodási feltétel elhagyásából ered."
+        },
+        {
+          "text": "Az 1. § (6) bekezdése kizárja a központi és önkormányzati költségvetési szerveket, az elkülönített állami pénzalapok kezelőit és a közvetlen többségi állami részesedésű társaságokat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az államháztartási és többségi állami kör ki van zárva. A 294/2011. (XII. 22.) Korm. rendelet 1. § (6) bekezdése e szerveket nem jogosítja kompenzációra. A (3)–(4) bekezdés a teljes, illetve az 50 százalékos mértéket a behívás átütemezésének vállalásához köti. A 132. § szerinti munkavállalói távollét e kizárástól függetlenül kötelező."
+        },
+        {
+          "text": "A kompenzáció a munkavállaló távolléti díját pótolja a 146. § szerint, ezért a 132. § szerinti fizetés nélküli jelleg megszűnik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kompenzáció a munkáltatót illeti, a 132. § fizetés nélküli marad. A helyes: az Mt. 132. § a tényleges szolgálat tartamára fizetés nélküli szabadságot ad; a 294/2011. (XII. 22.) Korm. rendelet 1. §-a a munkáltatói kompenzációt rendezi. A tévedés a munkáltatói támogatásnak a munkavállalói díjazássá olvasásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 32,
+      "sourceHash": "b248781a2696"
+    },
+    {
+      "question": "A keresőképtelen biztosított egészségi állapota javul, és munkája elvégzésére már alkalmas. Mi a kezelőorvos kötelezettsége?",
+      "options": [
+        {
+          "text": "A keresőképessé nyilvánítás napjától a munkáltató ismét igényelheti a munkavégzést, még akkor is, ha a naptári évi betegszabadság-keret nincs kimerítve.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a keresőképesség a távollét orvosi alapját szünteti meg. A 102/1995. (VIII. 25.) Korm. rendelet 5. § szerinti nyilvánítás lezárja a keresőképtelenséget. Az Mt. 126. § (1) bekezdése a betegszabadságot a betegség miatti keresőképtelenség tartamára adja; keresőképesség mellett e cím nem folytatható. A fennmaradó éves keret későbbi keresőképtelenségnél érvényesülhet."
+        },
+        {
+          "text": "A keresőképessé nyilvánítás csak a táppénzes szakaszban kötelező; a betegszabadság alatt a munkáltató dönt a visszatérésről.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az 5. § a keresőképtelenség elbírálására általában vonatkozik, nem csak a táppénzes szakaszra. A helyes: a 102/1995. (VIII. 25.) Korm. rendelet 5. § a javulás vagy az ápolás szükségtelensége esetén kötelező keresőképessé nyilvánítást ír elő; a munkáltató a keresőképtelenséget nem bírálja el. A tévedés a munkáltatói belátásnak az orvosi kötelezettség helyébe állításából ered."
+        },
+        {
+          "text": "A kezelőorvos a tizenöt munkanap betegszabadság végéig köteles fenntartani a keresőképtelenséget, még javuló állapot mellett is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a keresőképtelenség az aktuális alkalmatlansághoz kötött, nem a tizenöt naphoz. A helyes: a 102/1995. (VIII. 25.) Korm. rendelet 5. § szerint, ha a biztosított munkája elvégzésére már alkalmas, keresőképessé kell nyilvánítani. Az Mt. 126. § a betegszabadság keretét adja, de nem írja elő a minősítés mesterséges fenntartását. A tévedés a keret és az orvosi minősítés összecsúsztatásából ered."
+        },
+        {
+          "text": "A 102/1995. (VIII. 25.) Korm. rendelet 5. § szerint a keresőképtelenséget elbíráló orvosnak a biztosítottat keresőképessé kell nyilvánítania, ha a munkája elvégzésére már alkalmas.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a javulás kötelező keresőképessé nyilvánítást indít. A 102/1995. (VIII. 25.) Korm. rendelet 5. § a munkavégzésre való alkalmasság vagy az ápolt gyermek további ápolásának szükségtelensége esetén keresőképessé nyilvánítást ír elő. A „még táppénzen van” gyakorlata önmagában nem tarthatja fenn a minősítést. A keresőképessé nyilvánítás a betegszabadságot is lezárja, ha a tizenöt munkanap még nem telt el."
+        }
+      ],
+      "sourceKerdesSorszam": 33,
+      "sourceHash": "d3ade300df01"
+    },
+    {
+      "question": "A munkáltató a keresőképtelenség felülvizsgálatát kívánja kezdeményezni. Mely állítások helyesek?",
+      "options": [
+        {
+          "text": "A munkáltató egyoldalúan, orvosi eljárás nélkül megszüntetheti a betegszabadságot, ha kétségbe vonja a keresőképtelenséget.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felülvizsgálat a kormányhivatalnál indítható, nem munkáltatói egyoldalú aktus. A helyes: a 102/1995. (VIII. 25.) Korm. rendelet 6. § (3) bekezdése a felülvizsgálat kezdeményezését a kormányhivatalhoz telepíti; a szakértő főorvos dönt a keresőképtelenségről vagy keresőképességről. A tévedés a munkáltatói belátásnak az orvosi-hatósági út helyébe állításából ered."
+        },
+        {
+          "text": "A 102/1995. (VIII. 25.) Korm. rendelet 6. § (3) bekezdése szerint a munkavállaló esetén a munkáltató jogosult a keresőképtelenség felülvizsgálatát kezdeményezni a kormányhivatalnál.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkáltatói kezdeményezés alanyi jog. A 102/1995. (VIII. 25.) Korm. rendelet 6. § (3) bekezdés a) pontja a munkáltatót, a b) pont a közfoglalkoztatót, illetve az állami foglalkoztatási szervet nevezi meg. A (4) bekezdés a kérelem adattartalmát zártan rögzíti. A keresőképtelenség orvosi elbírálása ettől függetlenül nem a munkáltató belátása."
+        },
+        {
+          "text": "A felülvizsgálati kérelemhez elegendő a munkavállaló neve; a TAJ és a keresőképtelenség kezdete nem kötelező adat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (4) bekezdés zárt adattartalmat kíván. A helyes: a 102/1995. (VIII. 25.) Korm. rendelet 6. § (4) bekezdése szerint meg kell adni a munkavállaló nevét, születési helyét, idejét, lakcímét, anyja nevét, társadalombiztosítási azonosító jelét és a keresőképtelenség kezdetét, továbbá a munkáltató cégadatait. A tévedés az adattartalom indokolatlan leszűkítéséből ered."
+        },
+        {
+          "text": "A 7. § (5) bekezdése szerint a szakértő főorvos döntésével szemben a foglalkoztatott és a foglalkoztató a közléstől számított nyolc napon belül orvosi felülvizsgálatot kezdeményezhet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nyolc napos orvosi felülvizsgálati út. A 102/1995. (VIII. 25.) Korm. rendelet 7. § (5) bekezdése a közléstől számított 8 napot ad. A (5a) bekezdés szerint ugyanaz a kormányhivatal nem járhat el, amelynek orvosa a támadott döntést hozta. A 6. § (3) bekezdése szerinti kezdeményezés és e jogorvoslat tehát összekapcsolódik."
+        }
+      ],
+      "sourceKerdesSorszam": 34,
+      "sourceHash": "a60b833ae2b7"
+    },
+    {
+      "question": "Üzemi baleset gyanúja merül fel; a táppénzmegállapító szerv még nem hozott határozatot az üzemiségről. Milyen jellegmegjelölés irányadó az igazoláson?",
+      "options": [
+        {
+          "text": "Üzemi baleset gyanújánál azonnal a betegszabadság tizenöt munkanapját kell kiadni, és a kód később módosítható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, üzemi baleset címén betegszabadság nem jár. A helyes: az Mt. 126. § (2) bekezdése az üzemi baleset miatti keresőképtelenségre nem ad betegszabadságot; a 12. § (2) bekezdése az üzemiség megállapításáig „egyéb baleset 4” megjelölést ír elő. A tévedés a gyanús szakasz betegszabadságra terelésének feltételezéséből ered."
+        },
+        {
+          "text": "A 102/1995. (VIII. 25.) Korm. rendelet 12. § (2) bekezdése szerint amíg a baleset üzemiségét határozattal nem állapítják meg, a keresőképtelenség jellegeként „egyéb baleset 4” megjelölést kell alkalmazni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az üzemiség megállapításáig az „egyéb baleset 4” kód él. A 102/1995. (VIII. 25.) Korm. rendelet 12. § (2) bekezdése az átmeneti megjelölést írja elő. A kódot a határozat bemutatásakor kell módosítani. Ez magyarázza, hogy az Mt. 126. § (2) bekezdése az üzemi baleset címén nem ad betegszabadságot."
+        },
+        {
+          "text": "Az Mt. 126. § (2) bekezdése szerint az üzemi baleset miatti keresőképtelenségre nem jár betegszabadság; a kódcsere a társadalombiztosítási utat nyitja meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jellegmegjelölés és a betegszabadság-kizárás összekapcsolódik. Az Mt. 126. § (2) bekezdése az üzemi balesetet kiveszi a betegszabadság alól. A 12. § (2) bekezdés szerinti kódmódosítás a TB baleseti ellátási utat jelöli. A saját betegség miatti keresőképtelenségre az (1) bekezdés tizenöt munkanapja marad."
+        },
+        {
+          "text": "Az „egyéb baleset 4” megjelölés végleges, a határozat bemutatása után sem módosítható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kódot a határozat bemutatásakor módosítani kell. A helyes: a 102/1995. (VIII. 25.) Korm. rendelet 12. § (2) bekezdése szerint az üzemiség tényét megállapító határozat bemutatásakor a kódot módosítani kell. A tévedés az átmeneti megjelölés véglegesítéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 35,
+      "sourceHash": "294f5afc4716"
+    },
+    {
+      "question": "A munkavállaló a 115. § alkalmazásában azt kérdezi, beszámít-e a tényleges önkéntes tartalékos szolgálat az éves szabadságra jogosító időbe.",
+      "options": [
+        {
+          "text": "A 132. § szerinti távollét egyetlen napja sem számít munkában töltött időnek, mert fizetés nélküli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a három hónapot meg nem haladó tartam a 115. § (2) bekezdés e) pontján beszámít. A helyes: az Mt. 115. § (2) bekezdés e) pontja expressis verbis a tényleges önkéntes tartalékos szolgálat három hónapot meg nem haladó tartamát munkában töltött időnek minősíti. A tévedés a fizetés nélküli jellegnek absolút kizárásként való olvasásából ered."
+        },
+        {
+          "text": "Az Mt. 115. § (2) bekezdés e) pontja a tényleges önkéntes tartalékos katonai szolgálatteljesítés három hónapot meg nem haladó tartamát munkában töltött időnek minősíti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a három hónapos padló a beszámítás feltétele. Az Mt. 115. § (2) bekezdés e) pontja a három hónapot meg nem haladó tényleges szolgálatot számítja be. A 132. § a teljes tényleges szolgálat tartamára ad fizetés nélküli szabadságot. A három hónapot meghaladó rész e címen nem gyarapítja a szabadság-jogosultságot."
+        },
+        {
+          "text": "A 132. § szerinti fizetés nélküli jelleg önmagában nem zárja ki, hogy a három hónapot meg nem haladó tartam a 115. § (2) bekezdés e) pontján beszámítson.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fizetés nélküli cím és a jogosító idő számítása elválhat. Az Mt. 132. § a távollét jogcímét adja; a 115. § (2) bekezdés e) pontja a három hónapot meg nem haladó tartamot munkában töltött időnek minősíti. A 128. § szerinti gyermekgondozási fizetés nélküli szabadságnál a d) pont csak az első hat hónapot engedi. A két beszámítási szabály tehát különböző küszöbű."
+        },
+        {
+          "text": "A tényleges tartalékos szolgálat teljes tartama — akár egy év is — munkában töltött időnek minősül a 115. § szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, csak a három hónapot meg nem haladó tartam számít. A helyes: az Mt. 115. § (2) bekezdés e) pontja a tényleges önkéntes tartalékos katonai szolgálatteljesítés három hónapot meg nem haladó tartamát minősíti munkában töltött időnek. A tévedés a 132. § teljes tartamának automatikus beszámításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 36,
+      "sourceHash": "a9695772a805"
+    },
+    {
+      "question": "A munkavállaló munkaszüneti napon keresőképtelen, és táppénzben nem részesül. Milyen díjazás illeti meg?",
+      "options": [
+        {
+          "text": "Munkaszüneti napi keresőképtelenségnél mindig teljes távolléti díj jár az (1) bekezdés d) pontja szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés a keresőképtelen esetre a hetven százalékot rendeli. A helyes: az Mt. 146. § (2) bekezdése szerint, ha a munkavállaló a munkaszüneti napon keresőképtelen, a távolléti díj hetven százaléka jár; az (1) bekezdés d) pontja a nem keresőképtelen, munkaszüneti nap miatti kiesésre vonatkozik. A tévedés az (1) bekezdés d) pontjának a keresőképtelen esetre való kiterjesztéséből ered."
+        },
+        {
+          "text": "Táppénz mellett is jár a hetven százalékos távolléti díj, mert a munkaszüneti nap munkáltatói teher.",
+          "isCorrect": false,
+          "rationale": "HAMIS, táppénz vagy baleseti táppénz mellett a (2) bekezdés kizárja a távolléti díjat. A helyes: az Mt. 146. § (2) bekezdése szerint nem illeti meg távolléti díj, ha a keresőképtelenségére tekintettel táppénzben vagy baleseti táppénzben részesül. A tévedés a kettős ellátás megengedhetőségének feltételezéséből ered."
+        },
+        {
+          "text": "Az Mt. 146. § (2) bekezdése szerint, ha a munkavállaló a munkaszüneti napon keresőképtelen, részére a távolléti díj hetven százaléka jár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkaszüneti napi keresőképtelenség hetven százalékos. Az Mt. 146. § (2) bekezdése az (1) bekezdés d) pontjától eltérően e hetven százalékot adja. Nem illeti meg távolléti díj, ha a keresőképtelenségére tekintettel táppénzben vagy baleseti táppénzben részesül. A betegszabadság (3) bekezdéses hetven százaléka ettől elváló, de azonos mértékű cím."
+        },
+        {
+          "text": "Ha a keresőképtelenségére tekintettel táppénzben vagy baleseti táppénzben részesül, a (2) bekezdés szerint nem illeti meg távolléti díj.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a TB-ellátás kizárja a munkaszüneti napi távolléti díjat. Az Mt. 146. § (2) bekezdése második mondata e kizárást rögzíti. A táppénz az Ebtv. 43. § szerint a biztosítás és a járulékfeltétel mellett nyílhat. A kettős díjazás tehát tilos."
+        }
+      ],
+      "sourceKerdesSorszam": 37,
+      "sourceHash": "5dce74d812e1"
+    },
+    {
+      "question": "A gyermek halva születik a szülési szabadság alatt. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "Halva születésnél a szabadság a halált követő tizenötödik napon szűnik meg a b) pont szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a halva születés az a) pont önálló címe, nem a b) pont. A helyes: az Mt. 129. § (1) bekezdés a) pontja a gyermek halva születése esetén szüntet; a b) pont akkor alkalmazandó, ha a gyermek meghal, és a megszűnés a halált követő tizenötödik nap. A tévedés az a) és a b) pont felcseréléséből ered."
+        },
+        {
+          "text": "Halva születésnél a szülési szabadság a huszonnégy hét végéig változatlanul fennmarad, mert a 129. § csak a fizetés nélküli címre vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 129. § a szülési szabadságra is vonatkozik, és a halva születés szüntető ok. A helyes: az Mt. 129. § (1) bekezdés a) pontja a gyermek halva születése esetén a 127–128. §-ban meghatározott szabadság megszűnését rendeli. A (2) bekezdés a szülést követően hat hétnél rövidebb tartamot nem enged. A tévedés abból ered, hogy a 129. § hatályát indokolatlanul csak a fizetés nélküli címre szűkíti."
+        },
+        {
+          "text": "Az Mt. 129. § (1) bekezdés a) pontja szerint a 127–128. §-ban meghatározott szabadság megszűnik a gyermek halva születése esetén.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a halva születés önálló szüntető ok. Az Mt. 129. § (1) bekezdés a) pontja e tényt nevezi meg. A b) pont a későbbi halálnál a halált követő tizenötödik napot rendeli. A (2) bekezdés a szülést követően hat hétnél rövidebb tartamot nem enged."
+        },
+        {
+          "text": "A 129. § (2) bekezdése szerint a szülést követően a szabadság tartama hat hétnél rövidebb nem lehet, még az (1) bekezdés a) pontja szerinti megszűnésnél sem.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a gyermekágyi minimum a halva születésnél is érvényesül. Az Mt. 129. § (2) bekezdése az (1) bekezdésben megjelölt esetekre a szülést követően hat hétnél rövidebb tartamot nem enged. Az a) pont a halva születést szüntető okként nevezi meg. A huszonnégy hetes keret tehát e padlóval találkozik."
+        }
+      ],
+      "sourceKerdesSorszam": 38,
+      "sourceHash": "d09dcd040a8e"
+    },
+    {
+      "question": "A szoptató anya nem ikergyermeket nevel; a szoptatás nyolcadik hónapjában van. Milyen napi mentesülés illeti meg?",
+      "options": [
+        {
+          "text": "Az Mt. 55. § (1) bekezdés e) pontja szerint a kilencedik hónap végéig naponta egy órára mentesül, ha nem ikergyermekről van szó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nyolcadik hónapban a nem iker ágon naponta egy óra a törvényi mérték. Az Mt. 55. § (1) bekezdés e) pontja a szoptatás első hat hónapjában naponta kétszer egy órát, a kilencedik hónap végéig naponta egy órát ad, ha nem ikergyermekről van szó. A nyolcadik hónap tehát már a második sávban van, nem az első hat hónapos kétszer egy órás mértékben. Ikergyermekeknél ugyanezen második sáv naponta két órát rendelne."
+        },
+        {
+          "text": "A nyolcadik hónapban is naponta kétszer egy óra jár, mert a szoptatás teljes idejére az első sáv mértéke irányadó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a második sáv a kilencedik hónap végéig naponta egy óra. A helyes: az Mt. 55. § (1) bekezdés e) pontja az első hat hónapban naponta kétszer egy, a kilencedik hónap végéig naponta egy órát ad nem iker esetben. A tévedés az első sáv mértékének a teljes szoptatási időszakra kiterjesztéséből ered."
+        },
+        {
+          "text": "A kilencedik hónap után is fennmarad a napi egy órás mentesülés a gyermek egyéves koráig.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az e) pont a kilencedik hónap végéig adja a második sávot. A helyes: az Mt. 55. § (1) bekezdés e) pontja a szoptatás első hat hónapjában, illetve a kilencedik hónap végéig határozza meg a napi óraszámot; ezen túl e cím nem folytatódik. A tévedés az egyéves korhatárnak az e) pontba olvasásából ered."
+        },
+        {
+          "text": "Az első hat hónapban ugyanilyen nem iker esetben naponta kétszer egy óra járna; a nyolcadik hónapban ez a mérték már nem él.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a sávváltás a hatodik hónap után következik. Az Mt. 55. § (1) bekezdés e) pontja az első hat hónapban naponta kétszer egy órát, a kilencedik hónap végéig naponta egy órát rendel. A nyolcadik hónapban tehát a kétszer egy órás mérték nem tartható fenn. A mentesülés munkaidő-kedvezmény, nem a 128. § fizetés nélküli szabadsága."
+        }
+      ],
+      "sourceKerdesSorszam": 39,
+      "sourceHash": "70961e7448a8"
+    },
+    {
+      "question": "A munkavállaló a 55. § (1) bekezdés l) pontja szerinti gondozói mentesülést két részletben kéri. Mely állítások helyesek?",
+      "options": [
+        {
+          "text": "A gondozói öt munkanap három vagy több részletben is kiadható, ha a munkáltató ehhez hozzájárul.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törvény legfeljebb két részletet enged. A helyes: az Mt. 55. § (3) bekezdése szerint az l) pont szerinti mentesülést legfeljebb két részletben kell biztosítani. A tévedés a részletszám munkáltatói megállapodással való tágításából ered."
+        },
+        {
+          "text": "Az l) pont szerinti mentesülés orvosi igazolás nélkül is jár, ha a hozzátartozói minőség a 294. § szerint igazolt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az orvosi igazolás a (3) bekezdés szerint kötelező. A helyes: az Mt. 55. § (3) bekezdése szerint a súlyos egészségi ok fennállását és a gondozás indokoltságát a gondozásra szoruló személy kezelőorvosa igazolja. A 294. § (1) bekezdés b) pontja csak a hozzátartozói kört adja. A tévedés a személyi és az orvosi feltétel összecsúsztatásából ered."
+        },
+        {
+          "text": "A (4) bekezdés szerint az l) pontnál a 124. § rendelkezéseit megfelelően alkalmazni kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az l) pont szerinti mentesülés napjait a 124. § szerinti kiadási rendhez kell igazítani. Az Mt. 55. § (4) bekezdése a j) és az l) pontnál a 124. § megfelelő alkalmazását rendeli. A 124. § (1) bekezdése szerint a kiadást a munkaidő-beosztás szerinti munkanapokra kell teljesíteni, nem pusztán naptári napokra. A j) pont szerinti örökbefogadási előkészítés ugyanezt a 124. §-os utalást kapja."
+        },
+        {
+          "text": "Az (1) bekezdés l) pontja évente legfeljebb öt munkanapot ad; a két részletes kiadás e plafont nem emeli, és a cím nem a 131. § legfeljebb kétéves tartós ápolása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rövid gondozói keret öt munkanap, a részletezés nem növeli. Az Mt. 55. § (1) bekezdés l) pontja évente legfeljebb öt munkanapot nyit. A (3) bekezdés legfeljebb két részletet enged, de az éves plafont nem emeli. A 131. § (1) bekezdése a hozzátartozó előreláthatólag harminc napot meghaladó személyes ápolására, legfeljebb két évre ad fizetés nélküli szabadságot; ez külön jogcím."
+        }
+      ],
+      "sourceKerdesSorszam": 40,
+      "sourceHash": "f36d91158683"
+    },
+    {
+      "question": "A Cst. 20. § szerint a szülő tartósan beteg gyermeke után GYES-re jogosult. Hogyan kapcsolódik ehhez az Mt. 130. §?",
+      "options": [
+        {
+          "text": "Ikergyermekeknél a Cst. 20. § (1) bekezdés b) pontja a tankötelessé válás évének végéig ad GYES-t; az Mt. 130. § ezt is tízéves fizetés nélküli szabadsággá alakítja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 130. § nem alakítja az iker-GYES-t automatikus tízéves Mt.-s címmé. A helyes: a Cst. 20. § (1) bekezdés b) pontja az ikrek tankötelessé válásának évének végéig adja a GYES-t; az Mt. 130. § a gyermek tizedik életéve betöltéséig a folyósítás tartama alatt nyit, tipikusan a tartósan beteg ág tükreként. A tévedés az iker-GYES és a 130. § tízéves korhatárának azonosításából ered."
+        },
+        {
+          "text": "A Cst. 20. § (1) bekezdés a) pontja a gyermek 3. életévének betöltéséig adja a GYES általános ágát; ez a 128. § (1) bekezdés hároméves korhatárával fut össze, nem a 130. §-sal.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az általános GYES-ág és a 128. § (1) bekezdése találkozik. A Cst. 20. § (1) bekezdés a) pontja a hároméves korhatárt adja; az Mt. 128. § (1) bekezdése a gyermek gondozása céljából a harmadik életévig nyit fizetés nélküli szabadságot. A 130. § a tizedik életévhez és a folyósításhoz kötött. A két Mt.-s cím tehát különböző korhatárú."
+        },
+        {
+          "text": "A 130. § a Cst. 20. § (1) bekezdés a) pontjának hároméves ágát hosszabbítja meg automatikusan tíz évre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 130. § a GYES folyósításához és jellemzően a tartósan beteg ághoz kapcsolódik, nem az általános hároméves ág automatikus hosszabbítása. A helyes: az Mt. 130. § a gyermek tizedik életéve betöltéséig a gyermekgondozást segítő ellátás folyósításának tartama alatt ad szabadságot; a Cst. 20. § (1) bekezdés c) pontja a tartósan beteg, súlyosan fogyatékos gyermeknél nyitja a tízéves GYES-t. A tévedés a két GYES-ág összecsúsztatásából ered."
+        },
+        {
+          "text": "A Cst. 20. § (1) bekezdés c) pontja a tartósan beteg, illetve súlyosan fogyatékos gyermek 10. életévének betöltéséig nyitja a GYES-t; az Mt. 130. § e folyósítás tartama alatt adja a fizetés nélküli szabadságot a tizedik életévig.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 130. § a GYES tartósan beteg ágának munkajogi tükre. A Cst. 20. § (1) bekezdés c) pontja a tartósan beteg, illetve súlyosan fogyatékos gyermek 10. életévének betöltéséig nyitja a GYES-t. Az Mt. 130. § a gyermek tizedik életéve betöltéséig a gyermekgondozást segítő ellátás folyósításának tartama alatt ad fizetés nélküli szabadságot. A 128. § (1) bekezdés szerinti, a harmadik életévig tartó gondozási cím ettől elváló jogalap; a folyósítás megszűnésével a 130. § szerinti szabadság is véget ér."
+        }
+      ],
+      "sourceKerdesSorszam": 41,
+      "sourceHash": "dd34ec012735"
+    },
+    {
+      "question": "A 30 napot meghaladó keresőképtelenség felülvéleményezéséről mely állítások helyesek?",
+      "options": [
+        {
+          "text": "Az egy hónapot meghaladóan táppénzes állományban lévő fekvőbeteg orvosszakmai felülvéleményezését a szakértő főorvos utasítására a beteg tartózkodási helyén is elvégezheti a felülvéleményező főorvos.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fekvőbeteg felülvéleményezése a tartózkodási helyen is lehetséges. A 102/1995. (VIII. 25.) Korm. rendelet 7/A. § (2) bekezdése második mondata e lehetőséget adja. A 7. § (3) bekezdése a szakértő főorvos vizsgálati jogait sorolja. A keresőképesség tényéről a szakértő főorvos is dönthet."
+        },
+        {
+          "text": "A felülvéleményezés csak a betegszabadság tizenöt munkanapja alatt kötelező; a táppénzes szakaszban elmaradhat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 7/A. § (2) bekezdése a 30 napot meghaladó keresőképtelenségre vonatkozik, ami tipikusan már a táppénzes szakasz. A helyes: a 102/1995. (VIII. 25.) Korm. rendelet 7/A. § (2) bekezdése a 30 napot meghaladó keresőképtelenség havi felülvéleményezését rendeli; az Mt. 126. § tizenöt munkanapja ettől elváló munkajogi keret. A tévedés a felülvéleményezésnek a betegszabadságra szűkítéséből ered."
+        },
+        {
+          "text": "A 102/1995. (VIII. 25.) Korm. rendelet 7/A. § (2) bekezdése szerint a 30 napot meghaladó keresőképtelenséget a felülvéleményező főorvos havonta legalább egyszer felülvéleményezi, kivéve, ha a felülvéleményezés időtartamát hosszabban állapították meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a harminc nap feletti állomány havi felülvéleményezési kötelezettséget indít. A 102/1995. (VIII. 25.) Korm. rendelet 7/A. § (2) bekezdése e szabályt rögzíti. A felülvéleményező főorvos a 7. § (2) bekezdése szerinti közreműködésben jár el. Az Mt. 126. § tizenöt munkanapos betegszabadsága e felülvéleményezési rendet nem helyettesíti."
+        },
+        {
+          "text": "A harminc napot meghaladó keresőképtelenségnél a felülvéleményezés évente egyszer kötelező.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a főszabály havonta legalább egyszer, nem évente. A helyes: a 102/1995. (VIII. 25.) Korm. rendelet 7/A. § (2) bekezdése szerint a 30 napot meghaladó keresőképtelenséget a felülvéleményező főorvos havonta legalább egyszer felülvéleményezi, kivéve, ha a felülvéleményezés időtartamát hosszabban állapították meg. A tévedés a havi kötelezettség évesre lazításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 42,
+      "sourceHash": "70fd641bf1cc"
+    },
+    {
+      "question": "A felek a 127. § (5) bekezdés szerinti, munkában töltött idő minősítéstől a munkavállaló terhére el kívánnának térni. Megengedett-e?",
+      "options": [
+        {
+          "text": "A 135. § (1) bekezdés g) pontja a 127. § (1), (2) és (4) bekezdését abszolút kógenssé teszi; az (5) bekezdés ettől elváló, a (2) bekezdés p) pontján kezelt minősítés.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tartami mag és a jogosító idő minősítése külön eltérési rendű. Az Mt. 135. § (1) bekezdés g) pontja az (1), (2) és (4) bekezdést zárja el; a (2) bekezdés p) pontja az (5) bekezdéstől csak a munkavállaló javára enged KSZ-eltérést. A huszonnégy hét tehát sem megállapodással, sem KSZ-sel nem rövidíthető. A minősítés a munkavállaló javára tágítható."
+        },
+        {
+          "text": "A felek egyedi megállapodással a szülési szabadságot kivehetik a munkában töltött idő köréből, mert az (5) bekezdés diszpozitív.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (5) bekezdéstől a KSZ is csak a munkavállaló javára térhet el; a terhére történő egyedi kivétel nem nyílik. A helyes: az Mt. 135. § (2) bekezdés p) pontja a 127. § (5) bekezdésétől csak a munkavállaló javára enged kollektív eltérést; a 127. § (5) bekezdése a szülési szabadságot főszabályként munkában töltött időnek minősíti. A tévedés a terhére történő diszpozitivitás feltételezéséből ered."
+        },
+        {
+          "text": "Az Mt. 135. § (2) bekezdés p) pontja a 127. § (5) bekezdésétől a kollektív szerződésnek csak a munkavállaló javára enged eltérést, ezért a terhére történő eltérés e címen nem jogszerű.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a minősítés relatív kógens a munkavállaló javára. Az Mt. 135. § (2) bekezdés p) pontja a 127. § (5) bekezdését e listán nevezi meg. Az (5) bekezdés a szülési szabadság tartamát — a kifejezetten munkavégzéshez kapcsolódó jogosultság kivételével — munkában töltött időnek minősíti. A terhére történő szűkítés tehát KSZ-sel sem nyílik."
+        },
+        {
+          "text": "A 135. § (1) bekezdés g) pontja az (5) bekezdést is abszolút kógenssé teszi, ezért a munkavállaló javára sem lehet eltérni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (5) bekezdés a (2) bekezdés p) pontján a munkavállaló javára eltéríthető. A helyes: az Mt. 135. § (1) bekezdés g) pontja a 127. § (1), (2) és (4) bekezdését zárja el; a (2) bekezdés p) pontja az (5) bekezdéstől a kollektív szerződésnek csak a munkavállaló javára enged eltérést. A tévedés az (5) bekezdésnek az abszolút tilalmi listára olvasásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 43,
+      "sourceHash": "c338fc00ccec"
+    },
+    {
+      "question": "A munkavállaló a 128. § (3) bekezdése szerinti, nagyszülői GYED-hez kötött fizetés nélküli szabadságon van. Mely elhatárolások helyesek?",
+      "options": [
+        {
+          "text": "A 128. § (3) bekezdése a tartamot az Ebtv. 42/G. § szerinti gyermekgondozási díj időtartamához köti, nem a gyermek életkorához.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés ellátásfüggő. Az Mt. 128. § (3) bekezdése expressis verbis az Ebtv. 42/G. §-a szerinti díj időtartamára adja a fizetés nélküli szabadságot. Az (1) bekezdés a harmadik életévhez, a (2) bekezdés az örökbefogadotti gondozásba helyezéshez igazodik. A három bekezdés tehát különböző horonyú."
+        },
+        {
+          "text": "Az Ebtv. 42/G. § a TB-jogosultságot, az Mt. 128. § (3) bekezdése a munkajogi távollétet rendezi; a két sík nem cserélendő fel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a TB-ellátás és a munkajogi fedezet elválik. Az Ebtv. 42/G. § (1) bekezdése a nagyszülői GYED feltételeit adja; az Mt. 128. § (3) bekezdése a díj időtartamára fizetés nélküli szabadságot nyit. A 133. § (1) bekezdése a fizetés nélküli szabadság igénybevételéhez legalább tizenöt napos előzetes írásbeli bejelentést kíván. A 127. § szerinti huszonnégy hetes szülési szabadság a nagyszülői GYED tartamát nem helyettesíti."
+        },
+        {
+          "text": "A nagyszülői GYED alatt a 127. § szerinti huszonnégy hetes szülési szabadságot kell kiadni a nagyszülőnek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nagyszülőnek nem a szülési, hanem a 128. § (3) bekezdés szerinti fizetés nélküli szabadság jár. A helyes: az Mt. 128. § (3) bekezdése az Ebtv. 42/G. § szerinti díj időtartamára fizetés nélküli szabadságot ad. A 127. § a huszonnégy hetes szülési szabadságot az anya, illetve a (2) bekezdés szerinti gondozó számára rendezi. A tévedés a szülési és a fizetés nélküli cím felcseréléséből ered."
+        },
+        {
+          "text": "A 128. § (3) bekezdése a gyermek hároméves koráig jár, még akkor is, ha a 42/G. § szerinti díj korábban megszűnik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés a díj időtartamához kötött. A helyes: az Mt. 128. § (3) bekezdése az Ebtv. 42/G. § szerinti gyermekgondozási díj időtartamára adja a fizetés nélküli szabadságot; az (1) bekezdés hároméves korhatára e címen nem irányadó. A tévedés az (1) és a (3) bekezdés összecsúsztatásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 44,
+      "sourceHash": "4dd7c3cfffa7"
+    },
+    {
+      "question": "Évközi belépés után a munkavállaló a betegszabadság arányos részét kimerítette, de továbbra is saját betegsége miatt keresőképtelen. Mi következik?",
+      "options": [
+        {
+          "text": "A 126. § (2) bekezdés szerinti kizárt címek hiányában a saját betegségi út a betegszabadság, majd a táppénz sorrendjét követi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a sorrend a saját betegségi címre érvényes. Az Mt. 126. § (1) és (3) bekezdése a betegszabadságot adja; az Ebtv. 43. § a táppénzt. A (2) bekezdés üzemi balesetet, foglalkozási betegséget és veszélyeztetett várandósságot kivesz. A két intézmény alanya — munkáltató, illetve TB — elválik."
+        },
+        {
+          "text": "Táppénz csak akkor jár, ha a munkáltató a betegszabadságot önként meghosszabbítja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a táppénz TB-jogosultság, nem a munkáltatói hosszabbítás feltétele. A helyes: az Ebtv. 43. § (1) bekezdése a biztosítás fennállása és a járulékfizetési kötelezettség mellett adja a táppénzt a keresőképtelenségre; az Mt. 126. § a betegszabadság keretét adja. A tévedés a két sík összecsúsztatásából ered."
+        },
+        {
+          "text": "Az arányos keret kimerülte után a munkáltató köteles a teljes tizenöt munkanapot utólag kiadni, mert az (1) bekezdés mindenkit megillet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, évközi belépésnél az arányos rész a törvényi mérték. A helyes: az Mt. 126. § (3) bekezdése szerint évközben kezdődő munkaviszony esetén a munkavállaló a betegszabadság arányos részére jogosult; az (1) bekezdés tizenöt munkanapja a teljes naptári évre szól. A tévedés az arányosítás utólagos feloldásából ered."
+        },
+        {
+          "text": "Az arányos betegszabadság kimerülte után a tovább fennálló keresőképtelenségre — a biztosítás és a járulékfeltétel mellett — az Ebtv. 43. § szerinti táppénz nyílhat meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az arányos keret után a TB-sík következik. Az Mt. 126. § (3) bekezdése az évközi kezdetnél arányos betegszabadságot ad; a kimerülés után a munkáltatói tizenöt napos teher e naptári évben e jogviszonyban nem folytatódik. Az Ebtv. 43. § (1) bekezdése a táppénzt a biztosítás fennállása és a Tbj. szerinti járulékfizetési kötelezettség mellett adja. A betegszabadság nem a táppénz előlege."
+        }
+      ],
+      "sourceKerdesSorszam": 45,
+      "sourceHash": "99c9292d2005"
+    },
+    {
+      "question": "A 135. § (2) bekezdés r) pontja fényében a kollektív szerződés a 131. § szerinti tartós ápolási fizetés nélküli szabadság két éves plafonját a munkavállaló javára három évre emelné. Megengedett-e?",
+      "options": [
+        {
+          "text": "Az Mt. 135. § (2) bekezdés r) pontja a 128–133. §-tól a kollektív szerződésnek csak a munkavállaló javára enged eltérést, ezért a plafon emelése e címen megengedett.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fizetés nélküli blokk a munkavállaló javára tágítható. Az Mt. 135. § (2) bekezdés r) pontja a 128–133. §-t e listán nevezi meg. A 131. § (1) bekezdése főszabályként legfeljebb két évet ad. A munkavállaló terhére történő rövidítés e ponton nem nyílik."
+        },
+        {
+          "text": "A 131. § tartama egyedi munkaszerződéssel is a munkavállaló terhére rövidíthető, mert a 135. § (2) bekezdése csak a KSZ-t említi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés r) pontja a KSZ-nek is csak a javára enged eltérést; a terhére történő egyedi rövidítés sem nyílik e logika mentén. A helyes: az Mt. 131. § (1) bekezdése legfeljebb két évet ad; a 135. § (2) bekezdés r) pontja a 128–133. §-tól a kollektív szerződésnek csak a munkavállaló javára enged eltérést. A tévedés a terhére történő szerződéses rövidítés megengedhetőségének feltételezéséből ered."
+        },
+        {
+          "text": "A kollektív szerződés a két éves plafont egy évre csökkentheti, mert a 131. § nincs az abszolút kógens listán.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkavállaló terhére történő csökkentés a (2) bekezdés r) pontján nem megengedett. A helyes: az Mt. 135. § (2) bekezdés r) pontja a 128–133. §-tól csak a munkavállaló javára enged kollektív eltérést; a 131. § (1) bekezdése legfeljebb két évet ad. A tévedés az abszolút tilalom hiányának szabad terhéű eltérésként való olvasásából ered."
+        },
+        {
+          "text": "A 131. § (2) bekezdés orvosi igazolási feltétele a 135. § (2) bekezdés r) pontja szerinti eltéréssel sem mellőzhető a munkavállaló terhére; a javára szóló plafonemelés az igazolást nem engedi el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a plafonemelés nem oldja fel az orvosi feltételt. Az Mt. 131. § (2) bekezdése szerint a tartós ápolást és annak indokoltságát a kezelőorvos igazolja. A 135. § (2) bekezdés r) pontja a 128–133. §-tól csak a munkavállaló javára enged eltérést. Az igazolás mellőzése a munkavállaló terhére nem lenne „javára” szóló eltérés."
+        }
+      ],
+      "sourceKerdesSorszam": 46,
+      "sourceHash": "17d20a8b884d"
+    }
+  ]
+}

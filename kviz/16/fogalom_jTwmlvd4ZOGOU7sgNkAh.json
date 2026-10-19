@@ -1,0 +1,684 @@
+{
+  "id": "jTwmlvd4ZOGOU7sgNkAh",
+  "sorszam": 16,
+  "cim": "A végkielégítés.",
+  "generationType": "fogalom",
+  "title": "16. A végkielégítés.",
+  "questions": [
+    {
+      "question": "Mit jelent az Mt. 77. § (1) bekezdésének zárt taxációja a végkielégítés jogcímeire?",
+      "options": [
+        {
+          "text": "A munkáltató jogutód nélküli megszűnése is megnyitja a 77. § (1) bekezdés szerinti jogosultságot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 77. § (1) bekezdés b) pontja a munkáltató jogutód nélküli megszűnését önálló jogcímként nevezi meg. A c) pont ehhez a 63. § (1) bekezdés d) pontja szerinti megszűnést társítja. A három pont együtt adja a zárt taxációt."
+        },
+        {
+          "text": "A munkavállaló indokolás nélküli felmondása a 77. § (1) bekezdés taxációjában önálló jogcím.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 77. § (1) bekezdés a)–c) pontja a munkáltató felmondását, a jogutód nélküli megszűnést és a 63. § (1) bekezdés d) pontját sorolja fel. A munkavállaló indokolás nélküli felmondása ebben a listában nem szerepel. A 67. § (1) szerinti indokolás nélküli munkavállalói felmondás ezért önmagában nem nyit végkielégítést."
+        },
+        {
+          "text": "A munkavállalót végkielégítés illeti meg, ha munkaviszonya a munkáltató felmondása alapján szűnik meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 77. § (1) bekezdés a) pontja szerint „A munkavállalót végkielégítés illeti meg, ha munkaviszonya a) a munkáltató felmondása” alapján szűnik meg. Ez a taxált jogcímek első eleme a b) és c) pont mellett. A felmondás indoka külön vizsgálandó az (5) bekezdés b) pontja szerint, mert a magatartási vagy nem egészségi képességbeli indok kizárhat."
+        },
+        {
+          "text": "A munkáltató Mt. 78. § (1) bekezdése szerinti azonnali hatályú felmondása a 77. § (1) bekezdés a) pontja alá esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 77. § (1) bekezdés a) pontja a munkáltató felmondását jelenti, nem az azonnali hatályú megszüntetést. A 78. § (1) szerinti munkáltatói azonnali hatályú felmondás az (1) bekezdés taxációjában nem szerepel. A 78. § (3) csak a munkavállaló azonnali hatályú felmondására rendeli a 77. § megfelelő alkalmazását."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "b7720e415603"
+    },
+    {
+      "question": "Hogyan határolódik el a végkielégítés a 70. § szerinti felmentési távolléti díjtól és a kártól?",
+      "options": [
+        {
+          "text": "A 70. § szerinti felmentés tartamára járó távolléti díj helyettesíti a 77. § szerinti végkielégítést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 70. § szerinti felmentési távolléti díj és az Mt. 77. § szerinti végkielégítés külön jogintézmény. A felmentés a felmondási időn belüli munkavégzés alóli mentesítés díjazása. A végkielégítés az (1) bekezdés taxált megszűnési címeihez fűzött egyszeri juttatás, nem a felmentés helyettesítője."
+        },
+        {
+          "text": "A végkielégítés nem azonos a 70. § szerinti, a munkavégzés alóli felmentés tartamára járó távolléti díjjal.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 70. § a felmondási időn belüli felmentés tartamára távolléti díjat ad, ha a munkavállaló munkabérre egyébként jogosult lenne. Az Mt. 77. § ezzel szemben egyszeri végkielégítést állapít meg. A két juttatás párhuzamosan is felmerülhet, de nem ugyanaz a jogintézmény."
+        },
+        {
+          "text": "A végkielégítés nem a felmondási idő ellenértéke, és nem kártérítés.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a végkielégítés a munkaviszony meghatározott, munkáltatói oldalon felmerült vagy működéshez kötődő címen történő megszűnéséhez fűzött, egyszeri, távolléti díjban mért juttatás. Az Mt. 77. § ezt a juttatást a felmondási idő ellenértékétől és a kártérítéstől elválasztva szabályozza. A jogellenes megszüntetés Mt. 82. §-a szerinti kártérítése ettől különálló jogkövetkezmény."
+        },
+        {
+          "text": "A végkielégítés a munkaviszony minden megszűnésének járulékszerű következménye.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 77. § (1) bekezdése zárt taxációt ad, az (5) bekezdés pedig kizárást rögzít. A juttatás nem jár a munkaviszony minden megszűnésekor. A közös megegyezés, a határozott idő lejárta és a munkáltatói azonnali hatályú felmondás az (1) bekezdés listájában nem szerepel."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "25ade0be7041"
+    },
+    {
+      "question": "Mit jelent az, hogy a 40. § és a 78. § (3) bekezdés a 77. §-t „megfelelően alkalmazza”?",
+      "options": [
+        {
+          "text": "A 40. § és a 78. § (3) bekezdés bővíti a 77. § (1) bekezdés taxált jogcímeinek listáját.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 40. § (1) és a 78. § (3) nem bővíti az Mt. 77. § (1) bekezdés a)–c) pontjának taxációját. Ezek a 77. § szabályait más megszűnési tényállásra viszik át megfelelő alkalmazással. Az (1) bekezdés szövege változatlanul három jogcímet nevez meg."
+        },
+        {
+          "text": "A 40. § (1) bekezdése a 77. § megfelelő alkalmazását rendeli, ha a munkavállaló a lényeges és hátrányos munkafeltétel-változásra hivatkozva mond fel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 40. § (1) bekezdése a munkáltató személyében bekövetkező változásnál a 70. § és a 77. § megfelelő alkalmazását írja elő. Feltétel, hogy a munkavállaló a rá irányadó munkafeltételek lényeges és hátrányos megváltozása miatt mondjon fel. Ez a szabály a 77. §-t más tényállásra viszi át."
+        },
+        {
+          "text": "A 78. § (3) bekezdése a munkáltató azonnali hatályú felmondására is a 77. § megfelelő alkalmazását rendeli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 78. § (3) bekezdése csak a munkavállaló azonnali hatályú felmondására rendeli a 77. § megfelelő alkalmazását. A munkáltató 78. § (1) szerinti azonnali hatályú felmondása a 77. § (1) taxációjában nem szerepel. A két irányú azonnali hatályú felmondás tehát nem azonos a végkielégítés szempontjából."
+        },
+        {
+          "text": "A 78. § (3) bekezdése a munkavállaló azonnali hatályú felmondása esetén rendeli a 77. § megfelelő alkalmazását.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 78. § (3) bekezdése a munkavállaló azonnali hatályú felmondásánál a munkáltatót „a 70. § (3) bekezdésének és a 77. §-nak a megfelelő alkalmazására” kötelezi. Így a végkielégítés a munkavállalói azonnali hatályú felmondáshoz fűződhet. Az (1) bekezdés a munkavállalói felmondást önmagában nem sorolja fel."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "4c1b50d620d6"
+    },
+    {
+      "question": "Mikor zárja el az Mt. 77. § (5) bekezdése a végkielégítést?",
+      "options": [
+        {
+          "text": "A 77. § (5) bekezdés a) pontja a nyugdíjas minősítést a munkaviszony megszűnését követő első nyugdíjfolyósításhoz köti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 77. § (5) bekezdés a) pontja a nyugdíjasnak minősülést a felmondás közlésének vagy a jogutód nélküli megszűnés időpontjához köti. Nem a későbbi folyósítás a mérvadó időpont. A 294. § (1) bekezdés g) pont ga) alpontja szerinti jogosultságnál a folyósítás megkezdése egyébként sem eleme a minősítésnek."
+        },
+        {
+          "text": "Nem jár végkielégítés, ha a felmondás közlésének vagy a jogutód nélküli megszűnés időpontjában a munkavállaló nyugdíjasnak minősül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 77. § (5) bekezdés a) pontja szerint „Nem jár végkielégítés a munkavállalónak, ha a felmondás közlésének vagy a munkáltató jogutód nélküli megszűnésének időpontjában nyugdíjasnak minősül”. A minősítés tartalmát a 294. § (1) bekezdés g) pontja adja. A későbbi nyugdíjba vonulás a már megszerzett igényt nem vonja el."
+        },
+        {
+          "text": "Nem jár végkielégítés, ha a felmondás indoka a munkavállaló munkaviszonnyal kapcsolatos magatartása vagy a nem egészségi okkal összefüggő képessége.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 77. § (5) bekezdés b) pontja a felmondás indokához köti a kizárást. A munkaviszonnyal kapcsolatos magatartás és a nem egészségi okkal összefüggő képesség egyaránt elzárja a juttatást. Az önhiba hiánya tehát a jogosultság feltétele a magatartási–képességbeli tengelyen."
+        },
+        {
+          "text": "Az egészségi okkal összefüggő képességbeli felmondás is a 77. § (5) bekezdés b) pontja alá esik, ezért kizárja a végkielégítést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 77. § (5) bekezdés b) pontja csak a magatartást és a nem egészségi okkal összefüggő képességet zárja ki. Az egészségi okkal összefüggő képességbeli felmondás e kizáró szabály alá nem tartozik. Ilyen indokú munkáltatói felmondásnál az (1) bekezdés a) pontja szerinti jogcím fennmaradhat."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "c167a803d23c"
+    },
+    {
+      "question": "Hogyan méri az Mt. 77. § (2) bekezdése a végkielégítésre való jogosultsági időt?",
+      "options": [
+        {
+          "text": "A jogosultsági időből ki kell venni az egybefüggően legalább harminc napot meghaladó, munkabér nélküli tartamot, ha kivétel nem áll fenn.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 77. § (2) bekezdés második mondata szerint nem kell figyelembe venni „azt az egybefüggően legalább harminc napot meghaladó tartamot, amelyre a munkavállalót munkabér nem illette meg”, kivéve a taxált kivételeket. A harminc napot el nem érő díjazás nélküli szakasz beleszámít. A kivételeket az a) és b) pont nevezi meg."
+        },
+        {
+          "text": "A jogosultság feltétele, hogy a munkaviszony a felmondás közlésének vagy a jogutód nélküli megszűnés időpontjában a (3) bekezdés szerinti tartamban fennálljon.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 77. § (2) bekezdés első mondata a (3) bekezdés szerinti tartam fennállását a felmondás közléséhez vagy a jogutód nélküli megszűnés időpontjához köti. Nem a felmondási idő lejártához méri a tartamot. A 148. § (2) bekezdés b) pontja a távolléti díj esedékességét ugyanehhez a logikához igazítja."
+        },
+        {
+          "text": "A harminc napot el nem érő, díjazás nélküli egybefüggő szakasz is levonandó a jogosultsági időből.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 77. § (2) bekezdése csak az egybefüggően legalább harminc napot meghaladó, munkabér nélküli tartamot veszi ki. A harminc napot el nem érő díjazás nélküli szakasz a tartamba beleszámít. A küszöb tehát a „legalább harminc napot meghaladó” egybefüggő tartam."
+        },
+        {
+          "text": "A jogosultsági időt mindig a munkaviszony tényleges megszűnésének napjához kell mérni, felmondás esetén is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 77. § (2) bekezdése felmondásnál a közlés időpontjához, jogutód nélküli megszűnésnél pedig e megszűnés időpontjához köti a tartammérést. A felmondási idő lejárta nem a (2) bekezdés mérvadó időpontja. A 148. § (2) bekezdés b) pont ba) alpontja munkáltatói felmondásnál ugyanezt a közlést követi."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "4ee6b5fec639"
+    },
+    {
+      "question": "Mely tartamok kivételek a 77. § (2) bekezdés szerinti díjazás nélküli tartam levonása alól?",
+      "options": [
+        {
+          "text": "A szülési szabadság, a szülői szabadság és a gyermekgondozási fizetés nélküli szabadság (128. §) teljes tartama kivétel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 77. § (2) bekezdés a) pontja a szülési, szülői és a 128. § szerinti gyermekápolási–gondozási fizetés nélküli szabadságot a levonás alól kiveszi. Ez a kivétel a teljes ilyen tartamra vonatkozik. A harmincnapos küszöb e pontnál nem érvényesül."
+        },
+        {
+          "text": "A tartalékos szolgálat teljes fizetés nélküli tartama — időtartamtól függetlenül — beleszámít a jogosultsági időbe.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 77. § (2) bekezdés b) pontja csak a három hónapot meg nem haladó tartalékos tartamot emeli ki. A három hónapot meghaladó rész a díjazás nélküli tartam levonása alá esik. A teljes tartam automatikus beszámítása tehát nem áll."
+        },
+        {
+          "text": "A 128. § szerinti gyermekgondozási fizetés nélküli szabadság csak az első harminc napig kivétel a levonás alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 77. § (2) bekezdés a) pontja a 128. § szerinti gyermekápolási–gondozási fizetés nélküli szabadság teljes tartamát kiveszi. Nincs harmincnapos korlátozás e kivételnél. A harmincnapos küszöb a főszabály levonására vonatkozik, nem erre a kivételre."
+        },
+        {
+          "text": "A 132. § szerinti tartalékos katonai szolgálat fizetés nélküli szabadságának három hónapot meg nem haladó tartama kivétel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 77. § (2) bekezdés b) pontja a tényleges önkéntes tartalékos katonai szolgálatteljesítés céljából igénybe vett fizetés nélküli szabadság (132. §) három hónapot meg nem haladó tartamát veszi ki. A három hónapot meghaladó rész már a levonás alá esik. A kivétel tehát nem a teljes tartalékos tartamra automatikus."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "f170c43cbaca"
+    },
+    {
+      "question": "Milyen sávokat állapít meg az Mt. 77. § (3) bekezdése a végkielégítés mértékére?",
+      "options": [
+        {
+          "text": "Legalább huszonöt év esetén a végkielégítés mértéke tizenkét havi távolléti díj.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 77. § (3) bekezdés f) pontja szerint legalább huszonöt év esetén hathavi távolléti díj az összeg. A tizenkét havi plafon az Mt. 82. § (2) bekezdés szerinti elmaradt jövedelem kártérítésére vonatkozik. A két intézmény nem cserélhető fel a (3) bekezdés sávjában."
+        },
+        {
+          "text": "Legalább tíz, tizenöt, húsz, illetve huszonöt év esetén három-, négy-, öt-, illetve hathavi távolléti díj jár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 77. § (3) bekezdés c)–f) pontja a legalább tíz évi tartamnál háromhavi, tizenöt évnél négyhavi, húsz évnél öthavi, huszonöt évnél hathavi távolléti díjat ír elő. A juttatás tehát egyhavi-tól hathavi távolléti díjig terjed. A számítási alap mindvégig a távolléti díj, nem az alapbér önmagában."
+        },
+        {
+          "text": "Legalább három év esetén egyhavi, legalább öt év esetén kéthavi távolléti díj a mérték.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 77. § (3) bekezdés a) pontja legalább három évnél egyhavi, a b) pont legalább öt évnél kéthavi távolléti díjat állapít meg. A mérték a munkaviszony tartamához, nem az életkorhoz kötődik. A sávok kumulatív küszöbök: a magasabb tartam a magasabb mértéket nyitja meg."
+        },
+        {
+          "text": "A (3) bekezdés a mértéket a munkavállaló életkorához, nem a munkaviszony tartamához köti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 77. § (3) bekezdése a mértéket a munkaviszony tartamához köti: három, öt, tíz, tizenöt, húsz, huszonöt év a küszöb. Az életkor önmagában nem a (3) bekezdés sávképzője. A korhatár előtti emelés a (4) bekezdés külön szabálya."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "41438743a98e"
+    },
+    {
+      "question": "Mikor és hogyan emeli az Mt. 77. § (4) bekezdése a (3) bekezdés szerinti mértéket?",
+      "options": [
+        {
+          "text": "A (3) bekezdés a)–b) pontjánál egyhavi, a c)–d) pontnál kéthavi, az e)–f) pontnál háromhavi távolléti díjjal emelkedik a mérték.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 77. § (4) bekezdés a) pontja az a)–b) sávnál egyhavi, a b) pont a c)–d) sávnál kéthavi, a c) pont az e)–f) sávnál háromhavi távolléti díj emelést ír elő. Az emelés tehát sávfüggő, nem egységes pótlék. A (3) és a (4) bekezdés együtt adja a tényleges mértéket."
+        },
+        {
+          "text": "Az emelés akkor jár, ha a munkaviszony az (1) bekezdés szerinti módon és a munkavállalóra irányadó öregségi nyugdíjkorhatár betöltését megelőző öt éven belül szűnik meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 77. § (4) bekezdése az emelést az (1) bekezdés szerinti megszűnési módhoz és a korhatár betöltését megelőző öt évhez köti. Nem önálló jogcím, hanem a (3) bekezdés szerinti mérték emelése. Az (5) bekezdés a) pontja a már nyugdíjasnak minősülőt ettől elzárhatja."
+        },
+        {
+          "text": "A (4) bekezdés emelése a már nyugdíjasnak minősülő munkavállalónak is jár, mert a korhatár előtti öt évhez kötődik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 77. § (5) bekezdés a) pontja a nyugdíjasnak minősülőt a juttatásból kizárja. A (4) és az (5) bekezdés a) pontja nem ugyanazt a személyi kört írja le: a korhatár előtti öt évben a nem nyugdíjas emelt mértékre jogosult lehet. A már nyugdíjasnak minősülő a kizárás miatt nem kapja meg a juttatást."
+        },
+        {
+          "text": "A (4) bekezdés önálló jogcím: a korhatár előtti öt évben az (1) bekezdés taxációja nélkül is jár végkielégítés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 77. § (4) bekezdése nem önálló jogcím, hanem a (3) bekezdés szerinti mérték emelése. Feltétel, hogy a megszűnés az (1) bekezdésben meghatározott módon következzen be. A korhatár előtti időszak önmagában nem pótolja a taxált jogcímet."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "576bdbafe6d6"
+    },
+    {
+      "question": "Mit fed le az Mt. 77. § (1) bekezdés c) pontja a 63. § (1) bekezdés d) pontjára utalással?",
+      "options": [
+        {
+          "text": "A c) pont önálló taxált jogcím az (1) bekezdés a) és b) pontja mellett.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 77. § (1) bekezdés a)–c) pontja három taxált jogcímet ad. A c) pont a 63. § (1) bekezdés d) pontjára utaló hivatkozással egészíti ki a listát. A három pont együtt alkotja a zárt taxációt."
+        },
+        {
+          "text": "A c) pont a munkáltató személyében bekövetkező változást is az (1) bekezdés taxációjába emeli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkáltató személyében bekövetkező változás nem a 77. § (1) bekezdés c) pontja. Azt a 40. § viszi a 77. § alá megfelelő alkalmazással, ha a munkavállaló a lényeges és hátrányos munkafeltétel-változásra hivatkozva mond fel. A c) pont a 63. § (1) bekezdés d) pontjára utal."
+        },
+        {
+          "text": "A 77. § (1) bekezdés c) pontja a 63. § (1) bekezdés d) pontjának teljes szövegét megismétli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 77. § a hivatkozott pont tartalmát nem ismétli meg, csak utal rá. A megszűnési tényállás tartalma a 63. § (1) bekezdés d) pontjánál található. A végkielégítési jogcím a hivatkozással kapcsolódik hozzá."
+        },
+        {
+          "text": "A c) pont a 63. § (1) bekezdés d) pontja szerinti megszűnést a felmondással és a jogutód nélküli megszűnéssel egy sorba állítja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 77. § (1) bekezdés c) pontja a 63. § (1) bekezdés d) pontjára utal. A megszűnési tényállás ottani szabálya a végkielégítést a felmondással és a jogutód nélküli megszűnéssel egy sorba állítja. A 77. § a hivatkozott pont tartalmát nem ismétli meg."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "4e7f0d5f4866"
+    },
+    {
+      "question": "Hogyan viszonyul a munkáltató személyében bekövetkező változás a 77. § (1) bekezdés b) pontjához?",
+      "options": [
+        {
+          "text": "A 40. § (1) szerinti munkavállalói felmondás indokolás nélkül is megnyitja a 77. § megfelelő alkalmazását.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 40. § (2) bekezdése e felmondást a 67. § (2) alkalmazásával indokolási kötelezettséghez köti. A 67. § (1) szerinti, indokolás nélküli munkavállalói felmondás a 77. § (1) taxációjában nem szerepel. A 40. § (1) megfelelő alkalmazását sem nyitja meg az indokolás nélküli felmondás."
+        },
+        {
+          "text": "A 40. § (1) a 70. § és a 77. § megfelelő alkalmazását akkor rendeli, ha a munkavállaló a lényeges és hátrányos munkafeltétel-változás miatt mond fel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 40. § (1) bekezdése e felmondáshoz a 70. § és a 77. § megfelelő alkalmazását fűzi. Feltétel a rá irányadó munkafeltételek lényeges és hátrányos megváltozása, valamint a fenntartás aránytalan sérelme vagy lehetetlenülése. A (3) bekezdés a jogot a változás időpontját követő harminc napon belül teszi gyakorolhatóvá."
+        },
+        {
+          "text": "A munkáltató személyében bekövetkező változás automatikusan a 77. § (1) bekezdés b) pontja szerinti jogcím.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a b) pont csak a jogutód nélküli megszűnést fedi. A személyváltozás nem automatikus végkielégítési jogcím. A 40. § megfelelő alkalmazása külön tényállás, és nem bővíti az (1) bekezdés taxációját."
+        },
+        {
+          "text": "Az (1) bekezdés b) pontja a jogutód nélküli megszűnést jelenti, nem a munkáltató személyében bekövetkező változást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 77. § (1) bekezdés b) pontja a munkáltató jogutód nélküli megszűnését nevezi meg. A munkáltató személyében bekövetkező változás ettől elválik. Utóbbit a 40. § viszi a 77. § alá, ha a törvényi feltételek fennállnak."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "82fbe0d1e965"
+    },
+    {
+      "question": "Mit rögzít a 294. § (1) bekezdés g) pontja a „nyugdíjas munkavállaló” fogalmáról a végkielégítési kizárás szempontjából?",
+      "options": [
+        {
+          "text": "A ga) alpont szerinti minősítéshez a gb) alpont szerinti szolgálati idő ismételt vizsgálata is kell.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 294. § (1) bekezdés g) pont gb) alpontja a korhatár betöltése előtti öregségi nyugdíjban részesülést önállóan kimeríti. Nem követeli a ga) alpont szerinti szolgálati idő ismételt vizsgálatát. A két alpont külön-külön is kimerítheti a nyugdíjas fogalmat a 77. § (5) bekezdés a) pontja szempontjából."
+        },
+        {
+          "text": "A nyugdíjas minősítés a nyugdíjfolyósítás egységes tényéhez kötődik, alpontok nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 294. § (1) bekezdés g) pontja nem a folyósítás egységes tényéhez, hanem taxált jogosultsági és ellátási alakzatokhoz köt. A ga) alpont jogosultságot, a gb)–gf) alpont tényleges részesülést kíván. Az egységes folyósítási tény önmagában nem a törvényi fogalom."
+        },
+        {
+          "text": "A gb)–gf) alpont a tényleges részesülést kívánja meg meghatározott ellátásoknál.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a gb) alpont a korhatár előtti öregségi nyugdíjban részesülést, a gc)–gf) alpont további taxált ellátásokban való részesülést kívánja meg. A g) pont taxációja a ga)–gf) alpontokban áll. A 77. § (5) bekezdés a) pontjának „nyugdíjasnak minősül” fordulatát ez tölti ki."
+        },
+        {
+          "text": "A ga) alpont az öregségi nyugdíjkorhatár betöltését és a szükséges szolgálati időt együtt követeli; a folyósítás megkezdése nem eleme.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 294. § (1) bekezdés g) pont ga) alpontja az öregségi nyugdíjkorhatár betöltését és a szükséges szolgálati időt együtt követeli, és ezt öregségi nyugdíjra való jogosultságként jelöli. A folyósítás megkezdése e fordulatnak nem eleme. A 77. § (5) bekezdés a) pontja ehhez a minősítéshez kapcsolódik."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "7c1ca60c73c7"
+    },
+    {
+      "question": "Mi a távolléti díj szerepe a végkielégítés számításában az Mt. 148. § szerint?",
+      "options": [
+        {
+          "text": "A végkielégítés mértéke távolléti díjban van megállapítva; a 148. § adja a számítási alapot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 77. § (3)–(4) bekezdése a mértéket távolléti díjban méri. A 148. § (1) bekezdése a távolléti díjat az esedékességkor érvényes alapbérből és pótlékátalányból, valamint az irányadó időszak teljesítménybéréből és bérpótlékából állítja össze. A végkielégítés e számítási alapra épül."
+        },
+        {
+          "text": "A végkielégítés számítási alapja kizárólag az utolsó havi alapbér, a 148. § figyelmen kívül hagyásával.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a számítási alap a távolléti díj, amelyet a 148. § (1) bekezdése állít össze. Az alapbér csak az egyik elem; pótlékátalány, teljesítménybér és bérpótlék is beleszámíthat. A 148. § figyelmen kívül hagyása ellentétes a törvényi számítási renddel."
+        },
+        {
+          "text": "A 77. § (1) bekezdés b) és c) pontja esetén is a felmondás közlésének napja a távolléti díj esedékessége.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 148. § (2) bekezdés b) pont bb) alpontja a 77. § (1) bekezdés b) és c) pontja esetén a munkaviszony megszűnéséhez igazítja az esedékességet. A ba) alpont szerinti közlés csak munkáltatói felmondásnál irányadó. A két esetkör esedékességi időpontja tehát nem azonos."
+        },
+        {
+          "text": "Munkáltatói felmondásnál a 148. § (2) bekezdés b) pont ba) alpontja a távolléti díj esedékességét a felmondás közléséhez igazítja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 148. § (2) bekezdés b) pont ba) alpontja munkáltatói felmondásnál a közlés időpontjához köti az esedékességet. A bb) alpont a 77. § (1) bekezdés b) és c) pontja esetén a munkaviszony megszűnéséhez igazítja. Ez összhangban van a 77. § (2) bekezdés mérvadó időpontjaival."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "90b1d276e4b9"
+    },
+    {
+      "question": "Mit jelent a 205. § (1) bekezdés b) pontja a végkielégítés kógenciájára?",
+      "options": [
+        {
+          "text": "A 205. § (1) bekezdés b) pontja a 77. § szabályaitól a kollektív szerződés és a felek megállapodása számára az eltérést elzárja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 205. § (1) bekezdés b) pontja a végkielégítés 77. §-át a kollektív szerződés és a felek megállapodása számára egyaránt elzárja. A 77. § tehát kógens mag a megszüntetéshez kapcsolódó juttatásban. A köztulajdonban álló munkáltatói körben ez a tilalom különösen érvényesül."
+        },
+        {
+          "text": "A 205. § (2a) bekezdése a 77. § mértékét engedi eltéríteni a köztulajdoni körben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 205. § (2a) bekezdése nem az Mt. 77. § mértékét engedi eltéríteni. A jogosultsági idő számításába a köztulajdoni körön belüli, megszakítás nélküli továbbfoglalkoztatást vonja be meghatározott feltételekkel. Az Mt. 77. § (3) és (4) bekezdésének mértékszabályai ezért változatlanul irányadók maradnak."
+        },
+        {
+          "text": "A kógencia a 77. § jogosultságát és mértékét egyaránt védi: a felek egyedi megállapodása sem csökkentheti a mértéket a 205. § (1) bekezdés b) pontja ellenére.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kérdés a végkielégítési kógenciára megy. Az Mt. 205. § (1) bekezdés b) pontja a 77. §-tól való eltérést a felek megállapodása számára is elzárja. A mérték egyedi csökkentése ezért nem megengedett. A kógencia a jogosultságot és a mértéket egyaránt védi; ez nem a 69. § felmondási idő szabályainak elzárása."
+        },
+        {
+          "text": "A 77. § mértékét a felek egyedi megállapodással szabadon csökkenthetik a 205. § ellenére.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 205. § (1) bekezdés b) pontja a 77. §-tól való eltérést a felek megállapodása számára is elzárja. A mérték egyedi csökkentése ezért nem megengedett. A kógencia a jogosultságot és a mértéket egyaránt védi."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "daa76a1cb8c1"
+    },
+    {
+      "question": "Hogyan módosítja a 222. § (5) bekezdése a végkielégítés jogosultsági idejét kölcsönzésnél?",
+      "options": [
+        {
+          "text": "Kölcsönzésre irányuló munkaviszonynál a jogosultság megállapításakor a munkaviszonynak az utolsó kikölcsönzés alatti tartamát kell figyelembe venni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 222. § (5) bekezdése a 77. § (2) bekezdését ezzel az eltéréssel rendeli alkalmazni. Az utolsó kikölcsönzés alatti tartam a (3) bekezdés sávjait is ehhez a szakaszhoz méri. A végkielégítés intézményét a szabály nem iktatja ki."
+        },
+        {
+          "text": "Kölcsönzésnél a teljes, kölcsönbeadóval fennálló munkaviszony tartama beleszámít a 77. § (3) sávjába.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 222. § (5) szerint csak az utolsó kikölcsönzés alatti tartam veendő figyelembe. A teljes kölcsönbeadói jogviszony automatikus beszámítása ellentétes ezzel az eltéréssel. A sávok nem a teljes kölcsönbeadói tartamhoz, hanem az utolsó kikölcsönzéshez igazodnak."
+        },
+        {
+          "text": "A 222. § (5) a kölcsönzésnél teljesen kizárja a végkielégítést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 222. § (5) bekezdése a végkielégítés intézményét nem iktatja ki. Csak a 77. § (2) bekezdés szerinti tartammérést az utolsó kikölcsönzéshez szűkíti. A jogosultság a taxált jogcímek és a szűkített tartam együttes fennállásakor megnyílhat."
+        },
+        {
+          "text": "A kölcsönbeadóval fennálló, kikölcsönzések közötti időköz az (5) bekezdés szerint a jogosultsági időbe nem számít.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 222. § (5) bekezdése a tartammérést az utolsó kikölcsönzéshez szűkíti. A kikölcsönzések közötti időköz ezért a jogosultsági időbe nem számít. A 77. § (3) sávküszöbei ehhez a szűkített szakaszhoz igazodnak."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "1dad41047809"
+    },
+    {
+      "question": "Hogyan kapcsolódik a jogellenes megszüntetés a végkielégítés összegéhez az Mt. 82. § szerint?",
+      "options": [
+        {
+          "text": "A 82. § (2) bekezdés tizenkét havi távolléti díjas korlátja a (3) bekezdés szerinti végkielégítés-összeget is magába foglalja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 82. § (2) bekezdése az elmaradt jövedelem címén igényelt kártérítést tizenkét havi távolléti díjban korlátozza. A (3) bekezdés szerinti végkielégítés-összeg e korláton felül jár. A két összeg nem vonható össze a plafon alá."
+        },
+        {
+          "text": "A 82. § (3) bekezdés b) pontja a kártérítésen felül a végkielégítés összegére akkor is jogosít, ha a megszűnéskor a 77. § (5) bekezdés b) pontja miatt nem járt végkielégítés.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ha a munkáltató magatartási vagy nem egészségi képességbeli címen mond fel, de a felmondás jogellenes, a 82. § (3) bekezdés b) pontja a végkielégítés összegét a kártérítésen felül akkor is megadja. Az (5) bekezdés b) pont szerinti kizárás tehát a jogellenesség esetén nem zárja el ezt az összeget. A két jogkövetkezmény egymás mellett áll."
+        },
+        {
+          "text": "A 82. § (3) bekezdés a) pontja ugyanezt az összeget akkor adja, ha a munkaviszony jogellenesen nem felmondással szűnt meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 82. § (3) bekezdés a) pontja a végkielégítés összegét akkor adja a kártérítésen felül, ha a munkaviszony jogellenesen nem felmondással szűnt meg. Ez érintheti például a jogellenes azonnali hatályú megszüntetést. A (3) bekezdés szerinti összeg a (2) bekezdés tizenkét havi korlátján felül jár."
+        },
+        {
+          "text": "A 82. § (4) bekezdés szerinti választás a 77. § szerinti végkielégítést jelenti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 82. § (4) bekezdése az (1)–(2) bekezdés helyett a munkáltatói felmondás esetén irányadó felmondási időre járó távolléti díjnak megfelelő összeg választását engedi. Ez az összeg nem azonos az Mt. 77. § szerinti végkielégítéssel. A két jogintézmény elválik egymástól a megszüntetés jogkövetkezményei között."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "0fb041bed9e3"
+    },
+    {
+      "question": "Mikor esedékes a végkielégítés kifizetése az Mt. 80. § (2) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Felmondással történő megszüntetéskor az utolsó munkában töltött naptól számított ötödik munkanapon kell kifizetni a munkabért és az egyéb járandóságokat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 80. § (2) bekezdése felmondással történő megszüntetéskor az utolsó munkában töltött naptól számított ötödik munkanapot ír elő. A végkielégítés e járandóságok közé tartozik. A határidő a kifizetésre vonatkozik, nem a jogosultság keletkezésére."
+        },
+        {
+          "text": "Egyéb megszüntetésnél a megszűnéstől számított ötödik munkanap a kifizetési határidő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 80. § (2) bekezdése egyéb esetben a megszűnéstől számított ötödik munkanapot rendeli. A munkabér és az egyéb járandóságok — ideértve a végkielégítést — e határidőhöz igazodnak. A felmondásos és az egyéb eset elválik az időpont számításában."
+        },
+        {
+          "text": "A végkielégítést a felmondás közlésének napján kell kifizetni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 148. § a távolléti díj számítási esedékességét a közléshez vagy a megszűnéshez kötheti. Ezzel szemben a 80. § (2) a kifizetést az utolsó munkában töltött naptól, illetve a megszűnéstől számított ötödik munkanaphoz igazítja. A felmondás közlésének napja ezért nem a kifizetési határidő."
+        },
+        {
+          "text": "A 80. § (2) csak a munkabérre vonatkozik; a végkielégítés külön, későbbi határidővel jár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 80. § (2) a munkabért és az egyéb járandóságokat együtt említi. A végkielégítés e járandóságok közé tartozik. Külön, későbbi törvényi kifizetési határidőt a 80. § (2) nem állít a végkielégítésre."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "7a52ddfe7714"
+    },
+    {
+      "question": "Mely megszűnési módok esnek kívül az Mt. 77. § (1) bekezdés taxációján?",
+      "options": [
+        {
+          "text": "A közös megegyezés a 77. § (1) bekezdés b) pontja alá vonható, ha a munkáltató kezdeményezi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 77. § (1) bekezdés b) pontja a munkáltató jogutód nélküli megszűnését jelenti, nem a közös megegyezést. A kezdeményező személye nem emeli a közös megegyezést a taxációba. A zárt lista a)–c) pontja értelmezéssel nem bővíthető."
+        },
+        {
+          "text": "A határozott idő lejárta a 63. § (1) bekezdés d) pontján keresztül automatikusan végkielégítést nyit.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 77. § (1) bekezdés c) pontja a 63. § (1) bekezdés d) pontjára utal, de a határozott idő lejárta nem azonos ezzel a hivatkozott megszűnési címmel. A lejárat önmagában kívül esik az (1) bekezdés taxációján. A c) pont nem általánosítja az összes 63. §-beli megszűnést."
+        },
+        {
+          "text": "A közös megegyezés és a határozott idő lejárta az (1) bekezdés taxációjában nem szerepel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 77. § (1) bekezdése a munkáltató felmondását, a jogutód nélküli megszűnést és a 63. § (1) bekezdés d) pontját sorolja fel. A közös megegyezés ebben a listában nincs. A határozott idő lejárta szintén kívül esik a taxáción."
+        },
+        {
+          "text": "A munkáltató azonnali hatályú felmondása sem tartozik az (1) bekezdés a) pontjához.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 78. § (1) szerinti munkáltatói azonnali hatályú felmondás nem a 77. § (1) bekezdés a) pontja. Az azonnali hatályú megszüntetés a taxációban nem szerepel. A 78. § (3) csak a munkavállaló azonnali hatályú felmondására rendeli a 77. § megfelelő alkalmazását."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "36dde87f91e9"
+    },
+    {
+      "question": "Mi a végkielégítés rendeltetése a forrásban idézett AB gyakorlat szerint?",
+      "options": [
+        {
+          "text": "A végkielégítéshez való jog az Alaptörvényben alapvető jogként szerepel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 600/B/2000. AB határozat szerint a végkielégítéshez való jog nem alapvető jog. A 1399/B/1995. AB határozat szerint e jog nem szerepelt az Alkotmány XII. fejezetében. Alkotmányellenesség csak szélsőséges esetben állapítható meg."
+        },
+        {
+          "text": "A nyugdíjasok kizárása önkényes, mert a végkielégítés alapjogi védelem alatt áll.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 600/B/2000. AB határozat a nyugdíjasok kizárását azzal indokolta, hogy a megélhetés a nyugellátás folyósításából eredően biztosított. A munkanélküliséggel járó hátrányok kiküszöbölésére alkotott jogintézmény okai náluk nem állnak fenn. Az alapjogi védelem hiánya is ezt támasztja alá."
+        },
+        {
+          "text": "A 600/B/2000. AB határozat szerint a végkielégítéshez való jog nem alapvető jog.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 600/B/2000. AB határozat megerősítette, hogy a végkielégítéshez való jog nem alapvető jog. A 1399/B/1995. AB határozat szerint e jog nem szerepel az Alkotmány XII. fejezetében. A feltételek meghatározásánál a jogalkotót széles mérlegelési jog illeti."
+        },
+        {
+          "text": "A 68/2006. (XII. 6.) AB határozat a tisztes végelbánás eszközeként az újraalkalmazásig tartó anyagi biztonságot jelölte meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 68/2006. (XII. 6.) AB határozat szerint a munkáltató oldalán felmerült okból kikerülő személy az újraalkalmazásig anyagi biztonságban legyen. Ez a tisztes végelbánás eszköze a munkaviszony megszűnésekor. Az Mt. 77. § (5) bekezdésének kizárásai ehhez a rendeltetéshez igazodnak a nyugdíjas és a magatartási tengelyen."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "c554d7fcd387"
+    },
+    {
+      "question": "Hogyan határolódik el a (4) bekezdés emelése és az (5) bekezdés a) pontjának kizárása?",
+      "options": [
+        {
+          "text": "Az (5) bekezdés a) pontja és a (4) bekezdés ugyanazt a személyi kört írja le.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 77. § (4) bekezdése és az (5) bekezdés a) pontja nem ugyanazt a személyi kört írja le. A korhatár előtti öt évben a nem nyugdíjas emelt mértékre jogosult lehet. A már nyugdíjasnak minősülő az (5) bekezdés a) pontja miatt ki van zárva."
+        },
+        {
+          "text": "A korhatár előtti öt évben a nem nyugdíjas munkavállaló emelt mértékű végkielégítésre jogosult lehet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 77. § (4) bekezdése a korhatár betöltését megelőző öt évben emeli a (3) szerinti mértéket, ha az (1) bekezdés szerinti megszűnés fennáll. A nem nyugdíjas munkavállaló e körben emelt juttatást kaphat. Az (5) bekezdés a) pontja ekkor nem zárja el."
+        },
+        {
+          "text": "A (4) bekezdés emelése a nyugdíjasnak minősülőre is kiterjed, mert a korhatár előtti öt évhez kötődik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 77. § (4) bekezdése nem írja felül az (5) bekezdés a) pontját. A már nyugdíjasnak minősülő a kizárás miatt nem kap végkielégítést. A korhatár előtti öt év önmagában nem engedi meg a nyugdíjasnak minősülő juttatását az (5) bekezdés a) pontja mellett."
+        },
+        {
+          "text": "A már nyugdíjasnak minősülő munkavállaló az (5) bekezdés a) pontja miatt a juttatásból ki van zárva.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 77. § (5) bekezdés a) pontja a felmondás közlésének vagy a jogutód nélküli megszűnés időpontjában nyugdíjasnak minősülőt elzárja. A (4) bekezdés emelése nem oldja fel ezt a kizárást. A két bekezdés személyi köre tehát nem azonos."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "ac6eab82c939"
+    },
+    {
+      "question": "Mi a különbség a működési okú és a magatartási indokú munkáltatói felmondás között a végkielégítés szempontjából?",
+      "options": [
+        {
+          "text": "A munkáltató működésével összefüggő okú felmondás megnyithatja a 77. § (1) bekezdés a) pontja szerinti jogosultságot, ha az (5) bekezdés nem zárja el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkáltató felmondása az Mt. 77. § (1) bekezdés a) pontja szerint akkor is megnyithatja a jogosultságot, ha az indok a munkáltató működésével összefüggő ok. Feltétel, hogy az (5) bekezdés ne zárja el a juttatást. A működési ok önmagában nem kizáró ok a végkielégítésnél."
+        },
+        {
+          "text": "Magatartási indokú felmondásnál is jár a végkielégítés, ha a munkaviszony legalább huszonöt éve fennáll.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 77. § (5) bekezdés b) pontja a magatartási indoknál a juttatást elzárja tartamtól függetlenül. A (3) bekezdés sávjai a kizárást nem oldják fel. A huszonöt éves tartam önmagában nem ad kivételt."
+        },
+        {
+          "text": "A munkaviszonnyal kapcsolatos magatartási indok az (5) bekezdés b) pontja szerint kizárja a végkielégítést.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 77. § (5) bekezdés b) pontja a felmondás indokához kötött kizárást ad. A munkaviszonnyal kapcsolatos magatartás elzárja a juttatást. Ez a működési okú felmondástól elválik a végkielégítési jogosultság szempontjából."
+        },
+        {
+          "text": "A működési okú felmondás is az (5) bekezdés b) pontja alá esik, mert a munkáltató döntése a munkavállaló „képességéhez” kötődik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 77. § (5) bekezdés b) pontja a munkavállaló magatartását vagy a nem egészségi okkal összefüggő képességét zárja ki. A munkáltató működésével összefüggő ok nem e kizáró fordulat. A működési okú felmondásnál a jogosultság fennmaradhat."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "914c19653918"
+    },
+    {
+      "question": "Mit jelent a 294. § (2) bekezdése a gb) vagy gc) alpont szerinti ellátásban részesüléshez?",
+      "options": [
+        {
+          "text": "A munkavállaló akkor részesül a gb) vagy gc) alpont szerinti ellátásban, ha az ellátást jogerősen megállapították.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 294. § (2) bekezdése szerint a munkavállaló akkor részesül az (1) bekezdés g) pont gb) vagy gc) alpontja szerinti ellátásban, ha az ellátást jogerősen megállapították. A puszta igénybejelentés nem elég a minősítéshez. Az Mt. 77. § (5) bekezdés a) pontjának nyugdíjas-minősítése ehhez a fogalomhoz kapcsolódik."
+        },
+        {
+          "text": "A 294. § (2) bekezdése a gb) vagy gc) alpont szerinti ellátásban részesülést a jogerős megállapításhoz köti; a puszta igénybejelentés nem elég.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés a jogerős megállapítást kívánja meg. Az Mt. 294. § (2) bekezdése szerint a munkavállaló akkor részesül a gb) vagy gc) alpont szerinti ellátásban, ha az ellátást jogerősen megállapították. A 77. § (5) bekezdés a) pontjának nyugdíjas-minősítése ehhez a fogalomhoz kapcsolódik. A ga) alponttól eltérően itt a részesülés a döntő, de jogerős megállapítással."
+        },
+        {
+          "text": "A ga) alpont szerinti jogosultsághoz is a (2) bekezdés szerinti jogerős folyósítás-megállapítás kell.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 294. § (2) bekezdése kifejezetten a gb) vagy gc) alpontra vonatkozik. A ga) alpont a korhatár és a szolgálati idő kettős ismérvét követeli, és a folyósítás megkezdése nem eleme. A jogerős megállapítás követelménye tehát nem általánosítható a ga) alpontra a 294. § (2) szerint."
+        },
+        {
+          "text": "A gb) vagy gc) alpont szerinti minősítéshez elegendő az ellátás iránti kérelem benyújtása.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 294. § (2) bekezdése a jogerős megállapítást kívánja meg. A kérelem benyújtása önmagában nem teszi a munkavállalót a gb) vagy gc) alpont szerinti ellátásban részesülővé. A 77. § (5) bekezdés a) pontja ehhez a fogalomhoz igazodik."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "d796eb2d9bd0"
+    },
+    {
+      "question": "Hogyan kapcsolódik a 40. § (3) bekezdése a végkielégítés megfelelő alkalmazásához?",
+      "options": [
+        {
+          "text": "A harminc napos határidő elmulasztása után is jár a 77. § megfelelő alkalmazása, ha a tartam eléri a három évet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 40. § (3) a jog gyakorlását a változást követő harminc naphoz köti. A 77. § (3) tartamsávjai e határidőt nem hosszabbítják meg. A megfelelő alkalmazás megnyílásához a 40. § szerinti felmondás érvényes gyakorlása kell."
+        },
+        {
+          "text": "A 40. § (3) a munkavállaló felmondási jogát a változás időpontját követő harminc napon belül teszi gyakorolhatóvá.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 40. § (3) bekezdése a jogot a változás időpontját követő harminc napon belül teszi gyakorolhatóvá. E felmondáshoz az (1) bekezdés a 70. § és a 77. § megfelelő alkalmazását fűzi. A határidő elmulasztása a megfelelő alkalmazás megnyílását is elzárhatja."
+        },
+        {
+          "text": "A 40. § (3) a 77. § (1) bekezdés taxációját új d) ponttal bővíti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 40. § nem bővíti az Mt. 77. § (1) bekezdés taxációját. Az (1) bekezdés megfelelő alkalmazással viszi át a 77. § szabályait. Az Mt. 77. § (1) bekezdés a)–c) pontjának listája változatlan marad."
+        },
+        {
+          "text": "A 40. § (2) e felmondást a 67. § (2) alkalmazásával indokolási kötelezettséghez köti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 40. § (2) bekezdése indokolási kötelezettséget ír elő a 67. § (2) alkalmazásával. Ez eltér a 67. § (1) szerinti, indokolás nélküli munkavállalói felmondástól. Az indokolás a 77. § megfelelő alkalmazásának tényállási eleme ehhez a címhez."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "cd81dac298d5"
+    },
+    {
+      "question": "Mit jelent az, hogy a végkielégítés „egyszeri, a távolléti díjban mért juttatás”?",
+      "options": [
+        {
+          "text": "A (3) bekezdés sávjai az alapbér százalékaiban vannak meghatározva.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 77. § (3) bekezdése a mértéket havi távolléti díjban, nem az alapbér százalékában állapítja meg. A számítási alap az Mt. 148. § szerinti távolléti díj. A százalékos alapbér-arány nem a (3) bekezdés szabálya."
+        },
+        {
+          "text": "A végkielégítés havi járadékként a munkanélküliség teljes tartamára folyósítandó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 77. § egyszeri juttatást állapít meg távolléti díjban mért mértékkel. Nem a munkanélküliség teljes tartamára szóló folyósítás. A rendeltetés az áthidalás, de a törvényi forma egyszeri összeg."
+        },
+        {
+          "text": "A 77. § (3)–(4) a mértéket havi távolléti díjban fejezi ki, nem folyamatos járadékként.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 77. § (3) bekezdése egyhavi-tól hathavi távolléti díjig terjedő sávokat állapít meg. A (4) bekezdés ugyanezt a sávot emeli további havi távolléti díjjal. A juttatás egyszeri, nem havi járadék jellegű folyamatos ellátás."
+        },
+        {
+          "text": "A számítási alap a 148. § szerinti távolléti díj, nem pusztán az alapbér.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 148. § (1) bekezdése a távolléti díjat az esedékességkor érvényes alapbérből és pótlékátalányból, valamint az irányadó időszak teljesítménybéréből és bérpótlékából állítja össze. A végkielégítés ehhez az összeghez igazodik. Az alapbér önmagában nem helyettesíti a távolléti díjat."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "c6d0d5a9f21a"
+    },
+    {
+      "question": "Mikor járhat végkielégítés egészségi okkal összefüggő képességbeli felmondásnál?",
+      "options": [
+        {
+          "text": "Feltétel, hogy a munkaviszony a (2)–(3) bekezdés szerinti tartamban fennálljon, és a munkavállaló ne minősüljön nyugdíjasnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogosultsághoz a 77. § (2) bekezdés szerinti tartam és a (3) bekezdés sávküszöbe kell. Az (5) bekezdés a) pontja a nyugdíjasnak minősülőt továbbra is kizárja. Az egészségi indok csak a b) pont alóli mentesülést jelenti, nem a többi feltétel elhagyását."
+        },
+        {
+          "text": "Az egészségi okkal összefüggő képességbeli felmondás nem esik a 77. § (5) bekezdés b) pontjának kizárása alá.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 77. § (5) bekezdés b) pontja a magatartást és a nem egészségi okkal összefüggő képességet zárja ki. Az egészségi okkal összefüggő képességbeli felmondás e kizáró szabály alá nem tartozik. Az (1) bekezdés a) pontja szerinti jogcím ezért fennmaradhat."
+        },
+        {
+          "text": "Egészségi indokú felmondásnál a végkielégítés helyett csak a 70. § szerinti felmentési távolléti díj jár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 70. § szerinti felmentési távolléti díj és a 77. § szerinti végkielégítés külön jogintézmény. Az egészségi indokú felmondás nem váltja fel a végkielégítést felmentési díjjal. A két juttatás feltételei egymástól elválnak."
+        },
+        {
+          "text": "Egészségi indokú felmondásnál az (5) bekezdés b) pontja akkor is kizár, ha a képesség egészségi okkal függ össze.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 77. § (5) bekezdés b) pontja kifejezetten a nem egészségi okkal összefüggő képességet nevezi meg. Az egészségi okkal összefüggő képességbeli felmondás kívül esik ezen a kizáráson. A törvényi szöveg a „nem egészségi” fordulattal határol."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "bf9c707ce9b7"
+    },
+    {
+      "question": "Mit jelent a 174/B/1999. AB határozat a végkielégítés fogalmi leírására?",
+      "options": [
+        {
+          "text": "A végkielégítést a foglalkoztatási jogviszony munkáltatói – tágabb értelemben vett – működési ok miatti megszüntetéséhez kötődő egyszeri juttatásként írta le.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 174/B/1999. AB határozat a végkielégítést a munkáltatói, tágabb értelemben vett működési ok miatti megszüntetéshez kötötte. Mértékét az illetményhez és a jogviszony időtartamához igazította. A cél a munkakeresés idején a megélhetés a nyugellátásra nem jogosultak számára."
+        },
+        {
+          "text": "A 174/B/1999. AB határozat szerint a nyugdíjjogosultak is egységesen végkielégítésre jogosultak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 174/B/1999. AB határozat szerint a törvényhozó egységesen nem jogosítja végkielégítésre azokat, akik nyugdíjjogosultságot szereztek, mert a megélhetés a nyugellátásból biztosított. A 294. § (1) bekezdés g) pont ga) alpontja éppen ezt a jogosultságot emeli a kizárás ismérvévé. Az Mt. 77. § (5) bekezdés a) pontja ehhez a minősítéshez igazodik."
+        },
+        {
+          "text": "Ebből következik a 77. § (5) bekezdés a) pontjának nyugdíjas-kizárása és a b) pont magatartási, illetve nem egészségi képességbeli kizárása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendeltetés a munkáltatói kockázathoz és az önhiba hiányához igazított szociális-vagyoni védelem. Az Mt. 77. § (5) bekezdés a) pontja a nyugdíjas minősítést, a b) pont a magatartási és nem egészségi képességbeli indokot zárja ki. A juttatás nem minden megszűnés járuléka."
+        },
+        {
+          "text": "A végkielégítés a határozat szerint a kártérítés egyik alakzata.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 174/B/1999. AB határozat a végkielégítést egyszeri, az illetményhez és a jogviszony időtartamához igazított juttatásként írja le, nem kártérítésként. Az Mt. 77. § szerinti végkielégítés és a 82. § szerinti kártérítés külön szabályozott jogintézmény. A két jogkövetkezmény nem cserélhető fel."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "8fe9ecbcc2f7"
+    }
+  ]
+}

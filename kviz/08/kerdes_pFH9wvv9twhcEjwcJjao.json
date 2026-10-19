@@ -1,0 +1,1009 @@
+{
+  "id": "pFH9wvv9twhcEjwcJjao",
+  "sorszam": 8,
+  "cim": "A munkaszerződés teljesítése, alapvető kötelezettségek, a (...)",
+  "generationType": "kerdes",
+  "title": "8. A munkaszerződés teljesítése, alapvető kötelezettségek, a (...)",
+  "questions": [
+    {
+      "question": "A munkaszerződéstől eltérő foglalkoztatás és a teljesítés kógenciája körében mely állítások helyesek az Mt. szabályai alapján?",
+      "options": [
+        {
+          "text": "A munkavállaló a munkaszerződéstől eltérő foglalkoztatás esetén az eredeti munkaszerződése szerinti alapbérre jogosult, kivéve, ha az ellátott munkakörre előírt alapbér alacsonyabb.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 53. § (5) bekezdése alapján a munkavállaló az ellátott munkakörre előírt, de legalább a munkaszerződése szerinti alapbérre jogosult, tehát az nem lehet alacsonyabb."
+        },
+        {
+          "text": "A munkáltató a munkavállaló egészségi állapotának változására tekintettel a munkaszerződést egyoldalúan módosíthatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 51. § (3) bekezdése szerinti módosítás nem a munkaszerződés egyoldalú átírása, hanem a foglalkoztatási kötelezettség tartalmának az állapothoz igazítása."
+        },
+        {
+          "text": "A felek megállapodása nem térhet el az Mt. 51. §-ában foglalt foglalkoztatási kötelezettségtől, még a munkavállaló javára sem.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 57. § (1) bekezdés a) pontja az 51. § egészét elzárja az eltéréstől, a (2) bekezdés pedig nem engedi meg a munkavállaló javára történő eltérést sem e körben."
+        },
+        {
+          "text": "A gyermekét egyedül nevelő munkavállaló gyermeke tizenhat éves koráig hozzájárulása nélkül nem kötelezhető más helységben végzendő munkára, és ettől a szabálytól kollektív szerződés sem térhet el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 53. § (3) bekezdés b) pontja rögzíti a tilalmat, az 57. § (1) bekezdés c) pontja pedig kógenssé teszi a hozzájárulási rendet."
+        }
+      ]
+    },
+    {
+      "question": "Mely állítások helyesek a más helységben végzendő munkára kötelezés korlátaival kapcsolatban az Mt. alapján?",
+      "options": [
+        {
+          "text": "A munkavállaló hozzájárulása nélkül nem kötelezhető más helységben végzendő munkára a várandóssága megállapításától gyermeke hároméves koráig.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 53. § (3) bekezdés a) pontja kifejezetten ezt a védelmi időszakot határozza meg a várandós, illetve kisgyermeket nevelő munkavállalók számára."
+        },
+        {
+          "text": "A gyermekét egyedül nevelő munkavállaló fogalmába nem tartozik bele az, aki gyermekét saját háztartásában neveli, elvált, de élettárssal rendelkezik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 294. § (1) bekezdés i) pontja alapján az egyedül nevelő státusz feltétele, hogy a munkavállalónak ne legyen élettársa."
+        },
+        {
+          "text": "A rehabilitációs szakértői szerv által megállapított legalább 30 százalékos egészségkárosodás esetén a munkavállaló már nem kötelezhető más helységben végzendő munkára.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 53. § (3) bekezdés d) pontja a védelmet legalább 50 százalékos mértékű egészségkárosodás megállapításához köti."
+        },
+        {
+          "text": "A hozzátartozó tartós, személyes gondozása esetén a munkavállaló csak akkor mentesül a más helységbe történő egyoldalú kirendelés alól, ha a gondozott személy egyeneságbeli rokona.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 294. § (1) bekezdés b) pontja szerinti hozzátartozói fogalom tágabb, abba beletartozik többek között a házastárs, a testvér és az élettárs is."
+        }
+      ]
+    },
+    {
+      "question": "A munkaköri alkalmassági vizsgálat és annak véleményezése során mely eljárási és tartalmi szabályok érvényesülnek a 33/1998. (VI. 24.) NM rendelet alapján?",
+      "options": [
+        {
+          "text": "Az \"ideiglenesen nem alkalmas\" minősítés esetén a munkáltató köteles a munkavállalót azonnal véglegesen más munkakörbe áthelyezni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendelet 13. § (2) bekezdése szerint ilyenkor a következő vizsgálat időpontját kell megjelölni, a minősítés a következő vizsgálatig szünetelteti vagy korlátozza a foglalkoztatást, de nem ír elő azonnali végleges áthelyezést."
+        },
+        {
+          "text": "Az alkalmatlanság okát a vizsgálatot végző orvos a munkáltatóval csak a vizsgált személy írásbeli hozzájárulásával közölheti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendelet 13. § (5) bekezdése alapján az alkalmatlanság oka orvosi titok, az a munkáltatóval csak írásbeli hozzájárulás esetén közölhető, a nyomtatvány csak a minősítés tényét tartalmazza."
+        },
+        {
+          "text": "A munkaköri alkalmassági vizsgálat költségeit a munkavállaló és a munkáltató fele-fele arányban viseli, ha a vizsgálatot a munkáltató rendelte el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 51. § (4) bekezdése egyértelműen rögzíti, hogy a munkáltató ingyenesen köteles biztosítani a munkavállaló munkaköri alkalmassági vizsgálatát."
+        },
+        {
+          "text": "A munkaköri alkalmassági véleményben az orvos csak azt határozhatja meg, hogy a vizsgált személy alkalmas, ideiglenesen nem alkalmas vagy nem alkalmas, de a rokkantság fokát nem véleményezheti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendelet 13. § (1) bekezdése rögzíti a háromfokozatú véleményt, a 3. § (6) bekezdése pedig kifejezetten kizárja a rokkantság fokának meghatározását."
+        }
+      ]
+    },
+    {
+      "question": "A munkáltató kockázatértékelési kötelezettségével kapcsolatban mely állítások felelnek meg a munkavédelmi törvény (Mvt.) előírásainak?",
+      "options": [
+        {
+          "text": "A kockázatértékelés elvégzése kizárólag munkaegészségügyi szaktevékenységnek minősül, munkabiztonsági szakképzettség nem szükséges hozzá.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 54. § (8) bekezdése szerint a kockázatértékelés elvégzése munkabiztonsági és munkaegészségügyi szaktevékenységnek is minősül."
+        },
+        {
+          "text": "A kockázatértékelést a tevékenység megkezdése előtt, majd azt követően indokolt esetben, de legalább 5 évente köteles elvégezni a munkáltató.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 54. § (3) bekezdése pontosan ezt a határidőt és gyakoriságot írja elő a kockázatértékelés elvégzésére."
+        },
+        {
+          "text": "A kockázatértékelés dokumentumát a munkáltató köteles legalább 5 évig megőrizni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 54. § (5) bekezdése kifejezetten előírja a dokumentum legalább 5 évig történő megőrzését."
+        },
+        {
+          "text": "Indokolt esetnek, és így soron kívüli kockázatértékelésre okot adó körülménynek kizárólag a halálos munkabaleset bekövetkezése minősül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 54. § (3) bekezdése számos más indokolt esetet is felsorol, például a technológia megváltozását, vagy bármilyen munkabaleset, foglalkozási megbetegedés előfordulását."
+        }
+      ]
+    },
+    {
+      "question": "Egy munkavállaló megtagadja a munkáltató utasításának teljesítését, arra hivatkozva, hogy a kiadott védőfelszerelés működésképtelen. Hogyan minősül ez a jogszabályok alapján?",
+      "options": [
+        {
+          "text": "A munkavállaló jogosult megtagadni a munkavégzést, ha a védőeszköz hiánya vagy működésképtelensége miatt életét, egészségét vagy testi épségét közvetlenül és súlyosan veszélyeztetné.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 63. § (1)-(2) bekezdése alapján ez a közvetlen és súlyos veszélyeztetés tipikus esete, amely megalapozza a megtagadási jogot."
+        },
+        {
+          "text": "A közvetlen és súlyos veszélyeztetés miatti megtagadás az Mt. 54. § (1) bekezdése szerinti kódexbeli utasítás-megtagadásnak minősül, amelytől a felek megállapodása eltérhet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a forrás szerint az Mvt. 63. § szerinti munkavédelmi megtagadás elválik az Mt. 54. § szerinti kódexbeli megtagadástól, ráadásul az Mt. 54. §-tól az 57. § (1) bekezdés d) pontja alapján nem is lehet eltérni."
+        },
+        {
+          "text": "Ha a munkáltató utasításának teljesítésével a munkavállaló másokat veszélyeztetne közvetlenül és súlyosan, a teljesítést nem csupán jogosult, hanem köteles megtagadni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 63. § (1) bekezdése szerint mások közvetlen és súlyos veszélyeztetése esetén a megtagadás kötelezettség."
+        },
+        {
+          "text": "A munkavállaló csak akkor tagadhatja meg a munkavégzést, ha a veszélyeztetést a munkavédelmi hatóság előzetesen, határozatban megállapította.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 63. § a megtagadási jogot közvetlenül a munkavállaló számára biztosítja a veszélyhelyzet észlelésekor, hatósági határozat bevárása nélkül."
+        }
+      ]
+    },
+    {
+      "question": "A KK 25. számú kollégiumi állásfoglalás alapján mikor terheli a foglalkoztatót megtérítési kötelezettség a társadalombiztosítási szerv felé üzemi baleset esetén?",
+      "options": [
+        {
+          "text": "A foglalkoztatót nem terheli megtérítési kötelezettség, ha a munkavédelmi szabályt kizárólag maga a balesetet szenvedett munkavállaló szegte meg vagy mulasztotta el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a KK 25. szám rögzíti, hogy kizárólagos sérülti szabályszegés esetén a foglalkoztató mentesül a társadalombiztosítási szolgáltatások megtérítése alól."
+        },
+        {
+          "text": "Ha a sérült munkavállaló a munkavédelmi szabályok megszegésével 50%-ot meghaladó mértékben közrehatott a baleset bekövetkezésében, a foglalkoztató megtérítési kötelezettsége automatikusan a felére csökken.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a KK 25. szám szerint a sérült közrehatásának mértéke nem releváns a foglalkoztató megtérítési kötelezettsége szempontjából, ha a munkáltatói szabályszegés is megállapítható."
+        },
+        {
+          "text": "A foglalkoztató megtérítési kötelezettsége kizárólag akkor áll fenn, ha a balesetet ő vagy alkalmazottja szándékosan idézte elő; gondatlan szabályszegés esetén a társadalombiztosító viseli a terheket.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Ebtv. 67. § (1) bekezdése alapján a munkavédelmi szabályok megszegése (amely objektív jellegű mulasztás) is megalapozza a megtérítési kötelezettséget, nem csak a szándékos előidézés."
+        },
+        {
+          "text": "A foglalkoztató köteles megtéríteni az ellátást, ha a baleset annak a következménye, hogy ő vagy megbízottja a reá nézve kötelező munkavédelmi szabályt megszegte, függetlenül attól, hogy a sérült munkavállaló is közrehatott-e.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a KK 25. szám kimondja, hogy a foglalkoztató objektív megtérítési kötelezettségét a sérült közrehatása nem oltja ki, ha a munkáltató is szabályt szegett."
+        }
+      ]
+    },
+    {
+      "question": "Az MK 122. számú állásfoglalás iránymutatása szerint mely megállapítások irányadóak a munkavállaló alkoholos befolyásoltságának ellenőrzésével kapcsolatban?",
+      "options": [
+        {
+          "text": "A vizsgálat elvégzésének vagy az abban való közreműködésnek a megtagadása a munkaviszonyból eredő kötelezettség vétkes megszegésének minősül, kivéve, ha a munkáltató a vizsgálati joggal visszaél.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az MK 122. számú állásfoglalás szerint az együttműködés megtagadása kötelezettségszegés, de a joggal való visszaélés (pl. zaklatásszerű ellenőrzés) mentesíthet ez alól."
+        },
+        {
+          "text": "A munkáltató személyes bosszúból, alaptalanul is naponta többször elrendelheti az alkoholvizsgálatot, a munkavállaló ilyenkor is köteles tűrni azt az együttműködési kötelezettség alapján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az MK 122. szám szerint ez a vizsgálati joggal való visszaélésnek minősül, ilyenkor a közreműködés megtagadása indokolt, és hátrányos jogkövetkezmény nem alkalmazható."
+        },
+        {
+          "text": "Ha a munkavállaló a közreműködést kellő alap nélkül megtagadja, a további munkavégzéstől eltiltható, és az eltiltás idejére munkabér nem jár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az állásfoglalás kifejezetten rögzíti, hogy indokolatlan megtagadás esetén a munkavállaló eltiltható a munkától, és erre az időre díjazásra nem jogosult."
+        },
+        {
+          "text": "Ha a munkavállaló vitatja a munkáltatói alkoholvizsgálat eredményét, a vita eldöntésére kizárólag a munkavédelmi hatóság kötelező határozata kérhető, véralkohol-vizsgálat nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állásfoglalás szerint a vita eldöntésére véralkohol-vizsgálat kérhető, a perben pedig a bíróság a szabad bizonyítás elve alapján dönt."
+        }
+      ]
+    },
+    {
+      "question": "A munkavédelmi törvény (Mvt. 87. §) fogalommeghatározásai alapján mely esetek minősülnek munkabalesetnek vagy foglalkozási megbetegedésnek?",
+      "options": [
+        {
+          "text": "Munkabalesetnek minősül az a baleset, amely a munkavállalót a foglalkozás körében végzett munkához kapcsolódó tisztálkodás vagy szervezett üzemi étkeztetés során éri.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 87. § 3. pontja kifejezetten a munkavégzéssel összefüggésben bekövetkező balesetek közé sorolja a tisztálkodás és a szervezett üzemi étkeztetés során elszenvedett baleseteket."
+        },
+        {
+          "text": "A munkabaleset minősítésének elengedhetetlen feltétele, hogy a sérült munkavállaló közrehatása egyáltalán ne legyen megállapítható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 87. § 3. pontja egyértelműen kimondja, hogy a baleset a sérült munkavállaló közrehatásának mértékétől függetlenül munkabalesetnek minősül."
+        },
+        {
+          "text": "A lakás és a munkahely közötti úti baleset minden esetben munkabalesetnek minősül, függetlenül attól, hogy milyen közlekedési eszközzel történt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 87. § 3. pont a) alpontja szerint az úti baleset főszabály szerint nem munkabaleset, kivéve, ha a munkáltató által biztosított járművel történt."
+        },
+        {
+          "text": "Foglalkozási megbetegedésnek minősülhet a munkavállalónak az optimálisnál nagyobb vagy kisebb igénybevételének következményeként kialakuló idült egészségkárosodás is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 87. § 1/D. pont b) alpontja szerint az optimálisnál nagyobb vagy kisebb igénybevétel következménye is foglalkozási megbetegedés."
+        }
+      ]
+    },
+    {
+      "question": "A munkavállaló harmadik személytől származó díjazásával kapcsolatban mely szabályok érvényesülnek az Mt. 52. § alapján?",
+      "options": [
+        {
+          "text": "A munkavállaló a munkáltató előzetes hozzájárulása nélkül harmadik személytől díjazást a munkaviszonyban végzett tevékenységére tekintettel nem fogadhat el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 52. § (2) bekezdése egyértelműen előzetes munkáltatói hozzájáruláshoz köti a harmadik személytől származó díjazás elfogadását."
+        },
+        {
+          "text": "A munkavállalót megillető munkabért nem lehet csökkenteni arra tekintettel, hogy a munkáltató előzetes hozzájárulásával harmadik személytől díjazásban részesült, és ez a szabály kógens.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 52. § (3) bekezdése rögzíti a munkabér-csökkentési tilalmat, amelyet az 57. § (1) bekezdés b) pontja elzár a felek eltérő megállapodásától."
+        },
+        {
+          "text": "Harmadik személytől származó díjazásnak kizárólag a készpénzben juttatott összeg minősül, a vagyoni értékű szolgáltatások (pl. ajándéktárgyak) elfogadása nem esik korlátozás alá.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 52. § (4) bekezdése kiterjeszti a díjazás fogalmát minden olyan vagyoni értékű szolgáltatásra, amelyet harmadik személy nyújt."
+        },
+        {
+          "text": "A kollektív szerződés érvényesen rendelkezhet úgy, hogy a harmadik személytől származó borravaló elfogadása esetén a munkavállaló alapbére arányosan csökkenthető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 57. § (1) bekezdés b) pontja alapján az 52. § (3) bekezdésében foglalt munkabér-csökkentési tilalom kógens, attól kollektív szerződés sem térhet el."
+        }
+      ]
+    },
+    {
+      "question": "A munkavédelmi oktatásra és a munkavégzés személyi feltételeire vonatkozó szabályok körében mely állítások helytállóak?",
+      "options": [
+        {
+          "text": "Veszélyes munkahelyen a munkavállaló egyedül is végezhet munkát, feltéve, hogy írásban nyilatkozik a kockázatok saját felelősségre történő vállalásáról.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 51. § (2) bekezdése kógens módon rögzíti, hogy ahol veszély fenyeget, egyedül munkát végezni nem szabad; ezen a munkavállaló nyilatkozata sem változtathat."
+        },
+        {
+          "text": "A munkavédelmi oktatást rendes munkaidőben kell megtartani, és az előírt ismeretek megszerzéséig a munkavállaló önállóan nem foglalkoztatható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 55. § (1) és (2) bekezdései kifejezetten tartalmazzák a rendes munkaidőben történő oktatás követelményét és az önálló foglalkoztatás tilalmát a vizsga/ismeretszerzés előtt."
+        },
+        {
+          "text": "Ha a munkáltató az Mt. 53. § alapján átmenetileg más munkakörben foglalkoztatja a munkavállalót, a munkavédelmi oktatást nem kell megismételni, elegendő a munkaszerződéskötéskori eredeti oktatás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 55. § (1) bekezdés b) pontja alapján munkahely vagy munkakör megváltozásakor az oktatást meg kell ismételni, az eltérő foglalkoztatás nem mentesít ez alól."
+        },
+        {
+          "text": "A munkavállaló csak olyan munkával bízható meg, amelynek ellátására egészségileg alkalmas, és rendelkezik a biztonságos munkavégzéshez szükséges ismeretekkel, készséggel és jártassággal.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 50. §-a ezt a kettős mércét (egészségi és szakmai-biztonsági alkalmasság) állítja fel a munkával való megbízás feltételeként."
+        }
+      ]
+    },
+    {
+      "question": "A munkavállaló munkavédelmi jogai és kötelezettségei tekintetében mely megállapítások felelnek meg a hatályos szabályozásnak?",
+      "options": [
+        {
+          "text": "A munkavállaló a rendelkezésére bocsátott biztonsági berendezéseket a munkafolyamat felgyorsítása érdekében önkényesen ideiglenesen kikapcsolhatja, ha ehhez a közvetlen felettese szóban hozzájárult.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 60. § (2) bekezdése szigorúan tiltja a biztonsági berendezések önkényes kikapcsolását, eltávolítását, ezt felettesi szóbeli utasítás sem írhatja felül."
+        },
+        {
+          "text": "A munkavállaló csak akkor köteles a balesetet vagy rosszullétet jelenteni, ha az orvosi ellátást igényel; a kisebb sérüléseket elegendő a műszak végén rögzíteni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 60. § (1) bekezdés h) pontja alapján a munkavállaló köteles a balesetet, sérülést, rosszullétet azonnal jelenteni, függetlenül annak súlyosságától."
+        },
+        {
+          "text": "A munkavállalót nem érheti hátrány a munkáltató vélt mulasztása miatt jóhiszeműen tett bejelentéséért, még akkor sem, ha a mulasztás utóbb nem igazolódik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 62. § alapján a jóhiszemű bejelentés védett, a vélt mulasztás elegendő a védelemhez, a rosszhiszeműség az, ami kizárná azt."
+        },
+        {
+          "text": "A munkavállaló jogosult megkövetelni a munkáltatójától a munkavégzéshez munkavédelmi szempontból szükséges felszerelések, munka- és védőeszközök biztosítását.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 61. § c) pontja kifejezetten alanyi jogosultságként rögzíti a munkavállaló ezen követelési jogát."
+        }
+      ]
+    },
+    {
+      "question": "Hogyan kell eljárni a jogszabályok alapján, ha a munkavállaló egészségi állapota megváltozik, különös tekintettel az éjszakai munkavégzésre?",
+      "options": [
+        {
+          "text": "Az egészségi állapot változása miatti munkafeltétel-módosítás a munkaszerződés egyoldalú átírását jelenti, amelyhez a munkavállaló beleegyezése nem szükséges, de alapbére arányosan csökkenthető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a forrás szerint az Mt. 51. § (3) bekezdése szerinti módosítás nem a munkaszerződés egyoldalú átírása, hanem a foglalkoztatási kötelezettség tartalmának az állapothoz igazítása."
+        },
+        {
+          "text": "A munkáltató a munkavállaló egészségi állapotának változására tekintettel köteles a munkafeltételeket és a munkaidő-beosztást megfelelően módosítani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 51. § (3) bekezdése kifejezetten előírja ezt a módosítási kötelezettséget a munkáltató számára az egészségi állapot változása esetén."
+        },
+        {
+          "text": "A munkavállalót nappali munkavégzésre kell beosztani, ha az orvosi vizsgálat megállapítja, hogy az éjszakai munkavégzés az egészségi állapotát veszélyezteti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 49. § (4) bekezdése alapján egészségveszély vagy okozati megbetegedés esetén a munkavállalót nappali beosztásba kell helyezni."
+        },
+        {
+          "text": "Ha az éjszakai munkát végző munkavállaló megbetegedése az éjszakai munkavégzéssel áll okozati összefüggésben, a munkáltató köteles őt azonnali hatállyal felmenteni a munkavégzés alól, és végkielégítést fizetni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 49. § (4) bekezdése ilyen esetben nem azonnali felmentést és végkielégítést ír elő, hanem azt, hogy a munkavállalót nappali munkavégzésre kell beosztani."
+        }
+      ]
+    },
+    {
+      "question": "Egy munkáltató egyedülálló szülőként egy 14 éves gyermeket nevelő munkavállalóját egyoldalú utasítással 30 napra más helységben történő munkavégzésre kívánja kötelezni. Mely állítások helyesek az Mt. 53. § alapján?",
+      "options": [
+        {
+          "text": "A hozzájárulási szabálytól a felek megállapodása a munkavállaló javára eltérhet, de a kollektív szerződés egyáltalán nem",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 57. § (1) bekezdés c) pontja az 53. § (3)-(4) bekezdését (a hozzájárulási rendet) mind a felek megállapodása, mind a kollektív szerződés eltérése elől teljesen elzárja."
+        },
+        {
+          "text": "A munkáltató egyoldalú utasítása jogszerű, mivel a tartam nem haladja meg az évi 44 munkanapos korlátot",
+          "isCorrect": false,
+          "rationale": "HAMIS, bár a 30 nap belefér az 53. § (2) bekezdése szerinti 44 napos korlátba, a védett személyi kör (egyedülálló szülő 16 év alatti gyermekkel) esetében a hozzájárulás hiánya kizárja az egyoldalú kötelezést."
+        },
+        {
+          "text": "A munkavállaló hozzájárulási követelménye kógens szabály, attól érvényesen eltérni nem lehet",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 57. § (1) bekezdés c) pontja alapján a védendő személyi kör más helységbe rendelésének hozzájárulási rendje el van zárva a felek és a kollektív szerződés eltérése elől."
+        },
+        {
+          "text": "A munkavállaló a más helységben végzendő munkára a hozzájárulása nélkül nem kötelezhető",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 53. § (3) bekezdés b) pontja alapján a gyermekét egyedül nevelő munkavállaló gyermeke tizenhat éves koráig hozzájárulása nélkül nem kötelezhető más helységben végzendő munkára."
+        }
+      ]
+    },
+    {
+      "question": "A munkavégzés megtagadásának joga és kötelezettsége kapcsán mely állítások felelnek meg a munkavédelmi törvény (Mvt.) és az Mt. szabályainak?",
+      "options": [
+        {
+          "text": "A szükséges biztonsági berendezések vagy egyéni védőeszközök hiánya a törvény erejénél fogva közvetlen és súlyos veszélyeztetésnek minősül",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 63. § (2) bekezdése példálózó jelleggel, de kifejezetten rögzíti, hogy a biztonsági berendezések, védőeszközök működőképtelensége vagy hiánya közvetlen és súlyos veszélyeztetés."
+        },
+        {
+          "text": "Ha az utasítás teljesítése másokat veszélyeztetne közvetlenül és súlyosan, a munkavállaló a teljesítést köteles megtagadni",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 63. § (1) bekezdése kifejezetten kötelezettségként írja elő a megtagadást, ha a teljesítés másokat közvetlenül és súlyosan veszélyeztetne."
+        },
+        {
+          "text": "A munkavégzés Mvt. 63. § szerinti jogszerű megtagadása egyben mentesíti a munkavállalót a rendelkezésre állási kötelezettség alól is",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 54. § (1) bekezdése szerinti kódexbeli utasítás-megtagadásnál a rendelkezésre állási kötelezettség megmarad, az Mvt. 63. § szerinti munkavédelmi tényállás ettől elváló, de a rendelkezésre állást önmagában nem szünteti meg."
+        },
+        {
+          "text": "Ha a munkáltató utasításának teljesítése a munkavállaló saját életét, egészségét közvetlenül és súlyosan veszélyeztetné, a teljesítést köteles megtagadni",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 63. § (1) bekezdése alapján a saját élet, egészség közvetlen és súlyos veszélyeztetése esetén a munkavállaló *jogosult* megtagadni a munkavégzést, nem köteles (köteles akkor, ha másokat veszélyeztetne)."
+        }
+      ]
+    },
+    {
+      "question": "A 33/1998. (VI. 24.) NM rendelet szerinti munkaköri alkalmassági vizsgálat és véleményezés szabályaival kapcsolatban mely állítások helytelenek, illetve helyesek?",
+      "options": [
+        {
+          "text": "A foglalkoztathatóság szakvéleményezése kiterjed a munkaképesség-változás mértékének és a rokkantság fokának kötelező meghatározására is",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendelet 3. § (6) bekezdése kifejezetten kiveszi a munkaképesség-változás mértékének, a rokkantság fokának, a szellemi képességnek és az elmeállapotnak a véleményezését a vizsgálat köréből."
+        },
+        {
+          "text": "A munkaköri alkalmassági véleményben háromféle minősítés adható: alkalmas, ideiglenesen nem alkalmas, vagy nem alkalmas",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendelet 13. § (1) bekezdése szerint a véleményben e három kategória valamelyikét kell meghatározni."
+        },
+        {
+          "text": "Az ideiglenesen nem alkalmas minősítés esetén az orvosi véleményben meg kell jelölni a következő vizsgálat időpontját",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendelet 13. § (2) bekezdése előírja, hogy az ideiglenesen nem alkalmas véleményezésnél a következő vizsgálat időpontját meg kell jelölni."
+        },
+        {
+          "text": "A munkáltató a megfelelő ésszerű alkalmazkodás biztosítása érdekében jogosult megismerni a munkavállaló alkalmatlanságát megalapozó pontos orvosi diagnózist",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendelet 13. § (5) bekezdése alapján az alkalmatlanság okát a munkáltatóval csak a vizsgált személy írásbeli hozzájárulásával lehet közölni, a titoktartás a kórismét elzárja a munkáltató elől."
+        }
+      ]
+    },
+    {
+      "question": "A KK 25. számú állásfoglalás alapján hogyan alakul a foglalkoztató megtérítési kötelezettsége a társadalombiztosítási szerv felé üzemi baleset esetén?",
+      "options": [
+        {
+          "text": "A foglalkoztató munkavédelmi mulasztása objektív jellegű, a sérült szabályszegése nem oltja ki a felelősséget, ha a foglalkoztató is megszegte a szabályt",
+          "isCorrect": true,
+          "rationale": "IGAZ, a KK 25. szám rögzíti, hogy a foglalkoztató objektív megtérítési kötelezettségét a sérült közrehatása nem zárja ki, ha a munkavédelmi szabályt a foglalkoztató vagy megbízottja is megszegte."
+        },
+        {
+          "text": "A munkavállaló közrehatása a baleset bekövetkezésében arányosan csökkenti a foglalkoztató megtérítési kötelezettségét a társadalombiztosítási szerv felé",
+          "isCorrect": false,
+          "rationale": "HAMIS, a KK 25. szám alapján a munkavédelmi szabály elmulasztása objektív jellegű; ha a foglalkoztató is mulasztott, a sérült közrehatásának mértéke a megtérítési kötelezettség szempontjából közömbös, nincs arányosítás."
+        },
+        {
+          "text": "A foglalkoztató mentesül a megtérítési kötelezettség alól, ha a munkavédelmi szabályt kizárólag maga a balesetet szenvedett munkavállaló szegte meg",
+          "isCorrect": true,
+          "rationale": "IGAZ, a KK 25. szám kimondja, hogy ha a szabályt kizárólag a sérült szegte meg, a foglalkoztatót a TB szolgáltatások tekintetében megtérítési kötelezettség nem terheli."
+        },
+        {
+          "text": "A foglalkoztatót kizárólag akkor terheli megtérítési kötelezettség, ha a balesetet ő vagy alkalmazottja szándékosan idézte elő",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Ebtv. 67. § (1) bekezdése alapján a szándékosság mellett a kötelező munkavédelmi szabályok megszegése (mulasztás) is megalapozza a megtérítési kötelezettséget."
+        }
+      ]
+    },
+    {
+      "question": "A munkavédelmi kockázatértékelés (Mvt. 54. §) szabályaival kapcsolatban mely megállapítások felelnek meg a hatályos jognak?",
+      "options": [
+        {
+          "text": "A kockázatértékelés dokumentumát a munkáltató köteles legalább 5 évig megőrizni",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 54. § (5) bekezdése előírja, hogy a kockázatértékelés dokumentumát a munkáltató legalább 5 évig köteles megőrizni."
+        },
+        {
+          "text": "A kockázatértékelés elvégzése kizárólag a munkáltató adminisztratív feladata, ahhoz munkabiztonsági szaktevékenység bevonása nem kötelező",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 54. § (8) bekezdése kimondja, hogy a kockázatértékelés elvégzése munkabiztonsági és munkaegészségügyi szaktevékenységnek minősül."
+        },
+        {
+          "text": "A technológia vagy a munkaeszköz megváltozása esetén a kockázatértékelést csak akkor kell megismételni, ha azzal összefüggésben munkabaleset következett be",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 54. § (3) bekezdés a) pontja alapján a technológia, munkaeszköz megváltozása önmagában indokolt esetnek minősül az ismétlésre, függetlenül attól, hogy történt-e baleset."
+        },
+        {
+          "text": "A kockázatértékelést a tevékenység megkezdése előtt, majd azt követően indokolt esetben, de legalább ötévente el kell végezni",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 54. § (3) bekezdése rögzíti a tevékenység megkezdése előtti, valamint a legalább 5 évenkénti kötelező ismétlés szabályát."
+        }
+      ]
+    },
+    {
+      "question": "Az MK 122. számú állásfoglalás miként rendelkezik a munkavállaló alkoholos befolyásoltságának ellenőrzéséről és annak megtagadásáról?",
+      "options": [
+        {
+          "text": "Ha a munkavállaló vitatja a szondás vizsgálat eredményét, a munkáltató döntése végleges, véralkohol-vizsgálat követelésére nincs jogszabályi lehetőség",
+          "isCorrect": false,
+          "rationale": "HAMIS, az MK 122. szám rögzíti, hogy ha a munkavállaló az eredményt kifogásolja, a vita eldöntésére véralkohol-vizsgálat kérhető, a perben pedig a bíróság szabadon mérlegel."
+        },
+        {
+          "text": "A vizsgálatban való közreműködést kellő alap nélkül megtagadó munkavállaló a további munkavégzéstől eltiltható, és az eltiltás idejére munkabér nem jár",
+          "isCorrect": true,
+          "rationale": "IGAZ, az MK 122. szám rögzíti, hogy az indokolatlan megtagadás a kötelezettség vétkes megszegése, a munkavállaló eltiltható, és erre az időre díjazásra nem jogosult."
+        },
+        {
+          "text": "A munkáltató csak abban az esetben jogosult alkoholvizsgálatot elrendelni, ha a munkavállaló viselkedése alapján alapos gyanú merül fel az ittasságra",
+          "isCorrect": false,
+          "rationale": "HAMIS, az MK 122. szám és az Mvt. 54. § (7) bek. b) pontja alapján a munkáltató rendszeresen köteles meggyőződni a szabálytartásról, így szúrópróbaszerűen, gyanú nélkül is jogosult és köteles ellenőrizni az alkoholmentes állapotot."
+        },
+        {
+          "text": "Ha a munkáltató a vizsgálati joggal visszaél (pl. személyes bosszúból naponta többször alaptalanul ismétli), a közreműködés megtagadása indokolt",
+          "isCorrect": true,
+          "rationale": "IGAZ, az MK 122. szám kimondja, hogy a joggal való visszaélés esetén a megtagadás indokolt, és hátrányos jogkövetkezmény általában nem alkalmazható."
+        }
+      ]
+    },
+    {
+      "question": "Az Mt. 51. § szerinti foglalkoztatási kötelezettség és annak kógenciája (Mt. 57. §) körében mely állítások helyesek?",
+      "options": [
+        {
+          "text": "A munkáltató a munkavállaló egészségi állapotának változására tekintettel köteles a munkafeltételeket és a munkaidő-beosztást megfelelően módosítani",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 51. § (3) bekezdése kifejezetten előírja ezt a kötelezettséget, ami nem szerződésmódosítás, hanem a foglalkoztatási kötelezettség tartalmának állapothoz igazítása."
+        },
+        {
+          "text": "Az Mt. 51. § szabályaitól a kollektív szerződés a munkavállaló javára, kedvezőbb feltételeket megállapítva érvényesen eltérhet",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 57. § (1) bekezdés a) pontja az 51. § egészét elzárja az eltéréstől. A szöveg rögzíti: \"Az 51. § tehát még a munkavállaló javára sem engedhető el megállapodással\"."
+        },
+        {
+          "text": "A munkaviszony teljesítésével felmerült szükséges és indokolt költségek megtérítését a munkaszerződésben érvényesen ki lehet zárni",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 51. § (2) bekezdés a) pontja (költségtérítés) az 57. § (1) bekezdés a) pontja alapján kógens, attól eltérni nem lehet, a \"eltérő megállapodás hiányában\" kitétel csak a b) pontra (feltételek biztosítása) vonatkozik."
+        },
+        {
+          "text": "A munkavégzéshez szükséges feltételek biztosításának kötelezettsége alól a felek eltérő megállapodása mentesítheti a munkáltatót",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 51. § (2) bekezdés b) pontja kifejezetten tartalmazza az \"eltérő megállapodás hiányában\" fordulatot, így ezen alcím alatt a felek magában a szerződésben eltérhetnek."
+        }
+      ]
+    },
+    {
+      "question": "Egy munkavállalót a lakásáról a munkahelyére tartó úton, a saját tulajdonú gépjárművével közlekedve baleset éri. Minek minősül ez az eset az Mvt. 87. § alapján?",
+      "options": [
+        {
+          "text": "A baleset minden esetben munkabalesetnek minősül, mivel a munkavégzéssel összefüggésben, a legrövidebb úton történt",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 87. § 3. pont a) alpontja alapján a lakás és a munkahely közötti úti baleset főszabály szerint nem tekinthető munkavégzéssel összefüggésben bekövetkező balesetnek (kiesik a munkabaleset fogalmából)."
+        },
+        {
+          "text": "A baleset munkabalesetnek minősülne, ha a munkavállaló a munkáltató saját tulajdonában álló vagy általa biztosított járművel közlekedett volna",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 87. § 3. pont a) alpontja kivételként rögzíti, hogy munkabaleset, ha a baleset a munkáltató tulajdonában álló vagy általa biztosított járművel történt."
+        },
+        {
+          "text": "A baleset nem minősül munkabalesetnek, függetlenül a sérült munkavállaló közrehatásának mértékétől",
+          "isCorrect": true,
+          "rationale": "IGAZ, mivel a saját gépjárművel történő munkába járás eleve ki van zárva a munkabaleset fogalmából (Mvt. 87. § 3. pont a)), a közrehatás vizsgálata fel sem merül."
+        },
+        {
+          "text": "A baleset minősítése attól függ, hogy a munkavállaló letért-e a szokásos útvonalról; ha nem tért le, az esemény munkabaleset",
+          "isCorrect": false,
+          "rationale": "HAMIS, az úti baleset (saját járművel vagy tömegközlekedéssel) a magyar munkavédelmi jogban (Mvt. 87. §) nem munkabaleset, függetlenül az útvonal betartásától (bár TB szempontból üzemi baleset lehet, de a kérdés az Mvt. szerinti munkabalesetre vonatkozott)."
+        }
+      ]
+    },
+    {
+      "question": "A munkavállaló harmadik személytől származó díjazásával (hálapénz, borravaló) kapcsolatban mely állítások felelnek meg az Mt. 52. § rendelkezéseinek?",
+      "options": [
+        {
+          "text": "A munkavállaló a munkáltató előzetes hozzájárulása nélkül harmadik személytől díjazást a munkaviszonyban végzett tevékenységére tekintettel nem fogadhat el",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 52. § (2) bekezdése a harmadik személytől kapott díjazást a munkáltató előzetes hozzájárulásához köti."
+        },
+        {
+          "text": "A harmadik személytől kapott díjazás fogalmába kizárólag a pénzbeli juttatások tartoznak, a természetbeni szolgáltatások nem",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 52. § (4) bekezdése szerint díjazásnak minősül minden olyan vagyoni értékű szolgáltatás, amelyet harmadik személy a munkáltatót megillető szolgáltatáson felül nyújt."
+        },
+        {
+          "text": "A munkabér-csökkentési tilalom kógens szabály, attól a felek megállapodása vagy kollektív szerződés nem térhet el",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 57. § (1) bekezdés b) pontja az 52. § (3) bekezdését (a munkabér-csökkentési tilalmat) kifejezetten elzárja az eltéréstől."
+        },
+        {
+          "text": "A munkáltató a hozzájárulás megadásával egyidejűleg, azzal arányosan csökkentheti a munkavállaló munkaszerződés szerinti alapbérét",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 52. § (3) bekezdése alapján a munkabért csökkenteni nem lehet arra tekintettel, hogy a munkavállaló harmadik személytől díjazásban részesült. Ez a szabály az 57. § (1) bek. b) pontja alapján kógens."
+        }
+      ]
+    },
+    {
+      "question": "Az Mvt. 55. § szerinti munkavédelmi oktatási kötelezettségre vonatkozóan mely állítások helyesek?",
+      "options": [
+        {
+          "text": "A munkavédelmi oktatást a munkaidőn kívül is meg lehet tartani, amennyiben a munkáltató erre az időre túlórapótlékot fizet",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 55. § (1) bekezdése kógens módon rögzíti, hogy az oktatást rendes munkaidőben kell megtartani."
+        },
+        {
+          "text": "Az oktatási tematika elkészítése munkabiztonsági és munkaegészségügyi szaktevékenységnek minősül",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 55. § (3) bekezdése kifejezetten kimondja, hogy a tematika elkészítése szaktevékenység."
+        },
+        {
+          "text": "Az előírt ismeretek megszerzéséig a munkavállaló önállóan is foglalkoztatható, ha írásban nyilatkozik a felelősség átvállalásáról",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 55. § (2) bekezdése egyértelműen tiltja: az ismeretek megszerzéséig a munkavállaló önállóan nem foglalkoztatható, a felelősség nem hárítható át."
+        },
+        {
+          "text": "Az Mt. 53. § szerinti más munkahelyen történő átmeneti foglalkoztatás esetén is kötelező az oktatás, ha a biztonsági követelmények vagy kockázatok eltérnek",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 55. § (1) bekezdés b) pontja alapján munkahely megváltozásakor az oktatás kötelező, az eltérő foglalkoztatás nem mentesít ez alól."
+        }
+      ]
+    },
+    {
+      "question": "Az éjszakai munkát végző munkavállalók orvosi alkalmassági vizsgálatával kapcsolatban (Mvt. 49. §) mely megállapítások helyesek?",
+      "options": [
+        {
+          "text": "Az éjszakai munkavégzésre való alkalmatlanság megállapítása esetén a munkáltató azonnali hatállyal, végkielégítés nélkül megszüntetheti a jogviszonyt",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 49. § (4) bekezdése kifejezetten a nappali munkavégzésre történő beosztást írja elő kötelezettségként, nem az azonnali hatályú megszüntetést."
+        },
+        {
+          "text": "Az éjszakai munkára vonatkozó orvosi vizsgálat költségeit a munkavállaló és a munkáltató fele-fele arányban viseli",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 51. § (4) bekezdése alapján a munkáltató ingyenesen köteles biztosítani a munkavállaló munkaköri alkalmassági vizsgálatát."
+        },
+        {
+          "text": "Ha az orvosi vizsgálat megállapítja, hogy az éjszakai munka veszélyezteti a munkavállaló egészségét, a munkáltató köteles őt nappali munkavégzésre beosztani",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 49. § (4) bekezdése alapján egészségveszély vagy okozati megbetegedés esetén a munkavállalót nappali munkavégzésre kell beosztani."
+        },
+        {
+          "text": "A munkáltató köteles a munkába lépést megelőzően és a jogviszony fennállása alatt rendszeresen orvosi alkalmassági vizsgálatot biztosítani az éjszakai munkát végzőknek",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 49. § (3) bekezdése ezt kötelezővé teszi a rendszeresen vagy az éves munkaidő legalább egynegyedében éjszakai munkát végzők számára."
+        }
+      ]
+    },
+    {
+      "question": "A munkaszerződéstől eltérő foglalkoztatás (Mt. 53. §) korlátaival és díjazásával kapcsolatban mely állítások felelnek meg a törvénynek?",
+      "options": [
+        {
+          "text": "Az eltérő foglalkoztatás tartamára a munkavállaló az ellátott munkakörre előírt, de legalább a munkaszerződése szerinti alapbérre jogosult",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 53. § (5) bekezdése garantálja, hogy az eltérő munkakör nem lehet bércsökkentés eszköze, a szerződéses alapbér a minimum."
+        },
+        {
+          "text": "Ha a munkaviszony évközben kezdődött, a 44 munkanapos vagy 352 órás korlátot arányosan kell alkalmazni",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 53. § (2) bekezdése kifejezetten előírja az arányosítást évközben kezdődő, határozott idejű vagy részmunkaidős viszony esetén."
+        },
+        {
+          "text": "A naptári évenkénti 44 beosztás szerinti munkanapos korlát az Mt. 57. §-ban felsorolt kógens szabály, attól kollektív szerződés sem térhet el",
+          "isCorrect": false,
+          "rationale": "HAMIS, a forrás rögzíti: \"Az (1)–(2) és az (5) bekezdés e kógens listán nem szerepel; a tartam korlátja és az alapbér-minimum ettől a törvény szövegéből kötelező, nem az 57. § (1) bekezdésének c) pontjából.\" Tehát nem az 57. § teszi kógenssé."
+        },
+        {
+          "text": "A munkáltató az 53. § alapján egyoldalúan, tartósan is kirendelheti a munkavállalót más munkáltatóhoz, ha a munkabére nem csökken",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 53. § csak átmeneti eltérést enged (évi 44 nap/352 óra). A tartós átírás az 58. § szerinti közös megegyezéses szerződésmódosítást igényel."
+        }
+      ]
+    },
+    {
+      "question": "Egy munkavállaló egészségi állapota megváltozik, és a jelenlegi munkakörében nem foglalkoztatható tovább. Mely állítások helyesek az Mt. szabályai alapján?",
+      "options": [
+        {
+          "text": "Ha a munkafeltételek módosítása nem lehetséges, a munkáltató minden esetben köteles a munkavállaló egészségi állapotának megfelelő új munkakört felajánlani, különben fel kell mentenie a munkavégzés alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 60. § szerinti megfelelő munkakör felajánlása és a felmentés a várandósság megállapításától a gyermek egyéves koráig kötelező, nem általánosan minden egészségromlásnál."
+        },
+        {
+          "text": "Várandós munkavállaló esetén, ha a munkafeltételek módosítása nem lehetséges, a várandósság megállapításától a gyermek egyéves koráig megfelelő munkakört kell felajánlani, és a felajánlott munkakör alapbére nem lehet kevesebb a szerződésesnél.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 60. § szerint a várandósság megállapításától a gyermek egyéves koráig megfelelő munkakört kell felajánlani, melynek alapbére nem lehet kevesebb a szerződésesnél."
+        },
+        {
+          "text": "Az egészségi állapot változására tekintettel történő munkafeltétel-módosítás szabályaitól a felek megállapodása a munkavállaló javára eltérhet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 57. § (1) bekezdés a) pontja az 51. § egészét elzárja az eltéréstől, az még a munkavállaló javára sem engedhető el megállapodással."
+        },
+        {
+          "text": "A munkáltató köteles a munkafeltételeket, a munkaidő-beosztást megfelelően módosítani, ami nem a munkaszerződés egyoldalú átírása, hanem a foglalkoztatási kötelezettség tartalmának az állapothoz igazítása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 51. § (3) bekezdése alapján a munkáltató az egészségi állapot változására tekintettel köteles a munkafeltételeket és a munkaidő-beosztást megfelelően módosítani."
+        }
+      ]
+    },
+    {
+      "question": "A munkavállaló harmadik személytől származó díjazásával kapcsolatban mely megállapítások felelnek meg az Mt. rendelkezéseinek?",
+      "options": [
+        {
+          "text": "A munkabér-csökkentési tilalom kógens szabály, attól sem a felek megállapodása, sem kollektív szerződés nem térhet el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 57. § (1) bekezdés b) pontja alapján az 52. § (3) bekezdése el van zárva az eltéréstől."
+        },
+        {
+          "text": "A munkavállaló a munkáltató előzetes hozzájárulása nélkül harmadik személytől díjazást a munkaviszonyban végzett tevékenységére tekintettel nem fogadhat el, és nem is köthet ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 52. § (2) bekezdése kifejezetten a munkáltató előzetes hozzájárulásához köti a harmadik személytől származó díjazás elfogadását és kikötését."
+        },
+        {
+          "text": "A munkavállaló alapbére a munkáltató előzetes hozzájárulásával kapott harmadik személytől származó díjazásra tekintettel arányosan csökkenthető, ha erről a felek a munkaszerződésben kifejezetten megállapodtak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 52. § (3) bekezdése kifejezetten tiltja a munkabér csökkentését ezen a címen, és ez a szabály az 57. § (1) bekezdés b) pontja alapján kógens."
+        },
+        {
+          "text": "A harmadik személytől származó díjazás elfogadásának tilalma csak a pénzbeli juttatásokra vonatkozik, a természetbeni vagyoni értékű szolgáltatásokra nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 52. § (4) bekezdése alapján díjazásnak minősül minden olyan vagyoni értékű szolgáltatás, amelyet harmadik személy a munkáltatót megillető szolgáltatáson felül nyújt."
+        }
+      ]
+    },
+    {
+      "question": "Az éjszakai munkát végző munkavállalók orvosi alkalmassági vizsgálatára és foglalkoztatására vonatkozóan mely állítások helytállóak az Mvt. alapján?",
+      "options": [
+        {
+          "text": "A munkavállalót nappali munkavégzésre kell beosztani, ha megbetegedése az éjszakai munkavégzéssel okozati összefüggésben áll.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 49. § (4) bekezdése alapján okozati megbetegedés esetén a beosztás nem maradhat éjszakai."
+        },
+        {
+          "text": "Az éjszakai munkát végzők orvosi alkalmassági vizsgálatának költségeit a munkavállaló és a munkáltató fele-fele arányban viseli, kivéve, ha kollektív szerződés másként rendelkezik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 51. § (4) bekezdése alapján a munkaköri alkalmassági vizsgálatot a munkáltató ingyenesen köteles biztosítani, és ez a szabály kógens."
+        },
+        {
+          "text": "Ha az orvosi vizsgálat megállapítja, hogy az éjszakai munkavégzés a munkavállaló egészségi állapotát veszélyezteti, a munkáltató köteles a munkavállalót felmenteni a munkavégzés alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 49. § (4) bekezdése szerint ilyen esetben a munkavállalót nappali munkavégzésre kell beosztani, nem pedig felmenteni a munka alól."
+        },
+        {
+          "text": "A munkáltató köteles biztosítani az orvosi alkalmassági vizsgálatot a munkába lépést megelőzően, illetve a jogviszony fennállása alatt előírt időszakonként, ha a munkavállaló a munkarendje szerint rendszeresen vagy éves munkaidejének legalább egynegyedében éjszakai munkát végez.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 49. § (3) bekezdése pontosan ezeket a feltételeket rögzíti az éjszakai munkát végzők orvosi vizsgálatára."
+        }
+      ]
+    },
+    {
+      "question": "A munkaköri alkalmassági véleményezés és annak közlése során milyen szabályok érvényesülnek a 33/1998. (VI. 24.) NM rendelet alapján?",
+      "options": [
+        {
+          "text": "A nem alkalmasnak véleményezett személyt a foglalkozás-egészségügyi orvos köteles azonnal táppénzes állományba venni és a rehabilitációs szakértői szervhez irányítani.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendelet 13. § (6) bekezdése szerint a nem alkalmasnak véleményezett beteget az alapellátás orvosához vagy a területileg illetékes szakellátó helyre kell utalni."
+        },
+        {
+          "text": "A munkaköri alkalmasság vizsgálata és a foglalkoztathatóság szakvéleményezése nem terjed ki a munkaképesség-változás mértékének, a rokkantság fokának meghatározására.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendelet 3. § (6) bekezdése kifejezetten kiveszi ezen elemek véleményezését a vizsgálat köréből, az alkalmassági vélemény nem rokkantsági szakvélemény."
+        },
+        {
+          "text": "A véleményben meg kell határozni, hogy a vizsgált személy az adott munkakörre alkalmas, ideiglenesen nem alkalmas, vagy nem alkalmas, és ideiglenes alkalmatlanság esetén a következő vizsgálat időpontját is meg kell jelölni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 33/1998. (VI. 24.) NM rendelet 13. § (1)-(2) bekezdése szerint a vélemény háromfokozatú, és ideiglenes alkalmatlanságnál a következő időpontot meg kell jelölni."
+        },
+        {
+          "text": "Az alkalmatlanság okát a vizsgálatot végző orvos köteles a munkáltatóval a 12. számú melléklet szerinti nyomtatványon haladéktalanul közölni a megfelelő munkakör felajánlása érdekében.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendelet 13. § (5) bekezdése alapján az alkalmatlanság oka a munkáltatóval csak a vizsgált személy írásbeli hozzájárulásával közölhető (a titoktartás a kórismét elzárja)."
+        }
+      ]
+    },
+    {
+      "question": "A munkáltató kockázatértékelési kötelezettségével kapcsolatban mely állítások felelnek meg az Mvt. előírásainak?",
+      "options": [
+        {
+          "text": "A kockázatértékelés dokumentumát a munkáltató a kiállításától számított 3 évig köteles megőrizni, ezt követően selejtezhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 54. § (5) bekezdése alapján a kockázatértékelés dokumentumát legalább 5 évig meg kell őrizni."
+        },
+        {
+          "text": "A kockázatértékelés elvégzése kizárólag munkaegészségügyi szaktevékenységnek minősül, ezért azt csak foglalkozás-egészségügyi orvos végezheti el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 54. § (8) bekezdése szerint a kockázatértékelés elvégzése munkabiztonsági és munkaegészségügyi szaktevékenységnek is minősül."
+        },
+        {
+          "text": "A kockázatértékelést a tevékenység megkezdése előtt, azt követően indokolt esetben, de legalább 5 évente köteles elvégezni a munkáltató.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 54. § (3) bekezdése szerint a kockázatértékelést a tevékenység megkezdése előtt, majd indokolt esetben, de legalább ötévenként meg kell ismételni."
+        },
+        {
+          "text": "Indokolt esetnek minősül és a kockázatértékelés megismétlését teszi szükségessé az alkalmazott technológia, munkaeszköz hiányosságával összefüggésben bekövetkezett munkabaleset vagy foglalkozási megbetegedés előfordulása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 54. § (3) bekezdés c) pontja ezt kifejezetten indokolt esetként nevesíti a kockázatértékelés megismétlésére."
+        }
+      ]
+    },
+    {
+      "question": "Egy munkavállalót az Mt. 53. § alapján átmenetileg más munkahelyen foglalkoztatnak, ahol a technológia és a munkaeszközök eltérnek a korábbitól. Mely állítások helyesek a munkavédelmi oktatás és a foglalkoztatás feltételei körében?",
+      "options": [
+        {
+          "text": "A munkáltatónak oktatás keretében gondoskodnia kell arról, hogy a munkavállaló a munkahely megváltozásakor elsajátítsa a biztonságos munkavégzés ismereteit, és az ismeretek megszerzéséig önállóan nem foglalkoztatható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 55. § (1)-(2) bekezdése alapján munkahely megváltozásakor oktatás szükséges, és az ismeretek megszerzéséig a munkavállaló önállóan nem foglalkoztatható."
+        },
+        {
+          "text": "Mivel a más munkahelyen történő foglalkoztatás csak átmeneti jellegű (évi max. 44 nap), a munkáltató mentesül az ismételt munkavédelmi oktatás kötelezettsége alól, elegendő a helyi veszélyekre szóban felhívni a figyelmet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a forrás rögzíti, hogy az eltérő foglalkoztatás nem mentesít az ismételt oktatás alól, ha a fogadó hely követelményei, eszközei vagy technológiája különböznek."
+        },
+        {
+          "text": "A munkavédelmi oktatási tematika elkészítése a munkáltató általános irányítási jogkörébe tartozik, ahhoz munkabiztonsági szaktevékenység igénybevétele nem kötelező.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 55. § (3) bekezdése szerint az oktatási tematika elkészítése munkabiztonsági és munkaegészségügyi szaktevékenység."
+        },
+        {
+          "text": "Az oktatást rendes munkaidőben kell megtartani, és elvégzését a tematika megjelölésével, a résztvevők aláírásával ellátva írásban kell rögzíteni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 55. § (1) bekezdése pontosan ezeket a formai és időbeli követelményeket írja elő az oktatás megtartására."
+        }
+      ]
+    },
+    {
+      "question": "A munkavállaló alkoholos befolyásoltságának ellenőrzésével és a vizsgálat megtagadásával kapcsolatban mely megállapítások tükrözik helyesen az MK 122. számú állásfoglalás iránymutatását?",
+      "options": [
+        {
+          "text": "Ha a munkavállaló a vizsgálat eredményét kifogásolja, a vita eldöntésére véralkohol-vizsgálat kérhető, amelynek eredménye a bíróságot köti, más bizonyíték a perben nem értékelhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állásfoglalás szerint a perben a bíróság a szabad bizonyítás elve alapján, a bizonyítékok összességében határoz, a véralkohol-vizsgálat nem kizárólagos bizonyíték."
+        },
+        {
+          "text": "Ha a munkáltató a vizsgálati joggal visszaél (pl. személyes bosszúból alaptalanul, naponta többször ismétli), a közreműködés megtagadása indokolt, és emiatt hátrányos jogkövetkezmény általában nem alkalmazható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az MK 122. számú állásfoglalás kifejezetten rögzíti, hogy joggal való visszaélés esetén a megtagadás indokolt, és hátrányos jogkövetkezmény nem alkalmazható."
+        },
+        {
+          "text": "A munkavállaló a vizsgálatban való közreműködést jogszerűen megtagadhatja, ha a munkáltató nem biztosít azonnal véralkohol-vizsgálatot, mivel a szondáztatás eredménye önmagában nem alapozhat meg hátrányos jogkövetkezményt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közreműködés kellő alap nélküli megtagadása önmagában kötelezettségszegés; a véralkohol-vizsgálat a szondáztatás eredményének vitatása esetén kérhető."
+        },
+        {
+          "text": "A vizsgálat elvégzésének vagy az abban való közreműködésnek a kellő alap nélküli megtagadása a munkaviszonyból eredő kötelezettség vétkes megszegésének minősül, és a munkavállaló a további munkavégzéstől eltiltható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az MK 122. számú állásfoglalás szerint a közreműködés megtagadása vétkes kötelezettségszegés, és a munkavállaló eltiltható a munkavégzéstől, mely időre bér nem jár."
+        }
+      ]
+    },
+    {
+      "question": "Hogyan határolható el a munkavállaló munkavédelmi követelési joga és a munkavégzés megtagadásának joga az Mvt. szabályai szerint?",
+      "options": [
+        {
+          "text": "A munkavégzés megtagadására okot adó közvetlen és súlyos veszélyeztetésnek minősül különösen a szükséges biztonsági berendezések vagy az egyéni védőeszközök működőképtelensége, illetve hiánya.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 63. § (2) bekezdése ezeket kifejezetten a veszélyeztetés minősülő eseteiként nevesíti."
+        },
+        {
+          "text": "Ha a munkavállaló az Mt. 54. § (1) bekezdése alapján jogszerűen megtagadja az utasítás teljesítését, a rendelkezésre állási kötelezettsége is automatikusan megszűnik a veszélyhelyzet elhárításáig.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 54. § (1) bekezdése szerinti kódexbeli utasítás-megtagadásnál a rendelkezésre állási kötelezettség megmarad, ezt az 57. § (1) bek. d) pontja is rögzíti."
+        },
+        {
+          "text": "A munkavállaló jogosult megkövetelni a munkáltatótól a biztonságos munkavégzés feltételeit, és ha a munkáltató utasításának teljesítésével másokat közvetlenül és súlyosan veszélyeztetne, a teljesítést meg kell tagadnia.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 61. § a követelési jogot, a 63. § (1) bekezdése pedig mások veszélyeztetése esetén a megtagadási kötelezettséget rögzíti."
+        },
+        {
+          "text": "A munkavállaló a munkavégzést csak akkor tagadhatja meg, ha a közvetlen és súlyos veszélyeztetés tényét a munkavédelmi hatóság előzetesen határozatban megállapította.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megtagadási jog (Mvt. 63. §) a közvetlen és súlyos veszélyeztetés tényén alapul, gyakorlásához nem kell előzetes hatósági határozat."
+        }
+      ]
+    },
+    {
+      "question": "Az Mvt. értelmező rendelkezései alapján mely állítások helyesek a munkabaleset és a foglalkozási megbetegedés elhatárolása, illetve fogalmi elemei körében?",
+      "options": [
+        {
+          "text": "A munkabaleset az a baleset, amely a munkavállalót a szervezett munkavégzés során vagy azzal összefüggésben éri, függetlenül a baleset helyétől, időpontjától és a sérült munkavállaló közrehatásának mértékétől.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 87. § 3. pontja alapján a munkabaleset fogalma független a helytől, időponttól és a sérült közrehatásától."
+        },
+        {
+          "text": "A munkabaleset fogalmi eleme a munkáltató felróható magatartása; ha a baleset kizárólag a sérült munkavállaló súlyos gondatlanságából ered, az esemény nem minősülhet munkabalesetnek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkabaleset fogalmának (Mvt. 87. § 3. pont) nem eleme a munkáltató felróhatósága, és a sérült közrehatása sem zárja ki a minősítést."
+        },
+        {
+          "text": "A foglalkozási megbetegedés magában foglalja a foglalkozás gyakorlását követően megjelenő idült egészségkárosodást is, ha az a munkavégzés során előforduló fizikai, kémiai, biológiai, pszichoszociális vagy ergonómiai kóroki tényezőkre vezethető vissza.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 87. § 1/D. pontja a foglalkozás gyakorlását követően megjelenő idült egészségkárosodást is ide sorolja."
+        },
+        {
+          "text": "A lakás és a munkahely közötti úti baleset minden esetben munkabalesetnek minősül, ha az a legrövidebb úton, indokolatlan megszakítás nélkül történt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a lakás és a munkahely közötti úti baleset főszabály szerint nem munkabaleset, kivéve, ha a munkáltató által biztosított járművel történt."
+        }
+      ]
+    },
+    {
+      "question": "A KK 25. számú kollégiumi állásfoglalás alapján mikor terheli a foglalkoztatót megtérítési kötelezettség a társadalombiztosítási szerv felé az üzemi baleset miatt folyósított ellátásért?",
+      "options": [
+        {
+          "text": "A foglalkoztató csak akkor felel a társadalombiztosítási szerv felé, ha a balesetet ő vagy alkalmazottja szándékosan idézte elő; a gondatlan munkavédelmi szabályszegés nem alapoz meg megtérítési kötelezettséget.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Ebtv. 67. § (1) bekezdése alapján a kötelező munkavédelmi szabályok elmulasztása (objektív alapon) is megtérítési kötelezettséget von maga után, nem csak a szándékosság."
+        },
+        {
+          "text": "A foglalkoztató köteles megtéríteni az ellátást, ha a baleset annak a következménye, hogy ő vagy megbízottja a reá nézve kötelező munkavédelmi szabályokba foglalt kötelezettségének nem tett eleget, és e mulasztás objektív jellegű.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a KK 25. szám rögzíti, hogy a munkavédelmi szabály elmulasztása objektív jellegű, és megalapozza a megtérítési kötelezettséget."
+        },
+        {
+          "text": "Ha a munkavédelmi szabályt kizárólag maga a balesetet szenvedett munkavállaló szegte meg vagy mulasztotta el, a foglalkoztatót a megtérítési kötelezettség nem terheli.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az állásfoglalás kimondja, hogy ha kizárólag a sérült szegte meg a szabályt, a foglalkoztatót nem terheli megtérítési kötelezettség."
+        },
+        {
+          "text": "Ha a baleset bekövetkezésében a munkáltató munkavédelmi szabályszegése mellett a sérült munkavállaló szabályszegő magatartása is közrehatott, a foglalkoztató megtérítési kötelezettsége a közrehatás arányában csökken (kár-megosztás).",
+          "isCorrect": false,
+          "rationale": "HAMIS, a KK 25. szám szerint a sérült szabályszegése a foglalkoztató objektív megtérítési kötelezettségét nem oltja ki és nem is osztja meg, ha a munkáltató is mulasztott."
+        }
+      ]
+    },
+    {
+      "question": "Egy munkavállalót a munkáltató más helységben végzendő munkára kíván kötelezni az Mt. 53. § alapján. A munkavállaló arra hivatkozik, hogy gyermekét egyedül neveli. Mely állítások helyesek a jogszabályi feltételek megítélésekor?",
+      "options": [
+        {
+          "text": "A munkavállaló hozzájárulása nélkül nem kötelezhető más helységben végzendő munkára gyermeke tizenhat éves koráig, ha gyermekét egyedül neveli.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 53. § (3) bekezdés b) pontja alapján a gyermekét egyedül nevelő munkavállaló gyermeke 16 éves koráig csak hozzájárulásával kötelezhető más helységben végzendő munkára."
+        },
+        {
+          "text": "Az egyedül nevelő státusz megállapításához a gyermek saját háztartásban nevelése mellett az is szükséges, hogy a munkavállaló hajadon, nőtlen, özvegy, elvált vagy házastársától külön éljen, és ne legyen élettársa.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 294. § (1) bekezdés i) pontja pontosan ezeket a konjunktív feltételeket (saját háztartás, zárt családi állapot lista, élettárs hiánya) követeli meg."
+        },
+        {
+          "text": "A más helységben végzendő munka alóli mentesülés a gyermekét egyedül nevelő munkavállalót a gyermek tizennyolcadik életévének betöltéséig illeti meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 53. § (3) bekezdés b) pontja a védelmet a gyermek tizenhat éves koráig biztosítja, nem tizennyolc éves koráig."
+        },
+        {
+          "text": "A gyermekét egyedül nevelő munkavállaló fogalmába beletartozik az a házastársával együtt élő munkavállaló is, aki a munkabeosztása miatt ténylegesen egyedül látja el a gyermek körüli mindennapi teendőket.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 294. § (1) bekezdés i) pontja alapján az egyedül nevelő státuszhoz meghatározott családi állapot (pl. elvált, hajadon) és az élettárs hiánya is szükséges."
+        }
+      ]
+    },
+    {
+      "question": "Az Mt. 57. §-a alapján a munkaszerződés teljesítésére vonatkozó szabályok kógenciájával kapcsolatban mely állítások helytállóak?",
+      "options": [
+        {
+          "text": "Az Mt. 52. § (1) bekezdésében felsorolt öt munkavállalói alapszolgáltatás (pl. megjelenési, rendelkezésre állási kötelezettség) az 57. § alapján kifejezetten kógens listán szerepel, így azoktól semmilyen eltérés nem engedett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a forrás rögzíti, hogy az 52. § (1) bekezdés öt alapszolgáltatása nincs a tilalmi listán, az 57. § (1) bekezdés b) pontja csak a (3) bekezdést zárja el az eltéréstől."
+        },
+        {
+          "text": "A védendő személyi kör (pl. várandós anya, gyermekét egyedül nevelő) más helységben végzendő munkához szükséges hozzájárulási rendjétől a kollektív szerződés a munkáltató javára eltérhet, ha ehhez a szakszervezet hozzájárul.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 57. § (1) bekezdés c) pontja az 53. § (3)-(4) bekezdését (a hozzájárulási rendet) a felek és a kollektív szerződés eltérése elől teljesen elzárja."
+        },
+        {
+          "text": "A munkabér-csökkentési tilalom (Mt. 52. § (3) bek.) kógens, attól a felek megállapodása vagy kollektív szerződés nem térhet el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 57. § (1) bekezdés b) pontja alapján az 52. § (3) bekezdése (munkabér-csökkentési tilalom) kógens, nem alku tárgya."
+        },
+        {
+          "text": "A felek megállapodása és a kollektív szerződés nem térhet el az Mt. 51. § egészétől, így a foglalkoztatási kötelezettség és a biztonságos munkavégzés követelménye még a munkavállaló javára sem engedhető el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 57. § (1) bekezdés a) pontja az 51. § egészét elzárja az eltéréstől, így az a közérdekű mag része, a munkavállaló javára sem engedhető el."
+        }
+      ]
+    },
+    {
+      "question": "Egy munkabaleset bekövetkezése esetén a társadalombiztosítási szerv megtérítési igényével és a foglalkoztató felelősségével kapcsolatban mely állítások helyesek a KK 25. számú állásfoglalás és a vonatkozó szabályok alapján?",
+      "options": [
+        {
+          "text": "A foglalkoztatót nem terheli megtérítési kötelezettség a társadalombiztosítási szerv felé, ha a balesetet okozó munkavédelmi szabályt kizárólag maga a balesetet szenvedett munkavállaló szegte meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a KK 25. számú állásfoglalás szerint abban az esetben, ha a munkavédelmi szabályt kizárólag a sérült szegte meg, a foglalkoztatót megtérítési kötelezettség nem terheli."
+        },
+        {
+          "text": "A foglalkoztató megtérítési kötelezettsége a sérült munkavállaló közrehatásának arányában, kármegosztás szabályai szerint csökken.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a KK 25. számú állásfoglalás alapján a munkavédelmi szabály elmulasztása objektív jellegű, a sérült közrehatásának mértéke a foglalkoztató megtérítési kötelezettsége szempontjából nem bír jelentőséggel, kármegosztásnak itt nincs helye."
+        },
+        {
+          "text": "A foglalkoztató kizárólag abban az esetben köteles a felmerült egészségbiztosítási ellátást megtéríteni, ha a balesetet ő vagy alkalmazottja szándékosan idézte elő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Ebtv. 67. § (1) bekezdése alapján a szándékos előidézés mellett a foglalkoztató akkor is köteles megtéríteni az ellátást, ha a baleset annak a következménye, hogy a reá nézve kötelező munkavédelmi szabályoknak nem tett eleget."
+        },
+        {
+          "text": "A foglalkoztató objektív megtérítési kötelezettségét nem oltja ki az a tény, hogy a munkavédelmi szabályok megszegésével maga a sérült munkavállaló is közrehatott a balesetben, amennyiben a foglalkoztató is mulasztott.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a KK 25. számú állásfoglalás kimondja, hogy ha a foglalkoztató vagy megbízottja a munkavédelmi szabályt megszegte, a sérült közrehatása nem mentesíti a foglalkoztatót az objektív megtérítési kötelezettség alól."
+        }
+      ]
+    },
+    {
+      "question": "A munkaköri alkalmassági vizsgálatokra és azok jogkövetkezményeire vonatkozóan mely állítások felelnek meg a hatályos jogszabályoknak?",
+      "options": [
+        {
+          "text": "Ha a munkavállaló egészségi állapota megváltozik, a munkáltató köteles a munkaszerződést egyoldalúan módosítani és a munkavállalót más munkakörbe áthelyezni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 51. § (3) bekezdése alapján a munkáltató a munkafeltételeket és a munkaidő-beosztást köteles megfelelően módosítani; ez nem a munkaszerződés egyoldalú átírása, hanem a foglalkoztatási kötelezettség tartalmának az állapothoz igazítása."
+        },
+        {
+          "text": "A munkaköri alkalmassági véleményben meg kell határozni, hogy a vizsgált személy alkalmas, ideiglenesen nem alkalmas vagy nem alkalmas, és ideiglenes alkalmatlanság esetén a következő vizsgálat időpontját is meg kell jelölni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 33/1998. (VI. 24.) NM rendelet 13. § (1) és (2) bekezdése pontosan ezt a háromfokozatú véleményezést és az ideiglenes alkalmatlanság esetén a következő vizsgálat időpontjának megjelölését írja elő."
+        },
+        {
+          "text": "A munkaköri alkalmasság vizsgálata és a foglalkoztathatóság szakvéleményezése kiterjed a munkaképesség-változás mértékének és a rokkantság fokának meghatározására is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 33/1998. (VI. 24.) NM rendelet 3. § (6) bekezdése kifejezetten rögzíti, hogy az alkalmasság vizsgálata nem terjed ki a munkaképesség-változás mértékének, a rokkantság fokának, valamint a szellemi képesség és az elmeállapot véleményezésére."
+        },
+        {
+          "text": "Az alkalmatlanság okát a vizsgálatot végző orvos a munkáltatóval csak a vizsgált személy írásbeli hozzájárulásával közölheti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 33/1998. (VI. 24.) NM rendelet 13. § (5) bekezdése alapján a munkáltatóval az ok csak a vizsgált személy írásbeli hozzájárulásával közölhető, a nyomtatvány alapból csak a foglalkoztathatóság tényét tartalmazza."
+        }
+      ]
+    },
+    {
+      "question": "A munkáltató munkavédelmi kockázatértékelési és oktatási kötelezettségével kapcsolatban mely megállapítások helytállóak az Mvt. alapján?",
+      "options": [
+        {
+          "text": "A munkáltató a kockázatértékelést a tevékenység megkezdése előtt, azt követően indokolt esetben, de legalább 5 évente köteles elvégezni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 54. § (3) bekezdése rögzíti a tevékenység megkezdése előtti, majd az indokolt esetben, de legalább 5 évente történő ismétlés kötelezettségét."
+        },
+        {
+          "text": "A munkáltató köteles a kockázatértékelés dokumentumát a külön jogszabályban foglaltak szerint, de legalább 5 évig megőrizni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 54. § (5) bekezdése kifejezetten előírja a kockázatértékelés dokumentumának legalább 5 évig történő megőrzését."
+        },
+        {
+          "text": "A munkavédelmi oktatást a munkáltató a rendes munkaidőn kívül is megtarthatja, amennyiben arra az időre a munkavállaló részére bérpótlékot fizet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 55. § (1) bekezdése kógens módon előírja, hogy az oktatást rendes munkaidőben kell megtartani, ettől bérpótlék ellenében sem lehet eltérni."
+        },
+        {
+          "text": "Az Mt. 53. § szerinti más munkahelyen történő átmeneti foglalkoztatás esetén a munkáltató mentesül az újbóli munkavédelmi oktatás alól, mivel a munkaszerződés nem módosul.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 55. § (1) bekezdés b) pontja alapján munkahely vagy munkakör megváltozásakor oktatást kell tartani; az eltérő foglalkoztatás nem mentesít ez alól, ha a fogadó hely követelményei különböznek."
+        }
+      ]
+    },
+    {
+      "question": "Az MK 122. számú állásfoglalás alapján hogyan alakulnak a munkára képes állapot ellenőrzésének és az alkoholvizsgálat megtagadásának jogkövetkezményei?",
+      "options": [
+        {
+          "text": "Ha a munkáltató a vizsgálati joggal visszaél (pl. személyes bosszúból, alaptalanul ismételgetve rendeli el), a munkavállaló közreműködésének megtagadása indokolt, és emiatt hátrányos jogkövetkezmény nem alkalmazható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az MK 122. számú állásfoglalás rögzíti, hogy a joggal való visszaélés esetén a megtagadás indokolt, és a munkavállalót emiatt nem érheti hátrány."
+        },
+        {
+          "text": "A munkavállaló alkoholvizsgálatban való közreműködésének megtagadása a joggyakorlat szerint automatikusan az alkoholos befolyásoltság elismerésének minősül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az MK 122. számú állásfoglalás szerint a megtagadás a munkaviszonyból eredő kötelezettség vétkes megszegése (együttműködés hiánya), de nem jelenti az ittas állapot automatikus, megdönthetetlen elismerését."
+        },
+        {
+          "text": "Ha a munkavállaló kellő alap nélkül megtagadja az alkoholvizsgálatban való közreműködést, a további munkavégzéstől eltiltható, és az eltiltás idejére munkabér nem jár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az MK 122. számú állásfoglalás kimondja, hogy az indokolatlan megtagadás a kötelezettség vétkes megszegése, a munkavállaló eltiltható a munkától, és erre az időre bér nem illeti meg."
+        },
+        {
+          "text": "A munkaidő alatti teljes alkoholtilalom az Mt. erejénél fogva minden munkaviszonyban automatikusan érvényesül, függetlenül a munkakör jellegétől.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az MK 122. számú állásfoglalás szerint teljes alkoholtilalom akkor áll fenn, ha a fogyasztás a szerződéses kötelezettségekkel nem egyeztethető össze, vagy ha jogszabály, illetve a munkáltató rendelkezése azt kifejezetten előírja."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,711 @@
+{
+  "id": "jy4vGKCb3H2sECUxZBTO",
+  "sorszam": 7,
+  "cim": "A munkaviszony kezdete; a próbaidő jogi természete, rendeltetése, időtartama.",
+  "generationType": "kerdes",
+  "title": "7. A munkaviszony kezdete; a próbaidő jogi természete, rendeltetése, időtartama.",
+  "questions": [
+    {
+      "question": "A munkaszerződés megkötésének napján — eltérő megállapodás hiányában — milyen munkavégzési kötelezettség terheli a feleket?",
+      "options": [
+        {
+          "text": "A kötés napján a munkavállaló még nem köteles munkába állni, a munkáltató pedig még nem köteles foglalkoztatni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a diszpozitív főszabály a teljesítést a következő napra tolja. Az Mt. 48. § szerint a munkaviszony kezdetének napja — eltérő megállapodás hiányában — a megkötést követő nap. A 42. § (1) bekezdése szerinti létrejött tehát nem jelent azonnali munkába állási kötelezettséget. A közbenső napra az Mt. 49. § saját magatartási rendet ad."
+        },
+        {
+          "text": "A kötés napján a munkavállaló mindig köteles megjelenni, mert a munkaviszony a szerződéssel már létrejött.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a létrejött nem azonos a munkába állási kötelezettséggel. Az Mt. 42. § (1) bekezdése a viszonyt a munkaszerződéssel hozza létre, de az Mt. 48. § a kezdetet — eltérő megállapodás hiányában — a megkötést követő napra helyezi. A tévedés a létesítés és a teljesítés indításának összekeveréséből ered."
+        },
+        {
+          "text": "A kötés napjáig a munkaszerződés csak előszerződés, ezért munkavégzési kötelezettség egyáltalán nem keletkezhet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkaszerződés már a kötéssel létrehozza a munkaviszonyt. Az Mt. 42. § (1) bekezdése a viszonyt a munkaszerződéssel keletkezteti; az Mt. 48. § csak a kezdet napját rendezi. Ha a felek a kezdetet a kötés napjában rögzítik, a teljesítési kötelezettség azonnal él. A tévedés forrása a létrejött és a kezdet fogalmának előszerződéssé torzítása."
+        },
+        {
+          "text": "Ha a felek a kezdőnapot a kötés napjában rögzítik, már e napon él a munkába állási és a foglalkoztatási kötelezettség.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felek az Mt. 48. § diszpozitív főszabályától eltérően a kezdőnapot a kötés napjára is tehetik. Ha a kezdet a kötés napja, a munkavállaló már e napon köteles munkába állni, a munkáltató pedig foglalkoztatni. Az Mt. 45. § (5) bekezdése szerinti próbaidő ekkor ugyanezen naptól fut, mert a tartam a munkaviszony kezdetétől számít. Az Mt. 49. § közbenső meghiúsítási tilalma és elállása ilyenkor nem nyílik meg, hiszen nincs kötés és kezdet közötti időszak."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "34a9be5e7c15"
+    },
+    {
+      "question": "Honnan kell számítani a próbaidő tartamát, ha a szerződéskötés és a munkaviszony kezdete nem esik egybe?",
+      "options": [
+        {
+          "text": "A későbbi munkába lépés a három hónapos zárat is eltolja: a tartam a tényleges kezdettől fut.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a számítás követi a felek által rögzített vagy a diszpozitív kezdőnapot. Az Mt. 45. § (5) bekezdése a kezdettől számított zárat adja, nem az aláírástól. Ha a felek későbbi kezdetben állapodnak meg, a kísérleti szakasz is később indul. A közbenső, kötés és kezdet közötti napokon a kísérleti szakasz még nem indult el."
+        },
+        {
+          "text": "A próbaidő tartamát a munkaviszony kezdetétől kell számítani; a 48. § szerinti kezdőnap a próbaidő kezdőnapja is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kísérleti szakasz a tényleges kezdethez igazodik. Az Mt. 45. § (5) bekezdése a tartamot a munkaviszony kezdetétől számított legfeljebb három hónapban zárja. Az Mt. 48. § szerinti kezdőnap — eltérő megállapodás hiányában a megkötést követő nap — ezért a próbaidő bázisa is. A kötés napja önmagában nem indítja a három hónapot."
+        },
+        {
+          "text": "A próbaidő mindig a szerződéskötés napjától számít, a 48. § szerinti kezdettől függetlenül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bázis a munkaviszony kezdete, nem az aláírás. Az Mt. 45. § (5) bekezdése a tartamot a munkaviszony kezdetétől rendeli számítani. Az Mt. 48. § szerinti későbbi munkába lépés a kísérleti szakaszt is eltolja. A tévedés a szerződéskötés és a kezdet napjának felcseréléséből ered."
+        },
+        {
+          "text": "Ha a kezdet későbbi, a három hónapos zár a kötés és a kezdet közötti naptári idővel rövidül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közbenső idő nem fogyasztja a próbaidő tartamát. Az Mt. 45. § (5) bekezdése a tartamot a munkaviszony kezdetétől méri; a 49. § szerinti közbenső szakaszban a próbaidő még nem fut. A későbbi kezdet eltolja, nem megrövidíti a három hónapos zárat. A tévedés forrása a közbenső napok próbaidőbe számítása."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "03d7c14aea7c"
+    },
+    {
+      "question": "Ha a munkaszerződés a próbaidőről hallgat, de a határozatlan időről, a munkahelyről és a munkaidőről sem rendelkezik, mi érvényesül?",
+      "options": [
+        {
+          "text": "A próbaidőre nincs vélelem: a szerződés hallgatása esetén kísérleti szakasz nem jön létre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a próbaidő kifejezett kikötést igényel. Az Mt. 45. § (5) bekezdése a próbaidőt nem vélelemként, hanem a felek munkaszerződésbe foglalt kikötéseként intézményesíti. A (2)–(4) bekezdés vélelmei a próbaidőre nem terjednek ki. Ha a szerződés hallgat, a (2)–(4) bekezdés vélelmei érvényesülnek, kísérleti szakasz viszont nem keletkezik."
+        },
+        {
+          "text": "A határozatlan idő vélelme magában foglal három hónapos próbaidőt is, ha a felek hallgatnak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés határozatlan idejű vélelme önmagában nem hoz létre próbaidőt. Az Mt. 45. § (2) bekezdése csak a viszony tartamának jellegét vélelmezi. Az (5) bekezdés külön, kifejezett kikötést követel a munkaviszony kezdetétől számított tartamra. A tévedés abból ered, hogy a tartam jellegére vonatkozó vélelmet a kísérleti szakaszra is kiterjesztik."
+        },
+        {
+          "text": "A 45. § (2)–(4) bekezdésének vélelmei — határozatlan idő, szokásos munkahely, általános teljes napi munkaidő — automatikusan érvényesülnek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, e három tartalom vélelemként pótlódik, ha a felek másként nem rendelkeznek. Az Mt. 45. § (2) bekezdése a határozatlan időt, a (3) a munkakörben szokásos munkavégzési helyet, a (4) az általános teljes napi munkaidőt rendeli. A vélelmek a munkaviszony kezdetének tartalmát adják a hallgatás esetére. Az Mt. 45. § (5) bekezdése szerinti próbaidő ettől független: nem vélelem, hanem kifejezett kikötés, ezért a hallgatás önmagában nem hoz létre kísérleti szakaszt."
+        },
+        {
+          "text": "Hallgatás esetén sem a vélelmek, sem a próbaidő nem érvényesül, amíg a felek utóbb nem egészítik ki a szerződést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2)–(4) bekezdés vélelmei eltérő megállapodás hiányában automatikusan érvényesülnek. Az Mt. 45. § (2)–(4) bekezdése éppen a hallgatás esetére adja a határozatlan időt, a szokásos munkahelyet és az általános teljes napi munkaidőt. A próbaidő viszont (5) szerinti kifejezett kikötés nélkül valóban elmarad. A tévedés a vélelmek hatályának tagadásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "fcfc17cfe82d"
+    },
+    {
+      "question": "Az Mt. 49. § (2) bekezdése szerinti elállásnál mit jelent az aránytalan sérelem mércéje?",
+      "options": [
+        {
+          "text": "Az aránytalan sérelem akkor is megalapozza az elállást, ha a körülmény a kötéskor már ismert volt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kötéskor ismert körülmény nem alapozza meg az elállást. Az Mt. 49. § (2) bekezdése a változást a megkötést követően követeli meg. Az aránytalan sérelem önmagában sem oldja fel ezt az időbeli feltételt. A tévedés forrása a szerződéskötéskori kockázatvállalás és az utólagos lényeges változás összekeverése."
+        },
+        {
+          "text": "Elegendő, ha a fél a kötés után már nem tartja előnyösnek a szerződést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, önmagában az, hogy a fél már nem tartja előnyösnek a szerződést, nem nyit elállást. Az Mt. 49. § (2) bekezdése a megkötést követő lényeges változáshoz köti az elállást, és ahhoz, hogy a teljesítés lehetetlenné válna vagy aránytalan sérelemmel járna. A mérce a viszonylagos teher, nem a kényelem. A tévedés a szűk elállási küszöb és a szabad kilépés összekeveréséből ered."
+        },
+        {
+          "text": "Az aránytalan sérelem a viszonylagos teher mércéje, nem azonos a puszta érdekmúlással vagy a kényelemmel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az elállás szigorúbb küszöböt kíván a puszta érdekmúlásnál. Az Mt. 49. § (2) bekezdése a teljesítés lehetetlenné válását vagy aránytalan sérelmet követel a megkötést követő lényeges változás következményeként. Az aránytalan sérelem a viszonylagos teherhez igazodik, és nem a kényelmi érdekmúláshoz. A puszta érdekmúlás önmagában nem nyitja meg az alakító jogot."
+        },
+        {
+          "text": "A változásnak a fél saját körülményeiben kell beállnia a megkötést követően; idegen, a felet nem érintő változás nem elég.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tényállás a fél saját körülményeire szabott. Az Mt. 49. § (2) bekezdése szerint a fél akkor állhat el, ha „körülményeiben” áll be a lényeges változás. A változásnak a munkaszerződés megkötését követően kell bekövetkeznie. A kötéskor már ismert körülmény e mérce mellett sem alapozza meg az elállást."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "71319604994a"
+    },
+    {
+      "question": "Meddig irányadó a 49. § (1) bekezdésének meghiúsítási tilalma, és mi váltja fel a kezdet után?",
+      "options": [
+        {
+          "text": "A kezdet után a meghiúsítási tilalmat a 65. § (2) bekezdése szerinti felmondáskizárás váltja fel automatikusan.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 65. § (2) bekezdése nem automatikus folytatása a 49. § (1) bekezdésének. Az Mt. 65. § (2) bekezdése a felek külön megállapodásához köti a felmondás kizárását, legfeljebb a kezdettől számított egy évig. A 49. § (1) bekezdés tilalma a kezdettel véget ér, és nem alakul át felmondáskizárássá. A tévedés forrása a közbenső tartózkodási parancs és a szerződéses felmondáskizárás felcserélése."
+        },
+        {
+          "text": "A próbaidő a kezdettől futó kísérleti szakasz, és nem hosszabbítja meg a 49. § (1) bekezdésének tilalmát a kipróbálás végéig.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a meghiúsítási tilalom és a próbaidő időbeli hatálya nem esik egybe. Az Mt. 45. § (5) bekezdése a próbaidőt a munkaviszony kezdetétől számítja, legfeljebb három hónapos zár mellett. Az Mt. 49. § (1) bekezdése a közbenső szakaszra szól, nem a kísérleti szakaszra. A próbaidő rendeltetése a kölcsönös kipróbálás, nem a meghiúsítási tilalom meghosszabbítása."
+        },
+        {
+          "text": "A meghiúsítási tilalom a próbaidő teljes tartama alatt is irányadó marad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 49. § (1) bekezdése nem terjed ki a próbaidőre. A tilalom a kötés és a kezdet közötti időszakra szól; a próbaidő az Mt. 45. § (5) bekezdése szerint a megkezdett viszony kísérleti szakasza. A kezdet után a meghiúsítási tilalom nem hosszabbodik meg. A tévedés abból ered, hogy a kötés–kezdet közötti tilalmat a kipróbálás idejére is kiterjesztik."
+        },
+        {
+          "text": "A tilalom csak a munkaszerződés megkötése és a munkaviszony kezdetének napja közötti időszakra szól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tartózkodási parancs időbeli hatálya zárt. Az Mt. 49. § (1) bekezdése kifejezetten a kötés és a kezdet közötti időszakra tiltja a létrejöttet meghiúsító magatartást. A munkaszerződés ekkor már létrejött, a teljesítés azonban még nem indult meg. A kezdet napjától a meghiúsítási tilalom helyett a már megkezdett viszony szabályai érvényesülnek."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "9e1ff238d228"
+    },
+    {
+      "question": "Milyen feltételek mellett állhat el bármelyik fél a munkaszerződéstől a kezdet előtt?",
+      "options": [
+        {
+          "text": "Ha a megkötést követően a fél körülményeiben olyan lényeges változás áll be, amely a teljesítést lehetetlenné tenné vagy aránytalan sérelemmel járna.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az elállás kettős, szigorú tényálláshoz kötött. Az Mt. 49. § (2) bekezdése szerint „az (1) bekezdésben meghatározott tartam alatt a munkaszerződéstől bármelyik fél elállhat, ha a munkaszerződés megkötését követően körülményeiben olyan lényeges változás következett be, amely a munkaviszony teljesítését lehetetlenné tenné vagy aránytalan sérelemmel járna”. A változásnak a saját körülményekben kell beállnia. Az aránytalan sérelem a viszonylagos teher mércéje, nem a kényelemé."
+        },
+        {
+          "text": "Az elállás a munkaszerződést a kezdet előtt felszámolja, ezért próbaidő ebben a szakaszban még nem fut.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az elállás a megkezdett viszony kísérleti szakasza előtt hat. Az Mt. 49. § (2) bekezdése a kötés és a kezdet közötti tartamra adja az alakító jogot. A próbaidő az Mt. 45. § (5) bekezdése szerint a munkaviszony kezdetétől számított, a munkaszerződésbe foglalt kikötés. Ha az elállás a kezdet előtt felszámolja a szerződést, próbaidő — mint a már megkezdett viszony szakasza — nem indul el. A két intézmény tehát egymást nem helyettesíti."
+        },
+        {
+          "text": "Csak a munkáltató állhat el, mert a munkavállaló a kezdet előtt a 65. § szerinti felmondással élhet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az elállás bármelyik felet megilleti a 49. § szerinti feltételek mellett. Az Mt. 49. § (2) bekezdése kifejezetten „bármelyik fél” elállásáról rendelkezik a kötés és a kezdet közötti tartam alatt. Az Mt. 65. § (1) bekezdése a felmondást a már fennálló munkaviszonyra adja, nem a kezdet előtti elállást helyettesíti. A tévedés az elállás és a felmondás alanyi körének felcseréléséből ered."
+        },
+        {
+          "text": "Elegendő a puszta érdekmúlás, ha a fél a kötés után már nem tartja előnyösnek a szerződést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a puszta érdekmúlás nem nyit elállási jogot. Az Mt. 49. § (2) bekezdése lényeges változást követel, amely a teljesítést lehetetlenné tenné vagy aránytalan sérelemmel járna. Az aránytalan sérelem nem azonos a puszta érdekmúlással; a mérce a viszonylagos teher. A tévedés az elállás és a szabad felmondás összecsúsztatásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "9a269a6705e7"
+    },
+    {
+      "question": "A felek a munkaszerződésben — kollektív szerződés nélkül — hat hónapos próbaidőt kötnek ki. Mi a helyes megítélés?",
+      "options": [
+        {
+          "text": "A hat hónapos egyedi kikötés érvényes, ha a felek a 43. § alapján a munkavállaló javára térnek el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 43. § javára-eltérése nem emeli az egyedi plafont hat hónapra. Az Mt. 50. § a 42–45. § viszonylatában konkretizálja és szűkíti az általános javára-szabályt. Az Mt. 45. § (5) bekezdése három hónapban zárja az egyedi tartamot; a hat hónap az 50. § (4) bekezdése szerinti KSZ-jogcím. A tévedés abból ered, hogy a 43. § javára-szabályát a hat hónapos KSZ-jogcímre írják rá."
+        },
+        {
+          "text": "A kikötés érvényes, ha a munkakör összetett, mert a felek szabadon állapodhatnak meg a tartamban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkakör jellege nem oldja fel a három hónapos zárat. Az Mt. 45. § (5) bekezdése az egyedi kikötést legfeljebb három hónapban zárja. Az Mt. 50. § (4) bekezdése a hat hónapot a kollektív szerződéshez köti. A tévedés a szerződéses szabadság túlterjesztéséből ered."
+        },
+        {
+          "text": "A kikötés a 45. § (5) bekezdésének három hónapos zárába ütközik, mert a hat hónap csak kollektív szerződéses jogcímen él.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az egyedi megállapodás nem hordozhatja a hat hónapot. Az Mt. 45. § (5) bekezdése a felek kikötését a munkaviszony kezdetétől számított legfeljebb három hónapban zárja. Az Mt. 50. § (4) bekezdése a hat hónapot kizárólag kollektív szerződés rendelkezéséhez köti. A munkaszerződés önmagában tehát nem emelheti a plafont."
+        },
+        {
+          "text": "A három hónapot meghaladó egyedi tartam munkaviszonyra vonatkozó szabályba ütközik; a zárat a felek megállapodása nem törheti át.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a három hónapos maximum magából a 45. § (5) bekezdéséből ered. A három hónapot meghaladó egyedi kikötés a 45. § (5) bekezdés zárjába ütközik. Az 50. § (1) bekezdés c) pontja a 45. § (1) bekezdését zárja el, az (5) bekezdést nem — de az (5) saját zárja továbbra is kógens felső határ. A KSZ hiánya miatt a (4) bekezdés felhatalmazása sem él."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "9599b857dd4c"
+    },
+    {
+      "question": "Miért köthető ki rövidebb próbaidő és egyszeri meghosszabbítás, miközben az alapbérben és a munkakörben a felek nem térhetnek el?",
+      "options": [
+        {
+          "text": "Az 50. § (1) bekezdése a 45. § (5) bekezdését is a tilalmi listára helyezi, ezért próbaidő egyáltalán nem köthető ki.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 45. § (5) bekezdése nincs az 50. § (1) bekezdésének tilalmi listáján. Az Mt. 50. § (1) bekezdés c) pontja csak a 45. § (1) bekezdését zárja el. Az Mt. 45. § (5) bekezdése éppen a kikötést engedi a három hónapos zár alatt. A tévedés a tilalmi lista túlterjesztéséből ered."
+        },
+        {
+          "text": "A három hónapos maximum magából a 45. § (5) bekezdéséből ered: a felek a zárat így sem emelhetik, csak alatta mozoghatnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (5) bekezdés saját zárja kógens felső határ. Az Mt. 45. § (5) bekezdése „legfeljebb három hónapig terjedő” kikötést enged, és a rövidebb tartam egyszeri meghosszabbítását a zár áttörése nélkül. A plafont áttörő egyedi tartam a 45. § (5) bekezdésébe ütköző megállapodás. A tilalmi listán való hiány tehát nem jelenti a plafon elengedését."
+        },
+        {
+          "text": "Az alapbérben és a munkakörben a felek is eltérhetnek, ha írásban lemondanak róluk; a próbaidő viszont kötelező.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a sorrend fordított: az alapbér és a munkakör elzárt, a próbaidő fakultatív. Az Mt. 50. § (1) bekezdés c) pontja a 45. § (1) bekezdésétől való eltérést tiltja. Az Mt. 45. § (5) bekezdése a próbaidőt kifejezett kikötéshez köti, nem teszi a létesítés feltételévé. A tévedés a kógens és a fakultatív tartalom felcseréléséből ered."
+        },
+        {
+          "text": "Az 50. § (1) bekezdés c) pontja csak a 45. § (1) bekezdését zárja el a felek elől; a próbaidőt rendező (5) bekezdés nincs a tilalmi listán.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az eltérési tilalom taxatív a felek felé. Az Mt. 50. § (1) bekezdése a 42–44. §-t, a 44/A. §-t és a 45. § (1) bekezdését zárja el. A 45. § (1) bekezdése az alapbért és a munkakört teszi a létrejöttéshez szükséges tárggyá. Az (5) bekezdés nyitottsága ezért engedi a zár alatti rövidebb tartamot és az egyszeri meghosszabbítást."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "d7a77335f9e3"
+    },
+    {
+      "question": "A határozott idejű munkaviszony meghosszabbításánál vagy hat hónapon belüli ismétlésénél mi a kapcsolat a jogos érdekhez kötöttség és a próbaidő-tilalom között?",
+      "options": [
+        {
+          "text": "Ha a munkáltatói jogos érdek fennáll, a próbaidő azonos munkakörben is szabadon kiköthető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jogos érdek nem oldja fel a próbaidő-tilalmat. Az Mt. 192. § (4) bekezdése a jogos érdekhez kötöttséget és a próbaidő kizárását párhuzamosan rendezi azonos vagy hasonló munkakörnél. Az Mt. 213. § a) pontja a 192. §-t kógenssé teszi. A tévedés a két szabály egymást feloldó olvasatából ered."
+        },
+        {
+          "text": "A próbaidő-tilalom csak akkor él, ha a felek a második szerződésben kifejezetten kikötik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom törvényi, nem szerződéses klauzula. Az Mt. 192. § (4) bekezdése azonos vagy hasonló munkakörben a meghosszabbítás vagy hat hónapon belüli ismétlés esetén kimondja, hogy próbaidő nem köthető ki. Az Mt. 213. § a) pontja szerint a tilalom megállapodással sem engedhető el. A tévedés a kógens tilalom és a diszpozitív kikötés összekeveréséből ered."
+        },
+        {
+          "text": "Azonos vagy hasonló munkakörben e tényállásnál próbaidő nem köthető ki; a tilalom a láncolás leplezését zárja ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kísérleti szakasz nem ismételhető a láncolt határozott viszony leplezésére. Az Mt. 192. § (4) bekezdése szerint azonos vagy hasonló munkakörben történő foglalkoztatás alkalmával próbaidő nem köthető ki. A tilalom a meghosszabbításhoz vagy a hat hónapon belüli ismétléshez és a munkaköri azonossághoz vagy hasonlósághoz kötött. Ha az új munkakör a korábbitól eltér, a próbaidő-tilalom nem áll be automatikusan."
+        },
+        {
+          "text": "A meghosszabbítás vagy ismételt létesítés csak munkáltatói jogos érdek fennállása esetén lehetséges, és nem irányulhat a munkavállaló jogos érdekének csorbítására.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a láncolás visszaélés-ellenes rendje a jogos érdeket előfeltételként köti. Az Mt. 192. § (4) bekezdése a meghosszabbítást és a megszűnést követő hat hónapon belüli ismétlést munkáltatói jogos érdekhez köti. Ugyanezen bekezdés tiltja a munkavállaló jogos érdekének csorbítását. A próbaidő-tilalom e rend mellett, azonos vagy hasonló munkakörnél külön zárja ki a kikötést."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "ae0839bbdd5f"
+    },
+    {
+      "question": "Az arányosított próbaidőnél mi a szerepe a 45. § (5) és az 50. § (4) bekezdése szerinti tartamnak a legfeljebb tizenkét hónapos határozott viszonynál?",
+      "options": [
+        {
+          "text": "Tizenkét hónapos vagy rövidebb határozott viszonynál a 45. § (5) bekezdése szerinti három hónap mindig változatlanul kiköthető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a legfeljebb tizenkét hónapos viszonynál az arányosítás kötelező. Az Mt. 192. § (5) bekezdése a tartamot arányosan rendeli megállapítani. A 45. § (5) bekezdés plafonja e körben csak bázis. A tévedés az általános plafon mechanikus átültetéséből ered."
+        },
+        {
+          "text": "Az arányosítás számítási módjára a 121. § (2) bekezdését kell alkalmazni; ezt az utalást a 192. § (5) bekezdése maga hordozza.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az arányosítás nem önkényes mérték. Az Mt. 192. § (5) bekezdése kifejezetten előírja, hogy az arányosítás során a 121. § (2) bekezdését kell alkalmazni. A három hónapos egyedi és a hat hónapos kollektív szerződéses tartam így számítási bázis. A 121. § (2) bekezdés számítási módját a 192. § (5) bekezdése emeli az arányosításba."
+        },
+        {
+          "text": "E tartamok az arányosítás bázisai, nem a rövid határozott viszonyban változatlanul kiköthető rögzített időtartamok.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a teljes három vagy hat hónap nem illeszthető automatikusan a rövid határozott viszonyhoz. Az Mt. 192. § (5) bekezdése a próbaidőt a 45. § (5) és az 50. § (4) bekezdése szerinti tartam figyelembevételével arányosan rendeli megállapítani. A bázis tehát kiindulópont, nem a végleges tartam. Rövid határozott viszonyhoz a teljes plafon kikötése e szabályba ütközik."
+        },
+        {
+          "text": "Az 50. § (4) bekezdése szerinti hat hónap a rövid határozott viszonynál rögzített tartamként érvényesül, arányosítás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a KSZ-es hat hónap is csak az arányosítás bázisa. Az Mt. 192. § (5) bekezdése a 50. § (4) bekezdése szerinti tartamot is figyelembevétellel, arányosan rendeli alkalmazni. Az Mt. 213. § a) pontja szerint a 192. § (5) bekezdés arányosítása sem engedhető el. A tévedés a hat hónapos KSZ-maximum rögzített tartamként olvasásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "9a3ff7c47493"
+    },
+    {
+      "question": "Megállapodással vagy kollektív szerződéssel mellőzhető-e a 192. § (4) bekezdésének próbaidő-tilalma vagy az (5) bekezdés arányosítása?",
+      "options": [
+        {
+          "text": "Kollektív szerződés a 192. § (5) bekezdését mellőzheti, ha a 50. § (4) bekezdése szerinti hat hónapot köti ki.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kollektív szerződés sem mellőzheti az arányosítást. Az Mt. 213. § a) pontja a 192. §-tól való eltérést a KSZ elől is elzárja. Az Mt. 192. § (5) bekezdése a legfeljebb tizenkét hónapos viszonynál az arányosítást kötelezővé teszi. A tévedés abból ered, hogy a 50. § (4) bekezdés plafonját az arányosítás mellőzésére használják."
+        },
+        {
+          "text": "A tizenkét hónapot meg nem haladó határozott viszonynál a kollektív szerződéses hat hónap sem rögzített tartam, hanem csak az arányosítás bázisa.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kógencia az emelt plafont sem engedi abszolút tartamként átírni. Az Mt. 50. § (4) bekezdése kollektív szerződés javára hat hónapra emelheti a 45. § (5) bekezdés három hónapos zárát, de a 192. § (5) bekezdése ezt is csak arányosítási bázisként kezeli. Az Mt. 213. § a) pontja szerint a felek és a kollektív szerződés a 192. §-tól nem térhet el, ezért az arányosítás nem mellőzhető. A teljes hat hónap tehát a tizenkét hónapot meg nem haladó határozott viszonynál sem rögzíthető arányosítás nélkül."
+        },
+        {
+          "text": "Nem: a 213. § a) pontja a 192. § egészét elzárja a felek és a kollektív szerződés eltérése elől.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a határozott idejű próbaidő-rend nem diszpozitív. Az Mt. 213. § a) pontja szerint a felek megállapodása vagy kollektív szerződés a 192. §-ban foglaltaktól nem térhet el. Ebbe beletartozik a (4) bekezdés próbaidő-tilalma és az (5) bekezdés arányosítási parancsa. A 45. § (5) bekezdés fakultatív természete e körben nem nyitja meg a megállapodás szabadságát."
+        },
+        {
+          "text": "Igen, ha a munkavállaló írásban hozzájárul a próbaidő ismétléséhez vagy a teljes három hónaphoz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hozzájárulás sem oldja fel a kógens rendet. Az Mt. 213. § a) pontja a 192. § egészét a felek megállapodása elől elzárja, ideértve a tilalmat és az arányosítást. Az Mt. 192. § (4)–(5) bekezdése a tilalmat és az arányosítást törvényi parancsként adja. A tévedés a kógens szabály és a javára-eltérés összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "e9b956d0216c"
+    },
+    {
+      "question": "Egy munkáltató március 1-jén köti meg a munkaszerződést, a kezdetet április 1-jében rögzítik, és két hónapos próbaidőt kötnek ki. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A két hónapos kikötés egyszer meghosszabbítható, de a meghosszabbított tartam a kezdettől számított három hónapot nem lépheti túl.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rövidebb kikötés egyszeri hosszabbítása a három hónapos zár alatt marad. Az Mt. 45. § (5) bekezdése szerint rövidebb próbaidő esetén a felek legfeljebb egy alkalommal meghosszabbíthatják, és a tartam így sem haladhatja meg a három hónapot. A meghosszabbítás a felek megállapodása, nem egyoldalú munkáltatói aktus. A zár áttörése egyedi megállapodással tilos."
+        },
+        {
+          "text": "A próbaidő március 1-jétől indul, mert a munkaviszony a munkaszerződéssel jön létre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a létrejött és a próbaidő kezdőnapja elválik. Az Mt. 42. § (1) bekezdése a viszonyt a munkaszerződéssel hozza létre, de az Mt. 45. § (5) bekezdése a próbaidőt a munkaviszony kezdetétől számítja. A felek április 1-jei kezdete ezért a kísérleti szakasz kezdőnapja. A tévedés a létrejött és a kezdet fogalmának összecsúsztatásából ered."
+        },
+        {
+          "text": "A próbaidő április 1-jétől fut, nem a március 1-jei aláírástól, mert a tartamot a munkaviszony kezdetétől kell számítani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a próbaidő a tényleges kezdethez igazodik. Az Mt. 45. § (5) bekezdése szerint a felek a munkaviszony kezdetétől számított tartamban köthetnek ki próbaidőt. Az Mt. 48. § szerinti kezdőnap — itt a felek megállapodása szerinti április 1. — a próbaidő kezdőnapja is. A későbbi kezdet a kísérleti szakaszt is később indítja. A március 1. és április 1. közötti időben a feleket az Mt. 49. § (1) bekezdésének meghiúsítási tilalma és a (2) bekezdés elállási joga köti."
+        },
+        {
+          "text": "A munkáltató a két hónap lejárta előtt egyoldalúan három hónapra hosszabbíthatja a próbaidőt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a meghosszabbítás a felek megállapodása, nem egyoldalú aktus. Az Mt. 45. § (5) bekezdése a rövidebb kikötés egyszeri meghosszabbítását a felekhez köti, és a három hónapos zárat nem engedi áttörni. Egyoldalú munkáltatói hosszabbítás a kétoldalú kikötés természetébe ütközik. A tévedés a munkáltatói utasítási jog és a szerződéses meghosszabbítás felcseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "cf44233734fe"
+    },
+    {
+      "question": "Miben tér el a próbaidő jogi természete a 45. § (2)–(4) bekezdésének vélelmeitől?",
+      "options": [
+        {
+          "text": "A próbaidő rendeltetése a kölcsönös kipróbálás: mindkét fél a kezdettől számított zárt időtartamban vizsgálhatja a munkakör és a személy összeegyeztethetőségét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kísérleti szakasz kétoldalú, nem a munkavállaló egyoldalú tesztelése. Az Mt. 45. § (5) bekezdése a felek kikötéséhez köti a próbaidőt a munkaviszony kezdetétől. A tartam zártsága — legfeljebb három hónap, egyszeri meghosszabbítással a zár alatt — e rendeltetésből következik. A 49. § elállása a kezdet előtti köteléket bontja, a próbaidő a már megkezdett viszonyt minősíti."
+        },
+        {
+          "text": "A próbaidő a munkáltató egyoldalú utasítása, ezért a munkaszerződésbe foglalása nem kötelező.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a próbaidő kétoldalú szerződéses kikötés. Az Mt. 45. § (5) bekezdése szerint a felek a munkaszerződésben köthetnek ki legfeljebb három hónapig terjedő próbaidőt. A kikötés a 44. § írásba foglalási parancsa alá esik. A tévedés a munkáltatói utasítási jog és a szerződéses tartalom felcseréléséből ered."
+        },
+        {
+          "text": "A próbaidő nem vélelem, hanem a felek kifejezett, a munkaszerződésbe foglalt kikötése; a (2)–(4) bekezdés viszont eltérő megállapodás hiányában automatikusan érvényesül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a próbaidő és a vélelmek dogmatikai helye elválik. Az Mt. 45. § (5) bekezdése a próbaidőt kifejezett kikötésként intézményesíti, míg a (2) bekezdés a határozatlan időt, a (3) a szokásos munkahelyet, a (4) az általános teljes napi munkaidőt vélelmezi eltérő megállapodás hiányában. Hallgatás esetén tehát a vélelmek élnek, próbaidő azonban nincs. A két szerkezet nem cserélhető fel."
+        },
+        {
+          "text": "Ha a munkaszerződés hallgat a próbaidőről, a (2) bekezdés határozatlan idejű vélelme automatikusan három hónapos próbaidőt is magában foglal.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határozatlan idő vélelme nem pótolja a próbaidő-kikötést. Az Mt. 45. § (2) bekezdése csak a tartam jellegét vélelmezi; az (5) bekezdés külön, kifejezett kikötést követel. Hallgatás esetén próbaidő nincs. A tévedés a vélelem és a fakultatív kikötés összecsúsztatásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "e6b54d48d1d1"
+    },
+    {
+      "question": "Mi a kapcsolat a próbaidő-kikötés és a munkaszerződés írásba foglalása között?",
+      "options": [
+        {
+          "text": "Az írásba foglalás elmulasztására a munkáltató is hivatkozhat a próbaidő érvénytelensége érdekében.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mulasztás érvénytelenségére csak a munkavállaló hivatkozhat. Az Mt. 44. § a munkába lépést követő harminc napos, csak a munkavállalót illető hivatkozást köti az írásba foglalás elmulasztásához. A kezdet napja e határidő bázisa. A tévedés a szankció alanyi körének kiterjesztéséből ered."
+        },
+        {
+          "text": "A próbaidő szóban is érvényesen kiköthető, mert az (5) bekezdés nem ismétli meg az írásbeliség követelményét.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a próbaidő a munkaszerződés része, ezért az írásbeliség rá is kiterjed. Az Mt. 45. § (5) bekezdése a kikötést a munkaszerződésbe helyezi; az Mt. 44. § a munkaszerződést írásba foglalja. Az Mt. 50. § (1) bekezdése a 42–44. §-tól való eltérést elzárja. A tévedés az (5) bekezdés hallgatásának téves értelmezéséből ered."
+        },
+        {
+          "text": "Az 50. § (1) bekezdése a 42–44. §-tól való eltérést a felek megállapodása elől elzárja, ezért az írásbeliség a próbaidőnél sem engedhető el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az alaki szabály a létesítés kógens magjához tartozik. Az Mt. 50. § (1) bekezdés a) pontja a 42–44. §-ban foglaltaktól való eltérést tiltja a felek megállapodása elől. A próbaidő-kikötés a munkaszerződés része, így az írásba foglalás alól a felek nem bújhatnak ki. A szóban kikötött próbaidő az alaki parancsba ütközik."
+        },
+        {
+          "text": "A próbaidő a munkaszerződésbe foglalt kikötés, ezért a 44. § írásba foglalási parancsa rá is kiterjed.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az alaki parancs a próbaidő-kikötésre is érvényesül. Az Mt. 45. § (5) bekezdése a próbaidőt a munkaszerződés tartalmaként határozza meg. Az Mt. 44. § a munkaszerződést írásba foglalja; a mulasztás érvénytelenségére csak a munkavállaló hivatkozhat, a munkába lépést követő harminc napon belül. A kezdet napja így az alaki szankció számításának is a bázisa."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "d5762b1440c5"
+    },
+    {
+      "question": "Ha a felek egyidejűleg próbaidőt és a 65. § (2) bekezdése szerinti felmondáskizárást kötnek ki, hogyan viszonyul a két tartam?",
+      "options": [
+        {
+          "text": "A próbaidő legfeljebb három hónap (KSZ-nél az 50. § (4) szerint legfeljebb hat), a felmondáskizárás pedig legfeljebb a kezdettől számított egy év.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két tartam önálló plafonnal él. Az Mt. 45. § (5) bekezdése a próbaidőt a kezdettől számított legfeljebb három hónapban zárja; kollektív szerződés az 50. § (4) bekezdése szerint legfeljebb hat hónapot engedhet. Az Mt. 65. § (2) bekezdése a felmondás kizárását legfeljebb a munkaviszony kezdetétől számított egy évig engedi. A rövidebb kísérleti szakasz nem nyeli el az egyéves kizárási keretet."
+        },
+        {
+          "text": "A próbaidő automatikusan magában foglalja a felmondás egyéves kizárását.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a próbaidő nem pótolja és nem tartalmazza a 65. § (2) bekezdése szerinti kizárást. Az Mt. 45. § (5) bekezdése a kísérleti szakaszt rendezi; az Mt. 65. § (2) bekezdése külön megállapodást követel, legfeljebb egy évig. A két jogcím nem olvad össze. A tévedés a közös kezdőnap jogcímegyesítéssé torzításából ered."
+        },
+        {
+          "text": "Mindkét tartam a 48. § szerinti kezdethez igazodik, de a jogcímek nem olvadnak össze, és a próbaidő nem függeszti fel automatikusan a felmondást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közös időbeli bázis nem egyesíti a joghatásokat. Az Mt. 48. § a kezdet napját adja; a próbaidő és a 65. § (2) bekezdése egyaránt ehhez méri a tartamot. A 65. § (1) bekezdése mindkét félnek felmondást ad; a (2) bekezdés kizárása külön megállapodást követel. A próbaidő a 45. § (5) bekezdése szerinti kipróbálás, nem felmondási tilalom."
+        },
+        {
+          "text": "A felmondáskizárás tartama a próbaidő lejártához igazodik, mert a kísérleti szakasz a felmondást is felfüggeszti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felmondási kizárás tartama önálló, legfeljebb egyéves megállapodás. Az Mt. 65. § (2) bekezdése a kezdettől számított legfeljebb egy évet enged; az Mt. 45. § (5) bekezdése a próbaidőt három hónapban (KSZ-nél hat hónapban) zárja. A próbaidő e külön megállapodás nélkül nem függeszti fel a felmondást. A tévedés a két intézmény tartamának összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "af6057d62eca"
+    },
+    {
+      "question": "Új, a korábbitól eltérő munkakörben létesítenek határozott idejű munkaviszonyt a megszűnést követő négy hónapon belül. Mely megállapítások állják meg a helyüket a próbaidőről?",
+      "options": [
+        {
+          "text": "A meghosszabbítás vagy a hat hónapon belüli ismételt létesítés továbbra is csak munkáltatói jogos érdek fennállása esetén lehetséges, és nem irányulhat a munkavállaló jogos érdekének csorbítására.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkaköri eltérés nem oldja fel a láncolás jogos érdekhez kötött rendjét. Az Mt. 192. § (4) bekezdése a meghosszabbítást és a megszűnést követő hat hónapon belüli ismétlést munkáltatói jogos érdekhez köti, és tiltja a munkavállaló jogos érdekének csorbítását. A próbaidő-tilalom külön, az azonos vagy hasonló munkakörhöz kapcsolódik. A két feltételrendszer párhuzamosan él."
+        },
+        {
+          "text": "Ha az új munkakör eltérő, a felek a 213. § a) pontja ellenére is mellőzhetik a 192. § (4) bekezdésének jogos érdekhez kötöttségét.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 192. § kógenciája a jogos érdekhez kötöttséget is zárja. Az Mt. 213. § a) pontja a 192. §-ban foglalt szabályokat a megállapodás és a kollektív szerződés elől egyaránt elzárja. Az Mt. 192. § (4) bekezdése a meghosszabbítást és a hat hónapon belüli ismétlést munkáltatói jogos érdekhez köti, munkakörtől függetlenül. A tévedés a próbaidő-tilalom és a láncolási rend szétválaszthatóságának túlértékeléséből ered."
+        },
+        {
+          "text": "A megszűnést követő hat hónapon belüli ismétlésnél próbaidő minden munkakörben tilos.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom az azonos vagy hasonló munkakörhöz kötött. Az Mt. 192. § (4) bekezdése kifejezetten „azonos vagy hasonló munkakörben történő foglalkoztatás alkalmával” zárja ki a próbaidőt. Eltérő munkakörben a tilalom nem automatikus. A tévedés a tilalom munkaköri feltételének elhagyásából ered."
+        },
+        {
+          "text": "Az azonos vagy hasonló munkakörre szóló próbaidő-tilalom nem automatikus, ha az új munkakör eltérő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 192. § (4) bekezdésének tilalma a munkaköri azonossághoz vagy hasonlósághoz kötött. Az Mt. 192. § (4) bekezdése szerint a meghosszabbítás vagy a megszűnést követő hat hónapon belüli ismételt létesítés esetén azonos vagy hasonló munkakörben próbaidő nem köthető ki. Új, eltérő munkakörben a tilalom nem automatikus. A láncolás jogos érdekhez kötöttsége ettől függetlenül megmarad."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "49c6e5c4b194"
+    },
+    {
+      "question": "A törvény által felsoroltak közül melyik szerepel ténylegesen a kollektív szerződés eltérési tilalmában az 50. § (2) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A kollektív szerződés a 45. § (5) bekezdésétől sem térhet el, ezért a próbaidő tartama KSZ-szel sem emelhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 45. § (5) bekezdése nincs az 50. § (2) bekezdésének tilalmi listáján. Az Mt. 50. § (2) bekezdés c) pontja csak a 45. § (1)–(4) bekezdését zárja; a (4) bekezdés a próbaidőt legfeljebb hat hónapban engedi. A tévedés a tilalmi lista (5) bekezdésre való kiterjesztéséből ered."
+        },
+        {
+          "text": "A 50. § (3) bekezdése a 46–47. §-tól csak a munkavállaló javára enged eltérést; a próbaidő tartamára nem ez a szabály irányadó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a próbaidő tartamának KSZ-es kerete a (4) bekezdés, nem a (3) bekezdés javára-eltérése. Az Mt. 50. § (3) bekezdése a 46–47. §-ra szól; a (4) bekezdés külön mondja ki a legfeljebb hat hónapos próbaidőt. A két eltérési technika nem cserélhető fel. A próbaidő tartamát tehát nem a 46–47. § javára-szabálya, hanem az 50. § (4) bekezdése határozza meg."
+        },
+        {
+          "text": "A kollektív szerződés a 42–44. §-tól a munkavállaló javára eltérhet, mert a (3) bekezdés általános felhatalmazást ad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a létesítés alaki és fogalmi magja a kollektív szerződés elől is elzárt. Az Mt. 50. § (2) bekezdés a) pontja a 42–44. §-tól való eltérést tiltja. A (3) bekezdés csak a 46–47. §-ra enged a munkavállaló javára eltérést, nem a 42–44. §-ra. A tévedés a (3) bekezdés hatályának túlterjesztéséből ered."
+        },
+        {
+          "text": "A kollektív szerződés a 42–44. §-ban, a 44/A. §-ban és a 45. § (1)–(4) bekezdésében foglaltaktól nem térhet el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a KSZ tilalmi listája a létesítés magját és a 45. § (1)–(4) bekezdését zárja. Az Mt. 50. § (2) bekezdés a)–c) pontja ezt a kört sorolja. A 45. § (5) bekezdése nincs a listán, ezért a próbaidő tartama az 50. § (4) bekezdése szerint legfeljebb hat hónapra emelhető. Az alapbér és a munkakör KSZ-szel sem engedhető el."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "462dd59a74bf"
+    },
+    {
+      "question": "Mi következik abból, ha a felek a kezdőnapot nem a kötés napjában rögzítik?",
+      "options": [
+        {
+          "text": "A későbbi kezdet a próbaidőt is eltolja: a három hónap a tényleges kezdettől számít.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a próbaidő számításának bázisa a tényleges kezdet, nem a szerződés aláírása. Az Mt. 45. § (5) bekezdése a próbaidőt a munkaviszony kezdetétől számítja. Ha a felek későbbi munkába lépésben állapodnak meg, a próbaidő is később indul. A kötés és a kezdet közötti időben próbaidő még nem fut."
+        },
+        {
+          "text": "A próbaidő a kötés napjától fut, ha a felek későbbi kezdetben állapodtak meg, mert a kikötés a szerződés része.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a próbaidő a kezdettől, nem a kötéstől fut. Az Mt. 45. § (5) bekezdése a tartamot a munkaviszony kezdetétől számítja; a későbbi kezdet a kísérleti szakaszt is eltolja. A tévedés a szerződéses kikötés és a számítás kezdőnapjának összekeveréséből ered."
+        },
+        {
+          "text": "A kötés napján a munkavállaló köteles megjelenni, mert a munkaviszony a szerződéssel már létrejött.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a létrejött nem jelenti a munkába állási kötelezettség azonnali életbelépését. Az Mt. 42. § (1) bekezdése a viszonyt a szerződéssel hozza létre, de az Mt. 48. § a kezdetet — eltérő megállapodás hiányában — a következő napra helyezi. A tévedés a létrejött és a kezdet összecsúsztatásából ered."
+        },
+        {
+          "text": "A kötés napján a munkavállaló még nem köteles munkába állni, a munkáltató pedig még nem köteles foglalkoztatni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a diszpozitív főszabály gyakorlati következménye a közbenső kötelezettséghiány. Az Mt. 48. § szerint a kezdet — eltérő megállapodás hiányában — a megkötést követő nap. A kötés napján tehát főszabály szerint nincs munkába állási és foglalkoztatási kötelezettség. Az Mt. 49. § e közbenső időre a meghiúsítási tilalmat és a szűk elállást adja."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "095c366fa8eb"
+    },
+    {
+      "question": "Mely esetben nem hosszabbítható meg a felek által kikötött próbaidő?",
+      "options": [
+        {
+          "text": "A rövidebb próbaidő mindig meghosszabbítható, amíg az összesített tartam el nem éri a három hónapot, akár többször is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a zár alatti többszöri hosszabbítás tilos. Az Mt. 45. § (5) bekezdése legfeljebb egy alkalommal enged meghosszabbítást. Az összesített tartam három hónap alatti volta sem nyit második hosszabbítást. A tévedés a zár és az egyszeri korlát szétválasztásának elmulasztásából ered."
+        },
+        {
+          "text": "Ha a felek már egyszer meghosszabbították a rövidebb próbaidőt, mert ismételt hosszabbítás nem megengedett.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a meghosszabbítás legfeljebb egy alkalommal lehetséges. Az Mt. 45. § (5) bekezdése szerint a felek a próbaidőt „legfeljebb egy alkalommal” hosszabbíthatják meg, és a tartam így sem haladhatja meg a három hónapot. A második meghosszabbítás a zár alatt sem él. A meghosszabbítás a felek megállapodása, nem egyoldalú aktus."
+        },
+        {
+          "text": "Ha a felek eleve a három hónapos maximumot kötötték ki, mert a meghosszabbítás csak rövidebb kikötéshez kapcsolódik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a meghosszabbítás feltétele a rövidebb tartam. Az Mt. 45. § (5) bekezdése a meghosszabbítást „ennél rövidebb próbaidő kikötése esetén” engedi, legfeljebb egy alkalommal. A már maximális tartam további nyújtása tilos. A tartam a meghosszabbítás esetén sem lépheti át a három hónapot."
+        },
+        {
+          "text": "A meghosszabbítás a munkáltató egyoldalú utasításával is érvényes, ha a munkavállaló tovább dolgozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a meghosszabbítás nem egyoldalú aktus. Az Mt. 45. § (5) bekezdése a meghosszabbítást is a felek megállapodásához köti. A hallgatólagos továbbfoglalkoztatás nem pótolja a kétoldalú kikötést. A tévedés forrása a munkáltatói utasítási jog ráírása a szerződéses tartammódosításra."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "87f8281a9387"
+    },
+    {
+      "question": "Mely állítások tévesek a határozott idejű munkaviszony próbaidő-rendjéről?",
+      "options": [
+        {
+          "text": "A 192. § (1)–(3) bekezdése szerinti öt éves zár önmagában kizárja a próbaidő kikötését.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az öt éves maximum a határozott viszony tartamát zárja, nem a próbaidőt tiltja. Az Mt. 192. § (2) bekezdése az öt évet — ideértve a meghosszabbított és a hat hónapon belüli újabb határozott tartamot — korlátozza; a próbaidő-szabályok a (4)–(5) bekezdésben vannak. A helyes: a próbaidő a (4) bekezdés tilalma és az (5) bekezdés arányosítása szerint alakul."
+        },
+        {
+          "text": "Az arányosítás csak a munkáltató javára alkalmazandó, a munkavállaló kérheti a teljes három hónapot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az arányosítás kötelező törvényi parancs, nem a munkáltató javára szóló opció. Az Mt. 192. § (5) bekezdése a legfeljebb tizenkét hónapos viszonynál az arányosítást előírja, a 121. § (2) bekezdésének számítási módjával. Az Mt. 213. § a) pontja szerint sem a felek, sem a kollektív szerződés nem térhet el a 192. §-tól, ezért az arányosítás nem mellőzhető. A helyes: a tartamot arányosan kell megállapítani, a teljes plafon nem kérhető ki."
+        },
+        {
+          "text": "Tizenkét hónapos vagy rövidebb határozott viszonynál a kollektív szerződéses hat hónapos próbaidő rögzített tartamként kiköthető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hat hónap is csak az arányosítás bázisa. Az Mt. 192. § (5) bekezdése a legfeljebb tizenkét hónapos viszonynál a 45. § (5) bekezdése és az 50. § (4) bekezdése szerinti tartam figyelembevételével arányosítást rendel. Az Mt. 213. § a) pontja e parancsot kógenssé teszi. A helyes: az emelt plafon sem rögzített időtartam e körben."
+        },
+        {
+          "text": "A 192. § (4) bekezdésének próbaidő-tilalma diszpozitív, ezért a felek megállapodással feloldhatják.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom kógens. Az Mt. 213. § a) pontja a 192. §-tól való eltérést a felek és a kollektív szerződés elől elzárja. Az Mt. 192. § (4) bekezdése azonos vagy hasonló munkakörben a meghosszabbítás vagy hat hónapon belüli ismétlés esetén tiltja a próbaidőt. A helyes: a tilalom megállapodással sem engedhető el."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "dcbcf17d456d"
+    },
+    {
+      "question": "Hat hónapos határozott idejű munkaviszonyt létesítenek, és a felek a munkaszerződésben három hónapos próbaidőt kötnek ki. Mi a helyes megítélés?",
+      "options": [
+        {
+          "text": "Hat hónapos határozott viszonynál próbaidő egyáltalán nem köthető ki.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom nem a tartam önmagában, hanem a (4) bekezdés láncolási tényállása vagy az (5) bekezdés arányosítása. Az Mt. 192. § (5) bekezdése arányosított próbaidőt rendel, nem teljes kizárást. A (4) bekezdés tilalma a meghosszabbításhoz vagy hat hónapon belüli ismétléshez és azonos vagy hasonló munkakörhöz kötött. A tévedés a különös szabályok általános tilalommá torzításából ered."
+        },
+        {
+          "text": "A három hónapos kikötés a 192. § (5) bekezdése szerint arányosítandó, mert a viszony legfeljebb tizenkét hónapos.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rövid határozott viszonyhoz a teljes egyedi plafon nem illeszthető változatlanul. Az Mt. 192. § (5) bekezdése a legfeljebb tizenkét hónapra létesített munkaviszonynál a próbaidőt a 45. § (5) bekezdése és az 50. § (4) bekezdése szerinti tartam figyelembevételével arányosan rendeli megállapítani. Az arányosítás számítási módját a 121. § (2) bekezdése adja, amelyet a 192. § (5) bekezdése magában hordoz. A hat hónapos viszony tehát a három hónapos kikötést arányosítás alá vonja."
+        },
+        {
+          "text": "Az arányosítási parancs a 213. § a) pontja miatt megállapodással sem engedhető el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rövid határozott viszony próbaidő-rendje kógens. Az Mt. 213. § a) pontja miatt sem a munkaszerződés, sem a kollektív szerződés nem térhet el a 192. § arányosítási parancsától. Az Mt. 192. § (5) bekezdése az arányosítást kötelezővé teszi a legfeljebb tizenkét hónapos viszonynál. A felek tehát nem tarthatják meg a teljes három hónapot pusztán azért, mert a 45. § (5) bekezdése ezt az egyedi maximumot adja."
+        },
+        {
+          "text": "A három hónapos kikötés jogszerű, mert a 45. § (5) bekezdése ezt a tartamot engedi az egyedi megállapodásnak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 45. § (5) bekezdése általános plafonja a rövid határozott viszonynál arányosítással érvényesül. Az Mt. 192. § (5) bekezdése a legfeljebb tizenkét hónapos viszonynál kötelező arányosítást rendel. A teljes három hónap e körben nem maradhat meg. A tévedés az általános plafon és a különös arányosítás felcseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "c73a73a62843"
+    },
+    {
+      "question": "Mi a különbség a 45. § (5) bekezdése szerinti egyszeri meghosszabbítás és az 50. § (4) bekezdése szerinti hat hónapos tartam között?",
+      "options": [
+        {
+          "text": "A munkaszerződés önmagában nem hordozhatja a hat hónapos tartamot; ahhoz kollektív szerződéses jogcím kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hat hónapos maximum kizárólag KSZ-es jogcímen él. Az Mt. 45. § (5) bekezdése az egyedi megállapodást három hónapban zárja. Az Mt. 50. § (4) bekezdése a hat hónapot a kollektív szerződés rendelkezéséhez köti. Egyedi megállapodással a zár nem emelhető."
+        },
+        {
+          "text": "A felek előbb három hónapra kötik a próbaidőt, majd a meghosszabbítással eljuthatnak hat hónapig.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a meghosszabbítás a három hónapos zárat nem oldja fel. Az Mt. 45. § (5) bekezdése szerint a tartam a meghosszabbítás esetén sem haladhatja meg a három hónapot. A hat hónap csak az 50. § (4) bekezdése szerinti KSZ-es tartam. A tévedés a meghosszabbítás és a KSZ-es plafon összekeveréséből ered."
+        },
+        {
+          "text": "A hat hónapos KSZ-es tartam is egyszeri meghosszabbítással jön létre a három hónapos kikötésből.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hat hónap eleve kikötött kollektív szerződéses tartam, nem meghosszabbítási eredmény. Az Mt. 50. § (4) bekezdése a próbaidő tartamát legfeljebb hat hónapban engedi KSZ alapján. Az Mt. 45. § (5) bekezdése meghosszabbítása a három hónapos zár alatt marad. A tévedés a két jogcím folyamatossá olvasásából ered."
+        },
+        {
+          "text": "Az egyszeri meghosszabbítás a három hónapos zár alatt marad; a hat hónap eleve kikötött, kollektív szerződéses tartam.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két technika nem ugyanannak a plafonnak a két foka. Az Mt. 45. § (5) bekezdése a rövidebb kikötés egyszeri meghosszabbítását a három hónapos zár alatt engedi. Az Mt. 50. § (4) bekezdése szerint kollektív szerződés alapján a próbaidő tartama legfeljebb hat hónap. A hat hónap nem a 45. § (5) bekezdése meghosszabbításának második plafonja."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "dbce29ba0bad"
+    },
+    {
+      "question": "A 43. § (1) bekezdése szerinti, a munkavállaló javára engedett eltérés hogyan viszonyul a 42–45. § eltérési rendjéhez?",
+      "options": [
+        {
+          "text": "A próbaidő tartamára a felek a három hónapos zár alatt rövidebb kikötésben és egyszeri meghosszabbításban megállapodhatnak, mert a 45. § (5) bekezdése nincs az 50. § (1) bekezdésének tilalmi listáján.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a próbaidő a szűkített eltérési renden belül marad mozgástér. Az Mt. 50. § (1) bekezdés c) pontja csak a 45. § (1) bekezdését zárja el; az (5) bekezdés a három hónapos zár alatt rövidebb tartamot és egyszeri meghosszabbítást enged. A zárat egyedi megállapodással nem emelhetik. A 43. § általános javára-szabálya ezt a szerkezetet nem írja felül."
+        },
+        {
+          "text": "A 43. § (1) bekezdése általános felhatalmazást ad a munkavállaló javára, az 50. § azonban a 42–45. § viszonylatában ezt konkretizálja és szűkíti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az általános javára-eltérés a létesítésnél nem érvényesül korlátlanul. Az Mt. 43. § (1) bekezdése a munkaszerződésnek — jogszabály eltérő rendelkezése hiányában — a Második Részben foglaltaktól és a munkaviszonyra vonatkozó szabálytól a munkavállaló javára enged eltérést. Az Mt. 50. § ezt az általános szabályt a 42–45. § viszonylatában konkretizálja és szűkíti. Az alapbér és a munkakör így a felek elől is elzárt."
+        },
+        {
+          "text": "A 43. § (1) bekezdése felülírja az 50. § (4) bekezdését, ezért a felek egyedi megállapodással is kiköthetnek hat hónapos próbaidőt a munkavállaló javára.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hat hónap kizárólag kollektív szerződéses jogcím. Az Mt. 50. § (4) bekezdése a hat hónapot a kollektív szerződéshez köti; az Mt. 45. § (5) bekezdése az egyedi megállapodást három hónapban zárja. A 43. § javára-eltérése ezt a KSZ-hez kötött plafont nem emeli egyedi megállapodásra. A tévedés a javára-eltérés és a KSZ-es plafon összekeveréséből ered."
+        },
+        {
+          "text": "A 43. § (1) bekezdése alapján a felek a munkavállaló javára elengedhetik az alapbér kikötését.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az alapbér a felek megállapodása elől elzárt. Az Mt. 50. § (1) bekezdés c) pontja a 45. § (1) bekezdésétől való eltérést tiltja; az Mt. 45. § (1) bekezdése az alapbért és a munkakört kötelező megállapodási tárgyként jelöli ki. A 43. § általános javára-szabályát az 50. § ezen a ponton szűkíti. A tévedés abból ered, hogy a 43. § javára-eltérését a létesítés kógens magjára is kiterjesztik."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "84a5679abcbe"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható a próbaidő a 49. § szerinti elállás helyett?",
+      "options": [
+        {
+          "text": "A próbaidő alatt a 49. § (1) bekezdésének meghiúsítási tilalma is irányadó marad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a meghiúsítási tilalom csak a kötés és a kezdet közötti időszakra szól. Az Mt. 49. § (1) bekezdése ezt a közbenső tartamot jelöli ki; a próbaidő az Mt. 45. § (5) bekezdése szerint a megkezdett viszony kísérleti szakasza. A kezdet után a 49. § tartózkodási parancsa nem hosszabbodik meg. A tévedés a közbenső szakasz és a próbaidő időbeli hatályának összekeveréséből ered."
+        },
+        {
+          "text": "A próbaidő a kötés napjától helyettesíti az elállást, ha a felek a munkaszerződésben kikötötték.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a próbaidő a kezdettől fut, és nem váltja ki a 49. § elállását. Az Mt. 45. § (5) bekezdése a tartamot a munkaviszony kezdetétől számítja; az Mt. 49. § (2) bekezdése a kezdet előtti elállást rendezi. A kikötés nem hozza előbbre a kísérleti szakaszt a kötés napjára. A tévedés a két intézmény felcseréléséből ered."
+        },
+        {
+          "text": "Ha a fél a kötéskor már ismert körülményre hivatkozik, mert az elálláshoz a megkötést követő lényeges változás kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötéskori ismert körülmény sem elállást, sem „előrehozott próbaidőt” nem alapoz meg. Az Mt. 49. § (2) bekezdése a változást a megkötést követően követeli meg, és ahhoz köti, hogy a teljesítést lehetetlenné tenné vagy aránytalan sérelemmel járna. A próbaidő csak a kezdet után fut. A téves helyettesítés mindkét intézményt elvéti."
+        },
+        {
+          "text": "A kötés és a kezdet közötti időszakban, mert a próbaidő a már megkezdett viszony kísérleti szakasza, az elállás pedig a kezdet előtti köteléket bontja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két intézmény időbeli hatálya elválik. Az Mt. 49. § (2) bekezdése a kötés és a kezdet közötti tartamra ad szűk elállási jogot. Az Mt. 45. § (5) bekezdése a próbaidőt a munkaviszony kezdetétől számítja. A kezdet előtt tehát a 49. § alakító joga, nem a próbaidő irányadó. A kettő nem helyettesíti egymást."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "f933f60813c1"
+    },
+    {
+      "question": "A munkáltató a határozott idejű munkaviszony megszűnését követő öt hónapon belül, azonos munkakörben újabb határozott szerződést kínál, és három hónapos próbaidőt kíván kikötni. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "Az ismételt létesítés csak munkáltatói jogos érdek fennállása esetén lehetséges, és nem irányulhat a munkavállaló jogos érdekének csorbítására.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a próbaidő-tilalom mellett a láncolás jogos érdekhez kötöttsége is él. Az Mt. 192. § (4) bekezdése a meghosszabbítást és a hat hónapon belüli ismétlést munkáltatói jogos érdekhez köti. Az Mt. 213. § a) pontja e szabályt kógenssé teszi. A próbaidő kikötése e körben tehát külön, önállóan is tilos."
+        },
+        {
+          "text": "Azonos munkakörben a megszűnést követő hat hónapon belüli ismételt létesítésnél próbaidő nem köthető ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tényállás a 192. § (4) bekezdésének tilalmi körébe esik. Az Mt. 192. § (4) bekezdése szerint a megszűnést követő hat hónapon belüli ismételt létesítés esetén azonos vagy hasonló munkakörben próbaidő nem köthető ki. Az öt hónap a hat hónapos ablakon belül van. A tilalom a láncolás visszaélés-ellenes rendjének része."
+        },
+        {
+          "text": "Öt hónap elteltével a hat hónapos ablak már nem él, ezért a próbaidő szabadon kiköthető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az öt hónap még a hat hónapos ablakon belül van. Az Mt. 192. § (4) bekezdése a megszűnést követő hat hónapon belüli ismételt létesítésnél tiltja a próbaidőt azonos vagy hasonló munkakörben. A tilalom tehát az ötödik hónapban is él. A tévedés a határidő félreolvasásából ered."
+        },
+        {
+          "text": "A próbaidő kiköthető, ha a munkavállaló írásban hozzájárul, mert a tilalom a munkavállaló javára szól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom kógens, hozzájárulással sem oldható fel. Az Mt. 213. § a) pontja a 192. §-tól való eltérést a felek megállapodása elől elzárja. Az Mt. 192. § (4) bekezdése azonos vagy hasonló munkakörben a hat hónapon belüli ismétlésnél tiltja a próbaidőt. A tévedés a javára-eltérés és a kógens tilalom összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "d1c208b96441"
+    },
+    {
+      "question": "Milyen tartamban érvényesül a 44. § szerinti, csak a munkavállalót illető hivatkozás az írásba foglalás elmulasztására?",
+      "options": [
+        {
+          "text": "A munkáltató is hivatkozhat a mulasztásra a próbaidő érvénytelensége érdekében a kezdettől számított harminc napon belül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hivatkozás csak a munkavállalót illeti. Az Mt. 44. § a mulasztás érvénytelenségére kizárólag a munkavállalónak ad hivatkozást a munkába lépést követő harminc napon belül. A munkáltató e szankcióval nem élhet. A tévedés az alanyi kör kiterjesztéséből ered."
+        },
+        {
+          "text": "A kezdet napja az alaki szankció számításának bázisa, ezért a későbbi munkába lépés a harminc napos ablakot is eltolja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a harminc nap a tényleges munkába lépéshez igazodik. Az Mt. 44. § a munkába lépést követő harminc napot jelöli ki; a kezdet napja az Mt. 48. § szerint — eltérő megállapodás hiányában — a megkötést követő nap, vagy a felek által rögzített későbbi nap. A későbbi kezdet tehát az alaki hivatkozás ablakát is később indítja. A kötés napja önmagában nem a bázis."
+        },
+        {
+          "text": "A harminc napos határidő a szerződéskötés napjától fut, függetlenül a munkába lépéstől.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határidő a munkába lépéshez, nem a kötéshez igazodik. Az Mt. 44. § a munkába lépést követő harminc napot köti a munkavállaló hivatkozásához. A bázis az Mt. 48. § szerinti kezdet napja — eltérő megállapodás hiányában a megkötést követő nap. A tévedés a kötés és a kezdet összecsúsztatásából ered."
+        },
+        {
+          "text": "A munkavállaló a munkába lépést követő harminc napon belül hivatkozhat az írásba foglalás elmulasztásának érvénytelenségére.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az alaki szankció időbeli és alanyi korlátja zárt. Az Mt. 44. § a munkaszerződést írásba foglalja; a mulasztás érvénytelenségére csak a munkavállaló hivatkozhat, a munkába lépést követő harminc napon belül. A kezdet napja — az Mt. 48. § szerinti időpont — e határidő bázisa. A próbaidő-kikötés mint a munkaszerződés része ugyanezen alaki rend alá esik."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "b4b3456b5d1f"
+    }
+  ]
+}

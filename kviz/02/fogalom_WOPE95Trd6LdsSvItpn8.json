@@ -1,0 +1,765 @@
+{
+  "id": "WOPE95Trd6LdsSvItpn8",
+  "sorszam": 2,
+  "cim": "A munkaviszonnyal kapcsolatos jognyilatkozatok, a jognyilatkozatok (...)",
+  "generationType": "fogalom",
+  "title": "2. A munkaviszonnyal kapcsolatos jognyilatkozatok, a jognyilatkozatok (...)",
+  "questions": [
+    {
+      "question": "Mit ért az Mt. munkaviszonyra vonatkozó szabály alatt, és mi esik e körön kívül?",
+      "options": [
+        {
+          "text": "Munkaviszonyra vonatkozó szabály a jogszabály, a kollektív szerződés, az üzemi megállapodás, valamint az egyeztető bizottság kötelező határozata.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kódex taxatíve zárja a fogalmat, és ehhez köti az egyoldalú jognyilatkozatból eredő jogokat és kötelezettségeket. Az Mt. 13. § szerint: „E törvény alkalmazásában munkaviszonyra vonatkozó szabály a jogszabály, a kollektív szerződés és az üzemi megállapodás, valamint az egyeztető bizottságnak a 293. §-ban foglaltak szerint kötelező határozata.” A felsorolásból hiányzó forrás — például a pusztán egyoldalú munkáltatói gyakorlat — önmagában nem pótolja a 15. § (1) bekezdésének felhatalmazását. A fogalom ezért a későbbi alak-, közlés- és határidő-szabályok visszatérő hivatkozási pontja."
+        },
+        {
+          "text": "A munkáltatói szabályzat a kollektív szerződéssel azonos erővel munkaviszonyra vonatkozó szabálynak minősül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a 13. § taxációját bővíti a munkáltató egyoldalú aktusával. Az Mt. 13. § csak a jogszabályt, a kollektív szerződést, az üzemi megállapodást és az egyeztető bizottság kötelező határozatát sorolja fel; a munkáltatói szabályzat a 17. § szerinti egyoldalú forma. A tévedés onnan ered, hogy a szabályzat közzététele a közléssel esik egy tekintet alá, ez azonban nem emeli a tartalmát kollektív forrássá. A 15. § (1) bekezdésének felhatalmazása ezért nem a szabályzat „önmagában”, hanem a mögötte álló munkaviszonyra vonatkozó szabályból fakad."
+        },
+        {
+          "text": "A munkáltatói szabályzat önmagában nem munkaviszonyra vonatkozó szabály, hanem a 15–16. § szerinti egyoldalú jognyilatkozatok megtételének formája.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a belső szabályzat és az egyoldalúan kialakított gyakorlat a kódex nyelvén munkáltatói szabályzat, nem kollektív forrás. Az Mt. 17. § (1) bekezdése lehetővé teszi, hogy a munkáltató a 15–16. § szerinti jognyilatkozatait ilyen módon tegye meg, de a 13. § taxációjába a szabályzat nem kerül be. A kedvezőbb eltérés és a kógencia ezért másként esik rá, mint a kollektív szerződésre vagy az üzemi megállapodásra. A közzététel fikciója a 17. § (2) bekezdése szerint a helyben szokásos és általában ismert módon történő közzétételhez kötött."
+        },
+        {
+          "text": "A felek megállapodása vagy a munkáltató gyakorlata minden esetben pótolhatja a munkaviszonyra vonatkozó szabályt, ha a kódex azt kívánja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a fogalom zártsága éppen azt jelenti, hogy a felek megállapodása vagy a munkáltató gyakorlata nem helyettesíti a 13. § forrásait. Az Mt. 13. § taxatív felsorolása a jogszabályt, a kollektív szerződést, az üzemi megállapodást és az egyeztető bizottság kötelező határozatát adja meg. A tévedés a polgári jog diszpozitív szerződési szabadságának munkajogi átültetéséből fakad, holott a munkaviszonyban a mozgástér a munkaviszonyra vonatkozó szabály zártságához igazodik. Ahol a kódex e fogalomra utal — például a 15. § (1) bekezdésénél —, ott a pótlás tilos."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "589ae058b5bf"
+    },
+    {
+      "question": "Miben különbözik a megállapodás az egyoldalú jognyilatkozattól a munkaviszonyban?",
+      "options": [
+        {
+          "text": "A megállapodás a felek kölcsönös és egybehangzó jognyilatkozatával jön létre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a konszenzus-elv a munkajogi megállapodás fogalmi magja, ideértve a munkaszerződést és annak módosítását is. Az Mt. 14. § kimondja: „Az e törvényben szabályozott megállapodás a felek kölcsönös és egybehangzó jognyilatkozatával jön létre.” Az egybehangzásnak a lényeges tartalomra kell kiterjednie; a konszenzus hiánya nem értelmezési vita, hanem a megállapodás létre nem jötte. A Ptk. 6:63. § (1) bekezdése ugyanezt a létrejött-képletet adja a szerződésre, amelyet az Mt. 31. § a megállapodásra szűkítve hív."
+        },
+        {
+          "text": "Az egyoldalú jognyilatkozat a munkáltató bármely utasításából jogot és kötelezettséget keletkeztethet, ha a munkavállaló hallgatólagosan tudomásul veszi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hallgatólagos tudomásulvétel nem pótolja a 15. § (1) bekezdésének felhatalmazási követelményét. Az Mt. 15. § (1) bekezdése szerint egyoldalú jognyilatkozatból csak munkaviszonyra vonatkozó szabályban meghatározott esetben származhatnak jogok vagy kötelezettségek. A tévedés a munka irányításával összefüggő, jognyilatkozatnak nem minősülő aktusoknak a 15. § (5) bekezdése szerinti, csupán a 20–26. §-ra kiterjedő megfelelő alkalmazásából ered. A Ptk. 6:4. § (4) bekezdése szerint a hallgatás is csak kifejezett rendelkezés alapján minősül jognyilatkozatnak."
+        },
+        {
+          "text": "Egyoldalú jognyilatkozatból csak munkaviszonyra vonatkozó szabályban meghatározott esetben származhatnak jogok vagy kötelezettségek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az egyoldalú aktus nem a másik fél elfogadására, hanem törvényi vagy kollektív felhatalmazásra támaszkodik. Az Mt. 15. § (1) bekezdése szerint: „Egyoldalú jognyilatkozatból csak munkaviszonyra vonatkozó szabályban meghatározott esetben származhatnak jogok vagy kötelezettségek.” A hatályosságot a címzettel való közlés hozza létre a 15. § (4) bekezdése szerint, és visszavonás vagy módosítás — eltérő rendelkezés hiányában — csak a címzett hozzájárulásával lehetséges. A munkáltató tehát nem „tekintélyel”, hanem felhatalmazással nyilatkozik."
+        },
+        {
+          "text": "A megállapodás létrejöttéhez elegendő az egyik fél lényeges tartalomra kiterjedő nyilatkozata, ha a másik fél utóbb nem tiltakozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megállapodás fogalma kölcsönös és egybehangzó akaratot kíván, nem egyoldalú ajánlatot utólagos hallgatással. Az Mt. 14. § a felek kölcsönös és egybehangzó jognyilatkozatát teszi a létrejött feltételévé. A tévedés a Ptk. 6:67. § nem lényeges eltérésű elfogadási szabályának vagy a hallgatólagos szerződési tartalomnak a munkajogi megállapodásra való ráírásából fakad. A konszenzus hiányában nincs megállapodás, hanem legfeljebb egyoldalú aktus — az is csak a 15. § keretei között."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "c59907693507"
+    },
+    {
+      "question": "Mit jelent az elállás a munkaviszonyra vonatkozó szabályban vagy a felek megállapodásában biztosított jogként?",
+      "options": [
+        {
+          "text": "Az elállás a megállapodást a közlés napjától kezdődően, a jövőre nézve szünteti meg, elszámolási kötelezettség nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a felmondás ex nunc jellegét írja rá az elállásra, és elhagyja az elszámolást. Az Mt. 15. § (2) bekezdése szerint az elállás a megállapodást a megkötés időpontjára visszamenőleges hatállyal szünteti meg, és a felek egymással elszámolnak. A tévedés a Ptk. elállási terminológiájának és a munkajogi felmondás hatályának összecsúszásából ered. A visszamenőleges hatály és az elszámolás együtt a fogalom kötelező eleme."
+        },
+        {
+          "text": "Az elállás nem azonos a felmondással és nem azonos az azonnali hatályú megszüntetéssel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a három intézmény hatálya és jogkövetkezménye elválik: az elállás a megkötés időpontjára visszanyúl, a felmondás a jövőre nézve szüntet meg, az azonnali hatályú megszüntetés pedig a közléshez kötött azonnali jogvesztést hoz. Az Mt. 15. § (2) bekezdése az elálláshoz kifejezetten a visszamenőleges megszüntetést és az elszámolást fűzi. A téves azonosítás tipikusan a próbaidő alatti azonnali hatályú megszüntetés vagy a közös megegyezés felcseréléséből ered. A dogmatikai elhatárolás a kódex saját szókincsében dől el, nem a felek utólagos elnevezése szerint."
+        },
+        {
+          "text": "Elállási jog a munkáltatót a munkaviszonyra vonatkozó szabály nélkül, pusztán a munkáltatói jogkör alapján is megilleti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az elállás nem általános munkáltatói hatalmasság, hanem a 15. § (2) bekezdése szerinti, szabályban vagy megállapodásban biztosított jog. Az Mt. 15. § (1) bekezdése szerint egyoldalú jognyilatkozatból csak munkaviszonyra vonatkozó szabályban meghatározott esetben származhatnak jogok vagy kötelezettségek; az elállás e körbe tartozó, külön nevesített hatalmasság. A tévedés a munkáltatói utasítási jognak az elállásra való kiterjesztéséből fakad. Elállás hiányában a megszüntetés a kódex felmondási vagy azonnali hatályú rendje szerint dől el."
+        },
+        {
+          "text": "Az elállási jog gyakorlása a megállapodást a megkötésének időpontjára visszamenőleges hatállyal megszünteti, és a felek elszámolnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az elállás ex tunc hatályú megszüntetés, nem a jövőre néző felmondás. Az Mt. 15. § (2) bekezdése szerint: „A munkaviszonyra vonatkozó szabályban vagy a felek megállapodásában biztosított elállási jog gyakorlása a megállapodást a megkötésének időpontjára visszamenőleges hatállyal megszünteti. Elállás esetén a felek egymással elszámolnak.” A visszamenőleges hatály és az elszámolási kötelezettség együtt határolja el az intézményt az azonnali hatályú megszüntetéstől. Az elállás egyoldalú jognyilatkozat, ezért a 15. § (4) bekezdése szerinti közléssel válik hatályossá."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "50b94909bb7b"
+    },
+    {
+      "question": "Mely megállapítások állják meg a helyüket a kötelezettségvállalás fogalmáról?",
+      "options": [
+        {
+          "text": "A kötelezett a jogosult terhére módosíthat vagy azonnali hatállyal felmondhat, ha körülményeiben a közlést követően olyan lényeges változás állt be, amely a teljesítést lehetetlenné tenné vagy aránytalan sérelemmel járna.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kódex a kötelezettségvállaló számára szűk, körülményváltozáshoz kötött kilépési lehetőséget ad. Az Mt. 16. § (2) bekezdése a módosítást vagy az azonnali hatályú felmondást ahhoz köti, hogy a változás a közlést követően következett be, és a teljesítést lehetetlenné tenné vagy aránytalan sérelemmel járna. A jogosult terhére történő változtatás tehát nem szabad belátás, hanem konjunktív feltételekhez kötött. A 16. § (3) bekezdése szerint a kötelezett nem hivatkozhat hatálytalanságként arra, hogy a jogosulttal való közlés nem vagy nem szabályszerűen történt."
+        },
+        {
+          "text": "A kötelezett a közlés szabálytalanságára hivatkozva a kötelezettségvállalás hatálytalanságát is érvényesítheti a jogosulttal szemben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közlés szabálytalanságára alapított hatálytalansági hivatkozás éppen a kötelezettől van elzárva. Az Mt. 16. § (3) bekezdése szerint a kötelezettségvállalásra az egyoldalú jognyilatkozat szabályai irányadók azzal az eltéréssel, hogy a kötelezett nem hivatkozhat jognyilatkozata hatálytalanságára amiatt, hogy a jogosulttal való közlés nem vagy nem szabályszerűen történt. A védelem a jogosultat illeti, nem a nyilatkozattevőt. A tévedés a 15. § (4) bekezdésének általános közlési hatályosulási szabályának a 16. § eltérése nélküli alkalmazásából fakad."
+        },
+        {
+          "text": "A munkavállaló bármely ígéretét kötelezettségvállalásként érvényesen megteheti, ha a jogosult azt utóbb elfogadja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkavállalói kötelezettségvállalás érvényességéhez kifejezett szabályi felhatalmazás kell, és az intézmény éppen az elfogadástól független. Az Mt. 16. § (1) bekezdése szerint a munkavállaló érvényesen csak munkaviszonyra vonatkozó szabály kifejezett rendelkezése alapján tehet kötelezettségvállalást tartalmazó jognyilatkozatot, és a teljesítés a jogosult elfogadása nélkül is követelhető. A tévedés a „jóindulatú ígéret” és a polgári jogi ajándékozási vagy elfogadási logika munkajogi átültetéséből ered. Felhatalmazás nélkül a nyilatkozat nem kötelezettségvállalás."
+        },
+        {
+          "text": "Kötelezettségvállalás alapján a jogosult elfogadása nélkül is követelhető a vállalt kötelezettség teljesítése.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötelezettségvállalás egyoldalú aktus: a teljesítés követelhetősége nem függ a jogosult elfogadó nyilatkozatától. Az Mt. 16. § (1) bekezdése szerint: „Egyoldalú kötelezettségvállalás (a továbbiakban: kötelezettségvállalás) alapján a jogosult elfogadására tekintet nélkül követelhető a vállalt kötelezettség teljesítése.” A munkavállaló ilyen nyilatkozatot csak munkaviszonyra vonatkozó szabály kifejezett rendelkezése alapján tehet érvényesen. Egyebekben a 16. § (3) bekezdése az egyoldalú jognyilatkozat szabályait rendeli alkalmazni, a közlés szabálytalanságára vonatkozó eltéréssel."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "f10f6c6fd7e0"
+    },
+    {
+      "question": "Miként hatályosul a munkáltatói szabályzat, és mi a közlés mércéje?",
+      "options": [
+        {
+          "text": "A munkáltató szabadon választhat bármely belső közzétételi módot, mert a helyben szokásos jelleg a munkáltató belátásától függ.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a helyben szokásos és általában ismert mód objektív megismerhetőségi mérce, nem a munkáltató szubjektív kényelme. Az Mt. 17. § (2) bekezdése a közzétételt e kettős ismérvhez köti. A tévedés a munkáltatói szervezeti autonómiának a közlési fikcióra való kiterjesztéséből ered. Ha a közzététel a munkavállalói kör számára nem általában ismert, a fikció nem áll be, és a 15. § (4) bekezdése szerinti hatályosság is hiányzik."
+        },
+        {
+          "text": "A munkáltatói szabályzat a 13. § szerint munkaviszonyra vonatkozó szabály, ezért a kollektív szerződéssel azonos eltérési rend vonatkozik rá.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szabályzat egyoldalú forma, nem a 13. § taxációjának eleme. Az Mt. 13. § a jogszabályt, a kollektív szerződést, az üzemi megállapodást és az egyeztető bizottság kötelező határozatát sorolja fel; a 17. § a szabályzatot a 15–16. § megtételi módjaként nevezi meg. A tévedés a közlési fikció és a forrásjelleg összecsúszásából fakad. A kedvezőbb eltérés és a kógencia ezért másként esik rá, mint a kollektív szerződésre."
+        },
+        {
+          "text": "A munkáltatói szabályzat közzététele a címzettel való közléssel esik egy tekintet alá; közlés hiányában a szabályzatban foglalt egyoldalú aktus nem hatályosul.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hatályosulás a közléshez kötött, a közzététel pedig közlési fikció. Az Mt. 17. § (2) bekezdése szerint a munkáltatói szabályzatot közöltnek kell tekinteni, ha azt a helyben szokásos és általában ismert módon közzéteszik; e közzététel a címzettel való közléssel esik egy tekintet alá. Az Mt. 15. § (4) bekezdése az egyoldalú jognyilatkozat hatályosságát a címzettel való közléshez köti. Közlés — vagy az Mt. 17. § (2) bekezdése szerinti fikció — hiányában tehát a szabályzatban foglalt egyoldalú aktus nem hatályosul."
+        },
+        {
+          "text": "A munkáltatói szabályzatot közöltnek kell tekinteni, ha azt a helyben szokásos és általában ismert módon közzéteszik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közlés fikciója a tényleges egyéni átadás helyett a megismerhetőség objektív mércéjét állítja. Az Mt. 17. § (2) bekezdése szerint: „A munkáltatói szabályzatot közöltnek kell tekinteni, ha azt a helyben szokásos és általában ismert módon közzé teszik.” A „helyben szokásos” nem a munkáltató kényelmi választása, hanem a munkavállalói kör tényleges megismerhetőségének mércéje. Vita esetén a közlés bizonyítása a 24. § (4) bekezdése szerint a nyilatkozattevőt terheli."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "29eba28cd7c8"
+    },
+    {
+      "question": "Milyen időben és módon kell teljesíteni a munkaviszonyra vonatkozó szabályban előírt tájékoztatási kötelezettséget?",
+      "options": [
+        {
+          "text": "A tájékoztatás bármikor megtehető a jogviszony fennállása alatt, mert a kódex nem köt időzítési mércéhez.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az időzítés nem szabad, hanem a joggyakorlás és a kötelezettségteljesítés tényleges lehetősége a mérce. Az Mt. 18. § (1) bekezdése eltérő szabály hiányában éppen e lehetőséget kívánja meg. A tévedés a tájékoztatás „kommunikációs” jellegének a jognyilatkozati rend alóli kivételként való kezeléséből ered. A késedelmes tájékoztatás a kötelezettség megszegése akkor is, ha a tartalom utóbb eljut a címzetthez."
+        },
+        {
+          "text": "A tájékoztatást — eltérő szabály hiányában — olyan időben és módon kell megtenni, hogy a jog gyakorlása és a kötelezettség teljesítése ténylegesen lehetséges legyen.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kódex a tájékoztatás időzítését és módját a joggyakorlás tényleges lehetőségéhez méri. Az Mt. 18. § (1) bekezdése szerint a tájékoztatást – munkaviszonyra vonatkozó szabály eltérő rendelkezése hiányában – olyan időben és módon kell megtenni, hogy az lehetővé tegye a jog gyakorlását és a kötelezettség teljesítését. A késedelmes vagy rejtett közlés ezért a tájékoztatási kötelezettség megszegése. A 18. § (2) bekezdése a helyben szokásos közzétételt közlésnek tekinti."
+        },
+        {
+          "text": "A tájékoztatásra a jognyilatkozat szabályait kell megfelelően alkalmazni, ha munkaviszonyra vonatkozó szabály tájékoztatási kötelezettséget ír elő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tájékoztatás nem udvariasság, hanem joghatású magatartás, amelyre a nyilatkozati rend megfelelően irányadó. Az Mt. 18. § (1) bekezdése szerint: „A jognyilatkozatra vonatkozó szabályokat kell megfelelően alkalmazni, ha munkaviszonyra vonatkozó szabály valamely fél számára tájékoztatási kötelezettséget ír elő.” A közlés fikciója a 18. § (2) bekezdése szerint a helyben szokásos és általában ismert közzétételhez is kötődhet. A Ptk. 6:62. § együttműködési és tájékoztatási kötelezettsége a szerződéskötési szakasz polgári jogi párhuzama, amelyet az Mt. 31. § hív."
+        },
+        {
+          "text": "A tájékoztatásra a jognyilatkozat szabályai nem alkalmazhatók, mert a tájékoztatás soha nem keletkeztet joghatást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kódex kifejezetten a jognyilatkozat szabályainak megfelelő alkalmazását rendeli, ha munkaviszonyra vonatkozó szabály tájékoztatási kötelezettséget ír elő. Az Mt. 18. § (1) bekezdése ezt a megfelelő alkalmazást kimondja, a (2) bekezdés pedig a közzétételi fikciót is kiterjeszti. A tévedés a tájékoztatás és a kötelezettségvállalás fogalmi összekeveréséből fakad. A tájékoztatás joghatása a kötelezettség teljesítésének előfeltétele, nem a teljesítés követelhetősége."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "c22cd3e7cd80"
+    },
+    {
+      "question": "Mely esetben nem köthető ki feltétel a megállapodás létrejöttéhez, módosításához vagy megszűnéséhez?",
+      "options": [
+        {
+          "text": "Nem köthető ki olyan feltétel, amelynek alapján a munkaviszony a munkavállaló hátrányára módosulna, vagy a munkaviszony megszűnését eredményezné.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a feltétel nem fordítható a gyengébb fél ellen, és nem lehet a jogviszony automatikus megszüntetésének eszköze. Az Mt. 19. § (1) bekezdése lehetővé teszi, hogy a felek a megállapodás létrejöttét, módosítását vagy megszűnését jövőbeli, bizonytalan eseménytől függővé tegyék, de kizárja a munkavállaló hátrányára módosító vagy a munkaviszony megszűnését eredményező feltételt. A Ptk. 6:116. § a polgári jog általános feltételi rendje; a munkajogi tilalom az Mt. 19. § saját korlátja. A tilalom a hatalmasság egyoldalú átfordítását zárja ki."
+        },
+        {
+          "text": "A felek kiköthetnek olyan feltételt, amely a munkaviszony automatikus megszűnését eredményezi, ha a feltétel a munkáltató szervezeti érdekeit szolgálja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkaviszony megszűnését eredményező feltétel kifejezetten tilos, a munkáltató szervezeti érdeke e tilalmat nem oldja fel. Az Mt. 19. § (1) bekezdése szerint nem köthető ki olyan feltétel, amely a munkaviszony megszűnését eredményezné, vagy a munkavállaló hátrányára módosítaná. A tévedés a Ptk. 6:116. § (2) bekezdésének felbontó feltételi szabadságának munkajogi átültetéséből ered. A megszüntetés a kódex saját rendje — felmondás, azonnali hatályú megszüntetés, közös megegyezés — szerint dől el."
+        },
+        {
+          "text": "A feltétel bekövetkezésére az is hivatkozhat, aki a feltétel beálltát vétkesen maga okozta, ha a másik fél ezt előre láthatta.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a saját vétkes okozás kizárja a hivatkozást, és a másik fél előreláthatósága e tilalmat nem oldja fel. Az Mt. 19. § (3) bekezdése szerint a feltétel bekövetkezésére vagy meghiúsulására nem hivatkozhat a fél, ha azt vétkesen maga okozta. A Ptk. 6:117. § (2) bekezdése ugyanezt a saját okozás tilalmát a felróhatóság nyelvére fordítja. A tévedés a jóhiszemű harmadik személy védelmének a saját magatartásra való ráírásából fakad."
+        },
+        {
+          "text": "Az ellentmondó, lehetetlen vagy értelmezhetetlen feltétel érvénytelen, és a megállapodást úgy kell elbírálni, mintha a feltételt ki sem kötötték volna.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hibás feltétel nem rántja magával a teljes megállapodást, hanem kiesik. Az Mt. 19. § (2) bekezdése szerint az ellentmondó, lehetetlen vagy értelmezhetetlen feltétel érvénytelen, és a megállapodást úgy kell elbírálni, mintha a felek az adott feltételt nem kötötték volna ki. A 19. § (3) bekezdése emellett tartózkodási kötelezettséget ír elő a függés idejére. Ugyanezen bekezdés megtiltja, hogy a feltétel bekövetkezésére vagy meghiúsulására az hivatkozzon, aki azt vétkesen maga okozta."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "fb9c3abc2f43"
+    },
+    {
+      "question": "Ki tehet jognyilatkozatot a munkáltató képviseletében, és mikor marad érvényes a nem jogosított személy eljárása?",
+      "options": [
+        {
+          "text": "A munkáltató mindig hivatkozhat képviselője jogkörének túllépésére, mert a belső joggyakorlási rend a munkavállalóval szemben is abszolút hatályú.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a túllépésre való hivatkozás feltételes: csak akkor él, ha a munkavállaló nem következtethetett alappal az eljáró jogosultságára. Az Mt. 20. § (4) bekezdése ezt a korlátot expressis verbis rögzíti. A tévedés a belső szervezeti rend külső, abszolút hatályának feltételezéséből ered. A látszatvédelem (20. § (3) bekezdés) és a túllépési hivatkozás korlátja együtt a munkavállaló forgalmi biztonságát védi."
+        },
+        {
+          "text": "Jóváhagyás hiányában is érvényes a jognyilatkozat, ha a munkavállaló a körülményekből alappal következtethetett az eljáró jogosultságára.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a látszatvédelem a munkavállalót illeti, ha a körülmények alapján alapos a jogosultságra vonatkozó következtetés. Az Mt. 20. § (3) bekezdése szerint, ha nem az arra jogosított személy, szerv vagy testület járt el, az eljárás érvénytelen, kivéve a jogkör gyakorlójának jóváhagyását; jóváhagyás hiányában is érvényes a nyilatkozat, ha a munkavállaló a körülményekből alappal következtethetett az eljáró jogosultságára. A 20. § (4) bekezdése szerint a munkáltató a túllépésre csak akkor hivatkozhat, ha a munkavállaló nem következtethetett alappal a jogosultságra."
+        },
+        {
+          "text": "A munkáltató képviseletében jognyilatkozat tételére a munkáltatói jogkör gyakorlója jogosult.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a képviseleti hatalmasság a munkáltatói jogkörhöz kötött, nem bármely vezető tisztségviselőhöz. Az Mt. 20. § (1) bekezdése szerint: „A munkáltató képviseletében jognyilatkozat tételére a munkáltatói jogkör gyakorlója jogosult.” A joggyakorlás rendjét — jogszabályi keretek között — a 20. § (2) bekezdése szerint a munkáltató határozza meg. A Ptk. 6:11. § általános képviseleti szabálya e speciális munkajogi mércéhez képest mögöttes, az Mt. 31. § behívása szerint."
+        },
+        {
+          "text": "Ha nem az arra jogosított személy járt el, a jognyilatkozat minden esetben érvénytelen, a munkavállaló alapos következtetésétől függetlenül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az érvénytelenség főszabálya alól a kódex két kivételt ad: a jogkör gyakorlójának jóváhagyását és a munkavállaló alapos látszatkövetkeztetését. Az Mt. 20. § (3) bekezdése szerint a nem jogosított eljárás érvénytelen, kivéve a jóváhagyást, és jóváhagyás hiányában is érvényes a nyilatkozat, ha a munkavállaló a körülményekből alappal következtethetett az eljáró jogosultságára. A tévedés a jogosulatlan eljárást abszolút semmisségként kezeli, holott a látszatvédelem a munkavállaló védelmét szolgálja. A 20. § (4) bekezdése a munkáltató túllépési hivatkozását is ehhez a látszathoz köti."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "13c5d5462719"
+    },
+    {
+      "question": "Hogyan nyilatkozhat a munkavállaló, és mikor járhat el képviselő útján?",
+      "options": [
+        {
+          "text": "A munkavállaló a jognyilatkozatát főszabály szerint személyesen teheti meg; meghatalmazott útján csak írásba foglalt meghatalmazással járhat el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a személyes nyilatkozat a főszabály, a képviselet alakszerű meghatalmazáshoz kötött. Az Mt. 21. § (1) bekezdése szerint a munkavállaló a jognyilatkozatát személyesen teheti meg, meghatalmazott képviselője útján is eljárhat, de az erre irányuló meghatalmazást írásba kell foglalni. Írásbeli meghatalmazás nélkül is eljárhat a hozzátartozó, ha a munkavállaló a nyilatkozat megtételében akadályozva van; az akadályoztatást vita esetén neki kell igazolnia. A Ptk. 6:15. § általános meghatalmazási alakmentessége itt nem érvényesül."
+        },
+        {
+          "text": "A munkavállaló szóban is érvényesen meghatalmazhat bárkit, mert a Ptk. szerint a meghatalmazás alakmentes.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkavállalói meghatalmazás az Mt. szerint írásba foglalandó, a polgári jogi alakmentesség itt nem érvényesül. Az Mt. 21. § (1) bekezdése expressis verbis az írásba foglalást kívánja meg. A tévedés a Ptk. 6:15. § általános szabályának közvetlen alkalmazásából ered, holott az Mt. 31. § csak akkor engedi a Ptk.-t, ha a kódex eltérően nem rendelkezik. Kivételként a hozzátartozó járhat el írásbeli meghatalmazás nélkül, de csak a munkavállaló akadályoztatása esetén."
+        },
+        {
+          "text": "Eltérő személyes és képviselői nyilatkozat esetén a munkáltató szabadon választhatja a számára kedvezőbb szöveget.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a választás nem a munkáltató érdeke szerint dől el: a személyesen tett nyilatkozat a mérvadó. Az Mt. 21. § (2) bekezdése kötelezően a személyes jognyilatkozat figyelembevételét írja elő. A tévedés a munkáltatói mérlegelési szabadság ráírásából fakad a nyilatkozati kollízióra. A képviselői nyilatkozat csak akkor érvényesül, ha nincs eltérő személyes aktus, vagy a képviselet tartalma egyértelműen korlátozott a 21. § (3) bekezdése szerint."
+        },
+        {
+          "text": "Ha a személyesen tett és a képviselői jognyilatkozat eltér, a munkáltatónak a személyesen tett nyilatkozatot kell figyelembe vennie.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a személyes akarat a képviselői nyilatkozattal szemben elsőbbséget élvez. Az Mt. 21. § (2) bekezdése szerint a munkáltatónak a munkavállaló személyesen tett jognyilatkozatát kell figyelembe vennie, ha a munkavállaló és az (1) bekezdésben említett képviselő jognyilatkozata eltérnek. A 21. § (3) bekezdése szerint a munkavállaló — a tartalmában egyértelműen korlátozott képviselet kivételével — nem hivatkozhat arra, hogy képviselője a jogkörét túllépte. A két szabály együtt a személyes nyilatkozat prioritását és a megbízhatósági terhet rendezi."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "78be1da92b20"
+    },
+    {
+      "question": "Milyen alaki kötöttség vonatkozik a munkaviszonybeli jognyilatkozatra főszabályként, és mikor minősül írásbelinek az elektronikus dokumentum?",
+      "options": [
+        {
+          "text": "A jognyilatkozat — munkaviszonyra vonatkozó szabály vagy a felek eltérő megállapodása hiányában — alaki kötöttség nélkül tehető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az alakmentesség a főszabály, az írásbeliség kivételként vagy a munkavállaló kérésére áll be. Az Mt. 22. § (1) bekezdése szerint a jognyilatkozatot – ha munkaviszonyra vonatkozó szabály vagy a felek megállapodása eltérően nem rendelkezik – alaki kötöttség nélkül lehet megtenni; a munkavállaló kérésére a munkáltatónak akkor is írásba kell foglalnia, ha az egyébként nem kötelező. A 22. § (3) bekezdése szerint az írásba foglalandó megállapodást módosítani vagy megszüntetni csak írásban lehet. A Ptk. 6:70. § a mögöttes írásbeli szerződési vázat adja."
+        },
+        {
+          "text": "Minden munkaviszonybeli jognyilatkozat csak írásban tehető meg, az alakmentesség kizárt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a főszabály az alakmentesség; az írásbeliség szabályi vagy megállapodásbeli kivétel, illetve a munkavállaló kérésének következménye. Az Mt. 22. § (1) bekezdése az alaki kötöttség nélküli megtételt emeli főszabállyá. A tévedés a munkaszerződés írásba foglalásának kógens terhét általánosítja minden jognyilatkozatra. A 23. § a megállapodás írásba foglalását a munkáltató kötelezettségévé teszi, de ez nem írja felül a 22. § (1) bekezdésének általános alakmentességét."
+        },
+        {
+          "text": "Elektronikus dokumentum akkor is írásbelinek minősül, ha a nyilatkozattevő személye nem azonosítható, feltéve hogy a tartalom visszaidézhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a változatlan visszaidézhetőség önmagában nem elég: a nyilatkozattevő és az időpont azonosíthatósága is konjunktív feltétel. Az Mt. 22. § (2) bekezdés a) pontja mindhárom ismérvet megkívánja. A tévedés a Ptk. 6:4. § ráutaló magatartásának vagy a szabadon mérlegelt egyszerű magánokiratnak a kódex elektronikus dokumentum-fogalmára való ráírásából ered. Azonosíthatatlan feladó mellett a 22. § (2) bekezdés a) pontja szerinti írásbeliség nem áll be."
+        },
+        {
+          "text": "Írásbelinek kell tekinteni a jognyilatkozatot, ha közlése olyan elektronikus dokumentumban történik, amely a tartalom változatlan visszaidézésére, valamint a nyilatkozattevő és az időpont azonosítására alkalmas.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az elektronikus dokumentum fogalma tartalmi és azonosítási feltételekhez kötött, nem puszta e-mail-küldéshez. Az Mt. 22. § (2) bekezdés a) pontja szerint írásbelinek kell tekinteni a jognyilatkozatot, ha közlése a jognyilatkozatban foglalt információ változatlan visszaidézésére, a nyilatkozattevő személyének és a jognyilatkozat megtétele időpontjának azonosítására alkalmas elektronikus dokumentumban kerül sor. A 22. § (2) bekezdés b) pontja meghatározott esetekben a helyben szokásos közzétételt is írásbeliségnek tekinti. A Pp. 325. § teljes bizonyító erejű magánokirati alakjai e fogalommal párhuzamosan olvashatók."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "ae4b06c54c15"
+    },
+    {
+      "question": "Mi a jogkövetkezménye az alaki kötöttség megsértésének, és mikor nem alkalmazható az érvénytelenség?",
+      "options": [
+        {
+          "text": "Az érvénytelenség jogkövetkezménye nem alkalmazható, ha a jognyilatkozat a felek egyező akaratából teljesedésbe ment.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a teljesedésbe-menetel korrekciója a felek egyező akarata mellett orvosolja az alakhibát. Az Mt. 22. § (4) bekezdése második mondata szerint az érvénytelenség jogkövetkezménye nem alkalmazható, ha a jognyilatkozat a felek egyező akaratából teljesedésbe ment. Ez nem mentesít a 23. § szerinti példányátadási kötelezettség alól. A korrekció a tényleges teljesítést és az egyező akaratot kívánja, nem a munkáltató utólagos egyoldalú „jóváhagyását”."
+        },
+        {
+          "text": "Az alaki kötöttség megsértésével tett jognyilatkozat — eltérő rendelkezés hiányában — érvénytelen.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az alakhiba főszabályként érvénytelenséget eredményez, nem csupán bizonyítási hátrányt. Az Mt. 22. § (4) bekezdése szerint: „Az alaki kötöttség megsértésével tett jognyilatkozat – ha e törvény eltérően nem rendelkezik – érvénytelen.” A 22. § (3) bekezdése az írásba foglalandó megállapodás módosítását és megszüntetését is íráshoz köti. A Ptk. 6:70. § a mögöttes írásbeli szerződési alakot adja, a munkajogi jogkövetkezmény azonban a kódex 22. § (4) bekezdésén dől el."
+        },
+        {
+          "text": "Az alakhiba csak akkor érvénytelenít, ha a munkavállaló az érvénytelenségre a közléstől számított tizenöt napon belül hivatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 22. § (4) bekezdése nem köt tizenöt napos hivatkozási határidőhöz; az érvénytelenség — eltérő rendelkezés hiányában — az alakhiba jogkövetkezménye. Az Mt. 22. § (4) bekezdése az érvénytelenséget és a teljesedésbe-meneteli korrekciót rendezi. A tévedés a 24. § (3) bekezdésének kézbesítési kifogási határidejét vagy a keresetindítási határidőket írja rá az alaki érvénytelenségre. A tizenöt nap a kézbesítési fikcióval szembeni kifogásra vonatkozik, nem az alakhibára."
+        },
+        {
+          "text": "Az alaki kötöttség megsértése mindig semmisséget eredményez, a teljesedésbe-menetel sem orvosolhatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kódex kifejezetten kizárja az érvénytelenség alkalmazását, ha a jognyilatkozat a felek egyező akaratából teljesedésbe ment. Az Mt. 22. § (4) bekezdése e korrekciót a főszabály mellett rögzíti. A tévedés a polgári jogi alakhibás semmisség abszolút olvasatából ered. A teljesedésbe-menetel hiányában viszont az érvénytelenség — eltérő törvényi rendelkezés hiányában — beáll."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "d3085960069f"
+    },
+    {
+      "question": "Mi következik abból, ha a munkáltató elmulasztja a határidőről való kioktatást az indokolandó egyoldalú jognyilatkozatnál?",
+      "options": [
+        {
+          "text": "A munkáltató az egyoldalú jognyilatkozatát a törvényben meghatározott esetben köteles írásban indokolni, és az igényérvényesítés módjáról, valamint — ha az elévülésnél rövidebb — a határidőről a munkavállalót ki kell oktatnia.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az indokolás és a kioktatás együtt a felismerhető igényérvényesítést szolgálja. Az Mt. 22. § (5) bekezdése szerint a munkáltató az egyoldalú jognyilatkozatát az e törvényben meghatározott esetben köteles írásban indokolni, és az igény érvényesítésének módjáról, valamint ha az elévülési időnél rövidebb, annak határidejéről a munkavállalót ki kell oktatni. A kioktatás tehát csak a rövidebb igényérvényesítési határidőről kötelező e fordulat szerint. A Ptk. 6:8. § értelmezési szabálya a homály kockázatát a nyilatkozóra telepíti."
+        },
+        {
+          "text": "A határidőről való kioktatás elmulasztása esetén hat hónap elteltével az igény nem érvényesíthető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a mulasztáshoz objektív, hat hónapos igényérvényesítési korlát fűződik, amely nem azonos az elévüléssel. Az Mt. 22. § (5) bekezdése szerint: „A határidőről való kioktatás elmulasztása esetén hat hónap elteltével az igény nem érvényesíthető.” A hat hónap jogvesztő jellegű korlát a kioktatás elmaradásához, nem az elévülés általános rendjéhez igazodik. A kioktatás megtörténte esetén a rövidebb, törvényi igényérvényesítési határidő marad a mérce."
+        },
+        {
+          "text": "A kioktatás elmulasztása esetén az igény az általános elévülési idő végéig korlátlanul érvényesíthető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mulasztás nem nyitja meg az elévülés teljes tartamát, hanem hat hónapos objektív korlátot állít. Az Mt. 22. § (5) bekezdése szerint hat hónap elteltével az igény nem érvényesíthető. A tévedés az elévülés és a kioktatási jogvesztés összecsúszásából ered. A hat hónap a kioktatás elmaradásához fűzött külön jogkövetkezmény, nem az elévülés „helyettesítője” hosszabb irányban."
+        },
+        {
+          "text": "A hat hónapos korlát csak akkor érvényesül, ha a munkavállaló a kioktatás elmaradását a közléstől számított tizenöt napon belül kifogásolja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 22. § (5) bekezdése nem köt tizenöt napos kifogási előfeltételhez; a hat hónap elteltével az igény nem érvényesíthető. Az Mt. 22. § (5) bekezdése a kioktatás elmulasztásának jogkövetkezményét objektív igényérvényesítési korlátként fogalmazza meg. A tévedés a 24. § (3) bekezdésének kézbesítési kifogási határidejét keveri a kioktatási sankcióval. A tizenöt nap a kézbesítési fikció megtámadására szolgál, nem a kioktatás pótlására."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "881744328711"
+    },
+    {
+      "question": "Kire telepíti az Mt. a megállapodás írásba foglalásának és példányátadásának kötelezettségét?",
+      "options": [
+        {
+          "text": "A felek nevét elegendő szóban rögzíteni, ha a megállapodás egyébként írásba foglalt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felek nevének és a teljesítés szempontjából lényeges adatoknak a megállapodásban való megjelölése kötelező. Az Mt. 23. § (2) bekezdése e tartalmi elemeket expressis verbis megkívánja. A tévedés a 22. § (1) bekezdésének alakmentességét keveri a már írásba foglalt megállapodás tartalmi kellékeivel. Az írásba foglalt okirat hiányos azonosító adatai a 23. § (2) bekezdését sértik."
+        },
+        {
+          "text": "Az írásba foglalás és a példányátadás a munkavállaló kötelezettsége, ha ő kéri az írásbeli alakot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a gondoskodás és az átadás a munkáltatót terheli akkor is, ha a munkavállaló kéri az írásba foglalást. Az Mt. 23. § (1) bekezdése a munkáltatót nevezi meg kötelezettként; a 22. § (1) bekezdése szerinti munkavállalói kérés csak az írásba foglalás kötelezettségét váltja ki, a teher alanyát nem cseréli fel. A tévedés a kérelem és a gondoskodási kötelezettség alanyának összecsúszásából ered. A példányátadás elmaradása a munkáltató mulasztása."
+        },
+        {
+          "text": "A megállapodásban meg kell jelölni a felek nevét, továbbá a megállapodás teljesítése szempontjából lényeges adatait.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tartalmi azonosíthatóság az okirat kötelező eleme, nem esztétikai követelmény. Az Mt. 23. § (2) bekezdése szerint a megállapodásban meg kell jelölni a felek nevét, továbbá a megállapodás teljesítése szempontjából lényeges adatait. A hiányos okirat a tartalmi azonosíthatóságot sérti. A Ptk. 6:70. § a mögöttes írásbeli alakot adja, a gondoskodási terhet azonban a munkajog kifejezetten a munkáltatóra telepíti."
+        },
+        {
+          "text": "A munkáltató köteles a megállapodás írásba foglalásáról gondoskodni és ennek egy példányát a munkavállalónak átadni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a formai teher a szervezeti oldalon marad, nem a munkavállaló gondoskodási kötelezettsége. Az Mt. 23. § (1) bekezdése szerint: „A munkáltató köteles a megállapodás írásba foglalásáról gondoskodni és ennek egy példányát a munkavállalónak átadni.” Az átadás a későbbi közlési és bizonyítási viták előfeltétele. A 22. § (4) bekezdésének teljesedésbe-meneteli korrekciója nem mentesít e kötelezettség alól."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "7ed4c8bfebfc"
+    },
+    {
+      "question": "Mikor tekinthető közöltnek az írásbeli jognyilatkozat, és mikor válik hozzáférhetővé az elektronikus dokumentum?",
+      "options": [
+        {
+          "text": "Az átvétel megtagadása esetén a közlés hatálytalan marad, amíg a címzett utóbb át nem veszi a nyilatkozatot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megtagadás vagy szándékos megakadályozás mellett a közlés hatályos. Az Mt. 24. § (1) bekezdése expressis verbis kimondja, hogy a közlés akkor is hatályos, ha a címzett vagy az átvételre jogosult az átvételt megtagadja vagy szándékosan megakadályozza. A tévedés a polgári jogi átvételi elv abszolutizálásából ered. A postai tértivevényes fikció a 24. § (2) bekezdése szerint e főszabály mellett, külön tényállásokkal érvényesül."
+        },
+        {
+          "text": "Az elektronikus dokumentum csak akkor közölt, ha a címzett visszaigazolja, hogy elolvasta a tartalmat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közlés a hozzáférhetőség beálltához kötött, nem a tényleges elolvasás vagy visszaigazolás megtörténtéhez. Az Mt. 24. § (1) bekezdése a lehetőség megnyílását teszi a hozzáférhetőség mércéjévé. A tévedés a kézbesítési tértivevény vagy a Pp. kézbesítési fikciójának visszaigazolási logikáját írja rá az elektronikus közlésre. A szándékos megakadályozás esetén a közlés a 24. § (1) bekezdése szerint akkor is hatályos."
+        },
+        {
+          "text": "Az elektronikus dokumentum akkor válik hozzáférhetővé, amikor a címzettnek lehetősége nyílik a tartalom megismerésére, nem akkor, amikor ténylegesen elolvasta.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hozzáférhetőség objektív lehetőség, nem a tényleges elolvasás időpontja. Az Mt. 24. § (1) bekezdése szerint az elektronikus dokumentum akkor válik hozzáférhetővé, amikor a címzettnek vagy az átvételre jogosult más személynek lehetősége nyílik arra, hogy annak tartalmát megismerje. A Ptk. 6:5. § távollévők közötti megérkezési szabálya e saját munkajogi mércéhez igazodik. A tudomásszerzés szándékos elkerülése a közlés hatályát a 24. § (1) bekezdése szerint nem akadályozza."
+        },
+        {
+          "text": "Az írásbeli jognyilatkozat akkor közölt, ha a címzettnek vagy az átvételre jogosultnak átadják, az elektronikus dokumentum hozzáférhetővé válik, vagy — a 22. § (2) bekezdés b) pontja szerinti körben — a helyben szokásos módon közzéteszik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közlés három csatornája az átadás, az elektronikus hozzáférhetőség és a meghatározott körben a közzététel. Az Mt. 24. § (1) bekezdése e három esetet sorolja fel. A közlés akkor is hatályos, ha a címzett vagy az átvételre jogosult az átvételt megtagadja vagy szándékosan megakadályozza. Vita esetén a 24. § (4) bekezdése szerint a nyilatkozattevőt terheli a szabályszerű közlés bizonyítása."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "127a05290f2c"
+    },
+    {
+      "question": "Milyen kézbesítési fikciót rendel az Mt. a tértivevényes postai küldeményre?",
+      "options": [
+        {
+          "text": "Tértivevényes küldeménynél a fikció mindig a feladás napján áll be, a kézbesítési kísérlet eredményétől függetlenül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a fikció nem a feladáshoz, hanem a kísérlet meghiúsulásának típusához igazodik. Az Mt. 24. § (2) bekezdése a megtagadás, ismeretlenség és elköltözés esetén a megkísérlés napját, egyébként az értesítés elhelyezését követő ötödik munkanapot jelöli ki. A tévedés a postára adásnak a 25. § (6) bekezdés szerinti, meghatározott tizenöt napos határidőkre vonatkozó megtartási szabályát keveri a közlési fikcióval. A feladás önmagában nem közlés."
+        },
+        {
+          "text": "Az ötödik munkanapos fikció naptári napokban számítandó, a heti pihenőnapok figyelmen kívül hagyásával.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 24. § (2) bekezdés b) pontja munkanapot ír, nem naptári napot. Az Mt. 24. § (2) bekezdés b) pontja szerint az eredménytelen kísérlet és az értesítés elhelyezésének napját követő ötödik munkanapon áll be a fikció. A tévedés a 25. § (2) bekezdésének naptári nap fogalmát írja rá a kézbesítési fikcióra. A munkanap-számítás a postai ritmussal és a 335/2012. (XII. 4.) Korm. rendelet értesítési rendjével is összhangban áll."
+        },
+        {
+          "text": "Ha a címzett vagy az átvételre jogosult a küldemény átvételét megtagadta, vagy a kézbesítés a címzett ismeretlensége vagy elköltözése miatt meghiúsult, a jognyilatkozatot a kézbesítés megkísérlésének napján kézbesítettnek kell tekinteni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a megtagadás, ismeretlenség és elköltözés esetén a fikció a kísérlet napjához kötött. Az Mt. 24. § (2) bekezdés a) pontja e három tényállást a megkísérlés napjához kapcsolja. A fikció a postai szolgáltatásokról szóló jogszabály szerinti tértivevény különszolgáltatással feladott küldeményre vonatkozik. A 335/2012. (XII. 4.) Korm. rendelet a hivatalos irat kézbesítésének részletes rendjét adja e fikció ténybeli előfeltételeihez."
+        },
+        {
+          "text": "Egyéb esetekben a jognyilatkozatot az eredménytelen kézbesítési kísérlet, valamint az értesítés elhelyezésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a „nem kereste” típusú eredménytelenségnél az ötödik munkanapos fikció érvényesül. Az Mt. 24. § (2) bekezdés b) pontja szerint egyéb esetekben az eredménytelen kézbesítési kísérlet, valamint az értesítés elhelyezésének napját követő ötödik munkanapon kell kézbesítettnek tekinteni a nyilatkozatot. A 335/2012. (XII. 4.) Korm. rendelet 31. §-ának két kísérletes, ötödik munkanapos ritmusa e fikcióval olvasható együtt. A fikcióval szemben a 24. § (3) bekezdése szerinti kézbesítési kifogás terjeszthető elő."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "f187e8252021"
+    },
+    {
+      "question": "Milyen határidőn belül terjeszthető elő kézbesítési kifogás a kézbesítési fikcióval szemben?",
+      "options": [
+        {
+          "text": "A kézbesítési kifogás a fikció beálltáról való tudomásszerzéstől számított tizenöt napon, de legkésőbb a fikció beálltától számított három hónapon belül terjeszthető elő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szubjektív tizenöt napos és az objektív három hónapos határidő konjunktív korlát. Az Mt. 24. § (3) bekezdése szerint a (2) bekezdésben szabályozott kézbesítési fikcióval szemben az eljárás kezdeményezésével egyidejűleg, a kézbesítési fikció beálltáról való tudomásszerzéstől számított tizenöt napon, de legkésőbb a kézbesítési fikció beálltától számított három hónapon belül terjeszthető elő kézbesítési kifogás a bíróságnál. A kifogásra egyebekben a Pp. 139. § szabályait kell megfelelően alkalmazni."
+        },
+        {
+          "text": "A kézbesítési kifogásnak helyt adó döntés esetén a bírósági eljárás kezdeményezésére előírt határidőt megtartottnak kell tekinteni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fikció megdőlése orvosolja a keresetindítási jogvesztést. Az Mt. 24. § (3) bekezdése szerint a kézbesítési kifogásnak helyt adó döntés esetén a bírósági eljárás kezdeményezésére előírt határidőt megtartottnak kell tekinteni. A Pp. 139. § (6) bekezdése szerint a helyt adó döntés esetén a kézbesítéshez fűződő jogkövetkezmények hatálytalanok. A kifogás tehát a közlés szabályszerűségének előkérdése, nem a felmondás érdemi vitája."
+        },
+        {
+          "text": "Kézbesítési kifogás csak a munkáltatót illeti meg, a munkavállaló a fikcióval szemben nem élhet kifogással.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 24. § (3) bekezdése a fikcióval érintett jognyilatkozat címzettjének — jellemzően a munkavállalónak — biztosít kifogási lehetőséget a bírósági eljárás kezdeményezésével egyidejűleg. Az Mt. 24. § (3) bekezdése a kifogást azon jognyilatkozatokhoz köti, amelyek tekintetében a törvény alapján bírósági eljárásnak van helye. A tévedés a 24. § (4) bekezdésének bizonyítási terhét (nyilatkozattevő) keveri a kifogás jogosulti oldalával. A bizonyítás a közlés szabályszerűségére a nyilatkozattevőt terheli, a kifogás a címzett hatalmassága."
+        },
+        {
+          "text": "A kézbesítési kifogás az elévülési idő végéig bármikor előterjeszthető, ha a címzett önhibáján kívül nem vette át a küldeményt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kifogás nem az elévüléshez, hanem a tizenöt napos és három hónapos kettős határidőhöz kötött. Az Mt. 24. § (3) bekezdése a tudomásszerzéstől számított tizenöt napot és a fikció beálltától számított három hónapos végső korlátot szabja. A tévedés a Pp. 139. § méltányos elbírálását (önhiba nélküli átvétel-képtelenség) a határidő eltörléseként olvassa. A méltányosság a kifogás érdemi elbírálására vonatkozik, nem a határidő kiiktatására."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "27bd71b30f52"
+    },
+    {
+      "question": "Hogyan számítható a határidő, ha munkaviszonyra vonatkozó szabály vagy a felek megállapodása jognyilatkozatra határidőt ír elő?",
+      "options": [
+        {
+          "text": "Napon — eltérő rendelkezés hiányában — naptári napot kell érteni, és a határidő számítása a kezdő okot követő napon indul.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a naptári nap a főszabály, a számítás pedig a kezdő eseményt követő napon kezdődik. Az Mt. 25. § (2) bekezdése szerint napon, ha munkaviszonyra vonatkozó szabály eltérően nem rendelkezik, naptári napot kell érteni; a (3) bekezdés szerint a határidő számítása a határidő megkezdésére okot adó intézkedést vagy eseményt követő napon kezdődik. A 25. § (5) bekezdése szerint a határidő az utolsó nap végén jár le, heti pihenő- vagy munkaszüneti napon az általános munkarend szerinti következő munkanap végén. A 25. § (1) bekezdése e számítási rendet a jognyilatkozati és egyéb magatartási határidőkhöz köti."
+        },
+        {
+          "text": "A határidő mindig a kezdő ok napján indul, és munkanapokban számítandó, még ha a szabály naptári napot ír is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a számítás a kezdő okot követő napon indul, és főszabályként naptári napot kell érteni. Az Mt. 25. § (2)–(3) bekezdése e két szabályt rögzíti. A tévedés a 24. § (2) bekezdés b) pontjának ötödik munkanapos fikcióját vagy a 25. § (5) bekezdésének pihenőnapi tolódását általánosítja a kezdésre. A munkanapra tolódás csak az utolsó nap heti pihenő- vagy munkaszüneti nap jellege esetén érvényesül."
+        },
+        {
+          "text": "A hetekben, hónapokban vagy években megállapított határidő a kezdő napnak megfelelő napon jár le; ha e nap a lejárat hónapjában hiányzik, a hónap utolsó napja a mérvadó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a lejárat a kezdő nap elnevezéséhez vagy számához igazodik, hiányzó napnál a hónap utolsó napjához. Az Mt. 25. § (4) bekezdése szerint a hetekben megállapított határidő azon a napon jár le, amely elnevezésénél fogva a kezdő napnak megfelel; hónapokban vagy években a lejárat napja az a nap, amely számánál fogva a kezdő napnak megfelel, ha ez a nap hiányzik, a hónap utolsó napja. A 25. § (6) bekezdése szerint megtartott a határidő, ha a lejárat napjának végéig közlik a nyilatkozatot vagy tanúsítják a magatartást. Meghatározott tizenöt napos határidőknél a postára adás is elég."
+        },
+        {
+          "text": "A határidő elmulasztása mindig kimenthető, ha a fél igazolja, hogy önhibáján kívül késett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mulasztás csak akkor menthető ki, ha a határidőt megállapító munkaviszonyra vonatkozó szabály ezt kifejezetten megengedi. Az Mt. 25. § (7) bekezdése e feltételt expressis verbis kimondja. A tévedés a polgári perrendtartás igazolási kérelmének vagy a méltányossági kimentésnek a munkajogi határidőkre való ráírásából ered. A 25. § (8) bekezdése a haladéktalan teljesítést külön rendezi, de ez nem általános kimentési klauzula."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "b2ae0bbc143f"
+    },
+    {
+      "question": "Miben tér el a határidőnek nem minősülő időtartam számítása a határidő számításától?",
+      "options": [
+        {
+          "text": "Az időtartam alatt a jognyilatkozat érvényesen megtehető úgy is, ha legkésőbb az időtartam utolsó napján postára adják.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a postázás az időtartam naptári zárónapjához igazodik, nem a 25. § határidő-megtartási rendjéhez. Az Mt. 26. § (2) bekezdése szerint az (1) bekezdés szerinti időtartam alatt a jognyilatkozat érvényesen megtehető úgy is, ha legkésőbb az időtartam utolsó napján postára adják. A 25. § (6) bekezdésének meghatározott tizenöt napos postára adási könnyítése a határidőkre vonatkozik; az időtartamnál a 26. § (2) bekezdése adja a párhuzamos megoldást. A vita eldöntéséhez a kódex vagy a megállapodás szövege a kiindulópont."
+        },
+        {
+          "text": "Az időtartam utolsó napja heti pihenőnap esetén az általános munkarend szerinti következő munkanapra tolódik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a következő munkanapra tolódás a 25. § (5) bekezdésének határidő-szabálya, amelyet a 26. § (1) bekezdése az időtartamra kizár. Az Mt. 26. § (1) bekezdése szerint a 25. § (4)–(8) bekezdése nem alkalmazható, az időtartamnál a naptár az irányadó. A tévedés a határidő és az időtartam fogalmi felcseréléséből ered. A próbaidő vagy a felmondási idő naptári zárónapja ezért nem csúszik át a következő munkanapra a 25. § (5) bekezdése szerint."
+        },
+        {
+          "text": "Az időtartam elmulasztása a 25. § (7) bekezdése szerint mindig kimenthető, ha a fél önhibáján kívül járt el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 25. § (7) bekezdésének menthetőségi klauzulája az időtartamra nem alkalmazható. Az Mt. 26. § (1) bekezdése a 25. § (4)–(8) bekezdését — ideértve a (7) bekezdést is — kizárja az időtartam számításából. A tévedés a határidő kimentési szabályának ráírása az időtartamra. Az időtartam naptári lejárata objektív, a felek utólagos elnevezése a minősítést nem írja felül."
+        },
+        {
+          "text": "A határidőnek nem minősülő időtartam számítására a 25. § (4)–(8) bekezdése nem alkalmazható; az ilyen időtartamnál a naptár az irányadó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az időtartamnál nincs a hetek-hónapok lejárati képlete, nincs következő munkanapra csúszás, és nincs menthetőségi klauzula a 25. § szerint. Az Mt. 26. § (1) bekezdése szerint a munkaviszonyra vonatkozó szabályban vagy a felek megállapodásában meghatározott, határidőnek nem minősülő időtartam számítására a 25. § (4)–(8) bekezdése nem alkalmazható, az ilyen időtartam számításánál a naptár az irányadó. A felmondási idő, a próbaidő és a határozott idő tartama tipikusan időtartam. A minősítés téves megválasztása jogvesztést vagy hatálytalanságot okozhat."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "19ae842574aa"
+    },
+    {
+      "question": "Mit jelent a jognyilatkozat a polgári jog szerint, és mikor minősül a hallgatás jognyilatkozatnak?",
+      "options": [
+        {
+          "text": "A hallgatás a munkaviszonyban mindig elfogadásnak minősül, ha a másik fél észszerű időn belül nem tiltakozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hallgatás csak a felek kifejezett rendelkezése alapján minősül jognyilatkozatnak, az észszerű hallgatás önmagában nem elég. A Ptk. 6:4. § (4) bekezdése e feltételt rögzíti; az Mt. 31. § a 6:4. §-t hívja. A tévedés a Ptk. 6:67. § nem lényeges eltérésű elfogadási vagy a kereskedelmi szokás szabályainak a hallgatásra való ráírásából ered. A munkajogi megállapodás az Mt. 14. § szerint kölcsönös és egybehangzó nyilatkozatot kíván."
+        },
+        {
+          "text": "A hallgatás vagy valamilyen magatartástól tartózkodás a felek kifejezett rendelkezése alapján minősül jognyilatkozatnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hallgatás főszabályként nem jognyilatkozat; csak kifejezett rendelkezés emeli azzá. A Ptk. 6:4. § (4) bekezdése szerint a hallgatás vagy valamilyen magatartástól tartózkodás a felek kifejezett rendelkezése alapján minősül jognyilatkozatnak. Az Mt. 15. § (1) bekezdésének felhatalmazási követelménye e mögöttes szabállyal együtt olvasható. A munkáltatói utasítás tudomásulvétele önmagában ezért nem pótolja a munkaviszonyra vonatkozó szabálybeli felhatalmazást."
+        },
+        {
+          "text": "A jognyilatkozat joghatás kiváltására irányuló akaratnyilatkozat, amely szóban, írásban vagy ráutaló magatartással tehető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fogalom a munkajogi megállapodás és az egyoldalú aktus közös dogmatikai magja. A Ptk. 6:4. § (1) bekezdése szerint a jognyilatkozat joghatás kiváltására irányuló akaratnyilatkozat; a (2) bekezdés szerint szóban, írásban vagy ráutaló magatartással tehető. Az Mt. 31. § e szakaszt a munkaviszonybeli jognyilatkozatok mögöttes rendjébe hívja. A ráutaló magatartásnál a 6:4. § (3) bekezdése szerint a megtétel a magatartás tanúsítása."
+        },
+        {
+          "text": "Jognyilatkozat kizárólag írásban tehető, a ráutaló magatartás a Ptk. szerint érvénytelen.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Ptk. a szóbeli és a ráutaló magatartással tett nyilatkozatot is elismeri. A Ptk. 6:4. § (2) bekezdése szerint jognyilatkozat szóban, írásban vagy ráutaló magatartással tehető. A tévedés az Mt. 22. § írásbeliségének kivételes eseteit általánosítja a jognyilatkozat fogalmára. Az Mt. 22. § (1) bekezdése éppen az alakmentességet emeli főszabállyá, ha munkaviszonyra vonatkozó szabály vagy a felek eltérően nem rendelkeznek."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "190081f95d33"
+    },
+    {
+      "question": "Mikor szükséges a törvényes képviselő hozzájárulása vagy helyettesítő nyilatkozata a munkavállaló jognyilatkozatához?",
+      "options": [
+        {
+          "text": "Cselekvőképtelen munkavállaló saját maga is érvényesen megkötheti a munkaszerződést, ha a munkáltató a cselekvőképtelenségről nem tudott.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a cselekvőképtelen nevében a törvényes képviselő nyilatkozik; a munkáltató tudomásának hiánya nem orvosolja a semmisséget. Az Mt. 21. § (5) bekezdése a helyettesítő nyilatkozati rendet kötelezővé teszi. A Ptk. 2:22. § (1) bekezdése szerint a cselekvőképtelen nagykorú jognyilatkozata semmis, nevében gondnoka jár el; a 2:24. § szerinti relatív semmisség a gondnokolt érdekében hivatkozható. A tévedés a látszatvédelem (Mt. 20. §) munkáltatói oldali szabályát keveri a cselekvőképességi semmisséggel."
+        },
+        {
+          "text": "A törvényes képviselő hozzájárulása szükséges a fiatal munkavállaló vagy a munkaviszonnyal összefüggő ügycsoportban részlegesen korlátozott munkavállaló munkaszerződéséhez, annak módosításához, megszüntetéséhez vagy kötelezettségvállalásához.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hozzájárulás a munkaszerződési kör négy aktusára korlátozódik, nem minden munkaviszonybeli nyilatkozatra. Az Mt. 21. § (4) bekezdése szerint a törvényes képviselő hozzájárulása szükséges a fiatal munkavállaló vagy a cselekvőképességében a munkaviszonnyal összefüggő ügycsoportban részlegesen korlátozott munkavállaló olyan jognyilatkozatának érvényességéhez, amely a munkaszerződés megkötésére, módosítására, megszüntetésére vagy kötelezettségvállalásra irányul. A Ptk. 2:19–2:20. § a részleges korlátozás ügycsoportos rendjét adja. Hozzájárulás hiányában az aktus érvénytelen."
+        },
+        {
+          "text": "Fiatal munkavállaló minden munkaviszonybeli jognyilatkozatához — ideértve a szabadságkiadási igényt is — törvényes képviselői hozzájárulás kell.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 21. § (4) bekezdése taxatíve a munkaszerződés megkötését, módosítását, megszüntetését és a kötelezettségvállalást sorolja fel. Az Mt. 21. § (4) bekezdése e négy irányra korlátozza a hozzájárulási kötelezettséget. A tévedés a Ptk. 2:12. § általános hozzájárulási rendjét írja rá a munkajogi nyilatkozatok teljes körére. A szabadságkiadás vagy a jelenléti igények e taxáción kívül esnek, hacsak nem minősülnek a felsorolt aktusok valamelyikének."
+        },
+        {
+          "text": "A cselekvőképtelen személy nevében a törvényes képviselő tesz jognyilatkozatot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a cselekvőképtelen nem saját munkaszerződési nyilatkozatot tesz, hanem helyette a törvényes képviselő jár el. Az Mt. 21. § (5) bekezdése szerint a cselekvőképtelen személy nevében törvényes képviselője tesz jognyilatkozatot. A Ptk. 2:14. § és 2:22. § a cselekvőképtelen kiskorú, illetve nagykorú nyilatkozatának semmisségét és a képviselő eljárását rendezi. A csekély jelentőségű mindennapi ügyletek kivétele a munkaszerződésre, a felmondásra és a kötelezettségvállalásra nem terjed ki."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "f6a2832cdc85"
+    },
+    {
+      "question": "Mit jelent a kiskorúság miatti korlátozott cselekvőképességen vagy cselekvőképtelenségen alapuló semmisség relativitása?",
+      "options": [
+        {
+          "text": "A kiskorúság miatti korlátozott cselekvőképességen vagy cselekvőképtelenségen alapuló semmisségre annak érdekében lehet hivatkozni, akinek cselekvőképessége korlátozott vagy hiányzik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a semmisség protektív és relatív: a védelem alanya a kiskorú, nem a forgalom általános érdeke. A Ptk. 2:17. § szerint a kiskorúság miatti korlátozott cselekvőképességen vagy cselekvőképtelenségen alapuló semmisségre annak érdekében lehet hivatkozni, akinek cselekvőképessége korlátozott vagy hiányzik. A munkáltató ezért nem semmisítheti meg a saját számára kedvezőtlen munkaszerződést arra hivatkozva, hogy a munkavállaló kiskorú volt, ha a kiskorú a szerződést fenn akarja tartani. Az Mt. 21. § (4) bekezdésének hozzájárulási rendje e relatív szerkezet mellett érvényesül."
+        },
+        {
+          "text": "A nagykorú gondnokolt részleges korlátozásán és cselekvőképtelenségén alapuló semmisségre szintén annak érdekében lehet hivatkozni, aki a cselekvőképességében korlátozott vagy cselekvőképtelen.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a relatív semmisség a nagykorú gondnokságra is kiterjed. A Ptk. 2:24. § szerint a cselekvőképesség részleges korlátozásán és a cselekvőképtelenségen alapuló semmisségre annak érdekében lehet hivatkozni, aki a cselekvőképességében részlegesen korlátozott vagy cselekvőképtelen. A munkáltató a neki kedvezőtlen megszüntető megállapodást nem teheti semmissé a gondnokságra hivatkozva, ha a gondnokolt a viszonyt fenn akarja tartani. Az Mt. 21. § (4)–(5) bekezdése a nyilatkozati rendet e protektív szerkezethez igazítja."
+        },
+        {
+          "text": "A relatív semmisség azt jelenti, hogy a munkaszerződés a gyámhatóság jóváhagyása nélkül is minden esetben érvényes.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a relativitás a hivatkozási jogosultságot rendezi, nem a gyámhatósági jóváhagyás vagy a törvényes képviselői hozzájárulás mellőzését. A Ptk. 2:17. § a semmisségre való hivatkozás alanyát jelöli ki; az Mt. 21. § (4) bekezdése a hozzájárulást továbbra is megkívánja a taxált aktusoknál. A tévedés a 2:15. § gyámhatósági jóváhagyási taxációjának és a 2:17. § relativitásának összecsúszásából ered. A hozzájárulás hiánya érvénytelenséget eredményez, de arra a kiskorú érdekében lehet hivatkozni."
+        },
+        {
+          "text": "A munkáltató a kiskorú munkavállaló cselekvőképességi semmisségére mindig hivatkozhat, ha a szerződés rá nézve kedvezőtlen.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a semmisségre a kiskorú érdekében lehet hivatkozni, nem a munkáltató forgalmi érdeke szerint. A Ptk. 2:17. § a hivatkozási jogosultságot annak érdekében biztosítja, akinek cselekvőképessége korlátozott vagy hiányzik. A tévedés az abszolút semmisség polgári jogi képzetét írja rá a kiskorú védelmére. Ha a kiskorú a szerződést fenn akarja tartani, a munkáltató a 2:17. § alapján nem fordíthatja ellene a semmisséget."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "5870541280ca"
+    },
+    {
+      "question": "Miben különbözik a támogatott döntéshozatal a cselekvőképességet érintő gondnokságtól a munkaviszonybeli nyilatkozatnál?",
+      "options": [
+        {
+          "text": "A támogató kirendelése a nagykorú cselekvőképességét nem érinti; a jognyilatkozatot a támogatott maga teszi meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a támogatott döntéshozatal a cselekvőképesség korlátozása nélküli segítség. A Ptk. 2:38. § (3) bekezdése szerint a támogató kirendelése a nagykorú cselekvőképességét nem érinti. A munkaszerződést tehát a munkavállaló írja alá, a támogató a döntés előkészítésében segít. Az Mt. 21. § (4) bekezdése e formára nem alkalmazható, mert nincs korlátozó ítélet. A 2:38. § (1) bekezdése szerint a gyámhatóság a belátási képesség kisebb mértékű csökkenése miatt rendelhet támogatót."
+        },
+        {
+          "text": "Támogató kirendelése esetén a munkaszerződést a támogató írja alá a támogatott helyett, mert a cselekvőképesség korlátozott.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a támogató nem vonja el a cselekvőképességet, és nem helyettesíti a nyilatkozattevőt. A Ptk. 2:38. § (3) bekezdése szerint a kirendelés a cselekvőképességet nem érinti; a támogatott maga teszi meg a jognyilatkozatot. A tévedés a gondnok 2:34. § szerinti törvényes képviseletét írja rá a támogatóra. Az Mt. 21. § (4)–(5) bekezdése a gondnoksági korlátozáshoz, nem a támogatott döntéshozatalhoz kapcsolódik."
+        },
+        {
+          "text": "Cselekvőképességet részlegesen korlátozó gondnokságnál a munkaviszony-ügycsoportba vont aktusokhoz a gondnok hozzájárulása szükséges.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a részleges korlátozás ügycsoportos, és a munkaviszony-ügycsoport aktiválja az Mt. hozzájárulási rendjét. A Ptk. 2:20. § (1) bekezdése szerint a részlegesen korlátozott személynek a bíróság ítéletében meghatározott ügycsoportokra vonatkozó jognyilatkozata a gondnok hozzájárulásával érvényes. Az Mt. 21. § (4) bekezdése a munkaszerződés, a módosítás, a megszüntetés és a kötelezettségvállalás érvényességéhez a törvényes képviselő — itt a gondnok — hozzájárulását kívánja. A teljes korlátozásnál a 21. § (5) bekezdése szerint a gondnok helyettesítő nyilatkozata a forma."
+        },
+        {
+          "text": "Részleges gondnokság esetén a gondnokolt a munkaviszony-ügycsoportban is mindig önállóan, hozzájárulás nélkül köthet munkaszerződést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, ha a bíróság a munkaviszonnyal összefüggő ügycsoportot korlátozta, a hozzájárulás az Mt. szerint kötelező. Az Mt. 21. § (4) bekezdése a részlegesen korlátozott munkavállaló taxált aktusaihoz a törvényes képviselő hozzájárulását kívánja; a Ptk. 2:20. § (1) bekezdése ugyanezt a gondnoki hozzájárulással fogalmazza meg. A tévedés a 2:19. § (5) bekezdésének nem korlátozott ügyekben való önállóságát írja rá a korlátozott ügycsoportra. A nem érintett ügyekben a gondnokolt valóban önálló."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "0224fb5d97c1"
+    },
+    {
+      "question": "Milyen alaki és időbeli korlátok vonatkoznak az általános meghatalmazásra, és hogyan viszonyul ehhez a munkavállalói meghatalmazás?",
+      "options": [
+        {
+          "text": "Ügyek egyedileg meg nem határozott körére adott meghatalmazás csak teljes bizonyító erejű magánokiratba vagy közokiratba foglalva érvényes.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az általános meghatalmazás minősített okirati alakhoz kötött. A Ptk. 6:16. § szerint ügyek egyedileg meg nem határozott körére adott meghatalmazás akkor érvényes, ha teljes bizonyító erejű magánokiratba vagy közokiratba foglalták. A Pp. 325. § a teljes bizonyító erejű magánokirat taxatív alakjait adja. Az Mt. 21. § (1) bekezdése minden munkavállalói meghatalmazást írásba foglal, tehát a munkajogi minimum is írás; a Ptk. az általános meghatalmazásnál ezen felül a minősített okirati alakot kívánja."
+        },
+        {
+          "text": "Az öt évnél hosszabb általános meghatalmazás a felek eltérő megállapodása esetén határozatlan ideig hatályban marad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az öt éves hatályvesztés kógens: a határozatlan vagy öt évnél hosszabb általános meghatalmazás öt év elteltével hatályát veszti. A Ptk. 6:16. § e következményt a tartamtól függően kimondja. A tévedés a Ptk. 6:15. § (3) bekezdésének visszavonásig érvényes főszabályát írja rá az általános meghatalmazásra. Az egyedi ügyre szóló meghatalmazásnál a visszavonásig érvényesség maradhat, az általánosnál az öt éves korlát érvényesül."
+        },
+        {
+          "text": "A határozatlan vagy öt évnél hosszabb időre szóló általános meghatalmazás öt év elteltével hatályát veszti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az öt éves hatályvesztés a tartós, blanketta jellegű képviseletet zárja ki. A Ptk. 6:16. § szerint a határozatlan vagy öt évnél hosszabb időre szóló általános meghatalmazás öt év elteltével hatályát veszti. Az Mt. 31. § a 6:16. §-t a munkaviszonybeli jognyilatkozatok mögöttes rendjébe hívja. A munkáltatói jogkör belső átruházása nem e szakasz szerinti meghatalmazás, hanem az Mt. 20. § (2) bekezdésének szervezeti rendje."
+        },
+        {
+          "text": "A munkavállaló általános meghatalmazása szóban is érvényes, mert az Mt. a meghatalmazást alakmentessé teszi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkavállalói meghatalmazást az Mt. írásba foglaláshoz köti, az általános meghatalmazásnál pedig a Ptk. minősített okirati alakot kíván. Az Mt. 21. § (1) bekezdése az írásba foglalást expressis verbis megkívánja; a Ptk. 6:16. § a teljes bizonyító erejű magánokiratot vagy közokiratot. A tévedés a Ptk. 6:15. § általános alakszabályának a 6:16. § és az Mt. 21. § eltérése nélküli alkalmazásából ered. Szóbeli általános meghatalmazás érvénytelen."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "3dbb79376b31"
+    },
+    {
+      "question": "Mikor válik hatályossá az egyoldalú jognyilatkozat, és hogyan módosítható vagy vonható vissza?",
+      "options": [
+        {
+          "text": "A munkáltató a közölt egyoldalú jognyilatkozatát bármikor, a munkavállaló hozzájárulása nélkül visszavonhatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a visszavonás főszabályként a címzett hozzájárulásához kötött. Az Mt. 15. § (4) bekezdése szerint – a törvény eltérő rendelkezése hiányában – csak a címzett hozzájárulásával módosítható vagy vonható vissza a nyilatkozat. A tévedés a kötelezettségvállalás 16. § (2) bekezdése szerinti, körülményváltozáshoz kötött azonnali hatályú felmondást általánosítja minden egyoldalú aktusra. Eltérő törvényi felhatalmazás hiányában a szabad visszavonás tilos."
+        },
+        {
+          "text": "Az egyoldalú jognyilatkozat a megtétellel, a címzett tudomása nélkül is hatályossá válik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkajogi egyoldalú aktus hatályosulási pontja a címzettel való közlés. Az Mt. 15. § (4) bekezdése a közlést teszi a hatályosság feltételévé. A tévedés a Ptk. 6:5. § (4) bekezdésének nem címzett nyilatkozati szabályát írja rá a munkáltatói egyoldalú aktusra. A felmondás, az elállás vagy a kötelezettségvállalás a 24. § szerinti közlés nélkül nem hatályosul."
+        },
+        {
+          "text": "Az egyoldalú jognyilatkozat a címzettel való közléssel válik hatályossá.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hatályosulás pontja a közlés, nem a nyilatkozattevő belső elhatározása. Az Mt. 15. § (4) bekezdése szerint az egyoldalú jognyilatkozat a címzettel való közléssel válik hatályossá. A közlés fogalmát a 24. § bontja ki: átadás, elektronikus hozzáférhetőség vagy meghatározott körben közzététel. A Ptk. 6:5. § a jelenlévők és távollévők szerinti hatályosulási hálót adja mögöttes szabályként."
+        },
+        {
+          "text": "Az egyoldalú jognyilatkozat — a törvény eltérő rendelkezése hiányában — csak a címzett hozzájárulásával módosítható vagy vonható vissza.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a visszavonás és a módosítás főszabályként a címzett belátásához kötött, nem a nyilatkozattevő egyoldalú belátásához. Az Mt. 15. § (4) bekezdése szerint az egyoldalú jognyilatkozat a közléssel válik hatályossá, és – e törvény eltérő rendelkezésének hiányában – csak a címzett hozzájárulásával módosítható vagy vonható vissza. A 15. § (3) bekezdése az egyoldalú aktusra a megállapodás szabályainak megfelelő alkalmazását rendeli. A kötelezettségvállalás 16. § (2) bekezdése a körülményváltozáshoz kötött kilépést külön rendezi."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "18fd7d7e56ef"
+    },
+    {
+      "question": "Milyen szerepet játszik a Ptk. a munkaviszonybeli jognyilatkozatoknál az Mt. szerint?",
+      "options": [
+        {
+          "text": "A teljes Ptk. kötelmi könyve mögöttes magánjogként mindig alkalmazandó a munkaviszonyban, az Mt. eltérése nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mögöttes alkalmazás tételes behíváshoz és az Mt. elsőbbségéhez kötött. Az Mt. 31. § taxatív felsorolást ad, és csak akkor engedi a Ptk.-t, ha e törvény eltérően nem rendelkezik. A tévedés a polgári jog általános háttérjogi szerepének a munkajogra való ráírásából ered. A felsoroláson kívüli Ptk.-szabály — például a teljes ÁSZF-rend — nem emelhető be „analógiával”."
+        },
+        {
+          "text": "A Ptk. 6:63. §-ából a kódex csak az (1)–(3) bekezdést hívja; a kereskedelmi szokás és az általános szerződési feltétel munkajogi importja e mögöttes körön kívül esik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a behívás szűkített: a szerződés létrejöttének konszenzus-képlete bejön, a (4) bekezdéstől kezdődő szokás-ÁSZF réteg nem. Az Mt. 31. § expressis verbis a 6:63. § (1)–(3) bekezdését jelöli meg. A munkaszerződés lényeges tartalmát az Mt. külön határozza meg; a Ptk. 6:63. § (2) bekezdése a bármelyik fél által lényegesnek minősített kérdésen keresztül a felek sajátos kikötéseit emelheti a létrejött feltételévé. A hallgatólagos szokásimport tehát nem a 31. § fedezete alatt áll."
+        },
+        {
+          "text": "A jognyilatkozatra egyebekben, ha az Mt. eltérően nem rendelkezik, az Mt. 31. §-ában felsorolt Ptk.-szakaszokat kell megfelelően alkalmazni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a polgári jog nem általános háttér, hanem az Mt. által behívott mögöttes rend. Az Mt. 31. § felsorolja a megfelelően alkalmazandó Ptk.-szakaszokat — egyebek mellett a 6:4–5. §-t, a 6:8. §-t, a 6:11. §-t, a 6:15–17. §-t, a 6:63. § (1)–(3) bekezdését és a 6:116–119. §-t —, és kiköti: ha e törvény eltérően nem rendelkezik. Amit a kódex nem hív, azt a munkaviszonyban nem lehet általános polgári jogi analógiával beemelni. A meghatalmazás terjedelménél a 6:17. § az Mt. 21. § (3) bekezdésének eltérése mellett olvasandó."
+        },
+        {
+          "text": "Az Mt. 21. § (3) bekezdése szerinti túllépési tilalom a Ptk. 6:17. § célhoz kötött képviseleti terjedelmét teljesen kiszorítja a munkaviszonyból.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 6:17. § behívott mögöttes szabály marad, de az Mt. 21. § (3) bekezdésének eltérése mellett olvasandó. Az Mt. 31. § a 6:17. §-t kifejezetten hívja; a 21. § (3) bekezdése szerint a munkavállaló — a tartalmában egyértelműen korlátozott képviselet kivételével — nem hivatkozhat a képviselő jogkörének túllépésére. A tévedés a két szabály egyikének a másik teljes kiiktatásaként való kezeléséből fakad. A célhoz nem szükséges aktus a 6:17. § fedezete alatt sem áll."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "2a11a7904f8f"
+    },
+    {
+      "question": "Milyen alaki feltételekhez köti az Mt. az írni nem tudó vagy nem képes személy írásbeli jognyilatkozatát?",
+      "options": [
+        {
+          "text": "A nyelvet nem értő nyilatkozónál elegendő a szóbeli fordítás, az okiratba foglalt felolvasási-megmagyarázási záradék nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az érvényességhez az kell, hogy a felolvasás és a megmagyarázás ténye magából az okiratból kitűnjön. Az Mt. 22. § (7) bekezdése ezt expressis verbis megkívánja. A tévedés a Pp. 325. § (2) bekezdésének okirati megjelenítési követelményét hagyja figyelmen kívül. A csupán szóbeli tolmácsolás, okirati záradék nélkül, a 22. § (7) bekezdésének feltételeit nem meríti ki."
+        },
+        {
+          "text": "Ha a nyilatkozó nem tud olvasni, vagy nem érti az okirat nyelvét, az érvényességhez az is kell, hogy az okiratból kitűnjön: a tanúk egyike vagy a hitelesítő felolvasta és megmagyarázta a tartalmat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felolvasás és a megmagyarázás tényének az okiratból kell kitűnnie. Az Mt. 22. § (7) bekezdése szerint az olvasni nem tudó, továbbá olyan személy esetén, aki nem érti azt a nyelvet, amelyen az írásbeli nyilatkozatát tartalmazó okirat készült, az érvényesség feltétele az is, hogy magából az okiratból kitűnjön: a tartalmat a tanúk egyike vagy a hitelesítő személy a nyilatkozó félnek felolvasta és megmagyarázta. A Pp. 325. § (2) bekezdése ugyanezt a teljes bizonyító erejű magánokiratnál is megkívánja. A hiányzó felolvasási záradék az érvényességet dönti el."
+        },
+        {
+          "text": "Írni nem tudó munkavállaló írásbeli nyilatkozata érvényes egyszerű, két tanú nélküli magánokirattal is, ha a munkáltató ezt elfogadja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 22. § (6) bekezdése közokiratot vagy a megjelölt módon hitelesített, illetve tanúzott teljes bizonyító erejű magánokiratot kíván; a munkáltató elfogadása ezt nem pótolja. Az Mt. 22. § (6) bekezdése taxatív alaki feltételeket sorol fel. A tévedés a 22. § (1) bekezdésének alakmentességét vagy a 22. § (4) bekezdésének teljesedésbe-meneteli korrekcióját írja rá e speciális alaki garanciára. A felek egyező akarata a (6)–(7) bekezdés alakját nem helyettesíti."
+        },
+        {
+          "text": "Írni nem tudó vagy nem képes személy írásbeli jognyilatkozata akkor érvényes, ha azt közokirat vagy olyan teljes bizonyító erejű magánokirat tartalmazza, amelyen a törvényben megjelölt hitelesítési vagy tanúzási módok valamelyike megvalósul.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az alak a közokirathoz vagy a Pp. 325. § szerinti teljes bizonyító erejű magánokirathoz kötött. Az Mt. 22. § (6) bekezdése szerint az ilyen személy írásbeli jognyilatkozata akkor érvényes, ha azt közokirat vagy olyan teljes bizonyító erejű magánokirat tartalmazza, amelyen a nyilatkozó aláírását vagy kézjegyét bíróság vagy közjegyző hitelesíti, illetve ügyvéd ellenjegyzéssel vagy két tanú igazolja a megjelölt módon. A Pp. 323. § a közokirat, a 325. § a teljes bizonyító erejű magánokirat bizonyító erejét adja. Egyszerű magánokirat e körben nem elég."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "e0c59203b1ee"
+    },
+    {
+      "question": "Hogyan kell kézbesíteni a hivatalos iratot a postai rendelet szerint, és miért releváns ez a munkajogi közlési fikcióhoz?",
+      "options": [
+        {
+          "text": "A feladó és a postai szolgáltató megállapodással kiterjesztheti a hivatalos irat átvevői körét alkalmi átvevőre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 29. § (2) bekezdése kifejezetten kizárja, hogy egyedi szerződés vagy általános szerződési feltétel alapján alkalmi átvevőnek kézbesítsenek hivatalos iratot. A 335/2012. (XII. 4.) Korm. rendelet 29. § (2) bekezdése e tilalmat kógensként fogalmazza meg. A tévedés a 9. § általános egyéb jogosult átvevői körének a hivatalos iratra való kiterjesztéséből ered. A munkajogi közlési fikció előfeltételei ezért a szűkebb átvevői rendhez igazodnak."
+        },
+        {
+          "text": "A hivatalos iratot a címzettnek vagy az egyéb jogosult átvevőnek személyes átadással kell kézbesíteni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hivatalos irat kézbesítése szigorúbb, mint a levélszekrényes kézbesítés: személyes átadás kell. A 335/2012. (XII. 4.) Korm. rendelet 29. § (1) bekezdése szerint a hivatalos iratot a címzettnek vagy az egyéb jogosult átvevőnek személyes átadással kell kézbesíteni. Az Mt. 24. § (2) bekezdésének tértivevényes fikciója e rendeleti tényállásra támaszkodik. A munkáltatói felmondás tértivevényes küldeménye e szigorúbb átvevői rend alá esik, ha hivatalos iratként adják fel."
+        },
+        {
+          "text": "Hivatalos irat — egyedi szerződés vagy általános szerződési feltétel ellenére sem — nem kézbesíthető alkalmi átvevőnek, valamint a rendeletben megjelölt képviselői és helyettes átvevői kör meghatározott tagjainak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az átvevői kör zártsága kógens, a felek megállapodása nem tágíthatja. A 335/2012. (XII. 4.) Korm. rendelet 29. § (2) bekezdése szerint hivatalos irat a feladóval kötött egyedi szerződés vagy az általános szerződési feltételek szerinti külön rendelkezés alapján sem kézbesíthető alkalmi átvevőnek, a 15. § (3) bekezdés a) és c) pontja szerinti képviselőnek, valamint a 16. § (3) bekezdés b) pontja szerinti helyettes átvevőknek. A 30. § az átvétel adatainak rögzítését a későbbi kézbesítési kifogás ténybeli gerincévé teszi. A hiányos tértivevény a fikció szabályszerűségét gyengíti."
+        },
+        {
+          "text": "Hivatalos irat levélszekrénybe helyezéssel is szabályszerűen kézbesíthető, ha a címzett tartósan távol van.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hivatalos irat kézbesítése személyes átadáshoz kötött; a levélszekrényes elhelyezés e körben nem helyettesíti az átadást. A 335/2012. (XII. 4.) Korm. rendelet 29. § (1) bekezdése a személyes átadást írja elő. A tévedés a 12. § levélszekrénybe kézbesíthető küldeményeinek rendjét írja rá a hivatalos iratra. Az Mt. 24. § (2) bekezdésének fikciója a személyes átadás megkísérlésének és az értesítés elhelyezésének ritmusára épül, nem a levélszekrényes átadásra."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "02b722fe438f"
+    },
+    {
+      "question": "Hogyan kell értelmezni a jognyilatkozatot vita esetén a Ptk. szerint?",
+      "options": [
+        {
+          "text": "Egyoldalú munkáltatói nyilatkozatnál mindig a munkáltató utólag előadott szándéka az irányadó, még ha a szöveg mást is tett felismerhetővé.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a címzett felismerhető értelmezése a mérce, nem a nyilatkozó utólagos magyarázata. A Ptk. 6:8. § (1) bekezdése a címzettnek a szavak általánosan elfogadott jelentése szerinti értelmét teszi irányadóvá; a (2) bekezdés a nem címzett nyilatkozatnál a nyilatkozó feltehető akaratához igazodik. A tévedés a (2) bekezdés nem címzett nyilatkozati szabályát írja rá a címzett munkáltatói aktusra. Az Mt. 15. § (4) bekezdése szerinti közléssel hatályosuló felmondás szövege a 6:8. § (1) bekezdése szerint dől el."
+        },
+        {
+          "text": "A jognyilatkozatot úgy kell értelmezni, ahogyan azt a címzett a nyilatkozó feltehető akaratára és az eset körülményeire tekintettel a szavak általánosan elfogadott jelentése szerint érthette.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az értelmezés a címzett felismerhető olvasatához igazodik, nem a nyilatkozó utólagos „igazi szándékához”. A Ptk. 6:8. § (1) bekezdése szerint a jognyilatkozatot vita esetén úgy kell értelmezni, ahogyan azt a címzettnek a nyilatkozó feltehető akaratára és az eset körülményeire tekintettel a szavak általánosan elfogadott jelentése szerint értenie kellett. Az Mt. 31. § a 6:8. §-t a munkaviszonybeli jognyilatkozatok mögöttes rendjébe hívja. A munkáltatói felmondás vagy utasítás szövege ezért a munkavállaló felismerhető értelmezése szerint dől el."
+        },
+        {
+          "text": "A joglemondás kiterjesztően is értelmezhető, ha a munkáltató szervezeti érdeke ezt indokolja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a joglemondás nem értelmezhető kiterjesztően; a szervezeti érdek e tilalmat nem oldja fel. A Ptk. 6:8. § (3) bekezdése a kiterjesztő értelmezést kifejezetten kizárja. A tévedés a Ptk. 6:8. § (1) bekezdésének általános körülményi mérlegelését keveri a joglemondás szűkítő szabályával. A munkavállaló jogáról való lemondás ezért csak a kifejezett nyilatkozat szövegének szűk olvasata szerint hatályosul."
+        },
+        {
+          "text": "Jogról lemondani vagy abból engedni csak kifejezett jognyilatkozattal lehet, és az ilyen nyilatkozatot nem lehet kiterjesztően értelmezni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a joglemondás szűkítő értelmezést kíván, hallgatólagos kiterjesztés tilos. A Ptk. 6:8. § (3) bekezdése szerint jogról lemondani vagy abból engedni kifejezett jognyilatkozattal lehet; ha valaki jogáról lemond vagy abból enged, jognyilatkozatát nem lehet kiterjesztően értelmezni. Az Mt. 22. § (5) bekezdésének indokolási és kioktatási kötelezettsége a felismerhetőséget szolgálja a munkajogban. A homály a nyilatkozót terheli: aki fogalmaz, viseli a többértelműség kockázatát."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "c9a01b93aa48"
+    }
+  ]
+}

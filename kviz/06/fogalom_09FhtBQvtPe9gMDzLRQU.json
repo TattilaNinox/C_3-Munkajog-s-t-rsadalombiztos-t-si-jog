@@ -1,0 +1,765 @@
+{
+  "id": "09FhtBQvtPe9gMDzLRQU",
+  "sorszam": 6,
+  "cim": "A munkaviszony létesítése, a munkaszerződés tartalma, a munkáltató (...)",
+  "generationType": "fogalom",
+  "title": "6. A munkaviszony létesítése, a munkaszerződés tartalma, a munkáltató (...)",
+  "questions": [
+    {
+      "question": "Mi hozza létre a munkaviszonyt az Mt. fogalmi rendje szerint?",
+      "options": [
+        {
+          "text": "A munkaviszony a járulékbejelentés napján keletkezik, függetlenül a felek szerződésétől.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bejelentés nem a létrejött jogcíme. Az Mt. 42. § (1) bekezdése a munkaszerződést nevezi meg egyetlen címként. Az Art. 2. §-a a tartalom szerinti minősítést az adóhatósági eljárásban írja elő, de ez nem helyettesíti a kötelmi címet. A tévedés a közteher-bejelentés és a munkajogi létrejött összecsúsztatásából ered."
+        },
+        {
+          "text": "A munkaviszony a tényleges foglalkoztatás megkezdésével jön létre, a munkaszerződés csak utólagos igazolás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a létrejöttet a szerződés, nem a tényleges foglalkoztatás adja. Az Mt. 42. § (1) bekezdése egyetlen címet nevez meg: a munkaszerződést. A tényleges foglalkoztatás az Art. valódisági klauzulája és a foglalkoztatás-felügyelet minősítésében lehet munkaviszony, de a kötelmi cím ettől elválik. A tévedés forrása a közjogi minősítés és a kötelmi létrejött összekeverése."
+        },
+        {
+          "text": "A munkaviszony munkaszerződéssel jön létre, nem a tényleges foglalkoztatással, nem a bejelentéssel és nem a munkába lépés napján.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötelmi cím a szerződés, nem a tényleges munkavégzés vagy a hatósági bejelentés. Az Mt. 42. § (1) bekezdése szerint: „A munkaviszony munkaszerződéssel jön létre.” Nincs „ráutaló magatartással létesített” munkaviszony e szakasz szerint; a tényleges foglalkoztatás a felügyelet és az Art. minősítésében lehet munkaviszony, de a kötelmi cím a szerződés. A foglalkoztatás-felügyelet közjogi minősítése ezért párhuzamosan futhat a kötelmi címmel."
+        },
+        {
+          "text": "A munkaszerződés konszenzuális, kétoldalú és visszterhes: a munkavállaló a munkáltató irányítása szerint személyesen végez munkát, a munkáltató foglalkoztat és munkabért fizet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szinallagma az irányítás szerinti személyes munkavégzés és a foglalkoztatás–díjazás párosa. Az Mt. 42. § (2) bekezdés a) pontja szerint a munkavállaló köteles a munkáltató irányítása szerint munkát végezni, a b) pont szerint a munkáltató köteles foglalkoztatni és munkabért fizetni. Az alárendeltség és a foglalkoztatási kötelezettség együtt határolja el a polgári jogi munkavégzési szerződésektől. A foglalkoztatási kötelezettség megszegése — például a munkakör kiüresítése — a szerződés megszegése."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "6e11964f88a5"
+    },
+    {
+      "question": "Miben áll a munkaszerződés szinallagmatikus tartalma a 42. § (2) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A munkáltató kötelezettsége kizárólag a munkabér megfizetése; foglalkoztatási kötelezettség nincs.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a díjfizetés önmagában nem meríti ki a munkáltatói oldalt. Az Mt. 42. § (2) bekezdés b) pontja a foglalkoztatást és a munkabérfizetést együtt írja elő. A foglalkoztatási kötelezettség megszegése a szerződés megszegése. A tévedés a polgári díjfizetéses megbízás és a munkaviszony szinallagmája összekeveréséből ered."
+        },
+        {
+          "text": "A munkavállaló kötelezettsége a munkáltató irányítása szerint végzett munka, nem általában a „munkavégzés”.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötelezettség az irányítás szerinti munkavégzés, nem absztrakt szolgáltatás. Az Mt. 42. § (2) bekezdés a) pontja szerint a munkavállaló köteles a munkáltató irányítása szerint munkát végezni. Ez az alárendeltségi elem határolja el a vállalkozási vagy megbízási típustól. A munkakör, a munkahely és a munkaidő e kötelezettséget konkretizálja a későbbi tartalmi szabályokban."
+        },
+        {
+          "text": "A munkáltató kötelezettsége foglalkoztatás és munkabérfizetés együtt, nem pusztán díjfizetés.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkáltatói oldal kettős: foglalkoztatás és díjazás. Az Mt. 42. § (2) bekezdés b) pontja szerint a munkáltató köteles a munkavállalót foglalkoztatni és munkabért fizetni. A foglalkoztatási kötelezettség megszegése — a munkavállaló otthon tartása, a munkakör kiüresítése — a szerződés megszegése, nem csupán üzleti döntés. A 45. § (1) bekezdése ezért az alapbért és a munkakört teszi kötelező tartalmi elemmé."
+        },
+        {
+          "text": "A munkavállaló kötelezettsége a munkáltatótól független, önálló szakmai döntés szerinti munkavégzés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkaviszony fogalmi magja az irányítás szerinti alárendeltség. Az Mt. 42. § (2) bekezdés a) pontja a munkáltató irányítása szerinti munkavégzést írja elő. Az önálló szakmai döntés a vállalkozási típus ismérve, nem a munkaviszonyé. A tévedés a polgári munkavégzési szerződések és a munkaviszony elhatárolásának elmosásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "eb94718cb7bc"
+    },
+    {
+      "question": "Mi a következménye annak, ha a munkaszerződést nem foglalják írásba?",
+      "options": [
+        {
+          "text": "A harminc napos határidő a szerződéskötés napjától fut, a munkába lépés irreleváns.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határidő a munkába lépéshez igazodik. Az Mt. 44. § kifejezetten a munkába lépést követő harminc napot írja elő. Ha a kezdőnap a szerződéskötést követő napnál későbbi, az ablak a tényleges munkába lépéssel nyílik. A tévedés a szerződéskötés és a munkaviszony kezdete dogmatikájának összecsúsztatásából ered."
+        },
+        {
+          "text": "Az írásba foglalás elmulasztása miatt a munkaszerződés érvénytelenségére csak a munkavállaló hivatkozhat, a munkába lépést követő harminc napon belül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a formai hiány nem automatikus semmisség a munkáltató javára. Az Mt. 44. § szerint: „A munkaszerződést írásba kell foglalni. Az írásba foglalás elmulasztása miatt a munkaszerződés érvénytelenségére csak a munkavállaló – a munkába lépést követő harminc napon belül – hivatkozhat.” A határidő jogvesztő a hivatkozás szempontjából. A munkáltató a formai hiányra a munkavállalóval szemben nem támaszkodhat."
+        },
+        {
+          "text": "Az írásba foglalás elmaradása esetén a munkaszerződés automatikusan semmis, és mindkét fél hivatkozhat rá bármikor.",
+          "isCorrect": false,
+          "rationale": "HAMIS, nincs automatikus semmisség, és a munkáltató nem hivatkozhat a formai hiányra. Az Mt. 44. § az érvénytelenségi hivatkozást egyoldalúan a munkavállalóhoz és a munkába lépést követő harminc naphoz köti. Harminc nap után a munkavállaló is elveszíti e speciális érvénytelenségi okot. A tévedés a klasszikus alakhibás semmisség és a munkajogi egyoldalú hivatkozási rend összekeveréséből ered."
+        },
+        {
+          "text": "A harminc napos hivatkozási ablak a munkába lépéshez igazodik, nem a szerződéskötés napjához.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a határidő a tényleges munkába lépéssel nyílik. Az Mt. 44. § a munkába lépést követő harminc napot adja; ha a felek későbbi kezdőnapban állapodnak meg, az ablak a tényleges munkába lépéssel indul. Az írásba foglalás nem a munkaviszony kezdetének feltétele, hanem a tartalom bizonyíthatóságának és a munkavállalói védelemnek az eszköze. A 23. § a munkáltatóra telepíti az írásba foglalás gondoskodását."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "03cc7cb96dbe"
+    },
+    {
+      "question": "Mely elemek a munkaszerződés kötelező tartalma, amelyek nélkül a szolgáltatás–ellenszolgáltatás nem azonosítható?",
+      "options": [
+        {
+          "text": "A munkahely és a munkaidő nem kötelező szerződéses elem: hallgatás esetén a szokásos munkavégzési hely és az általános teljes napi munkaidő pótolja a tartalmat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkahely és a munkaidő diszpozitív vélelemmel pótolható. Az Mt. 45. § (3) bekezdése szerint eltérő megállapodás hiányában munkahelynek a munkakörben szokásos munkavégzési helyet kell tekinteni; a (4) bekezdés szerint a munkaviszony általános teljes napi munkaidőben történő foglalkoztatásra jön létre. A 46. § (1) bekezdés c) és e) pontja ugyanerről tájékoztatási kötelezettséget ró. A határozatlan idő a (2) bekezdés szerinti vélelem."
+        },
+        {
+          "text": "A feleknek meg kell állapodniuk a munkavállaló alapbérében és munkakörében.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötelező tartalom két elem: alapbér és munkakör. Az Mt. 45. § (1) bekezdése szerint: „A munkaszerződésben a feleknek meg kell állapodniuk a munkavállaló alapbérében és munkakörében.” Ezek nélkül a 42. § (2) bekezdése szerinti szolgáltatás–ellenszolgáltatás nem azonosítható. Az 50. § (1) bekezdés c) pontja a felek eltérését e körben kizárja."
+        },
+        {
+          "text": "A próbaidő kikötése kötelező; hallgatás esetén három hónapos próbaidő vélelme áll fenn.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a próbaidő nem vélelem, hanem kikötés kérdése. Az Mt. 45. § (5) bekezdése szerint a felek legfeljebb három hónapig terjedő próbaidőt köthetnek ki; hallgatás esetén nincs próbaidő. A határozatlan idő, a szokásos munkahely és a teljes napi munkaidő a (2)–(4) bekezdés szerinti vélelmek. A tévedés a vélelmezett tartalom és a kikötéshez kötött próbaidő összecsúsztatásából ered."
+        },
+        {
+          "text": "A munkahely megjelölése kötelező tartalmi elem; ennek hiányában a munkaszerződés nem jön létre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkahely nem kötelező szerződéses elem. Az Mt. 45. § (1) bekezdése csak az alapbért és a munkakört teszi kötelezővé; a (3) bekezdés hallgatás esetén a szokásos munkavégzési helyet pótolja. A tévedés a tájékoztatási kötelezettség (46. §) és a kötelező szerződéses tartalom összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "5d55d5906a7f"
+    },
+    {
+      "question": "Milyen tartamban köthető ki próbaidő a felek megállapodásával, és mi a meghosszabbítás plafonja?",
+      "options": [
+        {
+          "text": "Kollektív szerződés rendelkezése alapján a próbaidő tartama legfeljebb hat hónap lehet, ami az uniós plafonnal esik egybe.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kollektív nyitás hat hónapig tart. Az Mt. 50. § (4) bekezdése szerint kollektív szerződés rendelkezése alapján a próbaidő tartama legfeljebb hat hónap. A 2019/1152 irányelv 8. cikk (1) bekezdése ugyanezt a hat hónapos uniós maximumot állítja. A felek három hónapos plafonját az uniós tető nem emeli; a kollektív szerződés nyitása esik egybe vele."
+        },
+        {
+          "text": "A felek a munkaviszony kezdetétől számított legfeljebb három hónapig terjedő próbaidőt köthetnek ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felek megállapodásának plafonja három hónap. Az Mt. 45. § (5) bekezdése szerint a felek a munkaviszony kezdetétől számított legfeljebb három hónapig terjedő próbaidőt köthetnek ki. Ennél rövidebb kikötés egyszer meghosszabbítható, de a tartam a meghosszabbítás esetén sem haladhatja meg a három hónapot. Hallgatás esetén nincs próbaidő, mert a próbaidő nem vélelem."
+        },
+        {
+          "text": "A felek megállapodása is hat hónapig terjedő próbaidőt enged, mert az uniós maximum közvetlenül érvényesül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felek plafonja három hónap marad. Az Mt. 45. § (5) bekezdése a felek megállapodását három hónapban zárja; az 50. § (4) bekezdése a hat hónapos nyitást a kollektív szerződéshez köti. A 2019/1152 irányelv 8. cikke az uniós maximumot adja, de a magyar felek megállapodása szigorúbb. A tévedés az uniós plafon és a felek megállapodásának összecsúsztatásából ered."
+        },
+        {
+          "text": "Rövidebb próbaidő korlátlanul, többször meghosszabbítható, amíg az összegzett tartam el nem éri a hat hónapot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a meghosszabbítás egyszeri, és a három hónapos összegzett plafon a feleknél kötelező. Az Mt. 45. § (5) bekezdése szerint rövidebb próbaidő kikötése esetén a felek legfeljebb egy alkalommal hosszabbíthatnak, és a tartam a meghosszabbítás esetén sem haladhatja meg a három hónapot. A hat hónapos plafon csak kollektív szerződésnél áll. A tévedés a kollektív nyitás és a felek meghosszabbítási szabályának összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "9e8e6e22b3c9"
+    },
+    {
+      "question": "Miben különbözik a munkaszerződés relatív diszpozitivitása a kógens magtól?",
+      "options": [
+        {
+          "text": "A felek a 42–44. §-tól a munkavállaló javára szabadon eltérhetnek, mert a 43. § (1) bekezdése mindent felülír.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a létrejöttet, az írásbeliséget és a kötelező tartalmat a felek nem írhatják felül a munkavállaló javára sem. Az Mt. 50. § (1) bekezdés a) pontja szerint a felek megállapodása a 42–44. §-ban foglaltaktól nem térhet el. A 43. § (1) bekezdése csak jogszabály eltérő rendelkezése hiányában engedi az eltérést, és az 50. § éppen ezt a kivételt adja. A tévedés a relatív diszpozitivitás és a kógencia viszonyának félreértéséből ered."
+        },
+        {
+          "text": "Az eltérést mindig egyetlen kedvező mondat dönti el, az összefüggő rendelkezések összehasonlítása nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az eltérés mércéje az összefüggő rendelkezések összehasonlítása. Az Mt. 43. § (2) bekezdése szerint az eltérést az egymással összefüggő rendelkezések összehasonlításával kell elbírálni. Egyetlen kedvező mondat nem menti a kapcsolódó hátrányos csomagot. A tévedés a részleges kedvezmény és a csomagvizsgálat összekeveréséből ered."
+        },
+        {
+          "text": "A felek megállapodása a 42–44. §-tól, a 44/A. §-tól és a 45. § (1) bekezdésétől nem térhet el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kógens mag a létrejöttet, az írásbeliséget, a különös foglalkoztatási feltételeket, az alapbért és a munkakört zárja. Az Mt. 50. § (1) bekezdése e körben a felek eltérését kizárja. A 43. § (1) bekezdésének „jogszabály eltérő rendelkezése” fordulata éppen az 50. §-t hívja. A relatív diszpozitivitás tehát nem nyitja fel ezt a magot."
+        },
+        {
+          "text": "A munkaszerződés – jogszabály eltérő rendelkezése hiányában – a Második Részben foglaltaktól és a munkaviszonyra vonatkozó szabálytól a munkavállaló javára eltérhet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a főszabály a munkavállaló javára való eltérés. Az Mt. 43. § (1) bekezdése szerint a munkaszerződés – jogszabály eltérő rendelkezése hiányában – a Második Részben foglaltaktól, valamint munkaviszonyra vonatkozó szabálytól a munkavállaló javára eltérhet. Az eltérést az egymással összefüggő rendelkezések összehasonlításával kell elbírálni a (2) bekezdés szerint. Egyetlen kedvező mondat nem menti a kapcsolódó hátrányos csomagot."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "6fb3978b0f80"
+    },
+    {
+      "question": "Meddig és mire terjed a munkáltató írásbeli tájékoztatási kötelezettsége a munkaviszony kezdetén?",
+      "options": [
+        {
+          "text": "A munkáltatónak minden esetben külön tájékoztatást kell adnia az alapbérről és a munkakörről is, még ha a munkaszerződésben írásban rögzítették.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az írásbeli szerződéses megállapodás mentesít a külön tájékoztatás alól. Az Mt. 46. § (2) bekezdése szerint nem terheli a munkáltatót tájékoztatási kötelezettség olyan munkafeltételről, amelyben a felek írásban kifejezetten megállapodtak. Az alapbér és a munkakör a 45. § (1) bekezdése szerint kötelező szerződéses elem. A tévedés a tájékoztatás és a kötelező tartalom párhuzamos követelésének abszolutizálásából ered."
+        },
+        {
+          "text": "A munkáltató legkésőbb a munkaviszony kezdetétől számított hét napon belül írásban tájékoztatja a munkavállalót a 46. § (1) bekezdés a)–l) pontjában felsorolt tárgykörökről.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a teljes lista hét nap alá esik. Az Mt. 46. § (1) bekezdése szerint a munkáltató legkésőbb a munkaviszony kezdetétől számított hét napon belül írásban tájékoztat. A tárgykörök közé tartozik a munkáltatói jogkör gyakorlója, a kezdet és tartam, a munkahely, a feladatok, a munkaidő-beosztás keretei, az elszámolás, az alapbéren túli díjazás, a szabadság, a megszüntetés, a képzés, a közteher-hatóság és a kollektív szerződés hatálya. A hétnapos határidő a munkaviszony kezdetéhez, nem a szerződéskötéshez igazodik."
+        },
+        {
+          "text": "Nem terheli a munkáltatót tájékoztatási kötelezettség olyan munkafeltételről, amelyben a felek írásban kifejezetten megállapodtak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szerződéses átfedés zárja a külön tájékoztatást. Az Mt. 46. § (2) bekezdése szerint nem terheli a munkáltatót tájékoztatási kötelezettség olyan munkafeltételről, amelyben a felek írásban kifejezetten megállapodtak. Az (1) bekezdés e)–i) pontjában előírt tájékoztatás munkaviszonyra vonatkozó szabály rendelkezésére hivatkozással is megadható a (3) bekezdés szerint. A változásról a hatálybalépés napján kell tájékoztatni, kivéve a szabályra hivatkozó teljesítést."
+        },
+        {
+          "text": "A tájékoztatási határidő a szerződéskötés napjától számított harminc nap, a munkaviszony kezdete irreleváns.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határidő hét nap, és a munkaviszony kezdetéhez igazodik. Az Mt. 46. § (1) bekezdése a munkaviszony kezdetétől számított hét napot ír elő. A 2019/1152 irányelv 5. cikke a lényeges információkat hét naptári napig, a többit egy hónapon belül kéri; a magyar szabály a teljes listát hét nap alá vonja. A tévedés az irányelvi egyhónapos „egyéb” határidő és a magyar főszabály összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "709e4f0c9eaa"
+    },
+    {
+      "question": "Mikor kell a külföldi munkavégzésről kiegészítő írásbeli tájékoztatást adni?",
+      "options": [
+        {
+          "text": "Várhatóan tizenöt napot meghaladó külföldi munkavégzés esetén a munkavállalót a 46. §-on túlmenően legkésőbb a kiutazást megelőző hét nappal írásban tájékoztatni kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a küszöb tizenöt nap várható tartam, a határidő a kiutazás előtti hét nap. Az Mt. 47. § (1) bekezdése szerint a várhatóan tizenöt napot meghaladó külföldön történő munkavégzés esetén a munkavállalót – a 46. §-ban foglaltakon túlmenően – legkésőbb a külföldre való kiutazást megelőző hét nappal írásban tájékoztatni kell. A tárgykörök közé tartozik a hely és tartam, a juttatás, a helyben irányadó díjazás és költségtérítés, a pénznem, a nemzeti honlap és a hazatérés. A határidő nem a munkaviszony kezdete."
+        },
+        {
+          "text": "A kiegészítő tájékoztatás csak akkor kötelező, ha a külföldi munkavégzés várhatóan négy hónapot meghalad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a magyar küszöb tizenöt nap várható tartam. Az Mt. 47. § (1) bekezdése a várhatóan tizenöt napot meghaladó külföldi munkavégzéshez köti a kötelezettséget. Az irányelv négyhetes kivétele is szigorúbb magyar szabály alá esik. A tévedés a 295. § tizenkét hónapos kiterjesztési küszöbének ráírásából ered."
+        },
+        {
+          "text": "A kiegészítő tájékoztatás határideje a munkaviszony kezdetétől számított hét nap, a kiutazás időpontja irreleváns.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kiegészítő tájékoztatás határideje a külföldre való kiutazást megelőző hét nap, nem a munkaviszony kezdete. Az Mt. 47. § (1) bekezdése kifejezetten a kiutazást megelőző hét napot írja elő a 46. §-on túli tárgykörökre. A 46. § hétnapos határideje a munkaviszony kezdetéhez igazodik, és ettől elválik. A tévedés a 46. § és a 47. § határidő-számításának összecsúsztatásából ered."
+        },
+        {
+          "text": "A magyar 47. § a tizenöt napos várható tartamot használja a 2019/1152 irányelv négyhetes küszöbe helyett, ami korábban nyitja a kötelezettséget.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a magyar küszöb szigorúbb a munkavállaló javára. A 2019/1152 irányelv 7. cikk (4) bekezdése a négy egymást követő hét alatti időszakokat — tagállami eltéréssel — kiveszi; a magyar 47. § e küszöböt tizenöt napos várható tartamra szigorítja. Az (1) bekezdés c) és d) pontja szabályra hivatkozással is teljesíthető a (2) bekezdés szerint. A változásról a 46. § (5) bekezdése szerint kell tájékoztatni."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "4fe719c17914"
+    },
+    {
+      "question": "Mit jelent a jogviszony tartalom szerinti minősítése az Art. és a foglalkoztatás-felügyelet rendjében?",
+      "options": [
+        {
+          "text": "Az adóhatóság eljárásában a szerződést, ügyletet és más hasonló cselekményt valódi tartalma szerint minősíti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a valódisági klauzula a tartalmat teszi irányadóvá, nem az elnevezést. Az Art. 2. §-a szerint: „Az adóhatóság eljárásában a szerződést, ügyletet és más hasonló cselekményt valódi tartalma szerint minősíti.” Ha a 42. § (2) bekezdése szerinti alárendeltség, foglalkoztatás és díjazás fennáll, a színlelt vállalkozás munkaviszonnyá minősülhet az adózás rendjében. A klauzula nem az Mt. érvénytelenségi rendje: a 44. § formai hiányát a munkavállaló hivatkozása dönti el."
+        },
+        {
+          "text": "Ha a felek a szerződést megbízásnak nevezik, a tartalom szerinti munkaviszony minősítése kizárt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az elnevezés a közjogi minősítést nem köti. Az Art. 2. §-a a valódi tartalom szerinti minősítést írja elő; a 115/2021. (III. 10.) Korm. rendelet 3. § (1) bekezdés b) pontja szerint a felek egyező akarata sem vonhatja ki a szerződést a munkajog alól, ha a tartalom munkaszerződés. A tévedés a szerződéscím és a tartalmi minősítés összekeveréséből ered."
+        },
+        {
+          "text": "A foglalkoztatás-felügyelet a minősítés során a foglalkoztatottnak kell bizonyítania, hogy a szerződés a munkaviszony leplezésére irányul.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bizonyítási teher a foglalkoztatóé. A 115/2021. (III. 10.) Korm. rendelet 3. § (2) bekezdése szerint a foglalkoztatónak kell bizonyítania az ellenérték hiányát, valamint azt, hogy a szerződés nem a munkaviszony leplezésére irányul. A Fszftv. 7. § (4) bekezdés a) pontja a hatóságot a minősítésre jogosítja. A tévedés a bizonyítási teher megfordításából ered."
+        },
+        {
+          "text": "A felek egyező akarata sem vonhatja ki a szerződést a munkajog alól, ha a tartalom szerint munkaszerződésnek felel meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közös elnevezés nem mentesít a munkajog alól. A 115/2021. (III. 10.) Korm. rendelet 3. § (1) bekezdés b) pontja szerint a szerződést a felek egyező akarata sem vonhatja ki a munkajog szabályai alól, ha a jogviszonyt létrehozó szerződés tartalma szerint munkaszerződésnek felel meg. A Fszftv. 7. § (4) bekezdés a) pontja a felügyeletet a jogviszony és a tényleges kapcsolat minősítésére jogosítja. A bizonyítási teher a foglalkoztatóé az ellenérték hiányára és a leplezés hiányára."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "2bd20cc34b12"
+    },
+    {
+      "question": "Mikor minősül a munkáltatói sablon általános szerződési feltételnek a Ptk. szerint?",
+      "options": [
+        {
+          "text": "Az általános szerződési feltételt alkalmazó felet terheli annak bizonyítása, hogy a szerződési feltételt a felek egyedileg megtárgyalták.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a bizonyítási teher megfordul. A Ptk. 6:77. § (2) bekezdése szerint az általános szerződési feltételt alkalmazó felet terheli annak bizonyítása, hogy a szerződési feltételt a felek egyedileg megtárgyalták. Nem a munkavállalónak kell a meg nem tárgyaltságot, hanem a munkáltatónak a megtárgyalást bizonyítania. A tartalommá váláshoz a 6:78. § szerinti előzetes megismerhetőség és elfogadás is kell."
+        },
+        {
+          "text": "Általános szerződési feltétel az, amelyet az alkalmazója több szerződés megkötése céljából egyoldalúan, a másik fél közreműködése nélkül előre meghatározott, és amelyet a felek egyedileg nem tárgyaltak meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fogalom négy ismérvet köt össze: több szerződés célja, egyoldalú előzetes meghatározás, a másik fél közreműködésének hiánya, az egyedi megtárgyalás hiánya. A Ptk. 6:77. § (1) bekezdése e négyest mondja ki. A munkáltatói sablon e négyes nélkül is „munkaszerződés”, de a vitatott klauzula minősítése a 6:77. §-on dől el. A 45. § (1) bekezdése szerinti alapbér és munkakör egyedi megállapodás, nem általános feltétel."
+        },
+        {
+          "text": "Az alapbér és a munkakör is általános szerződési feltételnek minősül, ha a munkáltató sablonban tünteti fel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az alapbér és a munkakör egyedi megállapodás. A Ptk. 6:77. § (1) bekezdése az ÁSZF-et a több szerződésre szánt, egyedileg meg nem tárgyalt feltételhez köti; a 45. § (1) bekezdésének kötelező elemei nem meglepetésklauzulák. A Ptk. 6:80. § szerint az egyedileg megtárgyalt feltétel megelőzi az általánosat. A tévedés a kötelező tartalom és az ÁSZF fogalmának összekeveréséből ered."
+        },
+        {
+          "text": "A munkavállalónak kell bizonyítania, hogy a sablonfeltételt egyedileg nem tárgyalták meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bizonyítási teher a feltételt alkalmazóé. A Ptk. 6:77. § (2) bekezdése szerint az általános szerződési feltételt alkalmazó felet terheli a megtárgyalás bizonyítása. A munkáltatói sablonnál tehát a munkáltató köteles igazolni az egyedi megtárgyalást. A tévedés a bizonyítási teher megfordításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "179e5219a5c1"
+    },
+    {
+      "question": "Milyen feltételek mellett köti az előszerződés a feleket a későbbi munkaszerződésre?",
+      "options": [
+        {
+          "text": "A szerződés megkötésének megtagadása négy együttes feltételhez kötött: utólagos körülmény, lényeges jogi érdek sérelme, előreláthatóság hiánya, valamint az önhiba és a rendes üzleti kockázat hiánya.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a megtagadás konjunktív négyes. A Ptk. 6:73. § (3) bekezdése a)–d) pontja szerint a félnek bizonyítania kell az utólagos körülményt, a lényeges jogi érdek sérelmét, az előreláthatóság hiányát, valamint azt, hogy a változást nem ő idézte elő, és az nem tartozik rendes üzleti kockázata körébe. A munkáltatói átszervezés vagy létszámcsökkentés önmagában ritkán esik e négyes alá, ha a kockázat a foglalkoztató rendes üzleti körébe tartozik. A (2) bekezdés az előszerződésre a majdani szerződés szabályait rendeli."
+        },
+        {
+          "text": "A munkáltató a létszámcsökkentésre hivatkozva mindig megtagadhatja a munkaszerződés megkötését, ha előszerződés áll fenn.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a létszámcsökkentés önmagában ritkán meríti ki a megtagadási négyest. A Ptk. 6:73. § (3) bekezdése konjunktív feltételeket kíván, köztük azt, hogy a változás ne tartozzon a rendes üzleti kockázat körébe. A munkáltatói átszervezés vagy létszámcsökkentés e kockázati körbe tartozhat, ezért önmagában nem mentesít. A tévedés a gazdasági döntés és a törvényi megtagadási ok azonosításából ered."
+        },
+        {
+          "text": "Ha a felek megállapítják a későbbi szerződés lényeges feltételeit — tipikusan az alapbért és a munkakört —, a bíróság e feltételek szerint a szerződést bármelyik fél kérelmére létrehozhatja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az előszerződés a lényeges feltételek rögzítéséhez és a bírósági létrehozáshoz kötött. A Ptk. 6:73. § (1) bekezdése szerint, ha a felek abban állapodnak meg, hogy későbbi időpontban szerződést kötnek, és megállapítják e szerződés lényeges feltételeit, a bíróság e feltételek szerint a szerződést létrehozhatja. A munkajogban a lényeges feltételek tipikusan a 45. § (1) bekezdése szerinti alapbér és munkakör. Az alak a majdani szerződés alakja: a 44. § írásbelisége az előszerződésre is átszáll."
+        },
+        {
+          "text": "Az előszerződés szóbeli alakban is érvényes, mert a 44. § írásbelisége csak a végleges munkaszerződésre vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az előszerződést a szerződésre előírt alakban kell megkötni. A Ptk. 6:73. § (2) bekezdése szerint az előszerződést a szerződésre előírt alakban kell megkötni, és rá a majdani szerződés szabályai megfelelően irányadók; az Mt. 44. § írásbelisége ezért az előszerződésre is átszáll. A szóbeli előkészítés önmagában nem pótolja az alakot. A tévedés az előkészítő és a végleges alak szétválasztásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "d400dd83211e"
+    },
+    {
+      "question": "Mit zár el a kollektív szerződés az 50. § szerint a felek megállapodásához képest?",
+      "options": [
+        {
+          "text": "Kollektív szerződés a 46–47. §-ban foglaltaktól csak a munkavállaló javára térhet el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tájékoztatási szabályoktól csak kedvezőbb irányban van nyitás. Az Mt. 50. § (3) bekezdése szerint kollektív szerződés a 46–47. §-ban foglaltaktól csak a munkavállaló javára térhet el. Rövidebb tájékoztatási határidő vagy bővebb tartalom igen, a hétnapos főszabály fellazítása a munkavállaló hátrányára nem. A próbaidő egyedüli kollektív nyitása a (4) bekezdés szerinti hat hónap."
+        },
+        {
+          "text": "Kollektív szerződés a 45. § (1) bekezdésének alapbér–munkakör kötelezettségét a munkáltató javára feloldhatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az alapbér és a munkakör a kollektív szerződés elől is zárva van. Az Mt. 50. § (2) bekezdés c) pontja a 45. § (1)–(4) bekezdésétől a kollektív eltérést kizárja. A felek megállapodása az (1) bekezdés c) pontja szerint szintén nem térhet el a 45. § (1) bekezdésétől. A tévedés a diszpozitív vélelmek és a kötelező tartalom összekeveréséből ered."
+        },
+        {
+          "text": "Kollektív szerződés a 42–44. §-tól, a 44/A. §-tól és a 45. § (1)–(4) bekezdésétől nem térhet el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kollektív szerződés a kógens magot a vélelmekkel együtt zárja. Az Mt. 50. § (2) bekezdése szerint kollektív szerződés a 42–44. §-ban, a 44/A. §-ban és a 45. § (1)–(4) bekezdésében foglaltaktól nem térhet el. A határozott idő, a munkahely és a teljes napi munkaidő vélelme tehát kollektív szerződéssel sem billenthető a munkavállaló hátrányára. A felek megállapodása az (1) bekezdés szerint szűkebb kört zár: a 45. § (2)–(4) bekezdésének vélelmeit nem."
+        },
+        {
+          "text": "Kollektív szerződés a tájékoztatási határidőt a munkavállaló hátrányára is meghosszabbíthatja, ha a munkáltató adminisztratív terhét csökkenti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tájékoztatási szabályoktól csak a munkavállaló javára engedett az eltérés. Az Mt. 50. § (3) bekezdése szerint kollektív szerződés a 46–47. §-ban foglaltaktól csak a munkavállaló javára térhet el. A hétnapos főszabály fellazítása a munkavállaló hátrányára tilos. A tévedés a kollektív diszpozitivitás egyoldalú olvasatából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "c0cf338c7a05"
+    },
+    {
+      "question": "Hogyan értelmezendő a nem egyértelmű munkáltatói sablonfeltétel?",
+      "options": [
+        {
+          "text": "A fogyasztói értelmezési kedvezmény a munkaszerződés minden feltételére automatikusan kiterjed.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkaszerződés nem fogyasztói szerződés. A Ptk. 6:86. § (2) bekezdésének fogyasztói kiterjesztése a fogyasztó és vállalkozás közötti szerződésre szól; a munkajogi kedvezményirányt az Mt. 43. § (1) bekezdése adja. A tévedés a fogyasztói és a munkajogi kedvezményirány azonosításából ered."
+        },
+        {
+          "text": "A munkaszerződés nem fogyasztói szerződés, ezért a fogyasztói kiterjesztés nem automatikus; a munkajogi kedvezményirányt a 43. § (1) bekezdése adja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fogyasztói szabály a munkaszerződésre nem automatikus. A Ptk. 6:86. § (2) bekezdése a fogyasztó és vállalkozás közötti szerződésnél a szabályt bármely feltételre kiterjeszti, de a munkaszerződés nem fogyasztói szerződés. Az Mt. 43. § (1) bekezdése a munkavállaló javára való eltéréssel ugyanazt az irányt adja. A (3) bekezdés a közérdekű keresetet kiveszi e kedvezményes értelmezés alól."
+        },
+        {
+          "text": "A nem egyértelmű sablonfeltételt mindig a munkáltató javára kell értelmezni, mert ő a szerződés alkalmazója.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nem egyértelmű általános vagy meg nem tárgyalt feltétel a másik fél javára dől el. A Ptk. 6:86. § (2) bekezdése a feltétel alkalmazójával szerződő fél számára kedvezőbb értelmezést ír elő. A munkáltatói sablonnál ez a munkavállaló. A tévedés a contra proferentem szabály irányának megfordításából ered."
+        },
+        {
+          "text": "Ha az általános vagy az egyedileg meg nem tárgyalt feltétel tartalma a jognyilatkozat-értelmezés és a szerződés egészének szabálya után sem egyértelmű, a feltétel alkalmazójával szerződő fél számára kedvezőbb értelmezés az irányadó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a contra proferentem szabály a feltétel alkalmazójával szemben dől el. A Ptk. 6:86. § (2) bekezdése szerint, ha az általános szerződési feltétel vagy az egyedileg meg nem tárgyalt feltétel tartalma nem állapítható meg egyértelműen, a feltétel alkalmazójával szerződő fél számára kedvezőbb értelmezést kell elfogadni. A munkáltatói sablon homályos próbaidő- vagy versenytilalmi mondata ezért a munkavállaló javára olvasandó. Az (1) bekezdés a rész–egész viszony szerint a szerződés egészével összhangban értelmez."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "620016891409"
+    },
+    {
+      "question": "Mit jelent a teljességi záradék a munkaszerződésben?",
+      "options": [
+        {
+          "text": "Teljességi záradék mellett a korábbi jognyilatkozatok az értelmezésnél sem vehetők figyelembe.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az értelmezési kiskapu nyitva marad. A Ptk. 6:87. § (2) bekezdése szerint a felek korábbi jognyilatkozatai a szerződés értelmezésénél figyelembe vehetők. Az (1) bekezdés csak a be nem foglalt korábbi megállapodások kötelmi hatályát vágja el. A tévedés a hatályvesztés és az értelmezési forrás összekeveréséből ered."
+        },
+        {
+          "text": "A teljességi záradék pótolhatja az alapbér és a munkakör írásbeli rögzítésének hiányát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az alapbér és a munkakör a záradékkal sem pótolható hallgatással. Az Mt. 45. § (1) bekezdése szerint e két elemnek a munkaszerződésben meg kell állapodni; a Ptk. 6:87. § (1) bekezdése csak a be nem foglalt korábbi megállapodásokat vágja el. A tévedés a záradék hatálya és a kötelező tartalom viszonyának félreértéséből ered."
+        },
+        {
+          "text": "A felek korábbi jognyilatkozatai a szerződés értelmezésénél figyelembe vehetők, még teljességi záradék mellett is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a záradék a kötelmi hatályt elvágja, az értelmezési forrást nem. A Ptk. 6:87. § (2) bekezdése szerint a felek korábbi jognyilatkozatai a szerződés értelmezésénél figyelembe vehetők. A 6:86. § (1) bekezdése és a 6:87. § (2) bekezdése együtt azt jelenti, hogy a záradék a nyelvtani–rendszertani értelmezés forrását nem zárja el. Az alapbér és a munkakör a záradékkal sem pótolható hallgatással: azoknak az írásbeli szerződésben kell lenniük."
+        },
+        {
+          "text": "Ha az írásbeli szerződés azt rögzíti, hogy a felek valamennyi feltételét tartalmazza, az írásbeli szerződésbe nem foglalt korábbi megállapodások hatályukat vesztik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a záradék a kötelmi hatályt elvágja a be nem foglalt korábbi megállapodásoktól. A Ptk. 6:87. § (1) bekezdése szerint, ha az írásbeli szerződés olyan kikötést tartalmaz, amely szerint az a felek közötti megállapodás valamennyi feltételét tartalmazza, az írásbeli szerződésbe nem foglalt korábbi megállapodások hatályukat vesztik. A szóbeli bérígéret vagy az e-mailben közölt munkakör ezért elesik, ha a munkaszerződés teljességi záradékot visel. Az Mt. 44. § szerinti írásba foglalás e záradékot is a munkaszerződés alakjához köti."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "46a32c5622d9"
+    },
+    {
+      "question": "Mely esetben nem terheli a munkáltatót a 46. § szerinti írásbeli tájékoztatási kötelezettség?",
+      "options": [
+        {
+          "text": "Nem terheli a munkáltatót tájékoztatási kötelezettség – a munkáltatói jogkör gyakorlójáról és a 193. § szerinti foglalkoztatás kivételével –, ha a napi munkaidő a fél órát nem haladja meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a minimális napi munkaidő kiveszi a kötelezettséget, két kivétellel. Az Mt. 46. § (6) bekezdése szerint nem terheli a munkáltatót tájékoztatási kötelezettség – az (1) bekezdés a) pontját és a 193. § szerinti foglalkoztatást kivéve –, ha a napi munkaidő a fél órát nem haladja meg. A munkáltatói jogkör gyakorlójáról tehát e rövid jogviszonynál is tájékoztatni kell. Az 50. § (3) bekezdése a 46. §-tól csak a munkavállaló javára enged kollektív eltérést."
+        },
+        {
+          "text": "Fél órát meg nem haladó napi munkaidőnél a munkáltatói jogkör gyakorlójáról sem kell tájékoztatni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkáltatói jogkör gyakorlója kivétel a mentesülés alól. Az Mt. 46. § (6) bekezdése az (1) bekezdés a) pontját és a 193. § szerinti foglalkoztatást kifejezetten kiveszi a mentesülésből. A félórás küszöb tehát nem abszolút. A tévedés a mentesülés kivételeinek mellőzéséből ered."
+        },
+        {
+          "text": "Nem terheli a munkáltatót a változásról szóló tájékoztatási kötelezettség, ha a tájékoztatást a (3) bekezdés szerint — munkaviszonyra vonatkozó szabályra hivatkozással — adta meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hivatkozásos teljesítés a változási tájékoztatás alól mentesít. Az Mt. 46. § (5) bekezdésének második mondata szerint nem terheli a kötelezettség, ha a tájékoztatást a (3) bekezdés szerint adta meg. Az (EU) 2019/1152 irányelv 6. cikk (2) bekezdése ugyanezt a mentesítést adja a hivatkozott törvényi vagy kollektív szabály változására. A mentesítés a hivatkozott forrás változásának áthárítását jelenti."
+        },
+        {
+          "text": "Ha a munkaviszony hét nap eltelte előtt megszűnik, a tájékoztatási kötelezettség teljesen elenyészik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rövid jogviszony az esedékességet módosítja, nem szünteti meg a kötelezettséget. Az Mt. 46. § (4) bekezdése a 80. § (2) bekezdésében meghatározott időponthoz köti a teljesítést. A mentesülés a (6) bekezdés félórás küszöbéhez és a (2) bekezdés szerződéses átfedéséhez kötött. A tévedés a rövid jogviszony és a mentesülés azonosításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "003fd2f2e15a"
+    },
+    {
+      "question": "Miben áll a Magyarországra kiküldött munkavállaló fogadó állami kemény magja?",
+      "options": [
+        {
+          "text": "A tizenkét hónapos küszöb után a felváltó kiküldetés időtartama nem számít bele az összesítésbe.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felváltó kiküldetés időtartama összesít. Az Mt. 295. § (8) bekezdése szerint, ha a külföldi munkáltató a munkavállalót ugyanazon a munkahelyen végzett feladatot ellátó másik munkavállalóval helyettesíti, a kiküldetés időtartama a felváltó kiküldetésben érintett munkavállalók összesített kiküldetési időtartamával egyezik meg. A tévedés a személycsere és az időtartam-számítás szétválasztásából ered."
+        },
+        {
+          "text": "Ha a kiküldetés időtartama meghaladja a tizenkét hónapot, a munkaviszonyra az Mt. egésze megfelelően irányadó, a VII. és a X. fejezet, a 228. § és a kiegészítő foglalkoztatói nyugdíj kivételével.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tizenkét hónapos küszöb után a kiterjesztés szinte teljes. Az Mt. 295. § (5) bekezdése a tizenkét hónap meghaladása esetén az Mt. rendelkezéseit – a (7) bekezdés kivételével – megfelelően alkalmazni rendeli; a (6) bekezdés indokolt felügyeleti bejelentéssel további hat hónapot enged. A (8) bekezdés szerint a felváltó kiküldetés időtartama összesít. A (9) bekezdés a kedvezőbb egyébként irányadó jogot meghagyja."
+        },
+        {
+          "text": "A 295. § kemény magja a munkaszerződés megkötésének és megszüntetésének teljes alakiságát is magában foglalja már az első naptól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szerződéskötés és megszüntetés alakisága a kiterjesztett Mt. alól is ki van véve. Az Mt. 295. § (7) bekezdése a tizenkét hónapot meghaladó kiküldetésnél a VII. és a X. fejezetet, a 228. §-t és a kiegészítő foglalkoztatói nyugdíjat kiveszi; a 96/71/EK irányelv 3. cikk (1a) bekezdése ugyanezt a kört említi. A tévedés a kemény mag és a kiterjesztett teljes Mt. összekeveréséből ered."
+        },
+        {
+          "text": "A külföldi munkáltató magyarországi, szolgáltatásnyújtáson alapuló foglalkoztatásánál a 295. § a munkaidő és pihenőidő, a fizetett éves szabadság, a helyben irányadó díjazás, a kölcsönzés, a munkavédelem, a várandós–kisgyermekes–fiatal védelem, az egyenlő bánásmód, a szállás és az utazási–ellátási–szállás költségek tárgykörében a magyar jogot rendeli.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kemény mag a 96/71/EK irányelv 3. cikkének magyar leképezése. Az Mt. 295. § (1) bekezdése a)–i) pontban sorolja fel ezeket a tárgyköröket, ha a 3. § (2) bekezdése alapján az Mt. egyébként nem irányadó. A díjazás fogalmán a 136–153. §-ban meghatározott díjazást kell érteni a (3) bekezdés szerint, a kiegészítő foglalkoztatói nyugdíj és a nem adóalapot képező juttatás nélkül. A (2) bekezdés a cégcsoport magyar telephelyét is e rend alá vonja."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "5b3589f1c564"
+    },
+    {
+      "question": "Mi a jogosult tájékoztatási és kezességi kötelezettsége a külföldi munkáltatóval szemben?",
+      "options": [
+        {
+          "text": "A tájékoztatás elmulasztása esetén a jogosult csak kártérítési felelősséggel tartozik, kezesség nincs.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mulasztás készfizető kezességet nyit. Az Mt. 297. § (1) bekezdése szerint a tájékoztatás elmulasztása esetén a jogosult készfizető kezesként felel a munkavállaló 295. §-ban meghatározott követeléseiért. A kártérítés nem helyettesíti e speciális kezességet. A tévedés a polgári kártérítés és a készfizető kezesség összekeveréséből ered."
+        },
+        {
+          "text": "A szolgáltatás nyújtására irányuló szerződés megkötését megelőzően a jogosult köteles írásban tájékoztatni a külföldi munkáltatót a 295. §-ban foglaltak alapján irányadó munkafeltételekről; mulasztás esetén készfizető kezesként felel a munkavállaló 295. § szerinti követeléseiért.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az előzetes tájékoztatás elmaradása készfizető kezességet nyit. Az Mt. 297. § (1) bekezdése a jogosult előzetes írásbeli tájékoztatását és a mulasztás készfizető kezességét köti a 295. §-hoz. Kölcsönzésnél a kölcsönvevő tájékoztatja a kölcsönbeadót a munkafeltételekről és a díjazásról. A (3) bekezdés a munkaszerződést vagy egyenértékű okiratot, a munkaidő-nyilvántartást és a bérkifizetési iratokat a kiküldetés alatt a helyszínen, utána három évig a székhelyen vagy telephelyen tartja."
+        },
+        {
+          "text": "Ha a jogosult tudott vagy kellő gondosság mellett tudnia kellett a munkabér- és járulékmulasztásról, a külföldi munkáltatóval egyetemlegesen felel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tudomás vagy a gondosság hiánya egyetemlegességet nyit. Az Mt. 297. § (2) bekezdése szerint, ha a jogosult tudott vagy kellő gondosság mellett tudnia kellett arról, hogy a külföldi munkáltató munkabér- és járulékfizetési kötelezettségének nem tett eleget, egyetemlegesen felel. A (4)–(6) bekezdés a felügyelettel való kapcsolattartásért felelős személyt és a szociális partnerek kollektív tárgyalásához kijelölt kapcsolattartót választja el. A készfizető kezesség az (1) bekezdés mulasztásához, az egyetemlegesség a (2) bekezdéshez kötött."
+        },
+        {
+          "text": "Az egyetemleges felelősség csak akkor áll fenn, ha a jogosult kifejezett írásbeli elismerést adott a mulasztásról.",
+          "isCorrect": false,
+          "rationale": "HAMIS, elegendő a tudomás vagy a kellő gondosság melletti tudhatóság. Az Mt. 297. § (2) bekezdése a tudott vagy kellő gondosság mellett tudható munkabér- és járulékmulasztáshoz köti az egyetemlegességet. Írásbeli elismerés nem feltétele. A tévedés a gondossági mérce és a kifejezett elismerés összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "cc20031bf764"
+    },
+    {
+      "question": "Mikor válik a munkáltató általános szerződési feltétele a munkaszerződés részévé?",
+      "options": [
+        {
+          "text": "Ha az általános szerződési feltétel és a szerződés más, egyedileg megtárgyalt feltétele eltér, az utóbbi válik a szerződés részévé.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az egyedi feltétel megelőzi az általánosat. A Ptk. 6:80. § szerint, ha az általános szerződési feltétel és a szerződés más feltétele egymástól eltér, az utóbbi válik a szerződés részévé. A 45. § (1) bekezdése szerinti alapbér és munkakör, valamint a határozott időre vagy a munkahelyre vonatkozó eltérő megállapodás ezért mindig kiszorítja a sablon ellenkező sorát. Az Mt. 50. § (1) bekezdése a 42–44. §-tól és a 45. § (1) bekezdésétől a felek eltérését mindkét szerződéses rétegben kizárja."
+        },
+        {
+          "text": "Az általános szerződési feltétel akkor válik a szerződés részévé, ha alkalmazója lehetővé tette a tartalom előzetes megismerését, és a másik fél azt elfogadta.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tartalommá válás két lépcsője a megismerhetőség és az elfogadás. A Ptk. 6:78. § (1) bekezdése szerint az általános szerződési feltétel akkor válik a szerződés részévé, ha alkalmazója lehetővé tette, hogy a másik fél annak tartalmát a szerződéskötést megelőzően megismerje, és ha azt a másik fél elfogadta. A (2) bekezdés a jogszabálytól vagy a szokásos gyakorlattól lényegesen eltérő, illetve a felek korábbi feltételétől eltérő klauzulát külön tájékoztatáshoz köti. A (3) bekezdés e meglepetésklauzulát csak a külön tájékoztatás utáni kifejezett elfogadáshoz köti."
+        },
+        {
+          "text": "A sablon aláírása önmagában elegendő a meglepetésklauzula tartalommá válásához, külön tájékoztatás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a meglepetésklauzula kifejezett elfogadást kíván. A Ptk. 6:78. § (3) bekezdése szerint a (2) bekezdés szerinti feltétel csak a külön tájékoztatást követő kifejezett elfogadással válik a szerződés részévé; a hallgatás vagy a sablon aláírása önmagában nem elég. A tévedés a sablonaláírás és a kifejezett elfogadás azonosításából ered."
+        },
+        {
+          "text": "Az általános szerződési feltétel mindig megelőzi az egyedileg megtárgyalt kikötést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az egyedileg megtárgyalt feltétel az erősebb. A Ptk. 6:80. § szerint, ha az általános szerződési feltétel és a szerződés más feltétele eltér, az utóbbi válik a szerződés részévé. A munkaszerződésbe kézzel vagy külön pontban beírt kikötés tehát kiszorítja a sablont. A tévedés a hierarchia megfordításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "26db56873cfa"
+    },
+    {
+      "question": "Mi a hatálya a harmadik személy beleegyezésétől vagy hatósági jóváhagyástól függő munkaszerződésnek?",
+      "options": [
+        {
+          "text": "A 44. § harminc napos hivatkozási ablaka a függőség idejétől fut, a munkába lépés előtt is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a harminc napos ablak a hatály beállta utáni munkába lépéstől fut, nem a függőség idejétől. Az Mt. 44. § a munkába lépést követő harminc napot adja. A Ptk. 6:118. § a hatályt a megkötésre visszamenőleg állítja be, de a formai hivatkozás a tényleges munkába lépéshez igazodik. A tévedés a függőség és a munkába lépés összecsúsztatásából ered."
+        },
+        {
+          "text": "A beleegyezéssel vagy a jóváhagyással a szerződés a megkötés időpontjára visszamenőleg válik hatályossá.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hatály visszaható a megkötésre. A Ptk. 6:118. § (1) bekezdése szerint, ha a szerződés hatályosságához jogszabály harmadik személy beleegyezését vagy hatóság jóváhagyását teszi szükségessé, a beleegyezéssel vagy a jóváhagyással a szerződés megkötésének időpontjára visszamenőleg válik hatályossá. A munkaviszony kezdete a 48. § szerint ettől elválhat: a hatály a megkötésre megy vissza, a kezdőnap a teljesítés első napját jelöli. A (2) bekezdés a függőben lévő feltétel rendjét hívja a nyilatkozat megtételéig."
+        },
+        {
+          "text": "A hatály be nem állása esetén a felek a teljesítést ugyanúgy követelhetik, mint hatályos szerződésnél.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a teljesítés nem követelhető. A Ptk. 6:119. § (1) bekezdése szerint, ha a szerződés hatálya nem állt be vagy hatályát vesztette, a szerződés teljesítése nem követelhető. A 6:118. § (3) bekezdése a hatály be nem állását a megtagadáshoz vagy a megfelelő határidőn belüli hallgatáshoz köti. A tévedés a függő hatály és a teljes hatály azonosításából ered."
+        },
+        {
+          "text": "Ha a hatály nem állt be, a szerződés teljesítése nem követelhető, és a már teljesített szolgáltatásokra az érvénytelen szerződés jogkövetkezményei irányadók.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hatály hiánya a teljesítési igényt elzárja. A Ptk. 6:119. § (1) bekezdése szerint, ha a szerződés hatálya nem állt be vagy hatályát vesztette — ideértve a beleegyezés vagy jóváhagyás hiányát és megtagadását —, a teljesítés nem követelhető. A (2) bekezdés a már teljesített szolgáltatásokra az érvénytelen szerződés jogkövetkezményeit rendeli. A 44. § szerinti formai érvénytelenségi hivatkozás ettől különbözik: ott a szerződés létrejött, csak a formai hiány a munkavállaló egyoldalú, határidős joga."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "f4f7378a7670"
+    },
+    {
+      "question": "Miben tér el a magyar 46. § tájékoztatási határideje a 2019/1152 irányelv 5. cikkétől?",
+      "options": [
+        {
+          "text": "Az irányelv a lényeges információkat az első munkanaptól a hetedik naptári napig, a többi információt egy hónapon belül kéri; a magyar 46. § a teljes listát hét nap alá vonja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a magyar szabály a teljes listát a szigorúbb, hétnapos határidő alá vonja. A 2019/1152 irányelv 5. cikk (1) bekezdése kettéválasztja a 4. cikk (2) bekezdésének megjelölt pontjait — ezeket a hetedik naptári napig — és a többi információt, amelyre egy hónap jár. Az Mt. 46. § (1) bekezdése e kettősséget nem viszi át: a teljes lista hét nap alatt esedékes. Az egyhónapos uniós „egyéb” sáv így a magyar átültetésben nem jelenik meg külön."
+        },
+        {
+          "text": "Az irányelv 6. cikke szerinti mentesítés azt jelenti, hogy a tartalom változatlansága önmagában elegendő a tájékoztatás elmaradásához.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mentesítés a hivatkozott forrás változásának áthárítását jelenti, nem a tartalom változatlanságát. A 2019/1152 irányelv 6. cikk (2) bekezdése akkor mentesít, ha a módosítás csupán a hivatkozott törvényi, rendeleti vagy kollektív szabályt tükrözi; az Mt. 46. § (5) bekezdése ugyanezt mondja a (3) bekezdés szerinti teljesítésre. A munkavállalónak a hivatkozott szabályt kell tudnia követni. A tévedés a tartalmi változatlanág és a forráshivatkozás összekeveréséből ered."
+        },
+        {
+          "text": "A magyar 46. § az irányelv szerinti egyhónapos határidőt alkalmazza a teljes listára.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a magyar főszabály hét nap a teljes listára. Az Mt. 46. § (1) bekezdése a munkaviszony kezdetétől számított hét napot ír elő; az irányelv 5. cikk (1) bekezdésének egyhónapos ága a „többi” információra szól. A tévedés az irányelvi kettős határidő és a magyar egységes hétnapos szabály összekeveréséből ered."
+        },
+        {
+          "text": "Az irányelv 5. cikk (1) bekezdése a határidőt az első munkanaptól számítja, és a 4. cikk (2) bekezdésének megjelölt pontjait a hetedik naptári napig kéri; a magyar 46. § (1) bekezdése a munkaviszony kezdetétől számított hét napot köti a teljes a)–l) listára.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a magyar egységes hétnapos rend a kezdethez igazodik. Az (EU) 2019/1152 irányelv 5. cikk (1) bekezdése kettéválasztja a lényeges és az egyéb információkat, és az első munkanaptól számol. Az Mt. 46. § (1) bekezdése e kettősséget nem viszi át: az a)–l) pont teljes listája a munkaviszony kezdetétől számított hét nap alatt esedékes. A „többi” információ tekintetében ez a munkavállalóra nézve kedvezőbb."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "1dc5ffaeb213"
+    },
+    {
+      "question": "Miben tér el a 47. § szerinti külföldi munkavégzési tájékoztatás a 295. § szerinti kiküldöttvédelmi rendtől?",
+      "options": [
+        {
+          "text": "A 47. § és a 295. § ugyanarra a tényállásra vonatkozik: a magyar munkáltató külföldi kiküldetésére.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két szakasz ellentétes irányt fed. Az Mt. 47. § a saját munkavállaló külföldi munkavégzésének tájékoztatása; a 295. § a Magyarországra kiküldötté. A 96/71/EK irányelv 2. cikk (1) bekezdése a kiküldetésben lévő munkavállalót a szokásos munkavégzési tagállamon kívüli, korlátozott idejű munkavégzéshez köti — ez a 295. § irányát minősíti. A tévedés a ki- és befelé irányuló kiküldetés összekeveréséből ered."
+        },
+        {
+          "text": "A 47. § a saját munkavállaló külföldi munkavégzésének tájékoztatása; a 295. § a Magyarországra kiküldött munkavállaló fogadó állami kemény magja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két szakasz ellentétes irányú foglalkoztatást rendez. Az Mt. 47. § a várhatóan tizenöt napot meghaladó külföldi munkavégzéshez a kiutazás előtti kiegészítő tájékoztatást kapcsolja. Az Mt. 295. § a külföldi munkáltató magyarországi, szolgáltatásnyújtáson alapuló foglalkoztatásánál a 96/71/EK irányelv kemény magját rendeli. A 47. § a kiutazó saját munkavállaló tájékoztatása; a 295. § a befelé irányuló kiküldött védelme."
+        },
+        {
+          "text": "A 47. § a 2019/1152 irányelv 7. cikkének magyar leképezése; a 295. § a 96/71/EK irányelv 3. cikkének fogadó állami kemény magja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két szakasz más uniós aktushoz igazodik. Az Mt. 47. § a 2019/1152 irányelv 7. cikkének magyar leképezése a kiutazás előtti kiegészítő listával. Az Mt. 295. § a 96/71/EK irányelv 3. cikkének fogadó állami kemény magját ülteti át. A 96/71/EK irányelv 2. cikk (1) bekezdése a szokásos munkavégzési tagállamon kívüli, korlátozott idejű munkavégzést a kiküldetés fogalmához köti."
+        },
+        {
+          "text": "A 295. § a magyar munkáltató saját munkavállalójának külföldi tájékoztatási listáját is felváltja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 295. § a fogadó állami kemény magot adja a külföldi munkáltató magyarországi foglalkoztatásánál. Az Mt. 47. § marad a saját munkavállaló külföldi munkavégzésének kiegészítő tájékoztatása. A két rend párhuzamos, nem helyettesíti egymást. A tévedés a fogadó kemény mag és a kiutazó tájékoztatás azonosításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "f4b15675e8a7"
+    },
+    {
+      "question": "Mi a következménye annak, ha két általános szerződési feltételes ajánlat a szerződés lényeges kérdésében eltér?",
+      "options": [
+        {
+          "text": "Ha a feltételek nem lényeges kérdésben eltérnek, a szerződés létrejön, és az egymással ellent nem mondó általános szerződési feltételek válnak a szerződés részévé.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nem lényeges eltérés nem akadályozza a létrejöttet. A Ptk. 6:81. § (2) bekezdése szerint, ha az általános szerződési feltételek nem lényeges kérdésben eltérnek egymástól, a szerződés létrejön, és az egymással ellent nem mondó feltételek válnak a szerződés részévé. Az (1) bekezdés a nem ellentétes kölcsönös sablonok együttes érvényesülését mondja ki. A 6:73. § szerinti előszerződés lényeges feltételeinek ugyanezt a magot kell viselniük."
+        },
+        {
+          "text": "Az alapbérben és a munkakörben való sablonütközés nem lényeges kérdés, ezért a szerződés mindig létrejön.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az alapbér és a munkakör a lényeges kérdés alsó határa. A Ptk. 6:81. § (3) bekezdése a lényeges eltérésnél a létrejöttet tagadja; a 45. § (1) bekezdése e két elemet kötelező tartalommá teszi. Ezek ütközése tehát a létrejöttet tagadja. A tévedés a kötelező tartalom és a nem lényeges eltérés összekeveréséből ered."
+        },
+        {
+          "text": "Lényeges kérdésben való eltérésnél a bíróság automatikusan a munkáltató sablonját választja ki.",
+          "isCorrect": false,
+          "rationale": "HAMIS, lényeges eltérésnél a szerződés nem jön létre. A Ptk. 6:81. § (3) bekezdése a létrejött tagadásához köti a lényeges kérdésben való eltérést; nincs automatikus sablonválasztás. A munkajogban az alapbér és a munkakör ütközése e körbe esik. A tévedés a létrejött tagadása és a sablonpreferencia összekeveréséből ered."
+        },
+        {
+          "text": "Ha az általános szerződési feltételek között a szerződés lényeges kérdésében van eltérés, a szerződés nem jön létre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a lényeges kérdésben való ütközés a létrejöttet tagadja. A Ptk. 6:81. § (3) bekezdése szerint, ha az általános szerződési feltételek között a szerződés lényeges kérdésében van eltérés, a szerződés nem jön létre. A munkajogban a lényeges kérdés alsó határa a 45. § (1) bekezdése szerinti alapbér és munkakör; a 42. § (2) bekezdése szerinti irányítási és foglalkoztatási oldal is ide tartozik, ha a sablonok az alárendeltséget tagadják. A (2) bekezdés a nem lényeges eltérést gyógyítja."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "0e03a333cbc0"
+    },
+    {
+      "question": "Hogyan állapítja meg a foglalkoztatás-felügyelet a foglalkoztató személyét, ha a tényleges foglalkoztató azonosíthatatlan?",
+      "options": [
+        {
+          "text": "A felügyelet tárgya a foglalkoztatásra irányuló jogviszonyt szabályozó jogszabályok minimumkövetelményeinek foglalkoztató általi megtartása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hatáskör a minimumkövetelmények ellenőrzése. A Fszftv. 7. § (1) bekezdése szerint a foglalkoztatásra irányuló jogviszonyt szabályozó jogszabályok minimumkövetelményeinek foglalkoztató általi megtartását a foglalkoztatás-felügyeleti hatóság ellenőrzi. A (2)–(3) bekezdés az általános és a különös hatáskörű felügyeleti szervet a Kormány rendeletéhez, illetve a honvédelem, rendvédelem, nemzetbiztonság, büntetés-végrehajtási munkáltatás és bányafelügyelet különös rendjéhez utalja. A (4) bekezdés a) pontja az Art. 2. §-ának felügyeleti párja."
+        },
+        {
+          "text": "Ellenkező bizonyításig a foglalkoztató — sorrendben — az, aki a szerződés szerint a tevékenység összehangolásáért felelős, aki a tevékenységet a munkahelyen ténylegesen irányítja, illetve akinek a területén a munkavégzés folyik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a törvényi vélelem háromlépcsős sorrendet ad. A Fszftv. 7. § (4) bekezdés b) pontja szerint a tényleges foglalkoztató azonosíthatatlansága esetén – ellenkező bizonyításig – a foglalkoztató személyének vélelem alapján történő megállapítására jogosult a hatóság, ba)–bc) pont szerinti sorrendben. A (4) bekezdés a) pontja a jogviszony és a tényleges kapcsolat minősítésére ad felhatalmazást. A c) pont alapján a hatóság a jogviszony meghatározott felek közötti fennállását is megállapíthatja."
+        },
+        {
+          "text": "A felügyelet csak a felek által megjelölt szerződéses címet veheti alapul a minősítésnél.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatóság a jogviszony és a tényleges foglalkoztatás alapján létrejött kapcsolat minősítésére jogosult. A Fszftv. 7. § (4) bekezdés a) pontja ezt a minősítési jogot adja; a 115/2021. (III. 10.) Korm. rendelet 3. § (1) bekezdése a tartalom szerinti mércét mondja ki. A tévedés a szerződéscím és a tartalmi minősítés összekeveréséből ered."
+        },
+        {
+          "text": "Azonosíthatatlanság esetén a foglalkoztató mindig a terület tulajdonosa, a szerződéses összehangoló és az irányító figyelmen kívül hagyásával.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a sorrend fordított: előbb az összehangoló, majd az irányító, végül a terület tulajdonosa. A Fszftv. 7. § (4) bekezdés b) pont ba)–bc) alpontja e sorrendet állítja. A terület tulajdonosa csak a harmadik lépcső. A tévedés a vélelmi sorrend megfordításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "40c0496d63a7"
+    },
+    {
+      "question": "Mi következik abból, ha a felek a munkaviszonyból származó jogaikról a munkaszerződésen kívül állapodnak meg?",
+      "options": [
+        {
+          "text": "A munkaszerződésen kívüli megállapodást minden esetben írásba kell foglalni, külön jogszabályi előírás nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az írásba foglalás csak akkor kötelező, ha munkaviszonyra vonatkozó szabály azt előírja. Az Mt. 43. § (4) bekezdése ezt a feltételt mondja ki. A 44. § a munkaszerződés általános írásbeliségét adja, nem minden járulékos megállapodásét. A tévedés a munkaszerződés alakja és a járulékos megállapodás alakja összecsúsztatásából ered."
+        },
+        {
+          "text": "A felek munkaviszonyból származó jogaival és kötelezettségeivel kapcsolatos megállapodására a munkaszerződésre vonatkozó szabályokat kell alkalmazni, a (4) bekezdésben foglalt eltéréssel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a külön megállapodás nem „külön polgári szerződés”, hanem munkajogi megállapodás. Az Mt. 43. § (3) bekezdése szerint a felek munkaviszonyból származó jogaival és kötelezettségeivel kapcsolatos megállapodására a munkaszerződésre vonatkozó szabályokat a (4) bekezdésben foglalt eltéréssel kell alkalmazni. A próbaidő, a versenytilalom, a tanulmányi szerződés és a tájékoztatást kiegészítő megállapodás e rend szerint dől el. A (4) bekezdés az írásba foglalást akkor kívánja, ha munkaviszonyra vonatkozó szabály azt előírja."
+        },
+        {
+          "text": "A (3) bekezdés szerinti megállapodást munkaviszonyra vonatkozó szabály rendelkezése esetén kell írásba foglalni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az írásba foglalás nem minden megállapodásra automatikus, hanem szabályhoz kötött. Az Mt. 43. § (4) bekezdése szerint a (3) bekezdés szerinti megállapodást munkaviszonyra vonatkozó szabály rendelkezése esetén kell írásba foglalni. A 44. § általános írásbelisége a munkaszerződésre szól; a külön megállapodás írásbelisége a (4) bekezdésen fut. A 23. § a munkáltatóra telepíti a megállapodás írásba foglalásának gondoskodását."
+        },
+        {
+          "text": "A versenytilalmi és a tanulmányi szerződés mindig tisztán polgári jogi szerződés, az Mt. 43. § (3) bekezdése nem vonatkozik rájuk.",
+          "isCorrect": false,
+          "rationale": "HAMIS, e megállapodások a 43. § (3) bekezdése szerinti munkajogi megállapodások. Az Mt. 43. § (3) bekezdése a munkaviszonyból származó jogokra és kötelezettségekre vonatkozó megállapodást a munkaszerződés szabályai alá vonja. A próbaidő, a versenytilalom és a tanulmányi szerződés e rend szerint dől el. A tévedés a polgári cím és a munkajogi minősítés összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "f29ed6df560b"
+    },
+    {
+      "question": "Milyen tartamban állapítja meg a 2019/1152 irányelv a próbaidő uniós maximumát, és hogyan viszonyul ehhez a magyar szabályozás?",
+      "options": [
+        {
+          "text": "Az irányelv 8. cikke szerint a próbaidő időtartama ne haladhassa meg a hat hónapot, ha a nemzeti jog vagy gyakorlat próbaidő kikötését tartalmazza.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az uniós plafon hat hónap. A 2019/1152 irányelv 8. cikk (1) bekezdése szerint: a próbaidő időtartama ne haladhassa meg a hat hónapot. Az Mt. 45. § (5) bekezdése a felek megállapodását három hónapban, az 50. § (4) bekezdése a kollektív szerződést hat hónapban zárja. Az uniós plafon a kollektív nyitással esik egybe, a felek három hónapos plafonját nem emeli."
+        },
+        {
+          "text": "Az uniós hat hónapos maximum a felek megállapodását is közvetlenül hat hónapra emeli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felek plafonja három hónap marad. Az Mt. 45. § (5) bekezdése a felek megállapodását három hónapban zárja; a 2019/1152 irányelv 8. cikke az uniós maximumot adja, de a magyar felek megállapodása szigorúbb. A hat hónapos nyitás az 50. § (4) bekezdése szerint a kollektív szerződéshez kötött. A tévedés az uniós plafon és a felek megállapodásának összecsúsztatásából ered."
+        },
+        {
+          "text": "A magyar szabályozás a próbaidőt minden esetben hat hónapban kötelezővé teszi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a próbaidő nem kötelező, és a felek plafonja három hónap. Az Mt. 45. § (5) bekezdése kikötéshez köti a próbaidőt; hallgatás esetén nincs próbaidő. Az 50. § (4) bekezdése a hat hónapot csak kollektív szerződésnél engedi. A tévedés a kötelező kikötés és a plafon összekeveréséből ered."
+        },
+        {
+          "text": "A 43. § (1) bekezdése a három hónapnál rövidebb próbaidőt a munkavállaló javára engedi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rövidebb próbaidő a munkavállaló javára való eltérés. Az Mt. 43. § (1) bekezdése a Második Részben foglaltaktól a munkavállaló javára enged eltérést; a három hónapnál rövidebb kikötés e körbe esik. A meghosszabbítás egyszerisége és a három hónapos összegzett plafon a 45. § (5) bekezdésének második–harmadik mondatában áll. A hat hónapos uniós tető a kollektív szerződés 50. § (4) bekezdése szerinti nyitását határolja."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "2d91f428e618"
+    },
+    {
+      "question": "Mi a munkaviszony kezdetének és a szerződéskötés közötti időszak dogmatikai tartalma?",
+      "options": [
+        {
+          "text": "A (2) bekezdés szerint e tartam alatt bármelyik fél elállhat, ha a megkötést követően körülményeiben olyan lényeges változás következett be, amely a munkaviszony teljesítését lehetetlenné tenné vagy aránytalan sérelemmel járna.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a köztes elállás lényeges változáshoz kötött. Az Mt. 49. § (2) bekezdése a megkötést követő lényeges változáshoz köti az elállást, ha a teljesítés lehetetlenné válna vagy aránytalan sérelemmel járna. Ez a Ptk. 6:73. § (3) bekezdése szerinti előszerződési megtagadástól elválik: ott négy konjunktív feltétel kell, itt a 49. § (2) bekezdése a munkaviszony köztes szakaszára szabott. A függő beleegyezés alatt a 49. § magatartási tilalma is él."
+        },
+        {
+          "text": "A munkaviszony a szerződéskötés napján minden esetben megkezdődik, a felek későbbi kezdőnapot nem köthetnek ki.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felek későbbi kezdőnapban megállapodhatnak. Az Mt. 48. § a munkaviszony kezdetének napját rendezi; ha a felek későbbi kezdőnapban állapodnak meg, a 44. § formai hivatkozási ablaka a tényleges munkába lépéssel nyílik. A szerződéskötés és a kezdőnap tehát elválhat, és a 49. § a köztes időszakra szab magatartási tilalmat és elállást. A tévedés a kötelmi létrejött és a teljesítés kezdete összecsúsztatásából ered."
+        },
+        {
+          "text": "A 49. § (1) bekezdése a szerződéskötés és a kezdőnap közötti időszakban tiltja a munkaviszony létrejöttét meghiúsító magatartást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a köztes időszakban a feleket lojalitási tilalom köti. Az Mt. 49. § (1) bekezdése a szerződéskötés és a kezdőnap közötti időszakban tiltja a munkaviszony létrejöttét meghiúsító magatartást. A 48. § a munkaviszony kezdetének napját rendezi; az írásba foglalás nem a kezdet feltétele. A 44. § harminc napos hivatkozási ablaka a tényleges munkába lépéssel nyílik."
+        },
+        {
+          "text": "A szerződéskötés és a kezdőnap között a felek szabadon, indokolás nélkül elállhatnak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az elállás lényeges változáshoz kötött, nem indokolás nélküli. Az Mt. 49. § (2) bekezdése szerint bármelyik fél elállhat, ha a megkötést követően körülményeiben olyan lényeges változás következett be, amely a munkaviszony teljesítését lehetetlenné tenné vagy aránytalan sérelemmel járna. Az (1) bekezdés emellett tiltja a munkaviszony létrejöttét meghiúsító magatartást a szerződéskötés és a kezdőnap között. A tévedés a köztes elállás és a szabad visszavonás összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "e8880d4c8bf7"
+    },
+    {
+      "question": "Mi a kiküldetésben lévő munkavállaló fogalma a 96/71/EK irányelv szerint?",
+      "options": [
+        {
+          "text": "A kiküldetésben lévő munkavállaló fogalmát mindig a küldő tagállam joga határozza meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkavállaló fogalmát a fogadó tagállam joga adja. A 96/71/EK irányelv 2. cikk (2) bekezdése szerint munkavállaló az, aki annak a tagállamnak a jogszabályai szerint, amelynek a területén kiküldetésben tartózkodik, munkavállalónak minősül. A tévedés a küldő és a fogadó jog hatályának megfordításából ered."
+        },
+        {
+          "text": "A korlátozott idő ismérve a 295. § szerint irreleváns, mert a kemény mag határozatlan kiküldetésre is kiterjed.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a korlátozott idő a fogalom része, és a 295. § tizenkét plusz hat hónapos kiterjesztése és a felváltó összesítés e mércéhez igazodik. A 96/71/EK irányelv 2. cikk (1) bekezdése a korlátozott idejű munkavégzést kívánja; az Mt. 295. § (5)–(8) bekezdése a tartamküszöböket adja. A tévedés a korlátozott idő ismérvének mellőzéséből ered."
+        },
+        {
+          "text": "Kiküldetésben lévő munkavállaló az, aki munkáját korlátozott ideig a szokásos munkavégzése szerinti tagállamon kívüli tagállam területén végzi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fogalom két ismérvet köt: korlátozott idő és a szokásos munkavégzési tagállamon kívüli terület. A 96/71/EK irányelv 2. cikk (1) bekezdése szerint: „kiküldetésben lévő munkavállaló” az a munkavállaló, aki munkáját korlátozott ideig egy, a szokásos munkavégzése szerinti tagállamon kívüli tagállam területén végzi. A 295. § nem ismétli e definíciót, hanem a 3. § (2) bekezdése szerinti hatályhiányhoz és a szolgáltatásnyújtási megállapodáshoz köti a magyar kemény magot. A korlátozott idő a 295. § (5)–(8) bekezdése szerinti tizenkét plusz hat hónap és a felváltó összesítés mércéje."
+        },
+        {
+          "text": "Az irányelv alkalmazásában munkavállaló az, aki annak a tagállamnak a jogszabályai szerint, amelynek a területén kiküldetésben tartózkodik, munkavállalónak minősül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkavállaló fogalmát a fogadó tagállam joga adja. A 96/71/EK irányelv 2. cikk (2) bekezdése szerint munkavállaló az, aki a fogadó tagállam jogszabályai szerint munkavállalónak minősül. Az 1. cikk a három transznacionális tényállást — szerződéses kiküldés saját irányítás alatt, cégcsoportos kihelyezés, munkaerő-kölcsönzés — és a továbbkiküldést rendezi. A 295. § (1)–(2) bekezdése az (1) és (3) bekezdés magyar leképezése."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "e0fdcb7cfbdc"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható a 46. § (3) bekezdése szerinti szabályra hivatkozás a tájékoztatás teljesítéseként?",
+      "options": [
+        {
+          "text": "A (3) bekezdés szerinti hivatkozás a 47. § teljes kiegészítő listájára is kiterjed.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 47. §-nál a hivatkozás csak a c) és d) pontra engedett. Az Mt. 47. § (2) bekezdése szerint az (1) bekezdés c) és d) pontjában előírt tájékoztatás munkaviszonyra vonatkozó szabály rendelkezésére történő hivatkozással is megadható. A hely, tartam, juttatás, nemzeti honlap és hazatérés közvetlen tájékoztatást kíván. A tévedés a 46. § (3) bekezdése és a 47. § (2) bekezdése körének összekeveréséből ered."
+        },
+        {
+          "text": "A munkáltatói jogkör gyakorlójáról és a kollektív szerződés hatályáról is elegendő a jogszabályra hivatkozás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hivatkozásos teljesítés csak az e)–i) pontokra engedett. Az Mt. 46. § (3) bekezdése az (1) bekezdés e)–i) pontját emeli ki; az a) pont szerinti munkáltatói jogkör gyakorlója és az l) pont szerinti kollektív szerződés hatálya e körön kívül esik. A tévedés a hivatkozásos teljesítés körének kiterjesztéséből ered."
+        },
+        {
+          "text": "Az (1) bekezdés a)–d) és j)–l) pontjában előírt tájékoztatásra a (3) bekezdés szerinti szabályra hivatkozás nem alkalmazható; e körök közvetlen tájékoztatást kívánnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés nem nyitja fel az a)–d) és j)–l) pontokat. Az Mt. 46. § (3) bekezdése csak az e)–i) pontot engedi szabályra hivatkozással. Az (EU) 2019/1152 irányelv 5. cikk (3) bekezdése a hivatkozott jogi keret távoli, elektronikus, ingyenes hozzáférését a tagállam kötelezettségévé teszi. A puszta joghely-citátum a hozzáférhető keret nélkül nem tölti be a tájékoztatást."
+        },
+        {
+          "text": "A szabályra hivatkozás csak az (1) bekezdés e)–i) pontjában előírt tájékoztatásra engedett; az a)–d) és j)–l) pontok közvetlen tájékoztatást kívánnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hivatkozásos teljesítés zárt körű. Az Mt. 46. § (3) bekezdése szerint az (1) bekezdés e)–i) pontjában előírt tájékoztatás munkaviszonyra vonatkozó szabály rendelkezésére hivatkozással is megadható. A munkáltatói jogkör gyakorlója, a kezdet és tartam, a munkahely, a feladatok, a képzés, a közteher-hatóság és a kollektív szerződés hatálya e körön kívül esik. A 47. § (2) bekezdése a külföldi listán csak a c) és d) pontra enged hasonló hivatkozást."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "a5e1261c9936"
+    }
+  ]
+}

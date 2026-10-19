@@ -1,0 +1,495 @@
+{
+  "id": "xW6W6NrxltsGYdYP1aUw",
+  "sorszam": 34,
+  "cim": "A vezető állású munkavállalóra vonatkozó rendelkezések.",
+  "generationType": "fogalom",
+  "title": "34. A vezető állású munkavállalóra vonatkozó rendelkezések.",
+  "questions": [
+    {
+      "question": "Az Mt. 208. § (1) bekezdése szerinti ex lege vezetővé minősítéshez mely feltételek szükségesek a munkáltató vezetőjén kívül álló munkavállaló esetében?",
+      "options": [
+        {
+          "text": "Elég, ha a munkavállaló a vezető helyettesítésére jogosult, akár közvetlen irányítás nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a helyettesítési jogosultság önmagában nem nyitja meg az ex lege minősítést. Az Mt. 208. § (1) bekezdése szerint a munkáltató vezetőjén kívül álló munkavállaló csak akkor vezető, ha a közvetlen irányítás alatt áll és – részben vagy egészben – helyettesítésére jogosított. A két feltétel együttes, nem vagylagos; a közvetlen irányítás hiánya a minősítést kizárja."
+        },
+        {
+          "text": "A munkáltató vezetőjén kívül álló munkavállaló csak akkor minősül vezetőnek, ha a munkaszerződés ezt külön kiköti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (1) bekezdés ex lege minősít, szerződéses kikötés nélkül is. Az Mt. 208. § (1) bekezdése a munkáltató vezetőjét és a közvetlen irányítása alatt álló, helyettesítésre jogosított munkavállalót törvényi úton vonja a vezető fogalmába. A szerződéses út a (2) bekezdés, amely a kiemelkedő vagy bizalmi munkakörhöz és a bérküszöbhöz kötött."
+        },
+        {
+          "text": "A munkavállaló a munkáltató vezetőjének közvetlen irányítása alatt áll, és részben vagy egészben jogosult a vezető helyettesítésére.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 208. § (1) bekezdése a munkáltató vezetőjén kívül álló személyt csak akkor vonja a vezető fogalmába, ha a közvetlen irányítottság és a helyettesítési jogosultság együtt fennáll. A törvény szövege szerint: „Vezető állású munkavállaló a munkáltató vezetője, valamint a közvetlen irányítása alatt álló és – részben vagy egészben – helyettesítésére jogosított más munkavállaló.” A helyettesítés részleges vagy teljes lehet. A közvetlen irányítás hiányában az ex lege minősítés nem nyílik meg."
+        },
+        {
+          "text": "A helyettesítési jogosultság és a közvetlen irányítottság nem vagylagos ismérv: mindkettőnek fenn kell állnia.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 208. § (1) bekezdése a két ismérvet „és” kötőszóval kapcsolja, tehát konjunktív feltételrendszert állít fel. A helyettesítésre jogosultság önmagában, közvetlen irányítás nélkül nem elegendő, és fordítva sem. A törvény e kört a munkáltató vezetőjével együtt nevezi vezetőnek, így az ex lege minősítés a szervezeti csúcsra és annak helyettesítőjére egyaránt kiterjed."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "e42c357727a7"
+    },
+    {
+      "question": "Mikor írhatja elő a munkaszerződés az Mt. 208. § (2) bekezdése szerint a vezetőre vonatkozó rendelkezések alkalmazását?",
+      "options": [
+        {
+          "text": "A küszöb a garantált bérminimum hétszerese, nem a kötelező legkisebb munkabéré.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törvény a kötelező legkisebb munkabérre mutat, nem a garantált bérminimumra. Az Mt. 208. § (2) bekezdése a 153. § (1) bekezdés a) pontjára hivatkozik, amely a minimálbért jelöli. A garantált bérminimum a minősítési szorzó számításánál nem helyettesíti a minimálbért, ezért a hétszeres küszöb alapja nem a középfokú végzettséghez kötött bér."
+        },
+        {
+          "text": "A munkaköri ismérvek (kiemelkedő jelentőségű vagy fokozottan bizalmi) vagylagosak, az alapbérküszöb mindkettőhöz járulékos.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 208. § (2) bekezdése a két munkaköri ismérvet „vagy” kötőszóval kapcsolja, az alapbérküszöb viszont mindkét ághoz járulékos feltétel. Így elegendő a kiemelkedő vagy a bizalmi jelleg, de a hétszeres minimálbér elérése nélkül a szerződéses kikötés nem nyitja meg a vezetőre vonatkozó szabályokat. A küszöb nélkül a munkaköri ismérv önmagában nem elegendő."
+        },
+        {
+          "text": "Ha a munkavállaló a munkáltató működése szempontjából kiemelkedő jelentőségű vagy fokozottan bizalmi jellegű munkakört tölt be, és alapbére eléri a kötelező legkisebb munkabér [153. § (1) bekezdés a) pont] hétszeresét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 208. § (2) bekezdése a szerződéses minősítéshez munkaköri és bérfeltételt köt. A munkakör kiemelkedő jelentőségű vagy fokozottan bizalmi lehet, ezek vagylagosak; az alapbérnek viszont el kell érnie a kötelező legkisebb munkabér hétszeresét. A bérküszöb a 153. § (1) bekezdés a) pontjára utal, tehát a minimálbérre, nem más bérkategóriára."
+        },
+        {
+          "text": "Elég a kiemelkedő vagy bizalmi munkakör; az alapbérküszöb csak ajánlás, nem törvényi feltétel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az alapbérküszöb nem ajánlás, hanem a szerződéses út kötelező eleme. Az Mt. 208. § (2) bekezdése szerint a vezetőre vonatkozó rendelkezések alkalmazását a munkaszerződés csak akkor írhatja elő, ha a munkaköri ismérv mellett az alapbér eléri a kötelező legkisebb munkabér hétszeresét. A bérfeltétel hiányában a kikötés nem érvényesül."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "7d61dd3bb281"
+    },
+    {
+      "question": "Hogyan viszonyul a kollektív szerződés hatálya a vezető állású munkavállalóhoz az Mt. 209. § (3) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A vezetőre a kollektív szerződés hatálya nem terjed ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 209. § (3) bekezdése egyértelműen kizárja a kollektív szerződés hatályát. A törvény szövege szerint: „A vezetőre a kollektív szerződés hatálya nem terjed ki.” Ez azt jelenti, hogy a vezető sem kedvezőbb, sem szigorúbb kollektív szabályokat nem visz magával. A kizárás kógens jellegű, nem függ a felek eltérő megállapodásától."
+        },
+        {
+          "text": "A vezető sem a kollektív szerződés kedvezőbb, sem a szigorúbb szabályait nem viszi magával.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 209. § (3) bekezdése a hatály teljes kizárásával a kedvezőbb és a szigorúbb kollektív szabályokat egyaránt elzárja a vezetőtől. A munkaszerződés eltérési mozgásterét a 209. § (1)–(2) bekezdése adja, de ez a Második Rész törvényi rendelkezéseire vonatkozik, nem a kollektív szerződés hatályának visszaállítására. A vezető tehát a kollektív kötőerőn kívül áll."
+        },
+        {
+          "text": "A vezetőre a kollektív szerződés hatálya kiterjed, de a munkaszerződés eltérhet tőle.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törvény nem diszpozitív eltérést enged a kollektív szerződésről, hanem a hatályt zárja ki. Az Mt. 209. § (3) bekezdése szerint a vezetőre a kollektív szerződés hatálya nem terjed ki. A munkaszerződés eltérési joga a 209. § (1) bekezdése alapján a Második Rész törvényi szabályaira vonatkozik, a (2) bekezdés taxatív korlátaival."
+        },
+        {
+          "text": "A vezetőre a kollektív szerződés csak akkor hatályos, ha a munkaszerződés ettől kedvezőbben nem tér el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, nincs „kedvezőbb szabály” kivétel a vezető javára a kollektív szerződés hatálya alól. Az Mt. 209. § (3) bekezdése szerint a vezetőre a kollektív szerződés hatálya nem terjed ki, tehát sem a kedvezőbb, sem a szigorúbb kollektív szabály nem alkalmazható. A hatály kizárása teljes, nem feltételes."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "56c2e52b1275"
+    },
+    {
+      "question": "Mit rögzít az Mt. 209. § (4)–(6) bekezdése a vezető munkarendjéről, kárfelelősségéről és a jogellenes megszüntetés szankciójáról?",
+      "options": [
+        {
+          "text": "A vezető munkarendje kötetlen, gondatlan károkozás esetén a teljes kárért felel, jogellenes megszüntetés esetén pedig tizenkét havi távolléti díjnak megfelelő összeget köteles megfizetni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 209. § (4) bekezdése szerint a vezető munkarendje kötetlen, az (5) bekezdés gondatlan károkozás esetén a teljes kárért való felelősséget írja elő, a (6) bekezdés pedig tizenkét havi távolléti díjat rendel. A három szabály együtt a vezető különös jogállásának része. A kötetlen munkarend nem „eltérő megállapodás hiányában” érvényesül, hanem a vezetőre irányadó rendelkezés."
+        },
+        {
+          "text": "Gondatlan károkozás esetén a vezető csak a havi távolléti díj négyszereséig felel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a vezetőnél nincs a gondatlan károkozásra nézve négyszeres távolléti díjas plafon. Az Mt. 209. § (5) bekezdése szerint: „A vezető gondatlan károkozás esetén a teljes kárért felel.” A teljes kárért való felelősség a vezető különös jogállásának része. Ez eltér az általános munkavállalói kárfelelősségi plafontól."
+        },
+        {
+          "text": "A vezető munkarendje csak eltérő megállapodás hiányában kötetlen.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kötetlen munkarend nem diszpozitív főszabály, hanem a vezetőre irányadó rendelkezés. Az Mt. 209. § (4) bekezdése szerint: „A vezető munkarendje kötetlen.” A szöveg nem tartalmaz „eltérő megállapodás hiányában” fordulatot. A kötetlenség tehát a vezető jogállásához tartozik, nem a felek megállapodásának hiányához."
+        },
+        {
+          "text": "A jogellenes megszüntetés szankciója a 84. § (1) és (2) bekezdésétől eltérően tizenkét havi távolléti díj.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 209. § (6) bekezdése kifejezetten eltér a 84. § (1) és (2) bekezdésétől. A vezető munkaviszonyának jogellenes megszüntetése esetén tizenkét havi távolléti díjnak megfelelő összeget köteles megfizetni. Ez a mérték a vezetőre nézve zárt szankció, nem a 84. § általános szabályainak változatlan alkalmazása."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "b3ac3047ee91"
+    },
+    {
+      "question": "Milyen eltérési mozgásteret ad a vezető munkaszerződésének az Mt. 209. § (1) és (2) bekezdése a Második Rész rendelkezéseivel szemben?",
+      "options": [
+        {
+          "text": "A vezető munkaszerződése a Második Rész rendelkezéseitől – a (2) és (3) bekezdésben meghatározott kivétellel – eltérhet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 209. § (1) bekezdése a vezető munkaszerződésének diszpozitív mozgásteret nyit a Második Rész szabályaihoz képest. Az eltérés nem korlátlan: a (2) bekezdés taxatív záradéka és a (3) bekezdés a kollektív szerződés hatályának kizárása korlátozza. E két korláton kívül a Második Rész diszpozitív alkalmazása megnyílik a vezető viszonylatában."
+        },
+        {
+          "text": "A vezető munkaszerződése a Második Rész bármely szabályától szabadon eltérhet, korlát nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az eltérés nem korlátlan. Az Mt. 209. § (1) bekezdése szerint a vezető munkaszerződése a Második Rész rendelkezéseitől – a (2) és (3) bekezdésben meghatározott kivétellel – térhet el. A (2) bekezdés taxatív listája szűkíti a mozgásteret. A (3) bekezdés szerinti kollektív hatálykizárás további korlát."
+        },
+        {
+          "text": "A (2) bekezdés csak példálózóan említi a nem eltérhető szabályokat, a felek bővíthetik a listát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés taxatív záradék, nem példálózó felsorolás. Az Mt. 209. § (2) bekezdése a)–f) pontjában azonosítja azokat a szakaszokat, amelyektől a vezető munkaszerződése nem térhet el. A felek a tilalmi kört nem tágíthatják és nem szűkíthetik szerződéses kikötéssel a törvényi lista ellenében."
+        },
+        {
+          "text": "A (2) bekezdés a)–f) pontja taxatíve zárja el az eltérést a megjelölt szakaszoktól, például a 127–128. §-tól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 209. § (2) bekezdése a)–f) pontjában sorolja fel azokat a rendelkezéseket, amelyektől a vezető munkaszerződése nem térhet el. A felsorolás többek között az 55. § (1) bekezdés megjelölt pontjait, a 65. § (3) bekezdés egyes pontjait, a 113. § (5) bekezdését, a 118. § (4) bekezdését, a 118/A. §-t és a 127–128. §-t érinti. A taxatív záradék a szerződéses eltérés kemény korlátja."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "438bebd84db8"
+    },
+    {
+      "question": "Mit mond az Mt. 210. § (1) bekezdése a munkáltatói felmondásnál mellőzendő szabályokról a vezetővel szemben?",
+      "options": [
+        {
+          "text": "A mellőzés a vezetővel szembeni munkáltatói felmondás különös rendjének része, nem a közszolgálati felmentés szabálya.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 210. § (1) bekezdése a munkaviszonyban álló vezetővel szembeni munkáltatói felmondásra vonatkozik. A 66. § és a 68. § mellőzése az Mt. munkaviszonyi megszüntetési rendjének módosítása. Nem a Kit. szerinti felmentés vagy méltatlanság intézményéről van szó, hanem a magánmunkajogi vezető különös szabályáról."
+        },
+        {
+          "text": "Munkáltatói felmondásnál a 66. § (1)–(6) bekezdése és a 68. § (2) bekezdése változatlanul irányadó a vezetőre is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, e szabályokat a vezetőnél nem kell alkalmazni. Az Mt. 210. § (1) bekezdése szerint munkáltatói felmondás esetén a 66. § (1)–(6) bekezdését és a 68. § (2) bekezdését mellőzni kell. A mellőzés a vezetővel szembeni felmondás különös rendjét adja."
+        },
+        {
+          "text": "A 210. § (1) bekezdés a) pontja önálló, a közölt törvényi szövegben is kitöltött megszüntetési tilalmat tartalmaz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (1) bekezdés a) pontja a közölt törvényi szövegben üresen áll. Az Mt. 210. § (1) bekezdése szerint a mellőzött szabályok a b) és a c) pontban megjelölt 66. § (1)–(6) bekezdése és 68. § (2) bekezdése. Az a) pontból tartalmat kitalálni nem lehet."
+        },
+        {
+          "text": "Munkáltatói felmondás esetén a 66. § (1)–(6) bekezdését és a 68. § (2) bekezdését nem kell alkalmazni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 210. § (1) bekezdése a munkáltatói felmondásnál a 66. § (1)–(6) bekezdését és a 68. § (2) bekezdését mellőzi. A mellőzött szabályok a b) és a c) pontban jelennek meg. Az (1) bekezdés a) pontja a közölt szövegben üresen áll, ezért abból önálló tartalom nem olvasható ki."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "583bcad7538d"
+    },
+    {
+      "question": "Milyen időablakban gyakorolható a vezetővel szemben az azonnali hatályú felmondás joga az Mt. 210. § (2) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Bűncselekmény elkövetése esetén a jog a büntethetőség elévüléséig gyakorolható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 210. § (2) bekezdése bűncselekmény elkövetése esetén a hároméves általános ablak helyett a büntethetőség elévüléséig tartja nyitva a jogot. A bűncselekményi ág tehát hosszabb vagy a büntetőelévüléshez igazodó időtartamot ad. A két ág egymás mellett áll: az általános három év, illetve a bűncselekményhez kötött elévülési határ."
+        },
+        {
+          "text": "A vezetővel szembeni azonnali hatályú felmondás joga az ok bekövetkeztétől számított tizenöt napon belül elenyészik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a vezetőnél nem a tizenöt napos általános munkavállalói határidő érvényesül. Az Mt. 210. § (2) bekezdése szerint az azonnali hatályú felmondás joga a vezetővel szemben az ok bekövetkeztétől számított három éven belül gyakorolható. Bűncselekmény esetén a büntethetőség elévülése a mérvadó."
+        },
+        {
+          "text": "Az azonnali hatályú felmondás joga a vezetővel szemben az ok bekövetkeztétől számított három éven belül gyakorolható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 210. § (2) bekezdése a vezetővel szembeni azonnali hatályú felmondás gyakorlását az alapul szolgáló ok bekövetkeztétől számított hároméves időablakhoz köti. A három év a vezetőre nézve különös határidő. A jog gyakorlásának kezdőpontja az ok bekövetkezte. A tudomásszerzés önálló, ettől elválasztott napját a bekezdés nem emeli külön kezdőponttá."
+        },
+        {
+          "text": "Bűncselekmény esetén is mindenképpen a hároméves határidő zárja le a jogot, az elévülés nem hosszabbít.",
+          "isCorrect": false,
+          "rationale": "HAMIS, bűncselekmény elkövetésekor a törvény a büntethetőség elévüléséig engedi a jog gyakorlását. Az Mt. 210. § (2) bekezdése szerint az azonnali hatályú felmondás joga a vezetővel szemben három éven belül, bűncselekmény esetén a büntethetőség elévüléséig gyakorolható. A bűncselekményi ág tehát nem a merev hároméves zárással esik egybe. Az elévülési határ a büntetőjogi elévüléshez igazodik."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "c12d87e971e3"
+    },
+    {
+      "question": "Hogyan szakaszolja az Mt. 210. § (3) bekezdése a vezető megszűnésre járó díjazásának kifizetését csőd- vagy felszámolási eljárás megkezdését követően közölt megszüntetésnél?",
+      "options": [
+        {
+          "text": "Az esedékességkor a teljes megszűnésre járó díjazást egyösszegben kell kifizetni, plafon nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az esedékességkori kifizetésnek van plafonja. Az Mt. 210. § (3) bekezdése szerint a munkáltató legfeljebb hathavi távolléti díjnak megfelelő összeget köteles megfizetni az esedékességkor, ha a megszüntető nyilatkozatot a csőd- vagy felszámolási eljárás megkezdését követően közölték. A többlet nem az esedékességkor esedékes. A meghaladó összeg későbbi, az eljárás záró időpontjához kötött."
+        },
+        {
+          "text": "Az esedékességkor legfeljebb hathavi távolléti díjnak megfelelő összeg fizetendő, a meghaladó rész az eljárás záró időpontjához igazodik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 210. § (3) bekezdése szerint a munkáltató az esedékességkor legfeljebb hathavi távolléti díjnak megfelelő összeget köteles megfizetni, ha a megszüntető nyilatkozatot a csődeljárás vagy felszámolási eljárás megkezdését követően közölték. Az ezt meghaladó összeget a csődeljárás befejezésekor vagy megszüntetésekor, illetve a felszámolás befejezésekor kell megfizetni. A hathavi korlát tehát az esedékességkori kifizetésre szól."
+        },
+        {
+          "text": "A hathavi korlát nem a követelés elenyészését jelenti, hanem az esedékességkori kifizetés szakaszolását.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hathavi mérték az Mt. 210. § (3) bekezdése szerinti esedékességkori fizetési plafon. A többlet nem vész el: a csődeljárás befejezésekor vagy megszüntetésekor, illetve a felszámolási eljárás befejezésekor válik fizetendővé. A szabály a fizetésképtelenségi helyzetben a kifizetés időzítését rendezi, nem a jogosultság megszüntetését."
+        },
+        {
+          "text": "Csőd vagy felszámolás után közölt megszüntetésnél a vezető elveszíti a megszűnésre járó teljes díjazását.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a díjazás nem enyészik el, csak a kifizetés szakaszolódik. Az Mt. 210. § (3) bekezdése szerint az esedékességkor legfeljebb hathavi távolléti díj fizetendő, a meghaladó összeget az eljárás záró időpontjában kell megfizetni. A hathavi korlát tehát nem a követelés elvonása."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "72a07434d243"
+    },
+    {
+      "question": "Mit tilt az Mt. 211. § (1) bekezdése a vezető további jogviszonyaival kapcsolatban?",
+      "options": [
+        {
+          "text": "A vezető további munkavégzésre irányuló jogviszonyt nem létesíthet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 211. § (1) bekezdése szerint: „A vezető további munkavégzésre irányuló jogviszonyt nem létesíthet.” A tilalom feltétel nélküli. Nem függ a munkáltató hozzájárulásától a bekezdés főszabályában. A tilalom a munkavégzésre irányuló jogviszony létesítését zárja, nem a (2) bekezdés a) pontja szerinti részesedésszerzést."
+        },
+        {
+          "text": "Az (1) bekezdés csak a részesedésszerzést tiltja, a további munkavégzésre irányuló jogviszonyt nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (1) bekezdés éppen a további munkavégzésre irányuló jogviszonyt zárja. Az Mt. 211. § (1) bekezdése szerint a vezető ilyen jogviszonyt nem létesíthet. A részesedésszerzés tilalma a (2) bekezdés a) pontjában áll, a nyilvánosan működő részvénytársasági részvényszerzés kivételével."
+        },
+        {
+          "text": "Az (1) bekezdés tilalmi síkja és a (2) bekezdés a) pont szerinti részesedésszerzési tilalom egymás mellett áll.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 211. § (1) bekezdése a további munkavégzésre irányuló jogviszonyt zárja. A (2) bekezdés a) pontja ehhez képest a részesedésszerzést korlátozza meghatározott gazdálkodó szervezetekben. A két tilalmi sík nem helyettesíti egymást: a jogviszony-tilalom nem olvasható bele a részesedésszerzési tilalomba, és fordítva sem."
+        },
+        {
+          "text": "A vezető további munkavégzésre irányuló jogviszonyt létesíthet, ha a munkáltató előzetesen hozzájárul.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (1) bekezdés feltétel nélküli tilalmat állít. Az Mt. 211. § (1) bekezdése szerint a vezető további munkavégzésre irányuló jogviszonyt nem létesíthet. A bekezdés nem nyit hozzájáruláshoz kötött kivételt e tilalom alól. A kivételek a (2) bekezdés más tényállásainál jelennek meg."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "a1ff80317c1f"
+    },
+    {
+      "question": "Milyen részesedésszerzési korlátot állít az Mt. 211. § (2) bekezdés a) pontja, és mi a törvényben nevesített kivétel?",
+      "options": [
+        {
+          "text": "A vezető nem szerezhet részesedést – a nyilvánosan működő részvénytársaságban való részvényszerzés kivételével – a munkáltatóéval azonos vagy ahhoz hasonló tevékenységet is végző, vagy a munkáltatóval rendszeres gazdasági kapcsolatban álló más gazdálkodó szervezetben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 211. § (2) bekezdés a) pontja a részesedésszerzést zárja a megjelölt gazdálkodó szervezetekben. A tilalom a munkáltatóéval azonos vagy hasonló tevékenységet is végző, illetve a munkáltatóval rendszeres gazdasági kapcsolatban álló szervezetre terjed ki. Egyetlen, a törvényben nevesített kivétel a nyilvánosan működő részvénytársaságban való részvényszerzés."
+        },
+        {
+          "text": "A nyilvánosan működő részvénytársaságban való részvényszerzés a részesedésszerzési tilalom alóli nevesített kivétel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 211. § (2) bekezdés a) pontja a nyilvánosan működő részvénytársaságban való részvényszerzést kivételként emeli ki. A kivétel csak e részvényszerzésre szól, nem nyitja meg általában a részesedésszerzést bármely társasági formában. A tilalom főszabálya továbbra is a megjelölt gazdasági körben érvényesül."
+        },
+        {
+          "text": "A vezető bármely gazdálkodó szervezetben szabadon szerezhet részesedést, ha az nem a munkáltató leányvállalata.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom szélesebb, mint a leányvállalati kör. Az Mt. 211. § (2) bekezdés a) pontja szerint a vezető nem szerezhet részesedést a munkáltatóéval azonos vagy ahhoz hasonló tevékenységet is végző, vagy a munkáltatóval rendszeres gazdasági kapcsolatban álló más gazdálkodó szervezetben. A tilalom alól a nyilvánosan működő részvénytársasági részvényszerzés a kivétel. A leányvállalati minőség önmagában nem a törvényi mérce."
+        },
+        {
+          "text": "A kivétel a zártkörűen működő részvénytársaságban való részvényszerzésre is kiterjed.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törvény csak a nyilvánosan működő részvénytársaságban való részvényszerzést nevesíti kivételként. Az Mt. 211. § (2) bekezdés a) pontja szerint a részesedésszerzési tilalom alól a nyilvánosan működő részvénytársasági részvényszerzés a kivétel. A zártkörűen működő részvénytársaságra e kivétel nem olvasható rá."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "b97656ba4f09"
+    },
+    {
+      "question": "Mit ír elő az Mt. 211. § (2) bekezdés b) és c) pontja a saját ügyletre és a hozzátartozói kapcsolatra nézve?",
+      "options": [
+        {
+          "text": "A hozzátartozó tagi minősége vagy vezető jogviszonya abszolút tiltó tényállás, bejelentéssel sem orvosolható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a c) pont bejelentési, nem tiltó tényállás. Az Mt. 211. § (2) bekezdés c) pontja szerint a vezető köteles bejelenteni, ha a hozzátartozója a megjelölt társaságnak tagja, vagy vezetőként munkavégzésre irányuló jogviszonyt létesített. A törvény a bejelentést írja elő, nem a hozzátartozói helyzet abszolút tilalmát."
+        },
+        {
+          "text": "A vezető a saját nevében szabadon köthet a munkáltató tevékenységi körébe tartozó ügyletet, ha az ügylet piaci áron történik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a b) pont nem piaci árhoz kötött kivételt nyit. Az Mt. 211. § (2) bekezdés b) pontja szerint a vezető nem köthet a saját nevében vagy javára a munkáltató tevékenységi körébe tartozó ügyletet. A tilalom a tevékenységi körbe tartozáshoz kötött, nem az ellenérték piaci jellegéhez."
+        },
+        {
+          "text": "A vezető nem köthet a saját nevében vagy javára a munkáltató tevékenységi körébe tartozó ügyletet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 211. § (2) bekezdés b) pontja a saját névben vagy javára kötött, a munkáltató tevékenységi körébe tartozó ügyletet tiltja. A tilalom a vezető gazdasági lojalitásának része. A b) pont a saját ügyletet zárja, míg a c) pont a hozzátartozói helyzetre bejelentési kötelezettséget telepít."
+        },
+        {
+          "text": "A vezető köteles bejelenteni, ha hozzátartozója tagja a munkáltatóéval azonos vagy ahhoz hasonló tevékenységet is folytató, vagy a munkáltatóval rendszeres gazdasági kapcsolatban álló gazdasági társaságnak, vagy vezetőként munkavégzésre irányuló jogviszonyt létesített ilyen munkáltatónál.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 211. § (2) bekezdés c) pontja bejelentési kötelezettséget telepít a hozzátartozó tagi minőségére vagy vezetőként létesített jogviszonyára. A hozzátartozói szabály bejelentési, nem tiltó tényállás. A bejelentés tárgya a tagi minőség vagy a vezetőként létesített jogviszony a megjelölt gazdasági körben."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "e7c84a68ecab"
+    },
+    {
+      "question": "Hogyan válik el az Mt. 208. § (1) bekezdése szerinti ex lege vezető és a (2) bekezdés szerinti szerződéses minősítés a 209–211. § alkalmazásában?",
+      "options": [
+        {
+          "text": "A kiemelkedő vagy bizalmi munkakör betöltése önmagában, szerződéses kikötés nélkül is a 209–211. § hatálya alá vonja a munkavállalót.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés szerinti munkakör a szerződéses kikötés nélkül nem vonja magával a 209–211. §-t. Az Mt. 208. § (2) bekezdése a vezetőre vonatkozó rendelkezések alkalmazását a munkaszerződés előírásához köti. A bérküszöb mellett a kikötés is szükséges a szerződéses úthoz."
+        },
+        {
+          "text": "Az (1) bekezdés szerinti vezetőre a 209–211. § külön kikötés nélkül is irányadó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 208. § (1) bekezdése szerinti vezető a törvény erejénél fogva esik a vezető fogalmába. A 209–211. § rá külön szerződéses kikötés nélkül is irányadó. A szerződéses út a (2) bekezdés, amely a munkaszerződés előírásához és a bérküszöbhöz kötött."
+        },
+        {
+          "text": "Az (1) bekezdés szerinti vezetőre a 209–211. § csak akkor irányadó, ha a munkaszerződés ezt külön megismétli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az ex lege vezetőnél nincs szükség külön szerződéses megismétlésre. Az Mt. 208. § (1) bekezdése szerinti vezetőre a 209–211. § a külön kikötés nélkül is irányadó. A szerződéses előírás a (2) bekezdés útjának feltétele, nem az (1) bekezdésé."
+        },
+        {
+          "text": "A (2) bekezdés szerinti munkakör a szerződéses kikötés nélkül nem vonja magával a 209–211. §-t.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 208. § (2) bekezdése szerinti kiemelkedő vagy bizalmi munkakör önmagában nem indítja el a vezetőre vonatkozó szabályokat. A 209–211. § alkalmazásához a munkaszerződésnek elő kell írnia a vezetőre vonatkozó rendelkezések alkalmazását, és az alapbérküszöbnek is teljesülnie kell. A kikötés hiánya a szerződéses minősítést kizárja."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "21af1dcdc9d9"
+    },
+    {
+      "question": "Mi a 208. § (2) bekezdése szerinti hétszeres alapbérküszöb számítási alapja a 573/2022. (XII. 23.) Korm. rendelet szerint?",
+      "options": [
+        {
+          "text": "A rendelet 2. § (1) bekezdése szerinti minimálbér csak tájékoztató; a küszöb a felek által szabadon választott béralapból is számítható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a küszöb törvényi kötöttség, nem szabadon választott béralap. Az Mt. 208. § (2) bekezdése a 153. § (1) bekezdés a) pont szerinti kötelező legkisebb munkabér hétszeresét követeli. A rendelet 2. § (1) bekezdése adja meg a minimálbér összegét, amelyből a hétszeres számítható."
+        },
+        {
+          "text": "A küszöb a rendelet 2. § (1) bekezdése szerinti kötelező legkisebb munkabérre (minimálbérre) vetül; 2023. évi január 1-jétől a havi 232 000 forint hétszerese 1 624 000 forint.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 208. § (2) bekezdése a 153. § (1) bekezdés a) pontjára, a rendelet 2. § (1) bekezdése pedig a minimálbérre mutat. 2023. évi január 1-jétől a havi minimálbér 232 000 forint, ennek hétszerese 1 624 000 forint. A küszöb tehát a minimálbérből, nem más bérkategóriából számítandó."
+        },
+        {
+          "text": "A hétszeres küszöb a garantált bérminimum 296 400 forintos havi összegéből számítandó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a garantált bérminimum nem a minősítési szorzó alanya. Az Mt. 208. § (2) bekezdése a kötelező legkisebb munkabérre mutat, a rendelet 2. § (1) bekezdése szerinti minimálbérre. 2023. évi január 1-jétől a havi 232 000 forint hétszerese a mérvadó, nem a 296 400 forint."
+        },
+        {
+          "text": "A garantált bérminimum a minősítési szorzó számításánál nem helyettesíti a minimálbért.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendelet 2. § (2) bekezdése a garantált bérminimumot 296 400 forint havi összegben adja, de e számok a vezetővé minősítés szorzójának nem alanyai. Az Mt. 208. § (2) bekezdése a kötelező legkisebb munkabérre utal. A középfokú végzettséghez kötött garantált bérminimum tehát nem a hétszeres küszöb alapja."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "32cbe7a798fd"
+    },
+    {
+      "question": "Mit mond a 573/2022. (XII. 23.) Korm. rendelet a hatálybalépésről és az első alkalmazásról a 208. § (2) bekezdése szerinti küszöb idősíkjához?",
+      "options": [
+        {
+          "text": "A hatálybalépés önmagában a 2022. évi decemberi alapbért is a 2. § (1) bekezdése szerinti összeggé teszi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatálybalépés nem teszi automatikusan a decemberi bért az új minimálbér alapjává. A rendelet 4. §-a szerint a rendelkezéseket első alkalommal a 2023. évi január hónapra járó munkabérek megállapításánál kell alkalmazni. A 2022. évi decemberre járó munkabér tehát még nem e rendelet 2. §-ából számít."
+        },
+        {
+          "text": "A 208. § (2) bekezdése szerinti hétszeres küszöb a 2023. évi januári munkabér-megállapítástól a 2. § (1) bekezdés havi 232 000 forintjából ered.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2023. évi januári első alkalmazás a minimálbér-összeg és a hétszeres küszöb idősíkja. A rendelet 4. §-a szerint a rendelkezéseket első alkalommal a 2023. évi január hónapra járó munkabéreknél kell alkalmazni. A 2022. évi decemberre járó munkabér még nem e rendelet 2. §-ának összegéből számít."
+        },
+        {
+          "text": "A rendelet 2023. évi január 1-jén lép hatályba, rendelkezéseit pedig első alkalommal a 2023. évi január hónapra járó munkabérek megállapításánál kell alkalmazni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendelet 3. §-a szerint a hatálybalépés napja 2023. évi január 1-je. A 4. § az első alkalmazást a 2023. évi január hónapra járó munkabérek megállapításához köti. A hatálybalépés és az első alkalmazás elválasztása a decemberi bérszámfejtést a januári megállapítástól választja el."
+        },
+        {
+          "text": "A rendelet a 208. § (2) bekezdésének önálló semmisségi szankcióját is tartalmazza a küszöb elmaradására.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendelet ilyen önálló semmisségi szankciót nem tartalmaz. A minősítési feltételek hiánya a vezetőre vonatkozó szabályok szerződéses alkalmazását zárja ki az Mt. 208. § (2) bekezdése szerint. A rendelet a minimálbér-összeg forrását adja, nem a 208. § külön szankciós záradékát."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "f7e23523f853"
+    },
+    {
+      "question": "Alkalmazandó-e a 208–211. § az egyszerűsített foglalkoztatásra vagy alkalmi munkára irányuló munkaviszonyban?",
+      "options": [
+        {
+          "text": "Az egyszerűsített foglalkoztatásra vagy alkalmi munkára irányuló munkaviszonyra a 203. § (1) bekezdés n) pontja a 208–211. §-t nem rendeli alkalmazni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 203. § (1) bekezdés n) pontja a 208–211. § alkalmazását e foglalkoztatási alakzatban kizárja. Sem az ex lege, sem a szerződéses vezetővé minősítés különös rendje nem érvényesül. A vezető különös szabályai tehát nem minden munkaviszonyi alakzatra terjednek ki automatikusan."
+        },
+        {
+          "text": "E foglalkoztatási alakzatban sem az ex lege, sem a szerződéses vezetővé minősítés különös rendje nem érvényesül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 203. § (1) bekezdés n) pontja szerinti kizárás mindkét belépési kaput érinti. Az Mt. 208. § (1) bekezdése szerinti ex lege és a (2) bekezdés szerinti szerződéses út egyaránt kiesik. Az egyszerűsített vagy alkalmi foglalkoztatás tehát nem hordozza a 209–211. § vezetőre szabott rendjét."
+        },
+        {
+          "text": "Az alkalmi munkánál a 209–211. § akkor alkalmazandó, ha a felek a munkaszerződésben a vezetőre vonatkozó szabályokat kikötik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 203. § (1) bekezdés n) pontja a 208–211. § alkalmazását e körben kizárja. A szerződéses kikötés sem hozza vissza a vezető különös rendjét az egyszerűsített vagy alkalmi foglalkoztatásban. A kizárás a teljes 208–211. § blokkra vonatkozik, nem csupán egyetlen bekezdésre."
+        },
+        {
+          "text": "Az egyszerűsített foglalkoztatásban a 208. § (1) bekezdése szerinti ex lege vezetővé minősítés változatlanul érvényesül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 203. § (1) bekezdés n) pontja a 208–211. §-t nem rendeli alkalmazni. Az ex lege minősítés sem érvényesül e foglalkoztatási alakzatban. A szerződéses út szintén kiesik a kizárás folytán."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "bcf8367c9d0b"
+    },
+    {
+      "question": "Milyen további kötöttségeket telepít a 207. § a köztulajdonban álló munkáltató 208. § szerinti vezetőjére a tulajdonosi jogokat gyakorló oldalán?",
+      "options": [
+        {
+          "text": "A 206. § szerint a XIX–XXI. fejezet rendelkezéseitől a felek szabadon eltérhetnek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 206. § szerint a XIX–XXI. fejezet rendelkezéseitől eltérni nem lehet. A köztulajdonban álló munkáltatóval fennálló munkaviszonyban e fejezet szabályai kógensek. A 207. § a tulajdonosi jogokat gyakorló további jogosítványait e kógens keretben helyezi el."
+        },
+        {
+          "text": "Köztulajdonban a versenytilalmi megállapodás ellenértéke az azonos időszakra járó távolléti díj teljes összegéig terjedhet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a köztulajdoni versenytilalom ellenértéke nem érheti el a teljes távolléti díjat. A 207. § szerint a versenytilalmi megállapodás ellenértéke a megállapodás tartamára nem haladhatja meg az azonos időszakra járó távolléti díj ötven százalékát. A versenytilalmi megállapodás tartama legfeljebb egy évre terjedhet. A tulajdonosi jogokat gyakorló hozzájárulása is szükséges a megállapodás megkötéséhez."
+        },
+        {
+          "text": "A tulajdonosi jogokat gyakorló meghatározhatja azokat a munkaköröket, amelyekben csak a 208. § (2) bekezdésének alkalmazásával köthető munkaszerződés, és a 208. § szerinti vezető számára teljesítménykövetelményt, teljesítménybért vagy egyéb juttatást állapíthat meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 207. § (1) bekezdése a tulajdonosi jogokat gyakorlót e jogosítványokkal ruházza fel. A 208. § (2) bekezdése szerinti munkakörök kijelölése és a teljesítményjuttatás a köztulajdoni kötöttség része. A 206. § szerint a XIX–XXI. fejezet rendelkezéseitől eltérni nem lehet."
+        },
+        {
+          "text": "Versenytilalmi megállapodás a 208. § szerinti vezetővel a tulajdonosi jogokat gyakorló hozzájárulásával, legfeljebb egyéves tartamra köthető, és az ellenérték legfeljebb az azonos időszakra járó távolléti díj ötven százaléka lehet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 207. § a versenytilalmi megállapodást a tulajdonosi jogokat gyakorló hozzájárulásához, legfeljebb egyéves tartamhoz és az ellenérték ötven százalékos plafonjához köti. A tulajdonosi jogokat gyakorló a munkakört és további feltételeket is meghatározhat. E jogok gyakorlására – törvény eltérő rendelkezése hiányában – más személyt, szervet vagy testületet is feljogosíthat."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "8e359c9651dd"
+    },
+    {
+      "question": "Mi a vezető állású munkavállaló fogalmának két belépési kapuja az Mt. 208. § szerint, és hogyan viszonyulnak egymáshoz a feltételek?",
+      "options": [
+        {
+          "text": "A szerződéses kapu két munkaköri ismérve vagylagos, a bérküszöb mindkettőhöz járulékos.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 208. § (2) bekezdése a kiemelkedő jelentőségű vagy a fokozottan bizalmi jellegű munkakört vagylagosan engedi. Az alapbérnek mindkét ágon el kell érnie a kötelező legkisebb munkabér hétszeresét. A bérküszöb tehát nem választható el a munkaköri ismérvtől a szerződéses úton."
+        },
+        {
+          "text": "A (2) bekezdés szerinti szerződéses minősítés a Kit. szerinti méltatlanság vagy felmentés intézményével azonos jogkövetkezményt vált ki.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 208. § a magánmunkajogi vezető fogalmát rendezi, nem a közszolgálati méltatlanságot vagy felmentést. Az Mt. 208. § (2) bekezdése a vezetőre vonatkozó Mt.-szabályok szerződéses alkalmazását nyitja meg. A Kit. felmentési és méltatlansági rendje más jogviszony, és ide nem keverhető."
+        },
+        {
+          "text": "Az (1) bekezdés ex lege minősít: a munkáltató vezetője, valamint a közvetlen irányítása alatt álló és helyettesítésre jogosított más munkavállaló; a (2) bekezdés szerződéses út a kiemelkedő vagy bizalmi munkakörhöz és a hétszeres minimálbérküszöbhöz kötve.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 208. § két belépési kaput nyit a vezető fogalmához. Az (1) bekezdés a szervezeti csúcsot és annak helyettesítőjét törvényi úton minősíti, a közvetlen irányítást és a helyettesítést együttes feltételként. A (2) bekezdés a munkaszerződéses kikötéshez, a vagylagos munkaköri ismérvekhez és a járulékos bérküszöbhöz kötött."
+        },
+        {
+          "text": "Az (1) bekezdésben a helyettesítési jogosultság és a közvetlen irányítottság vagylagos: elég az egyik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (1) bekezdésben a két ismérv együttes, nem vagylagos. Az Mt. 208. § (1) bekezdése szerint a munkáltató vezetőjén kívül álló munkavállaló csak akkor vezető, ha közvetlen irányítás alatt áll és helyettesítésre jogosított. A vagylagosság a (2) bekezdés munkaköri ismérveire jellemző, nem az (1) bekezdésre."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "86fcdba49c3e"
+    },
+    {
+      "question": "Hogyan határolódik el a vezető állású munkavállaló Mt. szerinti jogállása a közszolgálati felmentéstől és méltatlanságtól?",
+      "options": [
+        {
+          "text": "A 208. § (1) bekezdése szerinti ex lege vezető egyben Kit. szerinti kormányzati szolgálati jogviszonyban álló személy is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 208. § (1) bekezdése a munkáltató vezetőjét és helyettesítőjét a munkaviszony keretében minősíti. A kormányzati szolgálati jogviszony a Kit. rendje, nem az Mt. 208. § fogalma. A két jogviszony joghatását tilos összemosni."
+        },
+        {
+          "text": "A vezetőre a 209. § (3) bekezdése szerint a kollektív szerződés hatálya nem terjed ki, ami szintén az Mt. munkaviszonyi szerkezetéhez kötött szabály.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 209. § (3) bekezdése a kollektív szerződés hatályát zárja ki a vezetőre. Ez a munkaviszony és a kollektív szerződés Mt.-beli viszonyát rendezi. A közszolgálati jogviszonyban a KSZ-hatály és a felmentés más törvényi rend szerint alakul, ezért a 208–211. § nem olvasható Kit.-szabályként."
+        },
+        {
+          "text": "A vezető munkaviszonyának jogellenes megszüntetése a Kit. méltatlansági eljárásának következménye.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jogellenes megszüntetés szankciója az Mt. 209. § (6) bekezdése szerint tizenkét havi távolléti díj. Ez a vezető Mt. szerinti különös jogállásának része. A Kit. méltatlansága és felmentése nem helyettesíti ezt a szabályt, és fordítva sem."
+        },
+        {
+          "text": "A 208–211. § az Mt. munkaviszonyában álló vezető különös rendje; a megszüntetés itt felmondás és azonnali hatályú felmondás, nem Kit. szerinti felmentés.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 210. § a munkáltatói felmondás és az azonnali hatályú felmondás különös rendjét adja a vezetővel szemben. A fogalmi keret a munkaviszony, a munkaszerződés és az Mt. Második Részéhez igazított eltérés. A Kit. szerinti felmentés és méltatlanság más jogviszonyi szerkezethez tartozik."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "57ae319c3a9a"
+    }
+  ]
+}

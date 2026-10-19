@@ -1,0 +1,765 @@
+{
+  "id": "bB8RkKRdYWRIdoWxIIgY",
+  "sorszam": 38,
+  "cim": "A munkajogi igény érvényesítésének szabályai.",
+  "generationType": "fogalom",
+  "title": "38. A munkajogi igény érvényesítésének szabályai.",
+  "questions": [
+    {
+      "question": "Az Alaptörvény XXVIII. cikk (1) bekezdése a bírósághoz fordulás milyen követelményeit rögzíti a perbeli jogok és kötelezettségek elbírálására?",
+      "options": [
+        {
+          "text": "A munkaügyi perre a XXVIII. cikk (1) bekezdésének perbeli fordulata az irányadó, nem a (2)–(3) bekezdés büntetőjogi szabályai.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Alaptörvény XXVIII. cikk (2) bekezdése a büntetőjogi ártatlanság vélelmét, a (3) bekezdés a védelemhez való jogot rögzíti. A munkaügyi perre ezek nem irányadók: az (1) bekezdés perbeli fordulata köti a fórumot. Az (1) bekezdés a polgári jellegű perbeli jogokra és kötelezettségekre is kiterjed."
+        },
+        {
+          "text": "A fórumot az Alaptörvény XXVIII. szakasz (1) bekezdése határozza meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Alaptörvényben a helyes megjelölés a XXVIII. cikk, nem szakasz; a magyar törvényeknél szakasz a forma. Az Alaptörvény XXVIII. cikk (1) bekezdése a független és pártatlan bírósághoz, a tisztességes és nyilvános tárgyaláshoz és az ésszerű határidőhöz köti a fórumot. A „szakasz” megjelölés az Mt. és a Ptk. normahelyeire való, nem az Alaptörvényre."
+        },
+        {
+          "text": "A XXVIII. cikk (1) bekezdése a bírósághoz fordulást korlátlanná teszi, határidő nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Alaptörvény XXVIII. cikk (1) bekezdése a fórum minőségét rögzíti, de a bírósághoz fordulás nem korlátlan. A keresetindítási határidőt az Mt. 287. §, az elévülést az Mt. 286. § szabályozza mint az igény időbeli dimenzióit. A 4/2013. (IX. 23.) KMK vélemény szerint nem sérti a bírósághoz fordulás jogát, ha a törvény az igényérvényesítést határidőhöz köti."
+        },
+        {
+          "text": "A jogokat és kötelezettségeket törvény által felállított, független és pártatlan bíróság tisztességes és nyilvános tárgyaláson, ésszerű határidőn belül bírálja el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Alaptörvény XXVIII. cikk (1) bekezdése szerint mindenkinek joga van ahhoz, hogy perben a jogait és kötelezettségeit törvény által felállított, független és pártatlan bíróság bírálja el. A tárgyalás tisztességes és nyilvános, az elbírálás ésszerű határidőn belüli. A munkajogi igény érvényesítésének fórumát e három követelmény köti."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "2e10447854cb"
+    },
+    {
+      "question": "Kik érvényesíthetik bíróság előtt a munkajogi igényüket az Mt. 285. § (1) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Az üzemi tanács igényét kizárólag a munkáltató képviseli perben, saját jogon nem érvényesítheti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 285. § (1) bekezdése szerint az üzemi tanács az e törvényből, kollektív szerződésből vagy üzemi megállapodásból származó igényét maga érvényesítheti bíróság előtt. Saját alanyi jogosultsága van, nem a munkáltató képviseletére van utalva. A szakszervezet ugyanezen jogalapokból származó igényét szintén önállóan perelheti."
+        },
+        {
+          "text": "Csak a munkavállaló fordulhat bírósághoz; a munkáltató kizárólag fizetési felszólítással élhet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 285. § (1) bekezdése a munkáltatót is feljogosítja bírósági igényérvényesítésre. A (2) bekezdés szerinti fizetési felszólítás kivételes, írásbeli, a keresetet helyettesítő jognyilatkozat a kötelező legkisebb munkabér háromszorosát meg nem haladó követelésre, és nem kizárólagos út. Az 1/2001. MJE szerint a munkáltató a munkavállaló tartozását és kárát választása szerint munkaügyi perben is érvényesítheti."
+        },
+        {
+          "text": "A szakszervezet és az üzemi tanács az Mt.-ből, kollektív szerződésből vagy üzemi megállapodásból származó igényét bíróság előtt érvényesítheti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 285. § (1) bekezdése a szakszervezetet és az üzemi tanácsot is felsorolja. Az igény jogalapja náluk az e törvény, a kollektív szerződés vagy az üzemi megállapodás. Ez a munkavállaló–munkáltató párostól eltérő, önálló alanyi jogosultság."
+        },
+        {
+          "text": "A munkavállaló és a munkáltató a munkaviszonyból vagy az Mt.-ből származó igényét bíróság előtt érvényesítheti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 285. § (1) bekezdése szerint „A munkavállaló és a munkáltató a munkaviszonyból vagy az e törvényből származó […] igényét bíróság előtt érvényesítheti”. Az alanyi kör tehát a két félre is kiterjed, nem csak a munkavállalóra. A munkaviszonyból és az Mt.-ből származó igények egyaránt perelhetők."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "73523d0019e7"
+    },
+    {
+      "question": "Mi a munkajogi igény elévülésének főszabálya és hivatalbóli figyelembevétele az Mt. 286. § szerint?",
+      "options": [
+        {
+          "text": "Munkaügyi perben az elévülést csak az ellenérdekű fél kifogása alapján lehet figyelembe venni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Ptk. 6:23. § (4) bekezdése polgári vagy hatósági eljárásban kizárja a hivatalbóli figyelembevést. Az Mt. 286. § (3) bekezdése ettől eltérően hivatalból rendeli az elévülés figyelembevételét. Munkaügyi perben a bíróság köteles észlelni az elévülést, kifogás nélkül is."
+        },
+        {
+          "text": "A munkajogi igény három év alatt évül el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 286. § (1) bekezdése szerint „A munkajogi igény három év alatt évül el”. A Ptk. 6:22. § (1) bekezdése mögöttesen öt évet mond. A munkajogi főszabály a rövidebb, hároméves idő; a kezdő időpont a követelés esedékessége a Ptk. 6:22. § (2) bekezdése szerint."
+        },
+        {
+          "text": "Az igény elévülését hivatalból kell figyelembe venni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 286. § (3) bekezdése szerint „Az igény elévülését hivatalból kell figyelembe venni”. Ez a Ptk. 6:23. § (4) bekezdésének ellenkezője, ahol polgári perben az elévülés kifogáshoz kötött. Munkaügyi perben tehát a bíróság nem várhatja a fél kifogását az elévülés alkalmazásához."
+        },
+        {
+          "text": "A munkajogi igény öt év alatt évül el, ahogy a Ptk. főszabálya.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Ptk. 6:22. § (1) bekezdése öt évet mond, de az Mt. 286. § (1) bekezdése a munkajogi igényre hároméves főszabályt állít. Ötéves vagy hosszabb idő csak a 286. § (2) bekezdés szerinti bűncselekménnyel okozott kárra és sérelemdíjra vonatkozik. A hároméves és az ötéves főszabályt tilos összemosni a munkajogi elévülésnél."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "a6b324efb4a5"
+    },
+    {
+      "question": "Hogyan viszonyul a keresetindítási határidő az elévüléshez a munkajogi igényérvényesítésben?",
+      "options": [
+        {
+          "text": "A 287. § (4) bekezdése szerinti hat hónapos végső határ az elévülés megszakításának különös esete.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 287. § (4) bekezdése szerinti hat hónapos végső határ a keresetindítási határidő elmulasztásának abszolút korlátja, nem az elévülés megszakítása. Az elévülés megszakítását a Ptk. 6:25. § szabályozza, és a 286. § (4) folytán a munkajogra is irányadó. A két intézmény elválasztása azt is jelenti, hogy a hat hónap nem indít új elévülési időt."
+        },
+        {
+          "text": "A 4/2003. PJE a keresetlevél benyújtására megállapított határidőt — ha a törvény másként nem rendelkezik — anyagi joginak minősíti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 287. § szerinti keresetindítási határidőt a 4/2003 PJE anyagi jogi természetűnek minősíti, ha a törvény másként nem rendelkezik. Emiatt a régi Pp. postai fikciója rá nem alkalmazható. Jogvesztő határidő vagy sikertelen igazolás esetén a keresetlevelet idézés kibocsátása nélkül el kell utasítani."
+        },
+        {
+          "text": "Ha a keresetindítási határidő eltelik, az igény automatikusan elévül a 286. § (1) szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a keresetindítási határidő elmulasztása nem azonos az elévüléssel; az utóbbi az Mt. 286. § (1) szerint hároméves főszabály. A 287. § harminc napos és a (4) szerinti hat hónapos határideje a kereset előterjesztésére szól. Ezek az elévülési időt nem rövidítik, külön jogkövetkezménnyel járnak."
+        },
+        {
+          "text": "A keresetindítási határidő és az elévülés az igény két külön időbeli dimenziója; a két intézményt vegyíteni tilos.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a bírósághoz fordulás időbeli korlátja a keresetindítási határidő, tipikusan az Mt. 287. § szerint. Az elévülés az Mt. 286. § szerinti anyagi jogi intézmény. A 287. § (4) bekezdése szerinti hat hónapos végső határ a keresetindítás elmulasztásának abszolút korlátja, nem elévülés."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "8828dce1d521"
+    },
+    {
+      "question": "Mikor élhet a munkáltató fizetési felszólítással az Mt. 285. § (2) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A fizetési felszólítást írásba kell foglalni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 285. § (2) bekezdése szerint „A fizetési felszólítást írásba kell foglalni”. A jognyilatkozat a keresetet helyettesítő, kivételes eszköz, nem szóbeli felszólítás. Az írásbeliség a közlés és a későbbi vita bizonyíthatósága szempontjából is kötelező."
+        },
+        {
+          "text": "A munkáltató a munkavállalóval szemben a munkaviszonnyal összefüggő, a kötelező legkisebb munkabér háromszorosát meg nem haladó igényét fizetési felszólítással is érvényesítheti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 285. § (2) bekezdése szerint a munkáltató — az (1) bekezdéstől eltérően — a munkaviszonnyal összefüggő és a kötelező legkisebb munkabér háromszorosának összegét meg nem haladó igényét fizetési felszólítással is érvényesítheti. A felső határ a 153. § (1) bekezdés a) pont szerinti kötelező legkisebb munkabér háromszorosa. Ez kivételes út a bírósági kereset mellett."
+        },
+        {
+          "text": "A fizetési felszólítás az örökössel szemben is alkalmazható az MK 132. szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az MK 132. számú állásfoglalás a fizetési felszólítást az örökössel szemben kizárja, miközben az Mt. 285. § (2) bekezdése a felszólítást a munkavállalóval szembeni igényre nyitja. A közigazgatási és munkaügyi bíróság előtti keresetet az állásfoglalás nem zárja ki. Az örökössel szembeni igény tehát perrel érvényesíthető, felszólítással nem."
+        },
+        {
+          "text": "A fizetési felszólítás a munkáltató kizárólagos igényérvényesítési módja a munkavállalóval szemben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 285. § (2) bekezdése a fizetési felszólítást az (1) bekezdéstől eltérő, kiegészítő lehetőségként nyitja meg, nem kizárólagos útként. Az 1/2001. MJE szerint a munkáltató a munkavállaló munkaviszonnyal összefüggő tartozását és kárát választása szerint munkaügyi perben is érvényesítheti. A felszólítás tehát opcionális, nem kötelező választás."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "4c560cc3bde7"
+    },
+    {
+      "question": "Mikor perelhető a munkáltató mérlegelési jogkörében hozott döntése az Mt. 285. § (3) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A (3) bekezdés a mérlegelési döntés perelhetőségét a kialakítási szabályok megsértéséhez köti, nem a döntés eredményének felülbírálatához.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 285. § (3) bekezdése a kialakításra irányadó szabályok megsértését követeli. A bíróság nem helyettesítheti a munkáltató mérlegelését pusztán azért, mert más döntést tartott volna helyesnek. A jogszerűségi kontroll az eljárási és tartalmi keretszabályokra vonatkozik."
+        },
+        {
+          "text": "Igény csak akkor érvényesíthető, ha a munkáltató a döntésének kialakítására irányadó szabályokat megsértette.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 285. § (3) bekezdése szerint a munkáltató mérlegelési jogkörében hozott döntésével szemben igény abban az esetben érvényesíthető, ha a munkáltató a döntésének kialakítására irányadó szabályokat megsértette. A per tehát nem a mérlegelés célszerűségére, hanem a kialakítási szabályok megsértésére irányul. A mérlegelési tartalom szabad belátása önmagában nem nyit keresetet."
+        },
+        {
+          "text": "A mérlegelési jogkörben hozott döntés minden esetben perelhető, mert a bíróság teljes körűen felülvizsgálja a célszerűséget.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 285. § (3) bekezdése kifejezetten feltételhez köti a perelhetőséget: csak a döntés kialakítására irányadó szabályok megsértése nyit igényt. A célszerűség teljes felülvizsgálata nem következik a szövegből. A mérlegelési döntés önmagában nem perelhető."
+        },
+        {
+          "text": "A (3) bekezdés csak a munkavállaló egyoldalú jognyilatkozataira vonatkozik, a munkáltatói döntésre nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 285. § (3) bekezdése kifejezetten a munkáltató mérlegelési jogkörében hozott döntésével szembeni igényről szól. A feltétel a döntés kialakítására irányadó szabályok megsértése. A munkavállaló egyoldalú nyilatkozataira e bekezdés nem épül."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "07a8cd23d28d"
+    },
+    {
+      "question": "Milyen elévülési idő vonatkozik a bűncselekménnyel okozott kárra és a sérelemdíjra az Mt. 286. § (2) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A személyiségi jogsértéssel összefüggő sérelemdíj megfizetésére irányuló, bűncselekménnyel okozott igény szintén öt év, illetve a hosszabb büntethetőségi idő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 286. § (2) bekezdés b) pontja a személyiségi jogsértéssel összefüggő sérelemdíjra ugyanezt az ötéves, illetve hosszabb büntethetőségi időt rendeli. A kár és a sérelemdíj e különös szabály alatt párhuzamosan áll. A hároméves főszabály e körben nem alkalmazandó."
+        },
+        {
+          "text": "A bűncselekménnyel okozott kár is három év alatt évül el, mert a 286. § (1) abszolút.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 286. § (1) bekezdése a főszabály, de a (2) bekezdés kifejezetten eltérő, ötéves (vagy hosszabb) időt állapít meg a bűncselekménnyel okozott kárra és sérelemdíjra. Az (1) bekezdés tehát nem abszolút e körben. A különös szabály a büntetőjogi elévüléshez is igazodik."
+        },
+        {
+          "text": "A bűncselekménnyel okozott kár megtérítésére irányuló igény öt év alatt évül el; ha a büntethetőség elévülése hosszabb, annak megfelelő idő alatt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 286. § (2) bekezdés a) pontja a bűncselekménnyel okozott kár megtérítésére öt évet állapít meg. Ha a büntethetőség elévülési ideje ennél hosszabb, az igény ennek megfelelő idő alatt évül el. Ez a hároméves főszabály (1) bekezdés alóli különös szabály."
+        },
+        {
+          "text": "A sérelemdíj mindig a Ptk. ötéves általános elévülése szerint évül, a 286. § (2) nem vonatkozik rá.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 286. § (2) bekezdés b) pontja kifejezetten a személyiségi jogsértéssel összefüggő sérelemdíj megfizetésére irányuló igényt szabályozza. A szabály öt év, vagy a hosszabb büntethetőségi idő. A Ptk. 6:22. § (1) általános ötéves ideje itt nem önállóan, hanem a 286. § (2) keretében érvényesül."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "5c8f26cfb410"
+    },
+    {
+      "question": "Mit mond az Mt. 286. § (4) bekezdése az elévülés polgári jogi szabályairól és a munkavállaló igényének rövidítéséről?",
+      "options": [
+        {
+          "text": "A Ptk. 6:22–6:25. § a munkajogi elévülésre soha nem alkalmazható, mert az Mt. önálló rendszert alkot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 286. § (4) bekezdése kifejezetten a polgári jogi szabályokra utal egyebekben. A Ptk. 6:22–6:25. § tehát mögöttes a munkajogi igényre, amennyiben az Mt. eltérően nem rendelkezik. Az önálló hároméves főszabály és a hivatalbóli figyelembevétel az eltérések, nem a teljes kizárás."
+        },
+        {
+          "text": "A felek a munkavállaló elévülési idejét írásban egy évre rövidíthetik, ha mindketten aláírják.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 286. § (4) bekezdése kifejezetten tiltja a munkavállaló igényéhez kapcsolódó elévülési idő rövidítését. Az írásbeliség a Ptk. 6:22. § (3) szerint a megváltoztatás alakja, de a munkavállalói rövidítést a 286. § (4) kizárja. Egyéves megállapodás tehát semmis e körben."
+        },
+        {
+          "text": "Az elévülésre egyebekben a polgári jogi szabályokat kell alkalmazni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 286. § (4) bekezdése első fordulata szerint az elévülésre egyebekben a polgári jogi szabályokat kell alkalmazni. Így a Ptk. 6:22–6:25. § a 286. § (4) folytán mögöttes. A nyugvás, a megszakítás és az elévült követelés joghatásai e mögöttes szabályokból következnek, ha az Mt. másként nem rendelkezik."
+        },
+        {
+          "text": "A munkavállaló igényének érvényesítésével kapcsolatos elévülési időt a felek nem rövidíthetik le.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 286. § (4) bekezdése második fordulata szerint a munkavállaló igényének érvényesítésével kapcsolatos elévülési időt a felek nem rövidíthetik le. A Ptk. 6:22. § (3) bekezdése az elévülési idő megváltoztatását írásba foglalja, a (4) bekezdés a kizáró megállapodást semmisnek mondja. A munkavállaló javára e tilalom a 286. § (4) második fordulatával erősödik."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "fd48952ca91d"
+    },
+    {
+      "question": "Mely esetekben kell a keresetlevelet harminc napon belül előterjeszteni az Mt. 287. § (1) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A munkavállaló kötelezettségszegése miatt alkalmazott jogkövetkezménnyel és a 81. § (2) bekezdés szerinti értékeléssel kapcsolatos igény is harminc napos.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 287. § (1) bekezdés c) és e) pontja a kötelezettségszegés miatti jogkövetkezményt és a 81. § (2) szerinti értékelés valótlan ténymegállapításainak megtámadását szintén harminc naphoz köti. A kezdőnap a munkáltatói jognyilatkozat közlése. A c) pont szerinti keresetnek az (5) bekezdés szerint halasztó hatálya van."
+        },
+        {
+          "text": "Egyebek mellett az egyoldalú munkaszerződés-módosítással, a munkaviszony megszüntetésének jogellenességével és a fizetési felszólítással kapcsolatos igény esetén.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 287. § (1) bekezdés a)–b) és d) pontja az egyoldalú munkaszerződés-módosítást, a megszüntetés jogellenességét és a fizetési felszólítást harminc napos keresetindításhoz köti. A határidő a munkáltatói jognyilatkozat közlésétől számít. A taxáció a 4/2013. (IX. 23.) KMK vélemény szerint kimerítő."
+        },
+        {
+          "text": "A harminc nap csak a munkáltató keresetére szól; a munkavállaló mindig három évig perelhet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 287. § (1) bekezdése a keresetlevelet a munkáltatói jognyilatkozat közlésétől számított harminc napon belül rendeli előterjeszteni a felsorolt igényekre — tipikusan a munkavállaló perel. A munkavállaló sem mentesül a taxált harminc naptól e körben. A hároméves elévülés a 286. § (1), nem a 287. § (1) általánosítása."
+        },
+        {
+          "text": "Minden munkajogi igényre egységesen harminc napos keresetindítási határidő vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 287. § (1) bekezdése taxatíve sorolja fel a harminc napos eseteket; a (2) bekezdés a munkavállaló 40. § és 78. § szerinti felmondásához kapcsolódó igényt az elévülési időn belül hagyja. A szűkítést kiterjesztően értelmezni tilos. Az elévülési főszabály az Mt. 286. § (1) szerinti három év."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "f855fd198e9c"
+    },
+    {
+      "question": "Hogyan érvényesíthető a munkavállaló 40. § szerinti felmondásával vagy 78. § szerinti azonnali hatályú felmondásával kapcsolatos igény az Mt. 287. § (2) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A munkavállaló 78. § szerinti azonnali hatályú felmondásával kapcsolatos igény szintén az elévülési időn belül érvényesíthető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 287. § (2) bekezdés b) pontja a 78. § szerinti azonnali hatályú felmondáshoz kapcsolódó igényt az elévülési időn belül érvényesíthetőnek mondja. A munkáltatói azonnali hatályú felmondás jogellenességének perelése ellenben a 287. § (1) bekezdés b) pontjának harminc napjába esik. A két irányú felmondás kereseti határideje tehát eltér."
+        },
+        {
+          "text": "A munkavállaló azonnali hatályú felmondásával kapcsolatos igény is harminc napon belül perelendő a 287. § (1) szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 287. § (2) bekezdés b) pontja az igényt kifejezetten az elévülési időn belül hagyja. Az (1) bekezdés harminc napos taxációja ide nem terjed. A munkáltatói azonnali hatályú felmondás jogellenessége viszont az (1) bekezdés b) pont alá esik."
+        },
+        {
+          "text": "A 287. § (2) bekezdése a munkáltató 78. § szerinti felmondására is az elévülést rendeli a harminc nap helyett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 287. § (2) bekezdése csak a munkavállaló 40. § és 78. § szerinti felmondásához kapcsolódó igényről szól. A munkáltatói azonnali hatályú felmondás jogellenességének perelése a 287. § (1) bekezdés b) pontjának harminc napjába esik. A (2) bekezdés alanyi köre tehát a munkavállalói jognyilatkozatokhoz kötött."
+        },
+        {
+          "text": "A munkavállaló 40. § szerinti felmondásával kapcsolatos igény az elévülési időn belül érvényesíthető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 287. § (2) bekezdés a) pontja a munkavállaló 40. § szerinti felmondásához kapcsolódó igényt az elévülési időn belül hagyja érvényesíteni. Ez kivétel az (1) bekezdés harminc napos taxációja alól. Az elévülési idő főszabály szerint a 286. § (1) szerinti három év."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "1792ee5c8f9e"
+    },
+    {
+      "question": "Mit tartalmaz az Mt. 287. § (4) bekezdése a keresetlevél határidő-számításáról, az igazolásról és a hat hónapos végső határról?",
+      "options": [
+        {
+          "text": "A hat hónapos határ az elévülés nyugvásának póthatárideje a Ptk. 6:24. § szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 287. § (4) hat hónapos végső határa a keresetindítási határidő elmulasztásának abszolút korlátja. A Ptk. 6:24. § a menthető ok miatti nyugvás után egyéves, illetve három hónapos póthatáridőt ad. A két intézményt tilos összemosni: a 287. § (4) nem a 6:24. § póthatárideje."
+        },
+        {
+          "text": "Az igényt érvényesítő igazolással élhet a határidő elmulasztása esetén, de hat hónap elteltével az igény nem érvényesíthető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 287. § (4) bekezdése igazolást enged a keresetlevél beadására megállapított határidő elmulasztásakor. Ugyanakkor az igény hat hónap elteltével nem érvényesíthető. Ez abszolút korlát a keresetindításra, nem az elévülés megszakítása vagy nyugvása."
+        },
+        {
+          "text": "A határidőt megtartottnak kell tekinteni, ha a keresetlevelet legkésőbb a határidő utolsó napján postára adták.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 287. § (4) bekezdése első mondata szerint a keresetlevél beadására megállapított határidőt megtartottnak kell tekinteni, ha a keresetlevelet legkésőbb a határidő utolsó napján postára adták. Ez a munkaügyi keresetre szóló külön postára adási fikció. A 4/2003 PJE anyagi jogi minősítése mellett e különös szabály érvényesül."
+        },
+        {
+          "text": "Igazolásnak nincs helye; a harminc nap elmulasztása azonnal, véglegesen elzárja az igényt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 287. § (4) bekezdése kifejezetten lehetővé teszi az igazolást a keresetlevél beadására megállapított határidő elmulasztásakor. A végleges elzárás csak hat hónap elteltével következik be. A harminc nap elmulasztása tehát nem azonnali, abszolút jogvesztés az igazolás lehetősége nélkül."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "323f3e9a6ffd"
+    },
+    {
+      "question": "Mit ír elő az Mt. 22. § (5) bekezdése a munkáltató egyoldalú jognyilatkozatának indokolásáról és a kioktatásról?",
+      "options": [
+        {
+          "text": "A munkáltató az egyoldalú jognyilatkozatát az Mt.-ben meghatározott esetben köteles írásban indokolni, és az igény érvényesítésének módjáról, valamint — ha az elévülésnél rövidebb — a határidőről a munkavállalót ki kell oktatni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 22. § (5) bekezdése az írásbeli indokolást és a kioktatást köti össze. A kioktatás az igény érvényesítésének módjára és — ha az elévülési időnél rövidebb — a határidőre terjed. A szabály a keresetindítási határidő tudatosítását is szolgálja a munkavállaló felé."
+        },
+        {
+          "text": "A kioktatás elmulasztása semmilyen jogkövetkezménnyel nem jár, mert a határidő a törvényből ismertnek tekintendő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 22. § (5) bekezdése kifejezetten kimondja: a határidőről való kioktatás elmulasztása esetén hat hónap elteltével az igény nem érvényesíthető. A törvényi határidő ismerete tehát nem mentesít a kioktatási kötelezettség alól. A mulasztásnak van időbeli jogkövetkezménye."
+        },
+        {
+          "text": "A kioktatás csak az elévülési időről szól; a rövidebb keresetindítási határidőről nem kell tájékoztatni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 22. § (5) bekezdése szerint a kioktatás akkor is kötelező a határidőről, ha az az elévülési időnél rövidebb. Éppen a rövidebb keresetindítási határidő a tipikus eset. Az elévülésnél nem rövidebb határidőről a szöveg nem ír külön kioktatási kötelezettséget e fordulatban."
+        },
+        {
+          "text": "A határidőről való kioktatás elmulasztása esetén hat hónap elteltével az igény nem érvényesíthető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 22. § (5) bekezdése utolsó mondata szerint a határidőről való kioktatás elmulasztása esetén hat hónap elteltével az igény nem érvényesíthető. Ez a 287. § (4) hat hónapos abszolút korlátjához igazodó, kioktatási mulasztáshoz kötött következmény. A kioktatás tehát nem puszta udvariasság, hanem az igényérvényesítés időbeli keretét érinti."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "d2495fc8f240"
+    },
+    {
+      "question": "Mit jelent az elévülés nyugvása a Ptk. 6:24. § szerint, és hogyan kapcsolódik a munkajogi igényhez?",
+      "options": [
+        {
+          "text": "Munkaügyi perben a nyugvás nem alkalmazható, mert a 286. § (3) hivatalbóli szabálya felváltja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 286. § (3) bekezdése az elévülés hivatalbóli figyelembevételéről szól, nem a nyugvás kizárásáról. A 286. § (4) a polgári jogi szabályokat — így a Ptk. 6:24. § nyugvását — mögöttesen alkalmazni rendeli. A hivatalbóli figyelembevétel és a nyugvás párhuzamosan értelmezhető."
+        },
+        {
+          "text": "Az akadály megszűnése után egyéves — egyéves vagy rövidebb elévülésnél három hónapos — póthatáridő áll rendelkezésre akkor is, ha a főidő már letelt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Ptk. 6:24. § (2) bekezdése az akadály megszűnésétől egyéves póthatáridőt ad; egyéves vagy rövidebb elévülésnél három hónapot. A munkajogi hároméves főszabály mellett az egyéves póthatáridő az irányadó. A (3) bekezdés szerint e póthatáridő alatt újabb nyugvásnak nincs helye."
+        },
+        {
+          "text": "A nyugvás a munkajogi hároméves elévülést automatikusan öt évre hosszabbítja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Ptk. 6:24. § nem hosszabbítja meg az elévülési főidőt öt évre, hanem az akadály idejére nyugszik, majd póthatáridőt nyit. Az Mt. 286. § (1) bekezdése szerinti hároméves főszabály a nyugvás alatt is a kiinduló tartam marad. Az öt év a 286. § (2) bűncselekményi különös szabálya, nem a nyugvás következménye."
+        },
+        {
+          "text": "Ha a követelést a jogosult menthető okból nem tudja érvényesíteni, az elévülés nyugszik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Ptk. 6:24. § (1) bekezdése szerint, ha a követelést a jogosult menthető okból nem tudja érvényesíteni, az elévülés nyugszik. A 286. § (4) bekezdése folytán e szabály a munkajogi igényre is irányadó. Az MK 93. számú állásfoglalás a később felismert okozati összefüggést menthető oknak tekinti."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "75818fbb89e8"
+    },
+    {
+      "question": "Mely körülmények szakítják meg az elévülést a Ptk. 6:25. § szerint a munkajogi igényre is irányadóan?",
+      "options": [
+        {
+          "text": "A megszakítás a munkajogi igényre nem alkalmazható, mert a 286. § (1) abszolút hároméves időt állapít meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 286. § (1) a főszabály tartamát állapítja meg, a (4) bekezdés pedig a polgári jogi szabályokat — így a Ptk. 6:25. § megszakítását — mögöttesen alkalmazni rendeli. A hároméves idő a megszakítás után a (2) bekezdés szerint újból kezdődhet. A megszakíthatatlan, abszolút hároméves olvasat tehát nem felel meg a 286. § (4) utaló szabályának."
+        },
+        {
+          "text": "A követelés kötelezettel szembeni bírósági eljárásban történő érvényesítése — ha a bíróság jogerős érdemi határozatot hozott — szintén megszakítja az elévülést.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Ptk. 6:25. § (1) bekezdés c) pontja a bírósági érvényesítést jogerős érdemi határozathoz köti megszakító okként. A csődeljárásban történő bejelentés a d) pont szerint szintén megszakít. A 286. § (4) folytán e megszakítási okok a munkajogra is irányadók."
+        },
+        {
+          "text": "A 287. § (4) hat hónapos végső határa az elévülés megszakításának különös munkajogi esete.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 287. § (4) hat hónapos határa a keresetindítási határidő elmulasztásának abszolút korlátja, nem megszakítási ok. Az elévülés megszakítását a Ptk. 6:25. § (1) bekezdése a tartozáselismerés, az egyezség, a bírósági érvényesítés és a csődbeli bejelentés eseteire szabja. A két intézményt tilos vegyíteni a munkajogi igényérvényesítésben."
+        },
+        {
+          "text": "Az elévülést megszakítja egyebek mellett a tartozásnak a kötelezett részéről történő elismerése, valamint a kötelem megegyezéssel történő módosítása és az egyezség.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Ptk. 6:25. § (1) bekezdés a)–b) pontja a tartozáselismerést, a megegyezéssel módosítást és az egyezséget megszakító oknak minősíti. A 286. § (4) bekezdése folytán e szabály a munkajogi igényre is irányadó, ha az Mt. eltérően nem rendelkezik. A megszakítástól az elévülés újból kezdődik a (2) bekezdés szerint."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "0a6b23f34d28"
+    },
+    {
+      "question": "Hogyan kezeli az Mt. 175. § a kártérítési járadékok elévülését?",
+      "options": [
+        {
+          "text": "Ha több, eltérő időpontban esedékes újabb elkülönülő kárigény származik, az elévülési időt az egyes igények esedékességétől külön-külön kell számítani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 175. § (2) bekezdése szerint, ha a sérelemmel összefüggésben több és egymástól eltérő időpontban esedékes újabb elkülönülő kárigény származik, az elévülési időt egymástól függetlenül, az egyes igények esedékességétől kell számítani. A (3) bekezdés a táppénz első fizetésétől, a jövedelemkiesés bekövetkeztétől, illetve az ellátás folyósításától indítja az időt. Az MK 93. ugyanezt a járadékok sorozatára mondja ki."
+        },
+        {
+          "text": "A 175. § csak a Ptk. mögöttes szabályait ismétli, önálló elévülési rendet nem állít.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 175. § saját, a kártérítési járadékokra szabott elévülési rendet ad: önálló igények, külön kezdőnapok, külön számítás. A Ptk. 6:22. § általános esedékességi kezdete itt az Mt. 175. § (3) bekezdésének különös kezdőpontjaival egészül ki. A puszta ismétlés tehát nem helytálló a járadéksorozatnál."
+        },
+        {
+          "text": "A járadékok elévülése egységesen a károkozás napjától indul, és egyetlen hároméves idő alatt zárul.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 175. § (1)–(2) bekezdése az igényeket önállósítja, és az elévülést az egyes esedékességektől számítja. A károkozás napja önmagában nem zárja le a később esedékessé váló járadékrészeket. A 175. § éppen az egységes elévülési olvasatot engedi el."
+        },
+        {
+          "text": "Az elévülés szempontjából önállónak kell tekinteni egyebek mellett az elmaradt jövedelem és a táppénz, valamint az elmaradt jövedelem és a csökkent kereset megtérítése iránti igényt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 175. § (1) bekezdés a)–b) pontja az elmaradt jövedelem és a táppénz, valamint az elmaradt jövedelem és a sérelem folytán csökkent kereset igényét önállónak tekinti. A rokkantsági, baleseti rokkantsági, rokkantsági vagy rehabilitációs ellátás különbözete a c) pont szerint szintén önálló. Az egyes igények tehát nem egyetlen elévülési egység."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "5fa7756774e2"
+    },
+    {
+      "question": "Hogyan viszonyul a békéltetés a 287. § határideihez az Mt. 288. § szerint?",
+      "options": [
+        {
+          "text": "A 287. §-ban foglalt határidőket nem érinti, ha a kollektív szerződés vagy a felek megállapodása békéltetés lefolytatását rendeli.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 288. § szerint a 287. §-ban foglalt határidőket nem érinti, ha a kollektív szerződés vagy a felek megállapodása a jogvita feloldása érdekében békéltetés lefolytatását rendeli. A békéltetés tehát a határidőt nem nyugtatja és nem szakítja meg. A Vht. 23. § (1) bekezdés b) pontja a békéltető egyezséget végrehajtási záradékkal láttathatja."
+        },
+        {
+          "text": "A békéltetés megkezdése automatikusan megszakítja a 287. § harminc napos határidejét.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 288. § kifejezetten azt mondja, hogy a 287. § határideit a békéltetés nem érinti. Megszakításról vagy nyugvásról e szakasz nem rendelkezik. A határidő a békéltetés alatt is folyik."
+        },
+        {
+          "text": "A békéltetés a 286. § szerinti elévülést is megszakítja a Ptk. 6:25. § helyett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 288. § csak a 287. § keresetindítási határideiről szól, az elévülés megszakításáról nem. Az elévülés megszakítását a Ptk. 6:25. § szabályozza a 286. § (4) folytán. A békéltetés önmagában nem helyettesíti a 6:25. § megszakítási okait."
+        },
+        {
+          "text": "A 4/2013. (IX. 23.) KMK vélemény 6. pontja az egyeztetést is e kógens rend alá vonja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 4/2013. (IX. 23.) KMK vélemény 6. pontja az egyeztetést is a 288. § szerinti kógens rend alá vonja. Az egyeztetés sem tolja el az Mt. 287. § szerinti keresetindítási határidőt. A felek megállapodása tehát nem írhatja felül a keresetindítási taxációt e körben."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "5fff1105f632"
+    },
+    {
+      "question": "Milyen nemperes utat nyit az Mt. 289. § a tájékoztatási vagy konzultációs szabály megszegésére?",
+      "options": [
+        {
+          "text": "A bíróság tizenöt napon belül, polgári nemperes eljárásban határoz; a fellebbezés öt nap, a másodfok ismét tizenöt nap.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 289. § (2) bekezdése szerint a bíróság tizenöt napon belül, polgári nemperes eljárásban határoz. A határozat ellen a közléstől számított öt napon belül van fellebbezés, a másodfokú bíróság tizenöt napon belül határoz. A gyorsított rend a tájékoztatási–konzultációs vita sajátja."
+        },
+        {
+          "text": "Csak a munkavállaló indíthatja a 289. § szerinti eljárást, az üzemi tanács és a szakszervezet nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 289. § (1) bekezdése a munkáltatót, az üzemi tanácsot és a szakszervezetet nevezi meg indítványozóként. A munkavállaló e szakasz alanyi körében nem szerepel. A tájékoztatási–konzultációs vita tehát a kollektív szereplők és a munkáltató útja."
+        },
+        {
+          "text": "A munkáltató, az üzemi tanács vagy a szakszervezet a tájékoztatásra vagy a konzultációra vonatkozó szabály megszegése miatt öt napon belül bírósághoz fordulhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 289. § (1) bekezdése öt napos határidőt ad a tájékoztatási vagy konzultációs szabály megszegése miatti bírósághoz fordulásra. Az indítványozók a munkáltató, az üzemi tanács vagy a szakszervezet. Az öt napos nemperes út az Mt. 287. § taxációján kívül áll, attól elválik."
+        },
+        {
+          "text": "A tájékoztatási vita is a 287. § (1) harminc napos keresetindítási rendje alá esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 289. § önálló, öt napos nemperes utat nyit, és e határidők az Mt. 287. § taxációján kívül állnak. A harminc napos keresetindítás ide nem húzható rá. A tájékoztatási–konzultációs vita és a 287. § szerinti peres taxáció eljárásrendjét tilos összemosni."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "4a7ebefe9097"
+    },
+    {
+      "question": "Hogyan kapcsolódik a megállapodás megtámadása az Mt. 28. § és a 287. § (3) bekezdése szerint a keresetindításhoz?",
+      "options": [
+        {
+          "text": "A sikeresen megtámadott megállapodás érvényes marad, csak kártérítést lehet követelni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 28. § (9) bekezdése szerint a sikeresen megtámadott megállapodás érvénytelen. A 83. § (1) bekezdés c) pontja pedig a munkaviszony helyreállítását is megnyithatja. A puszta kártérítési út tehát nem a sikeres megtámadás jogkövetkezménye."
+        },
+        {
+          "text": "Megtámadás esetén a keresetlevelet a megtámadás eredménytelenségének megállapításától számított harminc napon belül lehet előterjeszteni; a megtámadás eredménytelen, ha a másik fél tizenöt napon belül nem válaszol vagy nem fogadja el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 287. § (3) bekezdése a keresetet a megtámadás eredménytelenségétől számított harminc naphoz köti. A megtámadás eredménytelen, ha a másik fél annak közlésétől számított tizenöt napon belül nem válaszol, vagy azt nem fogadja el. A 28. § anyagi megtámadása és a 287. § (3) eljárási határideje így kapcsolódik."
+        },
+        {
+          "text": "A megtámadás határideje harminc nap a tévedés felismerésétől vagy a jogellenes fenyegetés megszűnésétől; hat hónap elteltével a megtámadás joga nem gyakorolható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 28. § (7) bekezdése a megtámadási határidőt harminc napban állapítja meg a felismeréstől vagy a fenyegetés megszűnésétől. A megtámadási határidőre az elévülés szabályai megfelelően irányadók azzal, hogy hat hónap elteltével a jog nem gyakorolható. A (8) bekezdés szerint a megtámadást írásban kell a másik féllel közölni."
+        },
+        {
+          "text": "A megtámadás után a keresetindításra az elévülési három év áll rendelkezésre, harminc napos határ nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 287. § (3) bekezdése kifejezetten harminc napos keresetindítási határidőt köt a megtámadás eredménytelenségéhez. A hároméves elévülés az Mt. 286. § (1) szerinti általános anyagi dimenzió, de e taxált esetben a keresetindítás harminc nap. A megtámadás utáni keresetet tehát nem lehet az elévülési főidővel helyettesíteni."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "4f391cfd96be"
+    },
+    {
+      "question": "Mikor van a keresetlevél benyújtásának halasztó hatálya az Mt. 287. § (5) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Csak a munkaviszony megszüntetésének jogellenességével kapcsolatos keresetnek van halasztó hatálya.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 287. § (5) bekezdése a halasztó hatályt az (1) bekezdés c)–d) pontjára tartja fenn, nem a b) pont szerinti megszüntetési perre. A megszüntetés jogellenességének keresete tehát főszabály szerint nem halasztó hatályú. A c)–d) pont a kötelezettségszegési jogkövetkezmény és a fizetési felszólítás."
+        },
+        {
+          "text": "A kötelezettségszegés miatt alkalmazott jogkövetkezménnyel és a fizetési felszólítással kapcsolatos keresetnek van halasztó hatálya.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 287. § (5) bekezdése az (1) bekezdés c)–d) pontot kivételként emeli ki a halasztó hatály hiánya alól. A c) pont a hátrányos jogkövetkezmény, a d) pont a fizetési felszólítás. Az 56. § szerinti intézkedés perelésekor tehát a kereset halasztó hatályú."
+        },
+        {
+          "text": "Minden 287. § (1) szerinti kereset automatikusan felfüggeszti a munkáltatói jognyilatkozat hatályát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 287. § (5) bekezdése szerint a keresetlevél benyújtásának — a c)–d) pont kivételével — nincs halasztó hatálya. A megszüntetés jogellenességének perelése (b) pont) tehát nem függeszt fel automatikusan. A teljes körű felfüggesztés olvasata hibás."
+        },
+        {
+          "text": "A keresetlevél benyújtásának — az (1) bekezdés c)–d) pontban foglaltakat kivéve — halasztó hatálya nincs.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 287. § (5) bekezdése főszabályként kizárja a halasztó hatályt. Kivétel az (1) bekezdés c) és d) pont: a kötelezettségszegés miatti jogkövetkezmény és a fizetési felszólítás. A többi taxált kereset tehát nem függeszti fel automatikusan a jognyilatkozat hatályát."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "2623349170bb"
+    },
+    {
+      "question": "Milyen vagyoni jogkövetkezményt állapít meg az Mt. 82. § a munkáltató jogellenes megszüntetésére, és hogyan kapcsolódik ez a keresetindításhoz?",
+      "options": [
+        {
+          "text": "A munkavállaló az (1)–(2) bekezdés helyett követelheti a munkáltatói felmondás esetén irányadó felmondási időre járó távolléti díjnak megfelelő összeget.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 82. § (4) bekezdése ezt a választási jogot adja. A végkielégítés a (3) bekezdés szerint jár, ha a jogellenes megszűnés nem felmondással történt, vagy a 77. § (5) bekezdés b) pontja miatt elmaradt. A 85. § (1) bekezdés c) pontja a 82. § (1) bekezdésétől eltérést nem enged."
+        },
+        {
+          "text": "Az elmaradt jövedelem plafonja a huszonnégy havi távolléti díj.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 82. § (2) bekezdése szerint a munkaviszony körében elmaradt jövedelem címén igényelt kártérítés nem haladhatja meg a munkavállaló tizenkéthavi távolléti díjának összegét. A huszonnégy hónap tehát nem a törvényi plafon. A Pp. 521. § (1) a keresetlevélben a tizenkéthavi összeg feltüntetését is megköveteli."
+        },
+        {
+          "text": "A munkáltató köteles megtéríteni a munkaviszony jogellenes megszüntetésével összefüggésben okozott kárt; az elmaradt jövedelem a tizenkéthavi távolléti díjat nem haladhatja meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 82. § (1)–(2) bekezdése a kártérítést és a tizenkéthavi távolléti díj plafont rögzíti. A jogellenesség perelése a 287. § (1) bekezdés b) pontja szerint harminc napos keresetindításhoz kötött. A 4/2013. (IX. 23.) KMK vélemény szerint a 82. § (2) keretét a jogerőkor még ki nem merítő távolléti díj az elévülésen belül újabb kereset tárgya lehet."
+        },
+        {
+          "text": "A jogellenes megszüntetés kártérítése az elévülési időn belül, harminc napos határ nélkül érvényesíthető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megszüntetés jogellenességének perelése az Mt. 287. § (1) bekezdés b) pontja szerint harminc napos keresetindításhoz kötött. Az elévülés a 286. § (1) szerinti hároméves anyagi dimenzió, de a keresetindítás e taxált esetben harminc nap. A 4/2013 KMK szerint a jogerő után még ki nem merített távolléti díj az elévülésen belül külön eljárásban érvényesíthető."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "75b0e23ba5e9"
+    },
+    {
+      "question": "Melyik bíróság hatáskörébe tartozik a munkaügyi per a Pp. 20. § (2) bekezdése szerint, és mi a választottbíráskodás helyzete?",
+      "options": [
+        {
+          "text": "A törvényszék jár el a munkaügyi perekben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Pp. 20. § (2) bekezdése szerint a törvényszék jár el a munkaügyi perekben. Az (1) bekezdés a törvényszéki általános hatáskört, a (3) a járásbíróság vagyonjogi, személyi állapoti és végrehajtási körét adja. A munkaügyi per tehát nem a járásbíróság általános vagyonjogi hatáskörébe esik."
+        },
+        {
+          "text": "Választottbíróság a Vbt. 1. § (3) bekezdése folytán a Pp. Hetedik Részébe tartozó munkaügyi ügyben nem járhat el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Vbt. 1. § (3) bekezdése folytán a Pp. Hetedik Részébe tartozó munkaügyi ügyben választottbíróság nem járhat el. A munkaügyi per tehát a törvényszék hatáskörében marad, választottbírósági útra nem vihető. Ez a bírósághoz fordulás XXVIII. cikk (1) bekezdésbeli követelményének eljárási következménye is."
+        },
+        {
+          "text": "A munkaügyi per a járásbíróság hatáskörébe tartozik, ha a pertárgyérték harmincmillió forint alatt van.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Pp. 20. § (2) bekezdése a munkaügyi pereket kifejezetten a törvényszékhez telepíti. A (3) bekezdés harmincmilliós küszöbe a járásbíróság vagyonjogi pereihez kapcsolódik, nem a munkaügyi perhez. A pertárgyérték tehát nem írja át a (2) bekezdés speciális hatáskörét."
+        },
+        {
+          "text": "A felek megállapodással a munkaügyi vitát választottbíróság elé vihetik a Vbt. szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Vbt. 1. § (3) bekezdése folytán a Pp. Hetedik Részébe tartozó munkaügyi ügyben választottbíróság nem járhat el. A felek megállapodása e tilalmat nem oldja fel. A vita a törvényszék előtti munkaügyi perben marad."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "892617761548"
+    },
+    {
+      "question": "Mit ért munkaügyi peren a Pp. 508. §, és hogyan kapcsolódik az Mt. 285. § (1) bekezdéséhez?",
+      "options": [
+        {
+          "text": "Munkaügyi per egyebek mellett az Mt. alapján létesített munkaviszonyból, valamint törvényi felsorolás szerint a közalkalmazotti és más taxált jogviszonyokból származó per.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Pp. 508. § (1) bekezdése az Mt. szerinti munkaviszony mellett a közalkalmazotti, a törvényi kivételekkel a szolgálati, a közfoglalkoztatási, a sport-, szakképzési és hallgatói munkaszerződéses, valamint a szövetkezeti tagi jogviszonyból származó pert is munkaügyi pernek minősíti. A fogalom tehát tágabb, mint a puszta Mt.-s munkaviszony. A (2) bekezdés az Mt. 285. § (1) szerinti további munkajogi igényt is a fejezet alá vonja."
+        },
+        {
+          "text": "A Pp. 508. § (2) bekezdése szerint munkaügyi per az Mt. 285. § (1) bekezdése szerinti további munkajogi igény érvényesítésével kapcsolatos per is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Pp. 508. § (2) bekezdése a szakszervezet és az üzemi tanács 285. § (1) szerinti igényeit is a munkaügyi per fogalma alá vonja. A (3) bekezdés az engedményezés, tartozásátvállalás és munkáltatói jogutódlás ellenére is munkaügyinek minősíti a pert. Ez az MK 160. számú állásfoglalás utódja."
+        },
+        {
+          "text": "A Pp. 508. § csak az Mt. szerinti munkaviszonyra vonatkozik; a közalkalmazotti jogviszony más perrendbe tartozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Pp. 508. § (1) bekezdés b) pontja a közalkalmazotti jogviszonyból származó pert is munkaügyi pernek minősíti. A fogalom taxáltan több jogviszony-típust sorol fel. A közalkalmazotti per tehát nem esik ki a munkaügyi perrendből e szakasz szerint."
+        },
+        {
+          "text": "Jogutódlás esetén a per elveszíti munkaügyi jellegét, és általános polgári perré válik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Pp. 508. § (3) bekezdése szerint, ha a peres felek bármelyikének személye engedményezés, tartozásátvállalás, munkáltatói jogutódlás, illetve a munkáltató személyében bekövetkező változás alapján módosul, a per változatlanul munkaügyi pernek minősül. Az MK 160. számú állásfoglalás ugyanezt a jogutódlás munkaügyi jellegének fennmaradásáról mondta ki. A jogutódlás tehát nem szünteti meg a per munkaügyi minősítését a Pp. 508. § (3) szerint."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "70ec27940281"
+    },
+    {
+      "question": "Mikor állítja helyre a bíróság a munkaviszonyt az Mt. 83. § (1) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A helyreállítás minden jogellenes megszüntetésnél automatikus, kérelem nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 83. § (1) bekezdése a helyreállítást a munkavállaló kérelméhez és taxált jogalapokhoz köti. A 82. § szerinti vagyoni jogkövetkezmény a helyreállítás nélküli út. Az automatikus helyreállítás tehát nem a törvényi rend."
+        },
+        {
+          "text": "Helyreállításnál az elmaradt munkabér plafonja a tizenkéthavi távolléti díj a 82. § (2) szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 83. § (3) bekezdése az elmaradt munkabért a távolléti díj szerint számítja, a (4) bekezdés levonásokat rendel; a 82. § (2) tizenkéthavi plafon a helyreállítás nélküli kártérítési útra vonatkozik. A két szakasz jogkövetkezményeit tilos felcserélni. A helyreállítási perben a 83. § saját számítási rendje az irányadó."
+        },
+        {
+          "text": "A munkavállaló kérelmére, ha a megszüntetés egyebek mellett az egyenlő bánásmód követelményébe vagy a joggal való visszaélés tilalmába ütközött.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 83. § (1) bekezdés a) pont aa)–ab) alpontja az egyenlő bánásmód és a joggal való visszaélés tilalmának megsértését helyreállítási jogalapnak minősíti. A helyreállítás kérelemhez kötött, nem automatikus. A 287. § (1) bekezdés b) pontja a megszüntetés jogellenességének perelését harminc napos keresethez köti."
+        },
+        {
+          "text": "Helyreállításnak van helye akkor is, ha a munkavállaló a közös megegyezéssel történő megszüntetést vagy saját jognyilatkozatát sikerrel támadta meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 83. § (1) bekezdés c) pontja a sikeresen megtámadott közös megegyezést vagy saját jognyilatkozatot helyreállítási esetként nevezi meg. A 28. § szerinti megtámadás és a 287. § (3) keresetindítási határideje így a helyreállításhoz vezethet. A közbenső idő a (2) bekezdés szerint munkaviszonyban töltött időnek számít."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "775d63ade223"
+    },
+    {
+      "question": "Milyen fizetési kötelezettség terheli a munkavállalót, ha a munkaviszonyát jogellenesen szünteti meg az Mt. 84. § szerint?",
+      "options": [
+        {
+          "text": "A határozott idejű jogviszony jogellenes megszüntetésénél a teljes hátralévő idő távolléti díja mindig jár, felső határ nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 84. § (2) bekezdése a hátralévő időre járó összeget legfeljebb háromhavi távolléti díjban maximalizálja. A teljes hátralévő idő tehát nem korlátlanul követelhető átalányként. A (3) bekezdés szerinti további kár sem lépheti túl a tizenkét havi együttes plafont."
+        },
+        {
+          "text": "Határozatlan idejű jogviszonynál a munkavállalói felmondás esetén irányadó felmondási időre járó távolléti díjnak megfelelő összeget kell megfizetni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 84. § (1) bekezdése szerint a munkavállaló, ha munkaviszonyát jogellenesen szüntette meg, köteles a munkavállalói felmondás esetén irányadó felmondási időre járó távolléti díjnak megfelelő összeget megfizetni. Ez a munkáltatói oldal 82. § szerinti vagyoni jogkövetkezményének tükörképe a munkavállalói oldalon. A 84. § (4) bekezdése a munkakör előírt rendben való átadásának elmaradását ugyanide vonja."
+        },
+        {
+          "text": "Határozott idejű jogviszonynál a hátralévő időre járó, de legfeljebb háromhavi távolléti díj a minimum; a munkáltató a feletti kárt is követelheti, együttesen legfeljebb tizenkét havi távolléti díjig.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 84. § (2) bekezdése a határozott időnél a hátralévő időre járó, de legfeljebb háromhavi távolléti díjat állapít meg. A (3) bekezdés szerint a munkáltató az (1) vagy (2) mértéket meghaladó kárt is követelheti, de ezek együttesen nem haladhatják meg a tizenkét havi távolléti díjat. A plafon tehát a kettő együttesére is érvényes."
+        },
+        {
+          "text": "A munkavállaló jogellenes megszüntetése esetén csak kártérítés jár, távolléti díj alapú átalány nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 84. § (1)–(2) bekezdése távolléti díj alapú átalányösszeget ír elő, és a (3) bekezdés engedi a feletti kár érvényesítését a tizenkét havi plafonig. A puszta, átalány nélküli kártérítési út tehát nem a törvényi főszabály. A határozatlan és a határozott idő eltérő átalánytételeket kap."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "19a1b0560f35"
+    },
+    {
+      "question": "Mit mond a Pp. 510. § az elsőfokú munkaügyi tanács ülnöki összetételéről, és mit a 511. § a kizárásról?",
+      "options": [
+        {
+          "text": "Munkaügyi perben az elsőfokú bíróság — törvény eltérő rendelkezése hiányában — ülnökök közreműködésével jár el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Pp. 510. § szerint munkaügyi perben az elsőfokú bíróság — törvény eltérő rendelkezése hiányában — ülnökök közreműködésével jár el. Az ülnöki részvétel a munkaügyi per sajátos összetétele. Törvény eltérő rendelkezése hiányában az ülnök nélküli eljárás szabálytalan."
+        },
+        {
+          "text": "Az ülnöki részvétel mindig mellőzhető a felek közös kérelmére.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Pp. 510. § az ülnöki közreműködést főszabályként írja elő, és csak törvény eltérő rendelkezése engedi a mellőzést. A felek közös kérelme önmagában nem helyettesíti a törvényi kivételt. Az ülnök nélküli eljárás tehát nem a felek rendelkezési jogának tárgya."
+        },
+        {
+          "text": "A 511. § szerinti kizárás az ülnökre is kihat, mert a tanács tagja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Pp. 511. § a megtámadott intézkedést tevőt, hozzátartozóját, valamint a fegyelmi vagy egyeztetési eljárás résztvevőjét zárja ki, és e tilalom a tanács tagjaként az ülnökre is kihat. A kizárás a pártatlanság Alaptörvény XXVIII. cikk (1) bekezdésbeli követelményének eljárási biztosítéka. A jegyzőkönyvvezetőre a (2) bekezdés ugyanezt rendeli."
+        },
+        {
+          "text": "Az ülnökre a 511. § kizárási szabályai nem vonatkoznak, mert nem hivatásos bíró.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Pp. 511. § a per elintézéséből zárja ki a megjelölt személyeket, és az ülnök a tanács tagjaként e tilalom alá esik. A hivatásos bírói minőség hiánya nem mentesít. A pártatlanság követelménye az ülnöki részvételre is kiterjed."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "6d543b6b2b26"
+    },
+    {
+      "question": "Hogyan számítja a Pp. 512. § a munkaügyi per pertárgyértékét helyreállítás és pénzkövetelés esetén?",
+      "options": [
+        {
+          "text": "Ha a munkaviszony helyreállítását kérik, a keresettel érvényesített követelés értékeként — a ténylegesen megállapítható összegtől függetlenül — az egyévi távolléti díjat kell figyelembe venni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Pp. 512. § (1) bekezdése a helyreállítási keresetre az egyévi távolléti díj fikcióját állítja. A ténylegesen megállapítható összegtől függetlenül ez az irányadó. A fikció az illeték és a hatásköri érték szempontjából is kiszámíthatóvá teszi a 83. § helyreállítási keresetét."
+        },
+        {
+          "text": "Bérkülönbözetnél a teljes, évek során felhalmozódott különbözet korlátlanul beleszámít a pertárgyértékbe.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Pp. 512. § (2) bekezdése a bérkülönbözetnél legfeljebb annak egyévi összegét rendeli figyelembe venni. A több évre felhalmozódott különbözet tehát nem korlátlanul emeli a pertárgyértéket. A törvényi plafon az egyévi bérkülönbözet összege, nem a teljes felhalmozódás."
+        },
+        {
+          "text": "Pénzkövetelésnél a követelés összege, bérkülönbözetnél legfeljebb annak egyévi összege számít pertárgyértéknek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Pp. 512. § (2) bekezdése szerint, ha a per tárgya pénzkövetelés, a pénzkövetelés összegét, bérkülönbözet követelése esetén legfeljebb annak egyévi összegét kell figyelembe venni. A bérkülönbözet tehát nem korlátlanul, hanem legfeljebb egyéves mértékben számít. A helyreállítási egyévi távolléti díj fikciójától az (1) bekezdés szerint ez a számítás elválik."
+        },
+        {
+          "text": "Helyreállításnál a pertárgyérték mindig a ténylegesen kiszámított elmaradt munkabér.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Pp. 512. § (1) bekezdése szerint a helyreállításnál az egyévi távolléti díjat kell figyelembe venni a ténylegesen megállapítható összegtől függetlenül. A tényleges elmaradt munkabér tehát nem a pertárgyérték alapja e fikció mellett. A 83. § (3) szerinti elmaradt munkabér számítása ettől elválik."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "c5aa46b995f4"
+    },
+    {
+      "question": "Milyen félképességet ad a Pp. 514. § (1) a szakszervezetnek és az üzemi tanácsnak, és mit mond a (2) a jogi képviselet kötelezettségéről?",
+      "options": [
+        {
+          "text": "A szakszervezet csak keresethez csatlakozóként vehet részt, saját félként nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Pp. 514. § (1) bekezdése a szakszervezetet félként ismeri el, a 509. § (2) pedig kizárja a keresethez csatlakozást. A szakszervezet tehát saját félként, nem csatlakozóként jelenik meg. Az Mt. 285. § (1) anyagi igényérvényesítési joga ezzel eljárási félképességet kap."
+        },
+        {
+          "text": "A perben fél lehet az a szakszervezet, munkáltatói érdekképviseleti szervezet vagy üzemi, közalkalmazotti tanács is, amelynek egyébként nincs perbeli jogképessége.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Pp. 514. § (1) bekezdése félképességgel ruházza fel e szervezeteket akkor is, ha egyébként nincs perbeli jogképességük. Ez az Mt. 285. § (1) szerinti kollektív alanyok eljárási kiegészítése. A 509. § (2) szerint a keresethez csatlakozásnak nincs helye: saját félként jelennek meg."
+        },
+        {
+          "text": "Munkaügyi perben minden fokon kötelező a jogi képviselet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Pp. 514. § (2) bekezdése szerint — törvény eltérő rendelkezése hiányában — nem kötelező a jogi képviselet a perben, a fellebbezésben és a perújításban sem. A kényszerképviselet tehát nem a munkaügyi per általános szabálya. A felülvizsgálati ellenkérelem előterjesztőjére is ez a könnyítés irányadó a perrel összefüggő felülvizsgálatban."
+        },
+        {
+          "text": "Nem kötelező a jogi képviselet — törvény eltérő rendelkezése hiányában — a perben, ideértve a fellebbezési és perújítási eljárást is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Pp. 514. § (2) bekezdése szerint nem kötelező a jogi képviselet a perben, ideértve a fellebbezést és a perújítást, valamint az ellenkérelmet előterjesztő fél számára a perrel összefüggő felülvizsgálatban sem. A munkaügyi per tehát főszabály szerint nem kényszerképviseletes. Saját tag perében a munkavállalói érdekképviselet meghatalmazottként is eljárhat."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "621799f7a57d"
+    },
+    {
+      "question": "Mit mond az Mt. 290. § a kollektív szerződésben meghatározott jogcímű igény érvényesítési rendjéről?",
+      "options": [
+        {
+          "text": "A 290. § a 286. § elévülési idejét is felére rövidítheti kollektív szerződéssel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 290. § az érvényesítés eljárási rendjéről szól, nem az elévülés rövidítéséről. A 286. § (4) bekezdése a munkavállaló igényének elévülési idejét a felek számára nem engedi rövidíteni. A kollektív szerződés sem írhatja felül e tilalmat a 290. § címén."
+        },
+        {
+          "text": "A kollektív szerződés a 287. § valamennyi harminc napos határidejét szabadon meghosszabbíthatja bármely munkajogi igényre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 290. § csak a kollektív szerződésben meghatározott jogcímű igény érvényesítési rendjét engedi eltérően szabályozni. A 287. § taxált eseteire vonatkozó kógens határidőt nem írhatja felül általános jelleggel. A 288. § szerinti békéltetés sem tolja el a 287. § határideit."
+        },
+        {
+          "text": "A 290. § szerinti eltérő rend a szerződésben létrehozott jogcímhez kötött saját út, nem az általános 287. § taxációjának felülírása bármely Mt.-s igényre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 290. § csak a kollektív szerződésben meghatározott jogcímű igényre engedi az eltérő érvényesítési szabályokat. Az általános Mt.-s igények 287. § szerinti harminc napos taxációját nem írhatja felül tetszőlegesen. A 285. § (1) általános bírósági útja csak a KSZ-alkotta jogcímnél enged eltérést."
+        },
+        {
+          "text": "A kollektív szerződésben meghatározott jogcím alapján fennálló igény érvényesítésének eltérő szabályait a kollektív szerződés meghatározhatja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 290. § a kollektív szerződés autonómiáját az igényérvényesítés eljárási rendjére is kiterjeszti, de csak a szerződésben meghatározott jogcímű igényre. Az általános 285–287. § ettől csak annyiban enged eltérést, amennyiben a jogcímet maga a kollektív szerződés hozza létre. A békéltetés 288. §-a ettől független: a határidőt nem érinti."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "8d0c1cf9336a"
+    }
+  ]
+}

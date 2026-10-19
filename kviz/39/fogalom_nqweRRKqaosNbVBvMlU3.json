@@ -1,0 +1,765 @@
+{
+  "id": "nqweRRKqaosNbVBvMlU3",
+  "sorszam": 39,
+  "cim": "Kollektív munkaügyi vita.",
+  "generationType": "fogalom",
+  "title": "39. Kollektív munkaügyi vita.",
+  "questions": [
+    {
+      "question": "Mit jelent a kollektív munkaügyi vita alanyi köre az Mt. 291. § (1) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A kollektív munkaügyi vita a kollektív szereplők összeütközése, nem az egyedi munkavállaló–munkáltató igényérvényesítés.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 291. § (1) bekezdése a bizottság alanyait a munkáltatóra és az üzemi tanácsra vagy a szakszervezetre szűkíti. Az egyedi munkavállaló nem áll a 291. § szerinti ellenoldalon a munkáltatóval szemben. A vita a munkaügyi kapcsolatok kollektív feloldása, nem az egyedi igényérvényesítés fóruma."
+        },
+        {
+          "text": "A vita a munkáltató és az üzemi tanács vagy a szakszervezet között merül fel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 291. § (1) bekezdése szerint a munkáltató és az üzemi tanács vagy a szakszervezet a közöttük felmerült viták feloldására egyeztető bizottságot alakíthat. A törvény a munkáltatóval szemben vagylagos ellenoldalt jelöl: üzemi tanácsot vagy szakszervezetet. A bizottság tehát munkáltató–üzemi tanács vagy munkáltató–szakszervezet viszonyban jön létre."
+        },
+        {
+          "text": "A bizottság az üzemi tanács és a szakszervezet egymás közötti vitájában is létrehozható a munkáltató nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 291. § (1) bekezdés „vagy” fordulata a munkáltatóval szembeni vagylagos ellenoldalt jelöl. A bizottság nem a két munkavállalói oldal egymás közötti fóruma. A helyes szerkezet munkáltató–üzemi tanács vagy munkáltató–szakszervezet viszony."
+        },
+        {
+          "text": "A bizottság a munkáltató és az egyedi munkavállaló között is alakítható, ha a vita munkaviszonnyal összefügg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 291. § (1) bekezdése a munkáltatót az üzemi tanáccsal vagy a szakszervezettel állítja szembe. Az egyedi munkavállaló nem a 291. § szerinti bizottság ellenoldala. A tévedés a kollektív munkaügyi vita és az egyedi igényérvényesítés alanyi körének összecseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "ee085e2caee5"
+    },
+    {
+      "question": "Milyen jellegű a 291. § (1) bekezdése szerinti egyeztető bizottság alakítása?",
+      "options": [
+        {
+          "text": "A munkáltató és az üzemi tanács vagy a szakszervezet között felmerült vita esetén a bizottság alakítása kötelező.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 291. § (1) bekezdése fakultatív: a felek alakíthatnak bizottságot, a törvény nem írja elő a kötelező alakítást. A kötelező hatás a 293. § (1) szerinti előzetes írásbeli alávetéshez kötődik. A bizottság létrehozása önmagában nem teszi kötelezővé a határozatot."
+        },
+        {
+          "text": "A felek a közöttük felmerült viták feloldására egyeztető bizottságot alakíthatnak: a fordulat fakultatív.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 291. § (1) bekezdése kimondja: a felek „egyeztető bizottságot (a továbbiakban: bizottság) alakíthat”. A törvény a bizottságot nem kényszeríti ki. A feloldás szervezeti útja nyitva áll, de a létrehozás nem kötelező."
+        },
+        {
+          "text": "Állandó bizottságot az üzemi megállapodás vagy a kollektív szerződés létesíthet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 291. § (1) bekezdés második mondata szerint az üzemi megállapodás vagy a kollektív szerződés állandó bizottság megalakításáról is rendelkezhet. A testület lehet eseti és állandó formában. Az állandó bizottság jogalapja e két instrumentum; puszta szóbeli megállapodás nem elegendő."
+        },
+        {
+          "text": "Állandó bizottságot a felek szóbeli megállapodással is létesíthetnek, üzemi megállapodás vagy kollektív szerződés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, állandó bizottságot csak üzemi megállapodás vagy kollektív szerződés létesíthet a 291. § (1) bekezdés második mondata szerint. Eseti bizottság a felek megállapodásával állandó kikötés nélkül is alakítható. A szóbeli megállapodás az állandó bizottság instrumentumát nem pótolja."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "c6d4ee053c50"
+    },
+    {
+      "question": "Mit rögzít az Mt. 291. § (2) bekezdése az egyeztető bizottság összetételéről?",
+      "options": [
+        {
+          "text": "A bizottság a munkáltató és az üzemi tanács vagy a szakszervezet által azonos számban delegált tagból és független elnökből áll.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 291. § (2) bekezdése szerint a bizottság „azonos számban delegált tagból és független elnökből áll”. A két oldal létszámparitása kógens: azonos számú delegálás. Az elnök nem a felek képviselője, hanem független harmadik személy a testületben."
+        },
+        {
+          "text": "A bizottság háromelemű szerkezet: delegált tagok plusz független elnök, nem a munkáltató egyoldalú fóruma.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 291. § (2) bekezdése a paritásos delegálást és a független elnököt együtt rögzíti. A munkáltató nem egyedül tölti fel a testületet. A független elnök a felek képviselőjén kívül áll, így a bizottság nem munkáltatói egyoldalú fórum."
+        },
+        {
+          "text": "Az elnök a munkáltató által kijelölt képviselő, aki a delegált tagok között elnököl.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 291. § (2) bekezdése független elnököt követel: az elnök nem a felek képviselője. A munkáltatói kijelölés a függetlenséget elvonná. A tévedés a munkáltatói fórum és a paritásos bizottság összekeveréséből ered."
+        },
+        {
+          "text": "A munkáltató a bizottságba a másik oldalnál több tagot is delegálhat, ha a vitát ő kezdeményezte.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 291. § (2) bekezdése azonos számú delegálást ír elő: létszámparitás, nem szabad szavazati súly. A kezdeményező oldal sem kap többséget a bizottságban. Alávetés esetén szavazategyenlőségnél az elnök szavazata dönt a 293. § (1) bekezdés szerint."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "b3726a627d11"
+    },
+    {
+      "question": "Mikor válik az egyeztető bizottság határozata kötelezővé, és milyen forrási rangot kap?",
+      "options": [
+        {
+          "text": "Ha a munkáltató és az üzemi tanács vagy a szakszervezet előzetesen írásban megállapodik, hogy a bizottság döntésének magukat alávetik, a határozat kötelező.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 293. § (1) bekezdése szerint a felek előzetesen írásban megállapodhatnak, hogy a bizottság döntésének magukat alávetik; ebben az esetben a határozat kötelező. Alávetés nélkül a bizottság a 292. § szerinti összefoglalóval zár. A kötelező hatás tehát nem ex lege, hanem az alávetés jogkövetkezménye."
+        },
+        {
+          "text": "A bizottság 293. § szerinti kötelező határozata az Mt. 13. § szerint munkaviszonyra vonatkozó szabály.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 13. § szerint munkaviszonyra vonatkozó szabály a jogszabály, a kollektív szerződés, az üzemi megállapodás, valamint az egyeztető bizottságnak a 293. §-ban foglaltak szerint kötelező határozata. A 291. § önmagában csak a fakultatív alakítást és a paritást adja, nem a 13. § taxációját. A forrási rang csak az alávetéssel együtt, a 293. § (1) szerinti kötelező határozatra nyílik meg."
+        },
+        {
+          "text": "A bizottság határozata a 291. § szerinti alakítással automatikusan kötelező, alávetés nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 293. § (1) bekezdése szerint a kötelező hatás nem ex lege: előzetes írásbeli alávetés kell. A 291. § csak a fakultatív alakítást és a paritásos szerkezetet adja. A 13. § forrási rang a 293. § szerinti kötelező határozatra utal, nem a puszta alakításra."
+        },
+        {
+          "text": "A 292. § szerinti írásbeli összefoglaló is munkaviszonyra vonatkozó szabály a 13. § szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 13. § a 293. § szerinti kötelező határozatot nevesíti, nem a 292. § szerinti összefoglalót. Alávetés nélkül a bizottság irata a 13. § taxációjába nem fér. Az összefoglaló a vita dokumentálása, nem munkaviszonyra vonatkozó szabály."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "049f85b87072"
+    },
+    {
+      "question": "Mit ír elő az Mt. 292. § (1) bekezdése az egyeztető bizottság elnökének kötelezettségéről?",
+      "options": [
+        {
+          "text": "Az elnök a 292. § (1) bekezdése alapján alávetés nélkül is kötelező határozatot hozhat a felekre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 292. § (1) bekezdése csak az írásbeli összefoglalót írja elő, nem a kötelező határozatot. A feleket kötelező erővel a 293. § (1) bekezdés szerinti előzetes írásbeli alávetés ruházza fel. Alávetés nélkül a feleket a bizottság nem kényszeríti."
+        },
+        {
+          "text": "Az elnök köteles a két fél által delegált tagokkal folyamatosan konzultálni, és az egyeztetés befejezésekor írásban összefoglalni a tagok álláspontját és az egyeztetés eredményét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 292. § (1) bekezdése az elnök eljárási kötelezettségét zárja: folyamatos konzultáció a delegált tagokkal. Az összefoglaló időpontja az egyeztetés befejezése. Az írásbeli összefoglaló a vita dokumentálása; alávetés hiányában nem a 293. § (1) szerinti kötelező határozat."
+        },
+        {
+          "text": "Az elnök a 233. § (3) bekezdéséhez hasonlóan hétnapos végrehajtási tilalmat rendelhet el a munkáltató intézkedésére.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 292. § nem ad a 233. § (3) bekezdéséhez hasonló hétnapos végrehajtási tilalmat. A 292. § a bizottságon belüli konzultációt és az összefoglalót szabályozza. A hétnapos tilalom a 233. § szerinti konzultációra vonatkozik, nem a 291–292. § bizottsági eljárására."
+        },
+        {
+          "text": "A 292. § az elnök eljárási kötelezettségét és a költségviselést zárja, nem a döntés jogát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 292. § (1)–(2) bekezdése az elnök konzultációs és összefoglaló kötelezettségét, valamint a munkáltatót terhelő indokolt költséget szabályozza. A kötelező döntés jogát a 293. § (1) bekezdése az előzetes írásbeli alávetéshez köti. A 292. § szerinti összefoglaló tehát önmagában nem pótolja az alávetést."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "4cbe506c8a18"
+    },
+    {
+      "question": "Kit terhelnek az egyeztető bizottság eljárásával kapcsolatos indokolt költségek?",
+      "options": [
+        {
+          "text": "Az indokolt költség a bizottság működésének szükséges kiadása, nem a felek saját oldali képviseleti költsége.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 292. § (2) bekezdés indokolt költségét a bizottság működésének szükséges kiadására kell érteni. A felek saját oldali képviseleti költsége e terhelés körén kívül esik. A munkáltatói finanszírozás az elnök függetlenségét nem vonja el."
+        },
+        {
+          "text": "A 292. § (2) bekezdése a költségeket a 293. § (3) bekezdésének magatartási tilalmával együtt a vesztes félre hárítja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 292. § (2) bekezdése a munkáltatót terheli, nem a „vesztes” felet. A 293. § (3) bekezdése a meghiúsító magatartást tiltja, nem költségelosztási szabály. A két rendelkezés nem kapcsolódik össze vesztes–nyertes költségviseléssé."
+        },
+        {
+          "text": "A költségeket a munkáltató és az üzemi tanács vagy a szakszervezet fele-fele arányban viseli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 292. § (2) bekezdése a teljes indokolt költséget a munkáltatóra telepíti. A törvény nem ír elő felezést az üzemi tanács vagy a szakszervezet felé. A tévedés a paritásos delegálás és a költségviselés összekeveréséből ered."
+        },
+        {
+          "text": "A bizottság eljárásával kapcsolatban felmerült indokolt költségek a munkáltatót terhelik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 292. § (2) bekezdése szerint a bizottság eljárásával kapcsolatban felmerült indokolt költségek a munkáltatót terhelik. A (2) bekezdés a terhet nem osztja meg a szakszervezettel vagy az üzemi tanáccsal. A költségviselés a paritásos eljárást a munkáltatói oldalon finanszírozza, anélkül hogy az elnök függetlenségét elvonná."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "aa7ea9d36c95"
+    },
+    {
+      "question": "Mit jelent a szavazategyenlőség feloldása az Mt. 293. § (1) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Az előzetes írásbeli alávetés a kötelező hatás feltétele; utólagos szóbeli elfogadás nem pótolja az alakszerűséget.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 293. § (1) bekezdése az alávetést előzeteshez és írásbeliséghez köti. Az alávetés a vita eldöntésére vonatkozó, a közlés előtt fennálló megállapodás. Utólagos szóbeli elfogadás az (1) bekezdés alakszerűségét nem pótolja."
+        },
+        {
+          "text": "Szavazategyenlőségnél a munkáltató által delegált tagok szavazata dönt, mert ők viselik a költségeket.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 293. § (1) bekezdése szavazategyenlőségnél az elnök szavazatát rendeli döntőnek. A 292. § (2) szerinti munkáltatói költségviselés nem ad döntési többséget. A tévedés a költségviselés és a szavazati súly összekeveréséből ered."
+        },
+        {
+          "text": "Alávetés nélkül is kötelező a határozat, ha az elnök a 291. § (2) szerint független.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a független elnök a 291. § (2) szerinti összetétel eleme, nem pótolja a 293. § (1) szerinti alávetést. Alávetés hiányában a bizottság eljárása a 292. § szerinti írásbeli összefoglalóval zárul. A kötelező hatás külön, előzetes írásbeli aktushoz kötött."
+        },
+        {
+          "text": "Alávetés esetén a bizottság határozata kötelező, és szavazategyenlőségnél az elnök szavazata dönt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 293. § (1) bekezdése szerint alávetés esetén a bizottság határozata kötelező, és szavazategyenlőségnél az elnök szavazata dönt. A paritásos testületben a független elnök a döntésképességet biztosítja. Az elnök szavazata a 291. § (2) szerinti függetlenség mellett oldja fel a holtpontot."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "6c3eecac3337"
+    },
+    {
+      "question": "Mikor dönt döntőbíró a kollektív munkaügyi vita körében az Mt. 293. § (2) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A döntőbíró a 291. § szerinti bármely kollektív munkaügyi vitában eljárhat, ha a felek kérik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 293. § (2) bekezdése a döntőbírót a 236. § (4) bekezdésében és a 263. §-ban foglaltakkal kapcsolatos vitára szűkíti. A 291. § általános vitájára a törvényi döntőbíráskodás nem terjed ki. A tévedés a bizottság és a döntőbíró hatáskörének összemosásából ered."
+        },
+        {
+          "text": "A döntőbíró 293. § (2) szerinti döntése az Mt. 13. § taxációja szerint munkaviszonyra vonatkozó szabály.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 13. § a bizottság 293. § szerinti kötelező határozatát nevesíti, a döntőbíró (2) bekezdés szerinti döntését nem. A kötelező hatás a 293. § (2) bekezdés saját rendelkezéséből következik. A 13. § taxációja a döntőbírói döntésre nem terjed ki."
+        },
+        {
+          "text": "A 236. § (4) bekezdésében és a 263. §-ban foglaltakkal kapcsolatban felmerült vitában döntőbíró dönt, és döntése a felekre kötelező.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 293. § (2) bekezdése a döntőbírót a 236. § (4) bekezdésében és a 263. §-ban foglaltakkal kapcsolatos vitára telepíti. A döntőbíró döntése a felekre nézve kötelező erejű. A döntőbíró nem a 291. § általános vitájára, hanem e nevesített esetkörökre vonatkozik."
+        },
+        {
+          "text": "A felek megállapodásának hiányában a döntőbírót a felek jelöltjei közül sorsolással kell kiválasztani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 293. § (2) bekezdése szerint a kijelölés elsődlegesen a felek megállapodása. Megállapodás hiányában a felek jelöltjei közül sorsolás dönt. A sorsolás a holtpontot oldja, a döntés kötelező erejét nem enyhíti."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "5508e985004d"
+    },
+    {
+      "question": "Mit tilt az Mt. 293. § (3) bekezdése a bizottság vagy a döntőbíró eljárása alatt?",
+      "options": [
+        {
+          "text": "A tilalom a 292. § szerinti, alávetés nélküli egyeztetésre is kiterjed, ha a bizottság már eljár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 293. § (3) bekezdése a 292. § szerinti, alávetés nélküli egyeztetésre is kiterjed, ha a bizottság már eljár. A tilalom nem csak a kötelező határozat esetére szól. A meghiúsító magatartás tilalma az eljárás tartamához kötődik."
+        },
+        {
+          "text": "A felek nem tanúsíthatnak olyan magatartást, amely a megállapodást vagy a döntés végrehajtását meghiúsítaná.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 293. § (3) bekezdése a bizottság vagy a döntőbíró eljárásának tartama alatt tiltja a meghiúsító magatartást. A tilalom a munkáltatói és a munkavállalói oldalra egyaránt vonatkozik. A rendelkezés a folyamatban lévő feloldó eljárás eredményét védi."
+        },
+        {
+          "text": "A magatartási tilalom csak a munkáltatóra vonatkozik, az üzemi tanácsra és a szakszervezetre nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 293. § (3) bekezdése a felekre vonatkozik: mindkét oldalra. A tilalom nem egyoldalú munkáltatói kötöttség. A megállapodást vagy a döntés végrehajtását meghiúsító magatartás a munkavállalói oldalon is tilos."
+        },
+        {
+          "text": "A 293. § (3) bekezdése azonos a 233. § (3) bekezdésének hétnapos végrehajtási tilalmával.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 233. § (3) bekezdése a konzultáció alatt a tervezett intézkedés végrehajtását köti, legfeljebb hét napig. A 293. § (3) bekezdése a már folyamatban lévő bizottsági vagy döntőbírói eljárás eredményét védi. A két tilalom tárgya és időkerete elválik."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "de4ce654afc0"
+    },
+    {
+      "question": "Hogyan határolódik el a kollektív munkaügyi vita a sztrájkjogtól?",
+      "options": [
+        {
+          "text": "A 291–293. § szerinti eljárás a sztrájkjog gyakorlásának törvényi feltétele, ezért a sztrájk csak e vita alanyai között indítható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 291–293. § a kollektív munkaügyi vita feloldását szabályozza, nem a sztrájkjog feltételeit. A szolidaritási sztrájk kivételével a Sztrájktv. nem írja elő, hogy a sztrájkot csak a kollektív munkaügyi vita alanya kezdeményezheti. A két út párhuzamos, nem feltétel–következmény viszony."
+        },
+        {
+          "text": "A sztrájkjog gyakorlása nem korlátozható a 291. § szerinti alanyok közötti, jogvitának nem minősülő megállapodás eléréséhez biztosított jogra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a sztrájkjog — mint a munkavállalókat megillető alkotmányos alapjog — kifejezett tiltó törvényi rendelkezés hiányában nem szűkíthető a 291. § szerinti feloldási útra. A Sztrájktv. 2. § (1) bekezdés a) pontjának utalása a kollektív munkaügyi vitára az 1. § (1) szerinti sztrájkjogot nem szűkíti. A két intézmény tehát elválik egymástól."
+        },
+        {
+          "text": "Sztrájkot csak a 291. § szerinti egyeztető bizottság alakítása után, a bizottság jóváhagyásával lehet kezdeményezni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a sztrájkjog gyakorlása nem függ a 291. § szerinti bizottság alakításától vagy jóváhagyásától. A Sztrájktv. 1. § (1) bekezdése a gazdasági és szociális érdekek biztosítására a dolgozókat illeti meg. A tévedés a kollektív munkaügyi vita feloldásának és a sztrájkjog gyakorlásának összecseréléséből ered."
+        },
+        {
+          "text": "A Sztrájktv. 1. § (1) bekezdése a dolgozókat a gazdasági és szociális érdekeik biztosítására illeti meg a sztrájk jogával; a sztrájk nem kizárólag a 291. § alanyainak jogosítványa.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a sztrájk a magyar jogban nem önálló szakszervezeti jogosítvány: azt a munkavállalók és a szakszervezet egyaránt kezdeményezhetik. A Sztrájktv. 1. § (1) bekezdése a dolgozókat illeti meg. A 291. § alanyi köre a kollektív munkaügyi vita feloldására, nem a sztrájkjog gyakorlásának kizárólagos keretére szolgál."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "6e5d145c294b"
+    },
+    {
+      "question": "Mit jelent a tájékoztatás és a konzultáció az Mt. 233. § (1) bekezdése szerint a munkaügyi kapcsolatokban?",
+      "options": [
+        {
+          "text": "A tájékoztatás a munkaügyi kapcsolatokkal vagy a munkaviszonnyal összefüggő, törvényben meghatározott információ átadása, a megismerést, megvizsgálást, vélemény kialakítását és képviseletét lehetővé tévő módon.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 233. § (1) bekezdés a) pontja a tájékoztatást nem puszta adatközlésként határozza meg. A fogalom a megismerés, megvizsgálás, vélemény kialakítás és képviselet lehetővé tételét is magában foglalja. A 233. § a munkaügyi kapcsolatok harmadik részének értelmező rendelkezése."
+        },
+        {
+          "text": "Az üzemi megállapodás a 233. §-ban foglaltaktól szabadon eltérhet a felek akarata szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 267. § (5) bekezdése szerint az üzemi megállapodás a 233. §-ban foglaltaktól nem térhet el. A tájékoztatás és konzultáció fogalma, valamint a hétnapos tilalom e tilalmi listán szerepel. A 291. § szerinti bizottsági szabály e tilalmi listán nem szerepel."
+        },
+        {
+          "text": "A konzultáció a munkáltató és az üzemi tanács vagy a szakszervezet közötti véleménycsere, párbeszéd.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 233. § (1) bekezdés b) pontja a konzultációt a munkáltató és az üzemi tanács vagy a szakszervezet közötti véleménycserének, párbeszédnek nevezi. A (2) bekezdés a megállapodás érdekében megfelelő képviseletet, közvetlen személyes véleménycserét és érdemi tárgyalást követel. A 292. § bizottságon belüli konzultációja ettől a törvényi párbeszédtől elválik."
+        },
+        {
+          "text": "A Munkaügyi Tanácsadó és Vitarendező Szolgálat eljárása a 233. § (1) bekezdés b) pontja szerinti konzultációnak minősül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Szolgálat eljárása nem minősül a 233. § (1) bekezdés b) pontja szerinti konzultációnak. A Szolgálat előtti eljárás a hétnapos végrehajtási tilalmat önmagában nem indítja el. A 233. § konzultációja a munkáltató és az üzemi tanács vagy a szakszervezet törvényi párbeszéde."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "496b5fc5cecc"
+    },
+    {
+      "question": "Mit jelent a 233. § (3) bekezdése szerinti hétnapos végrehajtási tilalom?",
+      "options": [
+        {
+          "text": "A hétnapos tilalom a munkáltatót a konzultáció végéig köti, akár hónapokig, ha a felek nem állapodnak meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 233. § (3) bekezdése legfeljebb hét napot ad, kivéve ha a felek hosszabb határidőben állapodnak meg. Megállapodás hiányában a munkáltató a határidő lejártakor a konzultációt befejezi. A tilalom nem határozatlan idejű egyetértési vétó."
+        },
+        {
+          "text": "Megállapodás hiányában a munkáltató a határidő lejártakor a konzultációt befejezi: a hét nap nem vétó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 233. § (3) bekezdése szerint megállapodás hiányában a munkáltató a határidő lejártakor a konzultációt befejezi. A hét nap nem nyújtja el a konzultációt automatikusan. A rendelkezés végrehajtási tilalom, nem egyetértési jog."
+        },
+        {
+          "text": "A 289. § szerint a tájékoztatási vagy konzultációs szabály megszegése miatt a fél harminc napon belül peres eljárásban fordulhat bírósághoz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 289. § (1) bekezdése szerint a fél öt napon belül bírósághoz fordulhat; a bíróság tizenöt napon belül, polgári nemperes eljárásban határoz. A határidő öt nap, nem harminc; az eljárás nemperes, nem peres. A tévedés a határidő és az eljárásnem felcseréléséből ered."
+        },
+        {
+          "text": "A folyamatban lévő konzultáció tartama alatt — hosszabb határidőt tartalmazó eltérő megállapodás hiányában — legfeljebb a kezdeményezéstől számított hét napig a munkáltató a tervezett intézkedését nem hajthatja végre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 233. § (3) bekezdése a munkáltatót a tervezett intézkedés végrehajtásában köti. A hét nap a kezdeményezés időpontjától számít. Hosszabb határidőt a felek eltérő megállapodással kiköthetnek."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "7e28c6a2cd32"
+    },
+    {
+      "question": "Mit foglal magában az Mt. 13. § munkaviszonyra vonatkozó szabály fogalma a bizottsági határozat szempontjából?",
+      "options": [
+        {
+          "text": "Munkaviszonyra vonatkozó szabály a jogszabály, a kollektív szerződés, az üzemi megállapodás, valamint az egyeztető bizottságnak a 293. §-ban foglaltak szerint kötelező határozata.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 13. § zárt taxációt ad: „jogszabály, a kollektív szerződés és az üzemi megállapodás, valamint az egyeztető bizottságnak a 293. §-ban foglaltak szerint kötelező határozata”. A bizottsági határozat csak a 293. § (1) szerinti alávetés után kerül e körbe. A 292. § szerinti írásbeli összefoglaló a 13. § taxációjában nem szerepel."
+        },
+        {
+          "text": "A 13. § a 292. § szerinti írásbeli összefoglalót is munkaviszonyra vonatkozó szabálynak minősíti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 13. § a 293. §-ra utal, nem a 292. § szerinti összefoglalóra. Alávetés hiányában a bizottság záró irata nem fér bele a 13. § taxációjába. Az összefoglaló csupán a vita dokumentálását szolgálja, forrási rang nélkül."
+        },
+        {
+          "text": "A 15. § (1) bekezdése szerinti egyoldalú jognyilatkozati kapu a 13. § szerinti kötelező bizottsági határozatra is kinyílik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 15. § (1) bekezdése szerint egyoldalú jognyilatkozatból csak munkaviszonyra vonatkozó szabályban meghatározott esetben származhatnak jogok vagy kötelezettségek. A 13. § e kaput a kötelező bizottsági határozatra is kinyitja. A forrási rang tehát az egyoldalú jognyilatkozati rendet is érinti."
+        },
+        {
+          "text": "A döntőbíró 293. § (2) szerinti döntése is a 13. § taxációjának eleme.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 13. § a bizottság 293. § szerinti kötelező határozatát nevesíti, a döntőbíró döntését nem. A döntőbírói döntés kötelező ereje a 293. § (2) bekezdés saját rendelkezéséből következik. A munkaviszonyra vonatkozó szabály fogalmába a döntőbírói döntés a 13. § szerint nem került be."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "cdbade4f4e3b"
+    },
+    {
+      "question": "Hogyan értelmezi a hatályos 291. § (1) bekezdése a kollektív munkaügyi vita fogalmát a korábbi kódexhez képest?",
+      "options": [
+        {
+          "text": "Az előző kódex a kollektív munkaügyi vitát a jogvitának nem minősülő, munkaviszonnyal összefüggő vitára szűkítette.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az 1992. évi XXII. törvény 194. § (1) bekezdése a kollektív munkaügyi vitát a jogvitának nem minősülő vitára szűkítette. A hatályos 291. § (1) ettől elválik: az alanyok közötti valamennyi vitát e körbe vonja. A fogalmi váltás az alanyi körön, nem a jogvita–érdekvita címkéjén múlik."
+        },
+        {
+          "text": "A 291. § csak akkor alkalmazható, ha a felek előzetesen megállapítják, hogy a vita nem jogvita.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 291. § (1) bekezdése nem kíván előzetes jogvita–érdekvita minősítést. Az alanyi kör — munkáltató és üzemi tanács vagy szakszervezet — a döntő. A feloldás a 291–293. § szerint nyitva áll anélkül, hogy a törvény előzetesen minősítené a vita jellegét."
+        },
+        {
+          "text": "A hatályos 291. § (1) bekezdése a kollektív munkaügyi vita alanyai között felmerült valamennyi vitát e körbe vonja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hatályos 291. § (1) bekezdése nem a jogvita–érdekvita dogmatikáját ismétli, hanem az alanyi kört. Ha a munkáltató és az üzemi tanács vagy a szakszervezet között vita merül fel, a 291–293. § szerinti feloldás nyitva áll. A törvény előzetesen nem minősíti, hogy jogvitáról vagy érdekvita van-e szó."
+        },
+        {
+          "text": "A 291. § (1) bekezdése csak érdekvita esetén engedi a bizottság alakítását, jogvita esetén kizárja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatályos 291. § (1) bekezdése az alanyok között felmerült valamennyi vitát e körbe vonja. A törvény előzetesen nem minősíti a vitát jogvitának vagy érdekvitának. A tévedés a régi 194. § (1) szerinti szűkítést olvassa rá a hatályos szövegre."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "50564dc5f88e"
+    },
+    {
+      "question": "Mit mond az Alaptörvény XVII. cikk (2) bekezdése a munkaügyi kapcsolatok alapjogairól?",
+      "options": [
+        {
+          "text": "Az Alaptörvény XVII. cikk (2) bekezdése a munkavállalóknak, a munkaadóknak és szervezeteiknek tárgyalási, kollektív szerződéskötési és együttes fellépési jogot ad.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Alaptörvény XVII. cikk (2) bekezdése a tárgyalási, kollektív szerződéskötési és együttes fellépési jogot a munkavállalóknak, a munkaadóknak és szervezeteiknek biztosítja. A rendelkezés ideérti a munkavállalók munkabeszüntetéshez való jogát is. A kollektív munkaügyi vita törvényi feloldása az alkotmányos keretben értelmezhető."
+        },
+        {
+          "text": "Az Alaptörvény XVII. cikk (2) bekezdése a 291. § szerinti bizottság alakítását kötelezővé teszi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a XVII. cikk (2) bekezdése tárgyalási, kollektív szerződéskötési és együttes fellépési jogot ad, nem a 291. § bizottságának kötelező alakítását. A 291. § (1) bekezdése fakultatív fordulatot használ: a felek alakíthatnak bizottságot. Az alkotmányos jog és a törvényi feloldási út nem azonos."
+        },
+        {
+          "text": "A XVII. cikk (2) bekezdése ideérti a munkavállalók munkabeszüntetéshez való jogát is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Alaptörvény XVII. cikk (2) bekezdése a tárgyalási, kollektív szerződéskötési és együttes fellépési jog mellett a munkabeszüntetéshez való jogot is magában foglalja. A sztrájkjog tehát a munkavállalókat megillető alkotmányos alapjog. A 291. § szerinti feloldási út az alapjogot nem szűkíti."
+        },
+        {
+          "text": "Az Alaptörvény XVII. cikk (2) bekezdése a sztrájkjogot kizárólag a szakszervezetnek biztosítja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a XVII. cikk (2) bekezdése a munkavállalóknak, a munkaadóknak és szervezeteiknek adja a jogokat, ideértve a munkabeszüntetést. A sztrájkjog nem kizárólag szakszervezeti jogosítvány. A Sztrájktv. 1. § (1) bekezdése is a dolgozókat illeti meg."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "58255f4a9ebc"
+    },
+    {
+      "question": "Mi jellemzi a Munkaügyi Tanácsadó és Vitarendező Szolgálat eljárásának önkéntességét és díjmentességét?",
+      "options": [
+        {
+          "text": "A Szolgálat eljárása a felek akaratától függetlenül kötelező, ha a 291. § szerinti vita felmerült.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Szolgálat kizárólag a felek közös, önkéntes felkérése alapján jár el. A 291. § szerinti vita felmerülése önmagában nem indítja a Szolgálatot. A felek nem kötelesek a felkínált eljárást igénybe venni."
+        },
+        {
+          "text": "A Szolgálat kizárólag a felek közös, önkéntes felkérése alapján jár el; bármelyik fél a folyamatban lévő eljárásból kiléphet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Szolgálat kizárólag a felek közös, önkéntes felkérése alapján jár el; ez elválik a 291. § törvényi bizottságától. Ha csak az egyik fél kezdeményezi, a szervezeti koordinátor a másik fél csatlakozása érdekében jár el. A felek nem kötelesek a felkínált eljárást igénybe venni, és bármelyik fél kiléphet."
+        },
+        {
+          "text": "A Szolgálat eljárása a felek részére díjmentes: az eljáró tag, a szakértő és a tanácsadó költségeit a Szolgáltató viseli.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a díjmentesség elve szerint a Szolgálat eljárása a felek felé díjmentes; az eljáró tag költségeit a Szolgáltató viseli. A felek saját oldali költségeiket maguk viselik, kivéve ha jogszabály vagy megállapodás eltérően rendelkezik. A 292. § (2) bekezdés a törvényi bizottság indokolt költségét a munkáltatóra telepíti, ez tehát elválik."
+        },
+        {
+          "text": "A Szolgálat eljárásának indokolt költségeit — a 292. § (2) bekezdés mintájára — mindig a munkáltató viseli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Szolgálat eljárása a felek felé díjmentes; a költségeket a Szolgáltató viseli. A 292. § (2) bekezdése a törvény szerinti bizottság indokolt költségét a munkáltatóra telepíti. A két költségviselési rend tehát nem azonos egymással."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "5c71ccb4d641"
+    },
+    {
+      "question": "Mi a Szolgálat hatásköre az érdekvita és a jogvita szempontjából?",
+      "options": [
+        {
+          "text": "Békéltetésként a Szolgálat kollektív munkaügyi jogvitában is igénybe vehető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a békéltetés a főszabály alóli kivétel: kollektív munkaügyi jogvitában is igénybe vehető a Szolgálat előtt. A Szolgálat tehát nem kizárólag érdekvita fóruma. A 291. § szerinti törvényi bizottság ettől a Kódex szerinti békéltetéstől elválik."
+        },
+        {
+          "text": "A Szolgálat eljárása a 233. § (1) bekezdés b) pontja szerinti konzultáció, ezért elindítja a hétnapos végrehajtási tilalmat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Szolgálat előtti eljárás a 233. § (1) bekezdés b) pontja szerinti konzultációnak nem minősül. A hétnapos végrehajtási tilalmat a Szolgálat igénybevétele önmagában nem indítja el. A 233. § szerinti konzultáció a munkáltató és az üzemi tanács vagy a szakszervezet közötti törvényi párbeszéd marad."
+        },
+        {
+          "text": "A Szolgálat minden kollektív munkaügyi jogvitában kötelezően eljár, a felek felkérése nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Szolgálat csak a felek közös, önkéntes felkérése alapján jár el; a 291. § szerinti vita felmerülése önmagában nem indítja. Jogvitában is csak békéltetésként vehető igénybe, nem kötelező hivatalból. A hatáskör zárt, és az önkéntesség elve érvényesül."
+        },
+        {
+          "text": "A Szolgálat igénybevételére főszabályként kollektív munkaügyi érdekvitában kerülhet sor; jogi tanácsot nem ad.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Szolgálat hatásköre zárt: főszabályként érdekvitákban jár el, jogi tanácsot nem ad; ez elválik a 291. § törvényi feloldásától. Az érdekvitához kapcsolódó joganyagot és szakmai tényeket ismertetheti. A főszabály alól a békéltetés a kivétel, amely jogvitában is igénybe vehető."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "385872743330"
+    },
+    {
+      "question": "Hogyan viszonyul egymáshoz a 291. § szerinti alanyi kör és a Szolgálat Kódexének fél-fogalma?",
+      "options": [
+        {
+          "text": "A 291. § szerinti bizottságban fél lehet a munkáltató fenntartója és a szakszervezeti szövetség is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 291. § (1) bekezdése a munkáltatót, az üzemi tanácsot és a szakszervezetet nevezi meg. A fenntartó és a szakszervezeti szövetség a Szolgálat Kódexének fél-fogalmába tartozik. A törvényi bizottság alanyi köre szűkebb."
+        },
+        {
+          "text": "A 291. § és a Szolgálat Kódexe azonos alanyi kört használ, ezért a két eljárás felcserélhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 291. § alanyi köre szűkebb, a Kódex II. része tágabb félkört ad. A két út joghatása is elválik: a 293. § szerinti kötelező határozat a 13. § forrási rangjával jár, a Szolgálat pedig önkéntes, díjmentes támogatás. A felcserélhetőség ezért nem áll fenn a két eljárás között."
+        },
+        {
+          "text": "A Kódex II. része a Szolgálat előtti eljárást a fenntartóra, a munkáltatói érdekképviseletre és a szakszervezeti szövetségre is kiterjeszti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kódex szerint fél lehet egyrészről a munkáltató, a munkáltatói érdek-képviseleti szervezet és a munkáltató fenntartója, másrészről az üzemi tanács, a szakszervezet és a szakszervezeti szövetség. A 291. § (1) bekezdése ezt a tágabb kört nem veszi át. A két út alanyi határa tehát elválik egymástól."
+        },
+        {
+          "text": "A 291. § alanyi köre szűkebb: ott a munkáltató és az üzemi tanács vagy a szakszervezet áll szemben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 291. § (1) bekezdése a munkáltatót az üzemi tanáccsal vagy a szakszervezettel állítja szembe. A törvényi bizottság alanyi köre tehát zárt és szűk. A Szolgálat Kódexe II. része ettől tágabb félkört ad."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "4b84fde02798"
+    },
+    {
+      "question": "Mit jelent a szolgáltatások átjárhatóságának elve a Szolgálat Kódexében?",
+      "options": [
+        {
+          "text": "A felek a folyamatban lévő eljárás alatt közösen kérhetik, hogy az eljáró tag közreműködését a Kódex III. része szerinti másik eljárás alapján folytassa.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az átjárhatóság elve a Kódex III. részére utal: a felek közösen kérhetik a másik eljárás folytatását; ez nem a 291. § bizottságának átfordítása. A Kódex példája szerint tanácsadás helyett közvetítés, közvetítés helyett békéltetés. A kérelem a kért eljárás szabályainak való alávetést is jelenti."
+        },
+        {
+          "text": "Az átjárhatóság azt jelenti, hogy a 291. § szerinti bizottság automatikusan a Szolgálat döntőbíráskodásába fordul.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az átjárhatóság a Szolgálat Kódexének belső eljárástípusai között érvényesül. A 291. § törvényi bizottsága ettől a belső átjárhatóságtól elválik. A két út nem helyettesíti egymást automatikus átfordítással, mert a 13. § forrási rangja csak a 293. § szerinti kötelező határozatra nyílik."
+        },
+        {
+          "text": "Az egyik fél egyoldalúan, a másik fél hozzájárulása nélkül kérheti az eljárástípus váltását.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az átjárhatósági kérelem közös: a felek közösen kérhetik a másik eljárás folytatását a Kódex szerint. Egyoldalú váltás a másik fél hozzájárulása nélkül nem elegendő. A 291. § szerinti törvényi bizottságra ez az átjárhatósági rend nem vonatkozik."
+        },
+        {
+          "text": "A másik eljárás a Kódex szerint indított új eljárásnak minősül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az átjárhatósági kérelem a Kódex szerint indított új eljárásnak minősül; a 291. § törvényi bizottságától elválik. Egyben a kért eljárás szabályainak való alávetést is jelenti. A záróaktusok a választott eljárástípustól függnek: tanácsadásnál a tanács közlése, döntőbíráskodásnál és egyeztetésnél a határozat közlése."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "fbfa564df49d"
+    },
+    {
+      "question": "Milyen eljárási keretet ad a Szolgálat Kódexe a tárgyalási napokra?",
+      "options": [
+        {
+          "text": "Az eljárás legfeljebb nyolc tárgyalási napot ölelhet fel, egy tárgyalási napon legfeljebb nyolc munkaóra lehet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kódex II. része a tárgyalási keretet nyolc napban és napi nyolc munkaórában zárja. Az eljárást az eljáró tagnak a féllel egyeztetett helyszínen és időpontban, csak az illetékes régióban kell lefolytatnia. A keret a Szolgálat eljárására vonatkozik, nem a 291. § törvényi bizottságára."
+        },
+        {
+          "text": "Az illetékesség a hét statisztikai régióra oszlik, és a munkáltató vitával érintett székhelye, telephelye, fióktelepe szerint dől el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kódex az illetékességet a hét statisztikai régióra osztja; ez a Szolgálat eljárására vonatkozik, nem a 291. § bizottságára. A döntő a munkáltató vitával érintett székhelye, telephelye vagy fióktelepe. Ha több szervezet illetékessége is megállapítható, a kérelemben megjelölt szervezet jár el."
+        },
+        {
+          "text": "A 291. § szerinti egyeztető bizottság eljárása is legfeljebb nyolc tárgyalási napra korlátozott.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nyolc tárgyalási napos keret a Szolgálat Kódexének szabálya. A 291–293. § a törvényi bizottságra ilyen napi keretet nem ír elő. A tévedés a Szolgálat és a törvényi bizottság eljárási szabályainak összemosásából ered."
+        },
+        {
+          "text": "Ha több régió illetékes, a Szolgálat hivatalból a munkavállalói oldal székhelye szerint jár el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, ha több szervezet illetékessége is megállapítható, a kérelemben megjelölt szervezet jár el a Kódex szerint. A döntő a kérelem megjelölése, nem a munkavállalói oldal székhelye. Az illetékesség a munkáltató vitával érintett székhelye, telephelye vagy fióktelepe szerint dől el; a 291. § ilyen regionális szabályt nem ad."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "fc14ae8e5d42"
+    },
+    {
+      "question": "Hogyan kapcsolódik a 266. § szerinti pártatlanság a 291. § szerinti kollektív munkaügyi vitához?",
+      "options": [
+        {
+          "text": "A 266. § miatt az üzemi tanács soha nem lehet a 291. § szerinti bizottság ellenoldala.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 266. § a szervezett sztrájkkal szembeni pártatlanságot szabályozza, nem zárja ki a 291. § szerinti ellenoldali szerepet. Az üzemi tanács a munkáltatóval szembeni vita alanya lehet. A tévedés a két intézmény összemosásából ered."
+        },
+        {
+          "text": "A 291. § szerinti vita azonos a szervezett sztrájkkal, ezért az üzemi tanács pártatlansága a bizottság alakítását is tiltja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 291. § a kollektív munkaügyi vita feloldását szabályozza, nem a sztrájkot. A 266. § pártatlansága a szervezett sztrájkra vonatkozik, nem a bizottság alakításának tilalmára. A bizottság alakítását a 291. § (1) bekezdése az üzemi tanács számára is engedi."
+        },
+        {
+          "text": "A 266. § az üzemi tanácsot a szervezett sztrájkkal szemben pártatlanságra kötelezi; a 291. § szerinti vita ettől elválik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 266. § a szervezett sztrájkkal szembeni pártatlanságot írja elő az üzemi tanácsnak. A 291. § szerinti vita ettől elválik, mert az üzemi tanács a munkáltatóval szembeni összeütközés alanya lehet. A részvételi jogok körében felmerült vita a 233. § és a 291. § keretében értelmezhető."
+        },
+        {
+          "text": "Az üzemi tanács a munkáltatóval szembeni, a 233. § és a részvételi jogok körében felmerült összeütközés alanya lehet a 291. § szerint.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 291. § (1) bekezdése az üzemi tanácsot a munkáltató ellenoldalaként nevezi meg. A 266. § sztrájkkal szembeni pártatlansága ezt a szerepet nem zárja ki. A kollektív munkaügyi vita és a sztrájkkal szembeni pártatlanság tehát elválik."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "84968300ef37"
+    },
+    {
+      "question": "Mi a különbség a 288. § szerinti békéltetés és a 293. § (3) bekezdése szerinti magatartási tilalom között?",
+      "options": [
+        {
+          "text": "A 288. § a 287. § határidőit nem érinti, ha a kollektív szerződés vagy a felek megállapodása a jogvita feloldása érdekében békéltetést rendel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 288. § szerint a békéltetés a 287. § határidőit nem érinti. A békéltetés tehát a keresetindítási határidőt nem hosszabbítja. A rendelkezés a jogvita feloldására rendelt békéltetésre vonatkozik."
+        },
+        {
+          "text": "A 293. § (3) bekezdése a 287. § keresetindítási határidejét meghosszabbítja a bizottsági eljárás idejével.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 293. § (3) bekezdése magatartási tilalom, nem a keresetindítási határidő meghosszabbítása. A 288. § a békéltetésről mondja ki, hogy a 287. § határidőit nem érinti. A két rendelkezés tárgya tehát elválik egymástól."
+        },
+        {
+          "text": "A 293. § (3) bekezdése a folyamatban lévő bizottsági vagy döntőbírói eljárás alatt a meghiúsító magatartást tiltja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 293. § (3) bekezdése a bizottság vagy a döntőbíró eljárásának tartama alatt tiltja a megállapodást vagy a döntés végrehajtását meghiúsító magatartást. A tilalom a feloldó eljárás eredményét védi mindkét oldalon. A 288. § a békéltetés és a 287. § határidőinek viszonyát rendezi, ezért a két szabály elválik."
+        },
+        {
+          "text": "A 288. § és a 293. § (3) bekezdése azonos jogintézmény: mindkettő a keresetindítási határidőt függeszti fel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 288. § a békéltetés és a 287. § határidőinek viszonyát rendezi; a határidőt nem hosszabbítja. A 293. § (3) bekezdése a meghiúsító magatartást tiltja a bizottság vagy a döntőbíró eljárása alatt. Semelyik sem azonos a keresetindítási határidő felfüggesztésével."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "191ddddc68cb"
+    },
+    {
+      "question": "Mit rögzít a 234. § a tájékoztatás és a konzultáció alóli mentesítésről?",
+      "options": [
+        {
+          "text": "A 234. § a 291. § szerinti egyeztető bizottság alakítása alól is mentesít, ha a vita gazdasági érdeket érint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 234. § a tájékoztatás és a konzultáció alóli mentesítést szabályozza, nem a 291. § bizottságának alakítását. A bizottság fakultatív alakítása a 291. § (1) bekezdése szerint a felek döntése. A két intézmény tehát nem azonos egymással."
+        },
+        {
+          "text": "A 234. § a bizalmas, üzleti titokként közölt adat felhasználását tiltja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 234. § a bizalmas, üzleti titokként közölt adat felhasználását tiltja. A tilalom a tájékoztatás során átadott bizalmas adatra vonatkozik. A rendelkezés a 233. § szerinti információátadás mellett a titokvédelmet is zárja."
+        },
+        {
+          "text": "A 234. § szerint a munkáltató minden üzleti adatot megtarthat anélkül, hogy a 233. § szerinti tájékoztatást megadná.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 234. § a mentesítést a jogos gazdasági érdeket vagy a működést veszélyeztető nyilvánosságra kerüléshez köti. Nem ad általános felmentést minden üzleti adat alól. A bizalmas, üzleti titokként közölt adat felhasználását pedig tiltja."
+        },
+        {
+          "text": "A 234. § a tájékoztatás és a konzultáció alól a munkáltató jogos gazdasági érdekeit vagy működését veszélyeztető nyilvánosságra kerülés esetén mentesít.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 234. § a munkáltató jogos gazdasági érdekeit vagy működését veszélyeztető nyilvánosságra kerülés esetén mentesít. A rendelkezés a 233. § szerinti tájékoztatási és konzultációs kötelezettség alóli kivétel. A mentesítés feltétele a veszélyeztető nyilvánosságra kerülés."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "3eaee3c8a7e4"
+    },
+    {
+      "question": "Mit jelent a 230. § a munkaügyi kapcsolatok keretében a kollektív munkaügyi vita szempontjából?",
+      "options": [
+        {
+          "text": "A 230. § a munkavállalók szociális és gazdasági érdekeinek védelme és a munkabéke fenntartása érdekében szabályozza a szakszervezet, az üzemi tanács és a munkáltatók, illetve érdek-képviseleti szervezeteik kapcsolatrendszerét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 230. § a munkaügyi kapcsolatok célját és alanyi keretét adja. E keretben a munkaügyi konfliktusok megelőzésére és feloldására irányuló eljárást is szabályozza. A XXIV. fejezet a 291–293. §-ban az egyeztető bizottságot és a döntőbírót adja."
+        },
+        {
+          "text": "A 230. § szerint a kollektív munkaügyi vita az egyedi munkavállaló és a munkáltató közötti jogvita része.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 230. § a munkaügyi kapcsolatok kollektív szereplőinek rendszertani kerete. A 291. § a vitát a munkáltató és az üzemi tanács vagy a szakszervezet közé helyezi. Az egyedi igényérvényesítés nem tartozik a 291. § alanyi körébe."
+        },
+        {
+          "text": "A 230. § a 291. § szerinti bizottság alakítását kötelezővé teszi minden munkaügyi konfliktusnál.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 230. § a kapcsolatrendszer és a konfliktusfeloldás keretét adja, nem a bizottság kötelező alakítását. A 291. § (1) bekezdése fakultatív: a felek alakíthatnak bizottságot. A kötelező hatás a 293. § (1) szerinti alávetéshez kötődik."
+        },
+        {
+          "text": "A kollektív munkaügyi vita a 2012. évi I. törvény harmadik részének, a munkaügyi kapcsolatoknak a konfliktusfeloldó intézménye.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kollektív munkaügyi vita a harmadik rész konfliktusfeloldó intézménye. A vita alanyai a munkáltató és az üzemi tanács vagy a szakszervezet. A 291–293. § a feloldás szervezeti és joghatási szabályait adja."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "9e0348d2f485"
+    },
+    {
+      "question": "Mit jelent a 232. § a 291. § szerinti delegálás szempontjából?",
+      "options": [
+        {
+          "text": "A 291. § szerinti bizottságba bármely szakszervezet delegálhat, akkor is, ha a munkáltatónál nincs képviselete.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 270. § (1) bekezdése szerint az e törvényben a szakszervezet számára biztosított jogok a munkáltatónál képviselettel rendelkező szakszervezetet illetik meg. A 232. § a képviseletre jogosult személyéről szóló tájékoztatást írja elő. A 291. § ellenoldali szerepe ehhez a képviseleti fogalomhoz igazodik."
+        },
+        {
+          "text": "A 270. § (1) bekezdése szerint az e törvényben a szakszervezet számára biztosított jogok a munkáltatónál képviselettel rendelkező szakszervezetet illetik meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 270. § (1) bekezdése a szakszervezeti jogokat a munkáltatónál képviselettel rendelkező szakszervezethez köti. A (2) bekezdés a képviselettel rendelkező szakszervezetet alapszabály szerinti szerv vagy tisztségviselő meglétéhez köti. A 291. § szerinti ellenoldali szerep e képviseleti fogalomhoz igazodik."
+        },
+        {
+          "text": "A 232. § a munkáltatót, az üzemi tanácsot és a szakszervezetet kölcsönös írásbeli tájékoztatásra kötelezi a képviseletre jogosult, valamint a tisztségviselő személyéről.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 232. § a képviseletre jogosult és a tisztségviselő személyéről szóló kölcsönös írásbeli tájékoztatást írja elő. A 291. § szerinti bizottsági delegálás ehhez a tájékoztatott képviseleti rendhez igazodik. A bizottságba való kijelölés tehát a bejelentett képviseleti személyekhez kapcsolódik."
+        },
+        {
+          "text": "A 232. § csak a munkáltatót kötelezi tájékoztatásra; az üzemi tanácsot és a szakszervezetet nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 232. § a munkáltatót, az üzemi tanácsot és a szakszervezetet kölcsönös írásbeli tájékoztatásra kötelezi. A tájékoztatás tárgya a képviseletre jogosult, valamint a tisztségviselő személye. A kötelezettség tehát háromoldalú, nem egyoldalú."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "74e84f52765b"
+    },
+    {
+      "question": "Mi a különbség a 291. § törvényi bizottsága és a Szolgálat Kódex szerinti egyeztetése között?",
+      "options": [
+        {
+          "text": "A Szolgálat Kódex szerinti egyeztetése a 13. § szerint automatikusan munkaviszonyra vonatkozó szabályt eredményez.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 13. § az egyeztető bizottságnak a 293. §-ban foglaltak szerint kötelező határozatát nevesíti. A Szolgálat eljárásának záróaktusa e taxációba nem kerül automatikusan. A forrási rang a törvényi, alávetéses kötelező határozathoz kötődik."
+        },
+        {
+          "text": "A Szolgálat a felek közös, önkéntes felkérésére, díjmentesen, a Kódex I–III. részének alávetésével jár el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Szolgálat önkéntes felkérésre és díjmentesen jár el; a 292. § (2) munkáltatói költségviselésétől ez elválik. A fél az eljárás megindításával, illetve az abban való részvétellel a Kódex I–III. részének eljárási szabályait fogadja el. A két út párhuzamos, nem azonos joghatású."
+        },
+        {
+          "text": "A 291–293. § a munkáltató és az üzemi tanács vagy a szakszervezet között, a törvényben meghatározott szerkezetben, a 13. § szerinti forrási ranggal (alávetéses kötelező határozat) működik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a törvényi bizottság paritásos delegálással és független elnökkel működik a 291. § (2) szerint. Alávetés esetén a 293. § (1) szerinti kötelező határozat a 13. § taxációjába kerül. A Szolgálat ettől elváló, külső támogató út."
+        },
+        {
+          "text": "A 291. § szerinti bizottság és a Szolgálat ugyanaz a jogintézmény, csak más elnevezéssel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 291–293. § a törvényi paritásos testületet adja a 13. § szerinti forrási ranggal. A Szolgálat a felek önkéntes, díjmentes, külső támogatása a Kódex alapján. A tanácsadás, közvetítés, békéltetés, döntőbíráskodás és egyeztetés a Kódex eljárásai, nem a 291. § törvényi bizottsága."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "9c2f645827f9"
+    },
+    {
+      "question": "Mit jelent a 292. § szerinti elnöki konzultáció elhatárolása a 233. § szerinti konzultációtól?",
+      "options": [
+        {
+          "text": "A 233. § és a 292. § szerinti konzultáció azonos jogintézmény, csak más számozással.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 233. § (1) bekezdés b) pontja a munkáltató és az üzemi tanács vagy a szakszervezet közötti véleménycserét nevezi konzultációnak. A 292. § (1) bekezdése az elnök és a delegált tagok bizottságon belüli konzultációját írja elő. A két intézmény tárgya és alanyi köre elválik."
+        },
+        {
+          "text": "A 292. § szerinti elnöki konzultáció automatikusan elindítja a 233. § (3) bekezdésének hétnapos végrehajtási tilalmát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 292. § (1) szerinti elnöki konzultáció nem indítja el a 233. § (3) bekezdésének hétnapos végrehajtási tilalmát. A hétnapos tilalom kizárólag a 233. § szerinti, munkáltató és üzemi tanács vagy szakszervezet közötti konzultációhoz kapcsolódik. A bizottságon belüli elnöki konzultáció önmagában ezt a tilalmat nem váltja ki."
+        },
+        {
+          "text": "A 233. § (2) bekezdése a konzultációt a megállapodás érdekében, megfelelő képviselettel, közvetlen személyes véleménycserével és érdemi tárgyalással követeli.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 233. § (2) bekezdése a törvényi konzultáció módját a megállapodás érdekében határozza meg. A megfelelő képviselet, a közvetlen személyes véleménycsere és az érdemi tárgyalás együttesen követelmény. A 292. § szerinti elnöki konzultáció nem e három elemű törvényi párbeszéd."
+        },
+        {
+          "text": "A 292. § az elnök és a delegált tagok közötti, a bizottságon belüli véleménycserét írja elő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 292. § (1) bekezdése az elnök folyamatos konzultációját a két fél által delegált tagokkal írja elő. Ez a bizottságon belüli véleménycsere az elnök és a tagok között. A 233. § (1) bekezdés b) pontja szerinti konzultáció ettől elválik, mert a munkáltató és az üzemi tanács vagy a szakszervezet törvényi párbeszéde."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "4c8feaafd0a7"
+    },
+    {
+      "question": "Mit jelent az állandó bizottság létesítése a 291. § (1) bekezdése és a 14. § viszonyában?",
+      "options": [
+        {
+          "text": "Állandó bizottságot a felek a 291. § (1) első mondata alapján szóbeli megállapodással is létesíthetnek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állandó bizottság instrumentuma kizárólag az üzemi megállapodás vagy a kollektív szerződés lehet a 291. § (1) második mondata szerint. Az eseti bizottság a felek megállapodásával, állandó kikötés nélkül is alakítható. Puszta szóbeli megállapodás az állandó bizottság létesítésére nem elegendő."
+        },
+        {
+          "text": "Az alávetés külön, 293. § (1) szerinti előzetes írásbeli aktus, nem az állandó bizottság alakszerűsége.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az állandó bizottság létesítése a 291. § (1) szerint az üzemi megállapodásban vagy a kollektív szerződésben történhet. Az alávetés ettől külön, a 293. § (1) szerinti előzetes írásbeli aktus. Az állandó bizottság alakszerűsége önmagában nem pótolja az alávetést."
+        },
+        {
+          "text": "Az állandó bizottságot az üzemi megállapodás vagy a kollektív szerződés létesíti; ez 14. § szerinti megállapodás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 291. § (1) bekezdés második mondata az állandó bizottság megalakítását az üzemi megállapodáshoz vagy a kollektív szerződéshez köti. Az állandó testület jogalapja tehát e két instrumentum. A létesítés a 14. § szerinti megállapodások körébe tartozik, nem puszta szóbeli megegyezés."
+        },
+        {
+          "text": "Az állandó bizottság létesítése automatikusan magában foglalja a 293. § (1) szerinti alávetést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állandó bizottság létesítése a 291. § (1) bekezdés második mondata szerinti instrumentum. Az alávetés külön, a 293. § (1) szerinti előzetes írásbeli aktus. A két aktus nem esik egybe automatikusan."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "923ffb26167c"
+    }
+  ]
+}

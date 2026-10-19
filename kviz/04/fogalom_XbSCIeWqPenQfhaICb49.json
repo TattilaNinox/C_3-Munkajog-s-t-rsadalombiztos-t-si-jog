@@ -1,0 +1,765 @@
+{
+  "id": "XbSCIeWqPenQfhaICb49",
+  "sorszam": 4,
+  "cim": "A munkaviszony alanyai. A cselekvőképtelen munkavállaló.",
+  "generationType": "fogalom",
+  "title": "4. A munkaviszony alanyai. A cselekvőképtelen munkavállaló.",
+  "questions": [
+    {
+      "question": "A munkaviszony alanyainak zárt köre mit jelent az Mt. szerint?",
+      "options": [
+        {
+          "text": "A kölcsönvevő a munkaerő-kölcsönzésnél a 32. § szerinti munkáltatói alanyiságot a kölcsönbeadótól átveszi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kölcsönvevő nem váltja fel a 32. § szerinti munkáltatót. A kölcsönbeadó marad a munkáltató, a kölcsönvevő csak a munkáltatói jogok megosztott gyakorlója. Az Mt. 32. § a munkaviszony alanyait a munkáltatóra és a munkavállalóra szűkíti. A tévedés a tényleges irányítás és az alanyfogalom összecseréléséből ered."
+        },
+        {
+          "text": "A cselekvőképtelen munkavállaló helyett nyilatkozó törvényes képviselő a munkaviszony alanyává válik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a képviselői nyilatkozat nem cseréli fel az alanyt. Az Mt. 21. § (5) bekezdése szerint a cselekvőképtelen nevében a törvényes képviselő tesz jognyilatkozatot, a munkaviszony alanya azonban a képviselt természetes személy marad. Az Mt. 32. § csak a munkáltatót és a munkavállalót nevezi alanyként. A tévedés a képviseleti aktus és az alanyiság azonosításából fakad."
+        },
+        {
+          "text": "A munkáltatói és a munkavállalói minőség meghatározásától a felek megállapodása sem térhet el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az alanyfogalmak kógensek, nem diszpozitív keretek. Az Mt. 35. § szerint a 32–34. §-ban foglaltaktól eltérni nem lehet. Ez rögzíti a munkáltatói jogképességet, a munkavállaló természetes személyi minőségét és az életkori rendet is. A kollektív szerződés és a munkáltatói szabályzat ugyanezen a ponton nem tágíthat."
+        },
+        {
+          "text": "A munkaviszony alanyai kizárólag a munkáltató és a munkavállaló.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az alanyi kör taxatív: harmadik személy nem lép be alanyként a jogviszonyba. Az Mt. 32. § szerint: „A munkaviszony alanyai a munkáltató és a munkavállaló.” A törvényes képviselő, a gyámhatóság vagy a kölcsönvevő akkor sem alany, ha nyilatkozatot tesz vagy felügyel. A zárt kör a 35. § kógenciájának alapja: a felek nem iktathatnak be „harmadik alanyt” a munkaszerződésbe."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "773d6b16d05b"
+    },
+    {
+      "question": "Mit jelent a munkáltató fogalma az Mt. 33. § szerint?",
+      "options": [
+        {
+          "text": "A megbízási vagy vállalkozási szerződés alapján történő foglalkoztatás önmagában nem teszi a jogképes személyt az Mt. 33. § szerinti munkáltatóvá.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a foglalkoztatás tényállása a munkaszerződéshez kötött. Az Mt. 33. § a munkáltatót a munkaszerződés alapján történő foglalkoztatáshoz köti; a megbízás, a vállalkozás és a közérdekű önkéntesség más jogviszony. A jogviszony minősítése a szerződés tartalmán és a foglalkoztatás tényén áll. A színlelt más szerződés a felügyelet előtt átminősülhet, de a 33. § fogalmi mércéje a munkaszerződéses foglalkoztatás."
+        },
+        {
+          "text": "A munkáltatói jogkör gyakorlója önálló alanya a munkaviszonynak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jogkör gyakorlója képviselő, nem alany. Az Mt. 20. § (1) bekezdése szerint a munkáltató képviseletében jognyilatkozatra a munkáltatói jogkör gyakorlója jogosult, a nyilatkozat azonban a munkáltatóé. Az Mt. 32. § alanyként csak a munkáltatót és a munkavállalót nevezi meg. A tévedés a képviseleti jogosultság és az alanyiság összecseréléséből ered."
+        },
+        {
+          "text": "Munkáltató az a jogképes személy, aki munkaszerződés alapján munkavállalót foglalkoztat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fogalom a jogképességet és a munkaszerződéses foglalkoztatást köti össze. Az Mt. 33. § szerint: „Munkáltató az a jogképes személy, aki munkaszerződés alapján munkavállalót foglalkoztat.” A mérce nem a cégjegyzék, a közjogi szervtípus vagy a létszám. Természetes és jogi személy egyaránt lehet munkáltató, ha jogképes."
+        },
+        {
+          "text": "Jogképtelen szervezet is munkáltató lehet, ha ténylegesen foglalkoztat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jogképesség előfeltétel, a tényleges foglalkoztatás önmagában nem pótolja. Az Mt. 33. § a munkáltatót jogképes személyként határozza meg; a jogképesség a Ptk. 2:1. § (ember) vagy 3:1. § (jogi személy) szerinti. Jogképtelen „szervezet” munkáltató nem lehet. A tévedés a foglalkoztatás-felügyeleti tényleges foglalkoztató-azonosítást keveri az alanyfogalommal."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "83408482fc8c"
+    },
+    {
+      "question": "Miben tér el a munkavállaló fogalma a munkáltatóétól az alanyi oldalon?",
+      "options": [
+        {
+          "text": "A munkavállaló jogképessége életkortól és cselekvőképességtől függ.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jogképesség univerzális, a cselekvőképesség és az életkor más szűrőket ad. Az Alaptörvény XV. cikk (1) bekezdése szerint minden ember jogképes; a Ptk. 2:1. § (1) bekezdése ugyanezt mondja ki. A munkavállaló természetes személy jogképessége nem életkortól vagy cselekvőképességtől függ; az életkor a 34. § (2)–(3) bekezdésében, a cselekvőképesség a 21. § és a 212. § szerinti képviseleti–munkaköri rendben jelenik meg. A tévedés a jogképesség és a cselekvőképesség összecseréléséből ered."
+        },
+        {
+          "text": "Jogi személy is lehet munkavállaló, ha a szervezeti cél érdekében személyes közreműködést vállal.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkavállalói minőség a természetes személyhez kötött. Az Mt. 34. § (1) bekezdése a munkavállalót természetes személyként határozza meg; a személyes munkavégzés emberhez fűződő kötelezettség. A Ptk. 3:1. § (2) bekezdése is kizárja a csupán emberhez fűződő jogokat a jogi személy jogképességéből. A tévedés a társasági személyes közreműködést keveri a munkavállalói alanyisággal."
+        },
+        {
+          "text": "Munkavállaló csak természetes személy lehet, aki munkaszerződés alapján munkát végez.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a személyes munkavégzés emberhez fűződő kötelezettség. Az Mt. 34. § (1) bekezdése szerint: „Munkavállaló az a természetes személy, aki munkaszerződés alapján munkát végez.” Jogi személy munkavállaló nem lehet. A munkáltatói oldalon ezzel szemben a jogképes személy — természetes vagy jogi — egyaránt nyitott."
+        },
+        {
+          "text": "A munkáltatói oldalon a jogképesség nem emberi minőség: jogi személy is lehet munkáltató.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkáltatói minőség szervezeti jognyilatkozaton is állhat. Az Mt. 33. § a jogképes személyt nevezi munkáltatónak, a Ptk. 3:1. § (1) bekezdése pedig a jogi személyt jogképesnek nyilvánítja. A munkaszerződéses foglalkoztatás nem emberhez kötött személyes cselekvés. A munkavállalói oldalon ezzel szemben csak természetes személy állhat."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "0fa14ab5c8e7"
+    },
+    {
+      "question": "Milyen életkori főszabály és kivétel érvényesül a munkavállalói minőségnél?",
+      "options": [
+        {
+          "text": "Főszabály szerint munkavállaló az lehet, aki a tizenhatodik életévét betöltötte.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az életkori küszöb a tizenhatodik életév. Az Mt. 34. § (2) bekezdése szerint: „Munkavállaló az lehet, aki a tizenhatodik életévét betöltötte.” Ettől eltérően az iskolai szünet alatt a tizenötödik életévét betöltött, nappali rendszerű képzésben tanuló is lehet munkavállaló. A szüneten kívül a tizenöt éves tanuló e fordulat alapján nem munkavállaló."
+        },
+        {
+          "text": "A tizenhatodik életévét be nem töltött személy a gyámhatósághoz a foglalkoztatást megelőző legalább tizenöt nappal tett előzetes bejelentés alapján, jogszabályban meghatározott kulturális, művészeti, sport- vagy hirdetési tevékenység keretében foglalkoztatható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ez a gyermekmunka-tilalom törvényi kivételsávja. Az Mt. 34. § (3) bekezdése a gyámhatósághoz tett, a foglalkoztatást megelőző legalább tizenöt napos előzetes bejelentést és a meghatározott tevékenységi kört kívánja. A bejelentés nem utólagos tudomásszerzés: a határidő elmulasztása a foglalkoztatást e kivétel alól kiveszi. Ez nem általános munkavállalói képesség tizenhat év alatt."
+        },
+        {
+          "text": "A tizenhat év alatti foglalkoztatás utólagos gyámhatósági tudomásszerzéssel is jogszerűvé tehető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az előzetesség a kivétel érvényességi kelléke. Az Mt. 34. § (3) bekezdése a foglalkoztatást megelőző legalább tizenöt napos előzetes bejelentést kívánja; a bejelentés nem utólagos. A határidő elmulasztása a foglalkoztatást a (3) bekezdés alól kiveszi. A tévedés a hatósági utólagos orvoslást keveri az előzetes bejelentési kötelezettséggel."
+        },
+        {
+          "text": "A tizenötödik életévét betöltött nappali képzésben tanuló tanítási időben is általános munkavállaló.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kedvezmény az iskolai szünethez kötött. Az Mt. 34. § (2) bekezdése szerint a tizenötödik életévét betöltött tanuló csak az iskolai szünet alatt lehet munkavállaló, ha nappali rendszerű képzésben tanul. A szüneten kívül e fordulat nem nyit általános munkavállalói minőséget. A tévedés a tizenötödik életév szerinti ILO-minimumot keveri a magyar szüneti kedvezménnyel."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "43461aefed6a"
+    },
+    {
+      "question": "Mi következik abból, ha a felek a 32–34. § alanyfogalmaitól el kívánnak térni?",
+      "options": [
+        {
+          "text": "Az eltérés tilos: a felek megállapodása, a kollektív szerződés és a munkáltatói szabályzat sem tágíthatja a fogalmakat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az alanyfogalmak nem engednek egyedi vagy kollektív tágítást. Az Mt. 35. § szerint a 32–34. §-ban foglaltaktól eltérni nem lehet: ez a munkáltatói jogképességet, a munkavállaló természetes személyi minőségét és az életkori rendet egyaránt rögzíti. Nincs helye olyan megállapodásnak, amely jogképtelen szervezetet munkáltatóvá vagy jogi személyt munkavállalóvá tenne. A munkáltatói szabályzat ugyanezen a ponton szintén elakad."
+        },
+        {
+          "text": "A 35. § az alanyok létezését, a 213. § g) pontja pedig a cselekvőképtelen munkavállaló 212. § szerinti különös védelmét zárja le kógensen; a két tilalom nem helyettesíti egymást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, két külön tárgyú eltérési tilalom van. Az Mt. 35. § a 32–34. § alanyfogalmaira, a 213. § g) pontja a 212. § munkaköri–felügyeleti rendjére vonatkozik. Sem az alanyok köre, sem a cselekvőképtelenre szabott védelem nem diszpozitív. A megállapodás és a kollektív szerződés mindkét ponton elakad."
+        },
+        {
+          "text": "A 35. § csak értelmező záradék, a felek egyedi megállapodással eltérhetnek az életkori küszöbtől.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 35. § nem pusztán magyarázó szöveg, hanem eltérést záró tilalom. Az Mt. 35. § szerint a 32–34. §-ban foglaltaktól eltérni nem lehet, ideértve az életkori rendet is. A kógencia a színlelt vállalkozási vagy megbízási szerződésen keresztül megkerülhetőnek látszó életkori tilalmat is elvágja. A tévedés a diszpozitív Mt.-szabályok mintáját ráírja az alanyfogalmakra."
+        },
+        {
+          "text": "Ha a kollektív szerződés tágítja a munkavállalói életkori küszöböt, a 35. § helyett a kollektív szerződés az irányadó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kollektív szerződés sem törheti át a 35. § tilalmát. Az Mt. 35. § a 32–34. §-tól való eltérést zárja ki, és ez a kollektív szerződésre is kiterjed. Az életkori küszöb ezért nem enyhíthető kollektív megállapodással. A tévedés a diszpozitív kollektív eltérés általános lehetőségét keveri az alanyfogalmak kógenciájával."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "620825e6664b"
+    },
+    {
+      "question": "A munkáltató képviseletében ki tehet jognyilatkozatot, és mi orvosolja a hatáskörhiányt?",
+      "options": [
+        {
+          "text": "A munkáltató saját képviselőjének jogkörtúllépésére csak akkor hivatkozhat, ha a munkavállaló nem következtethetett alappal a jogosultságra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hivatkozási teher a munkáltatót terheli a látszat védelmében. Az Mt. 20. § (4) bekezdése szerint a munkáltató akkor hivatkozhat a képviselő jogkörtúllépésére, ha a munkavállaló a körülményekből nem következtethetett alappal az eljáró jogosultságára. A belső túllépés kifelé csak akkor hatályosul érvénytelenségként, ha a látszat sem támasztotta a jogosultságot. Ez a munkavállaló alapos következtetésének védelme."
+        },
+        {
+          "text": "A munkáltatói jogkör gyakorlásának rendjét a munkáltató a jogszabályi kereteken kívül, szabadon alakíthatja, ideértve a 212. § szerinti felügyelet elengedését is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a belső rend jogszabályi kerethez kötött. Az Mt. 20. § (2) bekezdése szerint a munkáltatói joggyakorlás rendjét a jogszabályok keretei között a munkáltató határozza meg. A cselekvőképtelen munkavállaló 212. § szerinti felügyelete belső utasítással nem engedhető el. A tévedés a szervezeti szabadságot a kógens védelmi szabályok fölé helyezi."
+        },
+        {
+          "text": "Jognyilatkozat tételére a munkáltatói jogkör gyakorlója jogosult.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkajogi nyilatkozat a jogkör gyakorlójához kötött. Az Mt. 20. § (1) bekezdése szerint a munkáltató képviseletében jognyilatkozatra a munkáltatói jogkör gyakorlója jogosult. A cégjegyzésre jogosult és a jogkör gyakorlója elválhat; a munkajogi aktust az utóbbi teszi. A joggyakorlás rendjét — jogszabályi keretek között — a munkáltató határozza meg."
+        },
+        {
+          "text": "Ha nem az arra jogosított járt el, az eljárás minden esetben semmis, utólagos jóváhagyással sem orvosolható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatáskörhiánynak kettős orvoslása van. Az Mt. 20. § (3) bekezdése szerint az eljárás érvénytelen, kivéve, ha a jogkör gyakorlója a jognyilatkozatot jóváhagyta; jóváhagyás hiányában is érvényes, ha a munkavállaló a körülményekből alappal következtethetett a jogosultságra. A tévedés az abszolút semmisséget keveri a jóváhagyási és látszatvédelmi renddel."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "04b87eda3bfe"
+    },
+    {
+      "question": "Mely esetben szükséges a törvényes képviselő hozzájárulása vagy nyilatkozata a munkavállaló oldalán?",
+      "options": [
+        {
+          "text": "A cselekvőképtelen személy a munkaszerződést saját nyilatkozatával is megkötheti, ha a mindennapi élet csekély jelentőségű ügyleteinek mintájára jár el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkaszerződés nem esik a mindennapi apróügyletek kivétele alá. Az Mt. 21. § (5) bekezdése szerint a cselekvőképtelen nevében a törvényes képviselő tesz jognyilatkozatot. A Ptk. 2:14. § szerinti mindennapi élet csekély jelentőségű szerződése a munkaszerződésre nem terjed ki. A tévedés a Ptk. apróügyleti kivételét ráírja a munkaviszony létesítésére."
+        },
+        {
+          "text": "Ha a nagykorú cselekvőképessége csak vagyoni ügycsoportban korlátozott, a 21. § (4) bekezdése és a 212. § akkor is alkalmazandó a munkaviszonyára.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkaviszonnyal összefüggő ügycsoport hiányában e szabályok nem nyílnak meg. A Ptk. 2:19. § (3) és (5) bekezdése szerint a bíróság megjelöli az ügycsoportokat, és a korlátozott személy az azon kívüli ügyekben önállóan nyilatkozik. A 212. § (1) bekezdése a cselekvőképtelenséget és a munkaviszonnyal összefüggő ügycsoportban való részleges korlátozást vonja egy rend alá. A tévedés bármely gondnokságot automatikusan munkajogi korlátozássá tesz."
+        },
+        {
+          "text": "A fiatal munkavállaló vagy a munkaviszonnyal összefüggő ügycsoportban részlegesen korlátozott munkavállaló munkaszerződés megkötésére, módosítására, megszüntetésére vagy kötelezettségvállalásra irányuló jognyilatkozatához a törvényes képviselő hozzájárulása kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ez érvényességi szűrő a megjelölt aktusokra. Az Mt. 21. § (4) bekezdése a törvényes képviselő hozzájárulását kívánja a fiatal, illetve a munkaviszonnyal összefüggő ügycsoportban részlegesen korlátozott munkavállaló ilyen nyilatkozataihoz. A hozzájárulás hiányában a nyilatkozat nem érvényes. Más ügycsoportban korlátozott nagykorú e fordulat alá nem esik."
+        },
+        {
+          "text": "A cselekvőképtelen személy nevében a törvényes képviselője tesz jognyilatkozatot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a cselekvőképtelen kiesik a saját nyilatkozat köréből. Az Mt. 21. § (5) bekezdése szerint: „A cselekvőképtelen személy nevében törvényes képviselője tesz jognyilatkozatot.” A 212. § szerinti munkaviszony az alanyiságán áll, a szerződéses akaratot a képviselő közvetíti. Nincs „saját” munkaszerződés-kötés a cselekvőképtelen részéről."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "88db92404ad4"
+    },
+    {
+      "question": "Milyen munkakörre létesíthet munkaviszonyt a cselekvőképtelen vagy a munkaviszonnyal összefüggő ügycsoportban részlegesen korlátozott munkavállaló?",
+      "options": [
+        {
+          "text": "Csak olyan munkakörre, amelyet egészségi állapotánál fogva tartósan és folyamatosan képes ellátni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkakör megválasztása az egészségi állapothoz és a tartós ellátási képességhez kötött. Az Mt. 212. § (1) bekezdése szerint e munkavállaló csak olyan munkakörre létesíthet munkaviszonyt, amelyet egészségi állapotánál fogva tartósan és folyamatosan képes ellátni. A „próbafeladat” vagy az eseti kisegítés nem elég. A munkakörnek állandónak kell lennie."
+        },
+        {
+          "text": "A munkakört az ahhoz tartozó feladatok részletes leírásával kell meghatározni, és az egészségügyi alkalmassági vizsgálat e részletes feladatokra terjed ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az alkalmasság a konkrét feladatokra, nem elvont címkére vonatkozik. Az Mt. 212. § (2) bekezdése szerint a munkakört az ahhoz tartozó feladatok részletes leírásával kell meghatározni, és az egészségügyi alkalmassági vizsgálat a részletes munkaköri feladatok ellátására terjed ki. Az általános munkaköri megnevezés e követelményt nem váltja ki. Ez a tartós ellátási képesség ellenőrzésének eszköze."
+        },
+        {
+          "text": "Eseti kisegítő feladatra vagy próba jellegű munkakörre is létesíthető munkaviszony, ha a törvényes képviselő hozzájárul.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tartós és folyamatos ellátás képessége nem engedhető el hozzájárulással. Az Mt. 212. § (1) bekezdése a munkakört az egészségi állapot szerinti tartós, folyamatos ellátáshoz köti. A 213. § g) pontja szerint a 212. §-tól a felek megállapodása sem térhet el. A tévedés a képviselői hozzájárulást a munkaköri szűkítés feloldásává teszi."
+        },
+        {
+          "text": "Az általános munkaköri megnevezés elegendő, ha az alkalmassági vizsgálat a munkakör címére kiterjed.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a részletes feladatleírás kötelező kellék. Az Mt. 212. § (2) bekezdése szerint a munkakört az ahhoz tartozó feladatok részletes leírásával kell meghatározni, és az alkalmassági vizsgálat a részletes munkaköri feladatok ellátására terjed ki. Az általános megnevezés e különös követelményt nem pótolja. A tévedés a szokásos munkaköri címke gyakorlatát keveri a 212. § (2) bekezdésének részletezési kötelezettségével."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "6677feccb7d1"
+    },
+    {
+      "question": "Mi a folyamatos felügyelet tartalma a cselekvőképtelen munkavállaló munkavégzésénél?",
+      "options": [
+        {
+          "text": "A kollektív szerződés a folyamatos felügyeletet időszakos ellenőrzéssé enyhítheti, ha a munkavállaló törvényes képviselője ebbe beleegyezik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a folyamatos felügyelet nem alakítható át időszakos ellenőrzéssé kollektív szerződéssel. Az Mt. 213. § g) pontja a 212. § teljes szövegét — munkakör, leírás, alkalmasság, felügyelet, fiatal munkavállalói szabályok, kármentesség — kógenssé teszi. A képviselői beleegyezés sem nyit eltérést e tilalom alól. A tévedés a diszpozitív kollektív eltérés mintáját ráírja a 213. § g) pontjára."
+        },
+        {
+          "text": "A belátási képesség hiánya miatt az egészséges és biztonságos munkafeltételek megtartása a folyamatos felügyelet feladata a munkavégzés ideje alatt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felügyelet tartalma a biztonsági feltételek jelenléti biztosítása. Az Mt. 212. § (3) bekezdése szerint a munkavégzést folyamatosan és oly módon kell felügyelni, hogy az az egészséges és biztonságos munkafeltételek megtartását biztosítsa. A belátási képesség hiánya miatt e feltételek tartása nem bízható a munkavállaló önálló ellenőrzésére. Az (1) bekezdés szerinti tartós ellátási képesség a felügyelettel együtt olvasandó."
+        },
+        {
+          "text": "Elegendő a munkavégzés utáni, időszakos ellenőrzés, ha a munkaköri leírás részletes.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az utólagos ellenőrzés nem váltja ki a folyamatos felügyeletet. Az Mt. 212. § (3) bekezdése a munkavégzés folyamatos, a biztonságos feltételeket tartó felügyeletét kívánja. A részletes munkaköri leírás a (2) bekezdés szerinti kellék, de a felügyeletet nem pótolja. A tévedés a dokumentációs kötelezettséget keveri a jelenléti felügyelettel."
+        },
+        {
+          "text": "A munkavégzést folyamatosan és úgy kell felügyelni, hogy az egészséges és biztonságos munkafeltételek megtartása biztosítva legyen.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felügyelet a munkavégzés ideje alatti jelenlét, nem utólagos ellenőrzés. Az Mt. 212. § (3) bekezdése szerint a munkavállaló munkavégzését folyamatosan és oly módon kell felügyelni, hogy az az egészséges és biztonságos munkafeltételek megtartását biztosítsa. A belátási képesség hiánya miatt a biztonsági feltételek tartása a felügyelet feladata. Ez a 212. § (1) bekezdésének tartós ellátási képességével együtt olvasandó."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "8512f8b6ee61"
+    },
+    {
+      "question": "Mi következik a cselekvőképtelen munkavállaló kárfelelősségére nézve a 212. § (4) bekezdéséből?",
+      "options": [
+        {
+          "text": "A munkavállaló a munkáltató személyiségi jogának megsértése esetén sérelemdíjat köteles fizetni, mert a Ptk. 2:52. § mindenkit kötelez.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a sérelemdíj-fizetési kötelezettség a munkavállaló oldalán ki van zárva. Az Mt. 212. § (4) bekezdése szerint a munkavállaló sérelemdíj megfizetésére nem kötelezhető. A Ptk. 2:52–2:53. § a személyiségi jog megsértésének általános rendje, de a munkavállalói oldalon a 212. § (4) bekezdése speciális mentesítést ad. A tévedés az általános Ptk.-szabályt a speciális mentesülés fölé helyezi."
+        },
+        {
+          "text": "A (4) bekezdés a munkavállaló kártérítési és sérelemdíj-kötelezettségét zárja ki; a személyiségi jog megsértése miatti igény a munkavállaló oldalán a Ptk. szerint továbbra is nyitva állhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom a munkavállaló kötelezettségét, nem a saját személyiségi jogi igényét érinti. Az Mt. 212. § (4) bekezdése a kártérítésre vagy sérelemdíj megfizetésére kötelezést zárja ki. A Ptk. 2:52–2:53. § szerinti sérelemdíj és az abból eredő kár a munkavállaló oldalán — ha ő a sértett — továbbra is nyitva állhat. A két irányú igényt tilos összecserélni."
+        },
+        {
+          "text": "A munkavállalóra a fiatal munkavállalóra vonatkozó rendelkezések megfelelően irányadók azzal, hogy kártérítésre vagy sérelemdíj megfizetésére nem kötelezhető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fiatal munkavállalói védelem kiterjed, a kár- és sérelemdíj-kötelezettség viszont kizárt. Az Mt. 212. § (4) bekezdése szerint a munkavállalóra a fiatal munkavállalóra vonatkozó rendelkezések megfelelően irányadók azzal, hogy kártérítésre vagy sérelemdíj megfizetésére nem kötelezhető. A munka- és pihenőidő, az éjszakai munka és a baleseti kockázat szabályai ezért megfelelően alkalmazandók. A kizárás a munkáltatói igénnyel szembeni mentesülés."
+        },
+        {
+          "text": "A munkavállaló a munkáltatóval szemben teljes kártérítési felelősséggel tartozik, ha a kárt szándékosan okozta.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kártérítési kötelezettséget a törvény zárja ki, és szándékossági kivételt nem enged. Az Mt. 212. § (4) bekezdése szerint e munkavállaló kártérítésre vagy sérelemdíj megfizetésére nem kötelezhető. A 213. § g) pontja e szabálytól sem enged eltérést. A tévedés az általános munkavállalói kárfelelősség szándékossági ágát írja rá e különös mentesülésre."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "30af2e1bc356"
+    },
+    {
+      "question": "Az Alaptörvény XV. cikke hogyan keretezi a munkaviszony alanyiságát?",
+      "options": [
+        {
+          "text": "A jogképesség a munkavállalónál a tizenhatodik életév betöltésével keletkezik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jogképesség nem életkori küszöbhöz kötött. Az Alaptörvény XV. cikk (1) bekezdése szerint minden ember jogképes; a Ptk. 2:1. § (1) bekezdése ugyanezt mondja ki. A tizenhatodik életév a 34. § (2) bekezdése szerinti munkavállalói életkori főszabály, nem a jogképesség kezdete. A tévedés az életkori munkavállalói küszöböt a jogképesség keletkezésével azonosítja."
+        },
+        {
+          "text": "Magyarország külön intézkedésekkel védi a családokat, a gyermekeket, a nőket, az időseket és a fogyatékossággal élőket; a 212. § munkaköri, alkalmassági és felügyeleti rendje e kötelezettség munkajogi leképezése.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a külön védelem nem „szociális kiegészítés”, hanem az alanyiság kerete. Az Alaptörvény XV. cikk (5) bekezdése a családok, gyermekek, nők, idősek és fogyatékossággal élők védelmét külön intézkedési kötelezettségként rögzíti. A 212. § e kötelezettség munkajogi leképezése a munkakör, az alkalmasság és a felügyelet oldalán. A gyermekek foglalkoztatásának tilalma ugyanezen védelmi rend másik oldala."
+        },
+        {
+          "text": "A fogyatékosság szerinti megkülönböztetés tilalma miatt a cselekvőképesség korlátozása ürügy lehet a foglalkoztatásból való kirekesztésre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megkülönböztetés tilalma épp a kirekesztés ellen hat. Az Alaptörvény XV. cikk (2) bekezdése a fogyatékosságot is nevesíti a megkülönböztetés tilalmában. A cselekvőképesség korlátozása ezért nem lehet ürügy a foglalkoztatásból való kirekesztésre, ha a 212. § szerinti munkakör és felügyelet biztosítható. A tévedés a védelmet kizáró okként olvassa."
+        },
+        {
+          "text": "A törvény előtt mindenki egyenlő, és minden ember jogképes.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogképesség minden embert megillet, és a munkaviszony alanyiságának előfeltétele. Az Alaptörvény XV. cikk (1) bekezdése szerint: „A törvény előtt mindenki egyenlő. Minden ember jogképes.” A munkáltatói minőséghez a jogképesség az Mt. 33. § szerinti előfeltétel, a munkavállaló pedig természetes személy, akinek jogképessége nem életkortól vagy cselekvőképességtől függ. A cselekvőképesség hiánya a képviseletet és az Mt. 212. § munkaköri–felügyeleti rendjét szabja át, nem a jogalanyiságot vonja el."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "77b995c2a6c7"
+    },
+    {
+      "question": "A Ptk. jogképességi szabályai hogyan hatnak a munkaviszony alanyaira?",
+      "options": [
+        {
+          "text": "Minden ember jogképes: jogai és kötelezettségei lehetnek; a jogképességet korlátozó jognyilatkozat semmis.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a polgári jogi jogképesség univerzális és lemondhatatlan. A Ptk. 2:1. § (1) bekezdése szerint minden ember jogképes, a (2) bekezdés a jogképességet korlátozó jognyilatkozatot semmissé teszi. A munkaszerződésbe foglalt, a munkavállaló jogalanyiságát elvonó kikötés ezért semmis. A munkaviszony alanya akkor is a munkavállaló, ha a nyilatkozatot a 21. § (5) bekezdése szerint a törvényes képviselő teszi."
+        },
+        {
+          "text": "A jogi személy jogképes, és jogképessége kiterjed minden olyan jogra és kötelezettségre, amely jellegénél fogva nem csupán az emberhez fűződhet; ezért munkáltató lehet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkáltatói minőség szervezeti jognyilatkozaton is állhat. A Ptk. 3:1. § (1)–(2) bekezdése a jogi személyt jogképesnek nyilvánítja, kizárva a csupán emberhez fűződő jogokat. Az Mt. 33. § szerinti jogképes személyként a jogi személy munkaszerződés alapján foglalkoztathat. A személyes munkavégzés mint munkavállalói kötelezettség viszont emberhez kötött."
+        },
+        {
+          "text": "A jogi személy a Ptk. 3:1. § alapján munkavállalóként is felléphet, ha a tevékenysége nem tiltott.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkavállalói minőség természetes személyhez kötött. Az Mt. 34. § (1) bekezdése a munkavállalót természetes személyként határozza meg; a Ptk. 3:1. § (2) bekezdése a csupán emberhez fűződő kötelezettségeket a jogi személy jogképességéből kizárja. A személyes munkavégzés ilyen kötelezettség. A tévedés a munkáltatói és a munkavállalói oldalt cseréli fel."
+        },
+        {
+          "text": "A törvényes képviselő a munkaszerződésben érvényesen kizárhatja a képviselt jogképességét.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jogképességet korlátozó jognyilatkozat semmis. A Ptk. 2:1. § (2) bekezdése szerint a jogképességet korlátozó jognyilatkozat semmis; sem a törvényes képviselő, sem a gondnok, sem a munkaszerződés nem zárhatja ki, hogy a természetes személynek jogai és kötelezettségei legyenek. Az Mt. 32. § szerint a munkaviszony alanya a munkavállaló, tehát a képviselt természetes személy marad. A tévedés a képviseleti hatalmat a jogképesség feletti rendelkezéssé növeli."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "af643caf57c2"
+    },
+    {
+      "question": "Hogyan viszonyul a kiskorú cselekvőképessége a munkavállalói minőséghez?",
+      "options": [
+        {
+          "text": "A tizenhatodik életévét betöltött kiskorú a munkaszerződést a törvényes képviselő hozzájárulása nélkül is érvényesen megkötheti, mert már általános munkavállaló.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az életkori munkavállalói minőség nem oldja fel a hozzájárulási kelléket. Az Mt. 21. § (4) bekezdése a fiatal munkavállaló munkaszerződés megkötésére irányuló jognyilatkozatához a törvényes képviselő hozzájárulását kívánja. A 34. § (2) bekezdése a tizenhatodik életévet főszabállyá teszi, de a cselekvőképességi rend ettől külön áll. A tévedés a munkavállalói életkort a teljes cselekvőképességgel azonosítja."
+        },
+        {
+          "text": "A tizennegyedik életévét be nem töltött kiskorú a munkaszerződést saját nyilatkozatával is megkötheti, ha a szülő szóban beleegyezik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a cselekvőképtelen kiskorú saját munkaszerződés-kötése semmis. A Ptk. 2:13. § szerinti cselekvőképtelen kiskorú nevében a törvényes képviselő jár el, az Mt. 21. § (5) bekezdése szerint pedig a cselekvőképtelen nevében a törvényes képviselő tesz jognyilatkozatot. A szóbeli szülői beleegyezés nem pótolja a képviselői nyilatkozatot. A tévedés a mindennapi apróügyletek kivételét írja rá a munkaszerződésre."
+        },
+        {
+          "text": "Korlátozottan cselekvőképes az a kiskorú, aki a tizennegyedik életévét betöltötte és nem cselekvőképtelen.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a korlátozott cselekvőképesség a tizennegyedik életévhez és a cselekvőképtelenség hiányához kötött. A Ptk. 2:11. § szerint: „Korlátozottan cselekvőképes az a kiskorú, aki a tizennegyedik életévét betöltötte és nem cselekvőképtelen.” A tizenhatodik életévét betöltött kiskorú az Mt. 34. § (2) bekezdése szerint általában munkavállaló. Az Mt. 21. § (4) bekezdése ugyanakkor a munkaszerződéses aktusokhoz a törvényes képviselő hozzájárulását kívánja érvényességi kellékként."
+        },
+        {
+          "text": "A tizennegyedik életévét be nem töltött kiskorú a Ptk. szerint cselekvőképtelen.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a cselekvőképtelenség alsó életkori határa a tizennegyedik életév. A Ptk. 2:13. § szerint: „Cselekvőképtelen az a kiskorú, aki a tizennegyedik életévét nem töltötte be.” A cselekvőképtelen kiskorú jognyilatkozata semmis, nevében a törvényes képviselő jár el. A munkaszerződés nem tartozik a mindennapi élet csekély jelentőségű ügyletei közé, ezért munkavállalóvá csak az Mt. 34. § (3) bekezdése szerinti szűk sávban, az Mt. 21. § (5) bekezdése szerinti képviselői nyilatkozattal válhat."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "903f44e7bcf1"
+    },
+    {
+      "question": "Az Alaptörvény XV. cikke hogyan hat a cselekvőképtelen vagy fogyatékossággal élő személy munkaviszony-alanyiságára?",
+      "options": [
+        {
+          "text": "A XV. cikk csak a munkáltatói oldal jogképességére vonatkozik, a munkavállalóra nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a „minden ember jogképes” fordulat a munkavállaló természetes személyére is áll. Az Alaptörvény XV. cikk (1) bekezdése minden emberre kiterjed, nem csupán a munkáltatói oldalra. Az Mt. 34. § (1) bekezdése a munkavállalót természetes személyhez köti; a 33. § a munkáltatói jogképességet külön határozza meg. A tévedés a XV. cikket egyoldalú munkáltatói szabállyá szűkíti."
+        },
+        {
+          "text": "Minden ember jogképes; a fogyatékosság szerinti megkülönböztetés tilalma nem teszi a cselekvőképesség korlátozását a foglalkoztatásból való kirekesztés ürügyévé, ha a 212. § szerinti rend biztosítható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogképesség és a megkülönböztetés tilalma az alanyiság kerete. Az Alaptörvény XV. cikk (1) bekezdése szerint minden ember jogképes. A (2) bekezdés a fogyatékosság szerinti különbségtétel nélküli jogbiztosítást mondja ki. A 212. § munkaköri, alkalmassági és felügyeleti rendje e védelem mellett teszi lehetővé a foglalkoztatást."
+        },
+        {
+          "text": "A cselekvőképesség korlátozása automatikusan megszünteti a munkavállalói jogalanyiságot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jogképesség megmarad, a nyilatkozati és foglalkoztatási rend változik. Az Alaptörvény XV. cikk (1) bekezdése minden ember jogképességét kimondja. Az Mt. 212. § a cselekvőképtelen vagy munkaviszonyos ügycsoportban részlegesen korlátozott munkavállaló foglalkoztatását különös feltételekhez köti, de az alany a munkavállaló. A tévedés a cselekvőképességet jogképesség-elvonásként kezeli."
+        },
+        {
+          "text": "Az (5) bekezdés szerinti külön intézkedési kötelezettség a gyermekek és a fogyatékossággal élők védelmére a 212. § munkaköri–felügyeleti rendjének alkotmányos háttere.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a külön védelem nem „szociális kiegészítés”, hanem az alanyiság kerete. Az Alaptörvény XV. cikk (5) bekezdése a gyermekek, idősek és fogyatékossággal élők védelmét külön intézkedési kötelezettségként rögzíti. Az Mt. 212. § e kötelezettség munkajogi leképezése a tartós ellátás, a részletes feladatok és a folyamatos felügyelet követelményeivel. Az Alaptörvény XV. cikk (1) bekezdése a jogképességet ehhez előfeltételként adja."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "726528816503"
+    },
+    {
+      "question": "Mit mond ki az Alaptörvény a gyermekek foglalkoztatásáról?",
+      "options": [
+        {
+          "text": "Gyermekek foglalkoztatása — testi, szellemi és erkölcsi fejlődésüket nem veszélyeztető, törvényben meghatározott esetek kivételével — tilos.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a főszabály tilalom, a kivétel törvényhez és a fejlődés sérelmének hiányához kötött. Az Alaptörvény XVIII. cikk (1) bekezdése a gyermekek foglalkoztatását — a testi, szellemi és erkölcsi fejlődésüket nem veszélyeztető, törvényben meghatározott esetek kivételével — tilosnak mondja. Az Mt. 34. § (2) bekezdése a tizenhatodik életévet és az iskolai szünethez kötött tizenötödik életévet adja. A (3) bekezdés a gyámhatósági előzetes bejelentéshez kötött kulturális, művészeti, sport- vagy hirdetési sávot nyitja meg."
+        },
+        {
+          "text": "Az Alaptörvény XVIII. cikke csak a tizenhat év alattiakra vonatkozik, a tizenhat és tizennyolc év közöttiekre nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés a fiatalok munkahelyi védelmét általánosan rögzíti. Az Alaptörvény XVIII. cikk (1) bekezdése a gyermekek foglalkoztatásának tilalmát, a (2) bekezdés a fiatalok és a szülők munkahelyi védelmét mondja ki. A 182. számú Egyezmény szerint gyermek a tizennyolc év alatti személy a legrosszabb formák szempontjából. A tévedés a 34. § (2) bekezdésének munkavállalói főszabályát az alkotmányos védelem felső határává teszi."
+        },
+        {
+          "text": "A gyermekek foglalkoztatása szabadon megengedett, ha a szülő írásban hozzájárul.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szülői hozzájárulás nem pótolja a törvényi kivételt. Az Alaptörvény XVIII. cikk (1) bekezdése a foglalkoztatást tilosnak mondja, kivéve a fejlődésüket nem veszélyeztető, törvényben meghatározott eseteket. Az Mt. 34. § (2)–(3) bekezdése adja e törvényi kivételeket; a puszta szülői beleegyezés nem nyit általános foglalkoztatást. A tévedés a magánjogi hozzájárulást alkotmányos engedélyként olvassa."
+        },
+        {
+          "text": "Magyarország külön intézkedésekkel biztosítja a fiatalok és a szülők munkahelyi védelmét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom mellett pozitív védelmi kötelezettség is áll. Az Alaptörvény XVIII. cikk (2) bekezdése szerint Magyarország külön intézkedésekkel biztosítja a fiatalok és a szülők munkahelyi védelmét. A munka- és pihenőidő, az éjszakai munka és a baleseti kockázat különös szabályai e fordulat végrehajtása. A 212. § (4) bekezdése a fiatal munkavállalóra vonatkozó szabályokat a cselekvőképtelenre is kiterjeszti."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "433b9d4163fe"
+    },
+    {
+      "question": "Milyen alsó korhatárt rögzít a foglalkoztatásról szóló 138. számú ILO-egyezmény, és hogyan viszonyul ehhez a magyar Mt.?",
+      "options": [
+        {
+          "text": "Magyarország a 34. §-ban tizennégy éves alsó korhatárt alkalmaz az Egyezmény átmeneti szabálya alapján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tizennégy éves átmeneti küszöb nem a magyar 34. § enyhítése. Az ILO 138. Egyezmény 2. Cikk 4. pontja a tizennégy éves alsó korhatárt a kellően nem fejlett gazdaságú és oktatású államoknak engedi. Magyarország a 34. §-ban tizenhat, illetve kedvezményesen tizenöt évet alkalmaz. A tévedés az átmeneti nemzetközi kivételt a hatályos magyar főszabályra írja."
+        },
+        {
+          "text": "A veszélyeztető jellegű vagy körülményű munkánál az alsó korhatár nem lehet kevesebb, mint tizennyolc év.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a veszélyes munka különös küszöbe tizennyolc év. Az ILO 138. Egyezmény 3. Cikk 1. pontja szerint az ilyen foglalkoztatásnál az alsó korhatár nem lehet kevesebb, mint tizennyolc év. Tizenhat évtől csak akkor engedhető, ha az egészség, a biztonság és az erkölcs megóvása teljesen biztosított, és megfelelő oktatás vagy szakképzés történt. Ez nem azonos a 34. § (2) bekezdésének iskolai szüneti kedvezményével."
+        },
+        {
+          "text": "Az alsó korhatár semmi esetre sem lehet kevesebb, mint tizenöt év, és nem lehet alacsonyabb az iskolaköteles életkornál.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nemzetközi minimum tizenöt év, az iskolakötelezettséghez igazítva. Az ILO 138. Egyezmény 2. Cikk 3. pontja szerint az alsó korhatár nem lehet alacsonyabb az iskolaköteles életkornál, és semmi esetre sem lehet kevesebb, mint tizenöt év. A magyar Mt. 34. § (2) bekezdése a főszabályt a tizenhatodik életévben, kedvezményként a tizenötödikben állapítja meg. Ez a nemzetközi minimumot nem rontja."
+        },
+        {
+          "text": "Az iskolai szüneti tizenöt éves kedvezmény egyben a veszélyes munka 3. Cikk szerinti kivételét is megnyitja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szüneti kedvezmény és a veszélyes munka kivétele külön intézmények. Az Mt. 34. § (2) bekezdése az iskolai szünethez és a nappali képzéshez kötött életkori kedvezmény; az ILO 138. Egyezmény 3. Cikk 3. pontja a veszélyes munkánál tizenhat évtől külön feltételeket kíván. A két kivétel nem helyettesíti egymást. A tévedés az életkori kedvezményt a veszélyes munka engedélyével azonosítja."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "ec6bb44cb027"
+    },
+    {
+      "question": "A 182. számú ILO-egyezmény szerint ki minősül gyermeknek, és mi tartozik a gyermekmunka legrosszabb formái közé?",
+      "options": [
+        {
+          "text": "A 182. számú Egyezmény gyermekfogalma a tizenhatodik életév betöltésével lezárul, összhangban az Mt. 34. § (2) bekezdésével.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nemzetközi gyermekfogalom a tizennyolcadik életévhez kötött. Az ILO 182. Egyezmény 2. Cikk szerint gyermek valamennyi tizennyolc év alatti személy. Az Mt. 34. § (2) bekezdése a munkavállalói főszabályt a tizenhatodik életévben állapítja meg, de ez nem zárja le a 182. számú Egyezmény gyermekfogalmát. A tévedés a munkavállalói életkort a nemzetközi gyermekdefinícióval azonosítja."
+        },
+        {
+          "text": "A legrosszabb formák közé tartozik a rabszolgasághoz hasonló gyakorlat, a prostitúció és pornográfia célú felhasználás, az illegális tevékenység — különösen a kábítószer-előállítás és -üzérkedés —, valamint az egészséget, biztonságot vagy erkölcsöt valószínűleg veszélyeztető munka.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 3. Cikk taxatív jelleggel sorolja a legrosszabb formákat. Az ILO 182. Egyezmény 3. Cikk a)–d) pontja a rabszolgaságot és hasonló gyakorlatot, a prostitúciót és pornográfiát, az illegális tevékenységet — különösen a kábítószer-előállítást és -üzérkedést —, valamint a veszélyeztető munkát emeli ide. E körben az Mt. 34. § (3) bekezdése szerinti kulturális–művészeti kivétel nem nyílik meg. A 182. számú Egyezmény azonnali felszámolást kíván."
+        },
+        {
+          "text": "A 34. § (3) bekezdése szerinti művészeti foglalkoztatás mindig mentesül a 182. számú Egyezmény 3. Cikk d) pontja alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a művészeti sáv nem automatikus mentesülés a veszélyeztető munka tilalma alól. Az ILO 182. Egyezmény 3. Cikk d) pontja a jellegénél vagy körülményeinél fogva veszélyeztető munkát a legrosszabb formák közé sorolja. Az Mt. 34. § (3) bekezdése szerinti tevékenység e pont alá esik, ha a körülmények veszélyeztetők. A tévedés a gyámhatósági bejelentést teljes felmentésként olvassa."
+        },
+        {
+          "text": "A „gyermek” fogalma alatt valamennyi tizennyolc év alatti személy értendő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a gyermekfogalom tágabb, mint a magyar munkavállalói főszabály. Az ILO 182. Egyezmény 2. Cikk szerint a gyermek fogalma alatt valamennyi tizennyolc év alatti személy értendő. A magyar Mt. 34. § a munkavállalói főszabályt a tizenhatodik életévben állapítja meg. A tizennyolc év alattiak a legrosszabb formák tilalma szempontjából gyermekek maradnak."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "ec829ec68128"
+    },
+    {
+      "question": "Milyen feltételekkel foglalkoztatható hivatásos sportolóként a tanköteles fiatal munkavállaló?",
+      "options": [
+        {
+          "text": "Csak azokban a sportágakban, amelyekben hivatásos versenyrendszer működik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az amatőr vagy utánpótlás-bajnokság önmagában nem nyitja meg e jogviszonyt. A 7/2001. (X. 4.) ISM rendelet 1. § (1) bekezdése szerint a tanköteles fiatal munkavállaló hivatásos sportolóként azokban a sportágakban foglalkoztatható, amelyekben hivatásos versenyrendszer működik. Ez az Mt. 34. § (3) bekezdésének sportági ágaként sűríti a kulturális–művészeti–sport–hirdetési kivételt. A versenyrendszer hiányában a rendelet szerinti foglalkoztatás nem jön létre."
+        },
+        {
+          "text": "Elegendő a sportegészségügyi alkalmasság igazolása; a gyámhatósági engedély pótolható utólagos sportérdekkel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az engedély előzetes kellék, utólag nem orvosolható. A 7/2001. (X. 4.) ISM rendelet 1. § (2)–(3) bekezdése a gyámhatósági engedélyt és a sportegészségügyi igazolást is megkívánja a kérelem mellékletei között. Az engedély hiánya a 34. § (3) bekezdése és a gyermekmunka tilalma alá eső jogsértést eredményez. A tévedés az alkalmasságot a hatósági engedély helyébe állítja."
+        },
+        {
+          "text": "A kérelemhez csak a munkaszerződés tervezete csatolandó; a szakszövetség nyilatkozata nem kötelező.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mellékletek taxatívak és a szakszövetséget is magukban foglalják. A 7/2001. (X. 4.) ISM rendelet 1. § (3) bekezdése szerint csatolni kell a jogviszonyt létesítő okirat tervezetét vagy előzetes megállapodást, a szakszövetség igazolását a hivatásos versenyrendszerről, a szakszövetség foglalkoztathatósági nyilatkozatát és a sportegészségügyi igazolást. A tévedés a mellékletlistát egyetlen iratra szűkíti."
+        },
+        {
+          "text": "A foglalkoztatáshoz a gyámhatóság engedélye kell, a tizenhatodik életévét be nem töltött tankötelesnél a törvényes képviselő hozzájárulása is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az engedély a 34. § (3) bekezdésének előzetes bejelentésén túl további kellék. A 7/2001. (X. 4.) ISM rendelet 1. § (2) bekezdése a gyámhatóság engedélyét, és a tizenhatodik életévét be nem töltött tankötelesnél a törvényes képviselő hozzájárulását is megkívánja. Az Mt. 21. § (4) bekezdése e hozzájárulást a munkaszerződés érvényességi kellékeként ismétli. Az engedély hiánya a gyermekmunka tilalma alá eső jogsértést eredményez."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "696f9aba922f"
+    },
+    {
+      "question": "A foglalkoztatás-felügyelet hogyan ellenőrzi az életkori feltételeket és a gyermekmunka tilalmát?",
+      "options": [
+        {
+          "text": "A hatóság a fiatal foglalkoztatott védelmét akkor is ellenőrzi, ha a munkavégzés vállalkozási vagy megbízási szerződés, személyes közreműködés, közérdekű önkéntesség, szövetkezeti közreműködés vagy önfoglalkoztatás keretében történik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a színlelt más jogviszony nem menti ki a fiatal foglalkoztatott védelmét. A 115/2021. (III. 10.) Korm. rendelet 5. § (4) bekezdése a fiatal foglalkoztatott vonatkozásában a minimumkövetelmények megtartását vállalkozási vagy megbízási szerződésre, személyes közreműködésre, közérdekű önkéntességre, szövetkezeti közreműködésre és önfoglalkoztatásra is kiterjeszti. A Fszftv. 7. § (4) bekezdés a) pontja a jogviszony minősítését a tényleges foglalkoztatáshoz köti. A színlelt vállalkozó a hatóság előtt munkavállalóvá minősülhet."
+        },
+        {
+          "text": "Az életkori feltételek megsértése esetén a hatóság főszabályként figyelmeztetést alkalmaz, bírság csak ismételt jogsértésnél jár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az életkori és gyermekmunka-jogsértésnél a bírság kötelező. A 115/2021. (III. 10.) Korm. rendelet 18. § (4) bekezdés b) pontja szerint a hatóság munkaügyi bírságot szab ki, ha a foglalkoztató az életkori feltételeket — ideértve a gyermekmunka tilalmát — megsértette. A Fszftv. 9. § (4) bekezdése szerint figyelmeztetés nem alkalmazható, ha a bírság kötelező. A tévedés a mérlegelési főszabályt ráírja a kötelező bírság esetére."
+        },
+        {
+          "text": "A helyszíni ellenőrzés csak előzetes értesítés után tartható, ha gyermekmunka gyanúja merül fel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a helyszíni ellenőrzés meglepetéshez kötött. A Fszftv. 8. § (3) bekezdése szerint a hatóság valamennyi foglalkoztatási helyszínen külön engedély és előzetes értesítési kötelezettség nélkül helyszíni ellenőrzést tarthat. A gyermekmunka és a bejelentés nélküli foglalkoztatás feltárása e meglepetéshez kötött. A tévedés az általános közigazgatási előzetes értesítést írja rá a felügyeletre."
+        },
+        {
+          "text": "Az életkori feltételek és a gyermekmunka tilalma a jogviszony létesítésének minimumkövetelménye.",
+          "isCorrect": true,
+          "rationale": "IGAZ, e szabályok hatósági mércévé válnak. A 115/2021. (III. 10.) Korm. rendelet 5. § (2) bekezdés a) pont ab) alpontja a jogviszony létesítésével kapcsolatos életkori feltételeket és a gyermekmunka tilalmát minimumkövetelménynek tekinti. A Fszftv. 7. § (1) bekezdése szerint a hatóság a minimumkövetelmények megtartását ellenőrzi. Az Mt. 34. § és az Alaptörvény XVIII. cikk e ponton válik hatósági mércévé."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "44e48bdf06d4"
+    },
+    {
+      "question": "Mi a munkaügyi bírság alsó határa, és mikor kötelező a kiszabása az életkori szabályok megsértésénél?",
+      "options": [
+        {
+          "text": "A munkaügyi bírság legkisebb összege százötvenezer forint.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendelet számszerű alsó határt ad. A 115/2021. (III. 10.) Korm. rendelet 18. § (2) bekezdése szerint a munkaügyi bírság legkisebb összege százötvenezer forint. A (4) bekezdés b) pontja az életkori feltételek és a gyermekmunka tilalmának megsértését kötelező bírsághoz köti. A Fszftv. 9. § (2) bekezdése engedi, hogy kormányrendelet a bírságot kötelezővé tegye."
+        },
+        {
+          "text": "Ha a bejelentést késedelmesen, de az ellenőrzés megkezdéséig teljesítették, az életkori feltételek megsértése is mentesül a bírság alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a késedelmes bejelentés mentesülése a bejelentési mulasztásra szól, nem az életkori tilalomra. A 115/2021. (III. 10.) Korm. rendelet 18. § (5) bekezdés a) pontja a bejelentés késedelmes, de ellenőrzésig történő teljesítését mentesíti. A (4) bekezdés b) pontja szerinti életkori–gyermekmunka jogsértés ettől külön áll. A tévedés a bejelentési mentesülést kiterjeszti az életkori kötelező bírságra."
+        },
+        {
+          "text": "Kötelező a bírság, ha a foglalkoztató a jogviszony létesítésével kapcsolatos életkori feltételeket — ideértve a gyermekmunka tilalmát — megsértette.",
+          "isCorrect": true,
+          "rationale": "IGAZ, e jogsértés nem figyelmeztetéssel zárul. A 115/2021. (III. 10.) Korm. rendelet 18. § (4) bekezdés b) pontja a kötelező bírságot az életkori feltételek és a gyermekmunka tilalmának megsértéséhez köti. A 34. § (3) bekezdése szerinti tizenöt napos előzetes bejelentés elmulasztása az életkori–gyermekmunka fordulat alá esik. A Fszftv. 9. § (4) bekezdése a figyelmeztetést kizárja, ha a bírság kötelező."
+        },
+        {
+          "text": "A tizenöt napos előzetes bejelentés elmulasztása a 34. § (3) bekezdésénél puszta TAJ-késedelemnek minősül, és mentesít a bírság alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az előzetes bejelentés elmulasztása életkori–gyermekmunka jogsértés, nem TAJ-késedelem. Az Mt. 34. § (3) bekezdése a foglalkoztatást megelőző legalább tizenöt napos előzetes bejelentést kívánja. A 115/2021. (III. 10.) Korm. rendelet 18. § (4) bekezdés b) pontja e körben kötelező bírságot ír elő. A tévedés a Fszftv. 10. § (3) bekezdésének TAJ-mentesítését keveri az életkori tilalommal."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "010217e48d0b"
+    },
+    {
+      "question": "A munkavállaló jognyilatkozatának személyessége és képviselete milyen főszabály szerint alakul?",
+      "options": [
+        {
+          "text": "Ha a munkavállaló és a képviselő jognyilatkozata eltér, a munkáltatónak a képviselő nyilatkozatát kell figyelembe vennie.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a személyes nyilatkozat elsőbbséget élvez. Az Mt. 21. § (2) bekezdése szerint a munkáltatónak a munkavállaló személyesen tett jognyilatkozatát kell figyelembe vennie, ha a munkavállaló és a képviselő nyilatkozata eltér. A képviselői aktus nem írja felül a személyes akaratot. A tévedés a meghatalmazotti elsőbbséget keveri a munkavállalói személyességgel."
+        },
+        {
+          "text": "A munkavállaló — ha a képviselet tartalma nem egyértelműen korlátozott — nem hivatkozhat arra, hogy képviselője jogkörét túllépve járt el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a korlátozás egyértelműsége a hivatkozás feltétele. Az Mt. 21. § (3) bekezdése szerint a munkavállaló, kivéve ha a képviselet tartalma egyértelműen korlátozott, nem hivatkozhat a képviselő jogkörtúllépésére. Ez a munkáltatói oldali 20. § (4) bekezdésének tükörképe a munkavállaló oldalán. A tévedés elkerülése érdekében a meghatalmazás korlátját írásban kell egyértelművé tenni."
+        },
+        {
+          "text": "A munkavállaló a jognyilatkozatát főszabályként személyesen teheti meg; meghatalmazottja írásba foglalt meghatalmazással járhat el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a személyesség a kiindulópont, a meghatalmazás írásbeliséghez kötött. Az Mt. 21. § (1) bekezdése szerint a munkavállaló a jognyilatkozatát személyesen teheti meg, és meghatalmazott útján is, ha a meghatalmazást írásba foglalták. Meghatalmazás hiányában a hozzátartozó is eljárhat, ha a munkavállaló akadályozva van, és vita esetén az akadályoztatást igazolni kell. A személyes és a képviselői nyilatkozat eltérése esetén a személyeset kell figyelembe venni."
+        },
+        {
+          "text": "Hozzátartozó meghatalmazás nélkül is eljárhat, anélkül hogy az akadályoztatást igazolni kellene.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az akadályoztatás igazolása vita esetén kötelező. Az Mt. 21. § (1) bekezdése szerint meghatalmazás hiányában a hozzátartozó akkor járhat el, ha a munkavállaló a jognyilatkozat megtételében akadályozva van, és vita esetén az akadályoztatás tényét igazolnia kell. A hozzátartozói képviselet tehát feltételes. A tévedés a hozzátartozói jogosultságot korlátlan helyettesítéssé szélesíti."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "da1db7cca8d1"
+    },
+    {
+      "question": "Egy tizenötödik életévét betöltött, nappali képzésben tanuló diák tanítási időben kíván áruházi kisegítőként munkaszerződést kötni. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "Ha a szülő hozzájárul, a tanítási idejű áruházi foglalkoztatás a 34. § alapján jogszerű.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szülői hozzájárulás nem pótolja az életkori és tevékenységi törvényi feltételeket. Az Mt. 34. § (2)–(3) bekezdése adja a tizenhat év alatti foglalkoztatás kivételeit; az áruházi kisegítés tanítási időben egyik kivétel alá sem esik. Az Alaptörvény XVIII. cikk (1) bekezdése a gyermekek foglalkoztatását főszabályként tilosnak mondja. A tévedés a magánjogi beleegyezést törvényi engedélyként olvassa."
+        },
+        {
+          "text": "Tanítási időben a 34. § (2) bekezdés szerinti iskolai szüneti kedvezmény nem nyitja meg a munkavállalói minőséget.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kedvezmény kifejezetten az iskolai szünethez kötött. Az Mt. 34. § (2) bekezdése szerint a tizenötödik életévét betöltött, nappali rendszerű képzésben tanuló csak az iskolai szünet alatt lehet munkavállaló. A szüneten kívül e fordulat alapján nem munkavállaló. A főszabály a tizenhatodik életév betöltése marad."
+        },
+        {
+          "text": "Áruházi kisegítő munka nem tartozik a 34. § (3) bekezdés szerinti kulturális, művészeti, sport- vagy hirdetési tevékenységhez, ezért az a sáv sem nyit foglalkoztatást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés tevékenységi köre zárt. Az Mt. 34. § (3) bekezdése a tizenhatodik életévét be nem töltött személy foglalkoztatását a jogszabályban meghatározott kulturális, művészeti, sport- vagy hirdetési tevékenységhez köti. Az áruházi kisegítés e listán kívül esik. A gyámhatósági előzetes bejelentés sem pótolja a tevékenységi korlátot."
+        },
+        {
+          "text": "A diák a nappali képzés ténye miatt tanítási időben is általános munkavállaló.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nappali képzés önmagában nem oldja fel a szüneti kötöttséget. Az Mt. 34. § (2) bekezdése a tizenötödik életévet, a nappali képzést és az iskolai szünetet konjunktív feltételként köti össze. A képzés ténye a kedvezmény egyik, de nem egyetlen ismérve. A tévedés a három feltételből egyet önálló jogosultsággá emel."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "9e8111ac50e1"
+    },
+    {
+      "question": "Mi történik, ha a foglalkoztató a jogviszony létesítésével kapcsolatos bejelentési kötelezettségének nem tesz eleget?",
+      "options": [
+        {
+          "text": "A foglalkoztatás-felügyeleti hatóság megállapítja a foglalkoztatásra irányuló jogviszony fennállását, és kötelezi a foglalkoztatót a bejelentés teljesítésére.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a bejelentés elmaradása nem tünteti el a jogviszonyt. A Fszftv. 10. § (1) bekezdése szerint a hatóság megállapítja a jogviszony fennállását, és kötelezi a foglalkoztatót a bejelentési kötelezettség teljesítésére. A 34. § szerinti munkavállalói minőség hatósági aktussal is rögzülhet. A tényleges foglalkoztatás a minősítés alapja."
+        },
+        {
+          "text": "A TAJ-szám késedelmes kiadása miatti mentesítés az életkori tilalom megsértésére is kiterjed.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a TAJ-mentesítés szűk, és nem az életkori tilalomra szól. A Fszftv. 10. § (3) bekezdése akkor mentesít, ha a foglalkoztató a TAJ-számmal nem rendelkező személyre a foglalkoztatás megkezdése előtt kérte a TAJ kiadását, és az értesítéstől számított nyolc napon belül bejelentette. A mentesítés a TAJ-késedelemre szól, nem az életkori tilalom megsértésére. A tévedés a szűk mentesítést általános felmentéssé szélesíti."
+        },
+        {
+          "text": "A hatóság a jogviszony fennállását — az általános teljes napi munkaidő figyelembevételével — a szabályszegés megkezdésétől visszamenőleg a harmincadik naptól állapítja meg, kivéve ha a bejelentés nélküli foglalkoztatás a harminc napot meghaladta.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a harminc napos vélelem a tartam rögzítésének eszköze. A Fszftv. 10. § (2) bekezdése a fennállást a szabályszegés megkezdésétől visszamenőleg a harmincadik naptól állapítja meg, kivéve ha a bejelentés nélküli foglalkoztatás a harminc napot meghaladta. A tizenhat év alatti, bejelentés nélkül foglalkoztatottnál e vélelem a gyermekmunka tilalmának időtartamát is rögzíti. Az általános teljes napi munkaidő a számítás mércéje."
+        },
+        {
+          "text": "A bejelentés elmaradása esetén a jogviszony nem állapítható meg, mert írásbeli munkaszerződés hiányzik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatóság a tényleges foglalkoztatás alapján állapítja meg a jogviszonyt. A Fszftv. 10. § (1) bekezdése a bejelentés elmulasztásához a jogviszony fennállásának megállapítását fűzi. A Fszftv. 7. § (4) bekezdés a) pontja a minősítést a tényleges foglalkoztatáshoz köti. A tévedés az alakszerűség hiányát a jogviszony hiányával azonosítja."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "c30b81fd7914"
+    },
+    {
+      "question": "Miben különbözik a jogképesség és a cselekvőképesség a munkaviszony alanyisága szempontjából?",
+      "options": [
+        {
+          "text": "A cselekvőképtelenség megszünteti a munkavállalói jogalanyiságot, ezért munkaviszony nem létesíthető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a cselekvőképtelenség nem szünteti meg a jogalanyiságot. Az Mt. 212. § a cselekvőképtelen vagy a munkaviszonnyal összefüggő ügycsoportban részlegesen korlátozott munkavállaló foglalkoztatását különös munkaköri–felügyeleti rendhez köti. Az Mt. 21. § (5) bekezdése a képviselői nyilatkozatot rendezi, az alany a képviselt marad. A tévedés a cselekvőképességet a jogképességgel azonosítja."
+        },
+        {
+          "text": "A munkáltatói oldalon a jogképesség előfeltétel: jogképtelen szervezet az Mt. 33. § szerint nem lehet munkáltató.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkáltatói fogalom a jogképességhez kötött. Az Mt. 33. § szerint munkáltató az a jogképes személy, aki munkaszerződés alapján munkavállalót foglalkoztat. A jogképesség a Ptk. 2:1. § (ember) vagy 3:1. § (jogi személy) szerinti előfeltétel. A cselekvőképességi rend a természetes személy munkáltatónál a képviseletet határolja, de a jogképtelen szervezetet nem teszi munkáltatóvá."
+        },
+        {
+          "text": "A jogképességet korlátozó munkaszerződéses kikötés érvényes, ha mindkét fél aláírta.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jogképességet korlátozó jognyilatkozat semmis. A Ptk. 2:1. § (2) bekezdése szerint a jogképességet korlátozó jognyilatkozat semmis; a munkaszerződésbe foglalt, a munkavállaló jogalanyiságát elvonó kikötés ezért nem „eltérő megállapodás”, hanem semmis. Az Mt. 35. § az alanyfogalmaktól való eltérést is zárja. A tévedés a felek akaratát a jogképesség lemondhatatlansága fölé helyezi."
+        },
+        {
+          "text": "A jogképesség minden embert megillet, és a munkavállaló akkor is alanya a munkaviszonynak, ha a nyilatkozatot a törvényes képviselő teszi meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogalanyiság nem a saját nyilatkozattól függ. Az Alaptörvény XV. cikk (1) bekezdése és a Ptk. 2:1. § (1) bekezdése szerint minden ember jogképes. Az Mt. 21. § (5) bekezdése szerint a cselekvőképtelen nevében a törvényes képviselő tesz jognyilatkozatot, az Mt. 32. § szerinti alany azonban a képviselt természetes személy marad. A cselekvőképesség hiánya a képviseletet szabja át, nem a jogalanyiságot vonja el."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "84b1749d80eb"
+    },
+    {
+      "question": "A jogi személy mikor lehet munkáltató, és milyen szervezeti kellékekhez kötött a jogképessége?",
+      "options": [
+        {
+          "text": "A jogi személynek saját névvel, székhellyel, elkülönített vagyonnal, valamint az ügyvezetését és képviseletét ellátó szervezettel kell rendelkeznie.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szervezeti kellékek a jogi személy létezésének feltételei. A Ptk. 3:1. § (5) bekezdése szerint a jogi személynek saját névvel, székhellyel, tagjaitól illetve alapítójától elkülönített vagyonnal, valamint az ügyvezetését és képviseletét ellátó szervezettel kell rendelkeznie. Az Mt. 20. § e szervezeti keretben jelöli ki a munkáltatói jogkör gyakorlóját. A munkáltatói jogkör gyakorlása, a díjazás és a kárfelelősség e jogképességi körbe tartozik."
+        },
+        {
+          "text": "A jogi személy jogképessége kiterjed a személyes munkavégzés kötelezettségére is, ezért munkavállaló lehet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a személyes munkavégzés emberhez fűződő kötelezettség. A Ptk. 3:1. § (2) bekezdése szerint a jogi személy jogképessége nem terjed ki a csupán emberhez fűződő jogokra és kötelezettségekre. Az Mt. 34. § (1) bekezdése a munkavállalót természetes személyként határozza meg. A tévedés a munkáltatói és a munkavállalói oldalt cseréli fel."
+        },
+        {
+          "text": "A cégjegyzékbe bejegyzés nélkül is munkáltató a jogi személy, ha ténylegesen foglalkoztat, mert a 33. § a létszámot nézi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mérce a jogképesség és a munkaszerződéses foglalkoztatás, nem a létszám. Az Mt. 33. § szerint munkáltató az a jogképes személy, aki munkaszerződés alapján munkavállalót foglalkoztat. Nem a cégjegyzék, a közjogi szervtípus vagy a létszám a fogalmi mérce, hanem a jogképesség és a munkaszerződéses foglalkoztatás. A tévedés a hatósági tényleges foglalkoztató-azonosítást keveri az alanyfogalommal."
+        },
+        {
+          "text": "Munkáltatóként a jogi személy az Mt. 33. § szerinti jogképes személy: a munkaszerződéses foglalkoztatás szervezeti jognyilatkozat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a foglalkoztatás nem kíván emberhez kötött személyes cselekvést a munkáltatói oldalon. Az Mt. 33. § a jogképes személyt nevezi munkáltatónak; a Ptk. 3:1. § (1) bekezdése a jogi személyt jogképesnek nyilvánítja. A munkaszerződéses foglalkoztatás szervezeti jognyilatkozat. A természetes személy is lehet munkáltató, ha jogképes."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "5ae6569c37c7"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható a cselekvőképtelen munkavállaló 212. § szerinti foglalkoztatási rendje?",
+      "options": [
+        {
+          "text": "A 212. § akkor sem alkalmazandó, ha a munkavállaló cselekvőképtelen, de a munkakör egyszerű.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a cselekvőképtelen munkavállaló foglalkoztatása mindig a 212. § különös rendje alá esik. Az Mt. 212. § (1) bekezdése a cselekvőképtelen munkavállalót a tartós és folyamatos ellátásra képes munkakör, a részletes leírás, az alkalmasság és a folyamatos felügyelet követelményei alá vonja. A munkakör állított egyszerűsége nem mentesít e kellékek alól. A tévedés a munkakör nehézségét a törvényi feltételek helyébe állítja."
+        },
+        {
+          "text": "A 213. § d) pontjának üres fordulata önállóan nem nyit eltérési lehetőséget a 212. § alól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az üres d) pont nem lyuk a kógencián. Az Mt. 213. § a felek megállapodását és a kollektív szerződést a felsorolt szakaszoktól való eltérés tilalmához köti; a g) pont a 212. §-t emeli e listára. A d) alatti fordulat üresen áll, a tilalom a kitöltött a)–c) és e)–g) fordulatokra vonatkozik. Az üres pont tehát nem engedmény a 212. § szerinti védelem alól."
+        },
+        {
+          "text": "Ha a nagykorú cselekvőképessége csak olyan ügycsoportban korlátozott, amely nem függ össze a munkaviszonnyal.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a részleges korlátozás csak a munkaviszonnyal összefüggő ügycsoportnál hozza be a 212. § rendjét. A Ptk. 2:19. § (5) bekezdése szerint a részlegesen korlátozott személy az ítéletben megjelölt ügycsoporton kívüli ügyekben önállóan nyilatkozik. Az Mt. 212. § (1) bekezdése a cselekvőképtelenséget és a munkaviszonnyal összefüggő ügycsoportban való részleges korlátozást vonja egy rend alá. Más vagyoni ügycsoport önmagában nem nyitja meg ezt a munkaköri–felügyeleti rendet."
+        },
+        {
+          "text": "Ha a felek megállapodása a 212. § felügyeleti szabályát kikapcsolja, mert a munkavállaló ezt kéri.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkaköri–felügyeleti védelem nem kapcsolható ki a felek akaratával. Az Mt. 213. § g) pontja szerint a felek megállapodása vagy kollektív szerződés a 212. §-ban foglaltaktól nem térhet el. A felügyelet, a munkaköri szűkítés és a kármentesség ezért nem engedhető el kéréssel. A tévedés a diszpozitív eltérést ráírja a kógens védelemre."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "302c310ddac5"
+    },
+    {
+      "question": "A foglalkoztatás-felügyeleti hatóság illetékessége hogyan alakul a foglalkoztatási helyszínhez képest?",
+      "options": [
+        {
+          "text": "Ha a jogsértéssel érintett helyszín az ellenőrzés megkezdésekor már megszűnt, az eljárásra a foglalkoztató székhelye szerinti hatóság jogosult.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az „eltűnő” helyszín nem menekül az eljárás elől. A 115/2021. (III. 10.) Korm. rendelet 7. § (3) bekezdés a) pontja szerint a székhely szerinti hatóság jár el, ha a jogszabálysértéssel érintett foglalkoztatási helyszín az ellenőrzés megkezdésekor már megszűnt, vagy ott tevékenységet már nem folytatnak. A tizenhat év alatti, alkalmi foglalkoztatás ezért nem kerülheti el az eljárást. A b)–c) pont a megszűnt jogviszonyra és a külföldi munkavégzésre is a székhelyet hívja."
+        },
+        {
+          "text": "A foglalkoztatott kérheti saját hatósági ellenőrzését, ha életkori jogsértést sejt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az ellenőrzés kizárólag hivatalból indul. A Fszftv. 8. § (2) bekezdése szerint a foglalkoztatás-felügyeleti hatósági ellenőrzés kizárólag hivatalból indul, az ügyfél saját hatósági ellenőrzését nem kérheti. Az ügyfél a foglalkoztató; a foglalkoztatott tanú. A tévedés a panaszjogot a hivatalbóli ellenőrzés indításának kérelmévé alakítja."
+        },
+        {
+          "text": "A hatóság az illetékességi területén található valamennyi foglalkoztatási helyszínen ellenőrizhet, függetlenül a foglalkoztató székhelyétől.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az illetékesség a helyszínhez, nem a székhelyhez kötött. A 115/2021. (III. 10.) Korm. rendelet 7. § (1) bekezdése szerint a hatóság az illetékességi területén található valamennyi foglalkoztatási helyszínen hatósági ellenőrzést tarthat, függetlenül a foglalkoztató székhelyétől vagy telephelyétől. A (2) bekezdés az eljáró hatóságot az ellenőrzés alá vont helyszín szerint jelöli ki. A gyermekmunka feltárása így a tényleges munkavégzés helyén történhet."
+        },
+        {
+          "text": "A hatóság csak a foglalkoztató székhelyén ellenőrizhet, a telephelyi munkavégzés a székhelyi hatóság kizárólagos hatásköre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a főszabály a foglalkoztatási helyszín szerinti illetékesség. A 115/2021. (III. 10.) Korm. rendelet 7. § (1)–(2) bekezdése a helyszínt teszi az ellenőrzés és az eljárás alapjává, függetlenül a székhelytől. A székhely szerinti hatóság a (3) bekezdés kivételes eseteiben jár el. A tévedés a székhelyi illetékességet főszabállyá fordítja."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "f7cf67ab2862"
+    },
+    {
+      "question": "Mi következik abból, ha a munkaszerződés a munkavállaló jogképességét korlátozná vagy elvonná?",
+      "options": [
+        {
+          "text": "A felek érvényesen kiköthetik, hogy a munkavállalónak nincsenek munkajogi jogai, ha a gondnok aláírja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jogképesség korlátozása semmisségbe ütközik, gondnoki aláírással sem. A Ptk. 2:1. § (2) bekezdése a jogképességet korlátozó jognyilatkozatot semmissé teszi. Az Mt. 35. § a 32–34. § alanyfogalmaitól való eltérést tilalmazza. A gondnok vagy törvényes képviselő aláírása a 21. § szerinti képviseletet rendezi, nem a jogalanyiság elvonását."
+        },
+        {
+          "text": "Ha a munkavállaló cselekvőképtelen, jogképessége is megszűnik, ezért nem lehet a munkaviszony alanya.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a cselekvőképesség korlátozása nem szünteti meg a jogképességet. A Ptk. 2:1. § (1) bekezdése szerint minden ember jogképes. Az Mt. 212. § a cselekvőképtelen foglalkoztatását különös munkaköri és felügyeleti rendhez köti, de az alany a munkavállaló marad. A tévedés a cselekvőképességet a jogképesség elvonásaként olvassa."
+        },
+        {
+          "text": "A törvényes képviselő nyilatkozata sem szünteti meg, hogy a képviselt természetes személy a munkavállaló.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a képviselet a nyilatkozatot közvetíti, az alanyiságot nem viszi el. Az Mt. 21. § (5) bekezdése szerint a cselekvőképtelen nevében a törvényes képviselő tesz jognyilatkozatot, a munkaviszony alanya azonban a képviselt marad. Az Mt. 34. § (1) bekezdése a munkavállalót a munkát végző természetes személyhez köti. A Ptk. 2:1. § (1) bekezdése e személy jogképességét rögzíti."
+        },
+        {
+          "text": "A jogképességet korlátozó jognyilatkozat semmis; a munkavállaló alanya marad a munkaviszonynak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogképesség lemondhatatlan. A Ptk. 2:1. § (2) bekezdése szerint a jogképességet korlátozó jognyilatkozat semmis. Az Alaptörvény XV. cikk (1) bekezdése szerint minden ember jogképes. A munkaszerződésbe foglalt, a jogalanyiságot elvonó kikötés ezért nem „eltérő megállapodás”, hanem semmis."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "40285d21fb3d"
+    }
+  ]
+}

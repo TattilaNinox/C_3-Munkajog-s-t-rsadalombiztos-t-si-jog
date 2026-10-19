@@ -1,0 +1,1251 @@
+{
+  "id": "AhXfIs7rHkRmkYTjIhIU",
+  "sorszam": 43,
+  "cim": "A Kit. szerinti kormányzati szolgálati jogviszony és annak alanyai (...)",
+  "generationType": "kerdes",
+  "title": "43. A Kit. szerinti kormányzati szolgálati jogviszony és annak alanyai (...)",
+  "questions": [
+    {
+      "question": "Eset: a szerv HR-ese szerint „ha a kormánytisztviselő munkát végez, az Mt. szerinti munkaszerződés is elég a jogviszonyhoz”. Mely értékelések helytállóak a Kit. 79. § szerint?",
+      "options": [
+        {
+          "text": "A létesítés, a tartalom meghatározása és a módosítás nem a szerződési szabadság logikáját követi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 79. § szerinti különleges jogviszonyban a felek autonómiája korlátozott. A létesítés, a tartalom meghatározása és a módosítás nem a polgári szerződési szabadság logikáját követi. A közérdek rendeltetése határozza meg a kötöttségeket, szemben az Mt. felek autonómiájával."
+        },
+        {
+          "text": "A munkavégzés miatt a jogviszony Mt. szerinti munkaszerződéssel jön létre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 79. § különleges jogviszonyt ír le, nem Mt.-s munkaviszonyt. A létesítés a Kit. 85. § szerint kinevezéssel és elfogadással történik, nem munkaszerződéssel. A munkavégzés a kettős cél egyik eleme, nem Mt.-kapcsoló ismérv."
+        },
+        {
+          "text": "A kormányzati szolgálati jogviszony kizárólag szervezeti közjogi státusz, munkavégzési cél nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 79. § kifejezetten a köz szolgálata és a munkavégzés kettős célját írja elő. A pusztán szervezeti státusz olvasata ezért hiányos, mert a munkavégzési célt elhagyja. A jogviszony egyszerre közszolgálati és foglalkoztatási jellegű."
+        },
+        {
+          "text": "A kormányzati szolgálati jogviszony a köz szolgálata és munkavégzés céljából létesített különleges jogviszony; a pusztán Mt.-s munkaviszony-olvasat téves.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 79. § a kormányzati szolgálati jogviszonyt „a köz szolgálata és munkavégzés céljából létesített különleges jogviszony”-ként határozza meg. A munkavégzés önmagában nem teszi a viszonyt Mt. szerinti munkaviszonnyá. A különlegesség a közérdekhez igazítja a felek autonómiáját, ezért az Mt. munkaszerződéses minta ide nem ül."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "0ee72d904de3"
+    },
+    {
+      "question": "Eset: kormányalakítás után új miniszterelnök lép hivatalba, és a szerv azt állítja: „minden kormánytisztviselői jogviszony megszűnt, mert a Kormány megbízatása véget ért”. Mely állítások helytállóak a Kit. 80. § szerint?",
+      "options": [
+        {
+          "text": "A jogviszony a Kormány mint munkáltató és a kormánytisztviselő mint foglalkoztatott között jön létre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 80. § (1) bekezdése szó szerint rögzíti: „A kormányzati szolgálati jogviszony a Kormány mint munkáltató és a kormánytisztviselő mint foglalkoztatott között jön létre”. A munkáltató tehát nem a foglalkoztató szerv. A testületi minőség a személyi cseréktől elválik, ezért az új miniszterelnök önmagában nem új munkáltató."
+        },
+        {
+          "text": "Ha a Kormány megbízatása megszűnik, a kormányzati szolgálati jogviszonyok is megszűnnek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 80. § (2) bekezdése szerint a jogviszonyt nem érinti a Kormány megbízatásának megszűnése. A folyamatosság-szabály éppen ezt a következményt zárja ki. Az új kormányalakítás nem automatikus megszüntető ok a kormánytisztviselői jogviszonyokra."
+        },
+        {
+          "text": "Munkáltató a foglalkoztató kormányzati igazgatási szerv, mert ott látja el a kormánytisztviselő a feladatát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 80. § (1) bekezdése szerint a munkáltató a Kormány. A foglalkoztató szerv a (3) bekezdés szerint csak meghatározott más törvények (Kp., ügyvédi, adózás) munkáltató-fogalmához rendelhető. A feladatellátás helye nem teszi a szervet Kit. szerinti munkáltatóvá."
+        },
+        {
+          "text": "A jogviszonyt nem érinti a Kormány összetételének megváltozása és a Kormány megbízatásának megszűnése.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 80. § (2) bekezdése szerint a kormányzati szolgálati jogviszonyt nem érinti a Kormány összetételének megváltozása és a Kormány megbízatásának megszűnése. Az új kormányalakítás önmagában nem szünteti meg a fennálló jogviszonyokat. A folyamatosság-szabály éppen a testületi munkáltatói minőség stabilitását védi."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "9da1d3d48265"
+    },
+    {
+      "question": "Eset: a hivatali szervezet vezetője szóban „átruházza” a munkáltatói jogok gyakorlását egy ügyintézőre, aki továbbadná azokat a csoportvezetőnek. Mely értékelések helyesek a Kit. 81. § (1)–(2) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Főszabály szerint a kormányzati igazgatási szerv hivatali szervezetének vezetője gyakorolja a munkáltatói jogokat a Kormány nevében.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 81. § (1) bekezdése szerint — törvény vagy kormányrendelet eltérő rendelkezése hiányában — a hivatali szervezet vezetője a munkáltatói jogkör gyakorlója. A vezető a Kormány nevében jár el a napi intézkedéseknél. Ez a főszabály a munkáltatói intézkedések címzettjét jelöli ki."
+        },
+        {
+          "text": "Az átruházás csak írásban, szakmai felsővezetői vagy szakmai vezetői álláshelyet betöltő kormánytisztviselőre történhet, és tovább nem ruházható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 81. § (2) bekezdése az átruházást írásbeliséghez és szakmai felsővezetői vagy szakmai vezetői álláshelyhez köti. Az átruházott jogkör tovább nem ruházható. A szóbeli és az ügyintézőre történő átruházás ezért mindkét irányban sérti a (2) bekezdést."
+        },
+        {
+          "text": "A munkáltatói jogokat bármely felettes szóban is átruházhatja, és a jogosult továbbadhatja azokat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 81. § (2) bekezdése írásbeli átruházást követel, és csak szakmai felsővezetői vagy szakmai vezetői álláshelyre engedi. Az átruházott jogkör tovább nem ruházható. A szóbeli továbbadás és az ügyintézői címzett egyaránt tilos."
+        },
+        {
+          "text": "Az álláshelyen ellátandó feladat és a betöltés szakmai követelményeinek szabályzatban történő meghatározása is szabadon átruházható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 81. § (3) bekezdése szerint a feladat- és követelmény-meghatározás nem ruházható át. A tilalom az alaplétszámba tartozó és a központosított álláshely-állományba tartozó álláshelyekre egyaránt szól. A szabályzatban rögzített feladat-meghatározás nem delegálható operatív vezetőre."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "d8ec10c3440f"
+    },
+    {
+      "question": "Eset: kinevezési okmányt olyan osztályvezető ír alá, aki nem a munkáltatói jogkör gyakorlója és írásbeli átruházása sincs. Négy hónap múlva a jogosult írásban jóváhagyná. Mely állítások helytállóak a Kit. 81. § (4) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Az érvénytelenség egy éven belüli szóbeli megerősítéssel is orvosolható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 81. § (4) bekezdése hat hónapos határidőt és írásbeli jóváhagyást követel. Sem az egyéves tartam, sem a szóbeli megerősítés nem felel meg a törvényi kivételnek. A négy hónapos írásbeli út a helyes orvoslás, ha a jogosult így dönt."
+        },
+        {
+          "text": "Az intézkedés főszabály szerint érvénytelen.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 81. § (4) bekezdése az arra nem jogosított személy intézkedését érvénytelennek minősíti. Ez védi a munkáltatói jogkör törvényes gyakorlását. A főszabály tehát az érvénytelenség, amíg a törvényi kivétel nem orvosolja."
+        },
+        {
+          "text": "Az intézkedés mindig érvényes, mert a szerv nevében tett jognyilatkozat utólag nem támadható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 81. § (4) bekezdése szerint az arra nem jogosított személy intézkedése érvénytelen. A szerv nevében történő fellépés önmagában nem pótolja a jogosultságot. Az utólagos támadhatatlanság nincs a törvényben; orvoslás csak a jogosult írásbeli jóváhagyásával lehetséges."
+        },
+        {
+          "text": "Az intézkedés érvényessé válhat, ha a jogkör gyakorlója a jognyilatkozatot hat hónapon belüli írásbeli jóváhagyással orvosolja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 81. § (4) bekezdése kivételként engedi a hat hónapon belüli írásbeli jóváhagyást. A négy hónapos írásbeli jóváhagyás e határidőn belül van. Szóbeli megerősítés nem pótolja az írásbeli aktust."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "2bf1de894da7"
+    },
+    {
+      "question": "Eset: a jelölt cselekvőképes és büntetlen előéletű, de nincs érettsége vagy középszintű szakképesítése; a vezető „egyedi felmentést” adna. Mely állítások helytállóak a Kit. 82. § (1) és (12) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Kormányzati szolgálati jogviszony csak büntetlen előéletű, cselekvőképes, legalább érettségivel vagy középszintű szakképesítéssel rendelkező, eskütételét teljesítő magyar állampolgárral létesíthető és tartható fenn.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 82. § (1) bekezdés a)–d) pontja kumulatív feltételeket rögzít. A végzettségi küszöb a c) pont szerinti legalább érettségi vagy középszintű szakképesítés. A felmentés ígérete a hiányzó végzettséget nem pótolja — kivéve a (11) bekezdés szűk körét."
+        },
+        {
+          "text": "Az alkalmazási feltételek alól a munkáltatói jogkör gyakorlója egyedi döntéssel mindig felmentést adhat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 82. § (12) bekezdése szerint felmentés nem adható, kivéve a (11) bekezdés szerinti külképviseleti adminisztratív és technikai személyzet középfokú végzettségű tagját. Általános egyedi dispensatio a főszabály szerint tilos. A vezető „egyedi felmentése” a (12) bekezdés tilalmába ütközik."
+        },
+        {
+          "text": "A feltételeknek a jogviszony teljes időtartama alatt fenn kell állniuk; a kinevezéskori megfelelés önmagában nem elég.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 82. § (12) bekezdése szerint a kormánytisztviselőnek a jogviszony teljes időtartama alatt meg kell felelnie az alkalmazási feltételeknek. Ha utóbb kizáró ok áll be, a fennállás akadályozott. A kinevezéskori megfelelés nem örök mentesség."
+        },
+        {
+          "text": "Elég a büntetlen előélet és a cselekvőképesség; az eskütétel és a végzettség utólag pótolható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 82. § (1) bekezdés a)–d) pontja konjunktív feltételeket ír elő. Az eskütétel a d) pont szerinti kötelezettség, a végzettség a c) pont szerinti küszöb. Az utólagos pótlás nem oldja fel a létesítési akadályt a kinevezés előtt."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "5078a1e5c4c3"
+    },
+    {
+      "question": "Számítás: a Kit. 82. § (4) bekezdése szerint meddig nem létesíthető jogviszony azzal, akire szándékos bűncselekmény miatt ötévi vagy azt meghaladó végrehajtandó szabadságvesztést szabtak ki?",
+      "options": [
+        {
+          "text": "A mentesítés beálltától számított nyolc évig.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 82. § (4) bekezdés a) pont ab) alpontja szerint ötévi vagy azt meghaladó végrehajtandó szabadságvesztésnél a tilalom a mentesítés beálltától számított nyolc év. A számítás kiindulópontja tehát a mentesítés, nem a büntetés kitöltése. Az öt évet el nem érő szabadságvesztésnél ehhez képest öt év a tilalmi idő."
+        },
+        {
+          "text": "Öt évet el nem érő végrehajtandó szabadságvesztésnél ugyanezen bekezdés szerint a tilalom öt év a mentesítéstől.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 82. § (4) bekezdés a) pont aa) alpontja az öt évet el nem érő végrehajtandó szabadságvesztésnél öt éves tilalmat ír. A két tartamsáv (öt, illetve nyolc év) a büntetés mértékéhez igazodik. A kiindulópont mindkét esetben a mentesítés beállta."
+        },
+        {
+          "text": "A tilalom a büntetés kitöltésétől számított három év, mentesítéstől függetlenül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 82. § (4) bekezdés a) pontja a mentesítés beálltától számol, nem a kitöltéstől. Az ötévi vagy súlyosabb végrehajtandó szabadságvesztésnél nyolc év a tilalom. A hároméves tartam a felfüggesztett szabadságvesztésnél jelenik meg a c) pontban."
+        },
+        {
+          "text": "Ötévi vagy súlyosabb szabadságvesztésnél a tilalom a mentesítéstől számított két év.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kétéves tilalom a Kit. 82. § (4) bekezdés b) pontja szerint a közérdekű munka vagy pénzbüntetés esetén él. Az ötévi vagy súlyosabb végrehajtandó szabadságvesztésnél a helyes tartam nyolc év. A büntetésnemek tilalmi ideje tehát nem cserélhető fel."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "b638d8bf983d"
+    },
+    {
+      "question": "Eset: nemzetbiztonsági ellenőrzés kockázatot állapít meg, a feljogosított szerv nem hagyja jóvá a fennállást, és áthelyezés sem történik. A kormánytisztviselő „szokásos felmentési időt és végkielégítést” vár. Mely értékelések helyesek a Kit. 82. § (6)–(8) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Nemzetbiztonsági kockázat esetén a jogviszony mindig fenntartható, ha a kormánytisztviselő kéri a felülvizsgálatot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 82. § (6) bekezdése a kockázatot akadálynak tekinti, kivéve a feljogosított szerv jóváhagyását. A kormánytisztviselő kérelme önmagában nem pótolja a jóváhagyást. A felülvizsgálat sem automatikus fennmaradási jog a kockázat mellett."
+        },
+        {
+          "text": "Főszabály szerint nemzetbiztonsági kockázat mellett a jogviszony nem létesíthető és nem tartható fenn, kivéve a feljogosított személy vagy szerv jóváhagyását.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 82. § (6) bekezdése a nemzetbiztonsági kockázatot főszabályként akadálynak minősíti. Kivétel a feljogosított személy vagy szerv jóváhagyása. A jóváhagyás hiánya a (7) bekezdés szerinti azonnali hatályú megszüntetéshez vezethet, ha az áthelyezés sem történik meg."
+        },
+        {
+          "text": "Az azonnali hatályú megszüntetésnél a kormánytisztviselőt a szokásos felmentési idő és végkielégítés megilleti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 82. § (8) bekezdése kifejezetten kizárja a felmentési időt és a végkielégítést. A (7) és (7a) bekezdés szerinti megszüntetés tehát nem a szokásos felmentési jogkövetkezménnyel jár. A járandóság-várakozás a (8) bekezdés szövegével ellentétes."
+        },
+        {
+          "text": "A (7) bekezdés szerinti megszüntetésnél a kormánytisztviselőt felmentési idő és végkielégítés nem illeti meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 82. § (8) bekezdése a (7) és (7a) bekezdés szerinti azonnali hatályú megszüntetésnél kizárja a felmentési időt és a végkielégítést. A megszüntetés okát és jogkövetkezményeit közölni kell a kormánytisztviselővel. A szokásos felmentési járandóság-várakozás ezért nem illeti meg a kormánytisztviselőt."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "b43470e14737"
+    },
+    {
+      "question": "Eset: öregségi nyugdíjra jogosult személyt szeretne kinevezni a munkáltatói jogkör gyakorlója. Mit mond a Kit. 82. § (10) bekezdése?",
+      "options": [
+        {
+          "text": "Öregségi nyugdíjra jogosult személy főszabály szerint nem nevezhető ki kormánytisztviselőnek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 82. § (10) bekezdése tiltja az e törvény szerinti öregségi nyugdíjra jogosult személy kinevezését. A tilalom a jogosultsághoz kötődik, nem a tényleges nyugdíjfolyósításhoz. A kivétel csak a Kormány hozzájárulása, amelyet a munkáltatói jogkör gyakorlója kérelmezhet. Hozzájárulás nélkül a kinevezés nem jogszerű."
+        },
+        {
+          "text": "A munkáltatói jogkör gyakorlója egyedül, Kormány hozzájárulása nélkül is felmentést adhat a tilalom alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 82. § (10) bekezdése a hozzájárulást a Kormányhoz telepíti, a kérelem pedig a munkáltatói jogkör gyakorlójától indul. A szerv vezetője önmagában nem dispensálhat. A két aktus – kérelem és hozzájárulás – együtt kell."
+        },
+        {
+          "text": "A tilalom alól a Kormány a munkáltatói jogkör gyakorlójának kérelmére hozzájárulhat a foglalkoztatáshoz.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 82. § (10) bekezdése a Kormány hozzájárulását köti a munkáltatói jogkör gyakorlójának kérelméhez. A hozzájárulás nélkül a kinevezés nem jogszerű. A döntés tehát nem a szerv vezetőjének egyedi mérlegelése önmagában."
+        },
+        {
+          "text": "Az öregségi nyugdíjra jogosult személy szabadon kinevezhető, mert a nyugdíj magánügy.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 82. § (10) bekezdése kifejezetten tiltja a kinevezést. A nyugdíjra jogosultság közszolgálati akadály, nem magánügy. Csak a Kormány hozzájárulása oldja fel a tilalmat."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "e68c2879eed4"
+    },
+    {
+      "question": "Eset: pályázati eljárás van kiírva; a vezető a pályázaton kívül álló „gyors” jelöltet akarna kinevezni. Mely állítások helytállóak a Kit. 83. § szerint?",
+      "options": [
+        {
+          "text": "Jogszabály vagy a munkáltatói jogkör gyakorlójának döntése alapján a kinevezés meghívásos vagy pályázati eljáráson alapulhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 83. § (1) bekezdése a kiválasztási eljárást meghívásos vagy pályázati formában engedi. A kötelezővé tétel jogszabályból vagy a munkáltatói jogkör gyakorlójának döntéséből eredhet. A pályázat nem mindig kötelező, de ha van, köti a kinevezést."
+        },
+        {
+          "text": "Pályázati eljárás esetén kinevezést csak az kaphat, aki a pályázaton részt vett és a pályázati feltételeknek megfelelt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 83. § (1) bekezdése második mondata kizárja a pályázaton kívül álló személy kinevezését. A részvétel és a feltételeknek való megfelelés kumulatív. A pályázaton kívüli „gyors” jelölt ezért nem nevezhető ki."
+        },
+        {
+          "text": "Pályázati eljárás esetén a szerv vezetője a pályázaton kívül álló személyt is kinevezheti, ha gyorsabb a betöltés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 83. § (1) bekezdése pályázatnál csak a résztvevő és megfelelő személynek engedi a kinevezést. A gyorsaság érdeke nem oldja fel a tilalmat. A pályázaton kívüli kinevezés az (1) bekezdés második mondatába ütközik."
+        },
+        {
+          "text": "A toborzási adatbázisba bárki felvehető végzettség és büntetlen előélet nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 83. § (3) bekezdése szerint a toborzási adatbázisba az a magyar állampolgár kérheti felvételét, aki büntetlen előéletű, cselekvőképes és legalább érettségi végzettséggel vagy középszintű szakképesítéssel rendelkezik. A feltételek nélküli felvétel a (3) bekezdésbe ütközik. A végzettség és a büntetlen előélet a belépési kapu része."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "9a664b0dc14d"
+    },
+    {
+      "question": "Eset: fennálló jogviszonynál a munkáltatói jogkör gyakorlója írásban felszólítja a kormánytisztviselőt ismételt hatósági bizonyítványra; a kolléga „hatvan naptári napot” számol. Mely állítások helytállóak a Kit. 84. § szerint?",
+      "options": [
+        {
+          "text": "Az ismételt igazolásra a felszólítástól számított hatvan naptári nap áll rendelkezésre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 84. § (5) bekezdése tizenöt munkanapot ír elő, nem hatvan naptári napot. Menthető akadálynál a teljesítés az akadály megszűnése után haladéktalan. A hatvan napos számítás a törvényben rögzített tizenöt munkanapot sérti."
+        },
+        {
+          "text": "Fennálló jogviszonynál indokolt esetben írásbeli felszólításra tizenöt munkanap áll rendelkezésre az ismételt igazolásra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 84. § (5) bekezdése a felhívástól számított tizenöt munkanapot szab. Menthető akadály esetén a határidő az akadály megszűnését követően haladéktalan teljesítésre módosul. A hatvan naptári napos számítás az (5) bekezdés tartamát sérti."
+        },
+        {
+          "text": "Az akadálytalanság szóbeli nyilatkozattal is igazolható, hatósági bizonyítvány nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a létesítést megelőző akadálytalanságot a Kit. 84. § (1) bekezdése hatósági bizonyítvánnyal rendeli igazolni. A szóbeli nyilatkozat nem helyettesíti a bizonyítványt. A fennálló jogviszony ismételt igazolása is hatósági bizonyítványt kíván az (5) bekezdés szerint."
+        },
+        {
+          "text": "A létesíteni szándékozó a kinevezést megelőzően hatósági bizonyítvánnyal igazolja büntetlen előéletét és azt, hogy nem áll a 82. § szerinti büntetőeljárás hatálya alatt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 84. § (1) bekezdése a hatósági bizonyítványt a kinevezés előtti kötelező igazolási eszközzé teszi. A (2) bekezdés a 82. § (3) és (4) bekezdés szerinti kizáró feltételek fenn nem állását is igazolni rendeli. Szóbeli nyilatkozat nem pótolja a bizonyítványt."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "ef8d63993a93"
+    },
+    {
+      "question": "Eset: a szerv a belépést „Mt. munkaszerződéssel” intézi, és később a munkáltatói jogkör gyakorlója az írásba foglalás hiányára hivatkozva semmisnek tekinti a jogviszonyt. Mely értékelések helyesek a Kit. 85. § (1) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Az írásba foglalás elmulasztására a munkáltatói jogkör gyakorlója is hivatkozhat bármikor.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 85. § (1) bekezdése szerint az érvénytelenségre csak a kormánytisztviselő hivatkozhat, a munkába lépést követő harminc napon belül. A szerv tehát nem teheti utóbb semmissé a jogviszonyt pusztán alaki hibára hivatkozva. A munkáltatói jogkör gyakorlójának nincs ilyen hivatkozási joga."
+        },
+        {
+          "text": "Eltérő rendelkezés hiányában a jogviszony határozatlan időre és teljes munkaidőre jön létre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 85. § (1) bekezdése a határozatlan időt és a teljes munkaidőt tekinti főszabálynak. Határozott időre is létrehozható a jogviszony. A határozott idő meghatározásának módját a (2) bekezdés szabályozza."
+        },
+        {
+          "text": "A kormányzati szolgálati jogviszony kinevezéssel és annak elfogadásával jön létre; mindkettőt írásba kell foglalni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 85. § (1) bekezdése szerint a jogviszony kinevezéssel és elfogadással jön létre, írásbeliséggel. Ez nem Mt. szerinti munkaszerződéses létesítés. A szerződéses forma a Kit. létesítési rendjét sérti, mert a kinevezés–elfogadás a kötelező forma."
+        },
+        {
+          "text": "A jogviszony az Mt. szerinti munkaszerződés megkötésével jön létre, kinevezés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 85. § (1) bekezdése kinevezést és elfogadást követel, nem munkaszerződést. A kinevezés és az Mt. munkaszerződés összemosása tipikus elhatárolási hiba. A Kit. különleges jogviszonyának létesítési formája kötött."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "d326eec84207"
+    },
+    {
+      "question": "Eset: közigazgatási perben a felperes kormánytisztviselő „munkáltatóként” a Kormányt akarja perelni, mert a Kit. 80. § (1) bekezdése a Kormányt nevezi munkáltatónak. Mely értékelések helyesek a Kit. 80. § (3)–(4) bekezdése fényében?",
+      "options": [
+        {
+          "text": "A Kp. szerinti munkáltató mindig maga a Kormány testülete, mert a Kit. 80. § (1) bekezdése ezt mondja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 80. § (3) bekezdése a Kp. munkáltató-fogalmát a foglalkoztató szervhez igazítja. Az (1) bekezdés a Kit. belső munkáltatói minőségét rögzíti. A két fogalom összecsúszása perbeli tévedés, mert a Kp. más kapcsolót használ."
+        },
+        {
+          "text": "A Kormány a közszolgálati alapnyilvántartásban szereplő adatokat a munkáltatói feladatok ellátása érdekében kezeli.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 80. § (4) bekezdése a Kormány adatkezelését a munkáltatói feladatokhoz köti. Ez a testületi munkáltatói minőség operatív következménye. Az adatkezelés nem teszi a Kormányt a Kp. szerinti perbeli munkáltatóvá."
+        },
+        {
+          "text": "A (3) bekezdés a foglalkoztató szervet a Kit. egyetlen munkáltatójává emeli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 80. § (1) bekezdése a Kormányt tartja munkáltatónak. A (3) bekezdés csak más törvények munkáltató-fogalmához rendel szervet. A Kit. belső munkáltatói minősége változatlanul a Kormányé."
+        },
+        {
+          "text": "A Kp. szerinti munkáltató szerv alatt azt a kormányzati igazgatási szervet kell érteni, amelynél a kormánytisztviselő az álláshelye szerinti feladatát ellátja vagy ellátta.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 80. § (3) bekezdése a Kp. 18. § (3) bekezdése szerinti munkáltató szervet a foglalkoztató szervhez rendeli. A Kit. (1) bekezdés szerinti testületi munkáltatói minőség ettől elválik. A perbeli alany tehát tipikusan az álláshely szerinti szerv, nem a Kormány testülete."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "6add998995af"
+    },
+    {
+      "question": "Eset: a HR egylapos „munkaszerződés-szerű” okmányt állít ki, és a beosztási részben csak az illetményt írja rá. Mely állítások helytállóak a Kit. 86. § szerint?",
+      "options": [
+        {
+          "text": "A beosztási okiratban elegendő csak az illetményt feltüntetni, a többi elem szóbeli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 86. § (2) bekezdése a kezdettől a feladatokig kötelező elemeket sorol fel. Az illetmény a h) pont, de önmagában nem pótolja a többi kötelező adatot. A szóbeli pótlás a taxatív listát sérti."
+        },
+        {
+          "text": "A beosztási okiratnak tartalmaznia kell többek között a jogviszony kezdetét, az időtartamot, a próbaidő napjait, a szervet, a munkavégzés helyét, a munkaidőt, az álláshelyet, az illetményt és a feladatokat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 86. § (2) bekezdés a)–i) pontja taxatíve felsorolja a kötelező tartalmi elemeket. Az illetmény a h) pont, de önmagában nem pótolja a többi kötelező adatot. Az álláshelyen ellátandó feladat a (3) bekezdés szerint a szerv szabályzatára utalással is meghatározható."
+        },
+        {
+          "text": "A kinevezési okmány a létesítésről szóló okiratból és a tartalmi elemeket rögzítő beosztási okiratból áll.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 86. § (1) bekezdése a kinevezési okmányt két részből állónak határozza meg. A létesítő okirat a jogviszony keletkezését, a beosztási okirat a tartalmi elemeket rögzíti. Az egylapos munkaszerződés-minta nem felel meg a kétokiratos szerkezetnek."
+        },
+        {
+          "text": "A kinevezési okmány egylapos munkaszerződés, amelyet a felek közösen szerkesztenek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 86. § (1) bekezdése két okiratból álló kinevezési okmányt ír elő, nem Mt. szerinti munkaszerződést. Az okmányt az (5) bekezdés szerint a munkáltatói jogkör gyakorlója állítja ki. A közös szerkesztés Mt.-s kép, nem Kit.-forma."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "33a92012af2f"
+    },
+    {
+      "question": "Számítás: a Kit. 86. § szerinti próbaidő milyen tartamú lehet főszabály szerint, és mi a három hónapnál rövidebb kinevezésnél a felső határ?",
+      "options": [
+        {
+          "text": "A próbaidő főszabály szerint egy év, és a felek közös megegyezéssel meghosszabbíthatják.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 86. § (7) bekezdése három–hat hónapos sávot ír elő, nem egy évet. A (8) bekezdés a meghosszabbítást kifejezetten tiltja. Az egyéves tartam és a meghosszabbítás az Mt. egyes szabályainak téves átvitele."
+        },
+        {
+          "text": "Két hónapos határozott kinevezésnél a próbaidő akár a teljes két hónap lehet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 86. § (10) bekezdése szerint három hónapnál rövidebb kinevezésnél a próbaidő legfeljebb a határozott idő fele. Két hónapos kinevezésnél tehát legfeljebb egy hónap köthető ki. A teljes tartamra szóló próbaidő túllépi a törvényi maximumot."
+        },
+        {
+          "text": "Három hónapnál rövidebb idejű kinevezésnél a próbaidő legfeljebb a határozott idő fele lehet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 86. § (10) bekezdése a rövid határozott időnél arányos felső határt szab: legfeljebb a kinevezés időtartamának fele. A felek megállapodhatnak a kikötésről, de a felező korlát kógens. A (11) bekezdés a legfeljebb tizenkét hónapos, de három hónapnál nem rövidebb kinevezésnél arányosítást ír elő."
+        },
+        {
+          "text": "Főszabály szerint legalább három, legfeljebb hat hónap próbaidőt kell kikötni; a próbaidő nem hosszabbítható meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 86. § (7) bekezdése a három–hat hónapos sávot írja elő a kivételek mellett. A (8) bekezdés szerint a próbaidő nem hosszabbítható meg. A (9) bekezdés alatt bármelyik fél indokolás nélkül, azonnali hatállyal megszüntetheti a jogviszonyt."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "b5f11581ead3"
+    },
+    {
+      "question": "Eset: a kormánytisztviselő a kinevezés aláírása után e-mailben „esküszöveget” küld, határidő és szóbeli tettesség nélkül. Mely értékelések helyesek a Kit. 87. § szerint?",
+      "options": [
+        {
+          "text": "Az esküt a munkáltatói jogkör gyakorlója vagy az általa kijelölt vezető előtt, szóban, a kinevezés aláírásától számított harminc napon belül kell letenni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 87. § (2) bekezdése a szóbeli formát, a jogosult előtti tettességet és a harminc napos határidőt együtt írja elő. A határidő a kinevezés aláírásától számít. Az e-mailes megküldés nem pótolja a szóbeli esküt a jogosult előtt."
+        },
+        {
+          "text": "Az eskü elégséges, ha a kormánytisztviselő azt írásban, határidő nélkül megküldi a szervnek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 87. § (2) bekezdése szóbeli eskütételét ír elő a munkáltatói jogkör gyakorlója vagy kijelölt vezető előtt. A határidő a kinevezés aláírásától számított harminc nap. Az írásbeli megküldés és a határidő nélküli teljesítés nem felel meg."
+        },
+        {
+          "text": "Az eskütétel a Kit. szerint fakultatív, mert a kinevezés önmagában elegendő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 82. § (1) bekezdés d) pontja az eskütételt a létesítés és fennntartás feltételévé teszi. A Kit. 87. § (1) bekezdése a kinevezéskor kötelezővé teszi. A fakultatív olvasat mindkét helyet sérti."
+        },
+        {
+          "text": "Az eskü szövege törvényben rögzített; a vallási záradék az eskütevő meggyőződésétől függ.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 87. § (3) bekezdése kógensen közli az eskü szövegét. A szöveg Magyarországhoz és az Alaptörvényhez való hűséget, a jogszabályok megtartását és a nemzet javára gyakorlást fogalmazza meg. A vallási záradék az eskütevő meggyőződésétől függ."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "afc27e94264e"
+    },
+    {
+      "question": "Eset: az ösztöndíjas a szerződés aláírásakor „már kormánytisztviselőnek” tekinti magát, és belépéskor is hat hónapos próbaidőt vár. Mely állítások helytállóak a Kit. 88. § szerint?",
+      "options": [
+        {
+          "text": "Az ösztöndíjas a kormányzati igazgatási szervvel ösztöndíjas jogviszonyban áll, nem kormánytisztviselői kinevezéssel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 88. § (2) bekezdése az ösztöndíjast ösztöndíjas jogviszonyba helyezi. Az (5) bekezdés bb) pontja a kinevezés említésénél az ösztöndíjas jogviszonyt létrehozó szerződést rendeli érteni. Automata kormánytisztviselői státusz a szerződés aláírásával nincs."
+        },
+        {
+          "text": "Az ösztöndíjas automatikusan kormánytisztviselővé válik a szerződés aláírásával.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 88. § (2) bekezdése ösztöndíjas jogviszonyt rögzít, nem kinevezést. A kormánytisztviselői státusz külön létesítést igényel a 85. § szerint. Az automatikus átalakulás nincs a törvényben."
+        },
+        {
+          "text": "Ha az ösztöndíjas a szerződéses feltételek sikeres teljesítése után, a jogviszony megszűnését követő egy éven belül első munkavégzésre irányuló jogviszonyként kormányzati szolgálati jogviszonyt létesít, próbaidő nem köthető ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 88. § (4) bekezdése a próbaidő tilalmát több feltételhez köti: sikeres teljesítés, egyéves ablak, első munkavégzésre irányuló jogviszonyként történő létesítés. A Kit. 86. § (7) bekezdése e kivételre hivatkozik a próbaidő kötelező kikötése alól. A hat hónapos próbaidő-várakozás e feltételek mellett téves."
+        },
+        {
+          "text": "Az ösztöndíjas belépés után is kötelező a hat hónapos próbaidő, mert a 86. § (7) bekezdése mindig érvényesül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 86. § (7) bekezdése kivételként hivatkozik a 88. § (4) bekezdésére. A 88. § (4) bekezdése a meghatározott feltételek mellett kizárja a próbaidő kikötését. A „mindig kötelező” olvasat a kivételt tagadja."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "bdafe50c2a04"
+    },
+    {
+      "question": "Eset: a munkáltatói jogkör gyakorlója egyoldalúan módosítja a kinevezést; a kormánytisztviselő harminc naptári napot vár a felmentéskérésre, és a hallgatást elutasításnak tekinti. Mely értékelések helyesek a Kit. 89. § szerint?",
+      "options": [
+        {
+          "text": "A felmentés kérésére harminc naptári nap áll rendelkezésre, és a hallgatás elutasítást jelent.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 89. § (3) bekezdése négy munkanapot ír elő. A (4) bekezdés szerint a kérelem elmaradása elfogadást, nem elutasítást jelent. A harminc napos és az elutasítás-olvasat mindkét ponton téves."
+        },
+        {
+          "text": "A kinevezést a munkáltatói jogkör gyakorlója egyoldalú jognyilatkozatával módosíthatja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 89. § (1) bekezdése az egyoldalú módosítást engedi. Ez elválik az Mt. szerződésmódosítási konszenzusától. A (2) bekezdés szerint egyebekben a kinevezés szabályait kell megfelelően alkalmazni."
+        },
+        {
+          "text": "A kinevezés csak a felek közös megegyezésével módosítható, mint az Mt. munkaszerződése.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 89. § (1) bekezdése egyoldalú munkáltatói jognyilatkozatot enged. A kormánytisztviselő védelme a (3) bekezdés szerinti felmentéskérési jogban jelenik meg. A konszenzusos Mt.-minta ide nem kötelező."
+        },
+        {
+          "text": "A kormánytisztviselő a közléstől számított négy munkanapon belül írásban kérheti felmentését a törvényben felsorolt sérelmes változásoknál.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 89. § (3) bekezdése a négy munkanapos határidőt és az írásbeliséget írja elő. A (4) bekezdés szerint a kérelem elmaradása a módosítás elfogadását jelenti. A harminc naptári napos várakozás a törvényi határidőt sérti."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "d9aa66d2ce2b"
+    },
+    {
+      "question": "Számítás: a kormánytisztviselő illetménye a kinevezés-módosítás után a korábbi 450 000 Ft-ról 350 000 Ft-ra csökken. Kérhet-e felmentést a Kit. 89. § (3) bekezdés a) pontja alapján?",
+      "options": [
+        {
+          "text": "Igen, mert az új illetmény a korábbi 80 százalékát (360 000 Ft) nem éri el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 89. § (3) bekezdés a) pontja akkor engedi a felmentés kérését, ha az illetmény a korábbi 80 százalékát nem éri el. 450 000 Ft 80 százaléka 360 000 Ft; a 350 000 Ft ez alatt van. A felmentés kérése a módosítás közlésétől számított négy munkanapon belüli írásbeli nyilatkozattal él."
+        },
+        {
+          "text": "A felmentésnél a járandóságok alapja a módosítást megelőző illetmény, tehát a 450 000 Ft.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 89. § (5) bekezdése a felmentési időre járó illetmény, a végkielégítés és az egyéb járandóságok számításánál a kinevezésmódosítást megelőző illetményt rendeli alapul venni. A csökkentett 350 000 Ft tehát nem érvényesül a járandóságoknál. A felmentés a 107. § (2) bekezdés g) pontjára utal."
+        },
+        {
+          "text": "Nem kérhet felmentést, mert az illetménycsökkenés önmagában soha nem alap a Kit.-ben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 89. § (3) bekezdés a) pontja kifejezetten az illetmény 80 százalék alá csökkenését nevesíti. A 350 000 Ft a 360 000 Ft-os küszöb alatt van. A „soha nem alap” olvasat a taxatív okot hagyja figyelmen kívül."
+        },
+        {
+          "text": "Csak akkor kérhet felmentést, ha az új illetmény a korábbi 50 százaléka alá esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törvényi küszöb a Kit. 89. § (3) bekezdés a) pontja szerint 80 százalék, nem 50. A 350 000 Ft már a 80 százalékos küszöb alatt van. Az 50 százalékos olvasat a mértéket felezi."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "42fb7085a09d"
+    },
+    {
+      "question": "Eset: várandós kormánytisztviselőnél a szerv az állapotnak megfelelő feladatra módosítaná a kinevezést, de az illetményt csökkentené, és a mentesítés idejére „soha nem jár” illetményt. Mely állítások helytállóak a Kit. 90. § szerint?",
+      "options": [
+        {
+          "text": "A várandósság megállapításától a gyermek egyéves koráig az állapotnak megfelelő feladat, munkafeltétel és munkaidő-beosztás adható, ha orvosi vélemény szerint az álláshelyhez rendelt feladat nem látható el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 90. § (1) bekezdése az időszakot a várandósság megállapításától a gyermek egyéves koráig rögzíti. Feltétel az orvosi vélemény arról, hogy az álláshelyhez rendelt feladat nem látható el. Az egészségvédelmi módosítás kötelezettség, ha a feltétel fennáll."
+        },
+        {
+          "text": "Az illetmény nem lehet kevesebb a korábbi illetménynél; ha megfelelő foglalkoztatás nem lehetséges, mentesítés jár, és a mentesítés idejére főszabályként illetmény is jár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 90. § (2) bekezdése az illetményvédelmet kógensen írja elő. A (3) bekezdés a munkavégzés alóli mentesítést akkor rendeli, ha a szervnél megfelelő foglalkoztatás nem lehetséges. A mentesítés idejére főszabályként illetmény jár, kivéve az alapos ok nélküli elutasítást."
+        },
+        {
+          "text": "A mentesítés idejére soha nem jár illetmény, mert a kormánytisztviselő nem végez munkát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 90. § (3) bekezdése a mentesítés idejére az illetményre való jogosultságot írja elő. Kivétel csak az, ha a felajánlott álláshelyet alapos ok nélkül nem fogadja el. A „soha nem jár” olvasat a főszabályt tagadja."
+        },
+        {
+          "text": "A várandós kormánytisztviselő illetménye a módosításkor szabadon csökkenthető a szerv érdeke szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 90. § (2) bekezdése szerint az illetmény nem lehet kevesebb a korábbi illetménynél. A szerv érdeke nem oldja fel ezt az illetményvédelmet. A szabad csökkentés a (2) bekezdésbe ütközik."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "352523afe9b8"
+    },
+    {
+      "question": "Eset: szervi jogutódláskor az átvevő azt állítja, hogy minden érintett jogviszony megszűnt, új kinevezés kell, és a tájékoztatás elmaradása kizárja az igényeket. Mely állítások helytállóak a Kit. 90/A. § szerint?",
+      "options": [
+        {
+          "text": "Az érintett álláshelyeken fennálló jogviszonyokból származó jogok és kötelezettségek az átadóról az átvevőre szállnak a jogutódlás időpontjában.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 90/A. § (1) bekezdése az átszállást a jogutódlás időpontjához köti. A jogviszony folytonossága megmarad; nem új kinevezés történik. A (4) bekezdés az álláshely-átcsoportosításra és álláshelycserére is kiterjeszti a szabályokat."
+        },
+        {
+          "text": "Az átadó tájékoztatásának elmaradása az átvevővel szembeni igényérvényesítést kizárja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 90/A. § (2) bekezdése szerint a tájékoztatás elmaradása az átvevővel szembeni igényérvényesítést nem érinti. Az átadó kötelezettsége tehát nem feltétele az igényeknek. A kizárás-olvasat a (2) bekezdést sérti."
+        },
+        {
+          "text": "A jogutódlás minden érintett jogviszonyt megszüntet, és új kinevezés kell.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 90/A. § (1) bekezdése a jogok és kötelezettségek átszállását írja elő, nem a megszüntetést. A (3) bekezdés új beosztási okiratot követel az átszállást követő hatvan napon belül. Az új kinevezés-követelés a folytonosság-szabályt sérti."
+        },
+        {
+          "text": "Az átvevő az átszállást követő hatvan napon belül állítja ki az új beosztási okiratot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 90/A. § (3) bekezdése a hatvan napos határidőt az átvevő kötelezettségévé teszi. A beosztási okirat kiállítása a munkáltatói teher a folytonosság mellett. Új kinevezés helyett ez a teher az átvevőn."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "3a1212d1907b"
+    },
+    {
+      "question": "Eset: a szerv, a kormánytisztviselő és az NKE megállapodása alapján a kormánytisztviselő heti oktatási feladatot lát el az egyetemen. A HR szerint ezzel „megszűnik” a kormányzati szolgálati jogviszonya. Mely értékelések helyesek a Kit. 81. § (3a)–(3d) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Az oktatási feladat az oktatásban, kutatásban, kutatásszervezésben szerzett szakmai tapasztalatnak minősül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 81. § (3d) bekezdése az oktatási feladatot az oktatásban, kutatásban, kutatásszervezésben szerzett szakmai tapasztalatnak minősíti. A (3a) bekezdés szerint a feladat a szerv, a kormánytisztviselő és az NKE megállapodása alapján határozható meg. A tapasztalat-minősítés a (3d) következménye."
+        },
+        {
+          "text": "Az oktatási feladat automatikusan megszünteti a kormányzati szolgálati jogviszonyt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 81. § (3c) bekezdése szerint az oktatási feladat a jogviszonyt nem érinti. A kormánytisztviselő a kinevezése szerinti illetményre jogosult marad. Automatikus megszüntetés nincs a törvényben."
+        },
+        {
+          "text": "Az oktatási feladat ellátása a kormányzati szolgálati jogviszonyt és a munkáltatói jogok gyakorlását nem érinti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 81. § (3c) bekezdése rögzíti, hogy az oktatási feladat a jogviszonyt és a munkáltatói joggyakorlást érintetlenül hagyja. A kormánytisztviselő a kinevezése szerinti illetményre jogosult marad. A HR „megszűnés” olvasata a (3c) bekezdéssel ellentétes."
+        },
+        {
+          "text": "Az oktatási feladat költségeit a kormánytisztviselő viseli a saját illetményéből.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 81. § (3c) bekezdése szerint az illetményt, a juttatásokat, a közterheket és az oktatási költségeket a kormányzati igazgatási szerv viseli. A kormánytisztviselő saját illetményéből nem terhelhető ez a költség. A költségviselés a szervé, nem a kormánytisztviselőé."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "0e9eb325d7dd"
+    },
+    {
+      "question": "A Kit. 82. § (4) bekezdés b) és c) pontja szerint milyen tilalmi idők élnek közérdekű munka, pénzbüntetés, illetve felfüggesztett szabadságvesztés után?",
+      "options": [
+        {
+          "text": "Közérdekű munka után nincs tilalmi idő, ha a mentesítés beállt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 82. § (4) bekezdés b) pontja a mentesítés beállta után is két éves tilalmat tart fenn. A mentesítés tehát nem nyit azonnali kinevezési lehetőséget. A tilalmi idő a mentesítéstől számítva fut."
+        },
+        {
+          "text": "Szándékos bűncselekmény miatti felfüggesztett szabadságvesztésnél a tilalom a mentesítéstől számított három év.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 82. § (4) bekezdés c) pontja hároméves tilalmat ír. A felfüggesztett szabadságvesztés így a végrehajtandó szabadságvesztésnél (öt vagy nyolc év) rövidebb, de a közérdekű munkánál (két év) hosszabb sávban van. A számítás ismét a mentesítés beálltától indul."
+        },
+        {
+          "text": "Szándékos bűncselekmény miatti közérdekű munka vagy pénzbüntetés esetén a tilalom a mentesítéstől számított két év.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 82. § (4) bekezdés b) pontja a kétéves tilalmi időt a mentesítés beálltától számítja. A közérdekű munka és a pénzbüntetés azonos sávba esik. A kiindulópont nem a büntetés kitöltése, hanem a mentesítés."
+        },
+        {
+          "text": "Felfüggesztett szabadságvesztésnél a tilalom a mentesítéstől számított nyolc év.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nyolcéves tilalom a Kit. 82. § (4) bekezdés a) pont ab) alpontja szerint az ötévi vagy súlyosabb végrehajtandó szabadságvesztéshez tartozik. Felfüggesztett szabadságvesztésnél a c) pont három évet ír. A büntetésnemek sávjai nem cserélhetők fel."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "42aed6e47fc7"
+    },
+    {
+      "question": "A Kit. 82. § (7a) bekezdése szerint mi a munkáltatói jogkör gyakorlójának döntési lehetősége egyszerűsített nemzetbiztonsági ellenőrzésnél?",
+      "options": [
+        {
+          "text": "Az azonnali hatályú megszüntetésnél a kormánytisztviselőt végkielégítés illeti meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 82. § (8) bekezdése szerint a (7) és (7a) bekezdés szerinti azonnali hatályú megszüntetésnél a kormánytisztviselőt felmentési idő és végkielégítés nem illeti meg. A végkielégítés a (8) bekezdés szerint nem jár. A megszüntetés okát és jogkövetkezményeit közölni kell a kormánytisztviselővel."
+        },
+        {
+          "text": "Áthelyezheti a kormánytisztviselőt más, egyszerűsített ellenőrzés alá nem eső álláshelyre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 82. § (7a) bekezdése az áthelyezést elsőként nevesíti a lehetséges intézkedések között. Feltétel, hogy a kormánytisztviselő egyszerűsített nemzetbiztonsági ellenőrzés alá esik vagy azzá válik. Az áthelyezés a kockázatos álláshely elhagyását szolgálja."
+        },
+        {
+          "text": "Csak a Kormány hozzájárulásával dönthet, saját mérlegelése nincs.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 82. § (7a) bekezdése a döntést a munkáltatói jogkör gyakorlójához telepíti. A Kormány hozzájárulása e bekezdésben nem feltétele a három intézkedésnek. A (10) bekezdés szerinti nyugdíjas kinevezési hozzájárulás más élethelyzet."
+        },
+        {
+          "text": "Továbbfoglalkoztathatja az egyszerűsített ellenőrzés alá eső álláshelyen, vagy azonnali hatállyal megszüntetheti a jogviszonyt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 82. § (7a) bekezdése a továbbfoglalkoztatást és az azonnali hatályú megszüntetést is engedi. A (8) bekezdés szerint e megszüntetésnél felmentési idő és végkielégítés nem jár. A három lehetőség tehát áthelyezés, továbbfoglalkoztatás vagy megszüntetés."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "21558f437fc8"
+    },
+    {
+      "question": "Eset: olyan szervnél, ahol törvény megbízhatósági vizsgálatot enged, a jelölt csak „eseti beleegyezést” adna minden egyes vizsgálathoz, és a tudomásulvételt ajánlásnak tekinti. Mely értékelések helyesek a Kit. 82. § (9) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A vizsgálat a fennállás alatt is elvégezhető, ha a szervnél törvény ilyen ellenőrzést lehetővé tesz.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 82. § (9) bekezdése a fennállás alatti ellenőrzést is a tudomásulvétel tárgyává teszi. A kijelölt szerv a törvényben meghatározott módon jár el. A létesítéskori tudomásulvétel a későbbi vizsgálatokat is lefedi."
+        },
+        {
+          "text": "A tudomásulvétel csak ajánlás, a kinevezés nélküle is érvényes.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 82. § (9) bekezdése a tudomásulvételt a létesítés feltételévé teszi az érintett szerveknél. Nélküle a kinevezés a törvényi feltétel hiányában nem jogszerű. Az ajánlás-olvasat a kógens feltételt enyhítené."
+        },
+        {
+          "text": "Ahol törvény lehetővé teszi a megbízhatósági vizsgálatot, jogviszony csak azzal létesíthető, aki tudomásul veszi az ellenőrzés lehetőségét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 82. § (9) bekezdése a tudomásulvételt létesítési feltétellé emeli. Az ellenőrzés a szolgálati feladatok törvényes ellátására irányul. Nélküle a kinevezés a törvényi feltétel hiányában nem jogszerű az érintett szerveknél."
+        },
+        {
+          "text": "A megbízhatósági vizsgálat csak a kormánytisztviselő előzetes, eseti beleegyezésével végezhető el minden alkalommal.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 82. § (9) bekezdése szerint a vizsgálat a tudta és beleegyezése nélkül is elvégezhető, ha a törvényi feltételek fennállnak. A létesítéskor adott tudomásulvétel a keret. Eseti beleegyezés nem feltétele minden eljárásnak."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "cd88d5b711f0"
+    },
+    {
+      "question": "Eset: határozott idejű kinevezésnél a szerv „csak naptári dátumot” enged, vagy nem naptári időnél a megszűnést kizárólag saját akaratához köti. Mely értékelések helyesek a Kit. 85. § (2) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A határozott időtartam naptárilag vagy más alkalmas módon, különösen meghatározott munka, feladat vagy eseményhez kötötten határozható meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 85. § (2) bekezdése a naptári és a nem naptári meghatározást egyaránt engedi. A nem naptári módra példa a munka elvégzése, a feladat ellátása vagy esemény bekövetkezte. A kizárólag naptári olvasat túl szűk a (2) bekezdéshez képest."
+        },
+        {
+          "text": "A határozott idő mindig csak naptári dátummal érvényes, más mód tilos.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 85. § (2) bekezdése kifejezetten engedi a nem naptári, alkalmas meghatározást. A munka, feladat vagy eseményhez kötés törvényes. A kizárólag naptári követelmény nincs a törvényben."
+        },
+        {
+          "text": "Nem naptári időtartamnál a szerv bármikor, indokolás nélkül lerövidítheti a jogviszonyt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 85. § (2) bekezdése tiltja, hogy a megszűnés kizárólag a szerv akaratától függjön. A tartós külszolgálat megszüntetése az egyetlen nevesített kivétel. Az indokolás nélküli lerövidítés a tilalomba ütközik."
+        },
+        {
+          "text": "Nem naptári meghatározásnál a megszűnés időpontja — tartós külszolgálat megszüntetése kivételével — nem függhet kizárólag a szerv vagy a kormánytisztviselő akaratától.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 85. § (2) bekezdése a kizárólagos akaratfüggést tiltja. A kivétel a tartós külszolgálat megszüntetése. Ez megakadályozza, hogy a határozott jelleg rejtett, egyoldalúan lerövidíthető időtartammá váljon."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "3dcf74c3ce46"
+    },
+    {
+      "question": "Eset: a kinevezés érvénytelensége a munkába lépés előtt derül ki; a vezető mégis azonnal munkába állítaná. Más esetben a hiba a munka megkezdése után derül ki, és „automatikusan orvosoltnak” tekinti. Mely állítások helytállóak a Kit. 86. § (6) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Munkába lépés előtt az érvénytelen kinevezéssel is azonnal munkába állítható a kormánytisztviselő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 86. § (6) bekezdése szerint az érvénytelenséget előidéző ok megszüntetéséig a kormánytisztviselő nem állítható munkába. Az azonnali munkába állítás a tilalomba ütközik. Az orvoslás a munkába állítás feltétele."
+        },
+        {
+          "text": "Ha az ok a munka megkezdése után jut tudomásra, a kormánytisztviselőt az orvoslásig a munkavégzéstől el kell tiltani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 86. § (6) bekezdése második mondata az eltiltást kötelezővé teszi. Az eltiltás az érvénytelenség orvoslásáig tart. A már megkezdett munkavégzés sem menti az automatikus orvoslást."
+        },
+        {
+          "text": "Munkába lépés előtt az érvénytelenséget előidéző ok megszüntetéséig a kormánytisztviselő nem állítható munkába.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 86. § (6) bekezdése első mondata a munkába állítás tilalmát az ok orvoslásáig írja elő. Az érvénytelenség tehát nem hagyható figyelmen kívül. Az azonnali munkába állítás a tilalomba ütközik a munkába lépés előtt."
+        },
+        {
+          "text": "Az érvénytelenség a munkába lépés után automatikusan orvosolt, további intézkedés nem kell.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 86. § (6) bekezdése a munka megkezdése után is eltiltást követel az orvoslásig. Az automatikus orvoslás nincs a törvényben. A munkáltatói jogkör gyakorlójának intézkednie kell az eltiltásról."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "01ef8692132b"
+    },
+    {
+      "question": "A Kit. 86. § (7a) és (7b) bekezdése szerint mikor korlátozott vagy tilos az újabb próbaidő?",
+      "options": [
+        {
+          "text": "A határozott idő meghosszabbításánál azonos feladatkörben is kötelező az újabb próbaidő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 86. § (7b) bekezdése azonos vagy hasonló feladatkörnél kifejezetten tiltja az újabb próbaidőt. A kötelező kikötés olvasata a tilalom ellentéte. A meghosszabbítás a már kipróbált feladatkört folytatja."
+        },
+        {
+          "text": "Próbaidő alatti szervváltásnál mindig új, teljes hat hónapos próbaidő köthető ki.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 86. § (7a) bekezdése legfeljebb a próbaidő még hátralévő részének megfelelő időtartamot engedi kikötni. A teljes új hat hónap túllépné ezt a törvényi maximumot. A szervváltás vagy a 30 napon belüli új létesítés tehát nem indít új, teljes próbaidő-sávot."
+        },
+        {
+          "text": "Próbaidő alatti szervváltásnál vagy a próbaidő alatti megszűnést követő 30 napon belüli új létesítésnél legfeljebb a hátralévő tartam köthető ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 86. § (7a) bekezdése a 89/A. § szerinti munkahelyváltásra és a 30 napos újrakezdésre a hátralévő próbaidő maximumát szabja. Az új kinevezés tehát nem indíthat teljes új három–hat hónapos sávot. A korlát a próbaidő folytonosságát védi."
+        },
+        {
+          "text": "Határozott idejű jogviszony meghosszabbításánál azonos vagy hasonló feladatkörben újabb próbaidő nem köthető ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 86. § (7b) bekezdése a meghosszabbításnál kizárja az újabb próbaidőt azonos vagy hasonló feladatkörben. A tilalom a próbaidő megismétlésének elkerülését szolgálja. Eltérő feladatkörnél a bekezdés szövege a tilalmat ehhez a feltételhez köti."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "bd54c6d9fc2f"
+    },
+    {
+      "question": "A Kit. 89. § (3) bekezdés b)–e) pontja szerint mely sérelmes változások alapozzák meg a felmentés kérését?",
+      "options": [
+        {
+          "text": "Csak az illetménycsökkenés alapozhat felmentéskérést, más változás nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 89. § (3) bekezdése az a)–g) pontban több okot taxatíve felsorol, nem csupán az illetménycsökkenést. A munkaidő, a munkavégzési hely, a feladatkör meg nem felelése és az álláshelycsere is ide tartozik. Az illetménycsökkenés csak az a) pont szerinti, 80 százalékos küszöbhöz kötött eset."
+        },
+        {
+          "text": "A képzettségének meg nem felelő feladatra kötelezés, illetve a szakmai vezetői álláshelyről ügyintézői álláshelyre helyezés.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 89. § (3) bekezdés d) és e) pontja ezeket az okokat sorolja. A d) pont a végzettség, szakképzettség, szakképesítés vagy szakmai tapasztalat meg nem felelését fedi. Az e) pont a vezetői státusz ügyintézőire csökkentését külön nevesíti."
+        },
+        {
+          "text": "A településen belüli munkavégzési hely változása önmagában mindig felmentéskérési ok.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 89. § (3) bekezdés c) pontja a munkavégzés helyének a település határán kívülire változását kívánja meg. A településen belüli áthelyezés e pont alapján nem elegendő a felmentés kéréséhez. A törvényi ismérv tehát a településhatár átlépése."
+        },
+        {
+          "text": "A munkaidő változása, valamint a munkavégzés helyének a település határán kívülire változása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 89. § (3) bekezdés b) és c) pontja ezt a két okot nevesíti. A kormánytisztviselő négy munkanapos, írásbeli határidővel élhet a felmentés kérésével. A hallgatás a (4) bekezdés szerint elfogadást jelent."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "712113c3d05c"
+    },
+    {
+      "question": "Eset: adóhatósági eljárásban a kormánytisztviselő „munkáltatójaként” a Miniszterelnöki Kormányirodát jelölik meg általános szabályként, függetlenül az álláshelytől. Mely állítások helytállóak a Kit. 80. § (3) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Az ügyvédi törvény szerinti munkáltató is mindig a Kormány testülete, szervkijelölés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 80. § (3) bekezdése az ügyvédi tevékenységről szóló törvény szerinti munkáltatót is a foglalkoztató szervhez rendeli. A testületi Kit.-munkáltató és a más törvény szerinti szervfogalom elválik. A szervkijelölés kötelező az ügyvédi törvény alkalmazásához."
+        },
+        {
+          "text": "A Kormány marad a Kit. szerinti munkáltató; a (3) bekezdés csak meghatározott más törvények alkalmazásához igazít.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 80. § (1) bekezdése a Kormányt nevezi munkáltatónak. A (3) bekezdés a Kp., az ügyvédi tevékenység és az adózás rendje szerinti fogalmakhoz rendel szervet. A Kit. belső minősége nem változik a (3) bekezdés miatt."
+        },
+        {
+          "text": "Az adózás rendje szerinti munkáltató alatt azt a kormányzati igazgatási szervet kell érteni, amelynél a kormánytisztviselő az álláshelye szerinti feladatát ellátja vagy ellátta.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 80. § (3) bekezdése az adózás rendjéről szóló törvény szerinti munkáltatót is az álláshely szerinti foglalkoztató szervhez rendeli. Nem általános Miniszterelnöki Kormányiroda-szabály. A szerv a feladatellátás helyéhez igazodik az adózási munkáltató-fogalomnál."
+        },
+        {
+          "text": "A (3) bekezdés szerint munkáltató mindig a Miniszterelnöki Kormányiroda.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 80. § (3) bekezdése az álláshely szerinti feladatot ellátó kormányzati igazgatási szervet jelöli. Nem a Miniszterelnöki Kormányirodát nevesíti általános munkáltatóként. Az álláshely a kapcsoló, nem a Kormányiroda."
+        }
+      ],
+      "sourceKerdesSorszam": 29,
+      "sourceHash": "5ca4fb57a119"
+    },
+    {
+      "question": "Eset: a hivatali szervezet vezetője az alaplétszámba tartozó álláshely feladatának szabályzatban történő meghatározását írásban átruházza a szakmai vezetőre, mondván: „csak a központosított álláshelyek tilosak”. Mely állítások helytállóak a Kit. 81. § (3) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Minden munkáltatói jog átruházható, ha a szerv vezetője szóban utasít.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 81. § (2) bekezdése írásbeli átruházást követel, a (3) bekezdés pedig taxatív kivételeket állít. A feladat- és követelmény-meghatározás nem delegálható. A szóbeli utasítás sem oldja fel a tilalmat."
+        },
+        {
+          "text": "Csak a központosított álláshelyekre vonatkozó jogok nem ruházhatók át; az alaplétszám szabadon delegálható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 81. § (3) bekezdés a)–d) pontja az alaplétszámba tartozó és a központosított álláshely-állományba tartozó álláshelyekre egyaránt kizárja a feladat- és követelmény-meghatározás átruházását. Az „csak a központosított álláshelyek tilosak” olvasat az a)–b) pontot elhagyja. Az alaplétszám ugyanúgy a (3) bekezdés tilalma alá esik."
+        },
+        {
+          "text": "Az alaplétszámba tartozó álláshely feladatának és szakmai követelményeinek szabályzatban történő meghatározása nem ruházható át.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 81. § (3) bekezdés a) és b) pontja az alaplétszámba tartozó álláshely feladatának és szakmai követelményeinek szabályzatban történő meghatározását zárja ki az átruházásból. A tilalom a létszám-gazdálkodás magját védi. Az alaplétszám tehát nem szabadon delegálható."
+        },
+        {
+          "text": "A központosított álláshely-állományba tartozó álláshely feladatának és szakmai feltételeinek meghatározása szintén nem ruházható át.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 81. § (3) bekezdés c) és d) pontja az 53. § (4) bekezdése alapján engedélyezett központosított álláshelyekre ugyanígy szól. A feladat és a szakmai feltétel meghatározása mindkét állománytípusnál tilos. A központosított álláshely sem oldja fel az alaplétszám tilalmát."
+        }
+      ],
+      "sourceKerdesSorszam": 30,
+      "sourceHash": "ca2eabd5a4a5"
+    },
+    {
+      "question": "Számítás: a Kit. 82. § (4) bekezdés a) pont aa) alpontja szerint öt évet el nem érő végrehajtandó szabadságvesztésnél meddig tart a tilalom?",
+      "options": [
+        {
+          "text": "A mentesítés beálltától számított öt évig.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 82. § (4) bekezdés a) pont aa) alpontja ötéves tilalmat ír az öt évet el nem érő végrehajtandó szabadságvesztésnél. A számítás a mentesítés beálltától indul. Az ab) alpont szerinti nyolc év csak az ötévi vagy súlyosabb esetre vonatkozik."
+        },
+        {
+          "text": "Ugyanezen bekezdés b) pontja szerint közérdekű munkánál a tilalom rövidebb: két év a mentesítéstől.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 82. § (4) bekezdés b) pontja a közérdekű munka vagy pénzbüntetés esetén két évet szab. Ez rövidebb, mint az aa) alpont ötéves sávja. A büntetésnem tehát a tilalmi idő hosszát is meghatározza."
+        },
+        {
+          "text": "Az öt évet el nem érő szabadságvesztésnél a tilalom nyolc év.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nyolcéves tilalom a Kit. 82. § (4) bekezdés a) pont ab) alpontjához tartozik, ötévi vagy súlyosabb végrehajtandó szabadságvesztésnél. Az öt évet el nem érő esetnél az aa) alpont öt évet ír. A két sáv felcserélése tipikus mértékhiba."
+        },
+        {
+          "text": "A tilalom a büntetés jogerőre emelkedésétől számított öt év, mentesítés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 82. § (4) bekezdés a) pont aa) alpontja a mentesítés beálltától számít. A jogerőre emelkedés önmagában nem a tilalmi idő kezdőpontja. A mentesítés nélküli olvasat a törvényi kiindulópontot téveszti el."
+        }
+      ],
+      "sourceKerdesSorszam": 31,
+      "sourceHash": "495387af9ec1"
+    },
+    {
+      "question": "Eset: a vezető „minden külföldi szolgálatot teljesítő” kormánytisztviselőnek felmentést adna az érettségi / középszintű szakképesítés alól. Mely állítások helytállóak a Kit. 82. § (11)–(12) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A feltételeknek a jogviszony teljes időtartama alatt fenn kell állniuk.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 82. § (12) bekezdése a folyamatos megfelelést követeli. A kinevezéskori megfelelés nem elég, ha utóbb kizáró ok áll be. A fennállás alatt beálló akadály is a feltételek megsértését jelenti."
+        },
+        {
+          "text": "A (11) bekezdés minden külföldi szolgálatot teljesítő kormánytisztviselőre kiterjed.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 82. § (11) bekezdése csak a külképviselet adminisztratív és technikai személyzetének középfokú végzettségű tagját említi. Nem minden külföldi szolgálatot teljesítő kormánytisztviselőre szól. A vezető tágítása a (11) bekezdés szövegét bővítené törvényellenesen."
+        },
+        {
+          "text": "A munkáltatói jogkör gyakorlója bármely feltétel alól egyedi felmentést adhat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 82. § (12) bekezdése szerint felmentés nem adható, kivéve a (11) bekezdés szűk körét. A szerv vezetője nem dispensálhatja általánosan a 82. § feltételeit. Az egyedi felmentés főszabályként tilos."
+        },
+        {
+          "text": "Felmentés főszabály szerint nem adható; kivétel a külképviselet adminisztratív és technikai személyzetének középfokú végzettségű tagja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 82. § (12) bekezdése a felmentést kizárja, az (11) bekezdés kivételével. Az (11) bekezdés a külképviseleti adminisztratív és technikai személyzet középfokú végzettségű tagját említi. Nem általános külföldi dispensatio minden külföldi szolgálatra."
+        }
+      ],
+      "sourceKerdesSorszam": 32,
+      "sourceHash": "8b6d11d8490b"
+    },
+    {
+      "question": "A Kit. 83. § (4)–(6) bekezdése szerint meddig kezelheti a szerv a toborzási adatbázisból megismert személyes adatokat?",
+      "options": [
+        {
+          "text": "A szerv a megismert adatokat időkorlát nélkül, bármely célra kezelheti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 83. § (6) bekezdése a személyes adatok kezelését a létesítésről szóló döntésig, jogviszonynál a megszűnésig vagy megszüntetéséig korlátozza. A (4) bekezdés a célt a betöltetlen álláshely betöltésében jelöli meg. Az időkorlát és a célhoz kötöttség együtt zárja ki a korlátlan kezelést."
+        },
+        {
+          "text": "A toborzási adatokhoz csak a Kormány testülete férhet hozzá, a szerv vezetője nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 83. § (4) bekezdése szerint a kormányzati igazgatási szerv vezetője közvetlenül hozzáférhet. A hozzáférés a betöltetlen álláshely betöltése céljából él. A kizárólag testületi hozzáférés olvasata a törvényi jogosultat téveszti el."
+        },
+        {
+          "text": "A toborzási adatbázisba felvételét kérőnek büntetlen előéletűnek, cselekvőképesnek és legalább érettségivel vagy középszintű szakképesítéssel kell rendelkeznie.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 83. § (3) bekezdése ezeket a felvételi feltételeket írja elő. A személyügyi központ a toborzási adatbázist a kiválasztás elősegítésére működteti. A 4. melléklet a kötelező és választható adatokat határozza meg."
+        },
+        {
+          "text": "A létesítésről szóló döntésig, vagy jogviszony esetén annak megszűnéséig, illetve megszüntetéséig.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 83. § (6) bekezdése ezt a két végpontot rögzíti. A (4) bekezdés a szerv vezetőjének közvetlen hozzáférését a betöltetlen álláshely betöltése céljából engedi. Az adatkezelés tehát a kiválasztási célhoz kötött."
+        }
+      ],
+      "sourceKerdesSorszam": 33,
+      "sourceHash": "780f4996b819"
+    },
+    {
+      "question": "Eset: pártfogó felügyelői álláshelyre jelentkezőnél a HR csak az általános (1) bekezdés szerinti hatósági bizonyítványt kéri; foglalkozástól eltiltás hiányát pedig „soha nem kell” igazolni. Mely értékelések helyesek a Kit. 84. § (3)–(4) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Pártfogó felügyelőnél a 82. § (5) bekezdés szerinti kizáró feltételek fenn nem állását is hatósági bizonyítvánnyal kell igazolni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 84. § (3) bekezdése a pártfogó felügyelői létesítésnél külön igazolási tárgyat állít. Az (1) bekezdés általános igazolása mellett a 82. § (5) bekezdés szerinti kizáró feltételek igazolása is kötelező. Az általános bizonyítvány önmagában nem elég."
+        },
+        {
+          "text": "Pártfogó felügyelőnél elegendő az (1) bekezdés szerinti általános igazolás, további okirat nem kell.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 84. § (3) bekezdése az (1) bekezdésen túl a 82. § (5) bekezdés szerinti kizáró feltételek igazolását is megköveteli. Az általános igazolás önmagában nem fedezi a pártfogó felügyelői külön tárgyat. A HR szűkítése a (3) bekezdés külön igazolási tárgyát sérti."
+        },
+        {
+          "text": "A foglalkozástól eltiltás hiányát soha nem kell igazolni, mert a 82. § ezt nem említi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 84. § (4) bekezdése kifejezetten lehetővé teszi a felhívásra történő igazolást. A 82. § (3) bekezdés c) pontja a foglalkozástól eltiltást kizáró okként említi. A „soha” olvasat a (4) bekezdést figyelmen kívül hagyja."
+        },
+        {
+          "text": "A foglalkozástól eltiltás hiányát a munkáltatói jogkör gyakorlója felhívására kell hatósági bizonyítvánnyal igazolni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 84. § (4) bekezdése a felhíváshoz köti a foglalkozástól eltiltás hiányának igazolását. Nem automatikus minden létesítésnél, hanem a jogkör gyakorlójának döntésétől függ. A „soha nem kell” olvasat a (4) bekezdést tagadja."
+        }
+      ],
+      "sourceKerdesSorszam": 34,
+      "sourceHash": "de46be440a9b"
+    },
+    {
+      "question": "Eset: a kinevezés és az elfogadás nincs írásba foglalva; a munkába lépés után a szerv a 45. napon az alaki hibára hivatkozva semmisnek tekinti a jogviszonyt. Mely értékelések helyesek a Kit. 85. § (1) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A munkáltatói jogkör gyakorlója is hivatkozhat az alaki hibára bármikor.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 85. § (1) bekezdése szerint csak a kormánytisztviselő hivatkozhat, és csak harminc napon belül. A szerv utólagos semmisségi érvelése kizárt. A „bármikor” olvasat a határidőt és a jogosultat is sérti."
+        },
+        {
+          "text": "A hivatkozási határidő a kinevezés aláírásától számított egy év.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 85. § (1) bekezdése a munkába lépést követő harminc napot ír elő. Sem a kinevezés aláírása, sem az egyéves tartam nem a törvényi kiindulópont. A szervnek a munkába lépéstől számított negyvenötödik napon tett fellépése e határidőn túl van."
+        },
+        {
+          "text": "A kinevezést és az elfogadást egyaránt írásba kell foglalni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 85. § (1) bekezdése mindkét aktusra előírja az írásbeliséget. A jogviszony kinevezéssel és elfogadással jön létre. Az írásba foglalás elmulasztása a kormánytisztviselői hivatkozási jogot nyitja meg a harminc napos ablakban."
+        },
+        {
+          "text": "Csak a kormánytisztviselő hivatkozhat az írásba foglalás elmulasztására, a munkába lépést követő harminc napon belül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 85. § (1) bekezdése az érvénytelenségi hivatkozást kizárólag a kormánytisztviselőhöz telepíti. A határidő a munkába lépést követő harminc nap. A szerv 45. napi semmisségi érvelése a határidőn és a jogosulton kívül esik."
+        }
+      ],
+      "sourceKerdesSorszam": 35,
+      "sourceHash": "5f663b2e11b1"
+    },
+    {
+      "question": "Eset: a kormánytisztviselő csak az esküokmányt írja alá, szóbeli eskütétel nélkül, és a vezető „írásbeli felmentést” adna az eskü alól. Mely állítások helytállóak a Kit. 87. § (1)–(2) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A kormánytisztviselőnek a kinevezésekor esküt kell tennie a kötelességeinek pontos betartására.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 87. § (1) bekezdése az esküt a kötelességek pontos betartásához köti. A 82. § (1) bekezdés d) pontja az eskütételt a létesítés és fennntartás feltételévé teszi. A felmentés főszabályként nem adható az alkalmazási feltételek alól."
+        },
+        {
+          "text": "Az esküt szóban kell letenni, és az eskütevő esküokmányt ír alá.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 87. § (2) bekezdése a szóbeli formát és az esküokmány aláírását együtt írja elő. A címzett a munkáltatói jogkör gyakorlója vagy az általa kijelölt vezető. Az okmány önmagában nem pótolja a szóbeli tettességet."
+        },
+        {
+          "text": "Az esküokmány aláírása önmagában elég, szóbeli eskütétel nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 87. § (2) bekezdése a szóbeli eskütételt és az esküokmány aláírását kumulatívan követeli. Az okmány önmagában nem pótolja a szóban, a jogosult előtt tett esküt. A harminc napos határidő is a szóbeli tettességre vonatkozik."
+        },
+        {
+          "text": "Az eskü helyettesíthető a munkáltatói jogkör gyakorlójának írásbeli felmentésével.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 82. § (12) bekezdése szerint az alkalmazási feltételek alól — az (11) bekezdés kivételével — felmentés nem adható. Az eskütétel a Kit. 82. § (1) bekezdés d) pontja szerinti feltétel. Az írásbeli felmentés nem pótolja az esküt."
+        }
+      ],
+      "sourceKerdesSorszam": 36,
+      "sourceHash": "8d8fb1985dd2"
+    },
+    {
+      "question": "A Kit. 88. § (3) bekezdése szerint mibe számít be az ösztöndíjas jogviszony?",
+      "options": [
+        {
+          "text": "Az ösztöndíjas idő semmilyen közszolgálati időbe nem számít be.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 88. § (3) bekezdése három beszámítási célt nevesít. A beszámítás törvényi, nem a szerv mérlegelése. A „semmilyen” olvasat a (3) bekezdés teljes tartalmát tagadja."
+        },
+        {
+          "text": "A szolgálati elismeréshez szükséges időtartamba és a közigazgatási szakvizsgához szükséges gyakorlati időbe.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 88. § (3) bekezdés a) és b) pontja ezeket a beszámításokat rögzíti. Az ösztöndíjas idő tehát nem „üres” szakmai gyakorlat. A beszámítás a későbbi közszolgálati előmenetel szempontjából is releváns."
+        },
+        {
+          "text": "Beszámít a közigazgatási gyakorlatba is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 88. § (3) bekezdés c) pontja a közigazgatási gyakorlatba való beszámítást is előírja. A három beszámítási cél tehát szolgálati elismerés, szakvizsgához szükséges gyakorlat és közigazgatási gyakorlat. Az ösztöndíjas jogviszony ezzel kapcsolódik a későbbi kormánytisztviselői pályához."
+        },
+        {
+          "text": "Csak a szakvizsgához számít, a szolgálati elismeréshez nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 88. § (3) bekezdés a)–c) pontja szerint az ösztöndíjas jogviszony a szolgálati elismeréshez szükséges időtartamba, a közigazgatási szakvizsgához szükséges gyakorlati időbe és a közigazgatási gyakorlatba is beszámít. A „csak a szakvizsgához számít” olvasat a három beszámítási cél közül kettőt elhagy. A szolgálati elismerés és a közigazgatási gyakorlat is a (3) bekezdés része."
+        }
+      ],
+      "sourceKerdesSorszam": 37,
+      "sourceHash": "f17539e064de"
+    },
+    {
+      "question": "A Kit. 89. § (3) bekezdés f)–g) pontja szerint mely további okok alapozzák a felmentés kérését?",
+      "options": [
+        {
+          "text": "Ha elhelyezkedési korlátozás alá eső álláshelyen kívánják továbbfoglalkoztatni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 89. § (3) bekezdés f) pontja ezt az okot nevesíti. A kérelem négy munkanapon belüli, írásbeli. A (4) bekezdés szerint a kérelem elmaradása elfogadást jelent."
+        },
+        {
+          "text": "Ha a módosítás az 55. § (4a) vagy (4b) bekezdése szerinti álláshelycsere miatt történik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 89. § (3) bekezdés g) pontja szerint a kormánytisztviselő felmentését kérheti, ha a kinevezés módosítására az 55. § (4a) vagy (4b) bekezdése szerinti álláshelycsere miatt kerül sor. A kérelem a közléstől számított négy munkanapon belül, írásban tehető meg. A (4) bekezdés szerint a kérelem elmaradása a módosítás elfogadását jelenti."
+        },
+        {
+          "text": "Az álláshelycsere soha nem alap a felmentés kérésére.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 89. § (3) bekezdés g) pontja kifejezetten az 55. § (4a) vagy (4b) bekezdése szerinti álláshelycserét nevesíti. A „soha” olvasat a taxatív listát hagyja figyelmen kívül. A kérelem a közléstől számított négy munkanapon belül tehető meg."
+        },
+        {
+          "text": "Elhelyezkedési korlátozásos álláshelynél a kormánytisztviselőnek nincs felmentéskérési joga.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 89. § (3) bekezdés f) pontja éppen ezt az esetet emeli be a felmentéskérési okok közé. A jog a közléstől számított négy munkanapon belül, írásban gyakorolható. A joghiány olvasata a f) pontot tagadja."
+        }
+      ],
+      "sourceKerdesSorszam": 38,
+      "sourceHash": "60072f1eaea2"
+    },
+    {
+      "question": "A Kit. 90. § (3) bekezdése szerint mikor mentesítendő a várandós kormánytisztviselő a munkavégzés alól, és mikor nem jár illetmény?",
+      "options": [
+        {
+          "text": "Mentesíteni kell, ha az egészségi állapotának megfelelő foglalkoztatás az illetményvédelem mellett a szervnél nem lehetséges.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 90. § (3) bekezdése a mentesítést ehhez a lehetetlenséghez köti. Az illetményvédelmet a (2) bekezdés írja elő. A mentesítés idejére főszabály szerint illetmény jár."
+        },
+        {
+          "text": "A szerv a megfelelő foglalkoztatás lehetetlensége ellenére is kötelezheti a kormánytisztviselőt a munkavégzésre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 90. § (3) bekezdése ilyen esetben mentesítési kötelezettséget ír elő. A munkavégzésre kötelezés az egészségvédelmi szabályt sértené. A mentesítés nem a szerv szívessége, hanem törvényi kötelezettség."
+        },
+        {
+          "text": "A mentesítés idejére mindig jár az illetmény, elutasítástól függetlenül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 90. § (3) bekezdése szerint a mentesítés idejére a kormánytisztviselő főszabályként az illetményére jogosult. Kivétel, ha a felajánlott álláshelyet alapos ok nélkül nem fogadja el. A „mindig jár” olvasat ezt a kivételt tagadja, pedig az illetményvesztés a törvényi kivétel következménye."
+        },
+        {
+          "text": "Nem jár illetmény, ha a felajánlott álláshelyet alapos ok nélkül nem fogadja el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 90. § (3) bekezdése ezt a kivételt nevesíti. Az alapos ok nélküli elutasítás az illetményvesztés jogkövetkezménye. A felajánlásnak az egészségi állapotnak megfelelőnek kell lennie."
+        }
+      ],
+      "sourceKerdesSorszam": 39,
+      "sourceHash": "cf39966bb5ce"
+    },
+    {
+      "question": "Eset: álláshelycsere miatt az átadó nem tájékoztatja az átvevőt, és az átvevő szerint a 90/A. § „egyáltalán nem alkalmazható” cserénél. Mely értékelések helyesek a Kit. 90/A. § (2) és (4) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Az álláshelycsere esetén a 90/A. § egyáltalán nem alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 90/A. § (4) bekezdése kifejezetten az 55. § (4a) és (4b) bekezdése szerinti álláshelycserére is kiterjeszti a szabályokat. A kizárás-olvasat a (4) bekezdést figyelmen kívül hagyja. Az átcsoportosítás és a csere egyaránt a jogutódlási szabályok alá tartozik."
+        },
+        {
+          "text": "Az átadó az átszállást megelőzően köteles tájékoztatni az átvevőt a jogokról és kötelezettségekről.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 90/A. § (2) bekezdése az előzetes tájékoztatást az átadó kötelezettségévé teszi. A tájékoztatás elmaradása az átvevővel szembeni igényérvényesítést nem érinti. A mulasztás tehát nem mentesíti az átvevőt az igények alól."
+        },
+        {
+          "text": "Az (1)–(3) bekezdés szabályait az álláshely-átcsoportosításra és az álláshelycserére is alkalmazni kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 90/A. § (4) bekezdése az 55. § (4) bekezdése szerinti átcsoportosításra, valamint a (4a) és (4b) szerinti álláshelycserére rendeli a jogutódlási szabályokat. A „nem alkalmazható” olvasat a (4) bekezdést tagadja. Az álláshelycsere esetén is az (1)–(3) bekezdés szabályait kell alkalmazni."
+        },
+        {
+          "text": "A tájékoztatás elmaradása megsemmisíti az átvevővel szembeni igényeket.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 90/A. § (2) bekezdése szerint a tájékoztatás elmaradása az igényérvényesítést nem érinti. Az átadó mulasztása nem mentesíti az átvevőt. A megsemmisítés-olvasat a (2) bekezdést sérti."
+        }
+      ],
+      "sourceKerdesSorszam": 40,
+      "sourceHash": "90695c2e85b7"
+    },
+    {
+      "question": "Eset: a kinevezés aláírása után a kormánytisztviselő 20. napon esküt tesz a kijelölt vezető előtt. Megfelel-e a Kit. 87. § (2) bekezdésének?",
+      "options": [
+        {
+          "text": "Nem felel meg, mert az esküt csak a munkáltatói jogkör gyakorlója előtt lehet letenni, kijelölt vezető előtt nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 87. § (2) bekezdése kifejezetten engedi az általa kijelölt vezető előtti eskütételt. A 20. napos időpont a harminc napos határidőn belül van. A kizárólagos személyi olvasat a törvényi választékot szűkíti."
+        },
+        {
+          "text": "Nem felel meg, mert az esküt a kinevezés előtt kell letenni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 87. § (2) bekezdése a kinevezés aláírásától számított harminc napon belüli szóbeli tettességet ír elő. Az eskütétel tehát a kinevezéshez kapcsolódik, nem kell azt kötelezően megelőznie. A Kit. 87. § (1) bekezdése a kinevezéskori kötelezettséget rögzíti: a kötelességek pontos betartására kell esküt tenni."
+        },
+        {
+          "text": "Az eskütételről esküokmányt is alá kell írnia a kormánytisztviselőnek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 87. § (2) bekezdése a szóbeli eskütétel mellett az esküokmány aláírását is előírja. A két elem együtt teljesíti az alakszerűséget. A 20. napon tett szóbeli eskü önmagában még nem pótolja az okmányt, ha az aláírás elmarad."
+        },
+        {
+          "text": "Igen, mert a szóbeli eskütétel a kinevezés aláírásától számított harminc napon belül történt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 87. § (2) bekezdése a harminc napos határidőt a kinevezés aláírásától számítja. A 20. nap ebbe a sávba esik, ezért az időbeli feltétel teljesül. A címzett lehet a munkáltatói jogkör gyakorlója vagy az általa kijelölt vezető, a szóbeli forma pedig kötelező."
+        }
+      ],
+      "sourceKerdesSorszam": 41,
+      "sourceHash": "d61c2c194e1a"
+    },
+    {
+      "question": "Számítás: három hónapnál rövidebb, 60 napos határozott kinevezésnél a Kit. 86. § (10) bekezdése szerint legfeljebb hány napos próbaidő köthető ki?",
+      "options": [
+        {
+          "text": "A próbaidő akár a teljes 60 nap lehet, mert a rövid kinevezésnél nincs felső korlát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 86. § (10) bekezdése kifejezetten a határozott idő felében szabja meg a maximumot. 60 napos kinevezésnél tehát 30 nap a tető. A korlát nélküli olvasat a felező szabályt tagadja."
+        },
+        {
+          "text": "Főszabály szerint legalább három hónap próbaidőt kell kikötni ebben az esetben is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 86. § (7) bekezdés szerinti három–hat hónapos sáv a (10) bekezdés alá tartozó rövid kinevezésre nem érvényesül azonos módon. A (10) bekezdés külön szabályt ad: legfeljebb a határozott idő fele. A három hónapos minimum 60 napos kinevezésnél lehetetlen és törvényellenes lenne."
+        },
+        {
+          "text": "A (8) bekezdés szerint a kikötött próbaidő később nem hosszabbítható meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 86. § (8) bekezdése a meghosszabbítást általánosan tiltja. A 30 napos maximum tehát nem emelhető utóbb 40 napra. A (9) bekezdés alatt a jogviszony indokolás nélkül, azonnali hatállyal megszüntethető."
+        },
+        {
+          "text": "Legfeljebb 30 nap, mert a próbaidő legfeljebb a határozott idő fele lehet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 86. § (10) bekezdése a három hónapnál rövidebb kinevezésnél a felező korlátot állítja fel. 60 napos határozott időnél a próbaidő maximuma 30 nap. A felek megállapodhatnak a kikötésről, de a törvényi maximum kógens, és nem léphető túl."
+        }
+      ],
+      "sourceKerdesSorszam": 42,
+      "sourceHash": "5c80f13fd5df"
+    },
+    {
+      "question": "Eset: Anna belépésére a szerv Mt. 34. § szerinti munkaszerződés-tervezetet készít, és azt mondja: „a Kit. csak a tartalmat adja, a forma szerződéses”. Mely megállapítások helyesek a Kit. 85. § (1) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A kinevezés ellenére a módosítás mindig csak közös megegyezéssel lehetséges, mint az Mt.-ben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 89. § (1) bekezdése a kinevezés egyoldalú módosítását engedi. A kormánytisztviselő védelme a (3) bekezdés szerinti felmentéskérési jog. A konszenzusos Mt.-minta ide nem kötelező."
+        },
+        {
+          "text": "A létesítés az Mt. szerinti munkaszerződéssel történik, a Kit. csak a tartalmi elemeket adja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 85. § (1) bekezdése kinevezést és elfogadást követel. Az Mt. munkaszerződéses létesítése más jogviszony. A Kit. és az Mt. létesítési rendjének összecsúszása tipikus elhatárolási hiba."
+        },
+        {
+          "text": "A kormányzati szolgálati jogviszony kinevezéssel és annak elfogadásával jön létre; mindkettőt írásba kell foglalni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 85. § (1) bekezdése szó szerint rögzíti: „A kormányzati szolgálati jogviszony kinevezéssel és annak elfogadásával jön létre”. A kinevezést és az elfogadást egyaránt írásba kell foglalni. Ez nem Mt. szerinti munkaszerződés; a szerződéses forma a Kit. létesítési rendjét sértené."
+        },
+        {
+          "text": "Eltérő rendelkezés hiányában a jogviszony határozatlan időre és teljes munkaidőre jön létre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 85. § (1) bekezdése a határozatlan időt és a teljes munkaidőt tekinti főszabálynak. Határozott időre is létrehozható a jogviszony. A határozott idő meghatározásának módját a (2) bekezdés szabályozza."
+        }
+      ],
+      "sourceKerdesSorszam": 43,
+      "sourceHash": "271a1bd2c549"
+    },
+    {
+      "question": "A Kit. 86. § (2) bekezdés g) pontja szerint mit kell feltüntetni az álláshelyről a beosztási okiratban?",
+      "options": [
+        {
+          "text": "Álláshelyváltáskor elegendő csak az új azonosítót feltüntetni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 86. § (2) bekezdés g) pontja szerint álláshelyváltáskor a korábbi és az új álláshely azonosítóját egyaránt fel kell tüntetni. A csak új azonosítós megoldás ezért hiányos. A korábbi azonosító a folytonosság és a nyomkövethetőség dokumentálásához kell."
+        },
+        {
+          "text": "Az álláshely besorolását és azonosítóját; álláshelyváltáskor a korábbi és az új azonosítót egyaránt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 86. § (2) bekezdés g) pontja a besorolást és az azonosítót kötelezővé teszi. Álláshelyváltáskor mindkét azonosító megjelenik. Ez a nyomkövethetőséget szolgálja a szervnél."
+        },
+        {
+          "text": "A beosztási okiratban az álláshely azonosítója fakultatív adat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 86. § (2) bekezdés g) pontja a besorolást és az azonosítót a kötelező tartalmi elemek között sorolja. A fakultatív olvasat a taxatív listát enyhíti. A hiányzó azonosító a beosztási okirat hiányossága."
+        },
+        {
+          "text": "A Miniszterelnöki Kormányirodán foglalkoztatottaknál a szerv megnevezése mellett a Kormányiroda és szervezeti egysége is kötelező elem.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 86. § (2) bekezdés d) pontja a Miniszterelnöki Kormányiroda esetén külön megjelölési kötelezettséget ír. A kormányzati igazgatási szerv megnevezése önmagában nem elég. A szervezeti egység megnevezése is kell."
+        }
+      ],
+      "sourceKerdesSorszam": 44,
+      "sourceHash": "643f9d716552"
+    },
+    {
+      "question": "A Kit. 82. § (2) bekezdése szerint mely bűncselekményi körök miatti büntetőeljárás zárja ki a létesítést?",
+      "options": [
+        {
+          "text": "A kizárás a közélet tisztasága elleni, valamint a nemzetközi közélet tisztasága elleni bűncselekmények miatti eljárásra is kiterjed.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 82. § (2) bekezdése az 1978. évi IV. törvény XV. fejezet VII. és VIII. címét is bevonja. A hatályos Btk. XXVII. fejezete szerinti korrupciós bűncselekmények szintén ide tartoznak. A közszolgálati megbízhatóság védelme a cél."
+        },
+        {
+          "text": "A (2) bekezdés csak a gondatlan bűncselekményekre vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 82. § (2) bekezdése meghatározott bűncselekményi köröket nevesít, nem a gondatlansági alakzatot. A gondatlan bűncselekményekhez kapcsolódó külön tilalmi idők a pártfogó felügyelői szabályoknál, az (5) bekezdésben jelennek meg. A (2) bekezdés tárgya a nevesített körök miatti büntetőeljárás hatálya."
+        },
+        {
+          "text": "Többek között az állam elleni, az igazságszolgáltatás elleni, a korrupciós és a hivatali bűncselekmények miatti eljárás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 82. § (2) bekezdése ezeket a Btk.-fejezeteket és a korábbi Btk. megfelelő címeit nevesíti. A kizárás a büntetőeljárás hatálya alatt állókra vonatkozik. A lista a közbizalom elleni bűncselekményeket is magában foglalja."
+        },
+        {
+          "text": "Csak a jogerős elítélés zárja ki a létesítést; a folyamatban lévő eljárás nem akadály.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 82. § (2) bekezdése a büntetőeljárás hatálya alatt állást is kizáró oknak minősíti. A jogerős elítéléshez kapcsolódó tilalmak a (4) bekezdésben külön jelennek meg. A folyamatban lévő eljárás tehát önálló akadály."
+        }
+      ],
+      "sourceKerdesSorszam": 45,
+      "sourceHash": "d0c3162767cf"
+    },
+    {
+      "question": "Eset: próbaidő alatt a kormánytisztviselő indokolás nélkül, azonnali hatállyal meg akarja szüntetni a jogviszonyt; a szerv szerint „csak a munkáltató indokolással szüntethet”, és felmentési időt vár. Mely állítások helytállóak a Kit. 86. § (7) és (9) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Bármelyik fél indokolás nélkül, azonnali hatállyal megszüntetheti a jogviszonyt a próbaidő alatt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 86. § (9) bekezdése az indokolás nélküli, azonnali hatályú megszüntetést mindkét félnek engedi. Ez a próbaidő kipróbálási funkciójához igazodik. A kormánytisztviselői megszüntetés tehát jogszerű lehet a próbaidő alatt."
+        },
+        {
+          "text": "Próbaidő alatt csak a munkáltatói jogkör gyakorlója szüntetheti meg a jogviszonyt, indokolással.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 86. § (9) bekezdése mindkét félnek engedi a megszüntetést, indokolás nélkül. Az egyoldalú, indokolásköteles munkáltatói monopólium tehát téves. A kormánytisztviselő is élhet a (9) bekezdés jogával."
+        },
+        {
+          "text": "A próbaidőt a (7) bekezdés szerint főszabályként legalább három, legfeljebb hat hónapra kell kikötni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 86. § (7) bekezdése a három–hat hónapos sávot írja elő a nevesített kivételek mellett. A (9) bekezdés e sáv alatt adja a könnyített megszüntetést. A főszabályos tartam a (7) bekezdés három–hat hónapos sávja."
+        },
+        {
+          "text": "A próbaidő alatti megszüntetéshez mindig felmentési idő jár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 86. § (9) bekezdése azonnali hatályú megszüntetést enged. A felmentési idő a próbaidő alatti megszüntetésnél nem a (9) bekezdés szerinti jogkövetkezmény. A „mindig jár” olvasat az azonnali hatályt tagadja."
+        }
+      ],
+      "sourceKerdesSorszam": 46,
+      "sourceHash": "956c86534853"
+    }
+  ]
+}

@@ -1,0 +1,765 @@
+{
+  "id": "BXizP8YAfwRDPoksEA05",
+  "sorszam": 12,
+  "cim": "A munkaviszony megszűnése és megszüntetése.",
+  "generationType": "fogalom",
+  "title": "12. A munkaviszony megszűnése és megszüntetése.",
+  "questions": [
+    {
+      "question": "Miben válik el fogalmilag a munkaviszony megszűnése a megszüntetésétől?",
+      "options": [
+        {
+          "text": "A megszűnés és a megszüntetés ugyanaz a joghatás, csak a közlés formájában tér el: mindkettőhöz kötelező a felek írásbeli jognyilatkozata.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megszűnéshez jognyilatkozat nem kell. Az Mt. 63. § (1) bekezdése a halált, a jogutód nélküli megszűnést, a határozott idő lejártát, a hatályon kívül eső átvevőt és a törvényben meghatározott más esetet ipso iure végként rögzíti. A 64. § (1) bekezdése ezzel szemben mindig megszüntető jognyilatkozatot kíván. A tévedés a két alcím stilisztikai összecsúsztatásából ered."
+        },
+        {
+          "text": "Megszűnésnél is kötelező a 64. § (2) bekezdése szerinti világos, valós és okszerű indokolás, mert a viszony vége minden esetben a nyilatkozattevő szándékához kötődik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 64. § (2) bekezdésének indokolási mércéje a megszüntető jognyilatkozatra vonatkozik. Az Mt. 63. § szerinti megszűnésnél nincs indokolási teher és nincs felmondási idő. A vagyoni következményt a 63. § (2) bekezdése és a 77. § a megszűnési okhoz, nem a nyilatkozattevő szándékához köti. A tévedés a megszüntetési indokolási rend ráírása a megszűnésre."
+        },
+        {
+          "text": "Megszűnésnél a vagyoni következmény a megszűnési okhoz kötődik, megszüntetésnél viszont a 64. § (2) bekezdése a világos indokolást, a valóságot, az okszerűséget és a nyilatkozattevő bizonyítási terhét írja elő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a különbség nem stilisztikai, hanem eljárási és vagyoni. Az Mt. 63. § (2) bekezdése és a 77. § a felmentési átalányt, illetve a végkielégítést a megszűnési okhoz köti, nem a nyilatkozattevő szándékához. A 64. § (2) bekezdése szerint az oknak az indokolásból világosan ki kell tűnnie, valóságát és okszerűségét a nyilatkozattevő bizonyítja. Ez az MK 95. számú állásfoglalás ratiojának törvényi rögzítése."
+        },
+        {
+          "text": "A megszűnés a törvény erejénél fogva, a felek megszüntető jognyilatkozata nélkül áll be, míg a megszüntetés mindig jognyilatkozattal — közös megegyezéssel, felmondással vagy azonnali hatályú felmondással — történik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két joghatás dogmatikailag elválasztott. Az Mt. 63. § szerint a viszony a nevesített tényállás megvalósulásának napjával véget ér, indokolási teher és felmondási idő nélkül. A 64. § (1) bekezdése a megszüntetést közös megegyezéshez, felmondáshoz vagy azonnali hatályú felmondáshoz köti. A 85. § (1) bekezdés a) és b) pontja mindkét szakasz e magját abszolút kógenssé teszi."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "90490d1b8b43"
+    },
+    {
+      "question": "Mely esetekben szűnik meg a munkaviszony a 63. § (1) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Az e) pont nyitott záradék: ide tartozik például az MK 13. számú állásfoglalás szerinti, közügyektől eltiltás alá eső munkaviszony jogerőnapi megszűnése.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az e) pont a törvényben meghatározott más eseteket fogadja be. Az MK 13. számú állásfoglalás szerint a közügyektől eltiltott személynek az eltiltás alá eső munkaviszonya a bíróság ítélete jogerőre emelkedésének napjával, azonnali hatállyal szűnik meg. Ez a 63. § (1) bekezdés e) pontja szerinti megszűnés, nem a 64. § szerinti megszüntetés. A mentesítés és a kegyelem e joghatást nem oldja."
+        },
+        {
+          "text": "A 63. § (1) bekezdése a munkáltató és a munkavállaló halálát egyaránt az a) pont alá sorolja, mert mindkét fél személyes köteléke megszűnik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az a) pont kizárólag a munkavállaló halálát nevezi meg. Az Mt. 63. § (1) bekezdés a) pontja szerint a viszony „a munkavállaló halálával” szűnik meg. Magánszemély munkáltató halálánál, ha jogutód nincs, a b) pont — a munkáltató jogutód nélküli megszűnése — az irányadó. A tévedés a két fél személyes kötelékének szimmetrikus olvasatából ered."
+        },
+        {
+          "text": "A felek munkaszerződésben bővíthetik a 63. § (1) bekezdésének listáját új megszűnési tényállással, ha abban megegyeznek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megszűnési lista nem szerződésképes. Az Mt. 85. § (1) bekezdés a) pontja szerint a felek megállapodása vagy a kollektív szerződés a 63. § (1) bekezdésében foglaltaktól nem térhet el. Sem szűkíteni, sem tágítani nem lehet a taxatív, e) ponttal nyitott listát. A tévedés a relatív kógencia — a 63. § (2)–(3) bekezdésére vonatkozó — ráírása az abszolút zár alá eső (1) bekezdésre."
+        },
+        {
+          "text": "A viszony megszűnik a munkavállaló halálával, a munkáltató jogutód nélküli megszűnésével, a határozott idő lejártával, a (3) bekezdés szerinti hatályon kívül eső átvevővel, valamint törvényben meghatározott más esetben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a lista taxatív, de az e) ponttal nyitott. Az Mt. 63. § (1) bekezdése szerint: „A munkaviszony megszűnik a) a munkavállaló halálával, b) a munkáltató jogutód nélküli megszűnésével, c) a határozott idő lejártával, d) a (3) bekezdésben meghatározott esetben, e) törvényben meghatározott más esetben.” Jognyilatkozat e tényállásokhoz nem kell. A 85. § (1) bekezdés a) pontja a listát a felek és a kollektív szerződés elől is elzárja."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "317012488ae8"
+    },
+    {
+      "question": "Mi a jogutód nélküli megszűnés és a gazdasági egység átvétele közötti fogalmi elhatárolás a 63. § rendszerében?",
+      "options": [
+        {
+          "text": "A 63. § (1) bekezdés b) pontja a jogutódlással járó átszervezést is megszűnésnek minősíti, mert a munkáltató személye változik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a b) pont a jogutód nélküli megszűnést kívánja. Az Mt. 63. § (1) bekezdés b) pontja szerint a viszony a munkáltató jogutód nélküli megszűnésével ér véget. Jogutódlásnál a viszony — a (3) bekezdés kivételével — fennmarad. A tévedés a munkáltató személyében bekövetkező változás és a jogutód nélküli megszűnés összekeveréséből ered."
+        },
+        {
+          "text": "A (3) bekezdés szerinti átvételnél a viszony akkor szűnik meg, ha a 36. § (1) bekezdése szerinti jogügylet vagy jogszabály alapján átvevő munkáltató nem az Mt. hatálya alá tartozik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a d) pont a (3) bekezdésre utal mint megszűnési tényállás. Az Mt. 63. § (3) bekezdése szerint: „Megszűnik a munkaviszony, ha a 36. § (1) bekezdése szerint jogügylet vagy jogszabály rendelkezése alapján a gazdasági egységet átvevő munkáltató nem e törvény hatálya alá tartozik.” A viszony nem alakul át más jogállássá, hanem a 63. § szerint véget ér. A (2) bekezdés szerinti felmentési átalány és a 77. § (1) bekezdés c) pontja szerinti végkielégítés e megszűnéshez is kapcsolódhat."
+        },
+        {
+          "text": "Ha az átvevő közszolgálati vagy más, az Mt.-n kívüli jogállású, a munkaviszony a 63. § alapján átalakul az átvevő jogállásává, és nem szűnik meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatályon kívül eső átvevőnél a viszony megszűnik, nem alakul át. Az Mt. 63. § (3) bekezdése a megszűnést ahhoz köti, hogy az átvevő nem e törvény hatálya alá tartozik. A 63. § nem rendeli a munkaviszony más jogállássá alakítását, hanem a viszony végét állapítja meg. A tévedés a munkáltatói jogutódlás fennmaradási főszabályának ráírása a hatályon kívüli átvevő esetére."
+        },
+        {
+          "text": "Jogutódlásnál a munkaviszony — a (3) bekezdés kivételével — fennmarad, míg a munkáltató jogutód nélküli megszűnése a 63. § (1) bekezdés b) pontja szerinti ipso iure vég.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a b) pont a szervezeti megszűnés napján hatályosul, jognyilatkozat nélkül. Az Mt. 63. § (1) bekezdés b) pontja a munkáltató jogutód nélküli megszűnését nevezi meg. Jogutódlásnál a viszony főszabály szerint fennmarad. Kivétel a (3) bekezdés: ha az átvevő nem e törvény hatálya alá tartozik, a viszony nem alakul át, hanem megszűnik."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "93a88570f9ff"
+    },
+    {
+      "question": "Milyen vagyoni következményt rendel a 63. § (2) bekezdése a b) vagy d) pont szerinti megszűnéshez?",
+      "options": [
+        {
+          "text": "A 63. § (2) bekezdése szerinti felmentési átalány a határozott idő lejárta — a c) pont — esetén is jár, mert minden megszűnésnél a felmondási felmentés mércéje irányadó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés csak a b) és a d) pontot nevezi meg. Az Mt. 63. § (2) bekezdése szerint az összeg akkor illeti a munkavállalót, ha a viszony az (1) bekezdés b) vagy d) pontja alapján szűnik meg. A c) pont — a határozott idő lejárta — e vagyoni szabályból kiesik. A tévedés a felmentési mérce kiterjesztése valamennyi megszűnési alakzatra."
+        },
+        {
+          "text": "A munkavállalót a munkáltatói felmondásnál meghatározott felmentési tartamra járó távolléti díjnak megfelelő összeg illeti, ha a viszony a munkáltató jogutód nélküli megszűnése vagy a (3) bekezdés szerinti átvétel alapján szűnik meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szabály a felmentést mint számítási mércét emeli át oda, ahol felmondás és felmentés nincs. Az Mt. 63. § (2) bekezdése szerint a munkavállalót a felmondás esetén meghatározott munkavégzés alóli felmentés idejére járó távolléti díjnak megfelelő összeg illeti, ha a viszony az (1) bekezdés b) vagy d) pontja alapján szűnik meg. A kivétel kettős: ha a felmentés tartamára munkabér nem járna, vagy jogszabály másképp rendelkezik. A 77. § (1) bekezdése a végkielégítést ugyanezen megszűnési jogcímeknél is megnyitja, így a két összeg párhuzamosan merülhet fel."
+        },
+        {
+          "text": "A felmentési átalány csak akkor jár, ha a felek a munkaszerződésben kifejezetten kikötötték, mert a 63. § (2) bekezdése diszpozitív.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés törvényi vagyoni következmény, nem szerződéses kikötés. Az Mt. 63. § (2) bekezdése a b) vagy d) pont szerinti megszűnéshez rendeli a felmentési távolléti díjnak megfelelő összeget. A 85. § (2) bekezdés b) pontja szerint a kollektív szerződés ettől csak a munkavállaló javára térhet el, tehát emelheti, de a jogcím magától a törvényből ered. A tévedés a diszpozitív olvasat ráírása a relatív kógens szabályra."
+        },
+        {
+          "text": "A (2) bekezdés nem a megszűnés tényét, hanem a vagyoni következményt szabályozza, és a felmentési átalány a 77. § szerinti végkielégítéstől elválik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két vagyoni jogcím párhuzamosan is felmerülhet. Az Mt. 63. § (2) bekezdése a felmentési távolléti díjnak megfelelő összeget a b) és a d) ponthoz köti. A 77. § (1) bekezdése a végkielégítést a munkáltatói felmondás, a jogutód nélküli megszűnés és a 63. § (1) bekezdés d) pontja esetére nyitja meg. A jogutód nélküli megszűnésnél a felmentési átalány a 77. § (5) bekezdésének végkielégítési tilalmától függetlenül is járhat, ha a felmentési tartamra egyébként munkabér járna."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "004e8e100cb7"
+    },
+    {
+      "question": "Milyen tájékoztatási kötelezettség terheli az átadót a 63. § (3)–(4) bekezdése szerinti megszűnésnél?",
+      "options": [
+        {
+          "text": "Az átadó legkésőbb a munkaviszony megszűnését megelőzően tizenöt nappal köteles az érintett munkavállalót írásban tájékoztatni a megszűnés időpontjáról vagy tervezett időpontjáról és a megszűnés indokáról.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tájékoztatás tartalma és határideje zárt. Az Mt. 63. § (4) bekezdése szerint: „A (3) bekezdés szerinti esetben az átadó legkésőbb a munkaviszony megszűnését megelőzően tizenöt nappal köteles az érintett munkavállalót írásban tájékoztatni a megszűnés időpontjáról vagy tervezett időpontjáról és a megszűnés indokáról.” A kötelezettség az átadót terheli, nem az átvevőt. Az Mt. 85. § (1) bekezdés a) pontjának abszolút zárja az (1) bekezdésre vonatkozik; a (4) bekezdés a (2)–(3) bekezdés relatív kógenciáján kívül esik."
+        },
+        {
+          "text": "A 85. § (1) bekezdés a) pontja a 63. § (4) bekezdését is abszolút zár alá vonja, ezért a tájékoztatási kötelezettség a 63. § (1) bekezdésével azonos kógens körbe tartozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 85. § (1) bekezdés a) pontja csak a 63. § (1) bekezdését zárja. Az Mt. 85. § (1) bekezdés a) pontja a 63. § (1) bekezdésében foglaltaktól nem enged eltérést; a (2) bekezdés b) pontja csak a 63. § (2)–(3) bekezdésétől enged a munkavállaló javára kollektív szerződéses eltérést. A (4) bekezdés e két listán kívül esik. A tévedés a (4) bekezdés belesorolása az (1) bekezdés abszolút zárjába."
+        },
+        {
+          "text": "A tájékoztatási határidő harminc nap, és a tájékoztatás szóban is teljesíthető, ha a munkavállaló azt tudomásul veszi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határidő tizenöt nap, a forma írásbeli. Az Mt. 63. § (4) bekezdése a megszűnést megelőzően legkésőbb tizenöt nappal, írásban kötelezi az átadót. A közlés tárgya a megszűnés időpontja vagy tervezett időpontja és a megszűnés indoka. A tévedés a határidő és a forma lazításából ered."
+        },
+        {
+          "text": "A (4) bekezdés a (3) bekezdéshez kapcsolódik: csak akkor alkalmazandó, ha a gazdasági egységet átvevő munkáltató nem az Mt. hatálya alá tartozik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tájékoztatás a hatályon kívül eső átvevő miatti megszűnés eljárási következménye. Az Mt. 63. § (3) bekezdése a megszűnést az átvevő hatályon kívül eséséhez köti. A (4) bekezdés kifejezetten „a (3) bekezdés szerinti esetben” rendeli a tizenöt napos, írásbeli tájékoztatást. A közlésnek tartalmaznia kell az időpontot vagy a tervezett időpontot és a megszűnés indokát."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "934ff02c3fbe"
+    },
+    {
+      "question": "Mely alakzatokkal szüntethető meg a munkaviszony a 64. § (1) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A közös megegyezés egyoldalú munkáltatói jognyilatkozat, amelyhez a munkavállaló utólagos elfogadása nem szükséges.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közös megegyezés kétoldalú megállapodás. Az Mt. 64. § (1) bekezdés a) pontja a közös megegyezést a megszüntetés alakzataként nevezi meg, tartalma — a 85. § (1) bekezdés b) pontjának korlátai között — a feleké. Az egyoldalú megszüntetés a felmondás vagy az azonnali hatályú felmondás. A tévedés a közös megegyezés és az egyoldalú jognyilatkozat összekeveréséből ered."
+        },
+        {
+          "text": "A 85. § (1) bekezdés b) pontja a megszüntetési alakzatokat és az indokolási rendet egyaránt elzárja a felek megállapodása és a kollektív szerződés elől.",
+          "isCorrect": true,
+          "rationale": "IGAZ, sem negyedik alakzat, sem az indokolási mérce elengedése nem szerződésképes. Az Mt. 85. § (1) bekezdés b) pontja szerint a felek megállapodása vagy a kollektív szerződés a 64. §-ban foglaltaktól nem térhet el. Ez kiterjed az (1) bekezdés alakzatlistájára és a (2) bekezdés világossági, valósági és okszerűségi követelményére is. A szerződéses autonómia tehát e ponton nem nyit új megszüntetési jogcímet."
+        },
+        {
+          "text": "A munkaviszony megszüntethető közös megegyezéssel, felmondással vagy azonnali hatályú felmondással; más egyoldalú vagy megállapodásos cím a viszony végét e szakasz szerint nem viseli.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a megszüntetésnek csak három törvényi alakzata van. Az Mt. 64. § (1) bekezdése szerint: „A munkaviszony megszüntethető a) közös megegyezéssel, b) felmondással, c) azonnali hatályú felmondással.” A közös megegyezés kétoldalú megállapodás, a felmondást a 65. § mindkét félnek megnyitja, az azonnali hatályú felmondást a 78. § tölti ki. Az Mt. 85. § (1) bekezdés b) pontja a 64. § alakzatait és indokolási rendjét a felek és a kollektív szerződés elől egyaránt elzárja."
+        },
+        {
+          "text": "A felek munkaszerződésben negyedik megszüntetési alakzatot — például „megállapodásos azonnali hatályú közös felmondást” — is beiktathatnak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a három alakzat abszolút zárt. Az Mt. 64. § (1) bekezdése csak a közös megegyezést, a felmondást és az azonnali hatályú felmondást nevezi meg. A 85. § (1) bekezdés b) pontja szerint a felek megállapodása a 64. §-tól nem térhet el. A tévedés a szerződéses autonómia ráírása az abszolút kógens alakzatlistára."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "88bf0c9db039"
+    },
+    {
+      "question": "Mit követel meg a 64. § (2) bekezdése a megszüntető jognyilatkozat indokolásától?",
+      "options": [
+        {
+          "text": "Az oknak az indokolásból világosan ki kell tűnnie, az indok valóságát és okszerűségét pedig a nyilatkozattevő bizonyítja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a bekezdés három követelményt zár egybe. Az Mt. 64. § (2) bekezdése szerint: „A megszüntetés okának az indokolásból világosan ki kell tűnnie. A megszüntető jognyilatkozat indokának valóságát és okszerűségét a nyilatkozattevő bizonyítja.” Nem elég a jogcím puszta megnevezése: az MK 95. számú állásfoglalás II. pontja szerint a konkrét tényeknek és körülményeknek felismerhetőnek kell lenniük. A bizonyítási teher a nyilatkozattevőn van."
+        },
+        {
+          "text": "Elegendő a felmondási jogcím puszta megnevezése — például „működési ok” —, mert a világosság csak az indokolási kötelesség meglétét követeli, tartalmi részletezést nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jogcím puszta megnevezése nem elég. Az Mt. 64. § (2) bekezdése szerint az oknak az indokolásból világosan ki kell tűnnie. Az MK 95. számú állásfoglalás II. pontja szerint világos az indokolás, ha a munkáltató megjelölte azokat a konkrét tényeket, illetve körülményeket, amelyekre a felmondást alapította. A tévedés a világosság üres, címkeszerű olvasatából ered."
+        },
+        {
+          "text": "A megszüntetés indokának valóságát és okszerűségét mindig a munkavállalónak kell cáfolnia, mert a nyilatkozat vélelmezetten jogszerű.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bizonyítási teher a nyilatkozattevőn van. Az Mt. 64. § (2) bekezdése második mondata szerint a megszüntető jognyilatkozat indokának valóságát és okszerűségét a nyilatkozattevő bizonyítja. Munkáltatói felmondásnál ez a munkáltató; az MK 95. számú állásfoglalás III. pontja szerint új, a közlésben nem szereplő okot utóbb bizonyítani nem lehet. A tévedés a bizonyítási teher megfordításából ered."
+        },
+        {
+          "text": "A valóság azt jelenti, hogy a tényeknek meg nem felelő indok eleve kiesik; az okszerűség azt, hogy a valós indokból következnie kell: a munkavállaló munkájára a továbbiakban nincs szükség.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két mérce elválik, és mindkettő kötelező. Az MK 95. számú állásfoglalás I. pontja szerint a tényeknek meg nem felelő indokolás esetén a felmondás eleve nem fogadható el. A valós indoknak egyszersmind okszerűnek is kell lennie: ebből kell következnie, hogy a munkavállaló munkájára a továbbiakban nincs szükség. A 64. § (2) bekezdése ezt a mércét törvényi szabállyá emeli."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "4a4de772e716"
+    },
+    {
+      "question": "Mikor jár a 64. § (3)–(4) bekezdése szerinti, kérelemre adandó indokolás indokolási kötelesség hiányában is?",
+      "options": [
+        {
+          "text": "A kérelemre adandó indokolás határideje harminc nap, és a munkáltató szóban is teljesíthet, ha a munkavállaló azt elfogadja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, mindkét határidő tizenöt nap, és a forma írásbeli. Az Mt. 64. § (4) bekezdése a munkavállaló kérelmét és a munkáltató válaszát egyaránt tizenöt napos, írásbeli határidőhöz köti. A 25. § (6) bekezdése a postára adás kedvezményét e határidőre is kiterjeszti. A tévedés a határidő és a forma lazításából ered."
+        },
+        {
+          "text": "Ha a munkavállaló arra hivatkozik, hogy a megszüntetés a munkaidő-kedvezmény, az apasági vagy a szülői szabadság, a gyermek gondozása céljából igénybe vett fizetés nélküli szabadság, vagy a 61. § (2) és (4) bekezdése szerinti kérelem miatt történt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés zárt védett listát ad. Az Mt. 64. § (3) bekezdése a munkáltatót — a munkavállaló kérelmére — indokolási kötelesség hiányában is a (2) bekezdés szerint megindokolni kötelezi, ha a munkavállaló a megszüntetést az a)–e) pont szerinti védett távolléthez vagy kérelemhez köti. Így a 66. § (9) bekezdése szerinti, nyugdíjasnak minősülő munkavállaló indokolás nélküli felmondásánál is járhat. A lista és a 65. § (3) bekezdésének felmondási tilalma részben fedi egymást, de nem azonos."
+        },
+        {
+          "text": "A munkavállaló a jognyilatkozat közlésétől számított tizenöt napon belül írásban kérheti az indokolást, a munkáltató pedig a kérelem kézhezvételétől számított tizenöt napon belül írásban közli azt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, két egymást követő tizenöt napos, írásbeli határidő áll. Az Mt. 64. § (4) bekezdése szerint a munkavállaló a (3) bekezdés szerinti jognyilatkozat indokolását annak közlésétől számított tizenöt napon belül írásban kérheti, a munkáltató a kérelem kézhezvételétől számított tizenöt napon belül írásban közli. A 25. § (6) bekezdése e határidőt akkor is megtartottnak rendeli, ha a jognyilatkozatot legkésőbb a határidő utolsó napján postára adják. A 64. § (4) bekezdése a mulasztás kimentését nem tartalmazza."
+        },
+        {
+          "text": "A 64. § (3) bekezdése azonos a 65. § (3) bekezdésének felmondási tilalmával: mindkettő magát a munkáltatói felmondást zárja ki a védett távollétek alatt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két szabály funkciója elválik. Az Mt. 64. § (3) bekezdése az indokolási kötelesség hiányában is kérelemre adandó indokolást nyitja meg. A 65. § (3) bekezdése magát a munkáltatói felmondást zárja ki a várandósság, a szülési, az apasági és a szülői szabadság, valamint a többi nevesített védett időszak alatt. A tévedés a két, részben átfedő lista azonossá olvasásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "5eb62334dd73"
+    },
+    {
+      "question": "Hogyan oszlik meg a 85. § szerinti abszolút és relatív kógencia a X. fejezetben?",
+      "options": [
+        {
+          "text": "A kollektív szerződés a 63. § (1) bekezdésének megszűnési listáját a munkavállaló javára bővítheti, mert a relatív kógencia a teljes 63. §-ra kiterjed.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (1) bekezdés abszolút zár alatt áll. Az Mt. 85. § (1) bekezdés a) pontja a 63. § (1) bekezdését a felek és a kollektív szerződés elől elzárja. A 85. § (2) bekezdés b) pontja csak a (2)–(3) bekezdéstől enged a munkavállaló javára eltérést. A tévedés a relatív kógencia kiterjesztése az abszolút zár alá eső listára."
+        },
+        {
+          "text": "A 85. § (2) bekezdés b) pontja a 63. § (2)–(3) bekezdésétől csak a munkavállaló javára enged kollektív szerződéses eltérést; a felmentési átalány tehát emelhető, az (1) bekezdés tényállásai nem.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a relatív kógencia egyirányú. Az Mt. 85. § (2) bekezdés b) pontja a 63. § (2)–(3) bekezdésétől csak a munkavállaló javára enged eltérést. A (2) bekezdés szerinti felmentési átalány kollektív szerződésben tehát emelhető. Az (1) bekezdés tényállásai viszont a 85. § (1) bekezdés a) pontja szerinti abszolút zár alatt állnak, ezért a KSZ azokat nem módosíthatja."
+        },
+        {
+          "text": "A 85. § (1) bekezdés a) és b) pontja a 63. § (1) bekezdését és a 64. § egészét, a c) pont a 82. § (1) bekezdését a felek és a kollektív szerződés elől egyaránt elzárja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az abszolút zár kétirányú: sem szűkíteni, sem tágítani nem lehet. Az Mt. 85. § (1) bekezdése szerint a felek megállapodása vagy a kollektív szerződés a 63. § (1) bekezdésében, a 64. §-ban és a 82. § (1) bekezdésében foglaltaktól nem térhet el. A megszűnési lista, a megszüntetési alakzatok, az indokolási rend és a jogellenes megszüntetés kártérítési alapnormája tehát nem szerződésképes. A 82. § (2) bekezdésének tizenkéthavi plafonja már nincs ebben a zárban."
+        },
+        {
+          "text": "A 82. § (1) bekezdésének kártérítési alapnormájától a munkaszerződés szabadon eltérhet, ha a felek abban megegyeznek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jogellenes megszüntetés kártérítési alapnormája nem engedhető el. Az Mt. 85. § (1) bekezdés c) pontja szerint a felek megállapodása vagy a kollektív szerződés a 82. § (1) bekezdésében foglaltaktól nem térhet el. A munkáltató a jogellenes megszüntetéssel okozott kár megtérítésére kötelezett marad. A tévedés a (2) bekezdés plafonjának diszpozitív olvasatát írja rá az (1) bekezdés alapnormájára."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "e5861dc6e010"
+    },
+    {
+      "question": "Mit rögzít az MK 13. számú állásfoglalás a közügyektől eltiltás alá eső munkaviszonyról?",
+      "options": [
+        {
+          "text": "A mentesítés és a kegyelem a megszűnés joghatását nem oldja: ezekben az esetekben nem téves elítélés történt, és a mentesítés a munkaviszonyra nem hat ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogerőnapi megszűnés végleges marad. Az MK 13. számú állásfoglalás szerint az eltiltás hatálya alá eső viszony azonnali hatályú megszűnésén nem változtat, ha az elítéltet az elítéltetés következményei alól mentesítik, vagy ha kegyelemben részesül. Az Mt. 63. § (1) bekezdés e) pontja szerinti megszűnés tehát a mentesítéssel sem éled fel. Ha a munkáltató a jogerőről később szerez tudomást, és a nevezettet tovább foglalkoztatja, a jogerőt követően fennállott viszony érvénytelenségére vonatkozó szabályokat kell alkalmazni."
+        },
+        {
+          "text": "A közügyektől eltiltás a munkaviszonyt a 64. § (1) bekezdés c) pontja szerinti azonnali hatályú felmondással szünteti meg, ezért indokolási kötelezettség is terheli a munkáltatót.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a joghatás megszűnés, nem megszüntetés. Az MK 13. számú állásfoglalás a viszonyt az Mt. 63. § (1) bekezdés e) pontja szerinti, törvényben meghatározott más megszűnési esetkörbe sorolja. A jogerő napjával, azonnali hatállyal szűnik meg, jognyilatkozat nélkül. A tévedés az azonnali hatályú felmondás és az ipso iure megszűnés összekeveréséből ered."
+        },
+        {
+          "text": "A közügyektől eltiltott személynek az eltiltás alá eső munkaviszonya a bíróság ítélete jogerőre emelkedésének napjával, azonnali hatállyal szűnik meg, a 63. § (1) bekezdés e) pontja szerinti törvényben meghatározott más esetként.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ez ipso iure megszűnés, nem a 64. § szerinti megszüntetés. Az MK 13. számú állásfoglalás a közügyektől eltiltás alá eső viszonyt a 63. § (1) bekezdés e) pontjába sorolja. A jogerővel a terhelt elveszti azokat az állásokat és megbízatásokat, amelyek elnyerését az eltiltás kizárja. Az eltiltás tartama a jogerővel kezdődik."
+        },
+        {
+          "text": "Ha az elítéltet később mentesítik vagy kegyelemben részesítik, a munkaviszony a jogerő napjára visszamenőleg helyreáll.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mentesítés és a kegyelem a megszűnést nem oldja. Az MK 13. számú állásfoglalás szerint ezekben az esetekben nem téves elítélés történt, és a mentesítés a munkaviszonyra nem hat ki. Az Mt. 63. § (1) bekezdés e) pontja szerinti jogerőnapi megszűnés tehát helyreállítás nélkül marad; a jogerő utáni továbbfoglalkoztatásnál az érvénytelenség szabályai irányadók. A tévedés a büntetőjogi mentesítés munkajogi helyreállító hatásának feltételezéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "fdc12f9e490b"
+    },
+    {
+      "question": "Mit jelent az MK 95. számú állásfoglalás I. pontja szerinti valóság és okszerűség a felmondás indokolásánál?",
+      "options": [
+        {
+          "text": "Az I. b) pont a méltányosságot elzárja: a jogszerű munkáltatói felmondást pusztán az eset méltányosságot igénylő körülményei alapján nem lehet hatálytalanítani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a méltányossági felülbírálat a jogszerű felmondásnál nem nyílik meg. Az MK 95. számú állásfoglalás I. b) pontja szerint a jogszerű felmondás nem hatálytalanítható pusztán méltányossági alapon. Az Mt. 64. § (2) bekezdése a valóság és az okszerűség vizsgálatát írja elő, nem a méltányossági korrekciót. Átszervezésre alapított felmondásnál nem vizsgálható, hogy az átszervezés célszerű volt-e, és az sem, hogy a munkáltató miért az érintett, s miért nem az azonos munkakört betöltő más munkavállaló viszonyát szüntette meg."
+        },
+        {
+          "text": "A bíróság a jogszerű felmondást a munkavállaló személyes körülményeire tekintettel méltányosságból hatálytalaníthatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a méltányossági hatálytalanítás el van zárva. Az MK 95. számú állásfoglalás I. b) pontja szerint a jogszerű munkáltatói felmondást pusztán az eset méltányosságot igénylő körülményei alapján nem lehet hatálytalanítani. Az Mt. 64. § (2) bekezdése a világosság, a valóság és az okszerűség mércéjét rögzíti, méltányossági korrekció nélkül. A tévedés a méltányossági felülbírálat feltételezéséből ered."
+        },
+        {
+          "text": "A tényeknek meg nem felelő indokolás esetén a felmondás eleve nem fogadható el; a valós indoknak egyszersmind okszerűnek is kell lennie, mert ebből kell következnie, hogy a munkavállaló munkájára a továbbiakban nincs szükség.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két mérce konjunktív. Az MK 95. számú állásfoglalás I. pontja a valóságot és az okszerűséget elválasztja: a tényszerűen fennálló, de okszerűtlen indok sem elegendő. Példa: a megelőző évi többszöri betegség nem okszerű indoka a már egészséges, feladatait kifogástalanul ellátó munkavállaló felmondásának. A 64. § (2) bekezdése ugyanezt a mércét törvényi szabállyá emeli."
+        },
+        {
+          "text": "Elegendő, ha az indok tényszerűen fennáll; az okszerűség vizsgálata a bíróság hatáskörén kívül esik, mert az a munkáltató vezetési döntése.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a valós indoknak okszerűnek is kell lennie. Az MK 95. számú állásfoglalás I. pontja szerint nem elég az az egyébként tényszerűen fennálló indok, amelyből nem következik, hogy a munkavállaló munkájára a továbbiakban nincs szükség. Az Mt. 64. § (2) bekezdése szerint a megszüntető jognyilatkozat indokának valóságát és okszerűségét a nyilatkozattevő bizonyítja. A tévedés a valóság és az okszerűség szétválasztásának elhagyásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "dfbbdd67d300"
+    },
+    {
+      "question": "Mit követel az MK 95. számú állásfoglalás II. pontja a felmondás indokolásának világosságától?",
+      "options": [
+        {
+          "text": "Nem világos a tartalmatlan, közhelyszerű formula — például hogy a munkavállaló nem felelt meg a személyéhez fűzött várakozásoknak —, és a munkaköri alkalmatlanság puszta hivatkozása sem elég konkrét körülmény nélkül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a címkeszerű indokolás elbukik. Az MK 95. számú állásfoglalás II. pontja szerint nem világos, ha a közlés csak várakozásokról, más elképzelésekről vagy vezetői hiányosságokról beszél közelebbi tény nélkül. Az Mt. 64. § (2) bekezdése szerint az oknak az indokolásból világosan ki kell tűnnie. Elegendő viszont annak előadása, hogy az anyagkönyvelő rendszeresen elemi számítási hibákat követ el; nem szükséges az egyes esetek időpont szerinti teljes ismertetése."
+        },
+        {
+          "text": "A „nem felelt meg a személyéhez fűzött várakozásoknak” formula önmagában világos indokolás, mert a magatartási ok tárgykörét megjelöli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, ez a formula tartalmatlan közhely. Az MK 95. számú állásfoglalás II. pontja szerint nem világos, ha a munkáltató csak a személyéhez fűzött várakozásokról vagy más elképzelésekről beszél. Az Mt. 64. § (2) bekezdése szerint az oknak az indokolásból világosan ki kell tűnnie, konkrét tényekkel. A tévedés a tárgykör-megjelölés és a világos tényközlés azonosításából ered."
+        },
+        {
+          "text": "Világos az indokolás, ha a munkáltató megjelölte azokat a konkrét tényeket, illetve körülményeket, amelyekre a felmondást alapította; a cél, hogy a munkavállaló ellenőrizhesse a tényeket, és felkészülhessen a munkaügyi jogvitára.",
+          "isCorrect": true,
+          "rationale": "IGAZ, nem a részletező vagy az összefoglaló forma a döntő. Az MK 95. számú állásfoglalás II. pontja szerint a közöltekből megállapíthatónak kell lennie: miért nincs a továbbiakban szükség a munkavállaló munkájára. Világos például a három, rövid időközönként ismétlődő italos állapot leírása, és világos a „munkaidő alatt rendszeresen italozott” összefoglalás is. A 64. § (2) bekezdése ugyanezt a világossági követelményt rögzíti."
+        },
+        {
+          "text": "A világosság csak akkor teljesül, ha a munkáltató az egyes esetek időpontját, helyét és tanúit egyenként felsorolja; az összefoglaló formula mindig elégtelen.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az összefoglaló formula is lehet világos. Az MK 95. számú állásfoglalás II. pontja szerint nem a részletező vagy az összefoglaló forma a döntő, hanem az, hogy a közöltekből megállapítható legyen a további foglalkoztatás szükségtelensége. Az Mt. 64. § (2) bekezdése a világos kitűnést követeli, nem a teljes kronológiát. A „munkaidő alatt rendszeresen italozott” összefoglalás is világos lehet."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "a598b4ad5b60"
+    },
+    {
+      "question": "Milyen keretet szab az MK 95. számú állásfoglalás III. pontja a felmondás indokának bizonyítására?",
+      "options": [
+        {
+          "text": "Új ok csak újabb munkáltatói felmondás alapján, újabb jogvitában hozható fel; a már közölt felmondás jogosságát nem lehet utólag más indokra átültetni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közölt indokolás rögzíti a bizonyítás tárgyát. Az MK 95. számú állásfoglalás III. pontja szerint a munkáltató a felmondás jogosságát nem alapíthatja olyan új okra, amelyet az írásbeli felmondásban nem közölt. Az Mt. 64. § (2) bekezdése szerint az indok valóságát és okszerűségét a nyilatkozattevő bizonyítja. A kereten belüli kiegészítés megengedett, a kereten kívüli csere nem."
+        },
+        {
+          "text": "A bizonyítási teher a munkavállalón van: neki kell cáfolnia a közölt indok valóságát és okszerűségét.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a teher a nyilatkozattevőé. Az Mt. 64. § (2) bekezdése szerint a megszüntető jognyilatkozat indokának valóságát és okszerűségét a nyilatkozattevő bizonyítja. Az MK 95. számú állásfoglalás III. pontja ezt munkáltatói felmondásnál a munkáltatóra telepíti. A tévedés a bizonyítási teher megfordításából ered."
+        },
+        {
+          "text": "Vita esetén a felmondás indokának valóságát és okszerűségét a munkáltatónak kell bizonyítania, de a bizonyítás nem lépheti túl a felmondásban közölt indokolás kereteit.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a teher és a keret együtt érvényesül. Az MK 95. számú állásfoglalás III. pontja szerint a munkaügyi jogvitában helye van az indokolást kiegészítő, azt alátámasztó további tények bizonyításának, ha azok az indokolás keretein belül maradnak. Új okot, amelyet az írásbeli felmondásban nem közöltek, utóbb felhozni nem lehet. Az Mt. 64. § (2) bekezdése ezt a terhet a nyilatkozattevőre telepíti."
+        },
+        {
+          "text": "A munkáltató a perben szabadon bizonyíthat bármely, utóbb felmerült működési okot, ha az a felmondás közlésekor is fennállt, akár a közlésben nem szerepelt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az új ok utólagos bizonyítása tilos. Az MK 95. számú állásfoglalás III. pontja szerint a bizonyítás nem lépheti túl a felmondásban közölt indokolás kereteit. Az Mt. 64. § (2) bekezdése a nyilatkozattevőre telepíti a valóság és az okszerűség bizonyítását a közölt indok vonatkozásában. A tévedés a kereten belüli kiegészítés és a kereten kívüli új ok összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "8164f0c546de"
+    },
+    {
+      "question": "Mikor állapítható meg a felmondás jogellenessége az MK 95. számú állásfoglalás IV. pontja szerint, ha a közlés egyébként szabályszerű?",
+      "options": [
+        {
+          "text": "A szabályszerűen közölt felmondás tartalmi vizsgálata tilos: ha a formai kellékek megvannak, a felmondás mindig jogszerű.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a formai szabályszerűség nem zárja ki a rendeltetésellenességet. Az MK 95. számú állásfoglalás IV. pontja szerint a megszabott módon közölt felmondás esetén is megállapítható a jogellenesség, ha a jogot nem rendeltetésének megfelelően gyakorolták. Az Mt. 82. § (1) bekezdése a jogellenes megszüntetés kártérítési következményét rögzíti. A tévedés a közlés formai szabályszerűségének abszolutizálásából ered."
+        },
+        {
+          "text": "Ha a munkavállaló a munkáltatóval vagy a viszonnyal összefüggésben, a jogszabályok keretei között véleményt nyilvánított, és a körülmények arra mutatnak, hogy a vele közölt — egyébként szabályszerű — felmondás ezzel függ össze, a felmondás jogellenes.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a véleménynyilvánítás elfojtása rendeltetésellenes. Az MK 95. számú állásfoglalás IV. pontja ezt kifejezetten nevesíti. Az Mt. 83. § (1) bekezdés a) pont ab) alpontja a helyreállítást a joggal való visszaélés tilalmába ütköző megszüntetéshez köti. A 82. § (1) bekezdése pedig a kártérítési jogkövetkezményt nyitja meg."
+        },
+        {
+          "text": "Akkor is, ha a munkáltató a felmondás jogát nem rendeltetésének megfelelően gyakorolta — különösen, ha a felmondás a munkavállaló jogos érdekének csorbítására, zaklatására vagy véleménynyilvánításának elfojtására irányult, vagy erre vezetett.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendeltetésszerű joggyakorlás a felmondásra is kiterjed. Az MK 95. számú állásfoglalás IV. pontja szerint a megszabott módon közölt felmondás esetén is meg kell állapítani a jogellenességet, ha a joggyakorlás rendeltetésellenes. Az Mt. 82. § (1) bekezdése a jogellenes megszüntetéssel okozott kár megtérítésére kötelezi a munkáltatót. A 83. § (1) bekezdés a) pont ab) alpontja a helyreállítást a joggal való visszaélés tilalmába ütköző megszüntetéshez köti."
+        },
+        {
+          "text": "A véleménynyilvánítással összefüggő felmondás csak akkor jogellenes, ha a munkáltató az indokolásban kifejezetten a véleményt jelölte meg okként.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a körülményekből levonható összefüggés is elég. Az MK 95. számú állásfoglalás IV. pontja szerint akkor is jogellenes a felmondás, ha a körülmények arra mutatnak, hogy a szabályszerű közlés a véleménynyilvánítással függ össze. Az Mt. 83. § (1) bekezdés a) pont ab) alpontja a joggal való visszaélés tilalmába ütköző megszüntetésnél a helyreállítást nyitja meg. A tévedés az expressis verbis beismerés megköveteléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "2cb9677fa4c8"
+    },
+    {
+      "question": "Miben tér el a 64. § (3) bekezdésének kérelemre adandó indokolása a 65. § (3) bekezdésének felmondási tilalmától?",
+      "options": [
+        {
+          "text": "A 65. § (3) bekezdése szerinti felmondási tilalom a munkavállalói felmondásra is kiterjed, mert a védett távollét alatt egyik fél sem mondhat fel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés a munkáltatói felmondást tiltja. Az Mt. 65. § (1) bekezdése a felmondást mindkét félnek megnyitja, a (3) bekezdés pedig a munkáltatói felmondást zárja ki a nevesített időszakok alatt. A munkavállaló felmondási joga e tilalomtól elválik. A tévedés a tilalom alanyi körének kiterjesztéséből ered."
+        },
+        {
+          "text": "A 64. § (3) bekezdése az indokolási kötelesség hiányában is kérelemre adandó indokolást nyitja meg, míg a 65. § (3) bekezdése magát a munkáltatói felmondást zárja ki a nevesített védett időszakok alatt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két szabály funkciója elválik, noha listájuk részben átfed. Az Mt. 64. § (3) bekezdése eljárási garanciát ad: a (2) bekezdés szerinti indokolás kérelemre akkor is jár, ha egyébként indokolási kötelesség nincs. Az Mt. 65. § (3) bekezdése a munkáltatói felmondást tiltja a várandósság, a szülési, az apasági és a szülői szabadság, a gyermek gondozása céljából igénybe vett fizetés nélküli szabadság és a többi nevesített időszak alatt. A védelem szempontjából a felmondás közlésének időpontja az irányadó."
+        },
+        {
+          "text": "A 64. § (3) bekezdése és a 65. § (3) bekezdése azonos joghatású: mindkettő érvényteleníti a munkáltatói felmondást a védett listán szereplő távollétek alatt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 64. § (3) bekezdése nem érvényteleníti a felmondást, hanem indokolást nyit. Az Mt. 64. § (3)–(4) bekezdése a kérelemre adandó, (2) bekezdés szerinti indokolást és a két tizenöt napos határidőt rendezi. Az Mt. 65. § (3) bekezdése magát a munkáltatói felmondást zárja ki. A tévedés a két, részben átfedő lista azonossá olvasásából ered."
+        },
+        {
+          "text": "A 65. § (3) bekezdése szerinti tilalomnál a várandósságra és a reprodukciós kezelésre a munkavállaló akkor hivatkozhat, ha erről a munkáltatót tájékoztatta; a közlést követő tájékoztatástól számított tizenöt napon belül a felmondás írásban visszavonható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom érvényesítése tájékoztatáshoz és visszavonási ablakhoz kötött. Az Mt. 65. § (3) bekezdése a várandósságot és a reprodukciós kezelés meghatározott tartamát a felmondási tilalom alá vonja. A munkavállaló akkor hivatkozhat rájuk, ha a munkáltatót tájékoztatta. A közlést követő tájékoztatástól számított tizenöt napon belül a munkáltató a felmondást írásban visszavonhatja."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "87b596f980c8"
+    },
+    {
+      "question": "Milyen tartamban és milyen jogcímeken jár végkielégítés a 77. § (1) bekezdése szerint a viszony végén?",
+      "options": [
+        {
+          "text": "Az (5) bekezdés a végkielégítést elzárja, ha a munkavállaló az irányadó időpontban nyugdíjasnak minősül, vagy ha a felmondás indoka a munkaviszonnyal kapcsolatos magatartás vagy a nem egészségi okkal összefüggő képesség.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom kétirányú. Az Mt. 77. § (5) bekezdése a nyugdíjasnak minősülést, valamint a magatartási és a nem egészségi okkal összefüggő képességi indokot zárja ki a végkielégítés alól. A 63. § (2) bekezdése szerinti felmentési átalány e tilalomtól elválik: jogutód nélküli megszűnésnél a felmentési összeg a 77. § (5) bekezdésétől függetlenül is járhat, ha a felmentési tartamra egyébként munkabér járna. A (3)–(4) bekezdés a mértéket a viszonyléti időhöz és a nyugdíjkorhatárt megelőző öt évhez igazítja."
+        },
+        {
+          "text": "Végkielégítés a határozott idő lejárta — a 63. § (1) bekezdés c) pontja — esetén is jár, mert minden megszűnés a 77. § (1) bekezdése alá esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a c) pont nincs a 77. § (1) bekezdésének jogcímei között. Az Mt. 77. § (1) bekezdése csak a munkáltatói felmondást, a jogutód nélküli megszűnést és a 63. § (1) bekezdés d) pontját nevezi meg. A határozott idő lejárta ipso iure vég, végkielégítési jogcím nélkül. A tévedés a megszűnési alakzatok és a végkielégítési jogcímek összecsúsztatásából ered."
+        },
+        {
+          "text": "A végkielégítés három jogcímhez kötött: a munkáltatói felmondáshoz, a munkáltató jogutód nélküli megszűnéséhez és a 63. § (1) bekezdés d) pontjához.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogcímek taxatívak. Az Mt. 77. § (1) bekezdése a végkielégítést a munkáltatói felmondás, a jogutód nélküli megszűnés és a 63. § (1) bekezdés d) pontja — a hatályon kívül eső átvevő miatti megszűnés — esetére nyitja meg. A (2) bekezdés a jogosultságot a felmondás közlésének vagy a jogutód nélküli megszűnés időpontjában fennálló tartamhoz köti. A 63. § (2) bekezdése szerinti felmentési átalány e jogcímektől elváló, párhuzamosan is felmerülhető összeg."
+        },
+        {
+          "text": "A 63. § (2) bekezdése szerinti felmentési átalány helyettesíti a végkielégítést: a b) vagy d) pont szerinti megszűnésnél a kettő közül csak az egyik járhat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két összeg párhuzamosan merülhet fel. Az Mt. 63. § (2) bekezdése a felmentési távolléti díjnak megfelelő összeget a b) és a d) ponthoz köti. Az Mt. 77. § (1) bekezdése ugyanezen jogcímeknél a végkielégítést is megnyitja. A tévedés a felmentési átalány és a végkielégítés egymást kizáró olvasatából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "7f1132e6f5d7"
+    },
+    {
+      "question": "Milyen feltételekhez köti a 78. § az azonnali hatályú felmondást, és milyen határidőn belül gyakorolható?",
+      "options": [
+        {
+          "text": "Az azonnali hatályú felmondás a lényeges kötelezettség szándékos vagy súlyosan gondatlan, jelentős mértékű megszegéséhez, illetve a viszony fenntartását lehetetlenné tevő magatartáshoz kötött.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 78. § a 64. § (1) bekezdés c) pontját tölti ki. Az Mt. 78. § (1) bekezdés a) pontja a lényeges kötelezettség szándékos vagy súlyosan gondatlan, jelentős mértékű megszegését, a b) pont a viszony fenntartását lehetetlenné tevő magatartást kívánja. A 85. § (2) bekezdés e) pontja a 78. §-tól csak a munkavállaló javára enged kollektív szerződéses eltérést. A munkavállaló azonnali hatályú felmondása esetén a 78. § (3) bekezdése a 70. § (3) bekezdésében és a 77. §-ban foglaltak megfelelő alkalmazását írja elő."
+        },
+        {
+          "text": "A jog gyakorlását az okról való tudomásszerzéstől számított tizenöt napon, legfeljebb az ok bekövetkeztétől számított egy éven belül engedi a törvény; bűncselekmény esetén a büntethetőség elévüléséig.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szubjektív és az objektív határidő együttesen érvényesül. Az Mt. 78. § (2) bekezdése a jog gyakorlását az okról való tudomásszerzéstől számított tizenöt napon, legfeljebb az ok bekövetkeztétől számított egy éven belül — bűncselekmény esetén a büntethetőség elévüléséig — engedi. Testületnél a tudomásszerzés a testület tájékoztatásának napja. A 25. § (6) bekezdése e tizenöt napos határidőre is a postára adás kedvezményét rendeli."
+        },
+        {
+          "text": "Az azonnali hatályú felmondás csak a munkáltatót illeti meg; a munkavállaló e jogcímen nem szüntetheti meg a viszonyt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, mindkét fél élhet vele. Az Mt. 64. § (1) bekezdés c) pontja az azonnali hatályú felmondást alakzatként nevezi meg, alanykorlátozás nélkül. Az Mt. 78. § (3) bekezdése a munkavállaló azonnali hatályú felmondása esetén a 70. § (3) bekezdésében és a 77. §-ban foglaltak megfelelő alkalmazását írja elő. A tévedés a munkáltatói monopólium feltételezéséből ered."
+        },
+        {
+          "text": "Az azonnali hatályú felmondás határidő nélkül gyakorolható, mert a súlyos kötelezettségszegés a viszony fenntartását eleve kizárja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jog gyakorlása határidőhöz kötött. Az Mt. 78. § (2) bekezdése tizenöt napos szubjektív és egyéves objektív határidőt szab; bűncselekmény esetén az objektív határ a büntethetőség elévülése. A 25. § (6) bekezdése a postára adást a határidő utolsó napján is megtartottnak tekinti. A tévedés a súlyosság és a határidő-mentesség összekapcsolásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "425f266f3b6e"
+    },
+    {
+      "question": "Mi következik a jogellenes megszüntetésből a 82. § szerint?",
+      "options": [
+        {
+          "text": "A munkáltató a jogellenes megszüntetéssel okozott kár megtérítésére köteles; az elmaradt jövedelem címén igényelt kártérítés a munkavállaló tizenkéthavi távolléti díjában plafonálódik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az alapnorma és a plafon elválik. Az Mt. 82. § (1) bekezdése a munkáltatót a jogellenes megszüntetéssel okozott kár megtérítésére kötelezi; a 85. § (1) bekezdés c) pontja ezt abszolút kógenssé teszi. A (2) bekezdés az elmaradt jövedelem címén igényelt kártérítést tizenkéthavi távolléti díjban plafonálja. A (4) bekezdés az (1)–(2) bekezdés helyett a munkáltatói felmondásnál irányadó felmondási időre járó távolléti díjnak megfelelő összeget engedi követelni."
+        },
+        {
+          "text": "A (3) bekezdés a végkielégítésre is jogosítja a munkavállalót, ha a viszony jogellenesen nem felmondással szűnt meg, vagy ha a 77. § (5) bekezdés b) pontja alapján nem részesült végkielégítésben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a végkielégítési igény a jogellenességhez kapcsolódó pótlólagos jogcím lehet. Az Mt. 82. § (3) bekezdése e két esetben nyitja meg a végkielégítést. Az MK 95. számú állásfoglalás I–IV. pontja a jogellenesség mércéjét adja: a valótlan vagy okszerűtlen indok, a nem világos indokolás, az új ok utólagos bizonyítása és a rendeltetésellenes joggyakorlás egyaránt a 82. § (1) bekezdése szerinti jogellenességhez vezet. A 85. § (1) bekezdés c) pontja az (1) bekezdés alapnormáját abszolút zár alá vonja."
+        },
+        {
+          "text": "A 82. § (1) bekezdésétől a felek munkaszerződésben eltérhetnek, ha a kártérítési plafont kölcsönösen alacsonyabban állapítják meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (1) bekezdés abszolút kógens. Az Mt. 85. § (1) bekezdés c) pontja szerint a felek megállapodása vagy a kollektív szerződés a 82. § (1) bekezdésében foglaltaktól nem térhet el. A (2) bekezdés tizenkéthavi plafonja már nincs ebben a zárban, de az alapkötelezettség igen. A tévedés a plafon és az alapnorma eltérési rendjének összekeveréséből ered."
+        },
+        {
+          "text": "Jogellenes megszüntetésnél a munkavállaló kártérítési igénye mindig korlátlan: a tizenkéthavi távolléti díjas plafon csak a jogszerű felmondásra vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a plafon éppen az elmaradt jövedelem címén igényelt kártérítést korlátozza. Az Mt. 82. § (2) bekezdése az elmaradt jövedelem címén igényelt kártérítést a munkavállaló tizenkéthavi távolléti díjában plafonálja. Az (1) bekezdés a kár megtérítésének alapkötelezettségét rögzíti. A tévedés a plafon hatályának megfordításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "378682c4710b"
+    },
+    {
+      "question": "Mely esetekben kérhető a munkaviszony helyreállítása a 83. § (1) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A helyreállítás bármely jogellenes megszüntetésnél automatikusan jár, kérelem nélkül, mert a 82. § (1) bekezdése ezt is magában foglalja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a helyreállítás kérelemre és zárt esetkörben nyílik meg. Az Mt. 83. § (1) bekezdése taxatív listát ad, és kérelemhez köti a helyreállítást. A 82. § (1) bekezdése a kártérítést rendezi, nem a helyreállítást. A tévedés a két jogkövetkezmény összecsúsztatásából ered."
+        },
+        {
+          "text": "A 65. § (3) bekezdésébe ütköző felmondásnál helyreállítás nem kérhető, mert a tilalom megsértése csak kártérítést von maga után.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felmondási tilalomba ütközés a helyreállítás zárt listáján szerepel. Az Mt. 83. § (1) bekezdése a 65. § (3) bekezdésébe ütközést kifejezetten nevesíti. A kártérítési igény a 82. § (1) bekezdése szerint ettől elváló jogkövetkezményként merülhet fel. A tévedés a tilalomsértés jogkövetkezményének kártérítésre szűkítéséből ered."
+        },
+        {
+          "text": "A helyreállítás kérelemre, zárt esetkörben rendelhető: egyenlő bánásmód sérelme, joggal való visszaélés, a 65. § (3) bekezdésébe ütközés, a 273. § (1) bekezdésébe ütközés, a munkavállalói képviselői minőség, valamint a közös megegyezés vagy a saját jognyilatkozat sikeres megtámadása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a lista taxatív. Az Mt. 83. § (1) bekezdése a helyreállítást kérelemre, zárt esetkörben rendeli. Az MK 95. számú állásfoglalás IV. pontja szerinti, véleménynyilvánítást elfojtó vagy zaklató felmondás a joggal való visszaélés tilalmába ütközik, és a helyreállítás (1) bekezdés a) pont ab) alpontját nyitja meg. A 85. § (2) bekezdés g) pontja e helyreállítási szabályoktól csak a munkavállaló javára enged kollektív szerződéses eltérést."
+        },
+        {
+          "text": "A megszüntetés és a helyreállítás közötti tartamot a viszonyléti időhöz kapcsolódó jogosultságoknál munkaviszonyban töltött időnek kell tekinteni; az elmaradt munkabért távolléti díjként, az egyéb járandóságot és a kárt a megkeresett vagy elvárhatóan megkereshető összeg és a kifizetett végkielégítés levonásával térítteti a törvény.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a helyreállítás vagyoni és időszámítási következménnyel jár. Az Mt. 83. § (2) bekezdése a köztes tartamot a viszonyléti időhöz kapcsolódó jogosultságoknál munkaviszonyban töltött időnek tekinti. A (3)–(4) bekezdés az elmaradt munkabért — távolléti díjként —, az egyéb járandóságot és a kárt térítteti, levonva a megkeresett vagy elvárhatóan megkereshető összeget és a kifizetett végkielégítést. A kollektív szerződés a 85. § (2) bekezdés g) pontja alapján ezeket a munkavállaló előnyére szigoríthatja."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "29c63cb09a8e"
+    },
+    {
+      "question": "Milyen határidőn belül kell a munkakörátadást, az elszámolást és az igazolások kiadását teljesíteni a 80. § szerint?",
+      "options": [
+        {
+          "text": "Az igazolások kiadásának határideje harminc nap, és a munkáltató a járandóságok kifizetését a következő bérfizetési napra tolhatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határidő az ötödik munkanap. Az Mt. 80. § felmondásnál az utolsó munkában töltött naptól, egyébként a megszűnéstől számított ötödik munkanapot szabja. A munkabér és az egyéb járandóság kifizetése is e határidő alá esik. A tévedés a határidő harminc napra tágításából ered."
+        },
+        {
+          "text": "Felmondásnál az utolsó munkában töltött naptól, egyébként a megszűnéstől számított ötödik munkanap a határidő a munkakörátadásra, az elszámolásra, a munkabér és az egyéb járandóság kifizetésére, valamint az igazolások kiadására.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 80. § a megszüntetéskor és a megszűnéskor egyaránt kötelez. Az Mt. 80. § a munkakörátadást, az elszámolást, a járandóságok kifizetését és az igazolások kiadását rendeli. Felmondásnál az utolsó munkában töltött nap, egyéb esetben a megszűnés napja a számítás kiindulópontja, és az ötödik munkanap a határidő. A szabály tehát a 63. § szerinti megszűnésre és a 64. § szerinti megszüntetésre egyaránt kiterjed."
+        },
+        {
+          "text": "A 80. § szerinti elszámolási és igazolási kötelezettség csak felmondásnál áll fenn; a 63. § szerinti megszűnésnél a munkáltató e kötelezettségek alól mentesül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkakörátadás, az elszámolás és az igazolások a 63. § szerinti végnél is kötelezőek. Az Mt. 80. § a megszüntetéskor és a megszűnéskor egyaránt rendeli a munkakörátadást, az elszámolást, a kifizetést és az igazolások kiadását. Megszűnésnél a határidő a megszűnéstől számított ötödik munkanap. A tévedés a kötelezettség felmondásra szűkítéséből ered."
+        },
+        {
+          "text": "A határidő a megszüntetésre és a megszűnésre egyaránt kiterjed: felmondásnál az utolsó munkában töltött nap, egyéb esetben a megszűnés napja a számítás kiindulópontja, és az ötödik munkanap a teljesítési határ.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 80. § a viszony mindkét végén ugyanazt az ötödik munkanapos mércét alkalmazza. Az Mt. 80. § a munkakörátadást, az elszámolást, a járandóságok kifizetését és az igazolások kiadását a megszüntetéskor és a megszűnéskor egyaránt előírja. Felmondásnál az utolsó munkában töltött naptól, egyébként a megszűnéstől számított ötödik munkanap a határidő. A 63. § szerinti ipso iure vég sem mentesít e kötelezettség alól."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "422fa433aac5"
+    },
+    {
+      "question": "Mikor tekinthető közöltnek a megszüntető jognyilatkozat a 24. § szerint, és ki bizonyítja a közlés szabályszerűségét?",
+      "options": [
+        {
+          "text": "A közlés szabályszerűségét a címzettnek kell cáfolnia, mert a nyilatkozattevő vélelmezetten szabályszerűen közöl.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bizonyítási teher nem a címzetté. Az Mt. 24. § (4) bekezdése szerint a közlés szabályszerűségét a jognyilatkozatot tevő fél bizonyítja. A 64. § (2) bekezdése az indok valóságát és okszerűségét ugyancsak a nyilatkozattevőre telepíti. A tévedés a két teher megfordításából ered."
+        },
+        {
+          "text": "A jognyilatkozat akkor közölt, ha azt a címzettnek vagy az átvételre jogosult más személynek átadják, vagy az elektronikus dokumentum részükre hozzáférhetővé válik; a közlés a megtagadás és a szándékos megakadályozás esetén is hatályos.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közlés fogalma a tényleges átadáson és a hozzáférhetővé váláson alapul. Az Mt. 24. § (1) bekezdése ezt a mércét rögzíti. A (2) bekezdés a tértivevényes postai kézbesítés fikcióját, a (3) bekezdés a kézbesítési kifogást rendezi. A megszüntető jognyilatkozat hatályosulása tehát nem a címzett belátásán múlik."
+        },
+        {
+          "text": "A közlés szabályszerűségét a jognyilatkozatot tevő fél bizonyítja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a bizonyítási teher a nyilatkozattevőn van. Az Mt. 24. § (4) bekezdése szerint a közlés szabályszerűségét a jognyilatkozatot tevő fél bizonyítja. Ez a 64. § (2) bekezdésének indokolási bizonyítási terhétől elváló, a közlésre vonatkozó teher. A 25. § a határidőszámítást és a postára adás kedvezményét hordozza a 64. § (4) bekezdése és a 78. § (2) bekezdése szerinti tizenöt napra is."
+        },
+        {
+          "text": "Ha a munkavállaló a felmondás átvételét megtagadja, a közlés hatálytalan marad, amíg tényleges kézbesítés nem történik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megtagadás nem akadályozza a közlés hatályát. Az Mt. 24. § (1) bekezdése szerint a közlés a megtagadás és a szándékos megakadályozás esetén is hatályos. A (4) bekezdés a szabályszerűség bizonyítását a jognyilatkozatot tevőre telepíti. A tévedés a címzett együttműködésének feltételezéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "9f5504d6ea19"
+    },
+    {
+      "question": "Hogyan számítja a 25. § a 64. § (4) bekezdése és a 78. § (2) bekezdése szerinti tizenöt napos határidőt?",
+      "options": [
+        {
+          "text": "A 64. § (4) bekezdése szerinti határidő elmulasztása a 25. § (7) bekezdése alapján mindig kimenthető, ha a mulasztó önhibáján kívül járt el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kimentés csak akkor nyílik meg, ha a határidőt megállapító szabály kifejezetten engedi. Az Mt. 25. § (7) bekezdése ezt a feltételt rögzíti. A 64. § (4) bekezdése ilyen kifejezett kimentést nem tartalmaz. A tévedés az általános önhiba-kimentés ráírása e határidőre."
+        },
+        {
+          "text": "A 64. § (4) bekezdése szerinti kérelem és válasz határideje a postára adás napjától függetlenül csak akkor teljesül, ha a címzett a tizenötödik nap végéig átveszi az iratot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a postára adás kedvezménye a határidő utolsó napján is megtartottá teszi a teljesítést. Az Mt. 25. § (6) bekezdése ezt a 64. § (4) bekezdésére is kiterjeszti. A (7) bekezdés szerinti kimentés a 64. § (4) bekezdésénél nem áll rendelkezésre. A tévedés az átvételhez kötött olvasat ráírása a postára adás szabályára."
+        },
+        {
+          "text": "A határidő elmulasztását csak akkor lehet kimenteni, ha a határidőt megállapító munkaviszonyra vonatkozó szabály ezt kifejezetten megengedi; a 64. § (4) bekezdése ilyen kimentést nem tartalmaz.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kimentés nem általános. Az Mt. 25. § (7) bekezdése a határidő elmulasztását csak akkor engedi kimenteni, ha a határidőt megállapító munkaviszonyra vonatkozó szabály ezt kifejezetten megengedi. A 64. § (4) bekezdése ilyen kimentési záradékot nem tartalmaz. A két tizenöt napos, írásbeli határidő tehát szigorúbb, mint a kimentést engedő más határidők."
+        },
+        {
+          "text": "A tizenöt napos határidő akkor is megtartottnak tekintendő, ha a jognyilatkozatot legkésőbb a határidő utolsó napján postára adják.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a postára adás kedvezménye e határidőkre is kiterjed. Az Mt. 25. § (6) bekezdése a 64. § (4) bekezdése, a 61. § (6) bekezdése és a 78. § (2) bekezdése szerinti tizenöt napot akkor is megtartottnak rendeli tekinteni, ha a jognyilatkozatot legkésőbb a határidő utolsó napján postára adják. A kedvezmény tehát a kérelemre adandó indokolásra és az azonnali hatályú felmondásra egyaránt vonatkozik. A 24. § (4) bekezdése a közlés bizonyítását ehhez kapcsolja."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "c6a6c0af015d"
+    },
+    {
+      "question": "Hogyan szűnik meg vagy szüntethető meg a több munkáltató által létesített munkaviszony a 195. § szerint?",
+      "options": [
+        {
+          "text": "Ha a munkáltatók száma egyre csökken, eltérő megállapodás hiányában a viszony a 63. § (1) bekezdés b) pontja szerinti okból szűnik meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a b) pont a több munkáltatós konstrukcióra is kiterjed. Az Mt. 195. § (5) bekezdése a 63. § (1) bekezdés b) pontját akkor rendeli, ha a munkáltatók száma egyre csökken. Ez ipso iure megszűnés, nem a 64. § szerinti megszüntetés. A 63. § (2) bekezdése szerinti felmentési átalány e b) pontos megszűnéshez kapcsolódhat."
+        },
+        {
+          "text": "Eltérő megállapodás hiányában a viszonyt bármely munkáltató vagy a munkavállaló jognyilatkozatával meg lehet szüntetni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a megszüntetés alanyi köre szélesebb, mint az egy munkáltatós viszonyban. Az Mt. 195. § (4) bekezdése — eltérő megállapodás hiányában — bármely munkáltató vagy a munkavállaló jognyilatkozatával engedi a megszüntetést. A 64. § alakzatai — közös megegyezés, felmondás, azonnali hatályú felmondás — ehhez igazodnak. A 85. § (1) bekezdés b) pontja a 64. § abszolút kógenciáját e viszonyban is fenntartja."
+        },
+        {
+          "text": "Több munkáltató esetén a megszüntető jognyilatkozatot csak az összes munkáltató együttesen teheti meg; egyetlen munkáltató felmondása hatálytalan.",
+          "isCorrect": false,
+          "rationale": "HAMIS, eltérő megállapodás hiányában bármely munkáltató jognyilatkozata elég. Az Mt. 195. § (4) bekezdése ezt expressis verbis engedi. A 64. § (1) bekezdése szerinti alakzatok tehát egy munkáltató nyilatkozatával is megvalósulhatnak. A tévedés az együttes nyilatkozat kötelezővé tételéből ered."
+        },
+        {
+          "text": "A munkáltatók számának egyre csökkenése a 64. § (1) bekezdés b) pontja szerinti felmondást eredményezi, ezért indokolási kötelezettség is terheli a megmaradó munkáltatót.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a joghatás a 63. § (1) bekezdés b) pontja szerinti megszűnés. Az Mt. 195. § (5) bekezdése a 63. § (1) bekezdés b) pontját rendeli, ha a munkáltatók száma egyre csökken. Jognyilatkozat és indokolás e tényálláshoz nem kell. A tévedés a megszűnés és a felmondás összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "59f0c4b362fc"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható a munkáltatói felmondás a 66. § (8) bekezdése szerint a határozott idejű munkaviszonynál?",
+      "options": [
+        {
+          "text": "A működési ok önmagában nem nyitja meg a határozott idejű viszony munkáltatói felmondását; a (8) bekezdés a felszámolási vagy csődeljárás, a képességi ok és az elháríthatatlan külső ok kivételeire szűkít.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (8) bekezdés zárt kivétellista. Az Mt. 66. § (8) bekezdése a határozott idejű viszony munkáltatói felmondását csak felszámolási vagy csődeljárás alatt, képességi okból vagy elháríthatatlan külső ok miatt engedi. A tartam elteltével a 63. § (1) bekezdés c) pontja szerinti ipso iure megszűnés az irányadó. A határozatlan idejű viszonyra érvényes működési ok e zárba nem fér."
+        },
+        {
+          "text": "A határozott idejű viszony munkáltatói felmondása csak felszámolási vagy csődeljárás alatt, képességi okból vagy elháríthatatlan külső ok miatt engedett; a tartam elteltével a viszony a 63. § (1) bekezdés c) pontja szerint ipso iure véget ér.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a c) pont szerinti lejárat és a 66. § (8) bekezdése szerinti felmondás elválik. Az Mt. 63. § (1) bekezdés c) pontja a határozott idő lejártát megszűnésként rögzíti, felmondás nélkül. A 66. § (8) bekezdése a határozott idejű viszony munkáltatói felmondását csak a nevesített kivételes okokból engedi. A két út tehát nem helyettesíti egymást."
+        },
+        {
+          "text": "A határozott idejű munkaviszonyt a munkáltató a 66. § általános magatartási, képességi vagy működési indoka alapján szabadon felmondhatja, mert a 66. § a tartamtól függetlenül érvényesül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határozott idejű viszony munkáltatói felmondása szűkebb. Az Mt. 66. § (8) bekezdése csak felszámolási vagy csődeljárás alatt, képességi okból vagy elháríthatatlan külső ok miatt engedi. A tartam elteltével a 63. § (1) bekezdés c) pontja szerinti megszűnés az irányadó. A tévedés a határozatlan idejű felmondási szabály ráírása a határozott idejű viszonyra."
+        },
+        {
+          "text": "A határozott idő lejárta a 64. § (1) bekezdés b) pontja szerinti felmondás, ezért a munkáltatót indokolási kötelezettség terheli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a lejárat megszűnés, nem felmondás. Az Mt. 63. § (1) bekezdés c) pontja szerint a viszony a határozott idő lejártával szűnik meg, jognyilatkozat nélkül. A 64. § (2) bekezdésének indokolási mércéje a megszüntető jognyilatkozatra vonatkozik. A tévedés a c) pont és a felmondás összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "d5eae3e03d9c"
+    },
+    {
+      "question": "A felek a munkaviszony kezdetétől számított nyolc hónapra megállapodásban kizárják a felmondást. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A 65. § (2) bekezdése a felek megállapodásával — legfeljebb a viszony kezdetétől számított egy évig — engedi a felmondás kizárását, ezért a nyolc hónapos kikötés e kereten belül érvényesülhet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kizárás időbeli plafonja egy év. Az Mt. 65. § (2) bekezdése szerint a felek megállapodása a felmondást legfeljebb a viszony kezdetétől számított egy évig zárhatja ki. A nyolc hónapos tartam e plafon alatt van. Az (1) bekezdés a felmondást mindkét félnek megnyitja, a kizárás e főszabály szerződéses korlátozása."
+        },
+        {
+          "text": "A felmondás kizárása a 64. § (1) bekezdés c) pontja szerinti azonnali hatályú felmondást is elzárja a felek elől a kikötött tartamra.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kizárási megállapodás tárgya kizárólag a felmondás. Az Mt. 65. § (2) bekezdése a felmondás kizárását engedi legfeljebb egy évig. Az azonnali hatályú felmondás a 78. § szerinti önálló alakzat marad. A tévedés a felmondás és az azonnali hatályú felmondás azonosításából ered."
+        },
+        {
+          "text": "A felek a felmondást a viszony teljes tartamára, akár öt évre is kizárhatják, mert a 65. § (2) bekezdése diszpozitív plafon nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kizárás legfeljebb egy évig tarthat. Az Mt. 65. § (2) bekezdése a viszony kezdetétől számított egyéves plafont szab. Az ezen túli kikötés e plafonba ütközik. A tévedés a plafon nélküli szerződéses autonómia feltételezéséből ered."
+        },
+        {
+          "text": "A kizárás csak a felmondásra vonatkozik; az azonnali hatályú felmondást és a közös megegyezést a 65. § (2) bekezdése nem zárja el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés tárgya a felmondás. Az Mt. 65. § (2) bekezdése a felmondás kizárását engedi, nem a 64. § (1) bekezdés teljes alakzatlistáját. Az azonnali hatályú felmondást a 78. §, a közös megegyezést a 64. § (1) bekezdés a) pontja rendezi. A kizárási megállapodás tehát nem azonos a megszüntetés teljes elzárásával."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "4b1014cd3313"
+    },
+    {
+      "question": "Miben tér el a 66. § (9) bekezdése szerinti, nyugdíjasnak minősülő munkavállaló indokolás nélküli felmondása a 64. § (3)–(4) bekezdésének eljárási indokolásától?",
+      "options": [
+        {
+          "text": "A 66. § (9) bekezdése szerinti indokolásmentesség a 64. § (3) bekezdését is kizárja: nyugdíjas munkavállalónál kérelemre sem jár indokolás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés éppen az indokolási kötelesség hiányában nyitja meg a kérelemre adandó indokolást. Az Mt. 64. § (3) bekezdése a 66. § (9) bekezdése szerinti helyzetet is lefedi, ha a munkavállaló a védett listára hivatkozik. A (4) bekezdés a kérelmet és a választ tizenöt napos, írásbeli határidőhöz köti. A tévedés a (9) bekezdés abszolút indokolás-tilalomként való olvasatából ered."
+        },
+        {
+          "text": "A 66. § (9) bekezdése a határozott tartamú viszonyra is kiterjed, ezért a nyugdíjas munkavállaló határozott idejű viszonya is indokolás nélkül felmondható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (9) bekezdés a határozatlan tartamú viszonyra vonatkozik. Az Mt. 66. § (9) bekezdése a nyugdíjasnak minősülő munkavállaló határozatlan tartamú viszonyának felmondását mentesíti az indokolási kötelesség alól. A határozott idejű viszony munkáltatói felmondását a (8) bekezdés szűkíti. A tévedés a tartam korlátozásának elhagyásából ered."
+        },
+        {
+          "text": "A (9) bekezdés szerinti indokolásmentesség nem zárja ki, hogy a munkavállaló a 64. § (3) bekezdése szerinti védett hivatkozással a (2) bekezdés szerinti indokolást kérje; a (4) bekezdés e kérelmet és a választ tizenöt napos, írásbeli határidőhöz köti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két norma egymásra épül, nem egymást kioltja. Az Mt. 66. § (9) bekezdése a nyugdíjasnak minősülő munkavállaló határozatlan tartamú viszonyának felmondását mentesíti az indokolási kötelesség alól. Az Mt. 64. § (3) bekezdése — a munkavállaló kérelmére — indokolási kötelesség hiányában is a (2) bekezdés szerinti indokolást írja elő a védett lista esetén. A (4) bekezdés a kérelmet és a választ egyaránt tizenöt napos, írásbeli határidőhöz köti."
+        },
+        {
+          "text": "A 66. § (9) bekezdése a nyugdíjasnak minősülő munkavállaló határozatlan tartamú viszonyának felmondását mentesíti az indokolási kötelesség alól, de a 64. § (3)–(4) bekezdése a védett hivatkozás esetén kérelemre adandó indokolással egészíti ki ezt a helyzetet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a mentesítés és az eljárási indokolás egymásra épül. Az Mt. 66. § (9) bekezdése az indokolási kötelesség alól mentesít. Az Mt. 64. § (3) bekezdése — a munkavállaló kérelmére — indokolási kötelesség hiányában is a (2) bekezdés szerinti indokolást írja elő, ha a megszüntetést a védett listához köti. A (4) bekezdés a két tizenöt napos, írásbeli határidőt rendezi."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "bf50cf689396"
+    },
+    {
+      "question": "A kollektív szerződés a törvényinél hosszabb felmondási időt állapít meg. Mely olvasat helyes a 85. § (3) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A kollektív szerződés a 69. § (1) bekezdésében foglaltnál hosszabb felmondási időt is megállapíthat; ez önálló, egyirányú tágítás, nem a (2) bekezdés in favorem zárjának része.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés külön jogcímet ad a felmondási idő tartamára. Az Mt. 85. § (3) bekezdése szerint: „A kollektív szerződés a 69. § (1) bekezdésében foglaltnál hosszabb felmondási időt is megállapíthat.” Ez nem azonos a (2) bekezdés munkavállaló javára szóló relatív kógenciájával. A hosszabb felmondási idő tehát kifejezetten engedett KSZ-tartalom."
+        },
+        {
+          "text": "A 85. § (1) bekezdés a) és b) pontja továbbra is abszolút zár alatt tartja a 63. § (1) bekezdését és a 64. § egészét; a hosszabb felmondási idő e zárakat nem oldja fel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés nem nyitja meg a megszűnési listát vagy a megszüntetési alakzatokat. Az Mt. 85. § (1) bekezdés a) és b) pontja a 63. § (1) bekezdését és a 64. §-t a felek és a kollektív szerződés elől elzárja. A (3) bekezdés csak a 69. § (1) bekezdése szerinti felmondási idő alsó törvényi mértékéhez képest enged hosszabb tartamot. A két szint tehát elválik."
+        },
+        {
+          "text": "A 85. § (3) bekezdése a munkaszerződésnek is megengedi a törvényinél hosszabb felmondási időt, mert a felek megállapodása a KSZ-szel egyenrangú.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés alanya a kollektív szerződés. Az Mt. 85. § (3) bekezdése szerint a kollektív szerződés állapíthat meg hosszabb felmondási időt. A felek megállapodására e mondat nem terjed ki. A tévedés a KSZ és a munkaszerződés azonosításából ered."
+        },
+        {
+          "text": "A hosszabb felmondási idő kikötése egyúttal feloldja a 64. § (2) bekezdésének indokolási mércéjét, mert a KSZ a megszüntetés rendjét is alakíthatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az indokolási mérce nem engedhető el a hosszabb felmondási idő miatt. Az Mt. 85. § (1) bekezdés b) pontja a 64. §-tól eltérést nem enged. A (3) bekezdés csak a felmondási idő tartamát tágítja a 69. § (1) bekezdéséhez képest. A tévedés a felmondási idő és az indokolási rend összekapcsolásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "2265ed81b6c2"
+    },
+    {
+      "question": "Mely állítások hibásak a munkaviszony végének fogalmi rendszerében?",
+      "options": [
+        {
+          "text": "Az MK 13. számú állásfoglalás szerinti, közügyektől eltiltás alá eső viszony a 64. § szerinti azonnali hatályú felmondással ér véget.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a joghatás a 63. § (1) bekezdés e) pontja szerinti megszűnés. Az MK 13. számú állásfoglalás a jogerő napjával, azonnali hatállyal beálló megszűnést rögzíti, jognyilatkozat nélkül. A 64. § (1) bekezdés c) pontja szerinti azonnali hatályú felmondás ettől elválik. A helyes: az eltiltás alá eső viszony ipso iure szűnik meg."
+        },
+        {
+          "text": "A 63. § (2) bekezdése szerinti felmentési átalány a határozott idő lejárta esetén is jár, mert minden megszűnéshez a felmondási felmentés mércéje kapcsolódik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés csak a b) és a d) pontot nevezi meg. Az Mt. 63. § (2) bekezdése a felmentési távolléti díjnak megfelelő összeget a munkáltató jogutód nélküli megszűnéséhez és a (3) bekezdés szerinti átvételhez köti. A c) pont — a határozott idő lejárta — e vagyoni szabályból kiesik. A helyes: a felmentési átalány nem univerzális megszűnési járandóság."
+        },
+        {
+          "text": "A munkavállaló halála és a munkáltató halála egyaránt a 63. § (1) bekezdés a) pontja szerinti megszűnés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az a) pont csak a munkavállaló halálát nevezi meg. Az Mt. 63. § (1) bekezdés a) pontja szerint a viszony a munkavállaló halálával szűnik meg. Magánszemély munkáltató jogutód nélküli megszűnésénél a b) pont az irányadó. A helyes: a két fél halála nem szimmetrikus a 63. § (1) bekezdésében."
+        },
+        {
+          "text": "A közös megegyezés, a felmondás, az azonnali hatályú felmondás és a „megállapodásos azonnali hatály” négy egyenrangú megszüntetési alakzat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, csak három alakzat van. Az Mt. 64. § (1) bekezdése a közös megegyezést, a felmondást és az azonnali hatályú felmondást sorolja fel. A 85. § (1) bekezdés b) pontja szerint a felek vagy a kollektív szerződés negyedik alakzatot nem iktathat be. A helyes: a megszüntetés alakzatai taxatív hármasok."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "fde8792adae0"
+    }
+  ]
+}

@@ -1,0 +1,1251 @@
+{
+  "id": "W9v9PwpVJqZgbC1twVff",
+  "sorszam": 5,
+  "cim": "A munkáltató személyében bekövetkező változás.",
+  "generationType": "kerdes",
+  "title": "5. A munkáltató személyében bekövetkező változás.",
+  "questions": [
+    {
+      "question": "Mikor jön létre a 2001/23/EK irányelv szerinti átruházás a gazdasági egység szempontjából?",
+      "options": [
+        {
+          "text": "Akkor, ha olyan gazdasági egység kerül átruházásra, amely megtartja identitását: az erőforrások szervezett csoportja marad, és célja fő vagy kiegészítő gazdasági tevékenység.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a mérce nem a jogcím elnevezése, hanem a szervezett erőforrás-csoport identitásának fennmaradása. A 2001/23/EK irányelv 1. cikk (1) bekezdés b) albekezdése szerint átruházás akkor jön létre, ha a gazdasági egység „megtartja identitását, azaz az erőforrások olyan szervezett csoportja marad, amelynek célja, hogy fő vagy kiegészítő gazdasági tevékenységet folytasson”. A magyar Mt. 36. § (1) bekezdése ugyanezt a fogalmi magot veszi át, amikor a gazdasági egységet anyagi vagy nem anyagi erőforrások szervezett csoportjaként határozza meg. A puszta tulajdonosi szerkezetcsere önmagában nem elég."
+        },
+        {
+          "text": "Az irányelv csak a nyereségcélú magánvállalkozásokra terjed ki, a közszférában folytatott gazdasági tevékenységre nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az irányelv a köz- és magántulajdonban álló, gazdasági tevékenységet folytató vállalkozásokra egyaránt kiterjed. A 2001/23/EK irányelv 1. cikk (1) bekezdés c) albekezdése szerint a védelmet „tekintet nélkül arra, hogy működésük nyereség elérését célozza, vagy sem” alkalmazni kell. A kivétel a közigazgatási átszervezés és a közigazgatási funkciók átadása, nem a közszférában végzett gazdasági tevékenység. A tévedés a nyereségcél és a gazdasági tevékenység fogalmának összekeveréséből ered."
+        },
+        {
+          "text": "Elég, ha a cégjogi jogutódlás bejegyzésre kerül, mert az automatikusan munkajogi átszállást is jelent.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a cégjogi bejegyzés önmagában nem váltja ki a munkajogi átszállást. A 2001/23/EK irányelv 1. cikk (1) bekezdés b) albekezdése szerint a mérce a gazdasági egység identitásának fennmaradása, nem a jogcím elnevezése. Az Mt. 36. § (1) bekezdése a jogügyleten alapuló átvétel időpontjához köti a jogok és kötelezettségek átszállását, nem a cégjogi bejegyzés napjához. A tévedés forrása a tulajdonosi vagy cégjogi változás és a munkajogi gazdasági egység-átvétel összecsúsztatása."
+        },
+        {
+          "text": "A közigazgatási szervek igazgatási átszervezése vagy a közigazgatási funkciók közigazgatási szervek közötti átadása nem minősül az irányelv szerinti átruházásnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a határmegvonás a gazdasági tevékenységet folytató egységet választja el a hatósági feladatátszervezéstől. A 2001/23/EK irányelv 1. cikk (1) bekezdés c) albekezdése kimondja: a közigazgatási szervek igazgatási átszervezése vagy a közigazgatási funkcióknak a közigazgatási szervek közötti átadása nem minősül átruházásnak. Ez a magyar Mt. 36. § „jogügyleten alapuló átvétel” fordulatának is keretet ad. A puszta hatósági feladatátszervezés tehát nem gazdasági egység átvétele."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "729a111bc682"
+    },
+    {
+      "question": "Mi száll át az átvevő munkáltatóra a gazdasági egység jogügyleten alapuló átvételekor az Mt. szerint?",
+      "options": [
+        {
+          "text": "Az átszálláshoz a munkaszerződés újrakötése kötelező, különben a munkaviszony megszűnik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az átszállás éppen a szerződés újrakötése nélkül működik. Az Mt. 36. § (1) bekezdése a fennálló munkaviszonyból származó jogokat és kötelezettségeket szállítja át az átvevőre; a munkaviszony alanya cserélődik, új szerződés nélkül. A 2001/23/EK irányelv 3. cikk (1) bekezdése ugyanezt az átruházás napján fennálló munkaszerződésből eredő jogokra mondja ki. A tévedés a jogutódlás és a szerződéses nováció összekeveréséből ered."
+        },
+        {
+          "text": "Az átvétel időpontjában fennálló munkaviszonyból származó jogok és kötelezettségek az átadóról az átvevőre szállnak, a munkaszerződés újrakötése nélkül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az átszállás ipso iure hatályú: a munkaviszonyt nem szünteti meg és nem hoz létre újat, csak a munkáltatói pozíció cserélődik. Az Mt. 36. § (1) bekezdése szerint „a gazdasági egység (…) jogügyleten alapuló átvételének időpontjában fennálló munkaviszonyból származó jogok és kötelezettségek az átadóról az átvevő munkáltatóra szállnak át”. A 2001/23/EK irányelv 3. cikk (1) bekezdése ugyanezt mondja ki a kedvezményezettre. Az időpont az átvétel napja."
+        },
+        {
+          "text": "Az átszállás csak a határozatlan idejű, teljes munkaidős munkaviszonyokra terjed ki.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határozott idejű és a részmunkaidős viszonyok sem zárhatók ki pusztán e minőségen. A 2001/23/EK irányelv 2. cikk (2) bekezdése a) és b) pontja tiltja a kirekesztést a munkaórák száma vagy a határozott idő miatt. Az Mt. 36. § (1) bekezdése a fennálló munkaviszonyból származó jogokat és kötelezettségeket szállítja át, e minőségi szűkítés nélkül. A tévedés forrása a „tipikus” munkaviszonyra szűkített olvasat."
+        },
+        {
+          "text": "A részmunkaidős, a határozott idejű és a kölcsönzött munkavállaló nem esik ki az átszállás személyi hatálya alól pusztán e minősége okán.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tagállam a munkaviszony meghatározását a saját joga szerint tarthatja fenn, de nem zárhat ki munkaviszonyokat pusztán a munkaórák száma, a határozott idő vagy a kölcsönzés miatt. A 2001/23/EK irányelv 2. cikk (2) bekezdése ezt a kirekesztési tilalmat rögzíti. A magyar átszállás személyi hatályát ez zárja: a részmunkaidős, a határozott idejű és a kölcsönzött munkavállaló nem esik ki az Mt. 36. § alól. Ha az átruházott egység maga a kölcsönbeadó, a kölcsönzöttek védelme sem olvad el."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "411857ee6ed1"
+    },
+    {
+      "question": "Miért alkalmazható felszámolásban a 38. § (2) bekezdése, miközben a 38. § (1) bekezdése kiesik?",
+      "options": [
+        {
+          "text": "A 36. § (2) bekezdés c) pontja csak a 38. § (1) bekezdését veszi ki; a (2) bekezdés a kivétellistán nem szerepel, ezért felszámolásban is alkalmazandó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felszámolási kivétel a naphoz kötött átvevői tájékoztatást engedi el, a létszámküszöb alatti előzetes tájékoztatást nem. Az Mt. 36. § (2) bekezdés c) pontja a 38. § (1) bekezdését nevesíti, a (2) bekezdést nem. A 38. § (2) bekezdése a 236. § (1) bekezdése szerinti létszám hiányában, üzemi tanács és üzemi megbízott nélkül, az átszállást megelőzően tizenöt nappal írja elő a közvetlen, írásbeli tájékoztatást. A Cstv. 5. § szerinti fizetésképtelenségi tájékoztatás ettől elválik, és nem helyettesíti."
+        },
+        {
+          "text": "A 38. § (2) bekezdése szerinti tájékoztatás tartalma az időpont vagy tervezett időpont, az ok, a jogi, gazdasági és szociális következmények, valamint a tervezett intézkedés.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fennmaradó tájékoztatási szabály négy tartalmi elemet követel. Az Mt. 38. § (2) bekezdés a)–d) pontja ezt a négyest sorolja. A 2001/23/EK irányelv 7. cikk (6) bekezdése a képviselő nélküli munkavállalóknál ugyanezt az előzetes tájékoztatást írja elő. A kötelezett főszabály szerint az átadó, a munkáltatók megállapodása alapján az átvevő is eljárhat."
+        },
+        {
+          "text": "Felszámolásban a 39. § szerinti egyetemleges helytállás is megmarad a munkavállaló védelmére.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az egyetemleges helytállás felszámolásban kiesik. Az Mt. 36. § (2) bekezdés d) pontja a 39–40. §-t is kiveszi; a fizetésképtelenségi kielégítési rend lép a helyére. A 39. § az átszállást megelőzően esedékessé vált követelésre egyéves érvényesítési idővel egyetemlegességet ír elő, de felszámolásban nem alkalmazható. A tévedés forrása a transzfervédelmi egyetemlegesség és a hitelezői igénybejelentés összekeverése."
+        },
+        {
+          "text": "Felszámolásban az átvevő az átszállás napján a 38. § (1) bekezdése szerint köteles tájékoztatni a munkavállalót.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az átszállás napján az átvevő általi, azonosító adatokkal történő tájékoztatás felszámolásban kiesik. Az Mt. 36. § (2) bekezdés c) pontja kifejezetten kiveszi a 38. § (1) bekezdését. A felszámolásban megmaradó tájékoztatási szabály a 38. § (2) bekezdése, ha a létszámküszöb és az üzemi képviselet hiánya fennáll. A tévedés a két bekezdés felcseréléséből ered: az (1) a naphoz kötött átvevői tájékoztatás, a (2) az előzetes közvetlen tájékoztatás."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "40eb257ad779"
+    },
+    {
+      "question": "Mi következik abból, ha az átadó elmulasztja az átvevő tájékoztatását az átszállást megelőzően?",
+      "options": [
+        {
+          "text": "A tájékoztatás elmaradása az átvevővel szembeni igényérvényesítést nem érinti: a munkavállaló úgy érvényesíthet, mintha a közlés megtörtént volna.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a mulasztás az átszállást és a munkavállaló igényét nem akadályozza. Az Mt. 37. § második mondata szerint „a tájékoztatás elmaradása az átvevő munkáltatóval szemben e jogviszonyokból származó igények érvényesítését nem érinti”. A 2001/23/EK irányelv 3. cikk (2) bekezdése ugyanezt mondja: a mulasztás nem érinti a jog átszállását és a munkavállaló igényérvényesítési jogát. Az átvevő a belső regresszust az átadóval szemben keresheti."
+        },
+        {
+          "text": "Az átvevő a munkavállalóval szemben helytáll, a belső regresszust pedig az átadóval szemben keresheti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a mulasztás a munkavállaló–átvevő viszonyt nem mentesíti, csak a belső elszámolást nyitja. Az Mt. 37. § második mondata az átvevővel szembeni igényérvényesítést a mulasztás ellenére is nyitva tartja. A 36. § (1) bekezdése szerinti átszállás ipso iure bekövetkezik; a 2001/23/EK irányelv 3. cikk (2) bekezdése a kedvezményezett tájékoztatásának hiányát elválasztja a munkavállaló igényétől. A tájékoztatás tárgya a munkaviszonyok, a versenytilalmi megállapodások és a tanulmányi szerződések köre."
+        },
+        {
+          "text": "Ha az átadó elmulasztja a tájékoztatást, az érintett jogok és kötelezettségek nem szállnak át az átvevőre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tájékoztatás nem hatályossági feltétel. Az Mt. 37. § második mondata szerint a mulasztás az átvevővel szembeni igényérvényesítést nem érinti; az átszállás a 36. § (1) bekezdése szerint ipso iure bekövetkezik. A 2001/23/EK irányelv 3. cikk (2) bekezdése kifejezetten elválasztja a mulasztást az átszállástól és a munkavállalói igénytől. A tévedés a belső információs kötelezettség és az átszállás hatályának összekötéséből ered."
+        },
+        {
+          "text": "A 37. § szerinti tájékoztatás felszámolásban is kötelező, mert a munkavállaló védelmét szolgálja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az átadó és az átvevő közötti belső tájékoztatási kötelezettség felszámolásban kiesik. Az Mt. 36. § (2) bekezdés b) pontja a 37. §-t is kiveszi. A tájékoztatás ráadásul a kedvezményezett (átvevő) védelme, nem a munkavállaló igényének előfeltétele. A tévedés forrása a 37. § és a munkavállalói tájékoztatás (38. §) összecsúsztatása."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "2c33d2ad887c"
+    },
+    {
+      "question": "Az átvevő átszállás napi tájékoztatása milyen formához és időponthoz kötött, és mi a felszámolási sorsa?",
+      "options": [
+        {
+          "text": "Az átvevő a 38. § (1) bekezdése szerinti tájékoztatást az átszállást követő harminc napon belül is teljesítheti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (1) bekezdés a tájékoztatást az átszállás napjához köti, nem utólagos határidőhöz. Az Mt. 38. § (1) bekezdése szerint az átvevő „az átszállás napján” tájékoztatja a munkavállalót. A harminc nap a 40. § (3) bekezdése szerinti különös felmondási jog gyakorlására vonatkozik, nem a tájékoztatásra. A tévedés a tájékoztatási nap és a felmondási határidő összecsúsztatásából ered."
+        },
+        {
+          "text": "Felszámolásban a 38. § (1) bekezdése a 36. § (2) bekezdés c) pontja szerint nem alkalmazható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a naphoz kötött átvevői tájékoztatás a felszámolási kivétellista része. Az Mt. 36. § (2) bekezdés c) pontja a 38. § (1) bekezdését kiveszi. A felszámolásban megmaradó tájékoztatási szabály a 38. § (2) bekezdése lehet, ha a 236. § (1) bekezdése szerinti létszám hiányában nincs üzemi tanács és üzemi megbízott. A Cstv. 5. § szerinti 8 munkanapos, kérelemre teljesítendő tájékoztatás ettől elválik."
+        },
+        {
+          "text": "A 38. § (1) bekezdése szerinti tájékoztatás szóban is teljesíthető, ha a munkavállaló tudomásul veszi az új munkáltatót.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a forma írásbeli, és a munkáltató azonosító adatainak közlését is megköveteli. Az Mt. 38. § (1) bekezdése az átvevőre telepíti az átszállás napján történő, azonosító adatokat tartalmazó írásbeli tájékoztatást. A szóbeli tudomásulvétel nem pótolja ezt a kötelezettséget. A tévedés a formai kellék elhagyásából ered."
+        },
+        {
+          "text": "Az átvevő az átszállás napján, a munkáltató azonosító adatainak közlésével írásban tájékoztatja a munkavállalót a változásról és a 46. § (1) bekezdése szerinti munkafeltételek változásáról.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a naphoz kötött tájékoztatás azt jelenti, hogy a munkavállaló az új alanyról és a megváltozott feltételekről az átszállással egyidejűleg értesül. Az Mt. 38. § (1) bekezdése az átvevő kötelezettségévé teszi az írásbeli közlést a munkáltató azonosító adataival. A tárgy a munkáltató személyében bekövetkezett változás és a 46. § (1) bekezdése szerinti munkafeltételek változása. Ez nem utólagos „rendrakás”, hanem az átszállással egyidejű értesülés."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "c85c376718fa"
+    },
+    {
+      "question": "Milyen tartalmi elemeket kell közölni a létszámküszöb alatti, üzemi képviselet nélküli előzetes tájékoztatásban?",
+      "options": [
+        {
+          "text": "A tájékoztatásnak ki kell terjednie az átszállás időpontjára vagy tervezett időpontjára, az okra, a jogi, gazdasági és szociális következményekre, valamint a tervezett intézkedésre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a négy elem a 2001/23/EK irányelv 7. cikkének magyar párja. Az Mt. 38. § (2) bekezdés a)–d) pontja taxatíve sorolja: időpont vagy tervezett időpont, ok, a munkavállalót érintő jogi, gazdasági és szociális következmények, tervezett intézkedés. Az irányelv 7. cikk (1) bekezdése ugyanezt a négyes szerkezetet rögzíti a képviselők felé. A tizenöt napos határidő e tartalom előzetes közlésére vonatkozik."
+        },
+        {
+          "text": "A tizenöt napos határidő az átszállást követő időszakra vonatkozik, mert a változás csak akkor válik véglegessé.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határidő az átszállást megelőző. Az Mt. 38. § (2) bekezdése szerint a tájékoztatás „legkésőbb az átszállást megelőzően tizenöt nappal” esedékes. A 2001/23/EK irányelv 7. cikk (6) bekezdése is előzetes tájékoztatást követel a képviselő nélküli munkavállalóknál. A tévedés forrása a 38. § (1) bekezdés naphoz kötött, egyidejű tájékoztatásával való összekeverés."
+        },
+        {
+          "text": "A 2001/23/EK irányelv szerint az átadó a tájékoztatást az átruházás előtt megfelelő időben, a kedvezményezett pedig még azt megelőzően köteles megadni, hogy saját munkavállalóit az átruházás közvetlenül érintené.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a „megfelelő idő” követelménye az átadót és a kedvezményezettet is terheli, de eltérő időzítéssel. A 2001/23/EK irányelv 7. cikk (1) bekezdése az átadónál az átruházás előtti megfelelő időt, a kedvezményezettnél a saját munkavállalók közvetlen érintettségét megelőző időpontot írja elő. A magyar 38. § (2) bekezdése a létszámküszöb alatti körben ezt tizenöt napban konkretizálja. A konzultáció ehhez képest a 7. cikk (2) bekezdése szerint a tervezett intézkedésekhez kötődik."
+        },
+        {
+          "text": "Elég az átszállás tényének közlése; a következmények és a tervezett intézkedés csak konzultáción kötelező.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a négy tartalmi elem már a tájékoztatás része, nem csak a konzultációé. Az Mt. 38. § (2) bekezdés c) és d) pontja kifejezetten megköveteli a jogi, gazdasági és szociális következmények, valamint a tervezett intézkedés közlését. A 2001/23/EK irányelv 7. cikk (1) bekezdése ugyanezt a négyes listát a tájékoztatáshoz rendeli; a konzultáció a (2) bekezdésben külön jelenik meg. A tévedés a tájékoztatás és a konzultáció elhatárolásának elmosásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "df7a09ae6ef5"
+    },
+    {
+      "question": "Mi következik abból, ha a munkavállaló az átszállást megelőzően esedékessé vált bérét csak az átszállást követő tizenötödik hónapban érvényesíti az átadóval és az átvevővel szemben?",
+      "options": [
+        {
+          "text": "Az egyetemlegességre már nem hivatkozhat, mert az igényt az átszállást követő egy éven belül kell érvényesíteni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tizenötödik hónap túllépi az egyéves érvényesítési keretet. Az Mt. 39. § szerint az átadó és az átvevő akkor felel egyetemlegesen, ha a munkavállaló az igényét az átszállást követő egy éven belül érvényesíti. A követelésnek az átszállást megelőzően kellett esedékessé válnia; a késedelmes érvényesítés az egyetemlegességet elengedi. A 2001/23/EK irányelv 3. cikk (1) bekezdésének második albekezdése a tagállami opciót engedi; a magyar szabály kötelezővé és egyévesre szabja."
+        },
+        {
+          "text": "Az egyetemlegesség a jövőbeli alapbérre is kiterjed, mert az átvevő a teljes bérszínvonalat átveszi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az egyetemlegesség csak az átszállást megelőzően esedékessé vált követelésre vonatkozik. Az Mt. 39. § kifejezetten az „átszállást megelőzően esedékessé vált” munkavállalói követelést említi; a jövőbeli alapbér nem e kör. Az átvevő a munkafeltételeket az átvétel napján fennálló állapot szerint viseli, de ez nem egyetemleges helytállás a jövőbeli bérre. A tévedés a 36. § (1) bekezdése szerinti átszállás és a 39. § egyetemlegességének összekeveréséből ered."
+        },
+        {
+          "text": "Az egyéves határidő a követelés létezésére vonatkozik: ha a bérkorábbi, az egyetemlegesség automatikusan elenyészik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határidő az igény érvényesítésére nyitott, nem a követelés létezésére. Az Mt. 39. § szerint a munkavállaló akkor élhet az egyetemlegességgel, ha „az igényét az átszállást követő egy éven belül érvényesíti”. A követelés az átszállást megelőzően vált esedékessé; az egy év az érvényesítés ideje. A tévedés forrása az érvényesítési határidő és a követelés keletkezésének összecsúsztatása."
+        },
+        {
+          "text": "Az átszállt igény ettől még a 286. § szerint évülhet; az egyéves záradék csak az egyetemlegesség érvényesítésének ideje, nem az elévülés leszűkítése.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az egyetemlegesség elvesztése nem azonos az átszállt követelés elévülésével. Az Mt. 39. § egyéves határideje az egyetemleges igényérvényesítésre nyitott idő. A 36. § (1) bekezdése szerint átszállt igény elévülése a 286. § szerint alakul. A munkavállaló az egyetemlegesség nélkül is felléphet az átvevővel szemben a 36. § (1) bekezdése szerinti átszállás alapján, amíg az elévülés nem zárja."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "8f5b93001440"
+    },
+    {
+      "question": "Miben tér el a 40. § szerinti különös felmondás a 67. § általános munkavállalói felmondásától?",
+      "options": [
+        {
+          "text": "A 40. § szerinti felmondás indokolásmentes, mert a munkavállaló általános felmondási joga a 67. § szerint is az.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a különös felmondás indokolásköteles. Az Mt. 40. § (2) bekezdése a 67. § (2) bekezdése szerinti szabályok alkalmazásával kötelezővé teszi az indokolást. A 67. § általános munkavállalói felmondásának indokolásmentessége ide nem vihető át. A tévedés forrása a rendes munkavállalói felmondás és a 40. § szerinti, feltételváltozáshoz kötött felmondás összecsúsztatása."
+        },
+        {
+          "text": "A munkavállaló a felmondást a 67. § (2) bekezdése szerinti szabályok alkalmazásával köteles megindokolni; a jogot a változás időpontját követő harminc napon belül gyakorolhatja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az indokolás és a harminc nap együttesen zárja a különös felmondást, eltérően a 67. § általános indokolásmentességétől. Az Mt. 40. § (2) bekezdése a 67. § (2) bekezdése szerinti indokolást követeli meg: a valóság és az okszerűség a munkavállalót terheli. A (3) bekezdés a harminc napot a változás időpontjától méri; a határidő jogvesztő a 40. § szerinti felmondási jogra. A 287. § (2) bekezdés a) pontja a kapcsolódó igényt az elévülési időn belül tartja nyitva."
+        },
+        {
+          "text": "A 40. § szerinti felmondásnál a 70. § és a 77. § — felmondási idő és végkielégítés — megfelelően irányadó, szemben a 67. § általános, indokolásmentes munkavállalói felmondásával.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a különös felmondás a munkáltatói felelősséghez igazított jogkövetkezményeket hív. Az Mt. 40. § (1) bekezdése a 70. §-t és a 77. §-t megfelelően alkalmazza. A tényállás a munkáltató személyében bekövetkezett változáshoz, a lényeges és hátrányos feltételváltozáshoz, valamint az aránytalan sérelemhez vagy a lehetetlenüléshez kötött. A 2001/23/EK irányelv 4. cikk (2) bekezdése a felelősséget a munkáltatóra telepíti."
+        },
+        {
+          "text": "A puszta tulajdonosváltás vagy a székhely változatlanul hagyása önmagában kitölti a 40. § szerinti felmondási tényállást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a puszta tulajdonosváltás, a székhely változatlanul hagyása vagy a bér színvonalának fenntartása a tényállást nem tölti ki. Az Mt. 40. § (1) bekezdése a rá irányadó munkafeltételek lényeges és hátrányos megváltozását, valamint az aránytalan sérelmet vagy a lehetetlenülést követeli meg. A 2001/23/EK irányelv 4. cikk (1) bekezdése szerint az átruházás önmagában nem teremt elbocsátási jogalapot. A tévedés a személyváltozás és a feltételváltozás összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "36d1800eacc7"
+    },
+    {
+      "question": "Hatályon kívüli átvevő esetén ki és milyen határidővel tájékoztatja a munkavállalót a munkaviszony megszűnéséről?",
+      "options": [
+        {
+          "text": "A munkaviszony megszűnik, ha a 36. § (1) bekezdése szerinti jogügylet vagy jogszabály alapján az átvevő nem az Mt. hatálya alá tartozik; a 38. § (1) bekezdése szerinti átszállás napi tájékoztatás e helyzetben nem a megfelelő cím.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hatályhiány a jogviszonyt megszünteti, nem folytatja. Az Mt. 63. § (3) bekezdése a megszűnést rendeli, ha az átvevő nem e törvény hatálya alá tartozik. Az átszállás napján az átvevő általi tájékoztatás a 38. § (1) bekezdése, amely a fennmaradó munkaviszonyhoz kötődik. A 63. § (3) bekezdése szerinti tájékoztatás a megszűnést megelőzi, és az átadó kötelezettsége."
+        },
+        {
+          "text": "A tizenöt napos tájékoztatás ebben az esetben is az átvevő kötelezettsége az átszállás napján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kötelezett az átadó, és a tájékoztatás a megszűnést megelőzi. Az Mt. 63. § (3) bekezdése szerint az átadó legalább tizenöt nappal a megszűnés előtt ír. Az átszállás napján az átvevő általi tájékoztatás a 38. § (1) bekezdése, amely a fennmaradó munkaviszonyhoz kötődik. A tévedés forrása a 63. § (3) bekezdése és a 38. § (1) bekezdése felcserélése."
+        },
+        {
+          "text": "Ha az átvevő nem az Mt. hatálya alá tartozik, a munkaviszony akkor is átszáll, csak a kollektív szerződéses feltételek esnek el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, ilyenkor a munkaviszony megszűnik, nem száll át. Az Mt. 63. § (3) bekezdése kifejezetten a megszűnést rendeli, ha az átvevő nem e törvény hatálya alá tartozik. A 36. § (1) bekezdése szerinti átszállás feltétele, hogy az átvevő munkáltatói pozícióba léphessen az Mt. keretében. A tévedés a 282. § egyéves kollektív szerződéses fenntartásának és a hatályon kívüli átvevő esetének összekeveréséből ered."
+        },
+        {
+          "text": "Az átadó a megszűnést megelőzően legalább tizenöt nappal írásban tájékoztatja az érintett munkavállalót a megszűnés időpontjáról vagy tervezett időpontjáról és a megszűnés indokáról.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tájékoztatás a 63. § (3) bekezdése szerinti megszűnéshez kapcsolódik, nem a 38. § (1) bekezdése szerinti átszállási tájékoztatáshoz. Az Mt. 63. § (3) bekezdése a legalább tizenöt napos, írásbeli előzetes közlést az átadóra telepíti. A tárgy a megszűnés időpontja vagy tervezett időpontja és az indok. A 38. § (2) bekezdése szerinti tizenöt nap ehhez képest az átszállás előtti, létszámküszöb alatti tájékoztatás."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "b995b49e4971"
+    },
+    {
+      "question": "Az átruházás önmagában teremt-e elbocsátási jogalapot az átadó vagy a kedvezményezett oldalán?",
+      "options": [
+        {
+          "text": "Az irányelv nem akadályozza az olyan elbocsátásokat, amelyeknek oka gazdasági, műszaki vagy szervezeti jellegű, és a munkaerő tekintetében változásokat eredményez.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom az átruházás önmagában vett felmondási címét zárja ki, nem minden létszámcsökkentést. A 2001/23/EK irányelv 4. cikk (1) bekezdésének második mondata elválasztja a gazdasági, műszaki vagy szervezeti okú elbocsátásokat. A 4. cikk (2) bekezdése ehhez képest a feltételek lényeges, hátrányos megváltozása miatti megszűnés felelősségét a munkáltatóra telepíti. A magyar 40. § ezt a munkavállaló kezdeményezéséhez és a 70. §, 77. § szerinti jogkövetkezményekhez köti."
+        },
+        {
+          "text": "Az átvevő az átszállásra hivatkozva azonnali hatállyal felmondhat minden átvett munkaviszonyt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az átruházás önmagában nem elbocsátási jogalap. A 2001/23/EK irányelv 4. cikk (1) bekezdése ezt kifejezetten kizárja az átadó és a kedvezményezett oldalán. Az Mt. 36. § (1) bekezdése a fennálló munkaviszonyból származó jogokat és kötelezettségeket szállítja át; a munkaviszony nem szűnik meg automatikusan. A tévedés az átszállás és a munkáltatói felmondás összekeveréséből ered."
+        },
+        {
+          "text": "A vállalkozás, üzlet vagy ezek egy részének átruházása önmagában nem teremt jogalapot az átadó vagy a kedvezményezett általi elbocsátásra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az átszállás nem felmondási cím. A 2001/23/EK irányelv 4. cikk (1) bekezdése kimondja: az átruházás önmagában nem teremt elbocsátási jogalapot. A magyar 40. § a feltételváltozáshoz kötött munkavállalói felmondást rendezi, nem az átruházás mint munkáltatói felmondási ok. A munkaviszony a 36. § (1) bekezdése szerint fennmarad, a munkáltatói pozíció cserélődik."
+        },
+        {
+          "text": "Ha a munkafeltételek lényegesen és hátrányosan változnak, a felelősség a munkavállalót terheli, mert ő dönt a maradásról.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felelősség a munkáltatót terheli. A 2001/23/EK irányelv 4. cikk (2) bekezdése szerint, ha a munkaviszony a feltételek lényeges, hátrányos megváltozása miatt szűnik meg, a munkáltatót terheli a felelősség. Az Mt. 40. § (1) bekezdése ehhez a 70. § és a 77. § szerinti jogkövetkezményeket társítja. A tévedés forrása a munkavállaló választási szabadságának és a munkáltatói felelősségnek az összecsúsztatása."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "c01fb34f0970"
+    },
+    {
+      "question": "Mit jelent a VI. fejezet relatív diszpozitivitása a kollektív szerződés szempontjából?",
+      "options": [
+        {
+          "text": "A 41. § a 228. § (5) bekezdését, a 229. § (4) bekezdését és a 282. §-t is a VI. fejezet javára-eltérési rendje alá vonja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a VI. fejezet javára-eltérési záradéka a versenytilalom, a tanulmányi szerződés és a kollektív szerződéses fenntartás átszállási fordulataira nem terjed ki. Az Mt. 41. § csak a 36–40. §-ról szól; a 228. § (5) bekezdése, a 229. § (4) bekezdése és a 282. § a saját fejezetük eltérési rendje szerint dől el. A 282. § egyéves kollektív szerződéses fenntartását sem a 41. §, hanem a 282. § saját rendje érinti. A tévedés forrása a VI. fejezet és a kapcsolódó járulékos szabályok egy kalap alá vonása."
+        },
+        {
+          "text": "A 36–40. §-tól a kollektív szerződés csak a munkavállaló javára térhet el; rövidebb egyéves 39. §-os határidő vagy a 40. § harminc napjának szűkítése nem köthető ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a diszpozitivitás egyirányú. Az Mt. 41. § szerint a 36–40. §-ban foglaltaktól a kollektív szerződés a munkavállaló javára térhet el. A „javára” mércéje a konkrét munkavállalói joghelyzet, nem a munkáltatói költség. A 2001/23/EK irányelv 8. cikke szerint az irányelv a kedvezőbb tagállami vagy kollektív szerződéses védelmet nem korlátozza. Az egyetemlegesség elengedése sem köthető ki a munkavállaló rovására."
+        },
+        {
+          "text": "A munkavállaló javára szóló eltérés lehet például a 40. § szerinti felmondási jog meghosszabbítása vagy a 39. § egyéves idejének tágítása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kedvezőbb védelem a határidők tágításában is megjelenhet. Az Mt. 41. § a 36–40. § relatív diszpozitivitását mondja ki; a javára-eltérés példája a 40. § harminc napjának meghosszabbítása vagy a 39. § egyéves érvényesítési idejének tágítása. A tájékoztatási határidő előrébb hozása is e körbe tartozhat. A munkaszerződés a 41. § alapján a VI. fejezettől nem térhet el, csak a kollektív szerződés."
+        },
+        {
+          "text": "A munkaszerződés is eltérhet a 36–40. §-tól a munkavállaló javára, ugyanazzal a mércével, mint a kollektív szerződés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 41. § szerinti eltérés csak a kollektív szerződésnek van fenntartva. Az Mt. 41. § szövege: „A 36–40. §-ban foglaltaktól a kollektív szerződés a munkavállaló javára térhet el.” A munkaszerződés e záradék alapján a VI. fejezettől nem térhet el. Ez elválik a 35. § alanyi kógenciájától: ott az alanyok, itt a transzfervédelmi szabályok a tárgy. A tévedés a két záradék összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "5d5a01c9a15d"
+    },
+    {
+      "question": "A 228. § (5) bekezdése és a 229. § (4) bekezdése milyen pozícióba lépteti az átvevőt a járulékos kötelmekben?",
+      "options": [
+        {
+          "text": "Felszámolásban a 228. § (5) bekezdése és a 229. § (4) bekezdése továbbra is alkalmazandó, mert járulékos kötelmek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, felszámolásban mindkét fordulat kiesik. Az Mt. 36. § (2) bekezdés f) és g) pontja a 228. § (5) bekezdését és a 229. § (4) bekezdését taxatíve kiveszi. A felszámolás célja a jogutód nélküli megszüntetés melletti hitelezői kielégítés, nem a gazdasági egység identitásának átvitele. A tévedés forrása a járulékos kötelmek „külön életének” feltételezése a felszámolási kivétel ellenében."
+        },
+        {
+          "text": "A tanulmányi szerződésnél az átvevő viszi tovább a támogatási kötelezettséget és a visszakövetelési jogosultságot; a bentmaradási kötelezettség az átvevővel szemben él.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 229. § (4) bekezdése a 228. § (5) bekezdésének tükörképe a támogatási–bentmaradási cserén. Az Mt. 229. § (4) bekezdése szerint a tanulmányi szerződésből származó jogok és kötelezettségek az átvevő munkáltatóra átszállnak. A bentmaradás a képzettség megszerzése után a támogatás mértékével arányos, de legfeljebb öt év. Felszámolásban a 36. § (2) bekezdés g) pontja e fordulatot is kiveszi."
+        },
+        {
+          "text": "A versenytilalmi megállapodás és a tanulmányi szerződés csak akkor száll át, ha az átadó és az átvevő erről külön megállapodik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az átszállás törvényi, nem külön megállapodásos. Az Mt. 228. § (5) bekezdése és a 229. § (4) bekezdése a 36. § (1) bekezdésének speciális kimondása e két járulékos kötelmen. A 37. § szerinti tájékoztatás e jogviszonyokra is kiterjed, de a mulasztás az átszállást nem akadályozza. A tévedés a „külön megállapodásos” átszállás feltételezéséből ered."
+        },
+        {
+          "text": "A versenytilalomnál az átvevő a jogosulttá válik, a munkavállaló pedig az átvevővel szemben viseli a tartózkodási kötelezettséget.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (5) bekezdés a jogosulti és a kötelezetti pozíciót cseréli, nem új megállapodást követel. Az Mt. 228. § (5) bekezdése szerint a megállapodásból származó jogok és kötelezettségek az átvevőre szállnak. A tartam legfeljebb a munkaviszony megszűnését követő két év, az ellenérték alsó küszöbe az azonos időszakra járó alapbér egyharmada; e tartalom az átszállással továbbél. Felszámolásban a 36. § (2) bekezdés f) pontja e fordulatot kiveszi."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "d6efdddd7d4e"
+    },
+    {
+      "question": "Milyen két esetben nem terheli az átvevőt a kollektív szerződéses munkafeltételek egyéves fenntartása?",
+      "options": [
+        {
+          "text": "Ha a kollektív szerződés hatálya az átvételt követő egy évnél korábbi időpontban megszűnik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az első kimentés a korábbi hatályvesztés. Az Mt. 282. § (2) bekezdése szerint nem terheli a kötelezettség a munkáltatót, ha a kollektív szerződés hatálya az átvétel időpontját követő egy évnél korábbi időpontban megszűnik. Az (1) bekezdés főszabálya az átvételkor hatályos, a munkaviszonyra kiterjedő kollektív szerződéses munkafeltételek egyéves fenntartása. A 2001/23/EK irányelv 3. cikk (3) bekezdése a tagállami időkorlátot legalább egy évben szabja meg."
+        },
+        {
+          "text": "Ha a munkaviszonyra az átvételt követő időpontban már másik kollektív szerződés hatálya terjed ki — az átvevő saját vagy kiterjesztett hatályú szerződése is lehet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a második kimentés az új hatály. Az Mt. 282. § (2) bekezdése szerint a kötelezettség nem terheli a munkáltatót, ha a munkaviszonyra az átvételt követő időpontban kollektív szerződés hatálya terjed ki. A „fenntartani” a tartalmat védi, nem a kollektív szerződés kötelmi alanyiságát cseréli; új hatály esetén az (1) bekezdés szerinti kötelezettség kioltódik. Felszámolásban a 36. § (2) bekezdés h) pontja a 282. §-t kiveszi."
+        },
+        {
+          "text": "Az átvevő a kollektív szerződéses munkafeltételeket az átvételtől számított három évig köteles fenntartani.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a magyar főszabály egy év, nem három. Az Mt. 282. § (1) bekezdése az átvétel időpontját követő egy évig írja elő a fenntartást. A 2001/23/EK irányelv 3. cikk (3) bekezdése a tagállami korlátot legalább egy évben szabja meg; a magyar törvény ezt egyéves főszabállyá emeli. A tévedés forrása a 39. § egyéves egyetemlegességével vagy más tartamokkal való összecsúsztatás."
+        },
+        {
+          "text": "Az egyéves fenntartás azt is jelenti, hogy az átvevő automatikusan a kollektív szerződés kötelmi alanyává válik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 282. § a munkafeltételek tartalmát rögzíti, nem a kötelmi alanyiságot cseréli. Az Mt. 282. § (1) bekezdése a kollektív szerződésben meghatározott munkafeltételek fenntartásáról szól. Az átszállás a kollektív szerződés alanyát nem cseréli automatikusan. A tévedés a tartalmi rögzítés és a szerződő félcsere összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "3ece3fc1c535"
+    },
+    {
+      "question": "Miben tér el a csődeljárás és a felszámolási eljárás a transzfervédelem szempontjából?",
+      "options": [
+        {
+          "text": "A felszámolás célja a fizetésképtelen adós jogutód nélküli megszüntetése melletti hitelezői kielégítés, ezért a 36. § (2) bekezdése a transzfervédelmi tömböt kiveszi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogutód nélküli megszüntetés ellentétes a 36. § (1) bekezdése szerinti gazdasági egység-átvétellel. A Cstv. 1. § (3) bekezdése a felszámolást e célhoz köti. Az Mt. 36. § (2) bekezdése ezért a főszabályt, a tájékoztatási és egyetemlegességi szabályokat, valamint a kapcsolódó fordulatokat taxatíve kiveszi. A 2001/23/EK irányelv 5. cikk (1) bekezdése ugyanezt a vagyonfelszámolási célú fizetésképtelenségi átruházásra ismeri."
+        },
+        {
+          "text": "A magyar törvény az irányelv 5. cikk (2) bekezdése szerinti opciót választotta, és a 3–4. cikket felszámolásban is alkalmazza.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a magyar törvény a főszabály szerinti kivételt tette kötelezővé. Az Mt. 36. § (2)–(3) bekezdése a 2001/23/EK irányelv 5. cikk (1) bekezdése szerinti kivételt követi, a (2) bekezdés szerinti korlátozott alkalmazás helyett. A (3) bekezdés a szanálási vagyonértékesítést, az áthidaló intézményt és az eszköz-elkülönítést is e kivételhez sorolja. A tévedés forrása a tagállami opciók felcserélése."
+        },
+        {
+          "text": "Csődeljárásban és felszámolásban egyaránt kötelezően kiesik a teljes VI. fejezet, a 38. § (2) bekezdése nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 36. § (2) bekezdése a felszámolási eljárást nevesíti, és a 38. § (2) bekezdése a kivétellistán nem szerepel. Az Mt. 36. § (2) bekezdése a) –h) pontban sorolja a kieső szabályokat; a 38. § (2) bekezdése fennmarad. A csődeljárás a Cstv. 1. § (2) bekezdése szerint nem azonos a felszámolással. A tévedés a két fizetésképtelenségi eljárás és a maradék tájékoztatási szabály összecsúsztatásából ered."
+        },
+        {
+          "text": "A csődeljárás a fizetési haladékhoz és a csődegyezség kísérletéhez kötődik: a működés helyreállításának procedurája, nem önmagában a 36. § (2) bekezdése szerinti kivétel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a csődeljárás és a felszámolás elválik. A Cstv. 1. § (2) bekezdése szerint a csődeljárás során az adós fizetési haladékot kap, és csődegyezség megkötésére tesz kísérletet. A 36. § (2) bekezdése a felszámolási eljárást nevezi meg; a csődegyezséges működésfenntartás ettől különbözik. Az irányelv 5. cikk (1) bekezdése a vagyonfelszámolási célú, hatósági felügyelet alatt álló eljáráshoz köti a kivételt."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "46b1aedd4e3a"
+    },
+    {
+      "question": "Milyen tájékoztatási kötelezettség terheli a felszámolót a munkavállalókat érintő kérdésekről a Cstv. szerint?",
+      "options": [
+        {
+          "text": "A Cstv. 5. § b) pontja szerinti tájékoztatás helyettesíti a 38. § (2) bekezdés szerinti előzetes átszállási tájékoztatást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két tájékoztatási rend elválik. A Cstv. 5. § a fizetésképtelenségi információs jog; a 38. § (2) bekezdése a transzfervédelmi maradék, amely felszámolásban is élhet. Az Mt. 36. § (2) bekezdés c) pontja csak a 38. § (1) bekezdését veszi ki. A tévedés a két különböző célú tájékoztatás összekeveréséből ered."
+        },
+        {
+          "text": "Az adós vezetője, a vagyonfelügyelő vagy a felszámoló kérésre 8 munkanapon belül köteles tájékoztatni a munkavállalókat, az Mt. 270. §-a szerinti szakszervezeteket, az üzemi tanácsot vagy üzemi megbízottat és az állami foglalkoztatási szervet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ez fizetésképtelenségi információs jog, nem a 38. § (1) bekezdése szerinti átszállási tájékoztatás. A Cstv. 5. § b) pontja a nyolc munkanapos, kérelemre teljesítendő tájékoztatást rögzíti. A 36. § (2) bekezdés c) pontja a 38. § (1) bekezdését éppen kiveszi. A két tájékoztatási rend nem helyettesíti egymást."
+        },
+        {
+          "text": "A felszámoló hivatalból, kérelem nélkül is köteles nyolc munkanapon belül tájékoztatni a munkavállalókat minden vagyoni kérdésről.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Cstv. 5. § kérelemre és a munkavállalókat érintő kérdésekről szól, nem hivatalból a teljes vagyoni helyzetről. A Cstv. 5. § bevezető fordulata: „kérésükre 8 munkanapon belül”. A vagyoni-pénzügyi helyzet az a) pont szerinti hitelezői körhöz tartozik. A tévedés forrása a hivatalbóli kötelezettség és a kérelemre teljesítés, valamint az a) és b) pont felcserélése."
+        },
+        {
+          "text": "A Cstv. 5. § a) pontja ehhez képest a hitelezői választmányt, a hitelezői képviselőt, illetve ezek hiányában a bejelentett és elismert követelések legalább tíz százalékát képviselő hitelezőt a vagyoni és pénzügyi helyzetről tájékoztatja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szakasz két címzetti kört választ szét. A Cstv. 5. § a) pontja a hitelezői oldalt a vagyoni-pénzügyi helyzetről, a b) pont a munkavállalói oldalt a munkavállalókat érintő kérdésekről tájékoztatja. A teljesítési idő mindkét körben nyolc munkanap, kérelemre. Az Mt. 270. § a szakszervezeti jogokat a munkáltatónál képviselettel rendelkező szervezethez köti, és így jelöli ki a címzetti kört."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "4e0c5f347c9b"
+    },
+    {
+      "question": "A pénzügyi közvetítőrendszer szanálási eljárásai hogyan kapcsolódnak a 36. § (2) bekezdés szerinti kivételhez?",
+      "options": [
+        {
+          "text": "A (2) bekezdés rendelkezései irányadóak a vagyonértékesítési eljárásban, áthidaló intézmény alkalmazásában vagy eszköz-elkülönítés alkalmazásában.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szanálási három esetkör a felszámolási kivételhez sorolódik. Az Mt. 36. § (3) bekezdése a (2) bekezdés rendjét a pénzügyi közvetítőrendszer biztonságát erősítő törvényben meghatározott vagyonértékesítésre, áthidaló intézményre és eszköz-elkülönítésre is kiterjeszti. Így a 36. § (1) bekezdése, a 37. §, a 38. § (1) bekezdése, a 39–40. § és a kapcsolódó fordulatok e procedurákban sem alkalmazhatók. A 38. § (2) bekezdése a (2) bekezdés listáján továbbra sem szerepel."
+        },
+        {
+          "text": "Áthidaló intézmény alkalmazásánál a 39. § szerinti egyetemlegesség továbbra is kötelező.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés a (2) bekezdés teljes kivételi rendjét átveszi, ideértve a 39. § kiesését is. Az Mt. 36. § (3) bekezdése szerint a (2) bekezdés rendelkezései irányadóak az áthidaló intézményre is. A 36. § (2) bekezdés d) pontja a 39–40. §-t kiveszi. A tévedés a szanálás „külön, enyhébb” rendjének feltételezéséből ered."
+        },
+        {
+          "text": "A magyar törvény az irányelv 5. cikk (1) bekezdése szerinti kivételt kötelezővé tette, és a szanálási esetkörökkel egészítette ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tagállam másként is rendelkezhetett volna, de a magyar Mt. a kivételt választotta. A 2001/23/EK irányelv 5. cikk (1) bekezdése a 3. és a 4. cikk alóli kivételt a vagyonfelszámolási célú fizetésképtelenségi átruházásra köti, „amennyiben a tagállamok másként nem rendelkeznek”. Az Mt. 36. § (2)–(3) bekezdése a másként rendelkezést nem választotta, hanem a kivételt kötelezővé tette. A visszaélési záradékot a magyar szöveg külön nem emeli be."
+        },
+        {
+          "text": "A szanálási vagyonértékesítésben a 36. § (1) bekezdése szerinti átszállás ipso iure bekövetkezik, mert a gazdasági egység fennmarad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés a (2) bekezdés kivételét teszi irányadóvá, tehát az (1) bekezdés sem alkalmazható. Az Mt. 36. § (3) bekezdése a vagyonértékesítési eljárást is a felszámolási kivételhez sorolja. A gazdasági egység tényleges fennmaradása nem oldja fel a törvényi kivételt. A tévedés forrása az identitás-mérce és a 36. § (2)–(3) bekezdése szerinti kivétel összekeverése."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "577bf5caa259"
+    },
+    {
+      "question": "Egy üzemrész átvételekor a felek a cégjogi bejegyzés napját tekintik irányadónak. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "Ha a cégjogi bejegyzés későbbi, az átszállás csak a bejegyzéssel válik hatályossá.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkajogi átszállás az átvétel napjához kötődik. Az Mt. 36. § (1) bekezdése az átvétel időpontját nevezi meg; a kommentár szerint ez nem a cégjogi bejegyzés napja. A 2001/23/EK irányelv 3. cikk (1) bekezdése az átruházás napján fennálló jogokat szállítja. A tévedés a cégjogi hatály és a munkajogi átvételi időpont összekeveréséből ered."
+        },
+        {
+          "text": "A jogügylet a szerződéses vagy egyesüléses címet jelöli, nem a hatósági kényszerátszervezést.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a magyar 36. § „jogügyleten alapuló átvétel” fordulata a 2001/23/EK irányelv 1. cikk (1) bekezdés a) albekezdésének leképezése. Az irányelv a vállalkozás, üzlet vagy ezek egy részének szerződés alapján történő átruházásához vagy összefonódásához köti a hatályt. A közigazgatási funkciók közigazgatási szervek közötti átadása az 1. cikk (1) bekezdés c) albekezdése szerint nem átruházás. A hatósági kényszerátszervezés tehát nem tölti ki a 36. § (1) bekezdését."
+        },
+        {
+          "text": "Az átszállás időpontja az átvétel napja, nem a cégjogi bejegyzés napja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogügylet a szerződéses vagy egyesüléses címet jelöli, az időpont pedig az átvételhez kötődik. Az Mt. 36. § (1) bekezdése az átvétel időpontjában fennálló munkaviszonyból származó jogokat és kötelezettségeket szállítja át. A 2001/23/EK irányelv 3. cikk (1) bekezdése az átruházás napján fennálló jogokat említi. A cégjogi bejegyzés önmagában nem váltja ki és nem is tolja el a munkajogi időpontot."
+        },
+        {
+          "text": "A hatósági feladatátszervezés is jogügyleten alapuló átvétel, ha a dolgozók ténylegesen átkerülnek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a puszta hatósági feladatátszervezés nem gazdasági egység átvétele. A 2001/23/EK irányelv 1. cikk (1) bekezdés c) albekezdése a közigazgatási átszervezést és a közigazgatási funkciók átadását kiveszi. Az Mt. 36. § (1) bekezdése jogügyleten alapuló átvételt követel. A tévedés forrása a személyi átadás és a gazdasági egység identitásának összecsúsztatása."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "4c7d18c0c6b3"
+    },
+    {
+      "question": "Hogyan alakul a munkavállalói képviselet sorsa, ha az átruházott egység megőrzi, illetve elveszíti autonómiáját?",
+      "options": [
+        {
+          "text": "Ha az autonómia elvész, a tagállamnak biztosítania kell a megfelelő képviseletet a képviselet újraalakításáig azon munkavállalók számára, akik az átruházás előtt képviselettel rendelkeztek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az autonómia elvesztése nem hagyja képviselő nélkül az érintetteket. A 2001/23/EK irányelv 6. cikk (1) bekezdésének következő albekezdése átmeneti képviseletet követel a nemzeti joggal vagy gyakorlattal összhangban. A (2) bekezdés a megbízatás átruházás miatti megszűnésekor a képviselők személyes védelmét tartja fenn. A fizetésképtelenségi, vagyonfelszámolási eljárásban a tagállam az új képviselők kijelöléséig külön is intézkedhet."
+        },
+        {
+          "text": "Az autonómia elvesztésekor a képviselet azonnal és véglegesen megszűnik, átmeneti intézkedés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tagállamnak átmeneti képviseletet kell biztosítania. A 2001/23/EK irányelv 6. cikk (1) bekezdése az autonómia elvesztése esetén is megköveteli a megfelelő képviseletet az újraalakításig vagy az új kinevezésig. A (2) bekezdés a megszűnő megbízatású képviselők személyes védelmét is fenntartja. A tévedés az autonómia és a képviseleti védelem teljes megszakadásának feltételezéséből ered."
+        },
+        {
+          "text": "A magyar 38. § (1) bekezdése rendezi a képviselet folytonosságát az autonómia elvesztésekor.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 38. § (1) bekezdése az átvevő egyéni, írásbeli tájékoztatása az átszállás napján, nem a képviselet folytonossága. Az Mt. 38. § (1) bekezdése a munkáltató azonosító adatairól és a 46. § (1) bekezdése szerinti munkafeltételek változásáról szól. A képviselet sorsát az irányelv 6. cikke szabályozza; a magyar 38. § (2) bekezdése a képviselő nélküli, létszámküszöb alatti közvetlen tájékoztatással kapcsolódik. A tévedés forrása a tájékoztatási és a képviseleti szabályok felcserélése."
+        },
+        {
+          "text": "Ha a vállalkozás, üzlet vagy ezek egy része megőrzi autonómiáját, a képviselők jogállása és feladatai változatlan feltételekkel fennmaradnak, feltéve hogy a képviselet létesítésének feltételei megvannak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az autonómia megőrzése a képviselet folytonosságának feltétele. A 2001/23/EK irányelv 6. cikk (1) bekezdése a jogállás és a feladatok változatlan fennmaradását az autonómiához és a létesítési feltételekhez köti. Kivétel engedhető, ha a nemzeti jog vagy a képviselőkkel kötött megállapodás az újbóli kinevezést vagy az újraalakítást lehetővé teszi. A magyar 38. § (2) bekezdése a kis létszámú, üzemi képviselet nélküli körben a közvetlen tájékoztatással kapcsolódik e rendhez."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "950b17a6d747"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható a 40. § szerinti különös felmondási jog a határidő miatt?",
+      "options": [
+        {
+          "text": "A harminc nap az elévülési idő, ezért a 286. § hároméves ideje a 40. § szerinti felmondásra is irányadó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a harminc nap a felmondási jog gyakorlására jogvesztő határidő, nem elévülés. Az Mt. 40. § (3) bekezdése a változás időpontját követő harminc napot szabja. A 287. § (2) bekezdés a) pontja a 40. § szerinti felmondással kapcsolatos igényt — a másik fél perét — az elévülési időn belül tartja nyitva; ez elválik a harminc naptól. A tévedés a jogvesztő határidő és az elévülés összekeveréséből ered."
+        },
+        {
+          "text": "Ha a munkavállaló a változástól számított negyvenötödik napon mond fel a 40. § alapján, a felmondás a 70. § szerint akkor is érvényes.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a harminc nap elteltével a 40. § szerinti felmondási jog elenyészik. Az Mt. 40. § (3) bekezdése a jogot a változás időpontját követő harminc napon belülre korlátozza. A 70. § és a 77. § csak a határidőn belül, az (1) bekezdés szerinti tényállás mellett alkalmazandó megfelelően. A tévedés forrása a felmondási idő tartamának és a gyakorlási határidőnek az összecsúsztatása."
+        },
+        {
+          "text": "A munkavállaló a felmondás jogát a munkáltató személyében bekövetkezett változás időpontját követő harminc napon belül gyakorolhatja; e határidő jogvesztő a 40. § szerinti felmondásra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a harminc nap a változás időpontjától indul, és a különös felmondási jogra jogvesztő. Az Mt. 40. § (3) bekezdése ezt expressis verbis rögzíti. A 40. § (1) bekezdése szerinti tényállás — lényeges és hátrányos feltételváltozás, aránytalan sérelem vagy lehetetlenülés — önmagában nem hosszabbítja meg a határidőt. A 287. § (2) bekezdés a) pontja a kapcsolódó igényt az elévülési időn belül tartja nyitva, ez a harminc naptól elválik."
+        },
+        {
+          "text": "A harminc nap elteltével a 40. § szerinti felmondási jog elenyészik; e határidő a felmondás megtételére jogvesztő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a határidőn túli gyakorlás a különös felmondási jogot elengedi. Az Mt. 40. § (3) bekezdése a változás időpontját követő harminc napon belülre korlátozza a jogot. A 287. § (2) bekezdés a) pontja a felmondással kapcsolatos igényt — a másik fél perét — az elévülési időn belül tartja nyitva; ez a harminc naptól elválik. A 70. § és a 77. § csak a határidőn belüli, az (1) bekezdés szerinti tényállás mellett alkalmazandó megfelelően."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "5ce08a02d8b7"
+    },
+    {
+      "question": "Mi a különbség a 37. § szerinti átadó–átvevő tájékoztatás és a 38. § szerinti munkavállalói tájékoztatás között?",
+      "options": [
+        {
+          "text": "A 38. § (1) bekezdése az átvevő egyéni, írásbeli tájékoztatása az átszállás napján; a (2) bekezdés a létszámküszöb alatti, üzemi képviselet nélküli előzetes tájékoztatás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkavállaló tájékoztatása két síkon áll. Az Mt. 38. § (1) bekezdése a naphoz kötött, azonosító adatokkal történő közlés; a (2) bekezdés a tizenöt napos előzetes, közvetlen tájékoztatás. A 36. § (2) bekezdés c) pontja csak az (1) bekezdést veszi ki felszámolásban. A 37. § ehhez képest az átadó és az átvevő közötti belső tájékoztatás, amelyet a 36. § (2) bekezdés b) pontja felszámolásban szintén kivesz."
+        },
+        {
+          "text": "A 37. § mulasztása esetén a munkavállaló az átvevővel szemben nem érvényesíthet igényt, amíg a tájékoztatás pótlásra nem kerül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mulasztás az átvevővel szembeni igényérvényesítést nem érinti. Az Mt. 37. § második mondata ezt expressis verbis kimondja. A 2001/23/EK irányelv 3. cikk (2) bekezdése szerint a mulasztás nem érinti a jog átszállását és a munkavállaló igényét. A tévedés a belső tájékoztatást hatályossági feltétellé emeli."
+        },
+        {
+          "text": "A 38. § (1) és (2) bekezdése egyaránt az átadó kizárólagos kötelezettsége, az átvevő soha nem járhat el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (1) bekezdés az átvevő kötelezettsége, a (2) bekezdésnél pedig az átadó a főkötelezett, de megállapodás alapján az átvevő is eljárhat. Az Mt. 38. § (1) bekezdése az átvevőt nevezi meg; a (2) bekezdés az átadót vagy — megállapodás alapján — az átvevőt. A tévedés forrása a két bekezdés alanyának összecsúsztatása."
+        },
+        {
+          "text": "A 37. § a belső információs rést zárja: az átadó az átvevőt tájékoztatja, a mulasztás pedig a munkavállaló átvevővel szembeni igényét nem érinti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 37. § a kedvezményezett (átvevő) védelme, nem a munkavállaló igényének előfeltétele. Az Mt. 37. § első mondata az átadóra telepíti a tájékoztatást a munkaviszonyok, a versenytilalmi megállapodások és a tanulmányi szerződések körében. A második mondat a mulasztás joghatását vágja el az igényérvényesítéstől. A 2001/23/EK irányelv 3. cikk (2) bekezdése ugyanezt a szerkezetet adja."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "3bbd24f84924"
+    },
+    {
+      "question": "A tanulmányi szerződés bentmaradási kötelezettsége hogyan viszonyul az átszálláshoz?",
+      "options": [
+        {
+          "text": "A tanulmányi szerződés átszállása csak akkor következik be, ha a 37. § szerinti tájékoztatás megtörtént.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tájékoztatás elmaradása az átszállást nem akadályozza. Az Mt. 37. § második mondata szerint a mulasztás az átvevővel szembeni igényérvényesítést nem érinti; a 229. § (4) bekezdése törvényi átszállást mond ki. A 2001/23/EK irányelv 3. cikk (2) bekezdése ugyanezt az elválasztást rögzíti. A tévedés forrása a tájékoztatás hatályossági feltétellé emelése."
+        },
+        {
+          "text": "Átszálláskor a bentmaradási kötelezettség automatikusan megszűnik, mert az új munkáltatóhoz nem kötődik a képzés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bentmaradási kötelezettség az átvevővel szemben tovább él. Az Mt. 229. § (4) bekezdése szerint a tanulmányi szerződésből származó jogok és kötelezettségek az átvevőre átszállnak. A munkavállaló a képzettség megszerzése után a támogatás mértékével arányos, legfeljebb öt éves időn át az átvevővel szemben viseli a bentmaradást. A tévedés a személycsere és a kötelmi megszűnés összekeveréséből ered."
+        },
+        {
+          "text": "A bentmaradás a képzettség megszerzése után a támogatás mértékével arányos, de legfeljebb öt év; átszálláskor az átvevő viszi tovább a támogatási kötelezettséget és a visszakövetelési jogosultságot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tanulmányi szerződés a munkáltatói támogatás és a munkavállalói bentmaradás arányos cseréje. Az Mt. 229. § (1) bekezdése a legfeljebb öt éves keretet rögzíti; a (4) bekezdés az átszállást mondja ki. Az átvevő e jogosultságok és kötelezettségek alanya lesz, ideértve az (5)–(7) bekezdés szerinti szerződésszegési és visszatérítési rendet. Felszámolásban a (4) bekezdés a 36. § (2) bekezdés g) pontja szerint nem alkalmazható."
+        },
+        {
+          "text": "Nem köthető tanulmányi szerződés a munkaviszonyra vonatkozó szabály alapján járó kedvezményre, és akkor sem, ha a tanulmányokra a munkáltató kötelezte a munkavállalót.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés két tilalmat állít a szerződéskötés elé. Az Mt. 229. § (2) bekezdés a) és b) pontja a törvényi kedvezményt és a munkáltatói kötelezést zárja ki. Az átszállás a (4) bekezdés szerint a már fennálló szerződéses pozíciókat viszi át, nem oldja fel e tilalmakat. A 115. § (2) bekezdése a munkaviszonyban töltött idő számításánál — eltérő megállapodás hiányában — megfelelően irányadó."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "1add1599d392"
+    },
+    {
+      "question": "A versenytilalmi megállapodás ellenértéke és tartama hogyan viszonyul az átszálláshoz?",
+      "options": [
+        {
+          "text": "A versenytilalom tartama legfeljebb a munkaviszony megszűnését követő két év, az ellenérték pedig a megállapodás tartamára nem lehet kevesebb, mint az azonos időszakra járó alapbér egyharmada; átszálláskor e pozíciók az átvevőre szállnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (1)–(2) bekezdés a tartamot és az ellenérték alsó küszöbét szabja, az (5) bekezdés az átszállást. Az Mt. 228. § (1) bekezdése a legfeljebb két éves tartamot, a (2) bekezdés az alapbér egyharmadát rögzíti. Az (5) bekezdés szerint a megállapodásból származó jogok és kötelezettségek az átvevőre átszállnak. Az átvevő a jogosulti pozícióba lép, a munkavállaló az átvevővel szemben viseli a tartózkodást."
+        },
+        {
+          "text": "Átszálláskor az ellenérték alsó küszöbe automatikusan az alapbér felére emelkedik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az ellenérték alsó küszöbe az azonos időszakra járó alapbér egyharmada marad. Az Mt. 228. § (2) bekezdése ezt a mértéket rögzíti; az (5) bekezdés a pozíciókat szállítja át, a mértéket nem emeli. A tévedés a 229. § ötéves bentmaradási keretével vagy más arányokkal való összecsúsztatásból ered. Az átszállás a meglévő megállapodás tartalmát viszi tovább."
+        },
+        {
+          "text": "Ha a munkavállaló a munkaviszonyát a 78. § (1) bekezdése alapján szünteti meg, a megállapodástól elállhat; ez a jog az átszállás után az átvevővel szemben is értelmezhető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az elállási jog a 78. § (1) bekezdése szerinti azonnali hatályú felmondáshoz kötődik. Az Mt. 228. § (4) bekezdése az elállást kimondja; az (5) bekezdés az átszállással az átvevőt lépteti a munkáltatói pozícióba. A megállapodást írásba kell foglalni a (3) bekezdés szerint. Felszámolásban az (5) bekezdés a 36. § (2) bekezdés f) pontja szerint nem alkalmazható."
+        },
+        {
+          "text": "A versenytilalmi megállapodás írásbelisége az átszállással pótolható, ha az átvevő elismeri a kötelmet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az írásbeliség a megállapodás érvényességi kelléke, az átszállás ezt nem pótolja. Az Mt. 228. § (3) bekezdése szerint a versenytilalmi megállapodást írásba kell foglalni. Az (5) bekezdés a már fennálló megállapodásból származó jogokat és kötelezettségeket szállítja. A tévedés forrása az átszállás és az alakszerűségi kellék felcserélése."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "e5fbe73dd0c3"
+    },
+    {
+      "question": "Mi következik abból, ha az átadó vagy a kedvezményezett intézkedéseket tervez a munkavállalóival kapcsolatban?",
+      "options": [
+        {
+          "text": "A konzultáció csak akkor kötelező, ha a munkavállalók többsége ezt írásban kéri.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a konzultáció a tervezett intézkedéshez kötődik, nem a munkavállalói kérelemhez. A 2001/23/EK irányelv 7. cikk (2) bekezdése szerint, ha az átadó vagy a kedvezményezett intézkedéseket tervez, megfelelő időben konzultálnia kell. Az (1) bekezdés szerinti tájékoztatás ettől elválik, de szintén nem kérelemhez kötött. A tévedés a Cstv. 5. § kérelemre teljesítendő tájékoztatásával való összekeverésből ered."
+        },
+        {
+          "text": "Az ellenőrző vállalkozás hallgatása nem fogadható el kifogásként a tájékoztatási és konzultációs kötelezettség megsértésének vizsgálatánál.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a döntést hozó ellenőrző vállalkozás mulasztása nem mentesít. A 2001/23/EK irányelv 7. cikk (4) bekezdése szerint a kötelezettségeket arra tekintet nélkül kell alkalmazni, hogy a döntést a munkáltató vagy az ellenőrzést gyakorló vállalkozás hozta. Az ellenőrző vállalkozás elmulasztott tájékoztatása nem fogadható el kifogásként. Az (5) bekezdés a kötelezettséget a képviselőválasztási létszámküszöbhöz igazíthatja."
+        },
+        {
+          "text": "Ha a döntést az ellenőrző vállalkozás hozta, a munkáltató mentesül a 7. cikk szerinti kötelezettségek alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 7. cikk (4) bekezdése éppen ezt a kimentést zárja ki. A 2001/23/EK irányelv szerint a kötelezettségeket arra tekintet nélkül kell alkalmazni, hogy a döntést a munkáltató vagy az ellenőrzést gyakorló vállalkozás hozta. Az ellenőrző vállalkozás hallgatása nem fogadható el kifogásként. A tévedés forrása a döntéshozó és a kötelezett azonosításának eltolása."
+        },
+        {
+          "text": "Megfelelő időben konzultálnia kell a munkavállalók képviselőivel ezekről az intézkedésekről annak érdekében, hogy megállapodásra jussanak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a konzultáció a tervezett intézkedésekhez és a megállapodási célhoz kötődik. A 2001/23/EK irányelv 7. cikk (2) bekezdése ezt expressis verbis előírja. Az (1) bekezdés ehhez képest a tájékoztatás négy elemét és a „megfelelő idő” követelményét rögzíti. A magyar 38. § (2) bekezdése a létszámküszöb alatti, képviselő nélküli körben a tájékoztatás tartalmát tizenöt napban konkretizálja."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "8f0a5a6dfc13"
+    },
+    {
+      "question": "Az irányelv területi hatálya és a tengerjáró hajók kizárása hogyan határolja a védelmet?",
+      "options": [
+        {
+          "text": "Az irányelvet abban az esetben és annyiban kell alkalmazni, amennyiben az átruházásra kerülő vállalkozás, üzlet vagy ezek egy része a Szerződés területi hatálya alá tartozó területen található.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a területi hatály a Szerződés területéhez kötött. A 2001/23/EK irányelv 1. cikk (2) bekezdése ezt expressis verbis rögzíti. Az (1) bekezdés a) –c) albekezdése ehhez képest az átruházás fogalmát, a gazdasági egység identitását és a közigazgatási kivételt rendezi. A magyar 36. § (1) bekezdése e fogalmi magot veszi át a gazdasági egység meghatározásával."
+        },
+        {
+          "text": "Az irányelv nem vonatkozik a tengerjáró hajókra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés kifejezett kizárást ad. A 2001/23/EK irányelv 1. cikk (3) bekezdése szerint az irányelv nem vonatkozik a tengerjáró hajókra. Ez elválik a közigazgatási átszervezés 1. cikk (1) bekezdés c) albekezdése szerinti kivételétől. A magyar VI. fejezet az irányelv leképezése, de a tengerjáró hajók kizárása az uniós hatály határa."
+        },
+        {
+          "text": "A területi hatály azt jelenti, hogy az átvevő székhelyének kell a Szerződés területén lennie, az átruházott egység helye közömbös.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mérce az átruházásra kerülő vállalkozás, üzlet vagy ezek egy részének elhelyezkedése. A 2001/23/EK irányelv 1. cikk (2) bekezdése az átruházásra kerülő egységet köti a Szerződés területi hatályához. Az átvevő székhelye önmagában nem váltja ki és nem is pótolja ezt. A tévedés forrása az átvevő személyi kapcsolódásának és az egység területi elhelyezkedésének felcserélése."
+        },
+        {
+          "text": "A tengerjáró hajókra is alkalmazni kell az irányelvet, ha a hajó tulajdonosa a Szerződés területén bejegyzett társaság.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés a tengerjáró hajókat zárja ki, a tulajdonos bejegyzési helyétől függetlenül. A 2001/23/EK irányelv 1. cikk (3) bekezdése: „Ez az irányelv nem vonatkozik a tengerjáró hajókra.” A (2) bekezdés a területi hatályt az átruházásra kerülő egység elhelyezkedéséhez köti, nem a tulajdonos székhelyéhez. A tévedés a területi hatály és a személyi kapcsolódás összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "ef75f7e1ea6a"
+    },
+    {
+      "question": "Az átadó és a kedvezményezett fogalma az irányelv szerint miben különbözik a puszta szerződéses partnerváltástól?",
+      "options": [
+        {
+          "text": "Átadó az, akinek az átruházás következtében tulajdonosi minősége megszűnik a vállalkozás, üzlet vagy ezek egy része tekintetében.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az átadó fogalma a tulajdonosi minőség megszűnéséhez kötődik. A 2001/23/EK irányelv 2. cikk (1) bekezdés a) pontja ezt expressis verbis rögzíti. A magyar szöveg átadó munkáltatót mond, de a fogalmi mag ugyanaz. Az 1. cikk (1) bekezdése szerinti átruházás nélkül a puszta szerződéses partnerváltás nem tölti ki e fogalmat."
+        },
+        {
+          "text": "A kedvezményezett fogalma a magyar jogban csak természetes személyre vonatkozik, jogi személyre nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kedvezményezett természetes vagy jogi személy is lehet. A 2001/23/EK irányelv 2. cikk (1) bekezdés b) pontja mindkét alanyi kört megnevezi. Az Mt. 36. § (1) bekezdése átvevő munkáltatót mond, személyi szűkítés nélkül. A tévedés forrása a „személy” szó természetes személyre szűkítése."
+        },
+        {
+          "text": "Kedvezményezett az, aki az átruházás következtében tulajdonossá válik a vállalkozás, az üzlet vagy ezek egy része tekintetében.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kedvezményezett a tulajdonosi minőség megszerzéséhez kötődik. A 2001/23/EK irányelv 2. cikk (1) bekezdés b) pontja ezt rögzíti; a magyar szöveg átvevő munkáltatót mond. A 3. cikk (1) bekezdése az átszálló jogokat a kedvezményezettre telepíti. A tulajdonosi minőség változása és a gazdasági egység identitásának fennmaradása együttesen adja az átruházást."
+        },
+        {
+          "text": "Átadó lehet az is, aki csak a munkaerő-kölcsönzési szerződést mondja fel, anélkül hogy tulajdonosi minősége változna.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az átadó fogalma a tulajdonosi minőség megszűnéséhez kötődik. A 2001/23/EK irányelv 2. cikk (1) bekezdés a) pontja az 1. cikk (1) bekezdése szerinti átruházás következtében beálló tulajdonosi változást követeli. A kölcsönzési szerződés felmondása önmagában nem tulajdonosi átruházás. A tévedés a kölcsönzés és a gazdasági egység-átruházás összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "5868e683c7e1"
+    },
+    {
+      "question": "A kiegészítő vállalati nyugdíjrendszerek hogyan viszonyulnak az átszállás főszabályához az irányelv szerint?",
+      "options": [
+        {
+          "text": "Még ha a tagállam nem rendeli el az (1) és (3) bekezdés alkalmazását e jogokra, intézkedéseket kell elfogadnia a munkavállalók és az átadó vállalkozásban már nem alkalmazott személyek érdekeinek védelmére.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kivétel nem hagyja védtelenül az érintetteket. A 2001/23/EK irányelv 3. cikk (4) bekezdés b) albekezdése az azonnali vagy jövőbeli öregségi — ideértve a hozzátartozói — jogcímek védelmét követeli. A védelem az átruházás időpontjában fennálló jogokra terjed ki. Ez elválik a magyar 39. § egyetemlegességétől, amely az átszállást megelőzően esedékessé vált munkavállalói követelésre vonatkozik."
+        },
+        {
+          "text": "Amennyiben a tagállamok másként nem rendelkeznek, az átszállás és a kollektív szerződéses feltételek tiszteletben tartásának főszabályát nem kell alkalmazni a kiegészítő vállalati vagy vállalatközi nyugdíjrendszerekben az öregségi, rokkantsági vagy hozzátartozói ellátásokra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 3. cikk (4) bekezdés a) albekezdése kivételt enged a főszabály alól. A 2001/23/EK irányelv 3. cikk (1) és (3) bekezdésének alkalmazása e körben tagállami döntéshez kötött. A kivétel a jogszabályilag előírt szociális biztonsági rendszereken kívüli kiegészítő rendszerekre vonatkozik. A b) albekezdés ettől függetlenül védőintézkedési kötelezettséget ír elő."
+        },
+        {
+          "text": "A kiegészítő vállalati nyugdíjjogok minden esetben ipso iure átszállnak a kedvezményezettre, tagállami eltérés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (4) bekezdés a) albekezdése éppen a főszabály alóli kivételt engedi. A 2001/23/EK irányelv 3. cikk (4) bekezdés a) albekezdése szerint az (1) és (3) bekezdést e jogokra nem kell alkalmazni, ha a tagállam másként nem rendelkezik. A b) albekezdés védőintézkedést követel, nem automatikus átszállást. A tévedés a 3. cikk (1) bekezdése főszabályának kiterjesztéséből ered."
+        },
+        {
+          "text": "A magyar 39. § egyetemlegessége a kiegészítő nyugdíjjogokra is kiterjed, mert munkavállalói követelés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 39. § az átszállást megelőzően esedékessé vált munkavállalói követelésre vonatkozik, nem a kiegészítő nyugdíjrendszerek külön uniós kivételére. Az Mt. 39. § a bérjellegű, előzetesen esedékes követelést fedi; a 2001/23/EK irányelv 3. cikk (4) bekezdése e kört külön kezeli. A tévedés forrása az egyetemlegesség és a nyugdíjkivétel összecsúsztatása."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "2d0a544484d5"
+    },
+    {
+      "question": "A 66. § (3) bekezdése miért szerepel a felszámolási kivétellistán?",
+      "options": [
+        {
+          "text": "A kivétellista csak a 36–40. §-ra terjed ki; a 228. §, a 229. § és a 282. § felszámolásban is él.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kivétellista a VI. fejezet magján túl a járulékos és a kollektív szerződéses fordulatokat is tartalmazza. Az Mt. 36. § (2) bekezdés f)–h) pontja a 228. § (5) bekezdését, a 229. § (4) bekezdését és a 282. §-t kiveszi. Ugyanezen lista e) pontja a 66. § (3) bekezdését is nevesíti. A tévedés forrása a VI. fejezet magjának és a kapcsolódó szakaszoknak a szétválasztása a törvényi lista ellenében."
+        },
+        {
+          "text": "A 66. § (3) bekezdése felszámolásban is alkalmazandó, mert a felszámolási kivétellista nem említi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 66. § (3) bekezdése a kivétellistán szerepel, ezért felszámolásban nem alkalmazható. Az Mt. 36. § (2) bekezdés e) pontja a 66. § (3) bekezdését taxatíve kiveszi. A felszámolásban a hitelezői kielégítési rend a Cstv. 1. § (3) bekezdése szerinti cél mellett érvényesül. A tévedés a listán szereplő szakasz fennmaradásának feltételezéséből ered."
+        },
+        {
+          "text": "A 36. § (2) bekezdése a 228. § (5) bekezdését, a 229. § (4) bekezdését és a 282. §-t is kiveszi, tehát a járulékos és a kollektív szerződéses fordulatok is kiesnek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felszámolási kivétel a járulékos kötelmekre és a kollektív szerződéses fenntartásra is kiterjed. Az Mt. 36. § (2) bekezdés f)–h) pontja a versenytilalom átszállását, a tanulmányi szerződés átszállását és a kollektív szerződéses munkafeltételek egyéves fenntartását is kiveszi. A létszámküszöb alatti, üzemi képviselet nélküli előzetes tájékoztatás — a 38. § (2) bekezdése — a listán nem szerepel, ezért felszámolásban is alkalmazandó. A szanálási három esetkörre a (3) bekezdés ugyanezt a kivételi rendet teszi irányadóvá."
+        },
+        {
+          "text": "A 36. § (2) bekezdés e) pontja a 66. § (3) bekezdését taxatíve kiveszi a felszámolási eljárás alól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kivétellista nevesíti a 66. § (3) bekezdését, tartalmi kifejtés nélkül. Az Mt. 36. § (2) bekezdés e) pontja a 66. § (3) bekezdését a kieső rendelkezések között sorolja. A felszámolás célja a jogutód nélküli megszüntetés melletti hitelezői kielégítés a Cstv. 1. § (3) bekezdése szerint. A forrás a 66. § (3) bekezdésének tartalmát nem fejti ki; a listán szereplés a kivétel alapja."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "075079649842"
+    },
+    {
+      "question": "Miben tér el a 40. § szerinti felmondás jogkövetkezménye a rendes munkavállalói felmondástól?",
+      "options": [
+        {
+          "text": "A 40. § szerinti felmondás indokolásmentes, mert a 67. § (1) bekezdése szerinti munkavállalói felmondás mintájára épül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a különös felmondás indokolásköteles, nem a 67. § általános indokolásmentes mintáját követi. Az Mt. 40. § (2) bekezdése a 67. § (2) bekezdése szerinti szabályok alkalmazását követeli meg: a valóság és az okszerűség a munkavállalót terheli. A 67. § szerinti általános munkavállalói felmondás indokolásmentessége ide nem vihető át. A tévedés forrása a két felmondási alakzat indokolási rendjének felcserélése."
+        },
+        {
+          "text": "A tényállás szigorúan kötött: a munkáltató személyében bekövetkezett változás, a rá irányadó munkafeltételek lényeges és hátrányos megváltozása, valamint az aránytalan sérelem vagy a lehetetlenülés.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a három elem konjunktív: a személyváltozás önmagában nem elég. Az Mt. 40. § (1) bekezdése a munkáltató személyében bekövetkezett változást, a rá irányadó munkafeltételek lényeges és hátrányos megváltozását, valamint az aránytalan sérelmet vagy a lehetetlenülést köti össze. A puszta tulajdonosváltás vagy a bér színvonalának fenntartása a tényállást nem tölti ki. A jog a változás időpontját követő harminc napon belül gyakorolható a (3) bekezdés szerint."
+        },
+        {
+          "text": "A 40. § szerinti felmondásnál végkielégítés soha nem jár, mert a munkavállaló kezdeményezi a megszüntetést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 77. § megfelelő alkalmazása éppen a végkielégítést is megnyithatja. Az Mt. 40. § (1) bekezdése a 70. §-t és a 77. §-t megfelelően rendeli alkalmazni. A 2001/23/EK irányelv 4. cikk (2) bekezdése szerint a feltételek lényeges, hátrányos megváltozása miatti megszűnésért a munkáltató felel. A tévedés a rendes munkavállalói felmondás és a feltételváltozáshoz kötött különös felmondás jogkövetkezményeinek összekeveréséből ered."
+        },
+        {
+          "text": "A 40. § (1) bekezdése a 70. §-t és a 77. §-t megfelelően alkalmazza, tehát felmondási idő és végkielégítés járhat, szemben a 67. § általános, indokolásmentes munkavállalói felmondásával.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a különös felmondás a munkáltatói felelősséghez igazított jogkövetkezményeket hív. Az Mt. 40. § (1) bekezdése a 70. § és a 77. § megfelelő alkalmazását rendeli, tehát felmondási idő és végkielégítés járhat. A 2001/23/EK irányelv 4. cikk (2) bekezdése a feltételek lényeges, hátrányos megváltozása miatti megszűnés felelősségét a munkáltatóra telepíti. A munkavállaló a felmondást a 67. § (2) bekezdése szerinti szabályok alkalmazásával köteles megindokolni."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "3ec12592d6aa"
+    },
+    {
+      "question": "Egy gazdasági egység átvételekor az átvevő az átadó bérszínvonalát fenntartja, de a munkarendet lényegesen és hátrányosan átalakítja. Mely megállapítások helytállóak?",
+      "options": [
+        {
+          "text": "Ha a bér változatlan, a 40. § szerinti felmondás fogalmilag kizárt, mert hátrányos változás nem állapítható meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkafeltételek köre tágabb a bérnél. Az Mt. 40. § (1) bekezdése a rá irányadó munkafeltételek lényeges és hátrányos megváltozásáról beszél; a munkarend átalakítása e körbe tartozhat. A 2001/23/EK irányelv 4. cikk (2) bekezdése is a munkafeltételek hátrányos megváltozását említi, nem kizárólag a díjazást. A tévedés a bér és a munkafeltételek azonosításából ered."
+        },
+        {
+          "text": "A bér színvonalának fenntartása önmagában nem zárja ki a 40. § szerinti felmondási tényállást, ha a rá irányadó munkafeltételek egyébként lényegesen és hátrányosan változnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tényállás a munkafeltételek lényeges és hátrányos megváltozását nézi, nem csak a bért. Az Mt. 40. § (1) bekezdése a rá irányadó munkafeltételek változását, valamint az aránytalan sérelmet vagy a lehetetlenülést követeli meg. A kommentár szerint a bér színvonalának fenntartása önmagában a tényállást nem tölti ki, de fordítva sem mentesít, ha más feltételek leromlanak. A jogot harminc napon belül, indokolással kell gyakorolni."
+        },
+        {
+          "text": "Az átvevő az átszállásra hivatkozva jogszerűen felmondhat, ha a munkarend átalakítása gazdasági okú.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az átruházás önmagában nem teremt elbocsátási jogalapot. A 2001/23/EK irányelv 4. cikk (1) bekezdése ezt kizárja; a gazdasági, műszaki vagy szervezeti okú elbocsátás ettől elválik, és nem az „átszállás” címén fut. Az Mt. 36. § (1) bekezdése a fennálló munkaviszonyból származó jogokat és kötelezettségeket szállítja át, a munkaviszony magát nem szünteti meg. A tévedés forrása az átszállás és a gazdasági okú létszámcsökkentés összecsúsztatása."
+        },
+        {
+          "text": "Ha a munkaviszony a feltételek lényeges, hátrányos megváltozása miatt szűnik meg, a felelősség a munkáltatót terheli a 2001/23/EK irányelv szerint is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az uniós norma a munkáltatói felelősséget telepíti. A 2001/23/EK irányelv 4. cikk (2) bekezdése szerint, ha a munkaszerződés vagy a munkaviszony azért szűnik meg, mert az átruházás lényegesen megváltoztatja a munkafeltételeket a munkavállaló hátrányára, a munkáltatót terheli a felelősség. A magyar 40. § ezt a 70. § és a 77. § megfelelő alkalmazásához köti. Az átruházás önmagában továbbra sem elbocsátási jogalap a 4. cikk (1) bekezdése szerint."
+        }
+      ],
+      "sourceKerdesSorszam": 29,
+      "sourceHash": "2b212d343aa7"
+    },
+    {
+      "question": "A 282. § egyéves fenntartása miben különbözik attól, hogy az átvevő új kollektív szerződést köt?",
+      "options": [
+        {
+          "text": "Ha az átvételt követően a munkaviszonyra már másik kollektív szerződés hatálya terjed ki, az egyéves fenntartási kötelezettség nem terheli az átvevőt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés második kimentése az új hatály. Az Mt. 282. § (2) bekezdése szerint a kötelezettség nem terheli a munkáltatót, ha a munkaviszonyra az átvételt követő időpontban kollektív szerződés hatálya terjed ki. Az első kimentés a kollektív szerződés egy évnél korábbi megszűnése. Felszámolásban a kollektív szerződéses munkafeltételek egyéves fenntartása is kiesik a 36. § (2) bekezdés h) pontja szerint."
+        },
+        {
+          "text": "Új kollektív szerződés kötése az egyéves fenntartást automatikusan három évre hosszabbítja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az új hatályú kollektív szerződés a fenntartási kötelezettséget kioltja, nem hosszabbítja. Az Mt. 282. § (2) bekezdése szerint, ha a munkaviszonyra az átvételt követően kollektív szerződés hatálya terjed ki, az (1) bekezdés szerinti kötelezettség nem terheli a munkáltatót. A tartam egy év, nem három. A tévedés a fenntartás és az új szerződés viszonyának megfordításából ered."
+        },
+        {
+          "text": "A 41. § alapján a kollektív szerződés a 282. § egyéves idejét a munkavállaló rovására is rövidítheti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 41. § a 282. §-t nem vonja a VI. fejezet javára-eltérési rendje alá. Az Mt. 41. § csak a 36–40. §-ról szól; a 282. § a saját fejezete eltérési rendje szerint dől el. Ráadásul a 41. § csak a munkavállaló javára enged eltérést a 36–40. § körében. A tévedés forrása, hogy a 41. § VI. fejezeti javára-eltérését a 282. § egyéves fenntartására is ráolvassák."
+        },
+        {
+          "text": "A 282. § (1) bekezdése a tartalmat védi egy évig; az átvevő akkor is e szerint jár el, ha a szakszervezettel nem köt újat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fenntartás nem feltételezi az új kötelmi alanyiságot. Az Mt. 282. § (1) bekezdése az átvételkor hatályos, a munkaviszonyra kiterjedő kollektív szerződéses munkafeltételek egyéves fenntartását írja elő. A 2001/23/EK irányelv 3. cikk (3) bekezdése a megszűnésig, lejáratig vagy újabb kollektív szerződésig írja elő a tiszteletben tartást, legalább egyéves tagállami korláttal. A magyar törvény ezt egyéves főszabállyá emeli."
+        }
+      ],
+      "sourceKerdesSorszam": 30,
+      "sourceHash": "2c157bc997ec"
+    },
+    {
+      "question": "Mikor nem alkalmazható az egyetemleges helytállás annak ellenére, hogy van átadó és átvevő?",
+      "options": [
+        {
+          "text": "Az egyetemlegesség a tájékoztatás elmaradása esetén is elesik, mert az átvevő nem ismerhette a tartozást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 37. § szerinti tájékoztatás elmaradása az átvevővel szembeni igényérvényesítést nem érinti. Az Mt. 37. § második mondata ezt kimondja; a 39. § egyetemlegessége ettől függetlenül a feltételek fennállása esetén él. A 2001/23/EK irányelv 3. cikk (2) bekezdése ugyanezt az elválasztást adja. A tévedés forrása a belső tájékoztatás és az egyetemlegesség összekötése."
+        },
+        {
+          "text": "Felszámolási eljárásban a 39. § nem alkalmazható, mert a 36. § (2) bekezdés d) pontja kiveszi; a hitelezői igénybejelentés a Cstv. rendje szerint dől el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fizetésképtelenségi kielégítési rend lép az egyetemlegesség helyére. Az Mt. 36. § (2) bekezdés d) pontja a 39–40. §-t kiveszi. A Cstv. 1. § (3) bekezdése szerinti felszámolás a jogutód nélküli megszüntetés melletti hitelezői kielégítést célozza. A szanálási vagyonértékesítésre, áthidaló intézményre és eszköz-elkülönítésre a 36. § (3) bekezdése ugyanezt a kivételt teszi irányadóvá."
+        },
+        {
+          "text": "Ha a munkavállaló az igényét az átszállást követő egy éven túl érvényesíti, az egyetemlegességre már nem hivatkozhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az egyéves záradék az egyetemlegesség érvényesítésének ideje. Az Mt. 39. § szerint az átadó és az átvevő akkor felel egyetemlegesen, ha a munkavállaló az igényét az átszállást követő egy éven belül érvényesíti. A követelésnek az átszállást megelőzően kellett esedékessé válnia. Az átszállt igény elévülése ettől elválik, és a 286. § szerint alakul."
+        },
+        {
+          "text": "Ha a követelés az átszállás után válik esedékessé, az egyetemlegesség akkor is él, mert az átvevő a teljes bérterhet átvette.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az egyetemlegesség csak az átszállást megelőzően esedékessé vált követelésre vonatkozik. Az Mt. 39. § ezt az időbeli határt expressis verbis rögzíti; a jövőbeli alapbér nem e kör. Az átvevő a 36. § (1) bekezdése szerint a fennálló jogokat és kötelezettségeket viseli, de ez nem egyetemleges helytállás a jövőbeli esedékességre. A tévedés a két jogintézmény összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 31,
+      "sourceHash": "aebc6b154624"
+    },
+    {
+      "question": "A 2001/23/EK irányelv 5. cikke milyen mozgásteret hagy a tagállamnak a fizetésképtelenségi átruházásoknál?",
+      "options": [
+        {
+          "text": "A magyar 36. § (2) bekezdése az 5. cikk (2) bekezdése szerinti korlátozott alkalmazást valósítja meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a magyar szabály az (1) bekezdés szerinti kivételt teszi kötelezővé. Az Mt. 36. § (2)–(3) bekezdése a transzfervédelmi tömböt felszámolásban és a szanálási három esetkörben kiveszi. A 2001/23/EK irányelv 5. cikk (2) bekezdése a 3. és a 4. cikk alkalmazása melletti korlátozásokat engedi; ezt a magyar törvény nem választotta. A tévedés a két opció felcseréléséből ered."
+        },
+        {
+          "text": "Ha a 3. és a 4. cikket mégis alkalmazni kell fizetésképtelenségi átruházásra, a tagállam korlátozhatja a korábbi tartozások átszállását, illetve megengedheti a munkafeltételek munkahelyvédelmi célú megváltoztatását.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés két tagállami opciót ad. A 2001/23/EK irányelv 5. cikk (2) bekezdés a) pontja a korábbi tartozások kedvezményezettre szállásának korlátozását a 80/987/EGK irányelv szerinti védelmi szint mellett engedi; a b) pont a képviselőkkel kötött, munkahelyvédelmi célú feltételváltoztatást. A magyar törvény e korlátozott alkalmazás helyett az (1) bekezdés szerinti kivételt választotta. A (3) bekezdés a komoly gazdasági válsághelyzetet külön feltételekhez köti."
+        },
+        {
+          "text": "Főszabályként a 3. és a 4. cikk nem vonatkozik a vagyonfelszámolási célú, hatósági felügyelet alatt álló fizetésképtelenségi átruházásra, hacsak a tagállam másként nem rendelkezik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (1) bekezdés a kivételt a csődeljáráshoz vagy azzal egyenértékű, vagyonfelszámolási célú eljáráshoz köti. A 2001/23/EK irányelv 5. cikk (1) bekezdése ezt a szerkezetet adja. A magyar Mt. 36. § (2) bekezdése a másként rendelkezést nem választotta: a kivételt kötelezővé teszi. A (4) bekezdés a fizetésképtelenségi eljárásokkal való visszaélést tiltja, ha az a munkavállalói jogok kijátszására szolgál."
+        },
+        {
+          "text": "Az 5. cikk (4) bekezdése szerint a tagállamnak nem kell fellépnie a fizetésképtelenségi visszaélések ellen, ha a kivételt választotta.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a visszaélés elleni intézkedési kötelezettség a kivétel választásától független. A 2001/23/EK irányelv 5. cikk (4) bekezdése szerint a tagállamok megteszik a szükséges intézkedéseket a munkavállalói jogok kijátszására szolgáló visszaélések megelőzésére. A magyar szöveg e záradékot külön nem emeli be, de az uniós kötelezettség az (1) bekezdés választása mellett is fennáll. A tévedés forrása a kivétel és a visszaélési tilalom összekeverése."
+        }
+      ],
+      "sourceKerdesSorszam": 32,
+      "sourceHash": "08be3bf81e31"
+    },
+    {
+      "question": "A munkavállaló fogalma és a kirekesztési tilalom hogyan zárja az átszállás személyi hatályát?",
+      "options": [
+        {
+          "text": "A kölcsönzött munkavállaló mindig kívül esik az irányelv hatályán, mert a kölcsönbeadó és a kölcsönvevő között nincs átruházás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kölcsönzés önmagában nem zárja ki a védelmet. A 2001/23/EK irányelv 2. cikk (2) bekezdés c) pontja kifejezetten tiltja a kirekesztést a munkaerő-kölcsönzésre irányuló munkaviszonyok miatt abban az összefüggésben, ha az átruházott egység teljesen vagy részben a kölcsönbeadó. A tévedés forrása a kölcsönzés és az átruházás fogalmának teljes szétválasztása a tilalom ellenében."
+        },
+        {
+          "text": "A részmunkaidős munkavállaló kizárható az átszállás alól, ha heti óraszáma a teljes munkaidő felénél kevesebb.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkaórák száma önmagában nem lehet kizárási ok. A 2001/23/EK irányelv 2. cikk (2) bekezdés a) pontja tiltja a kirekesztést a teljesítendő vagy teljesített munkaórák száma miatt. Az Mt. 36. § (1) bekezdése a fennálló munkaviszonyból származó jogokat és kötelezettségeket szállítja át. A tévedés a részmunkaidő „atipikus” minősítésének túlterjesztéséből ered."
+        },
+        {
+          "text": "A tagállamok nem zárhatnak ki munkaszerződéseket és munkaviszonyokat kizárólag a munkaórák száma, a határozott idő vagy a kölcsönzés miatt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kirekesztési tilalom három tipikus kiskaput zár. A 2001/23/EK irányelv 2. cikk (2) bekezdés a)–c) pontja e tilalmakat sorolja. A kölcsönzésre utaló fordulat azt is jelenti, hogy ha az átruházott egység maga a kölcsönbeadó, a kölcsönzöttek védelme nem olvad el. A magyar Mt. 36. § (1) bekezdése a fennálló munkaviszonyból származó jogokat szállítja át e minőségi szűkítés nélkül."
+        },
+        {
+          "text": "A munkavállaló fogalma a nemzeti munkajogi védelemhez igazodik, a képviselők fogalma pedig a nemzeti joghoz és gyakorlathoz.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az irányelv a minősítést a nemzeti jogra bízza, de a kirekesztési tilalommal zárja a kiskaput. A 2001/23/EK irányelv 2. cikk (1) bekezdés d) pontja a munkavállalót a nemzeti munkajogi szabályokhoz köti; a c) pont a képviselőket a nemzeti jogra és gyakorlatra utalja. A (2) bekezdés a munkaszerződés és a munkaviszony meghatározását a nemzeti jog sérelme nélkül hagyja. A magyar 38. § (2) bekezdése ezért a 236. § (1) bekezdése szerinti létszámküszöbhöz nyúl."
+        }
+      ],
+      "sourceKerdesSorszam": 33,
+      "sourceHash": "3bbe48037999"
+    },
+    {
+      "question": "Milyen tartamban és milyen ellenérték mellett köthető versenytilalmi megállapodás, és mi száll át az átvevőre?",
+      "options": [
+        {
+          "text": "Kötbér kikötése esetén a Ptk. 6:186–189. §-a irányadó; ez a rend az átszállás után is az átvevő és a munkavállaló viszonyában él.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötbérre a Ptk. szabályai hívódnak. Az Mt. 228. § (6) bekezdése a Ptk. 6:186–189. §-át rendeli. Az (5) bekezdés szerinti átszállás a megállapodásból származó jogokat és kötelezettségeket viszi az átvevőre, ideértve a kötbérigényt is. Felszámolásban az (5) bekezdés a 36. § (2) bekezdés f) pontja szerint nem alkalmazható."
+        },
+        {
+          "text": "Az ellenérték elhagyható, ha a munkavállaló írásban lemond róla az átszállás idején.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az ellenérték kötelező, alsó küszöbbel. Az Mt. 228. § (2) bekezdése szerint az (1) bekezdés szerinti kötelezettség teljesítéséért a munkáltató megfelelő ellenértéket fizet, és az ellenérték nem lehet kevesebb, mint az azonos időszakra járó alapbér egyharmada. Az átszállás az (5) bekezdés szerint a pozíciókat cseréli, a kötelező ellenértéket nem engedi el. A tévedés a diszpozitív lemondás feltételezéséből ered."
+        },
+        {
+          "text": "A tartam legfeljebb a munkaviszony megszűnését követő két év, az ellenérték alsó küszöbe az azonos időszakra járó alapbér egyharmada, és az átszálláskor a jogok és kötelezettségek az átvevőre szállnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a három elem — tartam, ellenérték, átszállás — együttesen zárja a jogintézményt. Az Mt. 228. § (1) bekezdése a legfeljebb két éves tartamot, a (2) bekezdés az alapbér egyharmadát, az (5) bekezdés az átszállást rögzíti. Az ellenérték meghatározásánál tekintettel kell lenni a képzettségre, a gyakorlatra és az újabb jogviszony létesítésének akadályozottságára. A megállapodást írásba kell foglalni."
+        },
+        {
+          "text": "Az átszállás után a tartam újraindul két évvel az átvétel napjától.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az átszállás a meglévő megállapodás tartalmát viszi tovább, nem indít új tartamot. Az Mt. 228. § (1) bekezdése a tartamot a munkaviszony megszűnését követő időhöz köti; az (5) bekezdés a jogokat és kötelezettségeket szállítja át. Az átvevő a jogosulti pozícióba lép, a két éves felső határ nem tolódik el az átvétel napjára. A tévedés forrása a tartam és az átvételi időpont összekeverése."
+        }
+      ],
+      "sourceKerdesSorszam": 34,
+      "sourceHash": "860b3f72993e"
+    },
+    {
+      "question": "A 38. § (2) bekezdés szerinti tájékoztatás tartalmi elemei közül melyik szerepel ténylegesen a törvényben?",
+      "options": [
+        {
+          "text": "A törvény csak az átszállás időpontjának közlését követeli meg; a többi elem ajánlott.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a négy elem taxatív kötelezettség, nem ajánlás. Az Mt. 38. § (2) bekezdés a)–d) pontja az időpontot vagy tervezett időpontot, az okot, a jogi, gazdasági és szociális következményeket, valamint a tervezett intézkedést egyaránt előírja. A 2001/23/EK irányelv 7. cikk (1) bekezdése ugyanezt a listát a tájékoztatáshoz rendeli. A tévedés a kötelező tartalmi lista csonkításából ered."
+        },
+        {
+          "text": "A szociális következmények helyett elegendő a bérváltozás közlése, mert az fedi a lényeget.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törvény a jogi, gazdasági és szociális következmények együttes közlését követeli. Az Mt. 38. § (2) bekezdés c) pontja e hármast nevezi meg. A 2001/23/EK irányelv 7. cikk (1) bekezdése ugyanezt a hármast rögzíti. A tévedés forrása a tartalmi lista bérre szűkítése."
+        },
+        {
+          "text": "Az átszállás okáról és a munkavállalót érintő jogi, gazdasági és szociális következményekről is tájékoztatni kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tartalom négy elemű, és az ok, valamint a következmények benne van. Az Mt. 38. § (2) bekezdés b) és c) pontja ezt expressis verbis megköveteli. A 2001/23/EK irányelv 7. cikk (1) bekezdése ugyanezt a négyes szerkezetet adja a képviselők felé. A határidő az átszállást megelőző tizenöt nap."
+        },
+        {
+          "text": "A tájékoztatásnak ki kell terjednie a munkavállalót érintő tervezett intézkedésre is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tervezett intézkedés a d) pont szerinti kötelező elem. Az Mt. 38. § (2) bekezdés d) pontja ezt rögzíti. Az irányelv 7. cikk (2) bekezdése ehhez képest a konzultációt a tervezett intézkedésekhez és a megállapodási célhoz köti. A képviselő nélküli körben a 7. cikk (6) bekezdése a közvetlen előzetes tájékoztatást írja elő ugyanezekkel az elemekkel."
+        }
+      ],
+      "sourceKerdesSorszam": 35,
+      "sourceHash": "330b2b3ae1d5"
+    },
+    {
+      "question": "A tanulmányi szerződés szerződésszegési és elállási rendje hogyan alakul át az átszállás után?",
+      "options": [
+        {
+          "text": "A bentmaradási kötelezettség legfeljebb tíz év lehet, ha az átvevő ezt az átszálláskor kiköti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bentmaradás felső határa öt év. Az Mt. 229. § (1) bekezdése a támogatás mértékével arányos, de legfeljebb öt éves időt szab. Az átszállás a (4) bekezdés szerint a meglévő tartalmat viszi tovább, nem engedi a felső határ felemelését. A tévedés forrása a két éves versenytilalmi tartammal vagy más határidőkkel való összecsúsztatás."
+        },
+        {
+          "text": "A munkáltató felmondása esetén a támogatás nem követelhető vissza; ez a szabály az átvevő felmondására is irányadó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (7) bekezdés a felmondó fél szerint választja szét a visszakövetelést. Az Mt. 229. § (7) bekezdése szerint a munkavállaló felmondása esetén a munkáltató visszakövetelhet, a munkáltató felmondása esetén a támogatás nem követelhető vissza. Az átszállás után az átvevő a munkáltatói pozícióban áll. A (8) bekezdés a kötbérre a Ptk. 6:186–189. §-át hívja."
+        },
+        {
+          "text": "Átszállás után a munkavállaló mentesülése a munkáltatói szerződésszegésnél megszűnik, mert az átvevő „új” szerződő fél.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mentesülés a szerződéses pozícióval együtt az átvevővel szemben is él. Az Mt. 229. § (5) bekezdése szerint a munkavállaló mentesül, ha a munkáltató lényeges szerződésszegést követ el; a (4) bekezdés az átvevőt lépteti a munkáltatói pozícióba. Az „új fél” dogma nem oldja fel a törvényi átszállást. A tévedés a nováció és az átszállás összekeveréséből ered."
+        },
+        {
+          "text": "Az átvevő az (5)–(7) bekezdés szerinti jogosultságok és kötelezettségek alanya lesz: a lényeges munkáltatói szerződésszegés a munkavállalót mentesíti, a munkavállalói szerződésszegés az arányos visszakövetelést nyitja meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az átszállás a teljes pozíciócserét jelenti e kötelmi rendben. Az Mt. 229. § (4) bekezdése a jogokat és kötelezettségeket az átvevőre szállítja; az (5) bekezdés a munkavállaló mentesülését, a (6) bekezdés a visszakövetelést, a (7) bekezdés az azonnali hatályú felmondást rendezi. A visszatérítési kötelezettség arányos, ha a kikötött tartamnak csak egy részét nem töltik le. Felszámolásban a (4) bekezdés kiesik."
+        }
+      ],
+      "sourceKerdesSorszam": 36,
+      "sourceHash": "d5fa08a6d208"
+    },
+    {
+      "question": "Mi a különbség a 36. § (1) bekezdése szerinti átszállás és a 63. § (3) bekezdése szerinti megszűnés között?",
+      "options": [
+        {
+          "text": "A 36. § (1) bekezdése szerinti átszálláskor a munkaviszony fennmarad, csak a munkáltatói pozíció cserélődik; a 63. § (3) bekezdése szerinti esetben a munkaviszony megszűnik, ha az átvevő nem az Mt. hatálya alá tartozik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két jogkövetkezmény ellentétes. Az Mt. 36. § (1) bekezdése a fennálló munkaviszonyból származó jogokat és kötelezettségeket szállítja át az átvevőre. Az Mt. 63. § (3) bekezdése a megszűnést rendeli, ha az átvevő nem e törvény hatálya alá tartozik. Az utóbbi esetben az átadó legalább tizenöt nappal előre, írásban tájékoztat a megszűnés időpontjáról vagy tervezett időpontjáról és az indokról."
+        },
+        {
+          "text": "A 63. § (3) bekezdése szerinti tájékoztatás az átadó kötelezettsége, míg a 38. § (1) bekezdése szerinti átszállási tájékoztatás az átvevőé az átszállás napján.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötelezett és az időzítés elválik. Az Mt. 63. § (3) bekezdése az átadót kötelezi a megszűnést megelőző tájékoztatásra. Az Mt. 38. § (1) bekezdése az átvevőt kötelezi az átszállás napján, a munkáltató azonosító adatainak közlésével. A két helyzet nem cserélhető fel. A 38. § (2) bekezdése ehhez képest a létszámküszöb alatti előzetes tájékoztatás."
+        },
+        {
+          "text": "A 63. § (3) bekezdése szerinti megszűnésnél a 40. § szerinti különös felmondás a megfelelő jogcím.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 40. § a fennmaradó munkaviszony feltételváltozásához kötött felmondás, nem a hatályon kívüli átvevő miatti megszűnés. Az Mt. 40. § (1) bekezdése a lényeges és hátrányos feltételváltozást feltételezi a fennálló viszony mellett. A 63. § (3) bekezdése szerint a munkaviszony a törvény erejénél fogva megszűnik, ha az átvevő nem az Mt. hatálya alá tartozik. A tévedés forrása a két megszüntetési/megszűnési út felcserélése."
+        },
+        {
+          "text": "Ha az átvevő nem az Mt. hatálya alá tartozik, a 36. § (1) bekezdése akkor is átszállítást rendel, csak a végkielégítés esik el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatályon kívüli átvevőnél a viszony ex lege véget ér, átszállás nélkül. Az Mt. 63. § (3) bekezdése expressis verbis a megszűnést mondja ki. A 36. § (1) bekezdése szerinti jogátszállás csak akkor értelmezhető, ha az átvevő az Mt. személyi hatályán belül tud munkáltatói pozícióba lépni. A tévedés a hatályon kívüli átvevő és a fennmaradó átszállás összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 37,
+      "sourceHash": "74edebb51b65"
+    },
+    {
+      "question": "Az irányelv 3. cikk (3) bekezdése és a magyar 282. § hogyan viszonyul egymáshoz a kollektív szerződéses feltételek tekintetében?",
+      "options": [
+        {
+          "text": "A 282. § a tartalmat védi, nem a kollektív szerződés kötelmi alanyiságát cseréli automatikusan.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az átszállás a kollektív szerződés alanyát nem cseréli automatikusan. Az Mt. 282. § (1) bekezdése a munkafeltételek fenntartásáról szól. Az átvevő akkor is e szerint jár el, ha a szakszervezettel nem köt újat. Felszámolásban a 36. § (2) bekezdés h) pontja a szakaszt kiveszi."
+        },
+        {
+          "text": "A 282. § (1) bekezdése szerint az átvevő a kollektív szerződés kötelmi alanyává válik, ezért a szakszervezettel szemben perelhető a szerződés teljesítésére.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szakasz a munkafeltételek tartalmi fenntartását írja elő, nem a kötelmi alanycserét. Az Mt. 282. § (1) bekezdése az átvételkor hatályos kollektív szerződéses munkafeltételek egyéves megőrzését követeli az átvevőtől. A kollektív szerződés szerződő felei az átszállással nem cserélődnek automatikusan. A tévedés forrása a tartalmi rögzítés és a szerződő félcsere összekeverése."
+        },
+        {
+          "text": "Az irányelv a feltételek tiszteletben tartását a megszűnésig, lejáratig vagy újabb kollektív szerződésig írja elő, és a tagállami időkorlátot legalább egy évben szabja meg; a 282. § ezt egyéves főszabállyá emeli.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a magyar szabály az uniós minimumot egyéves kötelezettséggé fordítja. A 2001/23/EK irányelv 3. cikk (3) bekezdése a kedvezményezettet a kollektív szerződéses feltételek tiszteletben tartására kötelezi. Az Mt. 282. § (1) bekezdése az átvételt követő egy évig írja elő a fenntartást. A (2) bekezdés két kimentést ad: a korábbi megszűnést és az új hatályú kollektív szerződést."
+        },
+        {
+          "text": "Az irányelv szerint a tagállam az egyéves korlátot három hónapra rövidítheti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tagállami korlát nem lehet kevesebb egy évnél. A 2001/23/EK irányelv 3. cikk (3) bekezdése szerint a tagállamok korlátozhatják az időtartamot, „azzal, hogy ez nem lehet kevesebb egy évnél”. A magyar 282. § (1) bekezdése az egyéves főszabályt követi. A tévedés a korlátozás irányának megfordításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 38,
+      "sourceHash": "14e7edf86216"
+    },
+    {
+      "question": "A 2001/23/EK irányelv 7. cikk (3) bekezdése milyen feltételekkel engedi a tájékoztatási és konzultációs kötelezettségek szűkítését?",
+      "options": [
+        {
+          "text": "Csak azok a tagállamok korlátozhatják az (1) és (2) bekezdés szerinti kötelezettségeket, amelyeknek joga döntőbizottsághoz fordulást biztosít a munkavállalók képviselőinek a munkavállalókkal kapcsolatos intézkedések felülvizsgálatára.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szűkítés nem általános, hanem a döntőbizottsági út meglétéhez kötött. A 2001/23/EK irányelv 7. cikk (3) bekezdése ezt a tagállami kört nevezi meg. A korlátozás olyan esetekre szól, amelyekben a megvalósított átruházás folytán a vállalkozásban bekövetkező változás valószínűleg a munkavállalók jelentős részére nézve súlyos hátrányokkal jár. A tájékoztatásnak és a konzultációnak legalább a munkavállalókkal kapcsolatban tervezett intézkedésekre ki kell terjednie."
+        },
+        {
+          "text": "A tájékoztatást és a konzultációt a vállalkozásban bekövetkező, a súlyos hátránnyal járó változás előtt megfelelő időben meg kell adni, illetve le kell folytatni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szűkített kötelezettségkör is időzítési követelményt tart. A 2001/23/EK irányelv 7. cikk (3) bekezdése szerint a változás előtt megfelelő időben kell tájékoztatni és konzultálni. Az (1) bekezdés ehhez képest a négy tájékoztatási elemet és a „megfelelő idő” általános szabályát rögzíti; a (2) bekezdés a konzultációt a tervezett intézkedésekhez és a megállapodási célhoz köti. A magyar 38. § (2) bekezdése a létszámküszöb alatti, képviselő nélküli körben a tájékoztatást tizenöt napban konkretizálja."
+        },
+        {
+          "text": "A 7. cikk (3) bekezdése szerinti korlátozás esetén a tervezett intézkedésekről sem kell tájékoztatni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szűkített kötelezettségkörben is legalább a tervezett intézkedésekre ki kell terjednie a tájékoztatásnak és a konzultációnak. A 2001/23/EK irányelv 7. cikk (3) bekezdése ezt expressis verbis előírja. A (2) bekezdés a konzultációt a tervezett intézkedésekhez és a megállapodási célhoz köti. A tévedés a szűkítés és a teljes mellőzés összekeveréséből ered."
+        },
+        {
+          "text": "Bármely tagállam szabadon mellőzheti a 7. cikk (1)–(2) bekezdése szerinti tájékoztatást és konzultációt, ha az átruházás gazdasági okú.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szűkítés csak a döntőbizottsági utat ismerő tagállamoknak és csak a jelentős részre nézve súlyos hátránnyal járó változásoknál engedett. A 2001/23/EK irányelv 7. cikk (3) bekezdése e két feltételt köti össze; a puszta gazdasági ok nem mentesít. Az (1) és (2) bekezdés főszabálya a tájékoztatás és a konzultáció. A tévedés a szűkítési opció általános kivétellé emeléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 39,
+      "sourceHash": "0ccf628cf3c8"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható a 37. § szerinti átadó–átvevő tájékoztatás?",
+      "options": [
+        {
+          "text": "A 36. § (3) bekezdése a (2) bekezdés kivételi rendjét a szanálási vagyonértékesítésre, áthidaló intézményre és eszköz-elkülönítésre is kiterjeszti, ezért ott sem alkalmazható a 37. §.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szanálási három esetkör a felszámolási kivételt veszi át. Az Mt. 36. § (3) bekezdése a (2) bekezdés rendelkezéseit a vagyonértékesítésre, az áthidaló intézményre és az eszköz-elkülönítésre is irányadóvá teszi. A 36. § (2) bekezdés b) pontja a 37. § szerinti átadó–átvevő tájékoztatást is a kieső rendelkezések közé sorolja. A Cstv. 1. § (3) bekezdése szerinti felszámolási cél — jogutód nélküli megszüntetés melletti hitelezői kielégítés — e procedurákban is a belső tájékoztatást elengedi."
+        },
+        {
+          "text": "A 37. § mulasztása esetén az átszállás semmis, mert a tájékoztatás hatályossági feltétel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közlés elmaradása nem teszi semmissé az átszállást. Az Mt. 37. § második mondata az átvevővel szembeni igényérvényesítést a mulasztás ellenére is nyitva tartja, miközben a 36. § (1) bekezdése szerinti átszállás beáll. A 2001/23/EK irányelv 3. cikk (2) bekezdése a kedvezményezett tájékoztatásának hiányát elválasztja a munkavállaló igényérvényesítési jogától. A tévedés abból ered, hogy a belső információs kötelezettséget hatályossági előfeltétellé emelik."
+        },
+        {
+          "text": "Felszámolási eljárásban a 37. § nem alkalmazható, mert a 36. § (2) bekezdés b) pontja kiveszi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a belső tájékoztatás a felszámolási kivétellista része. Az Mt. 36. § (2) bekezdés b) pontja a 37. §-t nevesíti. A felszámolás célja a Cstv. 1. § (3) bekezdése szerint a jogutód nélküli megszüntetés melletti hitelezői kielégítés. A szanálási három esetkörre a 36. § (3) bekezdése ugyanezt a kivételi rendet teszi irányadóvá."
+        },
+        {
+          "text": "Felszámolásban a 37. § helyébe a 38. § (1) bekezdése lép, és azt az átadó teljesíti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, felszámolásban a 38. § (1) bekezdése is kiesik, és a 37. § sem helyettesíthető vele. Az Mt. 36. § (2) bekezdés b) és c) pontja mindkét szabályt kiveszi. A fennmaradó tájékoztatási szabály a 38. § (2) bekezdése lehet, ha a létszámküszöb és az üzemi képviselet hiánya fennáll. A tévedés forrása a három tájékoztatási norma felcserélése."
+        }
+      ],
+      "sourceKerdesSorszam": 40,
+      "sourceHash": "2423f47e5568"
+    },
+    {
+      "question": "Az átvevő milyen munkafeltételeket visel az átvétel napján?",
+      "options": [
+        {
+          "text": "A 2001/23/EK irányelv 3. cikk (1) bekezdése szerint az átruházás napján fennálló munkaszerződésből vagy munkaviszonyból eredő jogok és kötelezettségek a kedvezményezettre szállnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az uniós norma ugyanezt a tartalmi folytonosságot telepíti a kedvezményezettre. A 2001/23/EK irányelv 3. cikk (1) bekezdése az átruházás napján fennálló jogokat és kötelezettségeket a kedvezményezettre szállítja. Az Mt. 36. § (1) bekezdése szerint az átvétel időpontjában fennálló munkaviszonyból származó jogok és kötelezettségek az átvevőre szállnak. A munkaszerződés újrakötése nélkül a munkáltatói pozíció cserélődik; az átvevő nem „tiszta lappal” indítja a díjazást és a védelmeket."
+        },
+        {
+          "text": "Az átvevő a munkafeltételeket, a díjazást, a szabadságot, a felmondási védelmet és a kárfelelősséget úgy viseli, ahogyan az átadót terhelték az átvétel napján.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az átszállás a fennálló tartalmat viszi tovább. Az Mt. 36. § (1) bekezdése szerint az átvétel időpontjában fennálló munkaviszonyból eredő jogok és kötelezettségek az átvevőre szállnak. A 2001/23/EK irányelv 3. cikk (1) bekezdése a kedvezményezettre telepíti az átruházás napján fennálló jogokat és kötelezettségeket. A munkaszerződés újrakötése nélkül a munkáltatói pozíció cserélődik."
+        },
+        {
+          "text": "Az átvevő az átvétel napjától szabadon csökkentheti a díjazást, mert új munkáltatóként új feltételeket szabhat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az átvevő a fennálló tartalmat viseli, nem szabadon szab új díjazást. Az Mt. 36. § (1) bekezdése a fennálló jogokat és kötelezettségeket szállítja át. A 2001/23/EK irányelv 3. cikk (1) bekezdése a kedvezményezettre telepíti az átruházás napján fennálló jogokat. A lényeges, hátrányos feltételváltozás a 40. § szerinti felmondást nyithatja meg. A tévedés az átszállás és az egyoldalú feltételcsere összekeveréséből ered."
+        },
+        {
+          "text": "A felmondási védelem az átvétellel automatikusan megszűnik, mert az átvevő „tiszta lappal” indul.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felmondási védelem az átvétel napján fennálló tartalom szerint az átvevőt terheli. A magyar főszabály — Mt. 36. § (1) bekezdés — a gazdasági egység átvételekor a fennálló munkaviszonyi jogokat és kötelezettségeket az átvevőre telepíti. A 2001/23/EK irányelv 3. cikk (1) bekezdése a kedvezményezettre telepíti az átruházás napján fennálló munkaszerződésből eredő jogokat és kötelezettségeket. A tévedés forrása az új munkáltató „tiszta lap” dogmája a törvényi átszállás ellenében."
+        }
+      ],
+      "sourceKerdesSorszam": 41,
+      "sourceHash": "d7337733b9b1"
+    },
+    {
+      "question": "A munkáltatók megállapodása alapján ki teljesítheti a létszámküszöb alatti előzetes tájékoztatást?",
+      "options": [
+        {
+          "text": "A tizenöt napos határidő a megállapodás alapján eljáró átvevőre nem vonatkozik, csak az átadóra.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határidő a tájékoztatásra vonatkozik, függetlenül attól, hogy az átadó vagy a megállapodás alapján az átvevő teljesít. Az Mt. 38. § (2) bekezdése a „legkésőbb az átszállást megelőzően tizenöt nappal” fordulatot a kötelezettséghez köti. A 2001/23/EK irányelv 7. cikk (6) bekezdése is előzetes tájékoztatást követel. A tévedés forrása a kötelezett személyének és a határidőnek a szétválasztása."
+        },
+        {
+          "text": "A megállapodás hiányában az átvevő hivatalból is teljesítheti a 38. § (2) bekezdése szerinti tájékoztatást az átadó helyett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az átvevő csak a munkáltatók megállapodása alapján járhat el e körben. Az Mt. 38. § (2) bekezdése az átadót nevezi meg főkötelezettként, és az átvevőt csak megállapodáshoz köti. Az (1) bekezdés szerinti, átszállás napi tájékoztatás ehhez képest az átvevő saját kötelezettsége. A tévedés a két bekezdés alanyának összecsúsztatásából ered."
+        },
+        {
+          "text": "Főszabály szerint az átadó a kötelezett, de a munkáltatók megállapodása alapján az átvevő is eljárhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a törvény mindkét utat nyitja. Az Mt. 38. § (2) bekezdése az átadót nevezi meg főkötelezettként, és megállapodás esetén az átvevőnek is megengedi az eljárást. A teljesítés legkésőbbi időpontja az átszállást megelőző tizenötödik nap. A tartalom a (2) bekezdés a)–d) pontja szerinti négyes lista."
+        },
+        {
+          "text": "A tájékoztatás írásbeli, és a 236. § (1) bekezdése szerinti létszám hiányában, üzemi tanács és üzemi megbízott nélkül alkalmazandó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közvetlen tájékoztatás a képviselő nélküli, létszámküszöb alatti helyzethez kötött. Az Mt. 38. § (2) bekezdése a 236. § (1) bekezdése szerinti létszám hiányához nyúl. A 2001/23/EK irányelv 7. cikk (6) bekezdése a képviselő nélküli munkavállalók előzetes tájékoztatását írja elő. Felszámolásban e szabály a kivétellistán nem szerepel, ezért alkalmazható marad."
+        }
+      ],
+      "sourceKerdesSorszam": 42,
+      "sourceHash": "469a281adc82"
+    },
+    {
+      "question": "A 39. § egyetemlegessége és a 286. § elévülése hogyan viszonyul egymáshoz?",
+      "options": [
+        {
+          "text": "Ha az egyéves érvényesítési idő eltelik, az átszállt igény is elévül, mert a 39. § felülírja a 286. §-t.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az egyéves záradék csak az egyetemlegességre vonatkozik, nem az elévülésre. Az Mt. 39. § az egyetemleges igényérvényesítés idejét szabja; az átszállt igény a 286. § szerint évül. A munkavállaló az egyetemlegesség nélkül is felléphet az átvevővel szemben a 36. § (1) bekezdése szerinti átszállás alapján. A tévedés a két határidő azonosításából ered."
+        },
+        {
+          "text": "A 286. § hároméves elévülése az egyetemlegességre is irányadó, ezért az egyéves záradék csak ajánlás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az egyéves záradék a 39. § szerinti egyetemlegesség törvényi feltétele, nem ajánlás. Az Mt. 39. § expressis verbis az átszállást követő egy éven belüli érvényesítést kívánja meg. A 286. § az átszállt igény elévülését rendezi, ettől elválóan. A tévedés forrása az elévülés és az egyetemlegességi érvényesítési idő felcserélése."
+        },
+        {
+          "text": "A 39. § egyéves záradéka az egyetemlegesség érvényesítésének ideje, nem a 286. § hároméves elévülésének leszűkítése.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két határidő elválik. Az Mt. 39. § szerint az egyetemlegességhez az igényt az átszállást követő egy éven belül kell érvényesíteni. Az átszállással átszálló követelés elévülési idejét a 286. § határozza meg, nem a 39. § egyéves záradéka. A követelésnek az átszállást megelőzően kellett esedékessé válnia. A jövőbeli alapbér nem esik az egyetemlegesség alá."
+        },
+        {
+          "text": "Az egyetemlegesség az átadót és az átvevőt terheli az átszállást megelőzően esedékessé vált munkavállalói követelésért.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az alanyi és az időbeli feltétel konjunktív. Az Mt. 39. § ezt egyetlen mondatban rögzíti: átadó és átvevő, előzetesen esedékessé vált követelés, egyéves érvényesítés. A 2001/23/EK irányelv 3. cikk (1) bekezdésének második albekezdése a tagállami opciót engedi; a magyar szabály kötelező. Felszámolásban a szakasz kiesik."
+        }
+      ],
+      "sourceKerdesSorszam": 43,
+      "sourceHash": "e065ead86691"
+    },
+    {
+      "question": "A közigazgatási átszervezés és a gazdasági tevékenységet folytató közszférabeli vállalkozás hogyan határolódik el?",
+      "options": [
+        {
+          "text": "Az irányelvet alkalmazni kell a köz- és magántulajdonban álló, gazdasági tevékenységet folytató vállalkozásokra, nyereségcéltól függetlenül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a védelem a gazdasági tevékenységet nézi, nem a tulajdonformát vagy a nyereségcélt. A 2001/23/EK irányelv 1. cikk (1) bekezdés c) albekezdése ezt expressis verbis rögzíti. A magyar 36. § (1) bekezdése a gazdasági egységet anyagi vagy nem anyagi erőforrások szervezett csoportjaként határozza meg. A nyereségcél hiánya önmagában nem zárja ki a hatályt."
+        },
+        {
+          "text": "Ha a közigazgatási szerv gazdasági tevékenységet is folytat, az igazgatási átszervezés akkor is átruházásnak minősül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az igazgatási átszervezés kivétele akkor is fennáll, ha a szerv egyébként végez gazdasági tevékenységet. A 2001/23/EK irányelv 1. cikk (1) bekezdés c) albekezdése a közigazgatási átszervezést és a funkcióátadást külön mondattal veszi ki. A gazdasági tevékenységet folytató vállalkozásokra vonatkozó hatály ettől elválik. A tévedés a két fordulat összecsúsztatásából ered."
+        },
+        {
+          "text": "A nyereségcél nélküli közszférabeli gazdasági tevékenység kívül esik az irányelv hatályán.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nyereségcél hiánya nem zárja ki a hatályt. A 2001/23/EK irányelv 1. cikk (1) bekezdés c) albekezdése szerint az irányelvet alkalmazni kell „tekintet nélkül arra, hogy működésük nyereség elérését célozza, vagy sem”. A kivétel a közigazgatási átszervezés, nem a nonprofit gazdasági tevékenység. A tévedés forrása a nyereségcél és a gazdasági tevékenység fogalmának összekeverése."
+        },
+        {
+          "text": "A közigazgatási szervek igazgatási átszervezése vagy a közigazgatási funkciók közigazgatási szervek közötti átadása nem minősül átruházásnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a határmegvonás a hatósági feladatátszervezést választja el a gazdasági egység átvételétől. A 2001/23/EK irányelv 1. cikk (1) bekezdés c) albekezdése ezt a kivételt mondja ki. Ez a magyar 36. § „jogügyleten alapuló átvétel” fordulatának is keretet ad. A puszta hatósági feladatátszervezés nem tölti ki az átszállás tényállását."
+        }
+      ],
+      "sourceKerdesSorszam": 44,
+      "sourceHash": "345876b2a4bd"
+    },
+    {
+      "question": "A 40. § (3) bekezdése szerinti harminc nap és a 287. § (2) bekezdés a) pontja szerinti igény hogyan válik el?",
+      "options": [
+        {
+          "text": "A 287. § (2) bekezdés a) pontja a harminc napot három évre hosszabbítja a felmondás megtételére.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 287. § nem hosszabbítja meg a felmondási jog gyakorlásának harminc napját. Az Mt. 40. § (3) bekezdése a jogvesztő harminc napot a változás időpontjától méri. A 287. § (2) bekezdés a) pontja a felmondással kapcsolatos igény — a másik fél pere — elévülési nyitvatartásáról szól. A tévedés a két határidő azonosításából ered."
+        },
+        {
+          "text": "A harminc nap elteltével a különös felmondási jog elenyészik, de a 287. § (2) bekezdés a) pontja szerinti, felmondással kapcsolatos igény ettől külön dől el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogvesztő gyakorlási határidő és a perbeli igény nyitvatartása nem azonos. Az Mt. 40. § (3) bekezdése a változás időpontját követő harminc napot szabja a felmondási jogra. A 287. § (2) bekezdés a) pontja a 40. § szerinti felmondással kapcsolatos igényt — a másik fél perét — az elévülési időn belül tartja nyitva. A 39. § egyéves záradéka ehhez képest az egyetemlegesség érvényesítésére vonatkozik, nem a 40. §–287. § párra."
+        },
+        {
+          "text": "A harminc nap a 40. § szerinti felmondási jog gyakorlására jogvesztő; a 287. § (2) bekezdés a) pontja a felmondással kapcsolatos igényt — a másik fél perét — az elévülési időn belül tartja nyitva.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a gyakorlási határidő és a perbeli igény határideje elválik. Az Mt. 40. § (3) bekezdése a változás időpontját követő harminc napot szabja a felmondási jogra. A 287. § (2) bekezdés a) pontja a 40. § szerinti felmondással kapcsolatos igényt az elévülési időn belül tartja nyitva. A harminc nap elteltével a különös felmondási jog elenyészik, de a kapcsolódó igény ettől külön dől el."
+        },
+        {
+          "text": "Ha a munkavállaló a harminc napon túl mond fel a 40. § alapján, a felmondás a 287. § miatt mégis érvényes.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a különös felmondás a harminc nap leteltével már nem gyakorolható. Az Mt. 40. § (3) bekezdése a változás napjától számított harminc napos jogvesztő keretet szab. A 287. § (2) bekezdés a) pontja a kapcsolódó igényt tartja nyitva, nem a felmondás megtételének határidejét. A tévedés forrása a jogvesztő határidő és az igényérvényesítési nyitvatartás felcserélése."
+        }
+      ],
+      "sourceKerdesSorszam": 45,
+      "sourceHash": "333c2c202dce"
+    },
+    {
+      "question": "A szanálási eszköz-elkülönítésnél mely transzfervédelmi szabályok esnek ki?",
+      "options": [
+        {
+          "text": "Eszköz-elkülönítésnél a 40. § szerinti különös felmondás továbbra is gyakorolható harminc napon belül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 39–40. § a kivétellistán szerepel, ezért az eszköz-elkülönítésnél sem alkalmazható. Az Mt. 36. § (3) bekezdése a (2) bekezdés rendjét teszi irányadóvá; a (2) bekezdés d) pontja a 39–40. §-t kiveszi. A tévedés a szanálás „enyhébb” rendjének feltételezéséből ered. A munkavállaló e körben nem a 40. § szerinti különös felmondásra támaszkodhat."
+        },
+        {
+          "text": "A 36. § (3) bekezdése a (2) bekezdés kivételi rendjét az eszköz-elkülönítésre is kiterjeszti, ezért többek között az (1) bekezdés, a 37. §, a 38. § (1) bekezdése és a 39–40. § sem alkalmazható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az eszköz-elkülönítés a felszámolási kivételhez sorolódik. Az Mt. 36. § (3) bekezdése a (2) bekezdés rendelkezéseit a vagyonértékesítésre, az áthidaló intézményre és az eszköz-elkülönítésre is irányadóvá teszi. A (2) bekezdés a)–h) pontja taxatíve sorolja a kieső szabályokat. A létszámküszöb alatti előzetes tájékoztatás — a 38. § (2) bekezdése — a listán nem szerepel."
+        },
+        {
+          "text": "A magyar törvény az irányelv 5. cikk (1) bekezdése szerinti kivételt választotta, és a szanálási három esetkörrel egészítette ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tagállam másként is rendelkezhetett volna. A 2001/23/EK irányelv 5. cikk (1) bekezdése a 3. és a 4. cikk alóli kivételt a vagyonfelszámolási célú fizetésképtelenségi átruházásra köti, ha a tagállam másként nem rendelkezik. Az Mt. 36. § (2)–(3) bekezdése a kivételt kötelezővé tette. A (2) bekezdés szerinti korlátozott alkalmazást a magyar törvény nem választotta."
+        },
+        {
+          "text": "Eszköz-elkülönítésnél a 282. § egyéves kollektív szerződéses fenntartása kötelező marad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 282. § is kiesik a (2) bekezdés h) pontja szerint. Az Mt. 36. § (3) bekezdése a teljes kivételi listát átveszi az eszköz-elkülönítésre. A kollektív szerződéses munkafeltételek egyéves fenntartása ezért e procedurában nem alkalmazható. A tévedés forrása a 282. § „külön életének” feltételezése a szanálási kivétel ellenében."
+        }
+      ],
+      "sourceKerdesSorszam": 46,
+      "sourceHash": "6712d560bff9"
+    }
+  ]
+}

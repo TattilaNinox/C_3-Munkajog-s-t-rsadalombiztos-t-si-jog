@@ -1,0 +1,765 @@
+{
+  "id": "d5PTRjvIA3yhioh6n5gc",
+  "sorszam": 11,
+  "cim": "A munkaszerződés módosítása.",
+  "generationType": "fogalom",
+  "title": "11. A munkaszerződés módosítása.",
+  "questions": [
+    {
+      "question": "Mit jelent a munkaszerződés módosításának általános címe a felek jognyilatkozatai között?",
+      "options": [
+        {
+          "text": "A módosítás megállapodás, ezért írásba foglalás, példányátadás és a lényeges adatok megjelölése is jár vele a megkötés szabályainak megfelelő alkalmazása révén.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a második mondat a megkötés alakszerűségét hívja a módosításra. Az Mt. 58. § szerint a munkaszerződés módosítására a megkötésére vonatkozó szabályokat kell megfelelően alkalmazni; ez a 23. § írásba foglalását és a 13. § szerinti munkaviszonyra vonatkozó szabályt is magában foglalja. A megállapodás főszabály szerint a jövőre hat, a múltbeli teljesítést nem minősíti át, hacsak a felek a hatályt kifejezetten vissza nem viszik. A munkáltatói szabályzat egyoldalú átírása a szerződéses magot nem érinti."
+        },
+        {
+          "text": "A módosítás a felek kétoldalú, közös megegyezéssel tett jognyilatkozata: a szerződéses munkakör, a munkahely, a munkaidő fajtája vagy az alapbér tartós megváltoztatása nem a munkáltató egyoldalú utasítási jogának tárgya.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tartós szerződéses mag átírása konszenzust kíván, nem utasítást. Az Mt. 58. § szerint a felek a munkaszerződést közös megegyezéssel módosíthatják, és a módosításra a megkötés szabályait kell megfelelően alkalmazni. Az egyoldalú „átírás” — ha a törvény külön nem nyit kérelemre induló vagy felajánlási kötelmet — szerződésmegszegés vagy érvénytelen tartalom, nem módosítás. A 62. § (1) bekezdése e közös megegyezést a felek és a kollektív szerződés elől is elzárja."
+        },
+        {
+          "text": "A munkáltató a szerződéses munkakört, a munkahelyet, a munkaidő fajtáját vagy az alapbért egyoldalú utasítással is tartósan átírhatja, ha a munkaszervezés ezt indokolja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, e négy szerződéses elem tartós megváltoztatása nem az utasítási jog tárgya. Az Mt. 58. § a feleket teszi a módosítás alanyává: a munkáltató egyoldalú utasítása a szerződéses munkakört, a munkahelyet, a munkaidő fajtáját vagy az alapbért nem írhatja át. A 62. § (1) bekezdése szerint a felek megállapodása vagy kollektív szerződés az 58. §-tól nem térhet el. A tévedés forrása a foglalkoztatási utasítási jog és a szerződésmódosítás összekeverése."
+        },
+        {
+          "text": "A kollektív szerződés az 58. § helyett a munkáltatónak egyoldalú módosítási jogot adhat a szerződéses magra.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közös megegyezés nem cserélhető egyoldalú módosítási joggal. Az Mt. 62. § (1) bekezdése szerint a felek megállapodása vagy kollektív szerződés az 58. §-ban foglaltaktól nem térhet el. Az 58. § a felek közös megegyezését és a megkötés szabályainak megfelelő alkalmazását rendeli. A tévedés a IX. fejezet kógens zárásának figyelmen kívül hagyásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "7f94395eb59a"
+    },
+    {
+      "question": "Miben tér el a munkaszerződés módosítása az egészségi állapothoz igazodó munkafeltétel-alakítástól?",
+      "options": [
+        {
+          "text": "A 60. § szerinti munkakör-felajánlás csak akkor nyílik meg, ha a munkakörben a foglalkoztatás feltételei az 51. § (3) bekezdése szerint nem módosíthatóak, és a munkaköri alkalmassági vélemény a szerződéses munkakörben való foglalkoztatást elveti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 60. § a feltételmódosítás elégtelenségéhez és az orvosi véleményhez kötött. Az Mt. 60. § (1) bekezdése szerint, ha a munkakörében történő foglalkoztatás feltételei az 51. § (3) bekezdése szerint nem módosíthatóak, egészségi állapotának megfelelő munkakört kell felajánlani, ha a várandósság megállapításától a gyermek egyéves koráig a munkaköri alkalmassági vélemény alapján a munkakörében nem foglalkoztatható. A megfelelő foglalkoztatás hiányában a munkavégzés alól fel kell menteni. Az 51. § (3) bekezdése tehát előzetes, enyhébb lépés a 60. § előtt."
+        },
+        {
+          "text": "A hátrányos jogkövetkezmény 56. § (2) bekezdése szerinti, határozott idejű feltételmódosítása is a felek közös megegyezésén alapuló szerződésmódosítás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az 56. § a vétkes kötelezettségszegés szankciója, nem a felek megállapodása. Az Mt. 56. § (2) bekezdése a hátrányt a munkaviszony feltételeinek határozott időre szóló módosításához köti, de ez a szankciós sík, nem az 58. § konszenzusa. A módosítás elválik e hátrányos jogkövetkezménytől: az utóbbi a kötelezettségszegés jogkövetkezménye. A tévedés a szankciós feltételmódosítás és a szerződésmódosítás fogalmi azonosságának feltételezéséből ered."
+        },
+        {
+          "text": "Az 51. § (3) bekezdése szerinti alakítás a foglalkoztatási kötelezettség tartalmának igazítása a munkafeltételek és a munkaidő-beosztás módosításával, nem a szerződéses munkakör cseréje.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két intézmény más síkon áll: az egyik a foglalkoztatás módját, a másik a szerződéses magot érinti. Az Mt. 51. § (3) bekezdése a munkáltatót az állapot változására a munkafeltételek és a munkaidő-beosztás — a 6. § figyelembevételével való — módosítására kötelezi. Ez még nem a 60. § szerinti más munkakör felajánlása. A szerződéses munkakör, munkahely, munkaidő-fajta vagy alapbér tartós cseréje az 58. § közös megegyezését kívánja."
+        },
+        {
+          "text": "Az 51. § (3) bekezdése szerinti feltételmódosítás automatikusan a szerződéses munkakör cseréjét is magában foglalja, közös megegyezés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a feltételmódosítás nem egyenlő a munkakör cseréjével. Az Mt. 51. § (3) bekezdése a munkafeltételek és a munkaidő-beosztás alakítását rendeli, a szerződéses munkakör tartós cseréjét nem. A más munkakör felajánlása a 60. § (1) bekezdésének különös rendje, és a módosítás továbbra is a felek megállapodása. A tévedés a foglalkoztatási kötelezettség igazításának és az 58. § szerinti szerződésmódosításnak az összemosásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "538a67df95e3"
+    },
+    {
+      "question": "Milyen eltérési rendet ad a 62. § a IX. fejezet közös megegyezésére és a munkavállaló javára aszimmetrikus kötelmekre?",
+      "options": [
+        {
+          "text": "Az 59–61. §-tól a kollektív szerződés csak a munkavállaló javára térhet el: a bérkorrekciós ajánlat, a várandóssági felajánlás és a kérelemre induló módosítás nem gyengíthető, de kedvezőbbé tehető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés relatív kógencia a munkavállaló javára. Az Mt. 62. § (2) bekezdése szerint: „Kollektív szerződés az 59–61. §-ban foglaltaktól csak a munkavállaló javára térhet el.” Kedvezőbbé tehető például tágabb személyi körrel, hosszabb korhatárral vagy rövidebb nyilatkozati határidővel. A Csvt. 21. § ugyanezt a kedvező irányú eltérést a foglalkoztatási védelmeknél is megengedi."
+        },
+        {
+          "text": "Az 59–61. §-tól a kollektív szerződés a munkáltató javára is eltérhet, ha a gazdasági indok ezt alátámasztja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés csak a munkavállaló javára enged eltérést. Az Mt. 62. § (2) bekezdése szerint kollektív szerződés az 59–61. §-tól csak a munkavállaló javára térhet el. A bérkorrekciós ajánlat, a várandóssági munkakör-felajánlás és a kérelemre induló módosítás tehát nem gyengíthető. A tévedés a relatív diszpozitivitás irányának megfordításából ered."
+        },
+        {
+          "text": "A kollektív szerződés az 58. § helyett a munkáltatónak egyoldalú szerződésmódosítási jogot adhat, ha a felek erről külön megállapodnak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az 58. § elől sem a felek, sem a kollektív szerződés nem térhet el. Az Mt. 62. § (1) bekezdése kifejezetten zárja az 58. §-tól való eltérést. A közös megegyezés nem cserélhető egyoldalú módosítási joggal. A tévedés a (2) bekezdés kedvező eltérésének az (1) bekezdés abszolút tilalmára való kiterjesztéséből ered."
+        },
+        {
+          "text": "Az 58. §-tól a felek megállapodása és a kollektív szerződés sem térhet el; a közös megegyezés nem cserélhető egyoldalú módosítási joggal.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (1) bekezdés a konszenzust abszolút kógenssé zárja. Az Mt. 62. § (1) bekezdése szerint: „A felek megállapodása vagy kollektív szerződés az 58. §-ban foglaltaktól nem térhet el.” A közös megegyezés tehát nem gyengíthető egyoldalú munkáltatói módosítási joggal, és kollektív szerződés sem teheti a munkáltatót a szerződés urává. Az 58. § a feleket teszi a módosítás alanyává, és a megkötés szabályait rendeli megfelelően alkalmazni."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "96ab0efbbe25"
+    },
+    {
+      "question": "Milyen tartamban és milyen mércével kötelezi az 59. § a munkáltatót a törvényi távollét utáni bérkorrekciós ajánlatra?",
+      "options": [
+        {
+          "text": "Az 59. § automatikus, a munkáltató egyoldalú aktusával megvalósuló bérnövelés, a munkavállaló elfogadása nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az intézmény ajánlati kötelesség a közös megegyezés 58. §-a szerint, nem egyoldalú bérnövelés. Az Mt. 59. § a munkáltatót ajánlattételre kötelezi; a módosítást a munkavállaló elfogadása hozza létre. A munkavállaló az ajánlatot elutasíthatja. A tévedés az ajánlati kötelesség és az egyoldalú bérintézkedés összekeveréséből ered."
+        },
+        {
+          "text": "Ha azonos munkakörű munkavállaló nincs, a munkáltatónál ténylegesen megvalósult átlagos éves béremelés a kisegítő mérce; az azonos munkakör hiánya nem mentesít az ajánlati kötelesség alól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a második mondat kisegítő mércét ad, nem mentesítést. Az Mt. 59. § szerint azonos munkakörű munkavállalók hiányában a munkáltatónál ténylegesen megvalósult átlagos éves béremelés az irányadó. A munkáltató ezt a második mércét sem szabhatja az átlag alá. A 62. § (2) bekezdése a kollektív szerződést e szabálytól csak a munkavállaló javára engedi eltérni."
+        },
+        {
+          "text": "A 127–132. §-ban meghatározott távollét megszűnését követően a munkáltató ajánlatot tesz a munkabér módosítására; a mérce az azonos munkakörű munkavállalók részére időközben megvalósított átlagos éves béremelés.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az ajánlati kötelesség a 127–132. § szerinti törvényi távollét megszűnéséhez kötött, nem a munkáltató belátás szerinti időpontjához. Az Mt. 59. § szerint a munkáltató a távollét megszűnését követően ajánlatot tesz a munkabér módosítására, és „a munkavállalóval azonos munkakörű munkavállalók részére a munkáltatónál időközben megvalósított átlagos éves béremelés mértékét kell alapul venni.” Az ajánlat szerződésmódosítási ajánlat: a munkavállaló elfogadása hozza létre a módosítást az 58. § közös megegyezése szerint. A munkáltató a mértéket az átlag alá nem szabhatja."
+        },
+        {
+          "text": "Ha a munkavállaló az ajánlatot elutasítja, a munkáltató a távollét előtti bérrel való továbbfoglalkoztatást pusztán az elutasítás miatt megtagadhatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az elutasítás önmagában nem adja a továbbfoglalkoztatás megtagadását. Az Mt. 59. § ajánlati kötelességet telepít, de a munkavállaló az ajánlatot elutasíthatja; a munkáltató a távollét előtti bérrel továbbfoglalkoztatást nem tagadhatja meg pusztán az elutasítás miatt. A módosítás az 58. § szerinti közös megegyezéssel jön létre. A tévedés az ajánlat elutasításának megszüntetési vagy továbbfoglalkoztatási szankcióként való kezeléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "b695b8036d7c"
+    },
+    {
+      "question": "Mi következik abból, ha a várandósság megállapításától a gyermek egyéves koráig a munkavállaló a munkakörében nem foglalkoztatható?",
+      "options": [
+        {
+          "text": "A felajánlott munkakör elfogadása nélkül is mindig jár a felmentés idejére az alapbér, akár alapos ok nélküli elutasítás esetén is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az alapos ok nélküli elutasítás a felmentési alapbért elvonja. Az Mt. 60. § (2) bekezdése szerint a felmentés idejére alapbér illeti meg a munkavállalót, kivéve, ha a felajánlott munkakört alapos ok nélkül nem fogadja el. A felajánlás a munkáltató kötelme, a módosítás továbbra is a felek megállapodása vagy — a felmentésnél — a munkavégzés alóli mentesítés. A tévedés a kivétel figyelmen kívül hagyásából ered."
+        },
+        {
+          "text": "A 60. § szerinti felajánlás a munkáltató belátása szerinti lehetőség, nem kötelesség, ha a munkaszervezés nehézsége ezt indokolja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felajánlás a munkáltató kötelme, nem mérlegelési jog. Az Mt. 60. § (1) bekezdése „kell felajánlani” és „fel kell menteni” fordulatot használ a feltételek fennállásakor. A megfelelő foglalkoztatás hiányában a felmentés is kötelező. A tévedés a 61. § (2) és (4) bekezdése szerinti, nyilatkozattal és indokolással járó kérelemrend ráírásából ered a 60. §-ra."
+        },
+        {
+          "text": "A felajánlott munkakör alapbére a szerződéses alapbérnél kevesebb nem lehet, és a felmentés idejére is alapbér jár, kivéve az alapos ok nélküli elutasítást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés a védő munkakört bércsökkentés ellen zárja, és a felmentési díjazást az elfogadáshoz köti. Az Mt. 60. § (2) bekezdése szerint a munkavállaló a felajánlott munkakörnek megfelelő alapbérre jogosult, amely a munkaszerződés szerinti alapbérénél kevesebb nem lehet. A felmentés idejére alapbére illeti meg, kivéve, ha a felajánlott munkakört alapos ok nélkül nem fogadja el. A Csvt. 16. § (2) bekezdése ugyanezt a programot a nő hozzájárulásához is köti."
+        },
+        {
+          "text": "Ha a munkakörben a foglalkoztatás feltételei az 51. § (3) bekezdése szerint nem módosíthatóak, egészségi állapotának megfelelő munkakört kell felajánlani; ha a megfelelő foglalkoztatás nem lehetséges, a munkavégzés alól fel kell menteni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 60. § (1) bekezdése kétlépcsős kötelmet telepít: felajánlás, majd felmentés. Az Mt. 60. § (1) bekezdése szerint: „A munkavállaló számára, ha a munkakörében történő foglalkoztatás feltételei az 51. § (3) bekezdése szerint nem módosíthatóak, egészségi állapotának megfelelő munkakört kell felajánlani, ha várandóssága megállapításától gyermeke egyéves koráig – munkaköri alkalmasságára vonatkozó orvosi vélemény alapján – a munkakörében nem foglalkoztatható.” A munkavégzés alól fel kell menteni, ha az egészségi állapotának megfelelő foglalkoztatása nem lehetséges. A gyermek egyéves kora után e különös felajánlási rend lezárul."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "97d30903ce6f"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható a 60. § különös felajánlási rendje a gyermek életkora szerint?",
+      "options": [
+        {
+          "text": "A 60. § a munkaviszony első hat hónapjában nem alkalmazható, ugyanúgy, mint a 61. § (2) és (4) bekezdése szerinti kérelemjog.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hat hónapos kizárás a 61. § kérelemjogára vonatkozik, nem a 60. § felajánlására. Az Mt. 60. § (1) bekezdése a várandósság megállapításától a gyermek egyéves koráig rendeli a felajánlást, a munkaviszony tartamának első hat hónapjától függetlenül. A 61. § (2) és (4) bekezdése a kérelemjogot a munkaviszony első hat hónapját kivéve nyitja. A tévedés a kérelemrend időbeli korlátjának a felajánlási rendre való ráírásából ered."
+        },
+        {
+          "text": "A 60. § a gyermek négyéves koráig, három vagy több gyermeknél hatéves koráig kötelezi a munkáltatót a munkakör felajánlására.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a négy- és hatéves korhatár a 61. § (3) bekezdésének részmunkaidős kötelme, nem a 60. § felajánlása. Az Mt. 60. § (1) bekezdése a várandósság megállapításától a gyermek egyéves koráig tart. A 61. § (3) bekezdése a gyermek négyéves — három vagy több gyermeket nevelőnél hatéves — koráig a részmunkaidőre módosítást teszi kötelezővé. A tévedés a két aszimmetrikus kötelem korhatárának felcseréléséből ered."
+        },
+        {
+          "text": "A 60. § a várandósság megállapításától a gyermek egyéves koráig tart; a gyermek egyéves kora után e különös felajánlási rend lezárul.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a személyi-időbeli hatály zárt a gyermek egyéves koráig. Az Mt. 60. § (1) bekezdése a felajánlást a várandósság megállapításától a gyermek egyéves koráig köti, munkaköri alkalmassági vélemény alapján. A további védelem a 61. § kérelemjogára és a felmondási tilalmakra marad. A Csvt. 16. § (2) bekezdése ugyanezt a programot a várandós, illetve egy évesnél fiatalabb gyermeket nevelő nőre ismétli."
+        },
+        {
+          "text": "A felajánlás feltétele, hogy a munkakörben a foglalkoztatás feltételei az 51. § (3) bekezdése szerint ne legyenek módosíthatóak, és a munkaköri alkalmassági vélemény a szerződéses munkakörben való foglalkoztatást elvesse.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 60. § nem nyílik meg önmagában a várandósság ténye miatt. Az Mt. 60. § (1) bekezdése az 51. § (3) bekezdése szerinti feltételmódosítás elégtelenségéhez és a munkaköri alkalmassági orvosi véleményhez köti a felajánlást. Az 51. § (3) bekezdése a munkafeltételek és a munkaidő-beosztás alakítását rendeli előzetes lépésként. A 294. § (1) bekezdés d) pontja a kötelező orvosi vizsgálatot — ideértve a várandós állapotra tekintettel előírt vizsgálatot is — e vélemény felé nyitja."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "dcc5861337a1"
+    },
+    {
+      "question": "Milyen tájékoztatási kötelezettséget telepít a 61. § (1) bekezdése a munkáltatóra?",
+      "options": [
+        {
+          "text": "A tájékoztatás csak kérésre, a munkavállaló írásbeli indokolása után jár, a 61. § (5) bekezdése szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (1) bekezdés a munkáltató önálló tájékoztatási kötelme, nem a kérelemhez kötött válasz. Az Mt. 61. § (1) bekezdése a munkáltatót a lehetőségekről való tájékoztatásra kötelezi; az (5) bekezdés a (2) vagy (4) bekezdés szerinti kérelem írásbeli indokolását és a változtatás időpontjának megjelölését rendeli. A tájékoztatás a kérelemjog előfeltétele, nem a kérelem következménye. A tévedés a tájékoztatás és a kérelem alakszerűségének felcseréléséből ered."
+        },
+        {
+          "text": "A munkáltató a munkakörök megjelölésével tájékoztatja a munkavállalókat a teljes vagy részmunkaidős, a távmunkavégzésre irányuló, valamint a határozatlan idejű munkaviszony keretében történő foglalkoztatás lehetőségéről.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tájékoztatás három foglalkoztatási lehetőséget és a munkakör-megjelölést köti össze. Az Mt. 61. § (1) bekezdése szerint a munkáltató a munkakörök megjelölésével tájékoztat a teljes vagy részmunkaidős, a távmunkavégzésre irányuló, valamint a határozatlan idejű foglalkoztatás lehetőségéről. Ez a 97/81/EK irányelv mellékletének ötödik szakaszának és a 1999/70/EK irányelv mellékletének hatodik szakaszának magyar végrehajtása. A (2) bekezdés e tájékoztatás alapján nyitja a kérelemjogot."
+        },
+        {
+          "text": "A tájékoztatás csak a részmunkaidőre terjed ki; a távmunka és a határozatlan idejű foglalkoztatás a 61. § (1) bekezdéséből kiesik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tájékoztatás három lehetőséget sorol fel. Az Mt. 61. § (1) bekezdése a teljes vagy részmunkaidős, a távmunkavégzésre irányuló, valamint a határozatlan idejű foglalkoztatás lehetőségéről tájékoztat, munkakörök megjelölésével. A részmunkaidő önmagában nem meríti ki a tájékoztatási kört. A tévedés a 97/81/EK irányelv részmunkaidős fókuszának a teljes magyar tájékoztatási listára való szűkítéséből ered."
+        },
+        {
+          "text": "A határozatlan idejű foglalkoztatásról szóló tájékoztatás a 1999/70/EK irányelv mellékletének hatodik szakaszának párja: a határozott idejű munkavállaló állandó beosztásra való esélyét szolgálja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (1) bekezdés c) pontja a keretmegállapodás tájékoztatási kötelmét ülteti át. A 1999/70/EK irányelv mellékletének hatodik szakaszának 1. pontja szerint a munkáltatók a határozott időre alkalmazott munkavállalókat tájékoztatják a megüresedett álláslehetőségekről, hogy a többi munkavállalóval azonos lehetőségük legyen állandó beosztásra. Az Mt. 61. § (1) bekezdés c) pontja a határozatlan idejű foglalkoztatás lehetőségéről való, munkakör szerinti tájékoztatást adja. A hatodik szakasz 2. pontja a képzést lehetőség szerintivé teszi; a magyar 61. § a képzést e szakaszban nem ismétli."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "71eb0cf80819"
+    },
+    {
+      "question": "Milyen tartamban kötelezi a 61. § (3) bekezdése a munkáltatót a részmunkaidőre módosításra?",
+      "options": [
+        {
+          "text": "A Csvt. 19. § a részmunkaidőt legalább a gyermek nyolcéves koráig rendeli, és az Mt. 61. § (3) bekezdése e korhatárt szűkíti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Csvt. alsó korlát, az Mt. a kedvezőbb külön törvény. A Csvt. 19. § szerint a visszatérő szülőt kérésére legalább a gyermek harmadik életévének betöltéséig részmunkaidőben kell foglalkoztatni. Az Mt. 61. § (3) bekezdése e programot a négyéves, három vagy több gyermeknél a hatéves korhatárig emeli. A Csvt. 21. § a kedvezőbb szabály lehetőségét kifejezetten megengedi. A tévedés a korhatárok irányának megfordításából ered."
+        },
+        {
+          "text": "A munkáltató a munkavállaló ajánlatára a gyermek négyéves koráig — három vagy több gyermeket nevelő munkavállaló esetén a gyermek hatéves koráig — köteles a munkaszerződést az általános teljes napi munkaidő felének megfelelő tartamú részmunkaidőre módosítani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés alanyi jog: a korhatár és a fél munkaidő zárt. Az Mt. 61. § (3) bekezdése szerint: „A munkáltató a munkavállaló ajánlatára a gyermek négyéves koráig – három vagy több gyermeket nevelő munkavállaló esetén a gyermek hatéves koráig – köteles a munkaszerződést az általános teljes napi munkaidő felének megfelelő tartamú részmunkaidőre módosítani.” A munkáltató e korhatárig a módosítást szervezési nehézségre hivatkozva nem tagadhatja meg. A Csvt. 19. § alsó korlátként legalább a harmadik életévig rendel részmunkaidőt; a 61. § (3) bekezdése a négy-, illetve hatéves korhatárig emel, és a fél munkaidőt köti ki."
+        },
+        {
+          "text": "A (3) bekezdés alanyi jog: a munkáltató a korhatárig a részmunkaidőre módosítást szervezési nehézségre hivatkozva nem tagadhatja meg, és az (5)–(6) bekezdés indokolási rendje e címen nem érvényesül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tartamkérdéshez a korhatár mellett az alanyi jelleg tartozik. Az Mt. 61. § (3) bekezdése „köteles … módosítani” fordulatot használ a gyermek négyéves — három vagy több gyermeket nevelőnél hatéves — koráig, az általános teljes napi munkaidő felének megfelelő tartamban. Az (5)–(6) bekezdés írásbeli indokolása és a 64. § (2) bekezdése szerinti indokolás a (2) és a (4) bekezdés kérelmeire vonatkozik. A Csvt. 19. § alsó korlátként legalább a harmadik életévig rendel részmunkaidőt; az Mt. e programot emeli."
+        },
+        {
+          "text": "A (3) bekezdés szerinti részmunkaidőre módosítás a munkáltató mérlegelésétől függ, és a 64. § (2) bekezdése szerinti indokolással elutasítható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés alanyi kötelesség, indokolási teher nélkül. Az Mt. 61. § (3) bekezdése „köteles … módosítani” fordulatot használ; a munkáltató szervezési nehézségre hivatkozva nem tagadhatja meg. Az (5)–(6) bekezdés írásbeli indokolása, a tizenöt napos nyilatkozat és a 64. § (2) bekezdése szerinti indokolás a (2) és a (4) bekezdés szerinti kérelemre vonatkozik. A tévedés a mérlegelési kérelemrend ráírásából ered az alanyi jogra."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "ba85ec173c4b"
+    },
+    {
+      "question": "Mely megállapítások állják meg a helyüket a 61. § (2) bekezdése szerinti módosítási kérelemjogról?",
+      "options": [
+        {
+          "text": "A (2) bekezdés szerinti kérelem elutasítása esetén a munkáltatót nem terheli indokolási kötelezettség, mert a módosítás mindig mérlegelésen alapul.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az elutasítást a 64. § (2) bekezdése szerint meg kell indokolni. Az Mt. 61. § (6) bekezdése szerint a kérelem elutasítása esetén a munkáltató nyilatkozatát a 64. § (2) bekezdése szerint megindokolja. Az (5) bekezdés a kérelmet írásbeli indokoláshoz és a változtatás időpontjának megjelöléséhez köti. A tévedés a mérlegelési jog és az indokolási teher nélküli elutasítás összekeveréséből ered."
+        },
+        {
+          "text": "A kérelemre a munkáltató tizenöt napon belül írásban nyilatkozik; jogellenes elutasítás vagy a nyilatkozat elmulasztása esetén a bíróság a munkáltató hozzájáruló nyilatkozatát pótolja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (6) bekezdés a nyilatkozati határidőt és a bírósági pótlást rendezi. Az Mt. 61. § (6) bekezdése szerint a munkavállaló kérelmére a munkáltató tizenöt napon belül írásban nyilatkozik; a kérelem elutasítása esetén a nyilatkozatot a 64. § (2) bekezdése szerint megindokolja. A kérelem jogellenes elutasítása vagy a nyilatkozat elmulasztása esetén a bíróság a munkáltató hozzájáruló nyilatkozatát pótolja. A bírósági pótlás a módosítást a munkáltató akarata nélkül is létrehozza: az 58. § konszenzusa itt a bíróság aktusával egészül ki."
+        },
+        {
+          "text": "A munkavállaló — a munkaviszony első hat hónapját kivéve — az (1) bekezdés szerinti tájékoztatás alapján kérheti munkaszerződése módosítását.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kérelemjog a tájékoztatáshoz és a hat hónapos várakozáshoz kötött. Az Mt. 61. § (2) bekezdése szerint a munkavállaló – a munkaviszony első hat hónapját kivéve – az (1) bekezdés szerinti tájékoztatás alapján kérheti munkaszerződése módosítását. A kérelem a teljes vagy részmunkaidő, a távmunka és a határozatlan idejű foglalkoztatás irányába nyílhat. A (3) bekezdés alanyi részmunkaidős kötelme ettől elválik."
+        },
+        {
+          "text": "A (2) bekezdés szerinti kérelem a munkaviszony első napjától gyakorolható, várakozási idő nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az első hat hónap a kérelemjogból kiesik. Az Mt. 61. § (2) bekezdése kifejezetten kivételként említi a munkaviszony első hat hónapját. Ugyanez a hat hónapos kizárás a (4) bekezdés rugalmas kérelemkörére is érvényes. A (3) bekezdés alanyi részmunkaidős kötelme e hat hónapos zárat nem ismétli. A tévedés a várakozási idő mellőzéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "71f04f21ebab"
+    },
+    {
+      "question": "Miben tér el a 61. § (4) bekezdése szerinti rugalmas kérelemkör a (3) bekezdés kötelező részmunkaidőjétől?",
+      "options": [
+        {
+          "text": "A (4) bekezdés szerinti kérelem esetén a munkáltató ugyanúgy köteles a módosítást teljesíteni, mint a (3) bekezdés szerinti részmunkaidőnél, indokolás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (4) bekezdés nem alanyi módosítási kötelesség. Az Mt. 61. § (4) bekezdése a kérés jogát adja; a (6) bekezdés a tizenöt napos írásbeli nyilatkozatot, az elutasítás indokolását és a bírósági pótlást rendezi. A (3) bekezdés „köteles … módosítani” fordulata csak a gyermekhez kötött fél munkaidőre vonatkozik. A tévedés a két kérelemrend joghatásának összecseréléséből ered."
+        },
+        {
+          "text": "A gondozást végző munkavállaló a 294. § (1) bekezdés n) pontja szerint a kezelőorvos által igazolt, súlyos egészségi okból jelentős gondozásra vagy támogatásra szoruló hozzátartozójának vagy a közös háztartásban élő személynek személyes gondozást vagy támogatást nyújtó munkavállaló.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (4) bekezdés személyi oldala a gondozást végző fogalmához kötött. Az Mt. 294. § (1) bekezdés n) pontja szerint gondozást végző az, aki a kezelőorvos által igazolt súlyos egészségi okból és jelentős gondozásra vagy támogatásra szoruló hozzátartozójának, vagy a munkavállalóval közös háztartásban élő személynek személyes gondozást vagy támogatást nyújt. A b) pont a hozzátartozót a házastárstól a testvér házastársáig, ideértve az élettársat is, adja. A Csvt. 21. § a rászoruló családtag iránti gondozási feladatot ugyanezen a vonalon említi."
+        },
+        {
+          "text": "A (4) bekezdés csak a részmunkaidőre korlátozódik; a munkahely, a munkarend és a távmunka kérése e fordulatból kiesik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (4) bekezdés négy változtatási irányt sorol fel. Az Mt. 61. § (4) bekezdése a munkavégzési hely, a munkarend, a távmunkavégzés és a részmunkaidő kérését nyitja. A részmunkaidő önmagában nem meríti ki a rugalmas kört. A tévedés a (3) bekezdés részmunkaidős fókuszának a (4) bekezdésre való ráírásából ered."
+        },
+        {
+          "text": "A (4) bekezdés a gyermek nyolcéves koráig vagy a gondozást végző munkavállaló javára — a munkaviszony első hat hónapját kivéve — a munkahely, a munkarend, a távmunka és a részmunkaidő kérését nyitja, de nem teszi automatikusan kötelezővé a módosítást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (4) bekezdés kérelemjog, a (3) bekezdés alanyi kötelesség. Az Mt. 61. § (4) bekezdése szerint a munkavállaló gyermeke nyolcéves koráig vagy a gondozást végző munkavállaló kérheti a munkavégzési hely, a munkarend, a távmunkavégzés, illetve a részmunkaidő módosítását. A munkáltató tizenöt napon belül írásban nyilatkozik, az elutasítást indokolja, és a bíróság a hozzájárulást pótolhatja. A (3) bekezdés ezzel szemben a négy-, illetve hatéves korhatárig a fél munkaidőre módosítást kötelezővé teszi."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "89beddcd7053"
+    },
+    {
+      "question": "Mi következik abból, ha a munkáltató a 61. § (2) vagy (4) bekezdése szerinti kérelmet jogellenesen elutasítja vagy a nyilatkozatot elmulasztja?",
+      "options": [
+        {
+          "text": "A bíróság a munkáltató hozzájáruló nyilatkozatát pótolja, és ezzel a módosítás a munkáltató akarata nélkül is létrejöhet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a bíróság a hiányzó munkáltatói hozzájárulást pótolja, és ezzel a szerződésmódosítás a munkáltató akarata nélkül is létrejöhet. Az Mt. 61. § (6) bekezdése szerint a kérelem jogellenes elutasítása vagy a nyilatkozat elmulasztása esetén a bíróság a munkáltató hozzájáruló nyilatkozatát pótolja. A munkáltatót tizenöt napon belüli írásbeli nyilatkozat terheli, és az elutasítást a 64. § (2) bekezdése szerint meg kell indokolnia. A pótlás tehát nem új megszüntetési jogcím, hanem a hiányzó hozzájárulás pótlása a közös megegyezéses módosításhoz."
+        },
+        {
+          "text": "A munkáltatót tizenöt napon belüli írásbeli nyilatkozat terheli, és az elutasítást a 64. § (2) bekezdése szerint meg kell indokolnia; ezek megsértése a pótlás tényállását táplálja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a pótlás előtti munkáltatói oldali garanciák a jogkövetkezmény tengelyéhez tartoznak. Az Mt. 61. § (6) bekezdése szerint a munkáltató tizenöt napon belül írásban nyilatkozik, az elutasítást a 64. § (2) bekezdése szerint megindokolja, és a kérelem jogellenes elutasítása vagy a nyilatkozat elmulasztása esetén a bíróság a hozzájáruló nyilatkozatot pótolja. A pótlás a módosítást a munkáltató akarata nélkül is létrehozhatja. Az (5) bekezdés a kérelmező előfeltétele, nem a „mi következik az elutasításból” önálló válasza."
+        },
+        {
+          "text": "A bíróság a hozzájárulást csak a (3) bekezdés szerinti részmunkaidős ajánlatnál pótolhatja, a (2) és (4) bekezdésnél nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bírósági pótlás a (2) és a (4) bekezdés szerinti kérelemhez kapcsolódik. Az Mt. 61. § (6) bekezdése a munkavállaló kérelmére adott nyilatkozatról rendelkezik; az (5) bekezdés a (2) vagy (4) bekezdés szerinti kérelmet nevezi meg. A (3) bekezdés alanyi kötelesség: a munkáltató a módosítást e korhatárig nem tagadhatja meg, ezért ott nem a pótlás, hanem a kötelező teljesítés a joghatás. A tévedés a pótlás és az alanyi kötelesség helyének felcseréléséből ered."
+        },
+        {
+          "text": "A nyilatkozat elmulasztása esetén a kérelem automatikusan elfogadottnak minősül a tizenötödik napot követő napon, bírósági eljárás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hallgatás nem automatikus elfogadás, hanem bírósági pótlásra nyit utat. Az Mt. 61. § (6) bekezdése a nyilatkozat elmulasztása esetén a bíróság által pótolt hozzájáruló nyilatkozatot rendeli. A tizenöt nap a munkáltató írásbeli nyilatkozatának határideje, nem az automatikus beleegyezés napja. A tévedés a hallgatás-elfogadás szabályának ráírásából ered a 61. §-ra."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "fb9cf8241add"
+    },
+    {
+      "question": "Hogyan határozza meg a 294. § (1) bekezdése a gyermek fogalmát a kérelemjoghoz?",
+      "options": [
+        {
+          "text": "A különélő szülők azonos időtartamú, felváltva gyakorolt nevelése a gyermek fogalmába tartozik; e helyzet a 61. § gyermekhez kötött kérelemjogát nem zárja ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a c) pont a felváltva nevelést kifejezetten magában foglalja. Az Mt. 294. § (1) bekezdés c) pontja szerint gyermek a családok támogatásáról szóló törvény szerinti saját háztartásban nevelt vagy gondozott gyermek, ideértve, ha a különélő szülők a közös szülői felügyelet gyakorlásakor a gyermeket saját háztartásukban egymást felváltva, azonos időtartamban nevelik, gondozzák. A 61. § (3)–(4) bekezdése a gyermekhez kötött részmunkaidős és rugalmas kérelemjogot erre a fogalomra építi, ezért a felváltva nevelés a kérelemjogot nem zárja ki."
+        },
+        {
+          "text": "A gyermekét egyedül nevelő státusz akkor is fennáll, ha a munkavállalónak élettársa van, de a házastársa külön él.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az élettárs hiánya önálló, konjunktív feltétel. Az Mt. 294. § (1) bekezdés i) pontja a saját háztartásban nevelés mellett a zárt családi állapotlistát és azt követeli, hogy „nincs élettársa”. A házastársától külön élés önmagában nem elég, ha élettárs van. A tévedés a feltételek egyikének elhagyásából ered."
+        },
+        {
+          "text": "A gyermek fogalmát a 294. § (1) bekezdés i) pontja szerinti egyedül nevelő zárt családi állapotlista és az élettárs hiánya tölti ki.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az i) pont a gyermekét egyedül nevelő munkavállaló fogalmát adja, nem a gyermekét. Az Mt. 294. § (1) bekezdés c) pontja határozza meg a gyermeket a családok támogatásáról szóló törvény szerinti saját háztartásban nevelt vagy gondozott gyermekként, ideértve a felváltva nevelést. Az i) pont a saját háztartásban nevelés mellett a hajadon, nőtlen, özvegy, elvált, házastársától külön él listát és az élettárs hiányát kívánja. A tévedés a c) és az i) pont felcseréléséből ered."
+        },
+        {
+          "text": "Gyermek a családok támogatásáról szóló törvény szerinti, saját háztartásban nevelt vagy gondozott gyermek, ideértve a különélő szülők azonos időtartamú, felváltva gyakorolt nevelését is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a c) pont a gyermek fogalmát a családok támogatásáról szóló törvényhez és a saját háztartáshoz köti. Az Mt. 294. § (1) bekezdés c) pontja szerint gyermek a családok támogatásáról szóló törvény szerinti saját háztartásban nevelt vagy gondozott gyermek, ideértve, ha a különélő szülők a közös szülői felügyelet gyakorlásakor a gyermeket saját háztartásukban egymást felváltva, azonos időtartamban nevelik, gondozzák. A 61. § (3)–(4) bekezdése a gyermekhez kötött részmunkaidős és rugalmas kérelemjogot erre a fogalomra építi. A felváltva nevelés tehát nem zárja ki a gyermek fogalmát."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "e29fd0ea09c0"
+    },
+    {
+      "question": "A törvény által felsoroltak közül melyik szerepel ténylegesen a fogyatékos gyermek Mt. szerinti fogalmában?",
+      "options": [
+        {
+          "text": "Fogyatékos gyermek az a gyermek, akire tekintettel a családok támogatásáról szóló törvény szerinti magasabb összegű családi pótlék került megállapításra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a h) pont a fogyatékosságot a magasabb összegű családi pótlékhoz köti, nem önálló orvosi minősítéshez. Az Mt. 294. § (1) bekezdés h) pontja szerint fogyatékos gyermek az a gyermek, akire tekintettel a családok támogatásáról szóló törvény szerinti magasabb összegű családi pótlék került megállapításra. A Csvt. 15. § (2) bekezdése a tartósan beteg vagy súlyosan fogyatékos gyermeket nevelő szülőnek további kedvezményt ígér. A 61. § kérelemjoga a gyermek fogalmára épül; a fogyatékos gyermek a magasabb összegű családi pótlékhoz kötött speciális meghatározás."
+        },
+        {
+          "text": "A hozzátartozó fogalma csak a házastársra és az egyeneságbeli rokonokra korlátozódik; az élettárs és a testvér házastársa kiesik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a b) pont az élettársat és a testvér házastársát is magában foglalja. Az Mt. 294. § (1) bekezdés b) pontja a házastárs és az egyeneságbeli rokon mellett az élettársat, az egyeneságbeli rokon házastársát, a házastárs egyeneságbeli rokonát és testvérét, valamint a testvér házastársát is felsorolja. A gondozást végző n) pontja e tág körre épül. A tévedés a hozzátartozói lista csonkításából ered."
+        },
+        {
+          "text": "A fogyatékos gyermek fogalmát a 294. § (1) bekezdés b) pontja szerinti hozzátartozói lista tölti ki, ideértve az élettársat is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a b) pont a hozzátartozót adja a gondozási helyzethez, nem a fogyatékos gyermeket. Az Mt. 294. § (1) bekezdés h) pontja a fogyatékos gyermeket a magasabb összegű családi pótlékhoz köti. A b) pont a házastárstól a testvér házastársáig terjedő listát rendezi. A tévedés a h) és a b) pont felcseréléséből ered."
+        },
+        {
+          "text": "A fogyatékos gyermek fogalma nem a rehabilitációs hatóság komplex minősítésének 60 százalékos mércéjéhez, hanem a magasabb összegű családi pótlék megállapításához kötött.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a h) pont a pótlékhoz köt, nem az l) pont megváltozott munkaképességű mércéjéhez. Az Mt. 294. § (1) bekezdés h) pontja szerint fogyatékos gyermek az, akire tekintettel a családok támogatásáról szóló törvény szerinti magasabb összegű családi pótlék került megállapításra. A l) pont la) alpontja a 60 százalékos vagy kisebb egészségi állapotot a megváltozott munkaképességű személyhez köti. A Csvt. 15. § (2) bekezdése a tartósan beteg vagy súlyosan fogyatékos gyermeket nevelő szülőnek további kedvezményt ígér."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "5dff8ecd8459"
+    },
+    {
+      "question": "Egy munkavállaló a gyermekgondozási fizetés nélküli szabadságról tér vissza. Mely megállapítások állják meg a helyüket a Csvt. programnormája és az Mt. kapcsolata szerint?",
+      "options": [
+        {
+          "text": "A Csvt. 19. § a visszatérő szülőnek kérésére legalább a gyermek harmadik életévéig részmunkaidős foglalkoztatást rendel; az Mt. 61. § (3) bekezdése e programot a négy-, illetve hatéves korhatárig emeli.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a családok védelméről szóló törvény alsó korlátot ad, az Mt. a kedvezőbb külön törvény. A Csvt. 19. § szerint a gyermek gondozása céljából igénybe vett ellátásból visszatérő szülőt kérésére – legalább a gyermek harmadik életévének betöltéséig – külön törvény szerinti részmunkaidőben kell foglalkoztatni. Az Mt. 61. § (3) bekezdése a gyermek négyéves, három vagy több gyermeknél hatéves koráig kötelezi a fél munkaidőre módosítást. A Csvt. 21. § szerint más jogszabály a foglalkoztatottra nézve kedvezőbb szabályokat is megállapíthat."
+        },
+        {
+          "text": "A Csvt. 17. § a gyermek otthoni gondozására legalább a harmadik életévig, ápolására legalább a tizenkettedik életévig fizetés nélküli szabadságot ígér külön törvény szerint; a szabadság maga nem szerződésmódosítás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Csvt. programnorma, a távollét nem egyenlő a szerződésmódosítással. A Csvt. 17. § szerint a szülőt külön törvény szerinti fizetés nélküli szabadság illeti meg a gyermek otthoni gondozása céljából legalább a harmadik életévig, illetve tartósan beteg, súlyosan fogyatékos gyermek és ikrek esetén a külön törvény szerinti korhatárig, ápolása céljából legalább a tizenkettedik életévig. Az Mt. 59. § a 127–132. § szerinti távollét megszűnéséhez köti a bérkorrekciós ajánlatot. A visszatérés a 61. § (3) bekezdése szerinti részmunkaidő tényállását is nyithatja."
+        },
+        {
+          "text": "Az Mt. 61. § (3) bekezdése a Csvt. 19. § harmadik életéves alsó korlátját a munkáltató javára szűkíti, ezért a négyéves korhatár a Csvt.-vel ellentétes.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. a Csvt. programját emeli, nem szűkíti. A Csvt. 19. § legalább a harmadik életévig rendel részmunkaidőt; az Mt. 61. § (3) bekezdése a négyéves, három vagy több gyermeknél a hatéves korhatárig kötelez. A Csvt. 21. § szerint más jogszabály a foglalkoztatottra nézve kedvezőbb szabályokat is megállapíthat. A tévedés a két törvény korhatár-viszonyának megfordításából ered."
+        },
+        {
+          "text": "A Csvt. 17. § szerinti fizetés nélküli szabadság egyben az 58. § szerinti munkaszerződés-módosítás is, közös megegyezés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szabadság távollét, nem szerződésmódosítás. A Csvt. 17. § a fizetés nélküli szabadságot programnormaként adja; a szerződéses mag — munkakör, munkahely, munkaidő-fajta, alapbér — tartós cseréje az Mt. 58. § közös megegyezését kívánja. A visszatérés után az 59. § bérkorrekciós ajánlata és a 61. § (3) bekezdése szerinti részmunkaidő nyílhat meg. A tévedés a távollét és a szerződésmódosítás fogalmi azonosságának feltételezéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "2436c48f9a0d"
+    },
+    {
+      "question": "Miben tér el a Csvt. 16. § (2) bekezdése szerinti várandós női foglalkoztatás az Mt. 60. § felajánlási rendjétől?",
+      "options": [
+        {
+          "text": "A Csvt. 16. § (2) bekezdése a férfi munkavállalóra is ugyanúgy kiterjed, mint az Mt. 60. § a várandósság megállapításától.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Csvt. 16. § (2) bekezdése a várandós, illetve egy évesnél fiatalabb gyermeket nevelő nőre vonatkozik. Az Mt. 60. § (1) bekezdése a várandósság megállapításától a gyermek egyéves koráig a munkaköri alkalmassági vélemény alapján nem foglalkoztatható munkavállaló számára rendel felajánlást. A Csvt. szövege e ponton kifejezetten a nőt nevezi meg. A tévedés a személyi hatály kiterjesztéséből ered."
+        },
+        {
+          "text": "Az Mt. 60. § a felajánlott munkakör alapbérét a szerződéses alapbér alá is engedheti, ha a Csvt. 16. § (2) bekezdése szerinti hozzájárulás megvan.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az alapbér védelme mindkét norma szerint zár. Az Mt. 60. § (2) bekezdése szerint a felajánlott munkakörnek megfelelő alapbér a munkaszerződés szerinti alapbérénél kevesebb nem lehet. A Csvt. 16. § (2) bekezdése is a megelőzőnél nem kisebb alapbért követel. A hozzájárulás a munkakör elfogadását, nem a bércsökkentést engedi. A tévedés a hozzájárulás és a bérplafon felcseréléséből ered."
+        },
+        {
+          "text": "Az Mt. 60. § a felajánlást és a felmentést adja; a hozzájárulást e szövegben nem ismétli, de az alapos ok nélküli elutasítás a felmentési alapbért elvonja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két norma ugyanarra a programra épül, más hangsúllyal. Az Mt. 60. § (1)–(2) bekezdése a felajánlást, a felmentést és az alapbér védelmét rendezi; a felajánlott munkakör alapos ok nélküli elutasítása a felmentés idejére járó alapbért elvonja. A Csvt. 16. § (2) bekezdése a nő hozzájárulását is kimondja. A gyakorlatban a felajánlott munkakör elfogadása a hozzájárulás funkcióját is betölti a 60. § (2) bekezdésének szankcióján keresztül."
+        },
+        {
+          "text": "A Csvt. 16. § (2) bekezdése a várandós, illetve egy évesnél fiatalabb gyermeket nevelő nőt csak az egészségi állapotának megfelelő, általa hozzájárult, a megelőzőnél nem kisebb alapbérű munkakörben engedi foglalkoztatni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Csvt. a nő hozzájárulását is követeli. A Csvt. 16. § (2) bekezdése szerint a várandós, illetve egy évesnél fiatalabb gyermeket nevelő nőt csak az egészségi állapotának megfelelő olyan munkakörben lehet foglalkoztatni, amelyhez hozzájárult, és amelyben alapbére nem kevesebb, mint a megelőző munkakörében. A megfelelő munkakör felajánlása vagy kialakítása a foglalkoztató feladata; hiányában felmentés és külön törvény szerinti alapbér jár. Az Mt. 60. § (1)–(2) bekezdése e programot a felajánlás, a felmentés és az alapbér védelmének szabályaival hajtja végre."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "3bae3c73f56c"
+    },
+    {
+      "question": "Milyen kapcsolatot ad a Csvt. 15. § és 18. § a foglalkoztatási védelem és a szerződésmódosítás között?",
+      "options": [
+        {
+          "text": "A Csvt. 15. § a szerződésmódosítás írásba foglalását és a példányátadást is közvetlenül szabályozza, az Mt. 58. § nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Csvt. a módosítás alakszerűségét nem adja. A Csvt. 15. § programnormaként a védelmet és az atipikus foglalkoztatás ösztönzését rendezi; a szerződésmódosítás alakszerűségét az Mt. 58. § és a 23. § viszi a megkötés szabályainak megfelelő alkalmazásával. A 62. § (1) bekezdése az 58. §-t kógenssé zárja. A tévedés a programnorma és a külön törvény alakszerűségi szabályának felcseréléséből ered."
+        },
+        {
+          "text": "A Csvt. 18. § szerinti felmondási védelem automatikusan az 58. § szerinti szerződésmódosítást is magában foglalja, közös megegyezés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felmondási védelem a megszüntetés ellen véd, nem módosítja a szerződést. A Csvt. 18. § a külön törvény szerinti felmondási védelmet rendezi; a szerződéses mag tartós cseréje az Mt. 58. § közös megegyezését kívánja. A 61. § kérelemjoga önálló intézmény a felmondási tilalmak mellett. A tévedés a megszüntetés elleni védelem és a szerződésmódosítás összekeveréséből ered."
+        },
+        {
+          "text": "A Csvt. 15. § (1) bekezdése a kiskorú gyermeket nevelő szülőnek kiemelt munkajogi védelmet és a szülői szerep s a munkavégzés összehangolását ígéri, és az államot a részmunkaidő, illetve az atipikus formák ösztönzésére kötelezi; a „külön törvény” az Mt. 58–62. §-a.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Csvt. programnorma, az Mt. a végrehajtó külön törvény. A Csvt. 15. § (1) bekezdése szerint a kiskorú gyermeket nevelő szülőt a foglalkoztatása során a külön törvényben foglaltak szerint kiemelt munkajogi védelem, illetve a szülői szerep és a munkavégzés összehangolását biztosító kedvezmények illetik meg. Az állam ösztönzi a részmunkaidőben történő, illetve az egyéb atipikus foglalkoztatási formákban való munkavégzést. A Csvt. maga a szerződésmódosítás alakszerűségét nem adja; azt az Mt. 58. § és a 23. § viszi."
+        },
+        {
+          "text": "A Csvt. 18. § felmondási védelme nem szerződésmódosítás, de a 61. § (2) és (4) bekezdése szerinti kérelem gyakorlását a megtorlástól védi; a módosítási kérelem elutasítása és a jogviszony megszüntetése e vonalon nem cserélhető fel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felmondási védelem és a szerződésmódosítás elválasztott sík. A Csvt. 18. § a szülőt külön törvény szerinti felmondási védelem alá helyezi, ha háromévesnél fiatalabb gyermeket nevel, beteg gyermekét ápolja, várandós, szülési vagy gondozási célú fizetés nélküli szabadságon van, illetve reprodukciós kezelésben vagy örökbefogadási eljárásban vesz részt. A védelem a 61. § (2) és (4) bekezdése szerinti módosítási kérelem gyakorlását a megtorlás jellegű megszüntetéstől óvja. A kérelem elutasítása önmagában nem egyenlő a jogviszony megszüntetésével."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "49a8bb75ba20"
+    },
+    {
+      "question": "Mi következik abból a 97/81/EK irányelv mellékletének ötödik szakasza szerint, ha a munkavállaló a teljes és a részmunkaidő közötti áttérést visszautasítja?",
+      "options": [
+        {
+          "text": "A részmunkaidőre áttérés visszautasítása önmagában elegendő a munkaviszony azonnali hatályú megszüntetéséhez.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a visszautasítás nem önálló megszüntetési jogcím a részmunkaidős áttérésnél. Az Mt. 61. § (1) bekezdés a) pontja és (3)–(4) bekezdése a 97/81/EK irányelv mellékletének ötödik szakaszát hajtja végre, amely szerint a teljes és a részmunkaidő közötti áttérés munkavállaló általi visszautasítása önmagában nem jelent elegendő jogalapot a foglalkoztatás megszüntetésére. A nemzeti jog szerinti egyéb megszűnési okok — például a vállalat működési nehézségei — továbbra is fennállhatnak. A tévedés a visszautasítás megszüntetési jogcímmé emeléséből ered."
+        },
+        {
+          "text": "A teljes munkaidőről részmunkaidőre történő áttérés — vagy fordítva — munkavállaló általi visszautasítása önmagában nem elégséges jogalap a foglalkoztatás megszüntetésére, a nemzeti jog szerinti egyéb megszűnési okok sérelme nélkül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az ötödik szakasz 2. pontja a visszautasítást önálló megszüntetési okként zárja ki. A 97/81/EK irányelv mellékletének ötödik szakaszának 2. pontja szerint a teljes és a részmunkaidő közötti áttérés munkavállaló által történő visszautasítása önmagában nem jelent elegendő jogalapot a foglalkoztatás megszüntetésére. A nemzeti jogszabályokkal, kollektív megállapodásokkal és gyakorlattal összhangban történt megszűnés egyéb indokokból — például a vállalat működési nehézségei — továbbra is lehetséges. Az Mt. 61. § (1) bekezdés a) pontja és (3)–(4) bekezdése e szakasz magyar végrehajtása."
+        },
+        {
+          "text": "Az Mt. 61. § (3) bekezdése a részmunkaidőre módosítást továbbra is csak „lehetőség szerint” rendeli, az uniós ötödik szakasz 3. pontjával azonos mércével.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a magyar (3) bekezdés alanyi jog, nem „lehetőség szerint” mérce. Az Mt. 61. § (3) bekezdése „köteles … módosítani” fordulatot használ a gyermekhez kötött fél munkaidőnél. A 97/81/EK irányelv mellékletének ötödik szakaszának 3. pontja a kérelem figyelembevételét a vállalkozásnál fennálló lehetőséghez köti. A tévedés az uniós és a magyar mérce azonosságának feltételezéséből ered."
+        },
+        {
+          "text": "Az ötödik szakasz 3. pontja a munkaadót lehetőség szerint a kérelem figyelembevételére, a megüresedett helyek közzétételére, a képzésre és a munkavállalói képviselet tájékoztatására kötelezi; az Mt. 61. § (3) bekezdése a gyermekhez kötött részmunkaidőnél e „lehetőség szerint” mércét alanyi joggá emeli.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az uniós „lehetőség szerint” és a magyar alanyi jog elválik. A 97/81/EK irányelv mellékletének ötödik szakaszának 3. pontja a teljes és részmunkaidő közötti áttérési kérelem figyelembevételét a vállalkozásnál fennálló lehetőséghez köti. Az Mt. 61. § (3) bekezdése a gyermek négyéves — három vagy több gyermeknél hatéves — koráig a fél munkaidőre módosítást kötelezővé teszi. A 61. § (1) bekezdése a lehetőségek tájékoztatását adja, nem a bérarányosítás pro rata temporis szabályát."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "30770f07129a"
+    },
+    {
+      "question": "Milyen tájékoztatást követel a 1999/70/EK irányelv mellékletének hatodik szakasza a határozott idejű munkavállaló javára, és hogyan jelenik meg ez az Mt. 61. §-ában?",
+      "options": [
+        {
+          "text": "Az Mt. 61. § a határozatlan idejű foglalkoztatásról szóló tájékoztatás mellett a képzési lehetőséget is kötelezően rendezi, a hatodik szakasz 2. pontjával azonos kógenciával.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a magyar 61. § a képzést e szakaszban nem ismétli. A 1999/70/EK irányelv mellékletének hatodik szakaszának 2. pontja a képzést „amennyiben lehetséges” mércével adja. Az Mt. 61. § (1) bekezdés c) pontja a határozatlan idejű foglalkoztatás lehetőségéről való tájékoztatást rendezi, a képzési kötelem nélkül. A tévedés a képzési pont kötelező átültetésének feltételezéséből ered."
+        },
+        {
+          "text": "A munkáltató a határozott időre alkalmazott munkavállalót a megüresedett álláslehetőségekről tájékoztatja, hogy a többi munkavállalóval azonos lehetősége legyen állandó beosztásra; a tájékoztatás általános hirdetmény útján is teljesíthető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hatodik szakasz 1. pontja a tájékoztatást kötelezővé teszi. A 1999/70/EK irányelv mellékletének hatodik szakaszának 1. pontja szerint a munkáltatók a határozott időre alkalmazott munkavállalókat tájékoztatják a vállalkozás vagy az üzem megüresedett álláslehetőségeiről. Ez a tájékoztatás általános hirdetmény útján is biztosítható. Az Mt. 61. § (1) bekezdés c) pontja ugyanezt a határozatlan idejű foglalkoztatási lehetőséget munkakör-megjelöléssel adja át."
+        },
+        {
+          "text": "A hatodik szakasz 1. pontja szerint a határozott idejű munkavállaló tájékoztatása csak egyéni, névre szóló írásbeli felszólítással teljesíthető; a hirdetmény tilos.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tájékoztatás általános hirdetmény útján is biztosítható. A 1999/70/EK irányelv mellékletének hatodik szakaszának 1. pontja kifejezetten megengedi, hogy a tájékoztatás általános hirdetmény útján történjen a vállalkozás vagy üzem erre alkalmas helyén. Az Mt. 61. § (1) bekezdés c) pontja a munkakörök megjelölésével ad tájékoztatást. A tévedés a hirdetményes teljesítés kizárásából ered."
+        },
+        {
+          "text": "A 61. § (2) bekezdése e tájékoztatás alapján — a munkaviszony első hat hónapját kivéve — a szerződés határozatlan idejűvé módosításának kérését is megnyitja, és a jogellenes elutasítást a bíróság pótolhatja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a magyar kérelemrend a tájékoztatáshoz kapcsolódik. Az Mt. 61. § (2) bekezdése az (1) bekezdés szerinti tájékoztatás alapján nyitja a módosítási kérelemjogot, ideértve a határozatlan idejű foglalkoztatást. A (6) bekezdés szerint a munkáltató tizenöt napon belül nyilatkozik; a jogellenes elutasítást vagy a hallgatást a bíróság a hozzájáruló nyilatkozat pótlásával orvosolhatja. A keretmegállapodás hatodik szakaszának 2. pontja a képzést lehetőség szerintivé teszi, és a magyar 61. § ezt a képzési elemet e helyen nem ismétli."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "06c4874c98a7"
+    },
+    {
+      "question": "Mely esetben nem minősül szerződésmódosításnak a Csvt. 20. § szerinti pótszabadság, szoptatási kedvezmény vagy szülési szabadság?",
+      "options": [
+        {
+          "text": "A pótszabadság, a szoptatási munkaidő-kedvezmény és a szülési szabadság a munkaidő és a távollét rendjét alakítja, a szerződéses munkakört nem cseréli; az 58. § szerinti módosítás más intézmény.",
+          "isCorrect": true,
+          "rationale": "IGAZ, e kedvezmények nem a szerződéses mag tartós cseréje. A Csvt. 20. § (1) bekezdése mindkét szülő pótszabadságát, a szoptató anya munkaidő-kedvezményét és a várandós, illetve szülő nő szülési szabadságát adja, külön törvényre utalva. A (2) bekezdés a szülési szabadság alsó korlátját huszonnégy hétben állapítja meg, kivéve, ha az anya a szülést követően nem tudja vagy nem akarja a gyermekét gondozni. Ezek a 59. § szerinti távollét és a 61. § szerinti visszatérő részmunkaidő előfeltételét adhatják, de maguk nem szerződésmódosítás."
+        },
+        {
+          "text": "A Csvt. 21. § csak a kollektív szerződésnek engedi a kedvezőbb szabályt; egyedi foglalkoztatói intézkedés e címen nem állapíthat meg kedvezőbb védelmet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kedvezőbb szabály forrásköre tágabb a kollektív szerződésnél. A Csvt. 21. § szerint más jogszabály, munkaviszonyra vonatkozó szabály, illetve egyedi foglalkoztatói intézkedés is megállapíthat kedvezőbb szabályokat. Az Mt. 62. § (2) bekezdése a kollektív szerződés kedvező irányú eltérését az 59–61. §-nál is megerősíti. A tévedés a kedvezőbb szabály forráskörének csonkításából ered."
+        },
+        {
+          "text": "A Csvt. 20. § (2) bekezdése szerinti legalább huszonnégy hetes szülési szabadság is távollét: a 59. § szerinti bérkorrekció és a 61. § szerinti visszatérő részmunkaidő előfeltételét adhatja, de magát a szerződést nem írja át.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 20. § intézményei a távollét és a munkaidő-kedvezmény síkján állnak. A Csvt. 20. § (1) bekezdése a pótszabadságot, a szoptatási kedvezményt és a szülési szabadságot adja; a (2) bekezdés a szülési szabadság alsó korlátját huszonnégy hétben állapítja meg, kivéve ha az anya a szülést követően nem tudja vagy nem akarja a gyermekét gondozni. Az Mt. 58. § a szerződéses mag közös megegyezéssel történő módosítását rendezi. E szabályok tehát nem maguk a szerződésmódosítás."
+        },
+        {
+          "text": "A pótszabadság, a szoptatási kedvezmény és a szülési szabadság azért nem szerződésmódosítás, mert a Csvt. 21. § a foglalkoztatott javára kedvezőbb szabályt enged.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Csvt. 21. § a kedvezőbb szabály lehetőségét adja, nem a 20. § intézményi jellegét. A Csvt. 20. § a pótszabadságot, a szoptatási munkaidő-kedvezményt és a szülési szabadságot rendezi; ezek a munkaidő és a távollét rendjét alakítják. A 21. § más jogszabály, munkaviszonyra vonatkozó szabály vagy egyedi intézkedés kedvezőbb védelmét engedi. A tévedés a 20. § és a 21. § tanulási céljának összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "c6c1419cb3be"
+    },
+    {
+      "question": "Miben tér el a 294. § (1) bekezdés a) pontja szerinti fiatal munkavállaló fogalma a 61. § kérelemjogától?",
+      "options": [
+        {
+          "text": "Fiatal munkavállaló a tizennyolcadik életévét be nem töltött munkavállaló; a 61. § kérelemjoga e fogalomra nem épül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az a) pont a IX. fejezet kérelemrendjén kívül eső értelmező rendelkezés. Az Mt. 294. § (1) bekezdés a) pontja szerint fiatal munkavállaló a tizennyolcadik életévét be nem töltött munkavállaló. A 61. § (3)–(4) bekezdése a gyermekhez és a gondozást végző munkavállalóhoz kötött kérelemjogot ad, nem a fiatal munkavállaló fogalmára. Az (1) bekezdés további pontjai — munkavállalói képviselő, munkavégzésre irányuló jogviszony, nyugdíjas munkavállaló — ugyancsak a módosítás IX. fejezetén kívül esnek."
+        },
+        {
+          "text": "A 61. § (3)–(4) bekezdése a gyermek, a három vagy több gyermeket nevelő, az egyedül nevelő és a gondozást végző fogalmakra épül, amelyeket a 294. § (1) bekezdés c), k), i) és n) pontja tölt ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kérelemjog értelmező háttere zárt. Az Mt. 61. § (3) bekezdése a gyermek négyéves — három vagy több gyermeket nevelőnél hatéves — koráig a részmunkaidőt kötelezi; a (4) bekezdés a gyermek nyolcéves koráig vagy a gondozást végző javára nyitja a rugalmas kört. A 294. § (1) bekezdés c), k), i) és n) pontja ezeket a fordulatokat tölti ki. A fiatal munkavállaló a) pontja e kérelemrendhez nem kapcsolódik."
+        },
+        {
+          "text": "A 61. § (4) bekezdése szerinti rugalmas kérelemjog a fiatal munkavállaló tizennyolcadik életévének betöltéséig tart.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (4) bekezdés a gyermek nyolcéves korához vagy a gondozást végző státuszhoz kötött. Az Mt. 61. § (4) bekezdése szerint a munkavállaló gyermeke nyolcéves koráig vagy a gondozást végző munkavállaló kérheti a munkahely, a munkarend, a távmunka és a részmunkaidő módosítását. A 294. § (1) bekezdés a) pontja szerinti fiatal munkavállaló fogalma e kérelemjogra nem épül. A tévedés a fiatal munkavállaló és a gyermekhez kötött kérelem korhatárának felcseréléséből ered."
+        },
+        {
+          "text": "A nyugdíjas munkavállaló 294. § (1) bekezdés g) pontja a 61. § szerinti módosítási kérelemjog személyi feltétele.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nyugdíjas munkavállaló fogalma a módosítás IX. fejezetén kívül esik. Az Mt. 294. § (1) bekezdés g) pontja az öregségi nyugdíjra való jogosultságot és a kapcsolódó ellátásokat rendezi; ez a pont a 61. § kérelemjogához nem kapcsolódik. A 61. § a gyermekhez és a gondozást végzőhöz kötött. A tévedés az értelmező rendelkezések kérelemjogra való kiterjesztéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "9bf74d2145a2"
+    },
+    {
+      "question": "Egy várandós munkavállaló munkaköri alkalmassági véleménye szerint a szerződéses munkakörében nem foglalkoztatható, és a munkafeltételek 51. § (3) bekezdése szerinti alakítása sem elegendő. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A munkáltatónak egészségi állapotának megfelelő munkakört kell felajánlania; ha a megfelelő foglalkoztatás nem lehetséges, a munkavégzés alól fel kell menteni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 60. § (1) bekezdése a felajánlást és a felmentést konjunktív tényálláshoz köti. Az Mt. 60. § (1) bekezdése a várandósság megállapításától a gyermek egyéves koráig, munkaköri alkalmassági vélemény alapján rendeli a felajánlást, ha az 51. § (3) bekezdése szerinti feltételmódosítás nem elégséges. A megfelelő foglalkoztatás hiányában a felmentés kötelező. A felajánlás a munkáltató kötelme, a módosítás továbbra is a felek megállapodása vagy a felmentés."
+        },
+        {
+          "text": "A 60. § csak a gyermek négyéves koráig alkalmazható, és a munkáltató a felajánlást a 64. § (2) bekezdése szerinti indokolással elutasíthatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 60. § a gyermek egyéves koráig tart, és nem a 61. § kérelemrendje. Az Mt. 60. § (1) bekezdése a várandósság megállapításától a gyermek egyéves koráig rendeli a felajánlást. A 64. § (2) bekezdése szerinti indokolás a 61. § (6) bekezdése szerinti kérelem elutasításához kapcsolódik. A tévedés a 60. § és a 61. § korhatárának, valamint eljárásának felcseréléséből ered."
+        },
+        {
+          "text": "A felajánlott munkakör alapbére a szerződéses alapbérnél kevesebb nem lehet; a felmentés idejére járó alapbér akkor esik el, ha a felajánlott munkakört a munkavállaló alapos ok nélkül nem fogadja el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés a bérvédelmet és az alapos ok nélküli elutasítás szankcióját rendezi. Az Mt. 60. § (2) bekezdése a felajánlott munkakör alapbérét a szerződéses alapbér alá nem engedi, és a felmentés idejére is alapbért rendel, kivéve az alapos ok nélküli elutasítást. A Csvt. 16. § (2) bekezdése a nő hozzájárulását is követeli ugyanezen a programon. A védő munkakör tehát nem lehet bércsökkentés eszköze."
+        },
+        {
+          "text": "A munkáltató a felajánlást megtagadhatja, ha a munkaszervezésben nincs megfelelő üres munkakör, és ilyenkor a munkavállaló a szerződéses munkakörben köteles tovább dolgozni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megfelelő foglalkoztatás hiányában nem a szerződéses munkakörben való továbbdolgozás, hanem a felmentés a jogkövetkezmény. Az Mt. 60. § (1) bekezdése szerint a munkavégzés alól fel kell menteni, ha az egészségi állapotának megfelelő foglalkoztatása nem lehetséges. A felajánlás kötelesség, nem mérlegelési jog. A tévedés a felmentési kötelem mellőzéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "97ae2a3b6f11"
+    },
+    {
+      "question": "A Csvt. 16. § (1) bekezdése mely kedvezményköröket jelöl a várandós anya és a kiskorú gyermeket nevelő szülő javára?",
+      "options": [
+        {
+          "text": "A 294. § (1) bekezdés d) pontja a kötelező orvosi vizsgálatot — ideértve a várandós állapotra tekintettel előírt vizsgálatot is — a munkaviszonyra vonatkozó szabály előírásához köti, és a 60. § (1) bekezdése szerinti munkaköri alkalmassági vélemény felé nyitja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a d) pont a 60. § orvosi véleményének értelmező háttere. Az Mt. 294. § (1) bekezdés d) pontja szerint kötelező orvosi vizsgálat az az orvosi vizsgálat, amelyen a munkavállalónak munkaviszonyra vonatkozó szabály előírása alapján részt kell vennie, ideértve a várandós állapotra tekintettel előírt orvosi vizsgálatot is. Az 51. § (4) bekezdése a munkaköri alkalmassági vizsgálatot a munkáltató ingyenes kötelezettségévé teszi. A 60. § (1) bekezdése e véleményre támaszkodik a foglalkoztathatóság elvetésénél."
+        },
+        {
+          "text": "A Csvt. 16. § (1) bekezdése csak a részmunkaidőre módosítást rendezi, a munkavégzési hely és az éjszakai munka nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (1) bekezdés négy kedvezménykört ad, nem a részmunkaidőt. A Csvt. 16. § (1) bekezdése a munkavégzési hely módosítását, a rendkívüli és éjszakai munkát, a más helységben végzendő munkát és az orvosi vizsgálat kedvezményét sorolja. A részmunkaidő a Csvt. 19. § és az Mt. 61. § (3) bekezdése vonala. A tévedés a 16. § és a 19. § tárgyának felcseréléséből ered."
+        },
+        {
+          "text": "A négy kör: a foglalkoztatásra irányuló szerződés munkavégzési helyének megváltozása miatti módosítása, a rendkívüli és az éjszakai munkavégzés, a más helységben végzendő munka, valamint a várandóssággal összefüggő orvosi vizsgálat munkaidő-kedvezménye.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (1) bekezdés négy kedvezménykört sorol fel. A Csvt. 16. § (1) bekezdése a) pontjában a munkavégzési hely megváltozása miatti szerződésmódosítást, b) pontjában a rendkívüli, illetve éjszakai munkavégzésre való igénybe vehetőséget, c) pontjában a más helységben végzendő munkára kötelezést, d) pontjában a várandóssággal összefüggő orvosi vizsgálat munkaidő-kedvezményét nevezi meg. Az a) pont a 61. § (4) bekezdés a) pontjának — a munkavégzési hely módosításának — programnormája. A d) pont a 294. § (1) bekezdés d) pontja szerinti, várandós állapotra tekintettel előírt orvosi vizsgálathoz kapcsolódik."
+        },
+        {
+          "text": "A várandóssággal összefüggő orvosi vizsgálat munkaidő-kedvezménye a Csvt. 16. § (1) bekezdéséből kiesik; azt csak az Mt. 60. § rendezi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a d) pont kifejezetten e kedvezményt nevezi meg. A Csvt. 16. § (1) bekezdés d) pontja a várandóssággal összefüggő orvosi vizsgálat munkaidő-kedvezményét adja. Az Mt. 60. § a munkakör felajánlását és a felmentést rendezi, nem ezt a munkaidő-kedvezményt. A 294. § (1) bekezdés d) pontja a kötelező, várandós állapotra tekintettel előírt orvosi vizsgálatot határozza meg. A tévedés a két intézmény összecseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "808d5b6e1a3e"
+    },
+    {
+      "question": "Mely állítások tévesek a munkaszerződés módosításának alakszerűségéről és időbeli hatályáról?",
+      "options": [
+        {
+          "text": "A munkáltatói szabályzat egyoldalú átírása a szerződéses magot — munkakör, munkahely, munkaidő-fajta, alapbér — is érvényesen módosítja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szabályzat egyoldalú átírása a szerződéses magot nem érinti. Az Mt. 58. § a felek közös megegyezését teszi a módosítás általános címévé. A módosítás tárgya csak az lehet, amiben a felek a szerződésben megállapodtak vagy amiben a törvény a szerződés tartalmát kógenssé tette. A helyes: a szerződéses mag tartós cseréje konszenzust kíván, nem szabályzati utasítást."
+        },
+        {
+          "text": "A módosítás szóbeli megállapodással is érvényes, mert az 58. § a megkötés írásbeliségét nem hívja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megkötés szabályainak megfelelő alkalmazása az írásba foglalást is magában foglalja. Az Mt. 58. § szerint a munkaszerződés módosítására a megkötésére vonatkozó szabályokat kell megfelelően alkalmazni; ez a 23. § írásba foglalását és a példányátadást is hívja. A 62. § (1) bekezdése az 58. §-tól való eltérést a felek és a kollektív szerződés elől is elzárja. A helyes: a módosítás is megállapodás, ezért írásba foglalás jár vele."
+        },
+        {
+          "text": "A kollektív szerződés az 58. § helyett a munkáltatónak egyoldalú módosítási jogot adhat a szerződéses magra, ha a felek erről külön nem rendelkeznek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közös megegyezés a szerződéses magra nem cserélhető egyoldalú munkáltatói joggal. Az Mt. 62. § (1) bekezdése a felek megállapodását és a kollektív szerződést egyaránt elzárja az 58. §-tól való eltéréstől. Egyoldalú munkáltatói módosítási jog a szerződéses magra e címen nem telepíthető. A helyes: a közös megegyezés marad a módosítás általános címe."
+        },
+        {
+          "text": "A megállapodás a múltbeli teljesítést is automatikusan átminősíti, kifejezett visszamenőleges hatály kikötése nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megállapodás főszabály szerint a jövőre hat. Az Mt. 58. § a közös megegyezéses módosítást rendezi; a múltbeli teljesítést a felek csak akkor minősítik át, ha a hatályt kifejezetten visszaviszik. A megkötés szabályainak megfelelő alkalmazása a lényeges adatok megjelölését is magában foglalja. A helyes: visszamenőleges hatály csak kifejezett kikötéssel."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "d69b9f3e105c"
+    },
+    {
+      "question": "Milyen kapcsolatot ad az 51. § (3)–(4) bekezdése a 60. § felajánlási rendjéhez?",
+      "options": [
+        {
+          "text": "Az 51. § (4) bekezdése a munkaköri alkalmassági vizsgálatot a munkáltató ingyenes kötelezettségévé teszi a munkába lépés előtt és a jogviszony alatt; a 60. § (1) bekezdése e véleményre támaszkodik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felajánlás orvosi véleményhez kötött. Az Mt. 51. § (4) bekezdése a munkaköri alkalmassági vizsgálatot a munkáltató ingyenes kötelezettségévé teszi. A 60. § (1) bekezdése a munkaköri alkalmasságra vonatkozó orvosi vélemény alapján dönti el, hogy a munkavállaló a munkakörében foglalkoztatható-e. A 294. § (1) bekezdés d) pontja a kötelező orvosi vizsgálatot — ideértve a várandós állapotra tekintettel előírt vizsgálatot is — e vonalhoz kapcsolja."
+        },
+        {
+          "text": "Az 51. § (3) bekezdése szerinti feltételmódosítás a 60. § felajánlását mindig megelőzően kötelező, de a 60. § a feltételmódosítás nélkül is azonnal nyílik a várandósság ténye miatt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felajánlási kötelem konjunktív feltételekhez kötött. Az Mt. 60. § (1) bekezdése szerint a felajánlás akkor jár, ha a munkakörében történő foglalkoztatás feltételei az 51. § (3) bekezdése szerint nem módosíthatóak, és a munkaköri alkalmassági vélemény a foglalkoztatást elveti. Önmagában a várandósság ténye a felajánlási kötelmet nem indítja el. A tévedés a konjunktív feltételek egyikének elhagyásából ered."
+        },
+        {
+          "text": "Az 51. § (3) bekezdése a munkafeltételek és a munkaidő-beosztás állapotváltozáshoz igazodó alakítását rendeli; ez még nem a 60. § szerinti más munkakör felajánlása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a feltételmódosítás előzetes, enyhébb lépés. Az Mt. 51. § (3) bekezdése a munkafeltételek és a munkaidő-beosztás állapotváltozáshoz igazított alakítását írja elő a 6. § figyelembevételével. A 60. § (1) bekezdése csak akkor nyílik meg, ha e feltételmódosítás nem elégséges, és a munkaköri alkalmassági vélemény a szerződéses munkakörben való foglalkoztatást elveti. Az 57. § (1) bekezdés a) pontja az 51. § egészét a felek és a kollektív szerződés eltérése elől elzárja."
+        },
+        {
+          "text": "Az 51. § (4) bekezdése szerinti alkalmassági vizsgálat költsége a munkavállalót terheli, ha a 60. § szerinti felajánlás folyamatban van.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a vizsgálat a munkáltató ingyenes kötelezettsége. Az Mt. 51. § (4) bekezdése a munkaköri alkalmassági vizsgálatot a munkáltató ingyenes kötelezettségévé teszi a munkába lépés előtt és a jogviszony alatt. A 60. § (1) bekezdése e véleményre támaszkodik, de a költségviselést nem fordítja meg. A tévedés a költségviselés áthárításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "fca705b7be51"
+    },
+    {
+      "question": "Mely állítások tévesek a 61. § szerinti korhatárok és kérelemrendek elhatárolásánál?",
+      "options": [
+        {
+          "text": "A (2) és a (4) bekezdés kérelemjoga a munkaviszony első napjától gyakorolható, a hat hónapos várakozás csak a (3) bekezdésre vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hat hónapos kizárás a (2) és a (4) bekezdésre vonatkozik, a (3) bekezdésre nem ugyanezzel a fordulattal. Az Mt. 61. § (2) és (4) bekezdése a munkaviszony első hat hónapját kivéve nyitja a kérelemjogot. A (3) bekezdés a gyermek életkorához kötött alanyi kötelesség. A helyes: a várakozási idő a tájékoztatáson alapuló és a rugalmas kérelemre vonatkozik."
+        },
+        {
+          "text": "A (3) bekezdés kötelező részmunkaidője a gyermek nyolcéves koráig tart, ugyanazzal a mérlegelési renddel, mint a (4) bekezdés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés négy-, illetve hatéves korhatárt és alanyi kötelességet ad, nem nyolcéves mérlegelést. Az Mt. 61. § (3) bekezdése a gyermek négyéves — három vagy több gyermeket nevelőnél hatéves — koráig kötelezi a fél munkaidőre módosítást. A (4) bekezdés a gyermek nyolcéves koráig vagy a gondozást végző javára nyitja a rugalmas kérelemkört, nyilatkozattal és indokolással. A helyes: a (3) bekezdés alanyi jog, a (4) bekezdés kérelemjog."
+        },
+        {
+          "text": "A három vagy több gyermeket nevelő munkavállalónál a (3) bekezdés korhatára a gyermek négyéves kora, ugyanúgy, mint az egy gyermeket nevelőnél.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a három vagy több gyermeket nevelőnél a korhatár hatéves. Az Mt. 61. § (3) bekezdése szerint a munkáltató a gyermek négyéves koráig — három vagy több gyermeket nevelő munkavállaló esetén a gyermek hatéves koráig — köteles a fél munkaidőre módosítani. A 294. § (1) bekezdés k) pontja a három vagy több gyermeket nevelő fogalmát a családok támogatásáról szóló törvény szerinti jogosultsághoz köti. A helyes: négyéves főszabály, hatéves a három vagy több gyermeknél."
+        },
+        {
+          "text": "A bíróság a munkáltató hozzájárulását a (3) bekezdés szerinti részmunkaidős ajánlatnál pótolja, mert ott a legnagyobb a munkáltatói ellenállás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a pótlás nem a (3) bekezdés alanyi kötelméhez, hanem a mérlegelési kérelemrendhez kapcsolódik. Az Mt. 61. § (6) bekezdése a kérelem jogellenes elutasítása vagy a nyilatkozat elmulasztása esetén pótolja a hozzájáruló nyilatkozatot; az (5) bekezdés a (2) vagy (4) bekezdés szerinti kérelmet nevezi meg. A (3) bekezdésnél a munkáltató köteles módosítani, ezért ott nem a pótlás, hanem a kötelező teljesítés a joghatás. A helyes: pótlás a mérlegelési kérelemrendnél."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "a325b65f87be"
+    },
+    {
+      "question": "Egy munkavállaló a 127–132. § szerinti törvényi távollétről tér vissza, és a munkáltató az azonos munkakörűek átlagos éves béremelése alatti ajánlatot tesz. Mi a helyes megítélés?",
+      "options": [
+        {
+          "text": "Ha az ajánlat az átlag alatt van, a munkavállaló hallgatása tizenöt nap után automatikusan elfogadott módosítást eredményez a 61. § (6) bekezdése szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az 59. § nem a 61. § kérelemrendje, és a hallgatás nem automatikus elfogadás. Az Mt. 59. § a munkáltató ajánlati kötelességét rendezi a távollét után; a módosítást a munkavállaló elfogadása hozza létre. A 61. § (6) bekezdése a (2) és (4) bekezdés szerinti kérelemre adott nyilatkozatról és a bírósági pótlásról szól. A tévedés a két intézmény eljárásának összekeveréséből ered."
+        },
+        {
+          "text": "A munkáltató a mértéket az azonos munkakörűek — ilyenek hiányában a munkáltatói — átlagos éves béremelés alá nem szabhatja; az ajánlat az 58. § szerinti közös megegyezéshez vezető szerződésmódosítási ajánlat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az 59. § a mércét és az ajánlati jelleget együtt adja. Az Mt. 59. § szerint a távollét megszűnését követően a munkáltató ajánlatot tesz, és az azonos munkakörűek időközben megvalósított átlagos éves béremelését kell alapul venni; ilyenek hiányában a munkáltatónál ténylegesen megvalósult átlagos éves béremelés az irányadó. A munkavállaló elfogadása hozza létre a módosítást. Kollektív szerződés e mércét a 62. § (2) bekezdése szerint csak a munkavállaló javára enyhítheti vagy tágíthatja."
+        },
+        {
+          "text": "A munkavállaló az ajánlatot elutasíthatja; a munkáltató a távollét előtti bérrel való továbbfoglalkoztatást pusztán az elutasítás miatt nem tagadhatja meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az elutasítás nem szünteti meg a továbbfoglalkoztatási kötelezettséget. Az Mt. 59. § ajánlati kötelességet telepít, nem egyoldalú bérnövelést. A munkavállaló az ajánlatot elutasíthatja; a távollét előtti bérrel való továbbfoglalkoztatás pusztán emiatt nem tagadható meg. A bérmódosítás csak akkor jön létre, ha a felek az 58. § szerinti közös megegyezéssel elfogadják az ajánlatot; az azonos munkakör hiánya sem mentesít, mert a második, kisegítő mérce a munkáltatói átlag."
+        },
+        {
+          "text": "Az azonos munkakörű munkavállalók hiánya mentesíti a munkáltatót az 59. § szerinti ajánlati kötelesség alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az azonos munkakör hiánya kisegítő mércét nyit, nem mentesítést. Az Mt. 59. § második mondata szerint ilyen munkavállalók hiányában a munkáltatónál ténylegesen megvalósult átlagos éves béremelés az irányadó. A munkáltató tehát továbbra is ajánlattételre köteles. A tévedés a kisegítő mérce mentesítésként való olvasásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "7e67dd847718"
+    },
+    {
+      "question": "Mely állítások tévesek a Csvt. és az Mt. viszonyáról a szerződésmódosításnál?",
+      "options": [
+        {
+          "text": "A Csvt. 18. § felmondási védelme önmagában létrehozza az 58. § szerinti munkaszerződés-módosítást, ha a szülő a 61. § szerinti kérelmet benyújtja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felmondási védelem a megszüntetés ellen véd, nem pótolja a módosításhoz szükséges hozzájárulást. A Csvt. 18. § a külön törvény szerinti felmondási védelmet rendezi taxatív helyzetekben. Az Mt. 61. § (2) és (4) bekezdése szerinti kérelem a (6) bekezdés szerinti nyilatkozattal, indokolással vagy bírósági pótlással vezethet módosításhoz. A helyes: a védelem és a szerződésmódosítás elválasztott sík."
+        },
+        {
+          "text": "A Csvt. 15–21. §-a közvetlenül pótolja az Mt. 58. § írásbeliségét és a 62. § kógenciáját, ezért az Mt. IX. fejezete a családos munkavállalóknál nem alkalmazandó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a családok védelméről szóló törvény programnorma, az Mt. a végrehajtó külön törvény. A Csvt. 15. § a kiemelt védelmet és az atipikus foglalkoztatás ösztönzését ígéri; a szerződésmódosítás alakszerűségét az Mt. 58. § és a 23. § viszi. A 62. § (1)–(2) bekezdése a IX. fejezet kógenciáját rendezi. A helyes: a Csvt. nem váltja ki az Mt. 58–62. §-át."
+        },
+        {
+          "text": "A Csvt. 16. § (2) bekezdése a felajánlott munkakör alapbérét a megelőző alá engedheti, ha a nő ehhez hozzájárul.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hozzájárulás a munkakör elfogadását, nem a bércsökkentést engedi. A Csvt. 16. § (2) bekezdése szerint a nőt csak olyan munkakörben lehet foglalkoztatni, amelyhez hozzájárult, és amelyben alapbére nem kevesebb, mint a megelőző munkakörében. Az Mt. 60. § (2) bekezdése ugyanezt a bérvédelmet adja: a felajánlott munkakör alapbére a szerződéses alapbérnél kevesebb nem lehet. A helyes: a bérplafon a hozzájárulás mellett is zár."
+        },
+        {
+          "text": "A Csvt. 19. § hatéves korhatárt ad a visszatérő részmunkaidőre, és az Mt. 61. § (3) bekezdése ezt a harmadik életévre szűkíti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Csvt. 19. § legalább a harmadik életévig rendel, az Mt. emeli a korhatárt. A Csvt. 19. § a visszatérő szülő részmunkaidős foglalkoztatását kérésére legalább a gyermek harmadik életévének betöltéséig írja elő. Az Mt. 61. § (3) bekezdése a négyéves, három vagy több gyermeknél a hatéves korhatárig kötelez. A Csvt. 21. § más jogszabálynak, munkaviszonyra vonatkozó szabálynak vagy egyedi intézkedésnek is megengedi a kedvezőbb védelmet. A helyes: a Csvt. alsó korlát, az Mt. a kedvezőbb külön törvény."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "ec8ba2c4162c"
+    },
+    {
+      "question": "Hogyan kapcsolódik a 294. § (1) bekezdés b) és n) pontja a 61. § (4) bekezdése szerinti gondozási kérelemjoghoz?",
+      "options": [
+        {
+          "text": "A hozzátartozó fogalma a b) pont szerint a házastársat, az egyeneságbeli rokont, az örökbefogadott, mostoha- és nevelt gyermeket, az örökbefogadó-, mostoha- és nevelőszülőt, a testvért, az élettársat és a házassági-rokonsági kapcsolat további köreit is magában foglalja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a b) pont taxatív, tág listát ad a gondozási helyzet személyi oldalához. Az Mt. 294. § (1) bekezdés b) pontja a házastárstól a testvér házastársáig sorolja fel a hozzátartozókat, ideértve az élettársat is. Az n) pont a gondozást a hozzátartozóhoz vagy a közös háztartásban élő személyhez köti. A 61. § (4) bekezdése e fogalmi háttérre építve nyitja a rugalmas kérelemkört."
+        },
+        {
+          "text": "A közös háztartásban élő, nem hozzátartozó személy gondozása a 294. § (1) bekezdés n) pontjából kiesik; csak a b) pont szerinti hozzátartozó jöhet szóba.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az n) pont a közös háztartásban élő személyt is megnevezi. Az Mt. 294. § (1) bekezdés n) pontja a gondozást a hozzátartozóhoz vagy a munkavállalóval közös háztartásban élő személyhez köti. A b) pont a hozzátartozói kört tölti ki; a közös háztartás önálló személyi oldal. A tévedés a közös háztartásban élő személy kizárásából ered."
+        },
+        {
+          "text": "A gondozást végző státuszhoz elegendő a munkavállaló saját nyilatkozata; kezelőorvosi igazolás nem szükséges.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kezelőorvosi igazolás az n) pont konjunktív eleme. Az Mt. 294. § (1) bekezdés n) pontja a súlyos egészségi okot és a jelentős gondozási vagy támogatási szükségletet a kezelőorvos igazolásához köti. A 61. § (4) bekezdése e fogalomra építi a kérelemjogot. A tévedés az orvosi igazolás mellőzéséből ered."
+        },
+        {
+          "text": "A gondozást végző munkavállaló a kezelőorvos által igazolt, súlyos egészségi okból jelentős gondozásra vagy támogatásra szoruló hozzátartozójának vagy a közös háztartásban élő személynek személyes gondozást vagy támogatást nyújtó munkavállaló.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az n) pont két konjunktív orvosi-gondozási elemet és két személyi oldalt ad. Az Mt. 294. § (1) bekezdés n) pontja a gondozást végzőt a kezelőorvos által igazolt súlyos egészségi okhoz, valamint a jelentős gondozási vagy támogatási szükséglethez köti, és a gondozott lehet hozzátartozó vagy a közös háztartásban élő személy. A 61. § (4) bekezdése e státusz javára — a munkaviszony első hat hónapját kivéve — nyitja a munkahely, a munkarend, a távmunka és a részmunkaidő kérését. A Csvt. 21. § a rászoruló családtag gondozását ugyanezen a vonalon említi."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "11265dbee31d"
+    }
+  ]
+}

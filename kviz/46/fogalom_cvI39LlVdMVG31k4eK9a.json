@@ -1,0 +1,765 @@
+{
+  "id": "cvI39LlVdMVG31k4eK9a",
+  "sorszam": 46,
+  "cim": "A Magyar Kormánytisztviselői Kar jogköre és az érdekegyeztetés",
+  "generationType": "fogalom",
+  "title": "46. A Magyar Kormánytisztviselői Kar jogköre és az érdekegyeztetés",
+  "questions": [
+    {
+      "question": "Mi a Magyar Kormánytisztviselői Kar jogállása a Kit. 76. § szerint, és hogyan keletkezik a tagság?",
+      "options": [
+        {
+          "text": "Az MKK a kormánytisztviselők önkormányzattal rendelkező, közigazgatási szakmai köztestülete és jogi személy; kötelező tagsági jogviszony alapján működik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 76. § (1) bekezdése szerint az MKK „a kormánytisztviselők önkormányzattal rendelkező, közigazgatási szakmai köztestülete”. A (2) bekezdés jogi személyként is rögzíti. A (3) bekezdés a kötelező tagsági jogviszonyt a működés alapjaként határozza meg, nem Mt. szerinti munkáltatói minőségként."
+        },
+        {
+          "text": "A kormánytisztviselő a kinevezéssel válik az MKK tagjává; a tagság nem kérelemre, hanem a kinevezés joghatásaként keletkezik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 76. § (3) bekezdése szerint „a kormánytisztviselő a kinevezéssel válik az MKK tagjává”. Nincs külön belépési kérelem mint keletkeztető tény. A kinevezés tehát egyszerre alapozza meg a kormányzati szolgálati jogviszonyt és a kamarai tagságot."
+        },
+        {
+          "text": "Az MKK a Kúria Magyar Kormánytisztviselői Kollégiuma (MKK), amely bírói testületként dönt a kormánytisztviselők jogvitáiban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az MKK a Kit. 76. § szerinti szakmai köztestület, nem a Kúria kollégiuma. A rövidítés nem a Magyar Kormánytisztviselői Kollégiumot jelöli. A jogviták elbírálása nem e köztestület hatásköre a 76. § szerinti jogállásból."
+        },
+        {
+          "text": "A tagság csak írásbeli belépési nyilatkozattal jön létre, és a kinevezés önmagában nem keletkeztet MKK-tagságot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 76. § (3) bekezdése a tagságot a kinevezéshez köti, nem belépési nyilatkozathoz. A kötelező tagsági jogviszony a kinevezés joghatása. Külön belépési aktus hiányában is taggá válik a kormánytisztviselő."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "e00445c9098a"
+    },
+    {
+      "question": "Az MKK-tagság hogyan viszonyul más kamarai tagsághoz, és milyen szervekből áll az MKK szervezete?",
+      "options": [
+        {
+          "text": "Az MKK szervezete képviseleti és ügyintézői testületekből, tisztségviselőkből és ügyintézői szervből áll.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 76. § (5) bekezdése e négyes szerkezetet rögzíti. A képviseleti és az ügyintézői testületek elválnak a tisztségviselőktől és az ügyintézői szervtől. A későbbi bekezdések az Országos Küldöttgyűlést és az Országos Elnökséget e keretbe helyezik."
+        },
+        {
+          "text": "Az MKK-tagság más kamarai tagsági viszonyt nem zár ki; a kötelező kamarai tagság tehát nem helyettesít más szakmai kamarát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 76. § (4) bekezdése szerint „a tagság nem zár ki más kamarai tagsági viszonyt”. A kormánytisztviselő MKK-tagsága mellett más kamarai tagság is fennmaradhat. A kötelező MKK-tagság a szakszervezeti vagy más kamarai tagságot sem pótolja."
+        },
+        {
+          "text": "Az MKK-tagság kizár minden más kamarai tagságot, mert a kötelező köztestületi tagság egyedüli szakmai kamarai jogviszony lehet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 76. § (4) bekezdése szerint a tagság nem zár ki más kamarai tagsági viszonyt. A kötelező MKK-tagság nem egyedüli kamarai jogviszony. A kamarai kettősség törvényi engedélye éppen a kizáró olvasatot cáfolja."
+        },
+        {
+          "text": "Az MKK szervezete kizárólag az Országos Elnökségből áll, képviseleti testület és ügyintézői szerv nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 76. § (5) bekezdése képviseleti és ügyintézői testületeket, tisztségviselőket és ügyintézői szervet is nevesít. Az Országos Elnökség a (7) bekezdés szerint a legfőbb ügyintézői testület, de nem az egyetlen szerv. A legfőbb képviseleti, döntéshozó szerv az Országos Küldöttgyűlés."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "0f121b954e6f"
+    },
+    {
+      "question": "Mely szerv az MKK legfőbb képviseleti, döntéshozó szerve, melyik a legfőbb ügyintézői testület, és mi a választási tilalom az országgyűlési választás évére?",
+      "options": [
+        {
+          "text": "A legfőbb képviseleti, döntéshozó szerv az Országos Elnökség, a legfőbb ügyintézői testület pedig az Országos Küldöttgyűlés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 76. § (6)–(7) bekezdése fordítva rendezi a szerepeket: a Küldöttgyűlés a legfőbb képviseleti, döntéshozó szerv, az Elnökség a legfőbb ügyintézői testület. A felcserélés a döntéshozó és az ügyintézői funkciót keveri. Az Elnökség összetételét a (8) bekezdés külön rögzíti."
+        },
+        {
+          "text": "Az MKK legfőbb képviseleti szerve tagjainak és az MKK tisztségviselőinek általános választását nem lehet az országgyűlési képviselők általános választásának évére kitűzni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 76. § (6a) bekezdése szerint az MKK legfőbb képviseleti szerve tagjainak és az MKK tisztségviselőinek általános választását „nem lehet az országgyűlési képviselők általános választásának évére kitűzni”. A tilalom a kitűzésre vonatkozik, nem csupán a szavazás napjára. A szabály a képviseleti szerv tagjaira és a tisztségviselőkre egyaránt kiterjed."
+        },
+        {
+          "text": "A legfőbb képviseleti, döntéshozó szerv az Országos Küldöttgyűlés; a legfőbb ügyintézői testület az Országos Elnökség.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 76. § (6) bekezdése az Országos Küldöttgyűlést a legfőbb képviseleti, döntéshozó szervként nevezi meg. A (7) bekezdés szerint az Országos Elnökség a legfőbb ügyintézői testület. A két szerep nem cserélhető fel: a döntéshozatal és az ügyintézés elválik."
+        },
+        {
+          "text": "Az általános választás az országgyűlési képviselők általános választásának évében is kitűzhető, ha az Országos Elnökség azt indokoltnak tartja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 76. § (6a) bekezdése a kitűzést az OGY-választás évére elzárja. Az Elnökség mérlegelése nem oldja fel a törvényi tilalmat. A tilalom a képviseleti szerv tagjainak és a tisztségviselőknek az általános választására vonatkozik."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "ba6e8d0724e4"
+    },
+    {
+      "question": "Az MKK elnökének képviseleti jogköre, illetménye és kormányzati szolgálati jogviszonyban fennálló kötelezettségei hogyan alakulnak a Kit. 76. § szerint?",
+      "options": [
+        {
+          "text": "Az elnök a kormányzati szolgálati jogviszonyában is teljes illetményre jogosult, mert az elnöki tisztség nem mentesít a munkavégzési kötelezettség alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 76. § (9) bekezdése szerint az elnök kormányzati szolgálati jogviszonyában mentesül a munkavégzési és a rendelkezésreállási kötelezettség alól. Erre tekintettel e jogviszonyában illetményre és egyéb juttatásra nem jogosult. Az államtitkári illetmény a tisztséghez, nem a mentesült kormányzati szolgálati jogviszonyhoz kapcsolódik."
+        },
+        {
+          "text": "Az elnök az MKK képviseletét csak az Országos Elnökség együttes aláírásával gyakorolhatja, és jogkörét nem ruházhatja át.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 76. § (9) bekezdése szerint az elnök a képviseletet önállóan gyakorolja. Jogkörét az Alapszabályban meghatározott módon átruházhatja. Az együttes aláírás követelménye és az átruházási tilalom nincs a (9) bekezdésben."
+        },
+        {
+          "text": "Az elnök e tisztségében államtitkári illetményre és juttatásra jogosult; kormányzati szolgálati jogviszonyában mentesül a munkavégzési és a rendelkezésreállási kötelezettség alól, ezért abban a jogviszonyban illetményre és egyéb juttatásra nem jogosult.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 76. § (9) bekezdése az elnöki tisztséghez államtitkári illetményt és juttatást rendel. Ugyanakkor kormányzati szolgálati jogviszonyában mentesül a munkavégzési és a rendelkezésreállási kötelezettség alól, ezért abban a jogviszonyban illetményre és egyéb juttatásra nem jogosult. A két jogcím nem kumulálódik: a tisztséghez járó államtitkári illetmény nem pótolható a mentesült kormányzati szolgálati jogviszony illetményével."
+        },
+        {
+          "text": "Az elnök az MKK képviseletét önállóan gyakorolja, jogkörét az Alapszabályban meghatározott módon átruházhatja, munkáját legfeljebb öt, a Küldöttgyűlés által választott alelnök segíti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 76. § (9) bekezdése szerint az elnök az MKK képviseletét önállóan gyakorolja, és jogkörét az Alapszabályban meghatározott módon átruházhatja. Munkáját az Országos Küldöttgyűlés által megválasztott, legfeljebb öt alelnök segíti. Az alelnöki létszám tehát felső korlátos, és a választás a Küldöttgyűlés hatásköre, nem az Elnökségé."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "3c24b99e9859"
+    },
+    {
+      "question": "Az Országos Elnökség kikből áll, és milyen irányítási szerepe van az elnöknek az Országos Iroda felett?",
+      "options": [
+        {
+          "text": "Az Elnökség tagjai az elnök és az alelnökök; tanácskozási joggal a Felügyelő Bizottság elnöke, továbbá az Országos Etikai Bizottság elnöke is a testület tagja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 76. § (8) bekezdése az elnököt és az alelnököket szavazati jellegű tagként nevezi meg. Tanácskozási joggal a Felügyelő Bizottság elnöke, valamint az Országos Etikai Bizottság elnöke is a testület tagja. A tanácskozási jog tehát nem azonos a teljes jogú elnöki–alelnöki tagsággal."
+        },
+        {
+          "text": "Az Országos Irodát és a főtitkárt a Felügyelő Bizottság elnöke irányítja, mert az ellenőrző szerv felel a napi ügyintézésért.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 76. § (10) bekezdése szerint az elnök irányítja az Országos Irodát és a főtitkár tevékenységét. A Felügyelő Bizottság elnöke a (8) bekezdés szerint tanácskozási jogú Elnökség-tag, nem az Iroda irányítója. A napi ügyintézés elnöki irányítás alá tartozik."
+        },
+        {
+          "text": "Az Elnökség kizárólag az elnökből áll; a Felügyelő Bizottság és az Országos Etikai Bizottság elnöke nem lehet a testület tagja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 76. § (8) bekezdése az elnökön és az alelnökökön túl tanácskozási joggal a Felügyelő Bizottság elnökét és az Országos Etikai Bizottság elnökét is a testület tagjaként nevezi meg. Az Elnökség tehát nem egyetlen személyből áll. A tanácskozási jogú tagság a törvényi szerkezet része, nem kizárt mellékszerep."
+        },
+        {
+          "text": "Az elnök irányítja az MKK Országos Irodáját és az Országos Irodát vezető főtitkár tevékenységét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 76. § (10) bekezdése az Országos Iroda és a főtitkár irányítását az elnökhöz telepíti. A főtitkár tehát nem önálló, az elnöktől független irányító. Az Országos Iroda az ügyintézői szerv keretében működik az elnöki irányítás alatt."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "795c3c873c25"
+    },
+    {
+      "question": "Az MKK hivatásetikai feladatai közül mi tartozik a Kit. 77. § (3) bekezdés b) és c) pontjához?",
+      "options": [
+        {
+          "text": "Az MKK megalkotja a hivatásetikai részletszabályokat, kialakítja az etikai eljárás rendszerét, valamint lefolytatja az etikai eljárásokat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 77. § (3) bekezdés b) pontja a részletszabályalkotást, az eljárásrendszer kialakítását és az eljárások lefolytatását egyaránt az MKK-hoz telepíti. Az etikai rend tehát nem a munkáltató egyoldalú belső szabályzata. A köztestület saját eljárási rendszert működtet."
+        },
+        {
+          "text": "Az etikai igazolás hivatalból, minden kinevezéskor kötelezően kiállítandó, és a kérelem nem feltétele a kibocsátásnak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 77. § (3) bekezdés c) pontja szerint az igazolás a kormánytisztviselő kérelmére bocsátható ki. A kérelem tehát feltétele a kibocsátásnak. Automatikus, minden kinevezéshez kötött hivatalbóli igazolás e pontból nem olvasható ki."
+        },
+        {
+          "text": "Az etikai eljárást a kormányzati igazgatási szerv vezetője folytatja le, az MKK csak utólag tájékoztatást kap az eredményről.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 77. § (3) bekezdés b) pontja szerint az etikai eljárásokat az MKK folytatja le. A munkáltatói vezető nem helyettesíti a köztestületi etikai hatáskört. Az eredményről vezetett külön nyilvántartást a 78. § (3) bekezdése az MKK-hoz telepíti."
+        },
+        {
+          "text": "A kormánytisztviselő kérelmére az MKK etikai igazolást bocsát ki arról, hogy a tag ellen etikai eljárás nincs folyamatban, valamint etikai büntetés hatálya alatt nem áll.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 77. § (3) bekezdés c) pontja a kérelmezhető etikai igazolást e két tartalmi elemre zárja. Az igazolás a folyamatban lévő eljárás hiányát és a büntetés hatálya alóli mentességet tanúsítja. Hivatalból, kérelem nélkül az igazolás kibocsátása e pontból nem következik."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "a1202158366b"
+    },
+    {
+      "question": "Mely három tárgykörben kell kikérni az MKK véleményét a Kit. 77. § (3) bekezdés e) pontja szerint?",
+      "options": [
+        {
+          "text": "Az MKK véleményének kikérése csak ajánlás; a három tárgykörben a döntéshozó szabadon mellőzheti a konzultációt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 77. § (3) bekezdés e) pontja szerint a véleményét „ki kell kérni” a megjelölt tárgykörökben. A „ki kell kérni” fordulat kötelezővé teszi a véleménykérést. A mellőzés nem a döntéshozó szabad mérlegelése e pont alapján."
+        },
+        {
+          "text": "Véleményét ki kell kérni az igazgatási állománnyal és a személyi juttatásokkal való gazdálkodás elvi kérdéseiben is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 77. § (3) bekezdés e) pont ec) alpontja az igazgatási állománnyal és a személyi juttatásokkal való gazdálkodás elvi kérdéseit harmadik kötelező tárgykörként zárja. Ez a tárgy a KÉF 171. § (3) bekezdésével érintkezhet, de ott a címzett a KÉF, itt az MKK. A két fórum párhuzamos, nem helyettesítő."
+        },
+        {
+          "text": "A kötelező véleménykérés kizárólag a büntetőjogi felelősségre vonás szabályaira és az Mt. szerinti felmondási tilalmakra terjed ki.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 77. § (3) bekezdés e) pontja a kormányzati szolgálati jogviszonyra, a vonatkozó költségvetési rendelkezésekre, valamint az igazgatási állomány és a személyi juttatások gazdálkodásának elvi kérdéseire zárja a kört. Büntetőjogi felelősség és Mt. felmondási tilalom nincs e taxációban. A Kit. köztestületi véleménykérése nem az Mt. munkaviszonyi rendje."
+        },
+        {
+          "text": "Véleményét ki kell kérni a kormányzati szolgálati jogviszonnyal összefüggő kérdésekben, valamint a központi és a társadalombiztosítási költségvetésnek a kormányzati szolgálati jogviszonyban állókat érintő rendelkezéseivel összefüggésben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 77. § (3) bekezdés e) pont ea)–eb) alpontja e két tárgykört nevesíti. A kötelező véleménykérés tehát nem csupán ajánlás. A költségvetési ág kifejezetten a kormányzati szolgálati jogviszonyban állókat érintő rendelkezésekre szűkül."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "3bda35edb2d7"
+    },
+    {
+      "question": "A területi MKK milyen munkahelyi szabályozást és intézkedést véleményezhet, és mikor mentesül a szerv a tájékoztatás vagy konzultáció alól?",
+      "options": [
+        {
+          "text": "A szerv minden esetben köteles teljes körű tájékoztatást és konzultációt adni, mert a közszolgálati érdek soha nem alapozza meg a mentesülést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 77. § (5) bekezdése expressis verbis mentesíti a szervet, ha a nyilvánosságra kerülés a közszolgálat érdekeit, illetve működését vagy a szerv jogos érdekeit, illetve működését veszélyeztetné. A mentesülés tehát törvényi kivétel a tájékoztatási és konzultációs kötelezettség alól. Az abszolút tájékoztatási kényszer ellentétes az (5) bekezdéssel."
+        },
+        {
+          "text": "A területi MKK jogosult véleményezni a kormánytisztviselők csoportját érintő munkáltatói intézkedést vagy annak tervezetét, és ezzel összefüggésben konzultációt kezdeményezhet; a szerv nem köteles tájékoztatni vagy konzultálni, ha a nyilvánosság a közszolgálat vagy a szerv jogos érdekeit, illetve működését veszélyeztetné.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 77. § (4) bekezdése a csoportot érintő intézkedés véleményezését és a konzultáció kezdeményezését a területi MKK-nak adja. Az (5) bekezdés a tájékoztatás és a konzultáció alól akkor mentesít, ha a nyilvánosságra kerülés a közszolgálat vagy a szerv érdekeit, illetve működését veszélyeztetné. A mentesülés tehát veszélyeztetési küszöbhöz kötött, nem abszolút."
+        },
+        {
+          "text": "A fővárosi, vármegyei illetékességű kormányzati igazgatási szerv vezetője köteles kikérni a területi MKK véleményét a kormánytisztviselők munkavégzésére, munka- és pihenőidejére, jutalmazására, valamint juttatásaira vonatkozó, a vezető hatáskörébe utalt szabályozásról.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 77. § (4) bekezdése e négy tárgyi magot a területi MKK kötelező véleménykéréséhez köti. A címzett a fővárosi, vármegyei illetékességű szerv vezetője. A párhuzamos 172. § (2) bekezdésnél a címzett a szakszervezet, a szabályozás pedig a munkáltatói jogkör gyakorlójának hatáskörébe utalt."
+        },
+        {
+          "text": "A területi MKK a munkavégzés, a munka- és pihenőidő, a jutalmazás és a juttatások szabályozásáról csak utólag, a szabályozás kihirdetése után kérhet tájékoztatást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 77. § (4) bekezdése szerint a vezető köteles kikérni a területi MKK véleményét e szabályozásról. A kötelező véleménykérés nem utólagos tájékoztatáskérés. A szakszervezeti párhuzam a 172. § (2) bekezdésben van, de ott más a címzett."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "64f393311682"
+    },
+    {
+      "question": "Az MKK tagját milyen titokvédelmi korlátok kötik a Kit. 77. § (6)–(7) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Az MKK tagja a tevékenysége során tudomására jutott információkat csak a szerv és a közszolgálat érdekeinek, illetve működésének veszélyeztetése, valamint a személyiségi jogok megsértése nélkül hozhatja nyilvánosságra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 77. § (7) bekezdése a nyilvánosságra hozatalt e veszélyeztetési és személyiségijog-védelmi korláthoz köti. A (6) bekezdés a kifejezetten bizalmas vagy minősített adatra abszolút tilalmat rendel, a (7) bekezdés a többi információra relatív korlátot. A két szint tehát nem azonos szigorúságú."
+        },
+        {
+          "text": "Az MKK tagja a bizalmas és a minősített adatot is szabadon nyilvánosságra hozhatja, ha az etikai eljárás érdeke ezt indokolja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 77. § (6) bekezdése a bizalmas és a minősített adat nyilvánosságra hozatalát semmilyen módon nem engedi. Az etikai eljárás érdeke nem oldja fel e tilalmat. A törvényi célokon kívüli felhasználás is tilos, tehát az eljárás sem ad általános nyilvánossági felhatalmazást."
+        },
+        {
+          "text": "Az MKK tagja a szerv által bizalmasan vagy minősített adatként jelölt tényt, információt, megoldást vagy adatot semmilyen módon nem hozhatja nyilvánosságra, és a törvényi célokon kívüli tevékenységben nem használhatja fel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 77. § (6) bekezdése a bizalmas és a minősített adat nyilvánosságra hozatalát és a törvényi célon kívüli felhasználást egyaránt tiltja. A tilalom a szerv jogos érdekei, illetve a közszolgálat érdekei védelmében jelölt adatra vonatkozik. A felhasználási tilalom tehát nem csupán a sajtóbeli közzétételre szűkül."
+        },
+        {
+          "text": "A titokvédelmi szabályok kizárólag a szakszervezet nevében eljáró személyre vonatkoznak, az MKK tagjára nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 77. § (6)–(7) bekezdése kifejezetten az MKK tagját kötelezi. A szakszervezeti párhuzam a 170. § (7)–(8) bekezdésében van, más címzettre. A két titokvédelmi szerkezet azonos logikájú, de a kötelezett személye elválik."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "9209810c0a8d"
+    },
+    {
+      "question": "Hol és ki vezeti az MKK tagnyilvántartását a Kit. 77. § (8) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Az MKK tagnyilvántartását a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. által üzemeltetett informatikai rendszerben az Országos Iroda vezeti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 77. § (8) bekezdése a vezetést az Országos Irodához, az üzemeltetést a NISZ informatikai rendszeréhez telepíti. A nyilvántartás tehát nem papíralapú, szervi kézi kartoték. Az Országos Iroda vezetési felelőssége az elnöki irányítás alá tartozó ügyintézői szervhez kapcsolódik."
+        },
+        {
+          "text": "A tagnyilvántartást az Országos Etikai Bizottság vezeti, mert az etikai eljárások eredményének nyilvántartása azonos a tagnyilvántartással.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 77. § (8) bekezdése a tagnyilvántartást az Országos Irodához telepíti. Az etikai eljárások eredményéről vezetett külön nyilvántartást a 78. § (3) bekezdése rendezi, és az nem azonos a tagnyilvántartással. A két nyilvántartás célja és jogalapja elválik."
+        },
+        {
+          "text": "A tagnyilvántartást minden kormányzati igazgatási szerv maga vezeti a saját közszolgálati alapnyilvántartásában, NISZ-rendszer nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 77. § (8) bekezdése a tagnyilvántartást a NISZ által üzemeltetett rendszerben az Országos Iroda vezetéséhez köti. A közszolgálati alapnyilvántartás a 78. § (4) bekezdése szerinti adatátadás forrása, nem maga az MKK-tagnyilvántartás. A szervi saját vezetés tehát nem felel meg a (8) bekezdésnek."
+        },
+        {
+          "text": "A tagnyilvántartás vezetése az Országos Iroda feladata, nem a területi MKK-é és nem a munkáltatói szervé.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 77. § (8) bekezdése a vezetést az Országos Irodához rendeli. A területi szervezet a 77. § (1) és (4) bekezdése szerinti feladatellátásban vesz részt, de a tagnyilvántartás országos irodai vezetésű. A munkáltató a 78. § szerint adatot szolgáltat, nem ő vezeti a kamarai nyilvántartást."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "b9f1c37ee81e"
+    },
+    {
+      "question": "A kormányzati szolgálati jogviszony létesítéséről és megszűnéséről szóló tájékoztatás, valamint a nyilvántartási jogorvoslat hogyan alakul a Kit. 78. § szerint?",
+      "options": [
+        {
+          "text": "A nyilvántartásba vétel és a törlés ellen nincs jogorvoslat, mert a tagság a kinevezéssel keletkezik, és a nyilvántartás csupán deklaratív.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 78. § (2) bekezdése expressis verbis fellebbezést biztosít a nyilvántartásba vétel, annak elmulasztása és a törlés ellen. A 76. § (3) bekezdése szerinti keletkezés nem zárja ki a nyilvántartási jogorvoslatot. A deklaratív jelleg nem szünteti meg az Ákr. szerinti jogorvoslatot."
+        },
+        {
+          "text": "A kormányzati igazgatási szerv a jogviszony létesítéséről és megszűnéséről a törvényben meghatározott módon tájékoztatja az MKK kijelölt szervét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 78. § (1) bekezdése e tájékoztatási kötelezettséget a szervre telepíti. A címzett az MKK kijelölt szerve, nem bármely területi tisztségviselő. A tájékoztatás a (6) bekezdés szerinti módhoz kötött, tehát formai és technikai rendje törvényi."
+        },
+        {
+          "text": "A jogviszony létesítéséről és megszűnéséről az MKK tájékoztatja a szervet, mert a kamarai nyilvántartás a munkáltatói alapnyilvántartás forrása.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 78. § (1) bekezdése szerint a szerv tájékoztatja az MKK kijelölt szervét, nem fordítva. Az adatátadás iránya a (4)–(5) bekezdésben is a szervtől az MKK felé mutat. A kamarai nyilvántartás nem a munkáltatói alapnyilvántartás forrása."
+        },
+        {
+          "text": "Az MKK tagja a nyilvántartásba vétel, annak elmulasztása, illetve a nyilvántartásból való törlés ellen a kijelölt szervhez fellebbezhet; a jogorvoslatra az Ákr. rendelkezései irányadók.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 78. § (2) bekezdése a fellebbezést e három esetkörre nyitja. A jogorvoslatra az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni. A nyilvántartási döntés tehát nem bírói út nélküli, végleges kamarai aktus."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "15aec7687c4f"
+    },
+    {
+      "question": "Az MKK által kezelt tagnyilvántartási adatok törlése, a havi adatszolgáltatás és a technikai azonosító milyen szabályokhoz kötött?",
+      "options": [
+        {
+          "text": "A szerv az (1) és a (4) bekezdés szerinti adatokról és változásaikról minden hónap ötödik napjáig közvetlenül adatszolgáltatást nyújt; a tagot a tagnyilvántartásban az átadott technikai azonosítóval kell azonosítani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 78. § (5) bekezdése a havi ötödiki, közvetlen adatszolgáltatást a Kormányzati Személyügyi Döntéstámogató Rendszer útján rendeli. A (6) bekezdés szerint a tagot nem névvel, hanem az e rendszerből átadott technikai azonosítóval kell azonosítani. A név szerinti azonosítás tehát nem a törvényi főszabály."
+        },
+        {
+          "text": "A havi adatszolgáltatás önkéntes, és a tagot a nyilvántartásban kizárólag a születési neve alapján kell azonosítani.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 78. § (5) bekezdése a havi ötödiki adatszolgáltatást kötelezőként rendezi. A (6) bekezdés a technikai azonosítót írja elő, nem a születési név szerinti azonosítást. A név alapú azonosítás tehát nem a törvényi megoldás."
+        },
+        {
+          "text": "A kezelt adatokat a tagság megszűnésekor azonnal törölni kell, öt éves megőrzési idő nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 78. § (4) bekezdése szerint a törlés a tagsági viszony megszűnését követő öt év elteltével kötelező. Az azonnali törlés nem felel meg a törvényi határidőnek. Az öt éves tartam a megszűnéstől számít, nem a kinevezéstől."
+        },
+        {
+          "text": "A kezelt adatokat a tagsági viszony megszűnését követő öt év elteltével törölni kell; az adatkezelés célja a 77. § (3) bekezdésében meghatározott feladatok ellátása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 78. § (4) bekezdése az öt éves törlési határidőt a tagság megszűnéséhez köti. Az adatkezelés célhoz kötöttsége a 77. § (3) bekezdés szerinti feladatokhoz igazodik. A 3. melléklet kijelölt pontjai és a tagsági jogokból, kötelezettségekből eredő adatok adják a kezelt kört."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "06001cab2a5b"
+    },
+    {
+      "question": "A Kit. 170. § szerint mi a szakszervezet és a kormányzati igazgatási szerv kapcsolatrendszerének célja, és mit jelent a pozitív, illetve a negatív egyesülési szabadság?",
+      "options": [
+        {
+          "text": "A 170. § célja azonos az MKK hivatásetikai rendjével, ezért a szakszervezet helyettesíti a kötelező kamarai tagságot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 170. § (1) bekezdése szociális és gazdasági érdeket, valamint munkabékét nevesít, nem hivatásetikai köztestületi rendet. Az MKK a Kit. 76. § szerint önkormányzattal rendelkező, közigazgatási szakmai köztestület, kötelező tagsággal. A szakszervezet a 170. § szerinti érdekképviselet, ezért a két sík párhuzamos, egymást nem helyettesítő."
+        },
+        {
+          "text": "A kormánytisztviselő csak a munkáltató előzetes engedélyével alakíthat érdekképviseleti szervezetet, és a távolmaradás nem alanyi jog.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 170. § (2) bekezdése szerint érdekképviseleti szervezet alakítható, és a távolmaradás is alanyi jog. A munkáltatói előzetes engedély nem feltétele a szervezkedésnek. A negatív egyesülési szabadság éppen a kényszertagság ellen véd."
+        },
+        {
+          "text": "A kormánytisztviselőknek és a kormányzati igazgatási szerveknek joga, hogy érdekképviseleti szervezetet alakítsanak, a választott szervezetbe belépjenek, vagy az ilyen szervezettől távol maradjanak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 170. § (2) bekezdése a pozitív és a negatív egyesülési szabadságot együtt adja. A belépés és a távolmaradás egyaránt alanyi jog. A szervezetbe lépés kizárólag az adott szervezet szabályaitól függ, nem a munkáltató engedélyétől."
+        },
+        {
+          "text": "A szabályozás a kormánytisztviselők szociális és gazdasági érdekeinek védelmét, valamint a munkabéke fenntartását szolgálja; keretében biztosítja a munkafeltételek alakításában való részvételt és a munkaügyi konfliktus megelőzésének, feloldásának eljárását.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 170. § (1) bekezdése e célokat és kereteket rögzíti. A szakszervezeti sík tehát szociális–gazdasági érdekképviselet, nem hivatásetikai köztestületi szerep. A munkabéke és a konfliktuskezelés a kapcsolatrendszer törvényi indoka."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "7d65bf8ee28e"
+    },
+    {
+      "question": "A szakszervezeti jogok kire települnek a szervnél, és milyen kölcsönös tájékoztatási kötelezettség terheli a feleket?",
+      "options": [
+        {
+          "text": "Az e törvényben a szakszervezet számára biztosított jogok a kormányzati igazgatási szervnél képviselettel rendelkező helyi szakszervezetet illetik meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 170. § (9) bekezdése a törvényi szakszervezeti jogokat a helyi, képviselettel rendelkező szakszervezetre telepíti. Országos szövetség önmagában, helyi képviselet nélkül nem viseli e jogokat a szervnél. A helyi képviselet tehát a jogosultság feltétele."
+        },
+        {
+          "text": "A kormányzati igazgatási szerv és a szakszervezet köteles egymást írásban tájékoztatni a képviseletére jogosult, valamint a tisztségviselő személyéről.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 170. § (5) bekezdése kölcsönös, írásbeli tájékoztatási kötelezettséget rendel. A tájékoztatás tárgya a képviseletre jogosult és a tisztségviselő személye. A szóbeli közlés nem felel meg az írásbeliség követelményének."
+        },
+        {
+          "text": "A szakszervezeti jogok minden országos szövetséget megilletnek a szervnél, helyi képviselet hiányában is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 170. § (9) bekezdése szerint a törvényben biztosított jogok a szervnél képviselettel rendelkező helyi szakszervezetet illetik meg. Helyi képviselet hiányában az országos szövetség nem viseli automatikusan e szervi jogokat. A (3) bekezdés szerinti szövetségalakítás nem pótolja a (9) bekezdés helyi telepítését."
+        },
+        {
+          "text": "A képviseletre jogosult és a tisztségviselő személyéről csak a szakszervezet köteles tájékoztatni a szervet; a szervnek nincs kölcsönös kötelezettsége.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 170. § (5) bekezdése mindkét felet kötelezi az írásbeli tájékoztatásra. A kötelezettség tehát kölcsönös, nem egyoldalú. A szerv is köteles megnevezni a képviseletére jogosultat és a tisztségviselőt."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "b38355531bca"
+    },
+    {
+      "question": "Milyen tilalmak védik a kormánytisztviselőt a szakszervezeti tagsággal és tevékenységgel összefüggésben a Kit. 170. § szerint?",
+      "options": [
+        {
+          "text": "Szakszervezethez való tartozás vagy szakszervezeti tevékenység miatt tilos a kormányzati szolgálati jogviszony megszüntetése vagy más megkülönböztetés; jogosultság vagy juttatás nem tehető a tagságtól vagy a távolmaradástól függővé.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 170. § (12)–(13) bekezdése a megszüntetési és megkülönböztetési tilalmat, valamint a juttatáskötöttség tilalmát rögzíti. A védelem a tagságra és a szakszervezeti tevékenységre egyaránt kiterjed. A távolmaradáshoz kötött előny ugyanúgy tilos, mint a tagsághoz kötött."
+        },
+        {
+          "text": "A szerv jogszerűen kérheti a szakszervezeti tagságról szóló nyilatkozatot a kinevezés feltételeként, ha azt az álláshely jellege indokolja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 170. § (10) bekezdése szerint a szerv nem követelheti a szakszervezethez való tartozásról szóló nyilatkozatot. A (11) bekezdés az alkalmazást sem teheti a tagságtól függővé. Az álláshely jellege nem oldja fel e tilalmakat."
+        },
+        {
+          "text": "A szerv nem követelheti, hogy a kormánytisztviselő szakszervezethez való tartozásáról nyilatkozzék, és az alkalmazást nem teheti a tagságtól, a kilépéstől vagy a belépés vállalásától függővé.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 170. § (10)–(11) bekezdése a nyilatkozatkövetelést és a sárga szakszervezet tilalmát zárja. Az alkalmazás feltételeként nem köthető ki a tagság, a korábbi tagság megszüntetése vagy a belépés vállalása. A kényszertagság és a kényszerkiléptetés egyaránt tilos."
+        },
+        {
+          "text": "A szakszervezeti tagsághoz kötött illetménypótlék megengedett, ha azt a helyi megállapodás rögzíti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 170. § (13) bekezdése szerint nem lehet jogosultságot vagy juttatást valamely szakszervezethez való tartozástól vagy az attól való távolmaradástól függővé tenni. A helyi megállapodás sem írhat felül törvényi tilalmat. Az illetménypótlék tagsághoz kötése e tilalomba ütközik."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "244ed8f04844"
+    },
+    {
+      "question": "Mi a következménye annak, ha a szerv a kormánytisztviselő illetményéből szakszervezeti tagdíjat kíván levonni?",
+      "options": [
+        {
+          "text": "A tilalom csak a szakszervezeti tagdíjra vonatkozik; egyéb érdekképviseleti tagdíj az illetményből levonható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 170. § (15) bekezdése a szakszervezeti vagy egyéb érdekképviseleti tagdíjat egyaránt nevesíti. A tilalom tehát nem szűkül a szakszervezeti tagdíjra. Az egyéb érdekképviseleti tagdíj levonása és továbbutalása is tilos."
+        },
+        {
+          "text": "A szerv az 1991. évi XXIX. törvény szerint kötelezően levonja és továbbutalja a szakszervezeti tagdíjat az illetményből.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 170. § (15) bekezdése éppen az 1991. évi XXIX. törvénytől eltérően megtiltja a levonást és a továbbutalást. Kötelező illetményből vonás tehát nincs. A kormánytisztviselői körben a tagdíjfizetés nem a szervi levonás útján történik."
+        },
+        {
+          "text": "A tagdíjlevonás tilalma a Kit. eltérése az 1991. évi XXIX. törvény általános rendjétől a kormányzati igazgatási szervnél.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 170. § (15) bekezdése expressis verbis az 1991. évi XXIX. törvénytől eltérően fogalmaz. A kormányzati igazgatási szervnél tehát nem az általános, munkavállalói tagdíjlevonási modell érvényesül. A tilalom a szervre mint levonásra és továbbutalásra kötelezettre vonatkozik."
+        },
+        {
+          "text": "A kormányzati igazgatási szerv a kormánytisztviselők illetményéből szakszervezeti vagy egyéb érdekképviseleti tagdíjat nem vonhat le és nem utalhat tovább.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 170. § (15) bekezdése e tilalmat a munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvénytől eltérően zárja. A levonás és a továbbutalás egyaránt tilos. A tilalom a szakszervezeti és az egyéb érdekképviseleti tagdíjra is kiterjed."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "77538280d182"
+    },
+    {
+      "question": "Kik vesznek részt a Közszolgálati Érdekegyeztető Fórumban, és mire terjed a KÉF hatásköre?",
+      "options": [
+        {
+          "text": "A KÉF hatásköre csak a közalkalmazotti jogviszonyra terjed ki, kormánytisztviselőkre és köztisztviselőkre nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 171. § (2) bekezdése expressis verbis a közigazgatásban foglalkoztatott kormánytisztviselők és köztisztviselők élet- és munkakörülményeit, foglalkoztatási feltételeit nevezi meg. A közalkalmazotti külön fórumok más törvényekhez kapcsolódnak. A KÉF hatásköre tehát nem közalkalmazotti monopólium."
+        },
+        {
+          "text": "A KÉF kizárólag a Magyar Kormánytisztviselői Kar Országos Elnökségéből áll, más érdekképviselet nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 171. § (1) bekezdése a Kormányt, az országos önkormányzati érdekképviseletet és a kormánytisztviselői–köztisztviselői országos munkavállalói tárgyalócsoportot nevezi meg. Az MKK Elnöksége nem a KÉF szervezeti magja. A KÉF központi érdekegyeztető fórum, nem kamarai ügyintéző testület."
+        },
+        {
+          "text": "A KÉF a Kormány, az országos önkormányzati érdekképviseleti szervezetek, valamint a kormánytisztviselők és a köztisztviselők országos munkavállalói érdekképviseleti szervezeteinek tárgyalócsoportja részvételével működik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 171. § (1) bekezdése e háromoldalú–többoldalú összetételt rögzíti. A fórum célja az érdekek egyeztetése, a vitás kérdések tárgyalásos rendezése és a megfelelő megállapodások kialakítása. Az MKK nem e tárgyalócsoport helyettesítője."
+        },
+        {
+          "text": "A KÉF hatáskörébe a közigazgatásban foglalkoztatott kormánytisztviselők és köztisztviselők élet- és munkakörülményeire, foglalkoztatási feltételeire vonatkozó tárgykörök tartoznak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 171. § (2) bekezdése a hatáskört az élet- és munkakörülményekre, valamint a foglalkoztatási feltételekre zárja. A hatáskör a kormánytisztviselői és a köztisztviselői állományra egyaránt kiterjed. Magánmunkajogi Mt.-munkaviszony nem e fórum tárgya."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "a8942cf198c5"
+    },
+    {
+      "question": "Mikor kötelező a KÉF véleményének kikérése, és milyen jogosultsága van a fórumnak az egyéb hatásköri ügyekben?",
+      "options": [
+        {
+          "text": "A KÉF véleményének kikérése minden hatásköri ügyben csupán ajánlás; kötelező véleménykérés nincs.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 171. § (3) bekezdése szerint a véleményét „ki kell kérni” az igazgatási munkaerővel és a személyi juttatásokkal való gazdálkodás kérdéseiben. A „ki kell kérni” fordulat kötelezővé teszi a véleménykérést. Az ajánlássá gyengítés ellentétes a (3) bekezdéssel."
+        },
+        {
+          "text": "A KÉF véleményét ki kell kérni a hatáskörébe tartozó ügyekben az igazgatási munkaerővel és a személyi juttatásokkal való gazdálkodás kérdéseiben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 171. § (3) bekezdése a kötelező véleménykérést e gazdálkodási tárgykörre zárja. A kötelezettség a (2) bekezdés szerinti hatásköri keretben értelmezendő. Ez a tárgy a 77. § (3) bekezdés e) pont ec) alpontjával érintkezhet, de ott a címzett az MKK."
+        },
+        {
+          "text": "Az egyéb hatásköri ügyekben a KÉF kötelező egyetértési joggal rendelkezik, tájékoztatáskérésre nincs szükség.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 171. § (4) bekezdése az egyéb ügyekben tájékoztatáskérést és javaslattételt ad, nem kötelező egyetértést. A kötelező véleménykérés a (3) bekezdés szerint az igazgatási munkaerővel és a személyi juttatásokkal való gazdálkodás kérdéseire korlátozódik. Az egyetértési jog kiszélesítése e két bekezdésből nem vezethető le."
+        },
+        {
+          "text": "A hatáskörébe tartozó egyéb ügyekben a KÉF tájékoztatáskérésre, illetve javaslattételre jogosult.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 171. § (4) bekezdése az egyéb hatásköri ügyekben a tájékoztatáskérést és a javaslattételt adja. Ez gyengébb jogosítvány, mint a (3) bekezdés kötelező véleménykérése. A két szint elválasztása a gazdálkodási kérdéseket emeli ki."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "66d5bb234933"
+    },
+    {
+      "question": "Az Országos Közszolgálati Érdekegyeztető Tanács milyen viszonyban áll a Kit. hatálya alá tartozó kormánytisztviselőkkel?",
+      "options": [
+        {
+          "text": "Az Országos Közszolgálati Érdekegyeztető Tanács soha nem lehet a kormánytisztviselők fóruma, mert az kizárólag közalkalmazotti szerv.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 171. § (6) bekezdése szerint a Tanács a Kit. hatálya alá tartozó kormánytisztviselők érdekegyeztető fóruma is. A kizárólag közalkalmazotti olvasat ellentétes a (6) bekezdéssel. A fórumi szerep törvényi kiterjesztés eredménye."
+        },
+        {
+          "text": "A közalkalmazottak jogállásáról szóló törvényben és a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben szabályozott Országos Közszolgálati Érdekegyeztető Tanács a Kit. hatálya alá tartozó kormánytisztviselők érdekegyeztető fóruma is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 171. § (6) bekezdése e Tanácsot második központi fórumként is megnyitja a kormánytisztviselők számára. A KÉF tehát nem az egyetlen központi érdekegyeztető fórum. A Tanács más törvényekben szabályozott, de a Kit. kifejezetten kiterjeszti rá a kormánytisztviselői fórumi szerepet."
+        },
+        {
+          "text": "A KÉF szervezetének és működésének szabályait a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter és az érdekegyeztetésben résztvevő felek megállapodása tartalmazza; a titkárságot ugyanez a miniszter látja el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 171. § (5) bekezdése a szervezeti–működési szabályokat e megállapodáshoz, a titkárságot a miniszterhez telepíti. A miniszter a Kormány nevében jár el a megállapodásnál. A titkárság tehát nem az MKK Országos Irodája."
+        },
+        {
+          "text": "A KÉF titkársági feladatait az MKK elnöke látja el, mert a köztestület a központi érdekegyeztetés gazdája.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 171. § (5) bekezdése szerint a titkársági feladatokat a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter látja el. Az MKK elnöke a Kit. 76. § (9) bekezdése szerint a köztestület képviseletét gyakorolja önállóan. A KÉF titkársága tehát nem az elnöki köztestületi hatáskör része."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "f029329b336e"
+    },
+    {
+      "question": "A munkahelyi kormánytisztviselői érdekegyeztetésben kik vesznek részt, és milyen kötelező véleménykérés terheli a szerv vezetőjét?",
+      "options": [
+        {
+          "text": "A szerv vezetője köteles kikérni a szakszervezet véleményét a munkavégzésre, a munka- és pihenőidőre, a jutalmazásra és a juttatásokra vonatkozó, a munkáltatói jogkör gyakorlójának hatáskörébe utalt szabályozásról.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 172. § (2) bekezdése a munkavégzés, a munka- és pihenőidő, a jutalmazás és a juttatások szabályozásáról a szakszervezet véleményének kikérését kötelezővé teszi. A szabályozás a munkáltatói jogkör gyakorlójának hatáskörébe utalt. A párhuzamos 77. § (4) bekezdésnél ugyanezen tárgyi mag címzettje a területi MKK."
+        },
+        {
+          "text": "A munkahelyi érdekegyeztetés kizárólag az MKK területi szerve és a szerv vezetője között zajlik, szakszervezet nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 172. § (1) bekezdése a szerv vezetőjét és a szakszervezet választott tisztségviselőjét nevezi meg munkahelyi tárgyaló félként. A területi MKK a Kit. 77. § (4) bekezdése szerinti köztestületi véleményező. A két sík párhuzamos: a munkahelyi érdekegyeztetés nem kamarai tárgyalás."
+        },
+        {
+          "text": "A munkahelyi érdekegyeztetésben a kormányzati igazgatási szerv vezetője és a szakszervezet választott tisztségviselője vesz részt; a tárgyalópartnerek szakértőket is bevonhatnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 172. § (1) bekezdése a feleket a szerv vezetőjéhez és a választott tisztségviselőhöz köti. A szakértő bevonása a vitás kérdések egyeztetésébe megengedett. Az MKK területi szerve nem e munkahelyi tárgyaló fél."
+        },
+        {
+          "text": "A szerv vezetője a munkavégzés, a munka- és pihenőidő, a jutalmazás és a juttatások szabályozásáról csak a KÉF-et köteles megkeresni, a helyi szakszervezetet nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 172. § (2) bekezdése a helyi szakszervezet véleményének kikérését kötelezővé teszi e szabályozásról. A KÉF a 171. § szerinti központi fórum, más hatáskörrel. A munkahelyi kötelező véleménykérés címzettje a szakszervezet."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "86d2c7e5c38a"
+    },
+    {
+      "question": "A szakszervezet a kötelező véleménykérésen túl milyen véleményezési, tájékoztatási és javaslati jogokkal élhet a Kit. 172. § szerint?",
+      "options": [
+        {
+          "text": "A csoportot érintő munkáltatói intézkedés tervezetét a szakszervezet csak a KÉF útján véleményezheti, helyi konzultáció nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 172. § (3) bekezdése a szakszervezetnek közvetlen jogot ad a vélemény közlésére és a konzultáció kezdeményezésére a csoportot érintő intézkedés vagy tervezet tárgyában. A Közszolgálati Érdekegyeztető Fórum a Kit. 171. § szerinti központi érdekegyeztető szerv. A helyi csoportos intézkedés véleményezése nem a KÉF monopóliuma."
+        },
+        {
+          "text": "A szakszervezet tájékoztatást kérhet a gazdasági és szociális érdekekkel kapcsolatban, így különösen a tervezetek, létszám- és illetményadatok, a jogszabályok végrehajtása, a helyi megállapodások betartása, valamint legalább félévente a részmunkaidős és a határozott idejű foglalkoztatás helyzete tárgyában; javaslatot is tehet intézkedésekre, egységes értelmezésre és helyi szabályozási tárgykörökre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 172. § (4) bekezdése a tájékoztatáskérés példálódzó katalógusát adja, benne a legalább félévenkénti részmunkaidős és határozott idejű adatkéréssel. Az (5) bekezdés a javaslat jogát három irányban nyitja: intézkedés, egységes értelmezés, helyi szabályozási tárgykör. A tájékoztatás és a javaslat tehát két külön jogosítvány."
+        },
+        {
+          "text": "A részmunkaidős és a határozott idejű foglalkoztatás helyzetéről a szakszervezet legfeljebb évente egyszer kérhet tájékoztatást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 172. § (4) bekezdés d) pontja szerint a tájékoztatás legalább félévente kérhető a részmunkaidős és a határozott idejű foglalkoztatás helyzetének alakulásáról. A törvény alsó gyakoriságot ad, nem éves felső korlátot. Az évente egyszeri olvasat tehát szűkíti a törvényi minimumot."
+        },
+        {
+          "text": "A szakszervezet jogosult a kormánytisztviselők csoportját érintő munkáltatói intézkedéssel vagy annak tervezetével kapcsolatos véleményét közölni, és ezzel összefüggésben konzultációt kezdeményezni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 172. § (3) bekezdése a (2) bekezdésen túl e véleményezési és konzultáció-kezdeményezési jogot adja. A tárgy a csoportot érintő intézkedés vagy annak tervezete. A jog tehát nem csak a már meghozott döntésre, hanem a tervezetre is kiterjed."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "2ebc74e90c24"
+    },
+    {
+      "question": "A szakszervezet milyen képviseleti jogokkal rendelkezik a kormánytisztviselőkkel szemben a szervvel és a hatóságokkal szemben?",
+      "options": [
+        {
+          "text": "A szakszervezet jogosult a tagját – meghatalmazás alapján – gazdasági és szociális érdekeinek védelme céljából bíróság, a Közszolgálati Döntőbizottság, hatóság és egyéb szervek előtt képviselni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 172. § (9) bekezdése az egyéni képviseletet meghatalmazáshoz és a gazdasági–szociális érdekvédő célhoz köti. A fórumok között szerepel a bíróság, a Közszolgálati Döntőbizottság, a hatóság és egyéb szerv. Meghatalmazás nélkül ez az egyéni képviselet nem olvasható ki a bekezdésből."
+        },
+        {
+          "text": "A szakszervezet joga, hogy a kormánytisztviselőket a szervvel vagy annak érdekképviseleti szervezetével szemben anyagi, szociális, valamint élet- és munkakörülményeiket érintő jogaikkal és kötelezettségeikkel kapcsolatban képviselje.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 172. § (8) bekezdése a kollektív jellegű képviseleti jogot e tárgykörökre zárja. A képviselet a szervvel vagy annak érdekképviseleti szervezetével szemben nyílik. A jog tehát nem általános perbeli képviselet minden ügyben, hanem a nevesített érdekkörökben."
+        },
+        {
+          "text": "A szakszervezet a tagját meghatalmazás nélkül is képviselheti bármely bíróság és hatóság előtt, minden ügytípusban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 172. § (9) bekezdése a képviseletet meghatalmazáshoz és a gazdasági–szociális érdekvédő célhoz köti. A „bármely ügytípus” olvasat túlterjeszkedik. A (8) bekezdés kollektív képviselete sem általános perbeli felhatalmazás minden ügyre."
+        },
+        {
+          "text": "A Közszolgálati Döntőbizottság előtti képviselet kizárólag az MKK elnökének joga, szakszervezeté nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 172. § (9) bekezdése expressis verbis a szakszervezetnek adja a Közszolgálati Döntőbizottság előtti, meghatalmazáson alapuló képviseletet. Az MKK elnökének 76. § (9) bekezdése szerinti képviselete a köztestületre vonatkozik. A döntőbizottsági tagképviselet a szakszervezeti sík része."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "389ec88f2b26"
+    },
+    {
+      "question": "Mi a feltétele a választott szakszervezeti tisztségviselő felmentésének, és milyen határidő köti a szakszervezet állásfoglalását?",
+      "options": [
+        {
+          "text": "A szakszervezet harminc napig hallgathat anélkül, hogy hallgatását egyetértésnek kellene tekinteni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 172. § (13) bekezdése nyolc napos közlési határidőt ad, és a határidőn belüli hallgatást egyetértésnek minősíti. A harminc napos tűrésidő nincs a bekezdésben. A nyolc nap elmulasztásának jogkövetkezménye az egyetértési fikció."
+        },
+        {
+          "text": "A szakszervezetnél választott tisztséget betöltő és a szakszervezet által megjelölt kormánytisztviselő felmentéséhez a közvetlen felsőbb szakszervezeti szerv egyetértése szükséges; megjelölhető személy telephelyenként legfeljebb egy.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 172. § (10) bekezdése a felmentéshez a közvetlen felsőbb szakszervezeti szerv egyetértését kívánja. A (11) bekezdés szerint a szakszervezet legfeljebb egy kormánytisztviselőt jelölhet meg; több telephely esetén telephelyenként legfeljebb egyet. A védelem tehát számszerűen zárt keretben érvényesül."
+        },
+        {
+          "text": "A szakszervezet álláspontját a szerv írásbeli tájékoztatásának átvételétől számított nyolc napon belül írásban közli; hallgatása egyetértésnek számít, az egyet nem értés pedig akkor alapos, ha a tervezett intézkedés a szakszervezeti tevékenység miatti hátrányos megkülönböztetést eredményezne.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 172. § (13) bekezdése a nyolc napos írásbeli közlési határidőt és a hallgatás egyetértési fikcióját rögzíti. Az egyet nem értés indokoltságának mércéje a szakszervezeti tevékenységben való közreműködés miatti hátrányos megkülönböztetés veszélye. A határidő elmulasztása tehát nem semleges."
+        },
+        {
+          "text": "A felmentéshez elegendő a helyi szakszervezet egyszerű tájékoztatása; felsőbb szerv egyetértése nem kell.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 172. § (10) bekezdése szerint a közvetlen felsőbb szakszervezeti szerv egyetértése szükséges. Az egyszerű tájékoztatás nem pótolja az egyetértést. A védelem a választott tisztségviselőre és a megjelölt kormánytisztviselőre vonatkozik."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "a26cb0dcf849"
+    },
+    {
+      "question": "Milyen feltételekkel jár munkaidő-kedvezmény a megjelölt szakszervezeti tisztségviselőnek, és megváltható-e a kedvezmény?",
+      "options": [
+        {
+          "text": "A munkaidő-kedvezmény tartamára illetmény jár, és a kedvezményt megváltani nem lehet; igénybevételét főszabály szerint legalább tíz nappal korábban be kell jelenteni, a szerv pedig különösen indokolt esetben tagadhatja meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 172. § (15) bekezdése az illetményt rendeli, és a megváltást kizárja. A (14) bekezdés a legalább tíz nappal korábbi bejelentést és a különösen indokolt megtagadást rögzíti. A megváltás tilalma tehát nem csupán praktikus ajánlás."
+        },
+        {
+          "text": "A szerv kormánytisztviselői közül legalább tíz százalék – de legalább harminc fő – tagságával rendelkező szakszervezet megjelölt választott tisztségviselőjét a beosztás szerinti havi munkaidő tíz százalékának megfelelő munkaidő-kedvezmény illeti meg; a konzultáció tartamára mentesül a munkavégzés alól, a kedvezmény nem vonható össze.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 172. § (14) bekezdése a tagsági küszöböt konjunktívan adja: legalább tíz százalék és legalább harminc fő. A kedvezmény mértéke a havi munkaidő tíz százaléka; a konzultációra külön mentesülés jár. Az összevonás tilalma a két időkedvezmény keverését zárja ki."
+        },
+        {
+          "text": "A kedvezmény mértéke a havi munkaidő huszonöt százaléka, és a szerv soha nem tagadhatja meg az igénybevételt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 172. § (14) bekezdése a beosztás szerinti havi munkaidő tíz százalékát rendeli. A szerv különösen indokolt esetben megtagadhatja az igénybevételt. A huszonöt százalékos mérték és az abszolút megtagadhatatlanság nincs a törvényben."
+        },
+        {
+          "text": "A munkaidő-kedvezmény bármely szakszervezet tisztségviselőjét megilleti tagsági küszöb nélkül, és a kedvezmény készpénzben megváltható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 172. § (14) bekezdése a legalább tíz százalékos és legalább harminc fős tagsági küszöbhöz köti a kedvezményt. A (15) bekezdés szerint a kedvezményt megváltani nem lehet. A küszöb nélküli és megváltott olvasat mindkét szabályt sérti."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "aeb4b53686c3"
+    },
+    {
+      "question": "Mikor léphet be a szerv területére a szakszervezet képviseletében eljáró, kormányzati szolgálati jogviszonyban nem álló személy?",
+      "options": [
+        {
+          "text": "A külső szakszervezeti képviselő a szerv területére bármikor beléphet, akkor is, ha a szakszervezetnek nincs a szervnél tagja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 172. § (16) bekezdése a belépést a szervnél fennálló tagság feltételéhez köti. Tag hiányában a belépési jog e bekezdés alapján nem nyílik meg. A „bármikor, feltétel nélkül” olvasat túllépi a törvényi keretet."
+        },
+        {
+          "text": "A belépési jog az MKK elnökét illeti meg a szerv területén, nem a szakszervezet külső képviselőjét.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 172. § (16) bekezdése a szakszervezet képviseletében eljáró, kormányzati szolgálati jogviszonyban nem álló személyről rendelkezik. Az MKK elnökének 76. § (9) bekezdése szerinti képviselete a köztestületre vonatkozik. A szervi belépési szabály e helyen szakszervezeti intézmény."
+        },
+        {
+          "text": "Ha a szakszervezetnek a kormányzati igazgatási szervvel kormányzati szolgálati jogviszonyban álló tagja van, a képviseletében eljáró, jogviszonyban nem álló személy a szerv területére beléphet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 172. § (16) bekezdése a belépést ahhoz a feltételhez köti, hogy a szakszervezetnek a szervnél kormányzati szolgálati jogviszonyban álló tagja legyen. Tag hiányában a külső képviselő belépése e bekezdésből nem következik. A feltétel tehát a szervi tagság megléte."
+        },
+        {
+          "text": "A belépés és a munkahelyen való tartózkodás során a kormányzati igazgatási szerv működési rendjére vonatkozó szabályokat meg kell tartani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 172. § (16) bekezdése a belépési jogosultságot a szerv működési rendjének megtartásához köti. A belépés tehát nem korlátlan mozgásszabadság a munkahelyen. A működési rend megsértése a tartózkodás törvényi keretét sérti."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "a56d4714b2f3"
+    },
+    {
+      "question": "Miben tér el a területi MKK és a szakszervezet párhuzamos véleményezési joga a munkavégzés, a munka- és pihenőidő, a jutalmazás és a juttatások tárgyában?",
+      "options": [
+        {
+          "text": "Csak az MKK véleményezhet juttatási szabályozást; a szakszervezetnek e tárgyban nincs törvényi joga.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 172. § (2) bekezdése a juttatásokra vonatkozó, a munkáltatói jogkör gyakorlójának hatáskörébe utalt szabályozásról is kötelezővé teszi a szakszervezet véleményének kikérését. A 77. § (4) bekezdése ugyanezt a tárgyi magot a területi MKK-nak adja. Mindkét intézménynek van joga, más címzett mellett."
+        },
+        {
+          "text": "A területi MKK a fővárosi, vármegyei illetékességű szerv vezetőjének hatáskörébe utalt szabályozást véleményezi; a szakszervezet a munkáltatói jogkör gyakorlójának hatáskörébe utalt szabályozást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 77. § (4) bekezdése a területi MKK címzettjeként a fővárosi, vármegyei illetékességű szerv vezetőjét nevezi meg. A 172. § (2) bekezdése ugyanezen tárgyi magnál a szakszervezetet és a munkáltatói jogkör gyakorlójának hatáskörét köti össze. A tárgy azonos, a címzett és a hatásköri horgony elválik."
+        },
+        {
+          "text": "A két intézmény azonos címzetthez fordul, ezért a szakszervezet véleményezési joga az MKK területi jogának teljes helyettesítője.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 77. § (4) bekezdése a területi MKK-t, a 172. § (2) bekezdése a szakszervezetet nevezi meg. A címzettek és a hatásköri horgonyok elválnak. A helyettesítő olvasat ellentétes a két sík párhuzamos szerkezetével."
+        },
+        {
+          "text": "A párhuzam nem konkurencia: az MKK köztestületi, területi véleményező, a szakszervezet munkahelyi érdekképviselet; a kötelező kamarai tagság a szakszervezeti tagságot nem pótolja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. szerinti két sík elválik: az MKK hivatásrendi–konzultációs köztestület, a szakszervezet szociális–gazdasági érdekképviselet. A Kit. 76. § (3) bekezdése szerinti kötelező tagság nem helyettesíti a 170. § (2) bekezdése szerinti egyesülési szabadságot. A 77. § és a 172. § párhuzamos katalógusa egymást nem váltja ki."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "150e80e861e0"
+    },
+    {
+      "question": "Az MKK folyamatos működésének költségvetési feltételei és az Országos Iroda munkatársainak jogviszonya hogyan alakul a Kit. 77/A. § szerint?",
+      "options": [
+        {
+          "text": "Az MKK a központi költségvetésről szóló törvényben megállapított működési támogatás átutalásához minden év január 15. napjáig köteles benyújtani a szükséges dokumentumokat; a fejezetgazda a támogatási összeget január 30. napjáig biztosítja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 77/A. § a szükséges dokumentumok benyújtását minden év január 15. napjához köti. A fejezetgazda a támogatási összeget január 30. napjáig biztosítja. A működési támogatás a központi költségvetésről szóló törvényben megállapított összeg, a két határidő egymásra épül."
+        },
+        {
+          "text": "Az Országos Iroda minden munkatársa – a főtitkárral együtt – kizárólag az MKK-val áll kormányzati szolgálati jogviszonyban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 77/A. § szerint az Országos Iroda munkatársai – a főtitkár kivételével – a fejezetgazda által irányított központi kormányzati igazgatási szervvel állnak munkaviszonyban. A tárgyi feltételeket ugyanez a fejezetgazda biztosítja. A jogviszony minősége tehát munkaviszony, és a főtitkár kivétele kifejezett a törvényi szövegben."
+        },
+        {
+          "text": "Az Országos Iroda munkatársai – a főtitkár kivételével – a fejezetgazda által irányított központi kormányzati igazgatási szervvel állnak munkaviszonyban; a tárgyi feltételeket a fejezetgazda biztosítja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 77/A. § a munkatársak jogviszonyát a fejezetgazda által irányított központi kormányzati igazgatási szervhez telepíti, a főtitkár kivételével. A jogviszony itt munkaviszony, nem kormányzati szolgálati jogviszony. A tárgyi feltételek biztosítása is a fejezetgazda feladata."
+        },
+        {
+          "text": "A működési támogatást a fejezetgazda március 31-ig köteles biztosítani, és a dokumentumok benyújtására nincs januári határidő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 77/A. § szerint az MKK a szükséges dokumentumokat minden év január 15. napjáig köteles benyújtani, a fejezetgazda pedig a támogatási összeget január 30. napjáig biztosítja. A március 31-i határidő nincs e szabályban. A januári ütem a folyamatos működés költségvetési feltétele."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "adcc05f49d79"
+    },
+    {
+      "question": "Mit jelent az MKK Kit. 77/B. § szerinti megkeresési joga, és milyen válaszadási határidők kötik a megkeresett szervet?",
+      "options": [
+        {
+          "text": "A 77/B. § szerinti megkeresési jog kizárólag a szakszervezetet illeti meg, az MKK-t nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 77/B. § az MKK megkeresési jogát rendezi, a 77. § (3) bekezdés g) pontjához kapcsolódva. A szakszervezet munkahelyi tájékoztatási és javaslati jogait a 172. § (4)–(5) bekezdése adja. A két intézmény jogosítványai nem cserélhetők fel."
+        },
+        {
+          "text": "A megkeresett szerv harminc napon belül köteles érdemben válaszolni; hatáskör hiányában nyolc napon belül átteszi az ügyet, és erről az MKK-t egyidejűleg tájékoztatja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 77/B. § a harminc napos érdemi válaszadást és a hatáskör hiányában nyolc napos áttételt rögzíti. Az áttételről az MKK egyidejű tájékoztatása kötelező. A két határidő tehát más jogkövetkezményhez kapcsolódik."
+        },
+        {
+          "text": "Az MKK a hatáskörrel rendelkező állami szerv vezetőjétől tájékoztatást, adatot, szakmai és jogértelmezési állásfoglalást kérhet, javaslatot tehet és intézkedést kezdeményezhet; a szerv működésével, jogszabályával, közjogi szervezetszabályozó eszközével és egyéb döntésével kapcsolatban véleményt nyilváníthat, azok megváltoztatását vagy visszavonását kezdeményezheti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 77/B. § a 77. § (3) bekezdés g) pontja szerinti felterjesztést általános megkeresési joggá szélesíti. A jogosítványok a tájékoztatáskéréstől az intézkedés-kezdeményezésig és a megváltoztatás/visszavonás kezdeményezéséig terjednek. Ez nem azonos a szakszervezet 172. § szerinti munkahelyi jogaival."
+        },
+        {
+          "text": "A megkeresett szervnek nincs válaszadási határideje; az MKK megkeresése csupán tájékoztató jellegű.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 77/B. § harminc napos érdemi válaszadási kötelezettséget rendel. Hatáskör hiányában nyolc napon belüli áttétel és egyidejű tájékoztatás kötelező. A határidő nélküli, pusztán tájékoztató olvasat ellentétes a szabállyal."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "5b63f7e5c90a"
+    }
+  ]
+}

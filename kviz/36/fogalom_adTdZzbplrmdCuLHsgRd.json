@@ -1,0 +1,765 @@
+{
+  "id": "adTdZzbplrmdCuLHsgRd",
+  "sorszam": 36,
+  "cim": "A munkaviszonyhoz kapcsolódó egyes megállapodások: a versenytilalmi (...)",
+  "generationType": "fogalom",
+  "title": "36. A munkaviszonyhoz kapcsolódó egyes megállapodások: a versenytilalmi (...)",
+  "questions": [
+    {
+      "question": "Mi jellemzi a munkaviszonyhoz kapcsolódó versenytilalmi megállapodást és a tanulmányi szerződést az Mt. szerint?",
+      "options": [
+        {
+          "text": "Közös alakszerűségük az írásba foglalás; a 229/A. § e kógenciát a felek és a kollektív szerződés elől is elzárja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 228. § (3) bekezdése és a 229. § (3) bekezdése egyaránt írásba foglalást követel. A 229/A. § (1) bekezdése szerint e szakaszoktól sem a felek megállapodása, sem a kollektív szerződés nem térhet el. Az írásbeliség tehát abszolút kógens alakszerűség e két megállapodásnál."
+        },
+        {
+          "text": "A tanulmányi szerződés a versenytilalmi megállapodás speciális esete, ezért a 228. § szabályai rá is kiterjednek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két jogügylet önálló megállapodás-típus a XVIII. fejezetben, egyik sem a másik speciális esete. A versenytilalmat a 228. §, a tanulmányi szerződést a 229. § szabályozza külön tényállással. A közös pont az írásbeliség és a 14. § szerinti megállapodás-jelleg, nem a speciális–általános viszony."
+        },
+        {
+          "text": "A kötbér mindkét megállapodás fogalmi eleme, ezért a Ptk. 6:186–189. §-a mindig alkalmazandó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kötbér nem fogalmi elem: a 228. § (6) és a 229. § (8) csak akkor hívja a Ptk. 6:186–189. §-át, ha a felek kötbért kikötnek. Anélkül a megállapodás érvényesen létezhet ellenértékkel, illetve támogatással. A 228. § (2) bekezdésének ellenérték-minimuma sem válik a Ptk. szerinti kötbér felső határává."
+        },
+        {
+          "text": "Mindkettő a 14. § szerinti megállapodás: a felek kölcsönös és egybehangzó jognyilatkozatával jön létre, nem a munkáltató egyoldalú utasítása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. Második Rész XVIII. fejezete a munkaszerződés mellett e két megállapodást szabályozza, és mindkettő a 14. § szerinti megállapodás. A létrejövetel feltétele a felek kölcsönös és egybehangzó jognyilatkozata. Egyoldalú munkáltatói utasításból tehát nem keletkezik sem versenytilalmi megállapodás, sem tanulmányi szerződés."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "3f0636029990"
+    },
+    {
+      "question": "Mi a versenytilalmi megállapodás fogalmi lényege az Mt. 228. § szerint?",
+      "options": [
+        {
+          "text": "A korlátozás időbeli plafonja legfeljebb a munkaviszony megszűnését követő két év.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 228. § (1) bekezdése kifejezetten rögzíti: „legfeljebb a munkaviszony megszűnését követő két évig”. A két év tehát felső határ, nem kötelező tartam. Ennél hosszabb versenytilalmi kötelezettség a törvényi plafonba ütközik."
+        },
+        {
+          "text": "A munkaviszony megszűnését követő időszakra telepít tartózkodási kötelezettséget, és ezzel a munkáltató jogos gazdasági érdekét védi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 228. § (1) bekezdése szerint a felek megállapodása alapján a munkavállaló a megszűnés után nem tanúsíthat olyan magatartást, amellyel a munkáltató jogos gazdasági érdekét sértené vagy veszélyeztetné. A tilalom tehát a munkaviszony utáni időszakra települ. A kötelezettség tartalma tartózkodás, nem tevőleges szolgáltatás."
+        },
+        {
+          "text": "A kötelezettség tevőleges szolgáltatás: a munkavállalónak aktívan kell a volt munkáltató érdekében eljárnia.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a versenytilalom tartózkodási kötelezettség: meghatározott magatartástól való tartózkodást jelent, nem tevőleges szolgáltatást. A 228. § (1) a „nem tanúsíthat” fordulattal írja körül a tilalmat. A tipikus tárgy — KMK szerint — versenytárs alapítása vagy ottani munkavégzés tilalma."
+        },
+        {
+          "text": "A tilalom a munkaviszony fennállása alatt is csak külön ellenérték ellenében tartható fenn.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkaviszony fennállása alatt a munkavállaló külön megállapodás és ellenérték nélkül sem tanúsíthat olyan magatartást, amellyel a munkáltató jogos gazdasági érdekét veszélyeztetné. A 228. § a megszűnés utáni korlátozást árazza be ellenértékkel. A KMK I.2. pontja is ezt az elhatárolást erősíti."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "0e58e929b810"
+    },
+    {
+      "question": "Mi tartozik a versenytilalmi megállapodás ellenértékének fogalmához az Mt. 228. § (2) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A munkáltató megfelelő ellenértéket fizet; az ellenérték a megállapodás tartamára nem lehet kevesebb, mint az azonos időszakra járó alapbér egyharmada.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 228. § (2) bekezdése két mércét állít: a „megfelelő” ellenértéket és a nem diszpozitív alsó határt. Az alsó határ az azonos időszakra járó alapbér egyharmada. Ellenérték nélkül a tilalom a munkaviszony után nem tartható fenn."
+        },
+        {
+          "text": "Az ellenérték összegének meghatározásánál különösen arra kell tekintettel lenni, hogy a megállapodás milyen mértékben akadályozza a munkavállalót — képzettségére és gyakorlatára tekintettel — újabb munkavégzésre irányuló jogviszony létesítésében.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 228. § (2) a megfelelőségi mércét a képzettségre és a gyakorlatra tekintettel méri. Ha a tilalom lényegesen szűkíti az elhelyezkedést, a megfelelő ellenérték az alsó határnál magasabb is lehet. A KMK szerint az ellenérték csak pénzbeli lehet."
+        },
+        {
+          "text": "Az ellenérték alsó határa a Ptk. kötbérszabálya, ezért a 228. § (6) az egyharmados minimumot a kötbérre cseréli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 228. § (6) csak a külön kikötött kötbérre utal a Ptk. 6:186–189. §-ára, és nem cseréli le az ellenérték munkajogi minimumát. Az egyharmados alsó határ a 228. § (2) munkajogi mércéje marad. A KMK I.6. pontja az ellenérték utólagos vitatását elválasztja a kötbérmérsékléstől."
+        },
+        {
+          "text": "Ellenérték nélkül is érvényesen tartható fenn a munkaviszony utáni versenytilalom, ha a felek szóban megállapodtak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 228. § (2) szerint a kötelezettség teljesítéséért a munkáltató megfelelő ellenértéket fizet, ellenérték nélkül a tilalom a munkaviszony után nem tartható fenn. Emellett a 228. § (3) írásba foglalást követel, tehát a szóbeli forma sem elegendő. A 229/A. § (1) az írásbeliségtől való eltérést is elzárja."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "82100ed01d9e"
+    },
+    {
+      "question": "Mi a tanulmányi szerződés fogalmi szerkezete az Mt. 229. § (1) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Tanulmányi szerződés köthető munkaviszonyra vonatkozó szabály alapján járó kedvezmények biztosítására is, ha a felek így állapodnak meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 229. § (2) bekezdés a) pontja szerint nem köthető tanulmányi szerződés munkaviszonyra vonatkozó szabály alapján járó kedvezmények biztosítására. A törvényi kedvezményt tehát nem lehet szerződéses támogatássá átcímkézni. Ugyanez a bekezdés b) pontja a munkáltató által elrendelt képzést is kiveszi."
+        },
+        {
+          "text": "A munkáltató a tanulmányok alatt támogatást nyújt, a munkavállaló a megállapodás szerinti tanulmányokat folytatja, és a képzettség megszerzése után a támogatás mértékével arányos időn — de legfeljebb öt éven — keresztül munkaviszonyát felmondással nem szünteti meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 229. § (1) szinallagmatikus: támogatás a tanulmányok alatt, tanulmányok folytatása, majd bentmaradás felmondás nélkül. A bentmaradási tartam a támogatás mértékével arányos, de legfeljebb öt év. A kötelezettség a képzettség megszerzése utáni időszakra vonatkozik."
+        },
+        {
+          "text": "A bentmaradási kötelezettség a tanulmányok megkezdésétől számít, és a képzési szakasz is beleszámít az öt évbe.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 229. § (1) a bentmaradást a képzettség megszerzése utáni időre köti. Az 1/2019. (V. 20.) KMK vélemény II.1. pontja szerint a megkötéstől a tanulmányok befejezéséig terjedő idő nem vehető figyelembe a bentmaradásnál. A képzési szakasz tehát nem a bentmaradási idő része."
+        },
+        {
+          "text": "A munkaviszonyban töltött idő számítására — eltérő megállapodás hiányában — a 115. § (2) bekezdése megfelelően irányadó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 229. § (1) második mondata a bentmaradási idő számításánál — eltérő megállapodás hiányában — a 115. § (2) bekezdését hívja. A felek ettől eltérően is rendelkezhetnek. A KMK II.2. pontja is megerősíti, hogy a 115. § (2) szerinti időszakok főszabály szerint beleszámítanak."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "dc2999ef2320"
+    },
+    {
+      "question": "Mikor és milyen hatállyal állhat el a munkavállaló a versenytilalmi megállapodástól?",
+      "options": [
+        {
+          "text": "Az elállás a 15. § (2) bekezdése szerint a megállapodást a megkötés időpontjára visszamenőleges hatállyal szünteti meg, és a felek egymással elszámolnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 15. § (2) bekezdése az elállást ex tunc hatályúvá teszi: „a megállapodást a megkötésének időpontjára visszamenőleges hatállyal megszünteti”. Elállás esetén a felek egymással elszámolnak. Ezt a visszamenőleges konstrukciót hívja a 228. § (4) bekezdése a versenytilalmi megállapodásnál."
+        },
+        {
+          "text": "A munkavállaló bármely felmondás esetén elállhat a versenytilalmi megállapodástól, külön törvényi feltétel nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 228. § (4) az elállást kifejezetten a 78. § (1) bekezdése szerinti megszüntetéshez köti. Rendes felmondásnál vagy más megszűnési módozatnál ez a törvényi elállási jog nem nyílik meg automatikusan. A 15. § (1) szerint egyoldalú jognyilatkozatból csak szabályban meghatározott esetben származhat jog."
+        },
+        {
+          "text": "Ha munkaviszonyát a 78. § (1) bekezdése alapján szünteti meg, a 228. § (4) szerint a megállapodástól elállhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 228. § (4) bekezdése kifejezetten ehhez a megszüntetési esethez köti az elállást. A jogosultság tehát nem minden megszűnésnél nyílik meg, hanem a 78. § (1) szerinti megszüntetésnél. Az elállás egyoldalú jognyilatkozat, de csak e törvényi esetben."
+        },
+        {
+          "text": "Az elállás ugyanaz, mint a 229. § (7) szerinti azonnali hatályú felmondás: mindkettő a jövőre nézve szüntet meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 15. § (2) szerinti elállás visszamenőleges, míg a 229. § (7) azonnali hatályú felmondása a jövőre nézve hat. A KMK II.3. pontja is hangsúlyozza, hogy a (7) bekezdés nem elállás. A két jogkövetkezmény tehát nem cserélhető fel."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "7997aefd1440"
+    },
+    {
+      "question": "Mit jelent az írásbeliség kógenciája a 229/A. § szerint a versenytilalmi megállapodásnál és a tanulmányi szerződésnél?",
+      "options": [
+        {
+          "text": "A felek megállapodása vagy a kollektív szerződés a 228. § (3) és a 229. § (3) írásbeliségétől nem térhet el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 229/A. § (1) a) és b) pontja abszolút kógenssé teszi az írásba foglalást. Sem egyedi megállapodás, sem KSZ nem engedhet szóbeli formát. Ez a XVIII. fejezet eltérési rendjének központi alakszerűségi kapuja."
+        },
+        {
+          "text": "A 229/A. § taxációja szerint a 228. § (1) kétéves plafonjától a KSZ szabadon eltérhet a munkáltató javára.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 228. § (1) kétéves plafonja nem szerepel a 229/A. § eltérési tárgyai között. A (2) bekezdés a 228. § (2)-re és a 229. § (1)-re vonatkozik, nem a kétéves időbeli plafonra. A plafon tehát nem KSZ-rel tágítható a munkáltató javára e szakasz alapján."
+        },
+        {
+          "text": "Kollektív szerződés a 228. § (2) ellenérték-szabályától és a 229. § (1) tartalmától csak a munkavállaló javára térhet el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 229/A. § (2) relatív diszpozitivitást ad: a KSZ kedvezőbb ellenértéket vagy enyhébb bentmaradási kötelezettséget engedhet. A munkavállaló hátrányára e minimumokat nem lazíthatja. Az írásbeliséghez képest a tartalmi minimum aszimmetrikusan védett."
+        },
+        {
+          "text": "A felek egyedi megállapodása a 228. § (2) egyharmados alsó határát a munkavállaló terhére is csökkentheti, ha a KSZ hallgat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 229/A. § (2) csak a kollektív szerződésnek engedi a 228. § (2)-től való eltérést, és csak a munkavállaló javára. Az egyedi megállapodás tehát nem csökkentheti az ellenérték alsó határát. A törvényi egyharmados minimum a munkavállaló hátrányára nem nyitható fel."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "4bbc1779d339"
+    },
+    {
+      "question": "Mi a helyzet a munkáltató személyében bekövetkező változáskor a versenytilalmi megállapodással és a tanulmányi szerződéssel?",
+      "options": [
+        {
+          "text": "Az átadó a 37. § szerint az átszállást megelőzően tájékoztatja az átvevőt e jogokról és kötelezettségekről; a tájékoztatás elmaradása az igényérvényesítést nem érinti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 37. § kifejezetten kiterjeszti a tájékoztatást a versenytilalmi megállapodásokra és a tanulmányi szerződésekre. A mulasztás nem szünteti meg az átvevővel szembeni igényt. A tájékoztatás az átszállás előkészítésének eszköze, nem a jogátszállás feltétele."
+        },
+        {
+          "text": "A 228. § (5) és a 229. § (4) szerint a megállapodásból, illetve a szerződésből származó jogok és kötelezettségek az átvevő munkáltatóra átszállnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 228. § (5) bekezdése és a 229. § (4) bekezdése egyaránt az átvevő munkáltatóra telepíti a jogokat és kötelezettségeket. A megállapodások tehát nem maradnak az átadónál. Az átvevő viseli az ellenérték-fizetést, illetve érvényesítheti a bentmaradási igényt."
+        },
+        {
+          "text": "Ha az átadó elmulasztja a 37. § szerinti tájékoztatást, az átszállás meghiúsul, és a megállapodások az átadónál maradnak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 37. § második mondata szerint a tájékoztatás elmaradása az átvevővel szembeni igényérvényesítést nem érinti. A 228. § (5) és a 229. § (4) átszállása tehát nem a tájékoztatáshoz kötött feltétel. A mulasztás nem hagyja vissza a jogokat az átadónál."
+        },
+        {
+          "text": "Felszámolási eljárásban is változatlanul alkalmazni kell a 37. §-t, valamint a 228. § (5) és a 229. § (4) átszállását.",
+          "isCorrect": false,
+          "rationale": "HAMIS, felszámolási eljárásban a 36. § (2) bekezdése a 37. §-t, a 228. § (5) bekezdését és a 229. § (4) bekezdését is kiveszi az alkalmazás alól. Ez e körben kivétel az átszállási és tájékoztatási rend alól. A 36. § (3) bekezdése hasonló kivételt más vagyonértékesítési eljárásokra is kiterjeszt."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "9edb3be0e586"
+    },
+    {
+      "question": "Hogyan viszonyul a kötbér a versenytilalmi megállapodás és a tanulmányi szerződés fogalmához?",
+      "options": [
+        {
+          "text": "A kötbér minden versenytilalmi megállapodás és tanulmányi szerződés érvényességi kelléke.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kötbér nem fogalmi és nem érvényességi elem: a 228. § (6) és a 229. § (8) csak akkor alkalmazandó, ha a felek kikötik. Anélkül is létezhet érvényes versenytilalom ellenértékkel, illetve érvényes tanulmányi szerződés támogatással. A Ptk. kötbérszabályai fakultatív kikötésre várnak."
+        },
+        {
+          "text": "Ha a felek kötbért kötnek ki, a 228. § (2) egyharmados ellenérték-minimum automatikusan a kötbér felső határa lesz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az egyharmados alsó határ nem válik a Ptk. kötbérszabályává vagy plafonná, mert a 228. § (2) és a (6) bekezdés külön jogintézményt szabályoz. A 228. § (6) bekezdése csak a külön kikötött kötbérre utal a Ptk. 6:186–189. §-ára. A KMK I.6. pontja az ellenérték megfelelőségi vitáját is elválasztja a Ptk. 6:188. § kötbérmérséklésétől."
+        },
+        {
+          "text": "Kötbér kikötése esetén a 228. § (6) és a 229. § (8) a Ptk. 6:186–189. §-át rendeli alkalmazni; ez utalás, nem az ellenérték felülírása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, mindkét bekezdés csak „kötbér kikötése esetén” hívja a Ptk.-t. A versenytilalom ellenértékének alsó határa a 228. § (2) munkajogi minimuma marad. A két pénzkötelezettség — ellenérték és kötbér — nem helyettesíti egymást."
+        },
+        {
+          "text": "A Ptk. 6:186. § szerint a kötbér a szerződésszegésért — kimentés hiányában — fizetendő pénzkötelezettség, amelyet írásban kell kikötni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Ptk. 6:186. § (1)–(2) bekezdése a kötbért a felelősségi szerződésszegéshez köti, és írásbeliséget követel. A jogosult a kötbért akkor is követelheti, ha kára nem keletkezett. Ez a kötbérfogalom elválik a 228. § (2) bekezdésének munkajogi ellenértékétől."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "29bc75180afa"
+    },
+    {
+      "question": "Mit rögzít az 1/2019. (V. 20.) KMK vélemény a versenytilalmi megállapodás gazdasági érdekének és tárgyának fogalmáról?",
+      "options": [
+        {
+          "text": "Ha a cégjegyzéki tevékenységi kör azonos, a megszegés minden további vizsgálat nélkül megállapítható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a KMK I.1. pontja szerint azonos tevékenységi kör mellett sem kizárt, hogy nincs érdeksérelem vagy annak veszélye. A megszegést a munkáltatónak a tényállás egyedi sajátosságai alapján kell bizonyítania. A 228. § (1) a tényleges érdeksérelmet vagy valós veszélyét követeli meg."
+        },
+        {
+          "text": "A vélemény I. része a versenytilalom feltételeként számba vehető, jelentős gazdasági érdeket kíván; tipikus tárgya versenytárs alapítása vagy ottani munkavégzés.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a KMK vélemény I. része a jelentős gazdasági érdeket a versenytilalom feltételéül állítja. Tipikus tárgy, hogy a munkavállaló versenyhelyzetben lévő gazdálkodó szervezetet alapít, vagy ilyen szervezet részére munkát végez. A 228. § (1) bekezdése ugyanezt a jogos gazdasági érdek védelmét köti a tartózkodási kötelezettséghez."
+        },
+        {
+          "text": "A tartalom értékelésekor bármelyik fél utóbb hivatkozhat olyan körülményre, amelyet a megkötéskor nem vettek figyelembe.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a KMK I.2. pontja szerint a tartalom értékelésekor a felek szerződéskötéskori akarata az irányadó. Nincs helye annak, hogy bármelyik fél utóbb olyan körülményre hivatkozzon, amelyet a megkötéskor nem vettek figyelembe. A 228. § a felek megállapodásához köti a tilalom tartalmát."
+        },
+        {
+          "text": "A versenytársi helyzet tisztázásakor a cégjegyzék adatai kiindulási alapot adnak, de ellenbizonyításnak helye van, és a cégjegyzéknek nincs kizárólagos jelentősége.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a KMK I.1. pontja szerint a cégjegyzékben szereplő adatok a kiindulási alap. Ellenbizonyítással bizonyítható, hogy az új foglalkoztató versenytársnak tekinthető-e. A 228. § (1) a jogos gazdasági érdek sérelmét vagy veszélyeztetését követeli, nem a cégjegyzéki azonosság önmagában."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "c33e87894bb3"
+    },
+    {
+      "question": "Mely fogalmi követelményeket fűz a KMK vélemény a versenytilalmi megállapodás létrejöttéhez és az ellenérték jellegéhez?",
+      "options": [
+        {
+          "text": "Ha a lényeges kérdésekben nincs megállapodás, szolgáltatás teljesítésére kötelezettség és követelésre jogosultság nem keletkezik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a KMK I.5. pontja szerint lényeges kérdések hiányában a szerződés nem jön létre. Nemlétező szerződésre jogot alapítani nem lehet. A 228. § szerinti tartózkodási kötelezettség és ellenérték-követelés tehát csak létrejött megállapodásból fakadhat."
+        },
+        {
+          "text": "Az ellenérték természetben — például lakáshasználattal — is teljesíthető, ha a felek így állapodnak meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a KMK I.4. pontja szerint az ellenérték csak pénzbeli lehet. A 228. § (2) bekezdése a megfelelő ellenértéket és az alapbér egyharmados alsó határát írja elő. Természetbeni juttatás tehát nem helyettesíti a pénzbeli ellenértéket."
+        },
+        {
+          "text": "Ha a felek a lényeges kérdésekben nem állapodtak meg, a bíróság a hiányzó elemeket a 228. § (2) egyharmados minimumával pótolja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a KMK I.5. pontja szerint lényeges kérdések hiányában versenytilalmi megállapodás nem jön létre, és követelésre jogosultság sem keletkezik. A 228. § (2) bekezdésének egyharmados alsó határa csak a már létrejött megállapodás ellenértékének minimuma. A bíróság tehát nem pótolhatja a létrejött hiányát ezzel a minimummal."
+        },
+        {
+          "text": "Az ellenérték csak pénzbeli lehet; a létrejött pedig a lényeges kérdésekben való megállapodáshoz kötött.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a KMK I.4. pontja az ellenérték pénzbeli jellegét rögzíti. Az I.5. pont a létrejöttet a lényeges kérdésekben való megállapodáshoz köti. A 228. § (2) bekezdése a megfelelő ellenértéket a kötelezettség teljesítéséhez kapcsolja."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "df8a2a225072"
+    },
+    {
+      "question": "Hogyan választja el a KMK vélemény az ellenérték utólagos vitatását a kötbértől?",
+      "options": [
+        {
+          "text": "Ha az ellenérték nem érte el az azonos időszakra járó alapbér egyharmadát, a részleges érvénytelenség szabályai az irányadók.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a KMK I.6. pontja szerint, ha a felek kikötöttek ellenértéket, de az nem érte el a törvényi minimumot, a részleges érvénytelenség szabályai irányadók. A 228. § (2) bekezdésének egyharmados alsó határa tehát nem ajánlás. Ez a vita munkajogi érvénytelenségi kérdés."
+        },
+        {
+          "text": "Ha az ellenérték eléri a törvényi minimumot, de a korlátozással aránytalannak tűnik, a megfelelőség a 228. § (2) szerint vizsgálandó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a KMK I.6. pontja szerint a törvényi minimumot elérő, de aránytalannak tartott ellenértéknél a megfelelőség vizsgálandó. A vizsgálat a 228. § (2) bekezdésének munkajogi mércéje szerint zajlik, figyelembe véve a képzettséget és a gyakorlatot. Ez elválik a Ptk. 6:188. § szerinti kötbérmérsékléstől, amely csak kikötött kötbérre vonatkozhat."
+        },
+        {
+          "text": "Az ellenérték megfelelőségi vitájára a Ptk. 6:188. § kötbérmérséklési szabályait kell alkalmazni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a KMK I.6. pontja elválasztja: az ellenérték vitája a 228. § (2) munkajogi mércéje, nem a Ptk. 6:188. § kötbérmérséklése. A 228. § (6) csak a külön kikötött kötbérre hívja a Ptk. 6:186–189. §-át. Az ellenérték és a kötbér tehát külön jogintézmény."
+        },
+        {
+          "text": "Ha a munkavállaló megkezdi a tartózkodást, a munkáltató mentesül az ellenérték fizetése alól, ha a munkavállaló nem tudná a gazdasági érdeket sérteni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a KMK I.2. pontja szerint a teljesített tartózkodás ellenében a munkáltató akkor is fizet, ha a munkavállaló nincs abban a helyzetben, hogy az érdeket sértse. A 228. § (2) a kötelezettség teljesítéséért írja elő a megfelelő ellenértéket. A tényleges veszélyeztetési képesség hiánya nem mentesít."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "ef4cc05d5264"
+    },
+    {
+      "question": "Mikor nem köthető tanulmányi szerződés az Mt. 229. § (2) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Ha a munkáltató kötelezte a képzést, a 229. § (1) bentmaradási szabálya akkor is alkalmazható szóbeli megállapodással.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 229. § (2) bekezdés b) pontja szerint kötelező képzésnél nem köthető tanulmányi szerződés, tehát az (1) bekezdés bentmaradási konstrukciója sem nyílik meg. Emellett a 229. § (3) bekezdése írásba foglalást követel, szóbeli forma tehát nem elég. A 229/A. § (1) bekezdése az írásbeliségtől való eltérést a felek és a kollektív szerződés elől is elzárja."
+        },
+        {
+          "text": "Tanulmányi szerződés akkor is köthető a törvényi mentesülés megváltására, ha a felek a támogatást is rögzítik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 229. § (2) a) pontja tiltja, hogy a munkaviszonyra vonatkozó szabály alapján járó kedvezményt tanulmányi szerződéssel váltsák meg. Az 55. § (1) bekezdés g) pontja szerinti mentesülés ilyen törvényi kedvezmény. A 146. § (1) bekezdés b) pontja pedig távolléti díjat rendel hozzá."
+        },
+        {
+          "text": "Nem köthető akkor sem, ha a tanulmányok elvégzésére a munkáltató kötelezte a munkavállalót.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 229. § (2) bekezdés b) pontja a munkáltató által elrendelt képzést kiveszi a szerződéskötési körből. Ott a mentesülés és a díjazás a törvényből fakad. A bentmaradási kötelezettség tehát nem építhető a kötelező képzésre."
+        },
+        {
+          "text": "Nem köthető munkaviszonyra vonatkozó szabály alapján járó kedvezmények biztosítására.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 229. § (2) bekezdés a) pontja elválasztja a törvényi kedvezményt a szerződéses támogatástól. Ami a munkaviszonyra vonatkozó szabály alapján jár, azt nem lehet tanulmányi szerződésbe foglalni. A törvényi kedvezményt szerződéses visszatérítéssel sem lehet megváltani."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "4021c7d025e3"
+    },
+    {
+      "question": "Mi a különbség a tanulmányi szerződés elállása és az azonnali hatályú felmondása között?",
+      "options": [
+        {
+          "text": "A munkavállaló 229. § (7) szerinti felmondása esetén a munkáltató soha nem követelheti vissza a támogatást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 229. § (7) szerint a munkavállaló felmondása esetén a munkáltató a nyújtott támogatást visszakövetelheti. Ha a bentmaradási tartamnak csak egy részét töltötte le, a visszakövetelés arányos. A munkáltatói felmondásnál viszont a támogatás nem követelhető vissza."
+        },
+        {
+          "text": "A 229. § (7) szerinti azonnali hatályú felmondás a jövőre nézve szüntet meg; a munkáltató felmondása esetén a támogatás nem követelhető vissza.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 229. § (7) a lényeges változás miatti azonnali hatályú felmondást szabályozza. A KMK II.3. pontja szerint ez nem elállás: a szerződés a jövőre nézve szűnik meg. A munkáltató felmondása esetén a korábban nyújtott támogatás nem jár vissza."
+        },
+        {
+          "text": "A 229. § (7) szerinti felmondás ugyanúgy ex tunc hatályú, mint a 15. § (2) szerinti elállás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 15. § (2) az elállást visszamenőleges hatályúvá teszi, míg a 229. § (7) azonnali hatályú felmondása a jövőre nézve hat. A KMK II.3. pontja szerint a (7) bekezdés fogalmilag nem elállás. A joghatások tehát eltérő időbeli irányúak."
+        },
+        {
+          "text": "A munkáltató a 229. § (6) szerint elállhat és a támogatást visszakövetelheti, ha a munkavállaló a szerződésben foglaltakat megszegi; az elállás a 15. § (2) szerint visszamenőleges.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 229. § (6) a munkáltatói elállást a munkavállalói szerződésszegéshez köti. Szerződésszegésnek minősül a magatartási indokú munkaviszony-megszüntetés is. A 15. § (2) az elállást a megkötés időpontjára visszamenőleges hatállyal szünteti meg."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "1cce385a7f92"
+    },
+    {
+      "question": "Hogyan kapcsolódik az 55. § (1) bekezdés g) pontja a tanulmányi szerződés fogalmához?",
+      "options": [
+        {
+          "text": "A mentesülés az 55. §-ból, a támogatás és a bentmaradási kötelezettség a 229. §-ból fakad; a két jogintézmény összekapcsolható, de nem azonos.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az 55. § (1) bekezdés g) pontja a munkavégzés alóli mentesülést adja, míg a 229. § a támogatást és a bentmaradást szabályozza. A g) pont utóbbi ága a tanulmányi szerződéssel összekapcsolható. A két jogintézmény azonban nem olvad egybe."
+        },
+        {
+          "text": "A 229. § (2) a) pontja engedi, hogy az 55. § (1) g) pont szerinti törvényi mentesülést tanulmányi szerződésbe foglalják.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 229. § (2) a) pontja tiltja a munkaviszonyra vonatkozó szabály alapján járó kedvezmények szerződésbe foglalását. Az 55. § (1) bekezdés g) pontja ilyen törvényi kedvezmény. A mentesülést tehát nem lehet szerződéses visszatérítési kötelezettséggel kiváltani."
+        },
+        {
+          "text": "Az 55. § (1) bekezdés g) pontja szerinti mentesülés a munkáltató méltányosságán múlik, és nem jár távolléti díjjal.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mentesülés alanyi jellegű: ha az 55. § (1) bekezdés g) pontjának tényállása megvalósul, nem a munkáltató méltányosságán múlik. A 146. § (1) bekezdés b) pontja az 55. § (1) c)–g) pontjai tartamára távolléti díjat rendel. A g) pont szerinti távollét idejére tehát a munkavállaló díjazásra is jogosult."
+        },
+        {
+          "text": "Az 55. § (1) bekezdés g) pontja mentesíti a munkavállalót a rendelkezésre állás és a munkavégzés alól a felek megállapodása szerinti képzéshez szükséges időre is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az 55. § (1) bekezdés g) pontja az általános iskolai tanulmány mellett a felek megállapodása szerinti képzést, továbbképzést is lefedi. A mentesülés alanyi jellegű, ha a törvényi tényállás megvalósul. A 146. § (1) bekezdés b) pontja az 55. § (1) c)–g) pontjaira távolléti díjat rendel."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "dd1f8cecd981"
+    },
+    {
+      "question": "Mit mond a KMK vélemény a tanulmányi szerződés bentmaradási idejének számításáról?",
+      "options": [
+        {
+          "text": "Eltérő megállapodás hiányában a 115. § (2) szerinti időszakokat is figyelembe kell venni; a felek ettől eltérően is rendelkezhetnek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a KMK II.2. pontja és a 229. § (1) második mondata a bentmaradási idő számításánál — eltérő megállapodás hiányában — a 115. § (2) bekezdését hívja. Érvényes az a kikötés, amely szerint a bentmaradásba nem számít bele a keresőképtelenség és a szünetelés azon tartama, amelyre szabadság nem jár. Ezt az eltérést a 229. § (1) második mondata kifejezetten megengedi."
+        },
+        {
+          "text": "A felek nem térhetnek el a 115. § (2) számítási rendjétől, mert a 229/A. § abszolút kógenssé teszi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 229. § (1) második mondata kifejezetten megengedi az eltérő megállapodást a munkaviszonyban töltött idő számításánál. A 229/A. § (1) az írásbeliséget zárja el, a (2) pedig a 229. § (1)-től csak a munkavállaló javára enged KSZ-eltérést. A felek egyedi eltérése a számítási rendre tehát nem tiltott."
+        },
+        {
+          "text": "A munkáltatónál eltöltött időszak számításánál nem vehető figyelembe a szerződés megkötésétől a tanulmányok befejezéséig terjedő idő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a KMK II.1. pontja szerint a képzési szakasz nem a bentmaradási idő része. A munkavállaló a szerződést a tanulmányok határidőre történő befejezésével és a megszerzett tudás hasznosításával teljesíti. A 229. § (1) a bentmaradást a képzettség megszerzése utáni időre köti."
+        },
+        {
+          "text": "A bentmaradási időbe a tanulmányok alatt töltött teljes időszak automatikusan beleszámít.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a KMK II.1. pontja szerint a megkötéstől a tanulmányok befejezéséig terjedő idő nem vehető figyelembe. A 229. § (1) a bentmaradást a képzettség megszerzése utáni időszakra telepíti. A képzési szakasz tehát nem növeli automatikusan a bentmaradási tartamot."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "341ac8ff1021"
+    },
+    {
+      "question": "Mit jelent a munkavállaló mentesülése a tanulmányi szerződésből a 229. § (5) bekezdése szerint, és hogyan alakul a visszatérítési kötelezettség a 229. § (6) bekezdése szerint, ha a munkavállaló a kikötött tartamnak csak egy részét nem tölti le?",
+      "options": [
+        {
+          "text": "A 229. § (6) szerint a visszatérítési kötelezettség arányos, ha a munkavállaló a kikötött tartamnak csak egy részét nem tölti le.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 229. § (6) a munkáltatói elállás mellett az arányos visszatérítést is rögzíti. Ha a tartamnak csak egy része marad teljesítetlen, a visszatérítés arányos. A magatartási indokú megszüntetést ugyanez a bekezdés szerződésszegéssé minősíti."
+        },
+        {
+          "text": "A 229. § (5) szerinti mentesülés visszamenőleges elállás a 15. § (2) szerint, és a munkavállaló fizeti vissza a támogatást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 229. § (5) bekezdése a munkavállaló mentesülését szabályozza, nem a 15. § (2) szerinti elállást. Az elállás a 229. § (6) bekezdés szerinti munkáltatói jog a munkavállalói szerződésszegésnél. Az (5) bekezdés nem telepít visszatérítési kötelezettséget a munkavállalóra."
+        },
+        {
+          "text": "A munkavállaló mentesül a tanulmányi szerződésből folyó kötelezettsége alól, ha a munkáltató lényeges szerződésszegést követ el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 229. § (5) bekezdése a munkáltatói lényeges szerződésszegéshez köti a mentesülést. A bentmaradási kötelezettség tehát nem marad fenn, ha a munkáltató lényegesen megszegi a szerződést. Ez a kockázatot a munkáltatói szerződésszegéshez igazítja."
+        },
+        {
+          "text": "A munkavállaló csak akkor mentesül, ha a munkáltató a támogatást egyáltalán nem nyújtotta.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 229. § (5) a mentesülést a munkáltató lényeges szerződésszegéséhez köti, nem csupán a támogatás teljes elmaradásához. A lényeges szerződésszegés szélesebb tényállás lehet. A mentesülés a munkavállaló bentmaradási kötelezettségét oldja fel."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "70499413619e"
+    },
+    {
+      "question": "Mit ír elő a Ptk. 6:187. § a kötbér típusairól, ha a felek a versenytilalmi vagy a tanulmányi megállapodásban kötbért kötnek ki?",
+      "options": [
+        {
+          "text": "A késedelem esetére kikötött kötbér megfizetése nem mentesít a teljesítési kötelezettség alól; a jogosult a kötbér mellett a kötbért meghaladó kárát is érvényesítheti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Ptk. 6:187. § (1) második mondata a késedelmi kötbér mellett fenntartja a teljesítési kötelezettséget. A (3) bekezdés a kötbért meghaladó kár érvényesítését is megengedi. A (4) bekezdés szerint a kár akkor is követelhető, ha a kötbérigényt nem érvényesítették."
+        },
+        {
+          "text": "A teljesítés elmaradása esetére kikötött kötbér érvényesítése a teljesítés követelését kizárja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Ptk. 6:187. § (1) első mondata szerint a meghiúsulási kötbér érvényesítése kizárja a teljesítés követelését. Versenytilalomnál a teljesítés a tartózkodás. A 228. § (6) és a 229. § (8) e Ptk.-szabályokra utal, ha a felek kötbért kikötnek."
+        },
+        {
+          "text": "Ha a felek meghiúsulási kötbért kötöttek ki, a jogosult a kötbér mellett a tartózkodást vagy a bentmaradást is követelheti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Ptk. 6:187. § (1) szerint a teljesítés elmaradása esetére kikötött kötbér érvényesítése a teljesítés követelését kizárja. Versenytilalomnál tehát a tartózkodás már nem követelhető. A 228. § (6) és a 229. § (8) e választást a Ptk.-ra bízza."
+        },
+        {
+          "text": "A 228. § (2) egyharmados ellenérték-minimuma automatikusan meghatározza a kikötött kötbér összegét.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 228. § (2) egyharmados minimuma az ellenérték alsó határa, nem a kötbér mértéke. A 228. § (6) csak a kikötött kötbérre hívja a Ptk. 6:186–189. §-át. Az ellenérték és a kötbér egymást nem helyettesíti."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "2aac32b15b1b"
+    },
+    {
+      "question": "Mi jellemzi az egyoldalú jognyilatkozatot és az elállást a 15. § szerint e megállapodások körében?",
+      "options": [
+        {
+          "text": "A 229. § (7) azonnali hatályú felmondása is a 15. § (2) szerinti elállás, ezért mindig visszamenőleges hatályú.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 15. § (2) az elállást ex tunc hatályúvá teszi, míg a 229. § (7) azonnali hatályú felmondása a jövőre nézve hat. A KMK II.3. pontja is elválasztja a két jogkövetkezményt. A 228. § (4) elállása viszont a 15. § (2) konstrukcióját hívja."
+        },
+        {
+          "text": "A felek bármely egyoldalú nyilatkozattal szabadon megszüntethetik a versenytilalmi megállapodást, külön törvényi felhatalmazás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 15. § (1) szerint egyoldalú jognyilatkozatból csak szabályban meghatározott esetben származhat jog vagy kötelezettség. A 228. § (4) az elállást a 78. § (1) szerinti megszüntetéshez köti. Általános egyoldalú megszüntetési jog tehát nincs."
+        },
+        {
+          "text": "Egyoldalú jognyilatkozatból csak munkaviszonyra vonatkozó szabályban meghatározott esetben származhatnak jogok vagy kötelezettségek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 15. § (1) bekezdése kimondja, hogy egyoldalú jognyilatkozatból csak munkaviszonyra vonatkozó szabályban meghatározott esetben származhatnak jogok vagy kötelezettségek. A 228. § (4) és a 229. § (6)–(7) bekezdése ilyen törvényi eseteket nyit meg. Általános egyoldalú elállási jog tehát a felek megállapodása nélkül nem keletkezik."
+        },
+        {
+          "text": "Az egyoldalú jognyilatkozat a címzettel való közléssel válik hatályossá, és — a törvény eltérő rendelkezése hiányában — csak a címzett hozzájárulásával módosítható vagy vonható vissza.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 15. § (4) bekezdése a hatályosságot a közléshez köti. A módosítás és a visszavonás főszabály szerint a címzett hozzájárulásához kötött. A 15. § (3) az egyoldalú jognyilatkozatra a megállapodás szabályait rendeli megfelelően alkalmazni."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "bf7f598fb06b"
+    },
+    {
+      "question": "Mi a munkáltatói elállás és a visszatérítés fogalmi rendje a tanulmányi szerződés 229. § (6) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A munkáltatói elállás a jövőre nézve hat, ezért a már nyújtott támogatás soha nem követelhető vissza.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 229. § (6) bekezdés szerinti elállás a 15. § (2) szerinti visszamenőleges megszüntetés, és a nyújtott támogatás visszakövetelhető. A jövőre nézve ható megszüntetés a 229. § (7) bekezdés szerinti azonnali hatályú felmondás. A két jogkövetkezmény fogalmilag és joghatásában elválik egymástól."
+        },
+        {
+          "text": "A magatartási indokú munkaviszony-megszüntetés soha nem minősül a tanulmányi szerződés megszegésének.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 229. § (6) második mondata kifejezetten kimondja, hogy szerződésszegésnek minősül, ha a megszüntetés indoka a munkavállaló munkaviszonnyal kapcsolatos magatartása. Ez megnyitja a munkáltatói elállást és a visszakövetelést. A magatartási indok tehát nem kívül esik a szerződéses kockázaton."
+        },
+        {
+          "text": "A munkáltató elállhat és a nyújtott támogatást visszakövetelheti, ha a munkavállaló a tanulmányi szerződésben foglaltakat megszegi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 229. § (6) első mondata ezt a jogkövetkezményt állítja. Az elállás a 15. § (2) szerint visszamenőleges hatályú, és a felek elszámolnak. A visszakövetelés a munkavállalói szerződésszegéshez kapcsolódik."
+        },
+        {
+          "text": "Szerződésszegésnek minősül az is, ha a munkaviszony megszüntetésének indoka a munkavállaló munkaviszonnyal kapcsolatos magatartása; a visszatérítés arányos lehet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 229. § (6) második mondata a magatartási indokú megszüntetést is szerződésszegéssé minősíti. A harmadik mondat szerint a visszatérítési kötelezettség arányos, ha a kikötött tartamnak csak egy része nem teljesül. Ez a kockázatot az elmaradt tartamhoz igazítja."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "cf685c947547"
+    },
+    {
+      "question": "Mit mond a KMK II.3. pontja a 229. § (7) szerinti azonnali hatályú felmondás indokairól és a hátrány értékeléséről?",
+      "options": [
+        {
+          "text": "Az intézkedés jogszerűségének vizsgálatakor a félnél jelentkező hátrány értékelendő, és nem kell azt összevetni a másik félnél jelentkező hátrányokkal.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a KMK II.3. pontja szerint a hátrány értékelése a felmondó fél oldalán történik. Nem kell a két fél hátrányait egymással összemérni. A 229. § (7) tehát nem arányossági mérleget ír elő a másik fél kárával szemben."
+        },
+        {
+          "text": "Ha a munkáltató a 229. § (7) alapján mond fel, a hátrányok összemérése után a teljes támogatást visszakövetelheti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 229. § (7) szerint a munkáltató felmondása esetén a támogatás nem követelhető vissza. A KMK II.3. pontja szerint a hátrányokat nem kell a másik fél hátrányaival összevetni. A visszakövetelés a munkavállalói felmondásnál nyílik meg."
+        },
+        {
+          "text": "Szerződésszegés hiányában is bármelyik fél azonnali hatállyal felmondhat, ha körülményeiben lényeges változás a teljesítést lehetetlenné tenné vagy aránytalan sérelemmel járna.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a KMK II.3. pontja a 229. § (7) bekezdését bontja ki. A felmondás nem feltételezi a másik fél szerződésszegését. A lényeges változás a kötelezettség teljesítését lehetetlenné teheti, vagy aránytalan sérelemmel járhat."
+        },
+        {
+          "text": "A munkáltató csak akkor mondhat fel a 229. § (7) alapján, ha a munkavállaló előzetesen szerződésszegést követett el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a KMK II.3. pontja szerint szerződésszegés hiányában is nyitva áll az azonnali hatályú felmondás. A 229. § (7) a lényeges változáshoz köti a jogot. A munkáltatói oldalon indok lehet, hogy a tanulmányok után nem képes foglalkoztatni a munkavállalót."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "2345bc06f488"
+    },
+    {
+      "question": "Mi a versenytilalmi megállapodás írásbeliségének fogalmi jelentősége a 228. § (3) és a 229/A. § fényében?",
+      "options": [
+        {
+          "text": "A kollektív szerződés a munkáltató javára eltérhet a 228. § (3) írásbeliségétől, ha az ellenértéket megemeli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 229/A. § (1) az írásbeliségtől semmilyen eltérést nem enged. A (2) bekezdés relatív diszpozitivitása a 228. § (2) ellenértékére vonatkozik, nem a (3) bekezdés alakszerűségére. Az írásbeliség tehát nem váltható magasabb ellenértékkel."
+        },
+        {
+          "text": "A versenytilalmi megállapodást írásba kell foglalni; ez alakszerűségi követelmény.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 228. § (3) bekezdése kifejezetten az írásba foglalást írja elő a versenytilalmi megállapodásra. Ez a megállapodás alakszerűségi követelménye. A 229. § (3) bekezdése ugyanezt az írásbeliséget állítja a tanulmányi szerződésnél is."
+        },
+        {
+          "text": "A 229/A. § (1) szerint sem a felek, sem a kollektív szerződés nem térhet el a 228. § (3) írásbeliségétől.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 229/A. § (1) a) pontja abszolút kógenssé teszi a 228. § (3) bekezdést. Szóbeli versenytilalmi megállapodás tehát nem menthető KSZ-eltéréssel sem. Az írásbeliség a XVIII. fejezet alakszerűségi kapuja."
+        },
+        {
+          "text": "A felek szóban is érvényesen köthetnek versenytilalmi megállapodást, ha az ellenérték eléri az alapbér egyharmadát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 228. § (3) az írásba foglalást követeli, az ellenérték megléte ezt nem pótolja. A 229/A. § (1) az írásbeliségtől való eltérést a felek és a KSZ elől is elzárja. Az egyharmados minimum a 228. § (2) tartalmi mércéje, nem alakszerűségi helyettesítő."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "1396bbf1f3db"
+    },
+    {
+      "question": "Hogyan határolható el a munkaviszony alatti érdeksérelemtilalom a 228. § szerinti versenytilalmi megállapodástól?",
+      "options": [
+        {
+          "text": "A munkaviszony megszűnése után is elegendő a munkaviszony alatti általános érdeksérelemtilalom, külön ellenérték nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a KMK I.2. pontja szerint a megszűnés után a korlátozás már csak a 228. § (2) bekezdése szerinti megállapodással tartható fenn. A megfelelő ellenérték a tartózkodási kötelezettség fenntartásának feltétele. A munkaviszony alatti általános tilalom tehát nem nyúlik át automatikusan a megszűnés utáni időszakra."
+        },
+        {
+          "text": "A 228. § szerinti versenytilalmi megállapodás a munkaviszony fennállása alatti érdeksérelemtilalom speciális esete.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 228. § a megszűnés utáni tartózkodást szabályozza ellenértékkel, míg a munkaviszony alatti tilalom külön megállapodás nélkül is fennáll. A KMK I.2. pontja ezt az időszakelhatárolást hangsúlyozza. A két kötelezettség tehát nem speciális–általános viszony."
+        },
+        {
+          "text": "A munkaviszony fennállása alatt a munkavállaló külön megállapodás és ellenérték nélkül sem tanúsíthat olyan magatartást, amellyel a munkáltató jogos gazdasági érdekét veszélyeztetné.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a KMK I.2. pontja a munkaviszony alatti érdeksérelemtilalmat emeli ki: külön megállapodás és ellenérték nélkül is tilos a jogos gazdasági érdeket veszélyeztető magatartás. Ez nem azonos a 228. § szerinti, megszűnés utáni, ellenértékkel árazott tilalommal. A 228. § (1)–(2) bekezdése a munkaviszony megszűnése utáni korlátozást szabályozza."
+        },
+        {
+          "text": "A munkaviszony megszűnése után a korlátozás már csak a 228. § (2) bekezdése szerinti megállapodással — megfelelő ellenérték ellenében — tartható fenn.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a KMK I.2. pontja elválasztja a két időszakot: a megszűnés után már a 228. § (1)–(2) szerinti megállapodás kell. A megfelelő ellenérték a tartózkodás fenntartásának feltétele. Anélkül a korlátozás a munkaviszony utáni időszakra nem vihető át."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "a3f7bb00eafd"
+    },
+    {
+      "question": "Mi a Ptk. 6:186. § kötbérfogalma, és hogyan kapcsolódik a 228. § (6), illetve a 229. § (8) utalásához?",
+      "options": [
+        {
+          "text": "A 228. § (2) ellenérték-minimuma a Ptk. 6:186. § szerinti kötbér alsó határa.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 228. § (2) bekezdésének egyharmados minimuma az ellenérték alsó határa, nem a kötbéré. A Ptk. 6:186. § a szerződésszegéshez kapcsolódó pénzkötelezettséget határozza meg. A 228. § (6) szerint a két intézmény csak akkor találkozik, ha a felek kötbért is kikötnek."
+        },
+        {
+          "text": "Kötbér írásban köthető ki; a jogosult akkor is követelheti, ha kára nem keletkezett.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Ptk. 6:186. § (2)–(3) bekezdése az írásbeliséget és a kárfüggetlen követelhetőséget rögzíti. Ez elválik a 228. § (2) ellenértékétől, amely a tartózkodás ellenértéke. A két pénzkötelezettség egymást nem helyettesíti."
+        },
+        {
+          "text": "A kötelezett pénz fizetésére kötelezheti magát arra az esetre, ha olyan okból, amelyért felelős, megszegi a szerződést; kimentés esetén mentesül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Ptk. 6:186. § (1) bekezdése így határozza meg a kötbért. A 228. § (6) és a 229. § (8) csak kikötés esetén hívja e szabályokat. A kötbér tehát nem a megállapodások fogalmi eleme."
+        },
+        {
+          "text": "A Ptk. 6:186. § automatikusan alkalmazandó minden versenytilalmi megállapodásra, kötbérkikötés nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 228. § (6) és a 229. § (8) csak „kötbér kikötése esetén” hívja a Ptk. 6:186–189. §-át. Kötbérkikötés nélkül a Ptk. kötbérszabályai nem lépnek be. A megállapodás ettől még érvényesen létezhet ellenértékkel vagy támogatással."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "6ba0ceb89a2b"
+    },
+    {
+      "question": "Mi a 37. § szerinti tájékoztatás fogalmi szerepe a versenytilalmi megállapodások és a tanulmányi szerződések átszállásánál?",
+      "options": [
+        {
+          "text": "Felszámolási eljárásban a 37. § tájékoztatása és a 228. § (5), 229. § (4) átszállása változatlanul alkalmazandó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 36. § (2) bekezdése felszámolási eljárásban a 37. §-t, a 228. § (5) bekezdését és a 229. § (4) bekezdését is kiveszi az alkalmazás alól. A 36. § (3) ugyanezt a kivételt más vagyonértékesítési, áthidaló intézményi és eszköz-elkülönítési eljárásra is kiterjeszti. Az átszállási-tájékoztatási rend tehát e körben nem változatlan."
+        },
+        {
+          "text": "Az átadó az átszállást megelőzően köteles tájékoztatni az átvevőt a versenytilalmi megállapodásokból és a tanulmányi szerződésekből származó jogokról és kötelezettségekről.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 37. § kifejezetten e két megállapodástípusra is kiterjeszti a tájékoztatást. A 228. § (5) és a 229. § (4) szerinti átszállás mellett ez az előkészítő kötelezettség. A tájékoztatás az átszállás előkészítésének eszköze."
+        },
+        {
+          "text": "A tájékoztatás elmaradása megszünteti az átszállást, ezért a megállapodások az átadónál maradnak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 37. § szerint a tájékoztatás elmaradása az igényérvényesítést nem érinti. A 228. § (5) és a 229. § (4) az átszállást az átvevőre telepíti. A mulasztás tehát nem hagyja vissza a jogokat az átadónál."
+        },
+        {
+          "text": "A tájékoztatás elmaradása az átvevő munkáltatóval szemben e jogviszonyokból származó igények érvényesítését nem érinti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 37. § második mondata szerint a tájékoztatás elmaradása az átvevő munkáltatóval szemben e jogviszonyokból származó igények érvényesítését nem érinti. A mulasztás tehát nem szünteti meg az átvevővel szembeni igényt. A 228. § (5) és a 229. § (4) szerinti átszállás nem a tájékoztatáshoz kötött feltétel."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "7c9c741bfe01"
+    },
+    {
+      "question": "Mi a tiltott tevékenységi kör kettős korlátja a KMK I.3. pontja szerint a versenytilalmi megállapodásnál?",
+      "options": [
+        {
+          "text": "A tiltott tevékenységi kör lehet teljesen határozatlan, ha a felek a „bármely gazdasági tevékenység” fordulatot használják.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a KMK I.3. pontja szerint a tiltott körnek megfelelően körülírtnak kell lennie a gazdasági érdek védelméhez. A teljesen határozatlan tilalom a munkavállaló jövedelemszerző tevékenységét méltánytalanul korlátozhatja. A 228. § (1) is konkrét érdeksérelemhez köti a tartózkodást."
+        },
+        {
+          "text": "A tiltott tevékenységi körnek megfelelően körülírtnak kell lennie ahhoz, hogy a munkáltató gazdasági érdekeit védje.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a KMK I.3. pontja a körülírást a gazdasági érdek védelméhez köti. A 228. § (1) is a jogos gazdasági érdek sérelmét vagy veszélyeztetését tilalmazza. A túl homályos tilalom nem felel meg e fogalmi követelménynek."
+        },
+        {
+          "text": "Ha a tiltott kör megfelelően körülírt, a munkavállaló jövedelemszerző tevékenységének korlátozása már nem vizsgálandó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az I.3. pont kettős korlátot állít: a körülírás mellett a méltánytalan és túlzott korlátozás tilalmát is. A 228. § (2) megfelelőségi vizsgálata is az elhelyezkedés akadályozását méri. Az egyik korlát teljesülése tehát nem oldja fel a másikat."
+        },
+        {
+          "text": "A tiltott kör nem korlátozhatja méltánytalanul és túlzottan a munkavállaló jövedelemszerző tevékenységét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az I.3. pont második korlátja a munkavállaló elhelyezkedési szabadságát védi. A 228. § (2) megfelelőségi mércéje is a képzettségre és gyakorlatra tekintettel méri az elhelyezkedés akadályozását. A kettős korlát tehát a munkáltatói és a munkavállalói oldalt egyensúlyozza."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "243907916f8a"
+    },
+    {
+      "question": "Mit jelent a 229/A. § (2) szerinti relatív diszpozitivitás a 228. § (2) és a 229. § (1) kapcsán?",
+      "options": [
+        {
+          "text": "A 229/A. § (2) alapján a KSZ a 228. § (1) kétéves plafonját is meghosszabbíthatja a munkáltató javára.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 229/A. § taxációja a 228. § (2)-t és a 229. § (1)-t említi eltérési tárgyként, a 228. § (1) kétéves plafonját nem. A plafon tehát e szakasz alapján nem hosszabbítható meg a munkáltató javára. Az időbeli felső határ így külön védett marad."
+        },
+        {
+          "text": "Kollektív szerződés a 228. § (2) ellenérték-szabályától és a 229. § (1) tartalmától csak a munkavállaló javára térhet el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 229/A. § (2) a) és b) pontja ezt a relatív diszpozitivitást rögzíti. A KSZ tehát kedvezőbb ellenértéket vagy enyhébb bentmaradási kötelezettséget engedhet. A munkavállaló hátrányára e minimumok nem lazíthatók."
+        },
+        {
+          "text": "Az írásbeliséghez képest a tartalmi minimum aszimmetrikusan védett: az alakszerűség abszolút kógens, a tartalmi eltérés csak a javára engedett.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 229/A. § (1) bekezdése az írásbeliséget abszolút kógenssé teszi, míg a (2) bekezdés a tartalmi minimumot csak a munkavállaló javára engedi. A 228. § (2) egyharmados alsó határa és a 229. § (1) arányos bentmaradása így aszimmetrikusan védett. A munkavállaló hátrányára történő eltérés tilos."
+        },
+        {
+          "text": "A felek egyedi megállapodása a 228. § (2) egyharmados alsó határát a munkavállaló terhére is csökkentheti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 229/A. § (2) bekezdése a 228. § (2)-től való eltérést csak kollektív szerződésnek engedi, és kizárólag a munkavállaló javára. Egyedi megállapodással az ellenérték alsó határa nem csökkenthető. A törvényi egyharmados mérce a munkavállaló terhére nem nyitható fel."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "a90bfd3f8621"
+    },
+    {
+      "question": "Mi a munkavállaló teljesítésének és a munkáltató ellenérték-fizetésének kapcsolata a KMK I.2. pontja szerint?",
+      "options": [
+        {
+          "text": "A felek a megkötés után egyoldalúan átértelmezhetik a tiltott kört a megváltozott piaci viszonyokra tekintettel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a KMK I.2. pontja a szerződéskötéskori akaratot teszi irányadóvá a tartalom értékelésénél. Utóbb nem hivatkozható olyan körülmény, amelyet a felek a megkötéskor figyelmen kívül hagytak. A 228. § a tilalom tartalmát a felek megállapodásához rögzíti."
+        },
+        {
+          "text": "A munkáltató akkor is fizet, ha a munkavállaló egyébként nincs abban a helyzetben, hogy a gazdasági érdeket sértse vagy veszélyeztesse.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az I.2. pont szerint a tényleges veszélyeztetési képesség hiánya nem mentesíti a munkáltatót. A 228. § (2) a megállapodás szerinti kötelezettség ellenértékét követeli. A két pénzkötelezettség — ellenérték és esetleges kötbér — ettől még elválik."
+        },
+        {
+          "text": "Ha a munkavállaló megkezdi a kötelezettség teljesítését — vagyis nem helyezkedik el a tilalommal érintett körbe —, a munkáltató köteles az ellenértéket teljesíteni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a KMK I.2. pontja a tartózkodás megkezdéséhez köti a munkáltatói fizetési kötelezettséget. A 228. § (2) bekezdése a kötelezettség teljesítéséért írja elő a megfelelő ellenértéket. A teljesítés tehát a tartózkodás, nem a tényleges veszélyeztetési képesség."
+        },
+        {
+          "text": "A munkáltató megtagadhatja a fizetést, ha utólag bebizonyosodik, hogy a munkavállaló piaci helyzete miatt nem tudta volna az érdeket sérteni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a KMK I.2. pontja szerint a teljesített tartózkodás ellenében a fizetési kötelezettség fennáll. A 228. § (2) nem a tényleges sérelem bekövetkezéséhez, hanem a kötelezettség teljesítéséhez köti az ellenértéket. Az utólagos piaci helyzet értékelése nem mentesít."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "d196d7752772"
+    },
+    {
+      "question": "Mi a visszatérítés arányosságának fogalma a tanulmányi szerződésnél a 229. § (6)–(7) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A 229. § (6) szerint a visszatérítési kötelezettség arányos, ha a munkavállaló a szerződésben kikötött tartamnak csak egy részét nem tölti le.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 229. § (6) harmadik mondata az arányos visszatérítést a részben teljesített bentmaradáshoz köti. A munkáltatói elállás mellett ez a mérték a kockázatot az elmaradt tartamhoz igazítja. A teljes visszatérítés tehát nem automatikus minden részleges elmaradásnál."
+        },
+        {
+          "text": "Ha a munkavállaló a bentmaradási tartam felét teljesítette, a munkáltató a 229. § (7) szerinti saját felmondása után is a támogatás felét visszakövetelheti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 229. § (7) utolsó mondata szerint a munkáltató felmondása esetén a támogatás nem követelhető vissza. Az arányos visszakövetelés a munkavállalói felmondáshoz, illetve a 229. § (6) elállásához kapcsolódik. A munkáltatói oldali megszüntetés a támogatási kockázatot a munkáltatón hagyja."
+        },
+        {
+          "text": "Arányos visszatérítés csak a 229. § (7) munkáltatói felmondásánál alkalmazható, az elállásnál soha.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 229. § (6) az elállásnál is ismeri az arányos visszatérítést. A 229. § (7) a munkavállalói felmondásnál teszi lehetővé az arányos visszakövetelést. A munkáltatói felmondásnál viszont a támogatás nem jár vissza."
+        },
+        {
+          "text": "A 229. § (7) szerint a munkáltató a támogatást arányosan követelheti vissza, ha a munkavállaló mond fel, és a kikötött tartamnak csak egy részét töltötte le.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 229. § (7) a munkavállalói azonnali hatályú felmondásnál is megnyitja a visszakövetelést. Ha a tartamnak csak egy része teljesült, a visszakövetelés arányos. Munkáltatói felmondásnál viszont a támogatás nem követelhető vissza."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "a623b892f844"
+    }
+  ]
+}

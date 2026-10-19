@@ -1,0 +1,603 @@
+{
+  "id": "JgtjfmGgSYN3CbS0neug",
+  "sorszam": 17,
+  "cim": "Az azonnali hatályú felmondás feltételei, fajtái.",
+  "generationType": "kerdes",
+  "title": "17. Az azonnali hatályú felmondás feltételei, fajtái.",
+  "questions": [
+    {
+      "question": "A munkáltatónál az azonnali hatályú felmondás jogát a felügyelőbizottság gyakorolja. A kötelezettségszegésről a HR-vezető már tud, a testületet azonban csak tíz nappal később tájékoztatják. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A tudomásszerzés időpontja a testület tájékoztatása: a tizenöt napos szubjektív zár ettől a naptól indul, nem a HR belső értesülésétől.",
+          "isCorrect": true,
+          "rationale": "IGAZ, testületi gyakorlásnál a törvény a tájékoztatáshoz köti a tudomásszerzést. Az Mt. 78. § (2) bekezdése szerint: „A tudomásszerzés időpontjának, ha az azonnali hatályú felmondás jogát testület jogosult gyakorolni, azt kell tekinteni, amikor az azonnali hatályú felmondás okáról a testületet – mint a munkáltatói jogkört gyakorló szervet – tájékoztatják.” A vezető vagy a HR belső tudása önmagában nem indítja a szubjektív zárat. Az egyéves objektív plafon ettől még az ok bekövetkeztéhez igazodik."
+        },
+        {
+          "text": "A HR-vezető tíz nappal korábbi értesülése a szubjektív zár kezdőnapját nem tolja el: a tizenöt nap a felügyelőbizottság tájékoztatásától számít.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tényállás a testületi tájékoztatáshoz köti a kezdőnapot. Az Mt. 78. § (2) bekezdése szerint testületi gyakorlásnál a tudomásszerzés a testület tájékoztatása. A HR tíz napos késése a tájékoztatáshoz képest önmagában nem indítja és nem zárja le a szubjektív zárat. A gyakorlást a tájékoztatástól számított tizenöt napon belül kell mérni."
+        },
+        {
+          "text": "Mivel a HR-vezető már tudott, a tizenöt napos zár a HR értesülésének napján elindult, a testület későbbi tájékoztatása irreleváns.",
+          "isCorrect": false,
+          "rationale": "HAMIS, testületi gyakorlásnál nem a belső szerv értesülése a mérce. A helyes: az Mt. 78. § (2) bekezdése a munkáltatói jogkört gyakorló testület tájékoztatásához köti a tudomásszerzést. A HR vagy a vezető tisztségviselő tudása e címen nem indítja a szubjektív zárat. A tévedés a belső értesülés és a testületi tájékoztatás felcseréléséből ered."
+        },
+        {
+          "text": "Testületi gyakorlásnál a szubjektív zár harminc napra nyílik, mert a tájékoztatás mindig késleltetett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törvény a tizenöt napot nem hosszabbítja meg testületnél. A helyes: az Mt. 78. § (2) bekezdése a szubjektív zárat továbbra is tizenöt napban tartja, csak a tudomásszerzés kezdőnapját igazítja a testület tájékoztatásához. A tévedés a kezdőnap és a tartam összecsúsztatásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "dc1e68ffce3a"
+    },
+    {
+      "question": "A munkavállaló egyszer, enyhe gondatlansággal elkésett öt percet egy rutinértekezletről; a mulasztás a működést nem érintette. A munkáltató azonnali hatályú felmondást kíván közölni. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A bagatell késedelem önmagában a b) pont szerinti, a viszonyt lehetetlenné tevő magatartássá sem minősül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a b) pont objektív ellehetetlenülést kíván, nem bagatell mulasztást. Az Mt. 78. § (1) bekezdés b) pontja olyan egyéb magatartást fogad el, amely a munkaviszony fenntartását lehetetlenné teszi. Az egyszeri, működésre hatástalan késedelem nem éri el ezt a mércét. Az „egyébként” az a) ponton kívüli, de a fenntartást felszámoló magatartásra utal."
+        },
+        {
+          "text": "Az azonnali hatályú felmondás a 65–69. § szerinti felmondás egyik alfaja, ezért az enyhe késedelem is elég indok.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az azonnali hatály nem a felmondás alfaja. A helyes: a 78. § minősített, okozati alakzat, felmondási idő nélkül; a 65–69. § szerinti felmondástól elválik. Az enyhe késedelem a 78. § (1) bekezdését nem nyitja. A tévedés a két megszüntetési család összecsúsztatásából ered."
+        },
+        {
+          "text": "Az enyhe gondatlanság és a jelentéktelen eltérés a 78. § (1) bekezdés a) pontját nem nyitja meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az a) pont három ismérve konjunktív. Az Mt. 78. § (1) bekezdés a) pontja lényeges kötelezettséget, szándékos vagy súlyos gondatlan magatartást és jelentős mértékű megszegést kíván együtt. Az enyhe gondatlanság, a lényegtelen kötelezettség vagy a jelentéktelen eltérés e fordulatot nem nyitja. Bármelyik ismérv hiánya az a) pontot zárja."
+        },
+        {
+          "text": "Elegendő bármely gondatlanság, ha a kötelezettség a munkaviszonyból származik; a mérték és a súlyos gondatlanság nem konjunktív.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a három ismérv nem vagylagos, hanem együttesen vizsgálandó. A helyes: az Mt. 78. § (1) bekezdés a) pontja a lényeges kötelezettséget, a szándékos vagy súlyos gondatlan felróhatóságot és a jelentős mértéket együtt kívánja. Az egyszerű gondatlanság önmagában kevés a fordulat megnyitásához. A tévedés a konjunktív mérce fellazításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "c6ab68b5e379"
+    },
+    {
+      "question": "A munkavállaló jogszerű 78. § szerinti azonnali hatályú felmondása után a munkáltató a 79. § (2) bekezdése szerinti távolléti díjat fizetné a 70. § (3) bekezdése és a 77. § helyett. Állja-e meg a helyét?",
+      "options": [
+        {
+          "text": "A végkielégítés elvonása nem következik abból, hogy azonnali hatálynál felmondási idő nincs; a 77. § a (3) bekezdésen keresztül megfelelően nyílik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felmondási idő hiánya nem nyeli el a végkielégítést. Az Mt. 78. § (3) bekezdése a 77. §-t is megfelelően alkalmazni rendeli. A 70. § (1)–(2) bekezdésének felmentési szerkezete azonnali hatálynál nem alkalmazandó, a 77. § azonban ettől még megnyílhat. A téves csere a 79. § (2) bekezdésére e címen nem érvényes."
+        },
+        {
+          "text": "Nem: a 78. § (3) bekezdése a 70. § (3) bekezdését és a 77. §-t rendeli megfelelően; a 79. § (2) bekezdése más család díjrendje.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két szakasz díjazási fordulata elválik. Az Mt. 78. § (3) bekezdése szerint: „A munkavállaló azonnali hatályú felmondása esetén a munkáltató köteles a 70. § (3) bekezdésében és a 77. §-ban foglaltakat megfelelően alkalmazni.” A 70. § (3) bekezdése a felmentési tartamra járó távolléti díjat, a 77. § a végkielégítést hozza. A 79. § (2) bekezdése a határozott idő indokolás nélküli megtörésének ára, nem e fordulat pótléka."
+        },
+        {
+          "text": "A 79. § (2) bekezdése a 78. § (3) bekezdésének általános pótléka, ezért a tizenkét havi távolléti díj a végkielégítés helyett jár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 79. § (2) bekezdése nem a 78. § (3) bekezdésének pótléka. A helyes: az Mt. 78. § (3) bekezdése a 70. § (3) bekezdését és a 77. §-t rendeli; a 79. § (2) bekezdése a b) pont szerinti munkáltatói intézkedéshez kötött. A tévedés a két család díjrendjének felcseréléséből ered."
+        },
+        {
+          "text": "A munkavállaló 78. §-a esetén a 70. § (1)–(2) bekezdése szerinti felmondási idő és két részletben történő felmentés is jár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az azonnali hatály felmondási időt nem nyit. A helyes: az Mt. 78. § (3) bekezdése csak a 70. § (3) bekezdését rendeli megfelelően; az (1)–(2) bekezdés felmentési szerkezete kiiktatódik. A tévedés a felmondás felmentési rendjének az azonnali hatályra írásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "34e2d206562e"
+    },
+    {
+      "question": "Határozott idejű viszonyban a próbaidő már lejárt. A munkavállaló indokolás nélkül, azonnali hatállyal kívánja megszüntetni a viszonyt a 79. § alapján. Megteheti-e?",
+      "options": [
+        {
+          "text": "A munkavállaló e helyzetben a 78. § okozati alakzatával élhet, ha a törvényi ok fennáll; a 79. § b) pontja nem nyit kétoldalú indokolás nélküli jogot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két család elválik. Az Mt. 78. § (1) bekezdése mindkét félnek adja az okozati azonnali hatályt a törvényi ok teljesülésekor. A 79. § (1) bekezdés b) pontja indokolás nélküli, de csak munkáltatói. A próbaidő lejárta után a 79. § (1) bekezdés a) pontja sem nyílik tovább."
+        },
+        {
+          "text": "Nem: a 79. § (1) bekezdés b) pontja a határozott idejű viszony indokolás nélküli azonnali bontását csak a munkáltatónak engedi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a b) pont alanya zárt. Az Mt. 79. § (1) bekezdés b) pontja szerint: „a munkáltató a határozott idejű munkaviszonyt” szüntetheti meg azonnali hatályú felmondással, indokolás nélkül. A munkavállaló e címen nem élhet vele. A próbaidős a) pont kétoldalúsága a lejárat után ide nem írható át. A (2) bekezdés díja is csak a munkáltatói b) ponthoz kapcsolódik."
+        },
+        {
+          "text": "A próbaidő lejárta után a 79. § (1) bekezdés a) pontja a határozott idejű viszonyban továbbra is nyitva marad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az a) pont a próbaidő alatt él. A helyes: az Mt. 79. § (1) bekezdés a) pontja szerint a fél a munkaviszonyt a próbaidő alatt szüntetheti meg indokolás nélkül. A lejárat után ez a fordulat nem marad nyitva a határozott idejű viszonyban. A tévedés a próbaidős jog tartósításából ered."
+        },
+        {
+          "text": "A 79. § (1) bekezdés b) pontja mindkét felet jogosítja; csak a díjfizetés terheli a munkáltatót.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a b) pont nem kétoldalú. A helyes: az Mt. 79. § (1) bekezdés b) pontja csak a munkáltatót nevezi meg jogosultként. A (2) bekezdés a munkavállaló távolléti díjigényét ehhez a munkáltatói intézkedéshez köti, nem ad önálló megszüntetési jogot. A tévedés a próbaidős a) pont alanyi körének a b) pontra tágításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "b4de889dcd3f"
+    },
+    {
+      "question": "A munkavállaló a 65. § (3) bekezdése szerinti abszolút felmondási tilalom alatt áll. A munkáltató a másik fél magatartásával okozati összefüggésben bekövetkezett lehetetlenülésre hivatkozva azonnali hatályú felmondást tervez. Mely esetben nem alkalmazható a tilalom záró hatása?",
+      "options": [
+        {
+          "text": "A 17/2014. (V. 30.) AB határozat szerint a tilalom nem gátolja a minősített kötelezettségszegésen vagy a magatartással okozati összefüggésben bekövetkezett lehetetlenülésen nyugvó azonnali hatályú felmondást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 17/2014. (V. 30.) AB határozat a tilalmat a felmondáshoz köti, nem minden egyoldalú bontáshoz. A határozat a 65. § (3) bekezdése szerinti abszolút védelmet a magatartásra, a képességre vagy a működésre alapított felmondásra érti. A 78. § szerinti azonnali hatály — ideértve a b) pont szerinti lehetetlenülést — nyitva marad. A tilalom tehát nem zárja el a minősített azonnali hatályt."
+        },
+        {
+          "text": "A tilalom abszolút, ezért a 78. § (1) bekezdés b) pontja szerinti azonnali hatály is csak a tilalmi tartam lejárta után közölhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az abszolút jelző a felmondásra szól, nem a 78. § szerinti azonnali hatályra. A helyes: a 17/2014. (V. 30.) AB határozat a 65. § (3) bekezdését a felmondáshoz köti, és a lehetetlenülésen nyugvó azonnali hatályt sem gátolja. A b) pont szerinti magatartás tehát a tilalmi tartamban is alapot adhat. A tévedés a tilalomnak minden egyoldalú bontásra való kiterjesztéséből ered."
+        },
+        {
+          "text": "Lehetetlenülés címén a munkáltató csak felmondással élhet; azonnali hatály a tilalmi tartamban fogalmilag kizárt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 78. § (1) bekezdés b) pontja éppen az azonnali hatályt nyitja. A helyes: a fenntartást lehetetlenné tevő magatartás a 78. § szerinti azonnali hatály egyik törvényi oka, és a 65. § (3) bekezdése ezt az AB szerint nem gátolja. A tévedés a lehetetlenülés és a felmondás összekötéséből ered."
+        },
+        {
+          "text": "Ugyanez a határozat a próbaidő alatti és a határozott idejű viszony munkáltatói, indokolás nélküli azonnali megszüntetését sem gátolja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 17/2014. (V. 30.) AB határozat a 79. § mindkét fajtáját is kiveszi a tilalom alól. A határozat szerint a tilalom nem gátolja a próbaidő alatti, indokolás nélküli megszüntetést, sem a határozott idejű viszonynak a munkáltató általi, azonnali hatályú, indokolás nélküli megszüntetését. A 65. § (4) bekezdése a védelem irányadó időpontját a felmondás közléséhez köti. Ez az azonnali alakzatok kivételét nem vonja vissza."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "afa7248b2e0f"
+    },
+    {
+      "question": "A kollektív szerződés a 78. § (1) bekezdés b) pontját a munkáltató javára tágítaná. A felek megállapodása ugyanezt tenné a 85. § (1) bekezdésére hivatkozva. Mi a helyes?",
+      "options": [
+        {
+          "text": "A 85. § (2) bekezdés e) pontja szerint kollektív szerződés a 78. §-tól csak a munkavállaló javára térhet el; a b) pont munkáltató javára tágítása nem érvényes.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a relatív kógens zár az in peius irányt elvágja. Az Mt. 85. § (2) bekezdés e) pontja a 78. §-ban foglaltaktól csak a munkavállaló javára enged eltérést. A b) pont munkáltató javára tágítása, a zárak munkavállaló terhére rövidítése vagy a (3) bekezdés elvonása nem érvényes."
+        },
+        {
+          "text": "A kollektív szerződés a 78. § (1) bekezdés b) pontját a munkáltató javára tágíthatja, mert a 85. § (2) bekezdés e) pontja csak a gyakorlási határidőkre vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a relatív kógens tárgyi kör nem szűkül a határidőkre. A helyes: az Mt. 85. § (2) bekezdés e) pontja a 78. §-ban foglaltakra szól — a mércére, a (2) bekezdés zárjaira és a (3) bekezdésre egyaránt. A b) pont munkáltató javára tágítása ezért nem érvényes. A tévedés a tárgyi kör leszűkítéséből ered."
+        },
+        {
+          "text": "A 85. § (1) bekezdése a 78. §-tól minden eltérést abszolút módon elzár a felek és a kollektív szerződés elől.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 78. § nem az (1) bekezdés abszolút magjában van. A helyes: az Mt. 85. § (1) bekezdése a 63. § (1) bekezdését, a 64. §-t és a 82. § (1) bekezdését zárja; a 78. § a (2) bekezdés e) pontjában szerepel. A tévedés a bekezdés-szintek felcseréléséből ered."
+        },
+        {
+          "text": "A 85. § (1) bekezdése a 78. §-t nem zárja abszolút kógens magba; az abszolút zár a 63. § (1) bekezdésére, a 64. §-ra és a 82. § (1) bekezdésére szól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a bekezdés-szintek elválnak. Az Mt. 85. § (1) bekezdése a 63. § (1) bekezdését, a 64. §-t és a 82. § (1) bekezdését zárja abszolút módon. A 78. § ettől elválik: a (2) bekezdés e) pontjában, munkavállaló javára nyitottan szerepel. A felek megállapodása tehát nem hivatkozhat az (1) bekezdésre a 78. § abszolút záraként."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "8435a91b9d26"
+    },
+    {
+      "question": "A nyugdíjasnak nem minősülő munkavállaló a rá irányadó öregségi nyugdíjkorhatár betöltését megelőző öt éven belül áll. A munkáltató a magatartására alapított felmondást tervez. Miben tér ez el a 78. § szerinti azonnali hatályú felmondástól?",
+      "options": [
+        {
+          "text": "A 66. § (4) bekezdése nem azonnali hatályú felmondás: a közlés felmondási idő nélkül a viszonyt e címen nem számolja fel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 66. § (4) bekezdése a felmondás jogcímét tartja meg, nem azonnali hatállyá alakít. A szakasz a határozatlan tartamú viszony felmondását rendezi a védett korban; a közlés nem azonnali hatály. A 78. § (1) bekezdése szerinti ok átvétele csak az indok mércéjét emeli. A felmondási idő tehát megnyílik."
+        },
+        {
+          "text": "Védett korban a 78. § (1) bekezdésének okai a munkáltató elől teljesen elzárva vannak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, éppen ellenkezőleg: a magatartási felmondás csak e mércével nyílik. A helyes: az Mt. 66. § (4) bekezdése a 78. § (1) bekezdésében meghatározott okot kívánja a felmondáshoz; az azonnali hatályú felmondás a 78. § saját rendje szerint külön gyakorolható. A tévedés a védelemnek teljes elzárássá tágításából ered."
+        },
+        {
+          "text": "A 66. § (4) bekezdése a magatartási felmondás indokát a 78. § (1) bekezdésének mércéjére emeli, de a jogcím továbbra is felmondás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a védett kor a felmondás indokát szigorítja, nem alakítja át azonnali hatállyá. Az Mt. 66. § (4) bekezdése szerint e körben a munkáltató a magatartásra alapított felmondással csak a 78. § (1) bekezdésében meghatározott okból szüntetheti meg a viszonyt. A felmondási idő ettől még jár. A 78. § szerinti azonnali hatály ettől a szabálytól elválik."
+        },
+        {
+          "text": "A védett korban a magatartási felmondás automatikusan 78. § szerinti azonnali hatállyá alakul, felmondási idő nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jogcím felmondás marad, nem alakul át azonnali hatállyá. A helyes: az Mt. 66. § (4) bekezdése a 78. § (1) bekezdésének okát a felmondás indokához emeli; az azonnali hatály külön jognyilatkozat. A felmondási idő ettől még jár. A tévedés az indokmérce és a joghatás felcseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "1edb91ad43c2"
+    },
+    {
+      "question": "A munkavállaló munkaviszonyon kívüli magatartása a bizalmat végleg felszámolja, a további együttműködés a munkáltatótól már nem várható el; munkaviszonyból származó kötelezettség megszegése nem állapítható meg. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A b) ponthoz is konjunktívan kell a súlyos gondatlanság és a jelentős mérték, különben a jognyilatkozat érvénytelen.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a súlyos gondatlanság és a jelentős mérték az a) pont ismérvei, nem a b) pontéi. A helyes: az Mt. 78. § (1) bekezdés a) pontja kívánja a szándékos vagy súlyos gondatlan, jelentős mértékű megszegést; a b) pont a fenntartás ellehetetlenülését méri. A két fordulat mércéje tehát nem azonos. A tévedés az a) pont ismérveinek a b) pontra másolásából ered."
+        },
+        {
+          "text": "Munkaviszonyon kívüli magatartás soha nem alapozhat azonnali hatályú felmondást, mert a 78. § csak kötelezettségszegést ismer.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a b) pont éppen az a) ponton kívüli magatartást fogadja el. A helyes: az Mt. 78. § (1) bekezdés b) pontja a viszonyt lehetetlenné tevő egyéb magatartást rendezi; nem kell, hogy munkaviszonyból származó kötelezettség szegése legyen. A tévedés az a) pont monopóliumának feltételezéséből ered."
+        },
+        {
+          "text": "A 78. § (1) bekezdés b) pontja nyílhat, mert a fenntartás objektív ellehetetlenülése a mérce, nem a minősített kötelezettségszegés.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a b) pont elválik az a) ponttól. Az Mt. 78. § (1) bekezdés b) pontja olyan egyéb magatartást fogad el, amely a munkaviszony fenntartását lehetetlenné teszi. Az „egyébként” az a) ponton kívüli magatartásra utal: nem kell munkaviszonyból származó kötelezettség szegése. Tipikusan ide esik a bizalmat végleg felszámoló, munkaviszonyon kívüli magatartás."
+        },
+        {
+          "text": "Az a) pont három ismérvének hiánya önmagában nem zárja a b) pontot, ha a fenntartás ellehetetlenül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két fordulat nem azonos mércéjű. Az a) pont lényeges kötelezettséget, szándékos vagy súlyos gondatlan magatartást és jelentős mértéket kíván konjunktívan. A b) pontnál a fenntartás objektív ellehetetlenülése a mérce. A 67/2009. (VI. 19.) AB határozat a régi törvény ugyanezen kettős szerkezetét kógensnek olvasta; a hatályos (1) bekezdés e dualitást őrzi."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "baacff32409d"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható a 79. § (2) bekezdése szerinti távolléti díj?",
+      "options": [
+        {
+          "text": "Ha a határozott időből hátralévő idő egy év vagy hosszabb, a díj helyett mindig a 77. § szerinti végkielégítés jár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés ilyenkor tizenkét havi távolléti díjat ad. A helyes: az Mt. 79. § (2) bekezdése szerint egy év vagy hosszabb hátralévő időnél tizenkét havi távolléti díj jár; ez nem a 77. § végkielégítése. A tévedés a díj és a végkielégítés felcseréléséből ered."
+        },
+        {
+          "text": "A díj a 78. § (3) bekezdése szerinti végkielégítés helyettesítője, ezért próbaidő alatt is jár, ha a munkáltató szüntet meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 79. § (2) bekezdése nem a 78. § (3) bekezdésének helyettesítője. A helyes: ez a határozott idő ok nélküli megtörésének ára, nem végkielégítés és nem a 78. § (3) bekezdésének analógiája; próbaidőhöz nem kapcsolódik. A két szakasz díjazási fordulata tehát elválik. A tévedés a két szakasz díjazási fordulatának összecsúsztatásából ered."
+        },
+        {
+          "text": "Ha a munkavállaló él a 79. § (1) bekezdés a) pontja szerinti joggal, a munkáltató sem köteles a (2) bekezdés szerinti díjat fizetni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés alanya és jogcíme zárt. Az Mt. 79. § (2) bekezdése a munkáltató b) pont szerinti intézkedéséhez kapcsolja a munkavállaló díjigényét. A munkavállaló próbaidő alatti azonnali hatálya e díjat nem nyitja. A 78. § (3) bekezdése más jogcím: a minősített, okozati azonnali hatály díjazási-végkielégítési fordulata."
+        },
+        {
+          "text": "A próbaidő alatti, indokolás nélküli azonnali hatályú felmondásnál, mert a (2) bekezdés csak az (1) bekezdés b) pontjához kapcsolódik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a díj a határozott idejű viszony ok nélküli megtörésének ára, nem általános pótlék. Az Mt. 79. § (2) bekezdése az (1) bekezdés b) pontja szerinti megszüntetéshez fűz tizenkét havi vagy a hátralévő időre járó távolléti díjat. A próbaidős a) ponthoz díjat nem fűz. A 78. § (3) bekezdésének díjazási-végkielégítési fordulata sem pótolja a próbaidős esetet."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "3981e53ec270"
+    },
+    {
+      "question": "Határozott idejű viszonyban a munkáltató a 79. § (1) bekezdés b) pontja szerint azonnali hatállyal, indokolás nélkül szüntet meg; a hátralévő idő nyolc hónap. Mi a jogkövetkezménye a díjazásnak?",
+      "options": [
+        {
+          "text": "A munkavállaló a hátralévő nyolc hónapra járó távolléti díjra jogosult, mert az egy évnél rövidebb.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rövidebb hátralévő idő a plafont leszállítja. Az Mt. 79. § (2) bekezdése szerint a munkavállaló jogosult tizenkét havi, vagy ha a határozott időből hátralévő idő egy évnél rövidebb, a hátralévő időre járó távolléti díjára. Nyolc hónapnál a hátralévő időre járó összeg az irányadó. A díj a megszüntetés ára, nem kártérítés."
+        },
+        {
+          "text": "Nyolc hónap hátralévő időnél is tizenkét havi távolléti díj jár, mert a törvényi minimum egy év.",
+          "isCorrect": false,
+          "rationale": "HAMIS, egy évnél rövidebb hátralévő időnél a hátralévő idő az irányadó. A helyes: az Mt. 79. § (2) bekezdése a tizenkét havi összeget csak akkor adja, ha a hátralévő idő nem rövidebb egy évnél; nyolc hónapnál a hátralévő időre járó díj jár. A tévedés a plafon alsó minimummá fordításából ered."
+        },
+        {
+          "text": "A díjfizetés nélkül a b) pont szerinti megszüntetés nem teljes: a távolléti díj a jogintézmény része.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a távolléti díj a b) pont szerinti megszüntetés része, nem opcionális toldalék. A határozott idejű viszonynak a munkáltató általi, indokolás nélküli azonnali hatályú felmondása a (2) bekezdés szerinti távolléti díj nélkül nem teljes. A 73. § (5) bekezdése ezt az intézkedést működési okú megszüntetésnek minősíti a csoportos létszámcsökkentés számításánál. A 78. § (3) bekezdése ezt a díjat nem helyettesíti."
+        },
+        {
+          "text": "A díj helyett a munkavállaló a 78. § (3) bekezdése szerint végkielégítést és a 70. § (3) bekezdése szerinti díjat követelheti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 78. § (3) bekezdése a munkavállaló okozati azonnali hatályához kapcsolódik. A helyes: az Mt. 79. § (2) bekezdése saját díjrendet ad a b) pont szerinti munkáltatói intézkedéshez; a 78. § (3) bekezdése itt nem alkalmazandó. A tévedés a két szakasz jogkövetkezményének felcseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "802b8034642c"
+    },
+    {
+      "question": "Csoportos létszámcsökkentés számításánál a munkáltató 79. § (1) bekezdés b) pontja szerinti intézkedéssel és indokolás nélküli felmondással is csökkent. Hogyan kell ezeket kezelni?",
+      "options": [
+        {
+          "text": "Az indokolás nélküli felmondás — ellenkező bizonyításig — ugyancsak működési okú megszüntetésnek minősül a számításnál; a 79. § (2) bekezdése szerinti díjrend ettől nem cserélődik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a forrás a felmondásra is ad vélelmet, a díjat azonban nem cseréli. Az Mt. 73. § (5) bekezdése az indokolás nélküli felmondást — ellenkező bizonyításig — ugyancsak működési okúvá minősíti. A 79. § (2) bekezdése szerinti távolléti díj ettől még a b) pont ára marad, nem a 77. § végkielégítése."
+        },
+        {
+          "text": "A 79. § (1) bekezdés b) pontja szerinti intézkedés a 73. § (5) bekezdése szerint a munkáltató működésével összefüggő okra alapított megszüntetésnek minősül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a törvény az intézkedést a működési okú körbe sorolja. Az Mt. 73. § (5) bekezdése a 79. § (1) bekezdés b) pontja szerinti munkáltatói intézkedést a munkáltató működésével összefüggő okra alapított megszüntetésnek minősíti a csoportos létszámcsökkentés számításánál. A minősítés a beleszámítást szolgálja, nem a díjrendet cseréli. A próbaidős a) pont és a 78. § okozati azonnali hatálya ettől elválik."
+        },
+        {
+          "text": "A próbaidő alatti, 79. § (1) bekezdés a) pontja szerinti azonnali hatály ugyanígy beleszámít a 73. § (5) bekezdése alapján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a próbaidős a) pont nem esik e minősítő fordulat alá. A helyes: az Mt. 73. § (5) bekezdése a 79. § (1) bekezdés b) pontja szerinti intézkedést nevezi meg; az a) pont szerinti próbaidős azonnali hatály ide nem tartozik. A tévedés a két alpont felcseréléséből ered."
+        },
+        {
+          "text": "A 78. § szerinti okozati azonnali hatály is automatikusan működési okúvá minősül a 73. § (5) bekezdése szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 73. § (5) bekezdése nem a 78. §-ra szól. A helyes: az Mt. 73. § (5) bekezdése a 79. § (1) bekezdés b) pontja szerinti intézkedést és — ellenkező bizonyításig — az indokolás nélküli felmondást minősíti; a 78. § okozati azonnali hatálya ide nem esik. A tévedés a két család összecsúsztatásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "866dcd694009"
+    },
+    {
+      "question": "A munkavállaló 78. § szerinti azonnali hatályú felmondása után negyven nappal a (3) bekezdés szerinti távolléti díjat és végkielégítést pereli. A munkáltató a 287. § (1) bekezdés b) pontjának harminc napos zárjára hivatkozik. Mi a helyes?",
+      "options": [
+        {
+          "text": "A 78. § (2) bekezdésének tizenöt napos gyakorlási zárja egyben a keresetindítás határideje is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a gyakorlási zár nem keresetindítási határidő. A helyes: az Mt. 78. § (2) bekezdése az azonnali hatály gyakorlását köti; a keresetindítást a 287. § rendezi. A tévedés a gyakorlási és a keresetindítási zár felcseréléséből ered."
+        },
+        {
+          "text": "A 287. § (2) bekezdés b) pontja az igényt az elévülési időn belül engedi; a harmincnapos zár ide nem terjed.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkavállaló 78. §-ához kapcsolódó igény külön keresetindítási rendet kap. Az Mt. 287. § (2) bekezdés b) pontja a munkavállaló 78. § szerinti azonnali hatályú felmondásával kapcsolatos igényt az elévülési időn belül engedi érvényesíteni. A 78. § (3) bekezdése szerinti távolléti díj és végkielégítés nem a harmincnapos zár alá esik. Az (1) bekezdés b) pontja a munkáltatói jognyilatkozat jogellenességére szól."
+        },
+        {
+          "text": "A (3) bekezdés szerinti igény a munkáltatói jognyilatkozat közlésétől számított harminc napon belül elvész.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a harmincnapos zár nem nyeli el az igényt. A helyes: az Mt. 287. § (2) bekezdés b) pontja az elévülési időn belül engedi a munkavállaló 78. §-ával kapcsolatos igényt. Az (1) bekezdés b) pontja a munkáltatói jognyilatkozat jogellenességére szól. A tévedés a két bekezdés hatáskörének összecseréléséből ered."
+        },
+        {
+          "text": "A 286. § (1) bekezdése a munkajogi igény főszabály szerinti elévülését három évben állapítja meg; maga a 78. § jogcím nem teszi automatikusan ötévessé.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a főszabály hároméves elévülés. Az Mt. 286. § (1) bekezdése a munkajogi igényt három év alatt évül el. A (2) bekezdés az öt évet, illetve a hosszabb büntethetőségi időt a bűncselekménnyel okozott kárnál és sérelemdíjnál adja. Maga a 78. § szerinti jogcím nem teszi automatikusan bűncselekményivé az igényt."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "153f83ea6c8f"
+    },
+    {
+      "question": "Mely állítások tévesek a 78. § (1) bekezdés a) pontjának megnyílásáról?",
+      "options": [
+        {
+          "text": "A lényegtelen kötelezettség jelentős megszegése is megnyitja az a) pontot, ha a magatartás szándékos.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a lényegtelen kötelezettség megszegése nem elég. Az Mt. 78. § (1) bekezdés a) pontja a megszegett kötelezettség lényegességét is konjunktívan kívánja. A lényegtelen kötelezettség megszegése e fordulatot nem nyitja, a szándékosság ellenére sem. A bagatell mulasztás a b) pontot sem pótolja automatikusan."
+        },
+        {
+          "text": "Az a) pont csak akkor nyílik, ha a kötelezettség lényeges, a magatartás szándékos vagy súlyosan gondatlan, és a megszegés jelentős mértékű — e három ismérv együtt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a három ismérv együttese forráshű, ezért nem téves állítás. Az Mt. 78. § (1) bekezdés a) pontja a lényeges kötelezettséget, a szándékos vagy súlyos gondatlan magatartást és a jelentős mértéket konjunktívan kívánja. Bármelyik ismérv hiánya az a) pontot zárja. A „tévesek” kérdésnél ez a válasz tehát nem jelölhető."
+        },
+        {
+          "text": "A jelentéktelen eltérés önmagában nem pótolja a „jelentős mérték” ismérvét, még lényeges kötelezettség mellett sem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jelentéktelen eltérés tilalma forráshű, ezért nem téves állítás. Az Mt. 78. § (1) bekezdés a) pontja a megszegés jelentős mértékét is kívánja. A jelentéktelen eltérés e fordulatot nem nyitja, még lényeges kötelezettség mellett sem. A lényegesség és a mérték két külön konjunktív elem."
+        },
+        {
+          "text": "Elegendő az enyhe gondatlanság, ha a kötelezettség a munkaviszonyból származik és lényeges.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az enyhe gondatlanság nem nyitja a fordulatot. Az Mt. 78. § (1) bekezdés a) pontja szerint a másik fél a kötelezettségét „szándékosan vagy súlyos gondatlansággal” jelentős mértékben szegi meg. Az enyhe gondatlanság e fordulatot nem nyitja. A lényeges kötelezettség önmagában kevés a felróhatóság alsó foka nélkül."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "86488028785f"
+    },
+    {
+      "question": "A munkavállaló kötelezettségszegése bűncselekmény. Az ok tizenhat hónapja következett be; a munkáltató tegnap szerzett róla tudomást, és a büntethetőség még nem évült el. Gyakorolható-e még a 78. §?",
+      "options": [
+        {
+          "text": "Bűncselekménynél a szubjektív tizenöt nap is elenyészik, ezért a jog az elévülésig bármikor, tudomásszerzéshez igazodás nélkül gyakorolható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szubjektív zár bűncselekménynél is megmarad. A helyes: az Mt. 78. § (2) bekezdése szerint a büntethetőség elévülése az egyéves objektív zárat írja felül, a tudomásszerzéstől számított tizenöt napot nem. A tévedés a két zár együttes elengedéséből ered."
+        },
+        {
+          "text": "Az egyéves objektív zár lejárta után bűncselekménynél sem gyakorolható a jog, még a büntethetőség elévülése előtt sem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bűncselekményi fordulat éppen az egyéves objektív zárat írja felül. A helyes: az Mt. 78. § (2) bekezdése a büntethetőség elévüléséig engedi a gyakorlást. A tévedés az egyéves plafon bűncselekménynél is abszolút olvasatából ered."
+        },
+        {
+          "text": "A tizenöt napos szubjektív zár bűncselekménynél is megmarad; a tegnapi tudomásszerzés indítja, nem az ok tizenhat hónapos bekövetkezte.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a bűncselekményi kivétel a szubjektív zárat nem törli. Az Mt. 78. § (2) bekezdése a tudomásszerzéstől számított tizenöt napot továbbra is köti. Az objektív oldal hosszabbodása a szubjektív zár tartamát nem emeli, és nem is engedi el. A jogosultat tehát a tegnaptól számított tizenöt nap köti."
+        },
+        {
+          "text": "Igen, ha a tegnapi tudomásszerzéstől számított tizenöt napon belül gyakorolják: a bűncselekményi fordulat az egyéves objektív zárat a büntethetőség elévüléséig nyitja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az objektív plafon a büntethetőség elévüléséig tolódik. Az Mt. 78. § (2) bekezdése szerint a jogot „bűncselekmény elkövetése esetén a büntethetőség elévüléséig” lehet gyakorolni. A tizenhat hónapos bekövetkezés tehát önmagában nem zár, ha a büntethetőség még él. A szubjektív tizenöt nap a tegnapi tudomásszerzéstől fut."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "672e4e5e97a4"
+    },
+    {
+      "question": "A munkáltató „78. §” megjelöléssel közöl azonnali hatályú felmondást, de a jognyilatkozatból sem az a), sem a b) pont szerinti törvényi ok nem tűnik ki. Mi következik?",
+      "options": [
+        {
+          "text": "Az ok hiánya nem alakítja a jognyilatkozatot 79. § szerinti indokolás nélküli azonnali hatállyá; a két család nem cserélhető átminősítéssel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a következmény a 82. §, nem a 79. § címkéje. A 78. § okozati alakzat; az ok hiánya jogellenességet nyit, nem minősíti át a közlést 79. §-sá. A 79. § csak a törvényben megjelölt két esetben él. Az átminősítés tehát tilos."
+        },
+        {
+          "text": "Az ok utólagos, perbeli pótlása automatikusan orvosolja a közlés tartalmi hiányát, és kizárja a 82. §-t.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közléskor ki nem tűnő ok nem orvosolható automatikus pótlással e címen. A helyes: ha a 78. § szerinti jognyilatkozatból a törvényi ok nem tűnik ki, a 82. § szerinti jogellenesség nyílik. A tévedés az utólagos pótlásnak a közlés hiányát megszüntető olvasatából ered."
+        },
+        {
+          "text": "A 78. § okozati alakzat: ha a törvényi ok nem tűnik ki, a 82. § szerinti jogellenesség nyílik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 78. § okozati volta miatt az oknak ki kell tűnnie. A 79. § az indokolás nélküli alakzatot kifejezetten így nevezi; a 78. § ettől elválik. Ha a törvényi ok nem tűnik ki a jognyilatkozatból, a 82. § szerinti jogellenesség nyílik meg. A közlés tartalmi hiányossága tehát szankciót vonhat."
+        },
+        {
+          "text": "A 78. § is indokolás nélküli alakzat, ezért az ok feltüntetése soha nem kötelező.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az indokolás nélküli címke a 79. § próbaidős és határozott idejű munkáltatói alakzatáé. A helyes: a 78. § okozati, ezért a törvényi oknak ki kell tűnnie a jognyilatkozatból. Ha az ok hiányzik, a 82. § szerinti jogellenesség nyílhat meg. A tévedés a két szakasz indokolási rendjének felcseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "d88316a285aa"
+    },
+    {
+      "question": "A munkaidőkeret lejárta előtt a munkáltató a 79. § (1) bekezdése szerint azonnali hatályú felmondással él, illetve a munkavállaló a próbaidő alatt a 79. § (1) bekezdés a) pontja szerint szüntet meg. Mely megállapítások igazak az elszámolásra?",
+      "options": [
+        {
+          "text": "A 95. § elszámolási fordulatai csak a 78. § szerinti okozati azonnali hatályhoz kapcsolódnak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az elszámolási fordulatok nem a 78. §-hoz, hanem a 79. §-hoz kapcsolódnak. A helyes: az Mt. 95. § (2)–(4) bekezdése a 79. § (1) bekezdése szerinti munkáltatói azonnali hatályhoz, illetve a munkavállaló 79. § (1) bekezdés a) pontja szerinti próbaidős azonnali hatályához köt. Az okozati 78. § szerinti azonnali hatály ide nem írható be pótlólag. A tévedés az okozati és az indokolás nélküli alakzat felcseréléséből ered."
+        },
+        {
+          "text": "A 95. § (4) bekezdés b) pontja a beosztás szerinti bérnél magasabb kifizetés visszakövetelését a munkavállaló próbaidő alatti, 79. § (1) bekezdés a) pontja szerinti azonnali hatályához is köti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a visszakövetelés a munkavállaló próbaidős azonnali hatályánál is nyílik. Az Mt. 95. § (4) bekezdés b) pontja a beosztás szerinti bérnél magasabb kifizetés visszakövetelését a munkavállaló 79. § (1) bekezdés a) pontja szerinti azonnali hatályú felmondásához is köti. A 79. § (2) bekezdése szerinti távolléti díj ettől a visszaköveteléstől elválik. A két fordulat párhuzamosan olvasható."
+        },
+        {
+          "text": "Próbaidő alatti munkavállalói azonnali hatálynál a magasabb kifizetés soha nem követelhető vissza.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 95. § (4) bekezdés b) pontja éppen ezt a visszakövetelést köti a próbaidős munkavállalói azonnali hatályhoz. A helyes: a beosztás szerinti bérnél magasabb kifizetés visszakövetelése e jogcímnél is nyílhat. A tévedés a visszakövetelési fordulat elhagyásából ered."
+        },
+        {
+          "text": "A 95. § (2)–(4) bekezdése a munkaidőkeret lejárta előtti elszámolást e munkáltatói azonnali hatályhoz külön fordulattal köti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkaidőkeret lejárta előtti elszámolás a 79. § (1) bekezdése szerinti munkáltatói azonnali hatályhoz kötődik. Az Mt. 95. § (2)–(4) bekezdése ezt a kapcsolatot külön fordulattal rendezi. A keret lejárta előtti bontás tehát nem hagyja érintetlenül az elszámolást. A 78. § szerinti okozati azonnali hatály e fordulat tárgya nem."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "7dd0fe7aa6f3"
+    },
+    {
+      "question": "A munkavállaló a 78. § (1) bekezdése alapján szünteti meg a viszonyt. Mi következik a versenytilalmi megállapodásra?",
+      "options": [
+        {
+          "text": "A versenytilalmi elállás a 78. § (3) bekezdése szerinti végkielégítés feltétele.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két jogkövetkezmény párhuzamos, nem feltétel-viszonyú. A helyes: a 78. § (3) bekezdése a 70. § (3) bekezdését és a 77. §-t rendeli; a 228. § (4) bekezdése a versenytilalomtól enged elállást. Az elállás nem a végkielégítés feltétele. A tévedés a két fordulat összekötéséből ered."
+        },
+        {
+          "text": "A 228. § (4) bekezdése a munkavállalónak elállást enged a versenytilalmi megállapodástól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a versenytilalmi elállás a 78. § (1) bekezdése szerinti megszüntetéshez kapcsolódik. Az Mt. 228. § (4) bekezdése a versenytilalmi megállapodástól a munkavállalónak akkor enged elállást, ha a viszonyt a 78. § (1) bekezdése alapján szünteti meg. A 79. § szerinti indokolás nélküli azonnali hatály ezt az elállási fordulatot nem nyitja. Az elállás a versenytilalom kötöttségét oldja."
+        },
+        {
+          "text": "A 79. § (1) bekezdés b) pontja szerinti munkáltatói azonnali hatály is megnyitja a munkavállaló 228. § (4) bekezdése szerinti elállását.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az elállás nem nyílik meg a 79. § (1) bekezdés b) pontja alapján. A helyes: az Mt. 228. § (4) bekezdése akkor enged elállást, ha a munkavállaló a 78. § (1) bekezdése alapján szüntet meg; a 79. § b) pontja munkáltatói intézkedés, és ezt a fordulatot nem nyitja. A két szakasz tehát nem cserélhető. A tévedés a két szakasz összecsúsztatásából ered."
+        },
+        {
+          "text": "Az elállás feltétele a 78. § (1) bekezdése szerinti jogcím; a próbaidő alatti, indokolás nélküli bontás önmagában nem elegendő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az elállás feltétele a 78. § (1) bekezdése szerinti jogcím megjelölése. Az Mt. 228. § (4) bekezdése a 78. § (1) bekezdése alapján történő megszüntetéshez kapcsolja az elállást. A 79. § (1) bekezdés a) vagy b) pontja ezen a címen nem pótolja a 78. § (1) bekezdését. A két azonnali hatályú család jogkövetkezménye itt is elválik."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "62c60701ff4d"
+    },
+    {
+      "question": "Kollektív szerződés a 78. § (2) bekezdése szerinti tizenöt napos zárat a munkavállaló terhére nyolc napra rövidítené. Érvényes-e az eltérés?",
+      "options": [
+        {
+          "text": "A 85. § (3) bekezdése engedi a tizenöt nap rövidítését, mert a felmondási időnél hosszabb tartamot is megenged.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés a 69. § (1) bekezdésének felmondási idejéről szól. A helyes: az Mt. 85. § (3) bekezdése a kollektív szerződésnek a 69. § (1) bekezdésében foglaltnál hosszabb felmondási időt enged; ez a felmondás, nem az azonnali hatály rendje. A tévedés a (3) bekezdés ráírásából ered."
+        },
+        {
+          "text": "Ugyanez a zár a (3) bekezdés díjazási-végkielégítési fordulatának elvonását is érvényteleníti a munkavállaló terhére.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés e) pontjának tárgyi köre a teljes 78. §. A kollektív szerződés a (3) bekezdés elvonását a munkavállaló terhére nem viheti keresztül. A munkavállaló javára a díjazási-végkielégítési fordulat bővíthető. A 79. § e listán nem szerepel, ezért e zár rá nem terjed."
+        },
+        {
+          "text": "Nem: a 85. § (2) bekezdés e) pontja szerint a 78. §-tól csak a munkavállaló javára lehet eltérni; a terhére történő rövidítés nem érvényes.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a relatív kógens zár az in peius irányt elvágja. Az Mt. 85. § (2) bekezdés e) pontja a 78. §-ban foglaltaktól csak a munkavállaló javára enged eltérést. A tizenöt napos szubjektív zár munkavállaló terhére történő rövidítése nem érvényes. A munkavállaló javára történő hosszabbítás megengedett."
+        },
+        {
+          "text": "A rövidítés érvényes, mert a 79. §-hoz hasonlóan a 78. § is diszpozitív a határidőkben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 78. § gyakorlási határideje nem szabadon rövidíthető a munkavállaló terhére. A helyes: az Mt. 85. § (2) bekezdés e) pontja a 78. §-t a munkavállaló javára nyitott listára emeli; a terhére történő rövidítés nem érvényes. A 79. § ezen a listán nem szerepel, ezért a diszpozitív olvasat rá sem vihető át automatikusan. A tévedés a két szakasz eltérési rendjének összecsúsztatásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "7f67cb3c7675"
+    },
+    {
+      "question": "A 70. § (3) bekezdésének díjazási kivétele hogyan viszonyul a munkavállaló 78. § (3) bekezdése szerinti igényéhez?",
+      "options": [
+        {
+          "text": "A 70. § (3) bekezdésének kivétele azonnali hatálynál soha nem érvényesül, mert felmentés nincs.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megfelelő alkalmazás a kivételt is magával hozza. A helyes: az Mt. 78. § (3) bekezdése a 70. § (3) bekezdését rendeli; ha a munkavállaló munkabérre egyébként nem lenne jogosult, a díj e címen sem jár. A tévedés a tényleges felmentés hiányának a kivétel kiiktatásává fordításából ered."
+        },
+        {
+          "text": "Az azonnali hatálynál tényleges felmentés nincs; a díj tartama mégis a 70. § (1) bekezdése szerinti felmentési tartam analógiájához kötődik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a „megfelelően” az analógiát, nem a szó szerinti félidős szerkezetet adja. Felmondási idő nincs, tényleges felmentés nincs. A 70. § (1)–(2) bekezdése szerinti két részlet nem alkalmazandó. A díj tartama a felmentési tartamé."
+        },
+        {
+          "text": "A 70. § (3) bekezdése a felmentési tartamra járó távolléti díjat adja, kivéve ha a munkavállaló munkabérre egyébként nem lenne jogosult; e kivétel a megfelelő alkalmazásnál is irányadó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés a díjat és a kivételt együtt hozza. Az Mt. 78. § (3) bekezdése a 70. § (3) bekezdését rendeli megfelelően. A 70. § (3) bekezdése a munkavégzés alóli felmentés tartamára járó távolléti díjat adja, kivéve ha a munkavállaló munkabérre egyébként nem lenne jogosult. A kivétel tehát a megfelelő alkalmazásnál is olvasható."
+        },
+        {
+          "text": "A munkavállaló 78. § (3) bekezdése szerinti igénye csak végkielégítés; a 70. § (3) bekezdése szerinti díj soha nem jár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkavállaló igénye nem szűkül a végkielégítésre. A helyes: az Mt. 78. § (3) bekezdése a 70. § (3) bekezdését és a 77. §-t egyaránt megfelelően alkalmazni köti. A távolléti díj és a végkielégítés tehát együtt járhat. A tévedés a díjazási fordulat elhagyásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "1601028bbac6"
+    },
+    {
+      "question": "Mely állítások tévesek a 85. § eltérési rendjének az azonnali hatályú felmondásra gyakorolt hatásáról?",
+      "options": [
+        {
+          "text": "A 85. § (2) bekezdés e) pontja a 78. §-tól csak a munkavállaló javára enged eltérést; a tárgyi kör a teljes 78. §-ra szól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkavállaló javára nyitott eltérés forráshű, ezért nem téves állítás. Az Mt. 85. § (2) bekezdés e) pontja szerint kollektív szerződés a 78. §-tól kizárólag a munkavállaló javára térhet el. A mérce, a gyakorlási határidő és a (3) bekezdés díjazási-végkielégítési fordulata egyaránt e zár alá esik."
+        },
+        {
+          "text": "A 85. § (1) bekezdése a 78. § (2) bekezdésének tizenöt napos zárját abszolút kógenssé teszi a felek megállapodása előtt is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az abszolút zár nem a 78. § (2) bekezdésének tizenöt napos zárját fogja. Az Mt. 85. § (1) bekezdése a 63. § (1) bekezdését, a 64. §-t és a 82. § (1) bekezdését zárja. A 78. § a (2) bekezdés e) pontjában, munkavállaló javára nyitottan szerepel. A tévedés az abszolút és a relatív kógencia-sík felcseréléséből ered."
+        },
+        {
+          "text": "A 85. § (3) bekezdése a 69. § (1) bekezdésének felmondási idejénél hosszabb tartamot enged a kollektív szerződésnek; ez nem az azonnali hatály 78. § (2) bekezdésének rendje.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés felmondási időre szűkítése forráshű, ezért nem téves állítás. Az Mt. 85. § (3) bekezdése a 69. § (1) bekezdésében foglaltnál hosszabb felmondási időt enged a kollektív szerződésnek. Ez a felmondás rendje, nem az azonnali hatály 78. § (2) bekezdésének gyakorlási zárja. A két határidő-típus tehát elválik."
+        },
+        {
+          "text": "A 79. § a 85. § (2) bekezdés e) pontjának listáján van, ezért csak a munkavállaló javára lehet tőle eltérni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 79. § nem került fel a 85. § (2) bekezdésének relatív kógens listájára. Az Mt. 85. § (2) bekezdés e) pontja a 78. §-t említi; a 79. §, a 70. § és a 77. § ezen a listán nem szerepel. A 79. § indokolás nélküli rendje tehát nem e zár alá esik. A tévedés a két azonnali hatályú szakasz kógencia-rendjének összecsúsztatásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "43f28abbc525"
+    },
+    {
+      "question": "A munkáltató a 78. § (1) bekezdése szerint azonnali hatályú felmondást közöl. A munkavállaló a 78. § (3) bekezdése szerinti végkielégítést és a 70. § (3) bekezdése szerinti díjat követel. Alapos-e az igény?",
+      "options": [
+        {
+          "text": "A tényállás szimmetriája miatt a (3) bekezdés díjazási-végkielégítési fordulata munkáltatói azonnali hatálynál is nyílik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jogosulti szimmetria nem írható rá a vagyoni joghatásra. A helyes: az Mt. 78. § (3) bekezdése csak a munkavállaló jognyilatkozatához rendeli a 70. § (3) bekezdését és a 77. §-t. A tévedés a szimmetria kiterjesztéséből ered."
+        },
+        {
+          "text": "Munkáltatói azonnali hatálynál a munkavállaló a 70. § (1) bekezdésének félidős felmentésére is jogosult.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az azonnali hatály felmentést nem nyit. A helyes: munkáltatói oldalon a közlés a viszonyt azonnal felszámolja. A 70. § (1) bekezdése szerinti félidős felmentés a felmondáshoz kapcsolódik, ide nem írható. A tévedés a felmondási felmentés ráírásából ered."
+        },
+        {
+          "text": "Munkáltatói közlésnél a viszony a jognyilatkozattal, felmondási idő és a 70. § (1) bekezdése szerinti felmentés nélkül szűnik meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az azonnali hatály felmondási időt nem nyit. Az Mt. 78. § (1) bekezdése mindkét félnek adja a jogot, de munkáltatói oldalon a közlés a viszonyt azonnal felszámolja. A 70. § (1) bekezdése szerinti felmentés a felmondáshoz kapcsolódik, ide nem írható."
+        },
+        {
+          "text": "Nem: a (3) bekezdés csak a munkavállaló azonnali hatályú felmondása esetén köti a munkáltatót a 70. § (3) bekezdése és a 77. § megfelelő alkalmazására.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a díjazási-végkielégítési fordulat egyoldalú. Az Mt. 78. § (3) bekezdése a munkavállaló azonnali hatályú felmondásához kapcsolódik, a munkáltatóéhoz nem. Munkáltatói közlésnél e címen a 70. § (3) bekezdése és a 77. § nem nyílik."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "c37d78f44736"
+    },
+    {
+      "question": "A felek kollektív szerződésben a 82. § (1) bekezdésének kártérítési alapszabályát a munkáltató javára korlátoznák. Érvényes-e az eltérés az azonnali hatályú felmondás jogellenességének következményeinél?",
+      "options": [
+        {
+          "text": "A 82. § (1) bekezdése diszpozitív, ezért kollektív szerződés a munkáltató javára korlátozhatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 82. § (1) bekezdése nem diszpozitív, hanem abszolút kógens. A helyes: az Mt. 85. § (1) bekezdés c) pontja a felek és a kollektív szerződés elől is elzárja az eltérést a 82. § (1) bekezdésétől. A kártérítési alapszabály tehát nem puhítható. A tévedés a diszpozitív olvasatból ered."
+        },
+        {
+          "text": "Ez a zár elválik a 85. § (2) bekezdés e) pontjának a 78. §-ra vonatkozó, munkavállaló javára nyitott rendjétől.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az abszolút és a relatív kógens sík nem azonos. A 82. § (1) bekezdése az (1) bekezdés c) pontjában teljesen zárt. A 78. § a (2) bekezdés e) pontjában csak a munkavállaló javára nyitott. A 79. § egyik listán sem szerepel, ezért sem az abszolút, sem a relatív zár nem fogja. A jogellenességi következmény és a 78. § mércéje tehát külön eltérési rendet kap."
+        },
+        {
+          "text": "Nem: a 85. § (1) bekezdés c) pontja a 82. § (1) bekezdésétől a felek megállapodását és a kollektív szerződést egyaránt elzárja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (1) bekezdés abszolút zár. Az Mt. 85. § (1) bekezdés c) pontja szerint a felek megállapodása vagy kollektív szerződés a 82. § (1) bekezdésében foglaltaktól nem térhet el. A jogellenes megszüntetés kártérítési alapszabálya tehát nem puhítható. A 17/2014. (V. 30.) AB határozat a jogellenes megszüntetés jogkövetkezményeit a 82–83. §-ra utalja."
+        },
+        {
+          "text": "A korlátozás érvényes, ha a 78. § (1) bekezdése szerinti azonnali hatály jogellenességéről van szó, mert a 85. § (2) bekezdés e) pontja a 82. §-t is lefedi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés e) pontja a 78. §-t, nem a 82. §-t nevezi meg. A helyes: az Mt. 85. § (1) bekezdés c) pontja a 82. § (1) bekezdését abszolút módon zárja; a (2) bekezdés e) pontja a 78. §-ra szól. A tévedés a két pont tárgyi körének összecsúsztatásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "c00525e9989b"
+    }
+  ]
+}

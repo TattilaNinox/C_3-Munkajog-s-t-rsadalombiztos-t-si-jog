@@ -1,0 +1,1170 @@
+{
+  "id": "oGuc3jgJxiaDaelAKhsJ",
+  "sorszam": 14,
+  "cim": "A felmondási tilalmak és a felmondási korlátozások, a felmondási idő (...)",
+  "generationType": "kerdes",
+  "title": "14. A felmondási tilalmak és a felmondási korlátozások, a felmondási idő (...)",
+  "questions": [
+    {
+      "question": "A munkavállaló várandósság alatt áll, és a munkáltató magatartási okra hivatkozva felmondást közöl. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A tilalom csak a határozatlan idejű viszonyra szól; határozott idejű munkaviszonynál a várandósság nem zárja a munkáltatói felmondást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom a határozott idejű viszonyra is kiterjed. Az Mt. 65. § (3) bekezdése szerinti abszolút védelem a magatartási, képességi vagy működési okú munkáltatói felmondást a határozott idejű viszonyban is zárja. A 66. § (8) bekezdése a határozott idejű viszony megszüntetésének esetköreit külön nyitja, de a tilalom ettől függetlenül érvényesül. A tévedés a határozott idejű viszony és a tilalom hatályának összekeveréséből ered."
+        },
+        {
+          "text": "A munkavállaló a tilalomra csak akkor hivatkozhat, ha a várandósságról a munkáltatót a felmondás közlését megelőzően tájékoztatta.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a védelem érvényesítése előzetes tájékoztatáshoz kötött. Az Mt. 65. § (4) bekezdése a tilalmi hivatkozást ahhoz köti, hogy a munkavállaló a védett körülményről a felmondás közlése előtt értesítse a munkáltatót. Egyedi felmondásnál az irányadó időpont a közlés napja, csoportos létszámcsökkentésnél a 75. § (1) bekezdése szerinti írásbeli tájékoztatás. A közlés utáni értesítés a tilalmi hivatkozást nem pótolja."
+        },
+        {
+          "text": "A tilalom a próbaidő alatti, indokolás nélküli megszüntetést is gátolja, ezért a várandósság alatt próbaidőre hivatkozva sem szüntethető meg a viszony.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom nem gátolja a próbaidő alatti, indokolás nélküli megszüntetést. Az Mt. 65. § (3) bekezdésének abszolút védelme a magatartásra, képességre vagy működésre alapított felmondást zárja, de a próbaidő alatti, indokolás nélküli megszüntetés e tilalom alá nem esik. Ugyanígy nem gátolja a minősített azonnali hatályú felmondást sem. A tévedés a próbaidős megszüntetésnek a tilalmi katalógus alá vonásából ered."
+        },
+        {
+          "text": "A várandósság a felmondási tilalom tartama: a magatartásra, képességre vagy működésre alapított munkáltatói felmondás e tartamban nem közölhető, a közlés jogellenes.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a várandósság abszolút felmondási tilalmat jelent. Az Mt. 65. § (3) bekezdése a várandósságot a tilalmi katalógusba sorolja, és a tilalom a magatartásra, a képességre vagy a munkáltató működésére alapított munkáltatói felmondást zárja. A tartamon belüli közlés jogellenes; a jogkövetkezményeket a 82–83. § rendezi. A tilalom a határozott idejű viszonyra is kiterjed."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "2cf078661452"
+    },
+    {
+      "question": "A munkavállaló betegség miatti keresőképtelensége alatt saját felmondást közöl. Mely megállapítások állják meg a helyüket a felmondási idő kezdőnapjáról?",
+      "options": [
+        {
+          "text": "A saját felmondás a tilalmi tartamba esik, ezért a közlés jogellenes, és a 82–83. § következik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 65. § (3) bekezdése a munkáltatói felmondást zárja, nem a munkavállalóét. Az Mt. 65. § (3) bekezdése abszolút tilalomként a munkáltatói, magatartási–képességi–működési okú felmondást tiltja. A munkavállaló saját felmondása e tilalom tárgyán kívül esik; a kezdőnapra a 68. § (1) bekezdése irányadó."
+        },
+        {
+          "text": "A 68. § (2) bekezdésének relatív védelme a munkavállaló saját felmondására nem terjed ki; csak az (1) bekezdés kezdőnap-szabálya érvényesül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés csak a munkáltatói felmondáshoz kötött. Az Mt. 68. § (2) bekezdése a halasztást kifejezetten „A munkáltató felmondása esetén” rendeli. A munkavállaló saját felmondásánál a kezdőnap az (1) bekezdés szerint legkorábban a közlést követő nap."
+        },
+        {
+          "text": "A betegség miatti keresőképtelenség a munkavállaló saját felmondásánál is kitolja a kezdőnapot a tartam lejártáig, egyéves plafonnal.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés a) pontja csak munkáltatói felmondásnál hat. Az Mt. 68. § (2) bekezdése a betegségi plafonos halasztást a munkáltató felmondásához köti. A munkavállaló saját felmondásánál csak az (1) bekezdés érvényesül; a plafonos esetkör rá nem írható."
+        },
+        {
+          "text": "A felmondási idő legkorábban a felmondás közlését követő napon kezdődik; a közlés napján nem indulhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (1) bekezdés kezdőnap-alsó korlátja a munkavállaló saját felmondására is irányadó. Az Mt. 68. § (1) bekezdése szerint: „A felmondási idő legkorábban a felmondás közlését követő napon kezdődik.” A (2) bekezdés további halasztása e saját felmondásnál nem nyílik meg, mert a törvény a munkáltatói oldalhoz köti. A közlés napja tehát nem lehet a felmondási idő első napja."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "97dee437e5cd"
+    },
+    {
+      "question": "A munkáltató a munkavállaló betegség miatti keresőképtelensége alatt felmondást közöl. A betegszabadság már több mint egy éve lejárt, a keresőképtelenség azonban tovább tart. Mi következik a felmondási idő kezdőnapjára?",
+      "options": [
+        {
+          "text": "A plafon után a felmondás közlése is jogellenessé válik, mert a keresőképtelenség fennállása abszolút tilalmat jelent.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a betegség miatti keresőképtelenség nem abszolút tilalom, hanem relatív védelem. Az Mt. 68. § (2) bekezdése a közlést megengedi, és csak a felmondási idő kezdőnapját halasztja; a 65. § (3) bekezdése szerinti abszolút tilalom a várandósság, a szülési szabadság és a további tilalmi esetkörökre szól. A tévedés a betegségi relatív védelemnek abszolút tilalomként való kezeléséből ered."
+        },
+        {
+          "text": "A közlés önmagában nem indítja a felmondási időt: az (1) bekezdés szerint a felmondási idő legkorábban a közlést követő napon kezdődik, vissza nem vetíthető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kezdőnap alsó korlátja a közlést követő nap. Az Mt. 68. § (1) bekezdése szerint a felmondási idő legkorábban a felmondás közlését követő napon kezdődik; ez a munkavállalói és a munkáltatói felmondásra egyaránt igaz. A felmondási idő nem indulhat a közlés napján. A plafonon túli keresőképtelenség e kezdőnap-szabályt nem írja felül."
+        },
+        {
+          "text": "A betegségi relatív védelem plafonja a betegszabadság lejártát követő egy év; a plafon után a felmondási idő a 68. § (1) bekezdése szerint a közlést követő napon indulhat, a keresőképtelenség tartama ellenére.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az a) pont egyéves plafont állít. Az Mt. 68. § (2) bekezdés a) pontja szerint a felmondási idő legkorábban a betegség miatti keresőképtelenség — legfeljebb azonban a betegszabadság lejártát követő egy év — lejártát követő napon kezdődik. A keresőképtelenség a plafonon túl is tarthat, de a kezdőnapot már nem tolja. Az (1) bekezdés alsó korlátja ekkor érvényesül: a felmondási idő legkorábban a közlést követő napon indul."
+        },
+        {
+          "text": "A beteg gyermek ápolása címén fennálló keresőképtelenséggel azonos módon a betegségi keresőképtelenség is plafon nélküli, ezért a felmondási idő csak a keresőképtelenség tényleges lejártát követő napon indulhat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a betegségi esetkör plafonos, a beteg gyermek ápolása nem. Az Mt. 68. § (2) bekezdés a) pontja a betegszabadság lejártát követő egyéves plafont állítja, míg a b) pont plafon nélküli. A plafonos és a plafon nélküli esetkör felcserélése a kezdőnapot tévesen tolja. A tévedés a b) pont plafon nélküli szabályának az a) pontra írásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "2d27118bd6ee"
+    },
+    {
+      "question": "Húsz év után a munkavállaló saját felmondást közöl. Milyen tartamú a felmondási idő a törvényi főszabály és a lépcső viszonyában?",
+      "options": [
+        {
+          "text": "A munkavállaló saját felmondásánál a 69. § (2) bekezdésének lépcsője nem növel; huszonéves viszonyban is az (1) bekezdés harminc napja a főszabály.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a lépcső csak a munkáltatói oldalt növeli. Az Mt. 69. § (1) bekezdése harminc napot állít mindkét oldalra; a (2) bekezdés kifejezetten a munkáltató felmondása esetén hosszabbít. A g) pont hatvan napos növelése tehát a munkavállaló saját felmondására nem írható rá."
+        },
+        {
+          "text": "A munkavállaló saját felmondásánál a felmondási idő automatikusan a 70. § fele, tehát legalább negyvenöt nap.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 70. § a munkáltatói felmondáshoz kötött felmentés, nem a munkavállalói felmondási idő mértéke. Az Mt. 70. § (1) bekezdése szerint a munkáltató felmondása esetén kell legalább a felmondási idő felére felmenteni. A munkavállaló saját felmondásánál e félidős felmentés nem a 69. § mértékét írja felül."
+        },
+        {
+          "text": "Hosszabb tartam csak a 69. § (3) bekezdése szerinti, legfeljebb hathavi felek megállapodásával nyílhat; a lépcső önmagában nem ad kilencven napot a munkavállalói oldalon.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkavállalói oldalon a törvényi lépcső helyett a felek megállapodása nyithat. Az Mt. 69. § (3) bekezdése az (1)–(2) bekezdésnél hosszabb, legfeljebb hathavi felmondási időt enged. Huszonéves viszonyban a munkavállaló saját felmondása e megállapodás nélkül harminc nap marad."
+        },
+        {
+          "text": "A g) pont a munkavállaló saját felmondására is kilencven napot ad, mert a húsz év a munkáltatónál töltött időt méri.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a g) pont csak a munkáltatói felmondást hosszabbítja. Az Mt. 69. § (2) bekezdés g) pontja húsz év után hatvan nappal növeli a munkáltatói felmondási időt; a munkavállalóit nem. A munkáltatónál töltött idő mérése nem teszi a lépcsőt kétoldalúvá."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "7d46a6f2ce1c"
+    },
+    {
+      "question": "A felek a munkaszerződésben a törvényinél rövidebb felmondási időben szeretnének megállapodni. Mi a jogi helyzet?",
+      "options": [
+        {
+          "text": "A munkavállaló javára a felek a harminc napnál rövidebb felmondási időben is megállapodhatnak, mert a 43. § (1) bekezdése ezt mindig megengedi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 69. § (3) bekezdése a rövidebb tartamot nem nyitja meg. Az Mt. 69. § (3) bekezdése csak a törvényinél hosszabb, legfeljebb hathavi felmondási időre ad felhatalmazást. A 43. § (1) bekezdése a munkavállaló javára való eltérést jogszabály eltérő rendelkezése hiányában engedi; a (3) bekezdés hathavi zárja ilyen eltérő rendelkezés a hosszabbításra, a rövidebb tartamra pedig eleve nincs felhatalmazás. A tévedés a 43. § általános eltérési szabályának túlterjesztéséből ered."
+        },
+        {
+          "text": "Kollektív szerződés a 85. § (3) bekezdése alapján a harminc napos alapszabálynál rövidebb felmondási időt is megállapíthat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kollektív szerződés csak hosszabb tartamot állíthat. Az Mt. 85. § (3) bekezdése szerint a kollektív szerződés a 69. § (1) bekezdésében foglaltnál hosszabb felmondási időt is megállapíthat. A rövidebb tartamra e rendelkezés nem ad felhatalmazást. A tévedés a (3) bekezdés egyirányú nyitásának fordított olvasatából ered."
+        },
+        {
+          "text": "A 69. § (3) bekezdése csak a törvényinél hosszabb, legfeljebb hathavi felmondási időre ad felhatalmazást; rövidebb tartamra e mondat nem nyit lehetőséget.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés egyirányú nyitás. Az Mt. 69. § (3) bekezdése szerint a felek az (1)–(2) bekezdésben foglaltaknál hosszabb, legfeljebb hathavi felmondási időben állapodhatnak meg. Rövidebb felmondási időre e rendelkezés nem ad felhatalmazást. A hathavi plafon a hosszabbítás felső zárja."
+        },
+        {
+          "text": "A 43. § (1) bekezdése a Második Résztől a munkavállaló javára enged eltérést, de a 69. § (3) bekezdésének hathavi zárja e körben eltérő rendelkezés.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hathavi plafon speciális eltérő rendelkezés. Az Mt. 43. § (1) bekezdése a munkaszerződésnek a Második Résztől a munkavállaló javára enged eltérést, jogszabály eltérő rendelkezése hiányában. A 69. § (3) bekezdése a hosszabbítást hathavi zárban állítja, ezért e plafonon túl a felek nem mehetnek. A rövidebb tartam sem a (3) bekezdés, sem a 43. § útján nem nyílik meg."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "1ffc738ac2fe"
+    },
+    {
+      "question": "A munkáltatói felmondás után a munkavállaló a felmentési idő alatt milyen jogállásban van, és mi nem következik a felmentésből?",
+      "options": [
+        {
+          "text": "A felmentés kezdetével a munkaviszony megszűnik, ezért a felmondási idő további része már nem számít.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a viszony a felmondási idő végéig fennáll. Az Mt. 70. § (1) bekezdése a munkavégzés alóli felmentést rendeli a felmondási idő tartamán belül. A megszűnés a felmondási idő lejártához kötődik, nem a felmentés első napjához."
+        },
+        {
+          "text": "A felmentés alatt a munkaviszony fennáll; a munkavállaló a felmondási idő végéig munkavállaló marad, de a felmentett tartamban nem köteles munkát végezni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felmentés mentesítés, nem megszüntetés. Az Mt. 70. § a munkáltatói felmondáshoz kapcsolódó, a munkavégzés alóli kötelező mentesítést rendezi. A viszony a felmondási idő végéig fennáll; a felmentett tartamban a munkavállaló nem köteles munkát végezni."
+        },
+        {
+          "text": "A felmentés csak akkor jár, ha a felek a munkaszerződésben kifejezetten kikötötték; különben a teljes felmondási időben munkát kell végezni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felmentés törvényi kötelezettség munkáltatói felmondásnál. Az Mt. 70. § (1) bekezdése szerint a munkáltató felmondása esetén köteles a munkavállalót legalább a felmondási idő felére felmenteni. A munkaszerződéses kikötés nem feltétele a félidős felmentésnek."
+        },
+        {
+          "text": "A felmentési idő nem azonos a közalkalmazotti felmentéssel: a munkaviszony nem a felmentés kezdetével szűnik meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a névrokon intézmény más jogviszony megszüntetési formája. Az Mt. 70. § szerinti felmentési idő a felmondási időn belüli munkavégzés alóli mentesítés. A közalkalmazotti felmentés nem az Mt. 70. § intézménye, és nem írja át a munkaviszony fennállását."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "ae2f93a4d73d"
+    },
+    {
+      "question": "Határozott idejű munkaviszonynál a munkavállaló jogellenesen szünteti meg a viszonyt. Miben tér el a 84. § (2) bekezdése a 69. § (5) bekezdésének jogszerű zárjától?",
+      "options": [
+        {
+          "text": "A 69. § (5) bekezdése a jogellenes megszüntetésnél is a felmondási időt a határozott időn túlra nyitja, ha a hátralévő tartam rövidebb.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (5) bekezdés a jogszerű felmondás mértékét zárja a véghatáridőhöz. Az Mt. 69. § (5) bekezdése szerint a felmondási idő legfeljebb a határozott idő lejártáig tart. Jogellenességnél a 84. § (2) bekezdése díjazást szab, nem az (5) bekezdés hosszabbít."
+        },
+        {
+          "text": "Jogszerű felmondásnál is automatikusan jár a hátralévő időre szóló, legfeljebb háromhavi távolléti díj a 84. § (2) bekezdése szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a háromhavi távolléti díj a jogellenes megszüntetéshez kötött. Az Mt. 84. § (2) bekezdése a munkavállaló jogellenes, határozott tartamú megszüntetésénél szabja e díjazást. Jogszerű felmondásnál a mértéket a 69. § (5) bekezdése a véghatáridőhöz vágja, nem a 84. § (2) díjazása nyílik."
+        },
+        {
+          "text": "A 84. § (2) bekezdése a munkavállaló jogellenes, határozott tartamú megszüntetésénél a hátralévő időre járó, de legfeljebb háromhavi távolléti díjat szab.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ez a jogellenesség oldali díjazási plafon. Az Mt. 84. § (2) bekezdése a hátralévő időre járó, legfeljebb háromhavi távolléti díjat rendezi. Ez a 69. § (5) bekezdésének tükörképe a jogellenesség oldalán, nem a jogszerű felmondás mértékét írja felül."
+        },
+        {
+          "text": "A 69. § (5) bekezdése a jogszerű felmondásnál a felmondási időt a határozott idő lejártához vágja; a 84. § (2) bekezdése nem ezt a zárat ismétli a jogszerű oldalon.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két mondat különböző jogkövetkezményi síkon áll. Az Mt. 69. § (5) bekezdése szerint jogszerű felmondásnál a felmondási idő legfeljebb a határozott idő lejártáig tart. A 84. § (2) bekezdése a jogellenes megszüntetés díjazását szabja, nem az (5) bekezdés zárjának megismétlése."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "859ab3d6ce0d"
+    },
+    {
+      "question": "A 70. § (3) bekezdésének díjazási kivétele hogyan viszonyul a felmentési kötelezettséghez, és mi a (4) bekezdés kockázatelosztása?",
+      "options": [
+        {
+          "text": "A (4) bekezdés szerint a végleges felmentés után beálló, bérfizetést kizáró körülmény a munkáltató kockázatára esik: a kifizetett munkabér nem követelhető vissza.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a visszakövetelés a végleges felmentés után a munkáltató kockázatán marad. Az Mt. 70. § (4) bekezdése szerint: „A kifizetett munkabért visszakövetelni nem lehet, ha a munkavállalót a munkavégzés alól végleg felmentették és a munkabér fizetését kizáró körülmény a munkavégzés alóli felmentés után következett be.” A végleges felmentés után beálló, bérfizetést kizáró körülmény tehát nem nyit visszakövetelést. A (3) bekezdés díjazási főszabályát ez a visszakövetelési zár egészíti ki."
+        },
+        {
+          "text": "Ha a munkavállaló egyébként sem kapna munkabért, a munkáltató a félidős felmentést megtagadhatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés kivétele a díjazást érinti, nem a felmentést. Az Mt. 70. § (1) bekezdése a félidős felmentést kötelezően rendeli; a (3) bekezdés csak a távolléti díj alól ad kivételt. A felmentés elvonása e kivételből nem következik."
+        },
+        {
+          "text": "A (3) bekezdés kivétele a díjazásra szól: ha a munkavállaló munkabérre egyébként nem lenne jogosult, a távolléti díj elmaradhat, de az (1) bekezdés félidős felmentése nem vonható el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kivétel a díjazást érinti, nem a félidős felmentés elvonását. Az Mt. 70. § (3) bekezdése távolléti díjat ad, kivéve ha a munkavállaló munkabérre egyébként nem lenne jogosult. Az (1) bekezdés szerinti legalább félidős felmentési kötelezettség ettől nem esik el."
+        },
+        {
+          "text": "A végleges felmentés után beálló keresőképtelenségnél a munkáltató a kifizetett távolléti díjat arányosan visszakövetelheti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (4) bekezdés a visszakövetelést zárja. Az Mt. 70. § (4) bekezdése szerint a kifizetett munkabért visszakövetelni nem lehet, ha a végleges felmentés után áll be a bérfizetést kizáró körülmény. A keresőképtelenség e körben tipikusan ilyen körülmény; a kockázat a munkáltatóé."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "74034ef9f9af"
+    },
+    {
+      "question": "A 85. § (2) bekezdés c) pontjának 65–68. § blokkja mellett mi esik az (1) bekezdés abszolút zárja alá, és mi nem tartozik a (2) c) listára?",
+      "options": [
+        {
+          "text": "A 70. § is a (2) bekezdés c) pontjának listáján van, ezért csak a munkavállaló javára térhető el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felmentési idő nincs a 85. § (2) bekezdés listáján. Az Mt. 85. § (2) bekezdés c) pontja a 65–68. §-t védi; a 70. § e blokkon kívül esik. A 70. § eltérési rendje nem a (2) c) in favorem zárjából következik."
+        },
+        {
+          "text": "Az (1) bekezdés a 63. § (1) bekezdését, a 64. §-t és a 82. § (1) bekezdését abszolút zár alá vonja: e körben sem a felek, sem a kollektív szerződés nem térhet el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az abszolút kógencia a megszüntetés sarokpontjait zárja. Az Mt. 85. § (1) bekezdés a)–c) pontja e három szabálytól az eltérést megtiltja. Ez elválik a (2) bekezdés c) pontjának relatív, csak a kollektív szerződésre szóló in favorem zárjától."
+        },
+        {
+          "text": "A 70. § felmentési szabályai nincsenek a 85. § (2) bekezdésének listáján; a (2) c) pont a 65–68. §-t védi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felmentési idő nem a 65–68. § in favorem blokkjának része. Az Mt. 85. § (2) bekezdés c) pontja a 65–68. §-t sorolja; a 70. § e listán kívül esik. A 69. § (2)–(5) bekezdése szintén nincs a (2) bekezdés listáján; a (3) bekezdés külön a 69. § (1) harminc napját nyitja a KSZ-nek."
+        },
+        {
+          "text": "A 85. § (1) bekezdése a 65–68. §-t is abszolút kógenssé teszi a felek és a kollektív szerződés elől.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 65–68. § a (2) bekezdés relatív kógenciája alá esik. Az Mt. 85. § (1) bekezdése a 63. § (1) bekezdését, a 64. §-t és a 82. § (1) bekezdését zárja. A (2) bekezdés c) pontja a 65–68. §-t csak a kollektív szerződés elől, in favorem köti."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "5cb933388eae"
+    },
+    {
+      "question": "A 68. § (3) bekezdése csoportos létszámcsökkentésnél mit rögzít, és mit nem ismétel a 71. § (1) bekezdéséből?",
+      "options": [
+        {
+          "text": "A 68. § (3) bekezdése nem a csoportos minőséget adó létszámküszöböt ismétli; a küszöb a 71. § (1) bekezdésében van.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés időpontot rögzít, nem küszöböt. Az Mt. 71. § (1) bekezdése a csoportos minőséget a félév átlagos létszáma és a harmincnapos időszak küszöbéhez köti. A 68. § (3) bekezdése a relatív védelem fennállásának időpontját a 75. § (1) tájékoztatáshoz köti."
+        },
+        {
+          "text": "Csoportos létszámcsökkentésnél a 68. § (2) bekezdése egyáltalán nem alkalmazható, mert a csoportos rend felülírja a relatív védelmet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés alkalmazandó, ha a feltételek a tájékoztatás időpontjában fennálltak. Az Mt. 68. § (3) bekezdése kifejezetten előírja a (2) bekezdés alkalmazását e feltétel mellett. A 71–76. § csoportos rendje nem iktatja ki a relatív védelmet."
+        },
+        {
+          "text": "A 68. § (3) bekezdése a csoportos minőséget a 71. § (1) bekezdése szerinti létszámküszöbhöz köti, és e küszöb alatt a relatív védelem nem alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés nem a csoportos létszámküszöböt ismétli. Az Mt. 68. § (3) bekezdése a (2) bekezdés alkalmazását a 75. § (1) tájékoztatás időpontjához köti. A létszámküszöb a 71. § (1) bekezdésében van; a (3) bekezdés ezt nem másolja át."
+        },
+        {
+          "text": "A (3) bekezdés a relatív védelem alkalmazását ahhoz köti, hogy a védett körülmény a 75. § (1) bekezdése szerinti tájékoztatás közlésekor fennállt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az irányadó időpont a tájékoztatás, nem a későbbi felmondás. Az Mt. 68. § (3) bekezdése szerint a (2) bekezdést akkor kell alkalmazni, ha a körülmények a 75. § (1) szerinti tájékoztatás közlésekor fennálltak. A később, a felmondás napján beálló betegség e körben nem nyitja a halasztást."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "30b34948fe2f"
+    },
+    {
+      "question": "Vezető munkaszerződésénél a 209. § (2) bekezdés b) pontja mely 65. § (3) pontokat zárja, és mi a 209. § (3) bekezdés hatása a 85. § (2) c) pontra?",
+      "options": [
+        {
+          "text": "A 209. § (2) bekezdés b) pontja a teljes tilalmi katalógustól, így a reprodukciós e) ponttól is megtiltja az eltérést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a reprodukciós e) pont a 209. § (2) b) zár alá nem esik. Az Mt. 209. § (2) bekezdés b) pontja a 65. § (3) a)–d) és g) pontját zárja; az e) pontot — a reprodukciós kezelést — nem. A teljes katalógus szabad eltérése és a teljes katalógus zárása egyaránt téves olvasat."
+        },
+        {
+          "text": "A 209. § (2) bekezdés b) pontja a 65. § (3) bekezdés a)–d) és g) pontjától nem enged eltérést; az e) pont — a reprodukciós kezelés — e zár alá nem esik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a vezetőnél a tilalom egy része kógens, az e) pont kívül esik. Az Mt. 209. § (2) bekezdés b) pontja a 65. § (3) a)–d) és g) pontját zárja. A reprodukciós kezelésre vonatkozó e) pont e zár alá nem esik; a munkaszerződéses eltérés ott nyílhat."
+        },
+        {
+          "text": "A vezetőre a 85. § (2) bekezdés c) pontja ugyanúgy hat, mint a nem vezetőre, mert a 209. § (3) bekezdése csak a munkaszerződést érinti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 209. § (3) a KSZ hatályát veszi le a vezetőről. Az Mt. 209. § (3) bekezdése a kollektív szerződés hatályát a vezetőre nézve kizárja. Ezért a 85. § (2) bekezdés c) pontjának in favorem szabálya rá nem hat."
+        },
+        {
+          "text": "A 209. § (3) bekezdése a kollektív szerződés hatályát a vezetőről leveszi, ezért a 85. § (2) bekezdés c) pontjának in favorem szabálya a vezetőre nem hat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a KSZ-hatály kiesése az in favorem zárat is leveszi. Az Mt. 209. § (3) bekezdése a vezetőre a kollektív szerződés hatályát kizárja. Emiatt a 85. § (2) bekezdés c) pontjának 65–68. § in favorem védelme a vezetőre nem érvényesül."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "6e48ed1ffb54"
+    },
+    {
+      "question": "A munkáltató a várandósság alatt azonnali hatályú felmondást közöl minősített kötelezettségszegés miatt. Jogellenes-e a megszüntetés a tilalom miatt?",
+      "options": [
+        {
+          "text": "A 78. § (1) bekezdése az azonnali hatályt a lényeges kötelezettség szándékos vagy súlyos gondatlan, jelentős mértékű megszegéséhez, illetve a viszony fenntartását lehetetlenné tevő magatartáshoz köti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az azonnali hatály minősített tényálláshoz kötött. Az Mt. 78. § (1) bekezdése a lényeges kötelezettség szándékos vagy súlyos gondatlan, jelentős mértékű megszegését, illetve a viszony fenntartását lehetetlenné tevő magatartást köti azonnali hatályú felmondáshoz. A (2) bekezdés a jog gyakorlását a tudomásszerzéstől számított tizenöt napban, az ok bekövetkeztétől számított egy évben, bűncselekmény esetén a büntethetőség elévüléséig zárja. E határidők a 85. § (2) bekezdés e) pontja miatt a munkavállaló terhére kollektív szerződéssel nem rövidíthetők."
+        },
+        {
+          "text": "Az azonnali hatályú felmondásnál is megnyílik a 70. § (1) bekezdésének félidős felmentése, mert a díjazási szabály átjön.",
+          "isCorrect": false,
+          "rationale": "HAMIS, azonnali hatálynál nincs felmondási idő, ezért a félidős felmentés sem nyílik meg. Az Mt. 78. § (3) bekezdése a munkavállaló azonnali hatályú felmondásánál a 70. § (3) bekezdésének díjazását és a 77. § végkielégítését rendeli megfelelően; az (1)–(2) bekezdés félidejét és két részletét nem. A felmentés díjazása átjöhet, a felmondási időhöz kötött félidő nem. A tévedés a 78. § (3) bekezdés szelektív utaló szabályának félreolvasásából ered."
+        },
+        {
+          "text": "Nem: a felmondási tilalom nem gátolja az azonnali hatályú felmondást minősített kötelezettségszegés vagy a másik fél magatartásával okozati összefüggésben bekövetkezett lehetetlenülés esetén.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom a magatartási, képességi vagy működési okú felmondást zárja, nem a minősített azonnali hatályt. Az Mt. 65. § (3) bekezdésének abszolút védelme nem gátolja a 78. § szerinti azonnali hatályú felmondást, ha az lényeges kötelezettség szándékos vagy súlyos gondatlan, jelentős mértékű megszegésén, illetve a viszony fenntartását lehetetlenné tevő magatartáson alapul. A próbaidő alatti, indokolás nélküli megszüntetés szintén kívül esik. A tartamon belüli „sima” felmondás viszont jogellenes."
+        },
+        {
+          "text": "A tilalom abszolút, ezért várandósság alatt azonnali hatályú felmondás sem közölhető, bármilyen kötelezettségszegés mellett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom nem gátolja a minősített azonnali hatályú felmondást. Az Mt. 65. § (3) bekezdésének abszolút védelme a magatartásra, képességre vagy működésre alapított felmondást zárja, de a 78. § szerinti, minősített kötelezettségszegésen vagy magatartással okozott lehetetlenülésen alapuló azonnali hatályt nem. A várandósság tehát nem jelent teljes megszüntetési mentességet. A tévedés az abszolút tilalomnak teljes megszüntetési mentességként való olvasásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "8f4ac03c4598"
+    },
+    {
+      "question": "Köztulajdonban álló munkáltatónál a 205. § (1) bekezdés a) pontja mely 69. §-beli szabályokat teszi kógenssé, és mit iktat ki a (2) bekezdés a) pontja?",
+      "options": [
+        {
+          "text": "A 205. § (1) bekezdés a) pontja a 69. § (1)–(2) és (4)–(5) bekezdését a kollektív szerződés és a felek megállapodása elől is elzárja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a harminc napos alap, a lépcső, a számítási kivétel és a határozott idejű zár kógens. Az Mt. 205. § (1) bekezdés a) pontja e bekezdéseket a KSZ és a felek elől elzárja. A köztulajdoni körben tehát e szabályok nem enyhíthetők megállapodással."
+        },
+        {
+          "text": "A 205. § (2) bekezdés a) pontja a 69. § (3) bekezdését nem rendeli alkalmazni: a hathavi, megállapodásos hosszabbítás kiesik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felek (3) bekezdés szerinti plafonos hosszabbítása e viszonyban nem nyílik. Az Mt. 205. § (2) bekezdés a) pontja a 69. § (3) bekezdését nem rendeli alkalmazni. A hathavi megállapodásos tartam tehát a köztulajdonban álló munkáltatónál kiiktatott."
+        },
+        {
+          "text": "A felek a köztulajdonban is megállapodhatnak legfeljebb hathavi felmondási időben, mert a 69. § (3) bekezdése megmarad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés a 205. § (2) a) pontja miatt kiesik. Az Mt. 205. § (2) bekezdés a) pontja a 69. § (3) bekezdését nem rendeli alkalmazni. A hathavi megállapodásos hosszabbítás tehát nem nyílik meg."
+        },
+        {
+          "text": "A 85. § (3) bekezdése a köztulajdonban is megengedi, hogy a kollektív szerződés a 69. § (1)–(2) lépcsőjét feloldja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 205. § (1) a) az (1)–(2) bekezdést kógenssé teszi. Az Mt. 205. § (1) bekezdés a) pontja a 69. § (1)–(2) és (4)–(5) bekezdését a KSZ elől is elzárja. A 85. § (3) bekezdése e kógens zárat a köztulajdoni körben nem írja felül."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "0f813e731655"
+    },
+    {
+      "question": "Munkaerő-kölcsönzésnél a 222. § (3) bekezdés a) pontja a 69. § mely részeit hagyja érintetlenül?",
+      "options": [
+        {
+          "text": "Kölcsönzésnél a 69. § teljes egészében alkalmazandó, ideértve a (2) bekezdés lépcsőjét is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (1)–(2) és (4) bekezdés a kölcsönzésnél kiiktatott. Az Mt. 222. § (3) bekezdés a) pontja szerint a 69. § (1)–(2) és (4) bekezdésében foglaltakat nem lehet alkalmazni. A lépcső és a harminc napos alap tehát kölcsönzésnél nem érvényesül."
+        },
+        {
+          "text": "A 69. § (5) bekezdésének határozott idejű zárja szintén nincs a 222. § (3) a) pont listáján.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a határozott idejű zár nem a kiiktatott kör része. Az Mt. 222. § (3) bekezdés a) pontja a 69. § (1)–(2) és (4) bekezdését sorolja. Az (5) bekezdés — a felmondási idő véghatáridőhöz vágása — e listán kívül marad."
+        },
+        {
+          "text": "A 69. § (3) bekezdésének felek szerinti, legfeljebb hathavi hosszabbítása nincs a 222. § (3) a) pont listáján, ezért kölcsönzésnél alkalmazható marad.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kölcsönzési kiiktatás nem a teljes 69. §-ra terjed ki. Az Mt. 222. § (3) bekezdés a) pontja a 69. § (1)–(2) és (4) bekezdését nem engedi alkalmazni. A (3) bekezdés e listán nincs; a felek hathavi plafonos megállapodása tehát nem esik ki automatikusan. A határozott idejű (5) bekezdés ugyancsak kívül marad a kiiktatott körön."
+        },
+        {
+          "text": "A 69. § (5) bekezdésének határozott idejű zárja a 222. § (3) a) pont szerint szintén nem alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (5) bekezdés nincs a kiiktatási listán. Az Mt. 222. § (3) bekezdés a) pontja a 69. § (1)–(2) és (4) bekezdését említi. Az (5) bekezdés határozott idejű zárja e szöveg szerint érintetlen."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "0181eb840a18"
+    },
+    {
+      "question": "A 69. § (4) bekezdése szerinti számításnál mely távollétek építik mégis a felmondási idő lépcsőjét?",
+      "options": [
+        {
+          "text": "A 132. § szerinti tartalékos szolgálat célú fizetés nélküli szabadság három hónapot meg nem haladó tartama szintén beleszámít.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a három hónapos plafonig e tartam is épít. Az Mt. 69. § (4) bekezdése a 132. § szerinti tartalékos szolgálat három hónapot meg nem haladó tartamát a kiesés alól kiveszi. A tartós, díjazás nélküli egyéb távollét ezzel szemben nem építi a lépcsőt."
+        },
+        {
+          "text": "A szülési szabadság, a szülői szabadság és a 128. § szerinti gyermekgondozási fizetés nélküli szabadság kivételként beleszámít a felmondási idő számításába.",
+          "isCorrect": true,
+          "rationale": "IGAZ, e védett távollétek a 77. § (2) kieső kör alóli kivételek. Az Mt. 69. § (4) bekezdése a 77. § (2) szerinti bér nélküli tartamokat veszi ki, e kivételekkel. A szülési, szülői és a 128. § szerinti tartam tehát építi a 69. § (2) lépcsőjét."
+        },
+        {
+          "text": "Minden fizetés nélküli szabadság — a szülési szabadságot is ideértve — kiesik a felmondási idő számításából.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szülési és a többi nevesített védett tartam kivétel. Az Mt. 69. § (4) bekezdése a 77. § (2) kieső körét a szülési, szülői, 128. § és 132. § ≤3 hó kivételével rendeli. A szülési szabadság tehát nem esik ki a számításból."
+        },
+        {
+          "text": "A 77. § (2) bekezdése szerinti bér nélküli tartam csak a végkielégítésnél esik ki; a felmondási idő számításánál teljes egészében beszámít.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 69. § (4) a végkielégítési kieső kört a felmondási időre is átviszi. Az Mt. 69. § (4) bekezdése szerint a felmondási idő számításánál a 77. § (2) tartamát nem kell figyelembe venni. A kivételek (szülési, szülői, 128. §, 132. § ≤3 hó) e kiesés alól emelnek ki."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "2e72c71395a3"
+    },
+    {
+      "question": "A munkáltató személyében bekövetkezett változás miatti munkavállalói felmondásnál a 40. § milyen indokolási és határidő-szabályt állít a 70./77. § megfelelő alkalmazása mellett?",
+      "options": [
+        {
+          "text": "A 40. § (1) bekezdése a 70. §-t és a 77. §-t megfelelően alkalmazni rendeli: a felmentési idő és a végkielégítés e sajátos munkavállalói felmondáshoz is hozzákapcsolódik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az átszállásos mw. felmondás a felmentést és a végkielégítést megnyitja. Az Mt. 40. § (1) bekezdése a 70. § és a 77. § megfelelő alkalmazását rendeli. A felmentési idő és a végkielégítés tehát nem csak a munkáltatói felmondáshoz kötődik."
+        },
+        {
+          "text": "A jog a változás időpontjától számított egy éven belül gyakorolható, a 78. § (2) bekezdésének mintájára.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határidő a változást követő harminc nap. Az Mt. 40. § (3) bekezdése a jogot a változás időpontját követő harminc napon belül zárja. A 78. § (2) bekezdés tizenöt napos / egyéves zárja az azonnali hatályú felmondásra szól, nem erre a jogcímre."
+        },
+        {
+          "text": "A (2) bekezdés e felmondást a 67. § (2) bekezdése szerint indokolni rendeli, a (3) bekezdés pedig a jogot a változás időpontját követő harminc napon belül zárja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az indokolás és a harminc napos határidő a 40. § sajátja. Az Mt. 40. § (2) bekezdése a 67. § (2) szerinti indokolást rendeli; a (3) bekezdés a változást követő harminc napot zárja. Ez a tengely a felmentés/végkielégítés mellett a gyakorlás feltételeit adja."
+        },
+        {
+          "text": "Az átszállásos munkavállalói felmondás indokolás nélkül gyakorolható, mert a 67. § (1) bekezdése a határozatlan idejű munkavállalói felmondást nem köti indokoláshoz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 40. § (2) a 67. § (2) szerinti indokolást rendeli. Az Mt. 40. § (2) bekezdése e felmondást a 67. § (2) bekezdése szerint indokolni rendeli. A 67. § (1) bekezdés indokolás nélküli szabadsága e sajátos jogcímre nem írható rá."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "b5bd6dfe837f"
+    },
+    {
+      "question": "Határozott idejű munkaviszonyban a munkavállaló felmondást közöl. Milyen indokolási kötöttség érvényesül?",
+      "options": [
+        {
+          "text": "A 67. § (2) bekezdése a határozott idejű munkavállalói felmondást indokolni rendeli.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a határozott idejű munkavállalói felmondás indokolásköteles. Az Mt. 67. § (2) bekezdése a határozott idejű munkavállalói felmondást indokolni rendeli. Ez elválik az (1) bekezdés határozatlan, indokolás nélküli szabadságától."
+        },
+        {
+          "text": "Határozott idejű viszonyban a munkavállaló is indokolás nélkül mondhat fel, ugyanazzal a szabadsággal, mint határozatlanban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés a határozott oldalon indokolásköteles. Az Mt. 67. § (2) bekezdése a határozott idejű munkavállalói felmondást indokolni rendeli. Az (1) bekezdés indokolás nélküli szabadsága csak a határozatlan idejű mw. felmondásra szól."
+        },
+        {
+          "text": "Az indokot a viszony fenntartását lehetetlenné tevő vagy aránytalan sérelemmel járó okra szorítja a törvény.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés az indok tartalmát is szűkíti. Az Mt. 67. § (2) bekezdése az indokot a viszony fenntartását lehetetlenné tevő vagy aránytalan sérelemmel járó okra szorítja. A munkavállaló oldalán tehát nem a 65–66. § tilalmi-korlátozó rendje, hanem a 67. § indokolási aszimmetriája érvényesül."
+        },
+        {
+          "text": "A munkavállaló határozott idejű felmondását a 65. § (3) bekezdése szerinti tilalmi katalógus zárja el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom a munkáltatói felmondást zárja. Az Mt. 65. § (3) bekezdése a munkáltatói, magatartási–képességi–működési okú felmondást tiltja. A munkavállalói oldalon a 67. § indokolási aszimmetriája érvényesül, nem a 65. § tilalma."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "251eccf6c8f9"
+    },
+    {
+      "question": "A munkavállaló hozzátartozója otthoni gondozása céljából fizetés nélküli szabadságon van, amikor a munkáltató felmondást közöl. Mi következik a felmondási idő kezdőnapjára?",
+      "options": [
+        {
+          "text": "A közlés a c) pont tartama alatt abszolút tilalomba ütközik, ezért a felmondás jogellenes.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 68. § (2) bekezdése relatív védelem, nem abszolút tilalom. Az Mt. 68. § (2) bekezdése a közlést megengedi, és csak a felmondási idő kezdőnapját halasztja; a jogellenesség a 65. § (3) bekezdése szerinti abszolút tilalom tartamán belüli felmondáshoz fűződik. A tévedés a gondozási relatív védelemnek tilalmi jogkövetkezménnyel való felruházásából ered."
+        },
+        {
+          "text": "A hozzátartozói gondozás a betegségi keresőképtelenséggel azonos egyéves plafon alá esik a betegszabadság lejártától számítva.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az egyéves plafon csak az a) pont betegségi keresőképtelenségére szól. Az Mt. 68. § (2) bekezdés a) pontja a betegszabadság lejártát követő egyéves plafont állítja; a c) pont plafon nélküli. A gondozási szabadság teljes tartama kitolja a kezdőnapot. A tévedés az a) pont plafonjának a c) pontra írásából ered."
+        },
+        {
+          "text": "A 68. § (2) bekezdés c) pontja plafon nélküli: a felmondási idő a fizetés nélküli szabadság lejártát követő napon kezdődik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hozzátartozó otthoni gondozása plafon nélküli relatív védelmet ad. Az Mt. 68. § (2) bekezdés c) pontja szerint a felmondási idő legkorábban a hozzátartozó otthoni gondozása céljából kapott fizetés nélküli szabadság lejártát követő napon kezdődik. A betegségi a) ponttal szemben itt nincs egyéves plafon. A közlés jogszerű lehet; a halasztás a kezdőnapot tolja."
+        },
+        {
+          "text": "A törvény a munkáltatói felmondásnál így fogalmaz: „a felmondási idő legkorábban az alábbiakban meghatározott tartam lejártát követő napon kezdődik” — a c) pont e tartamok egyike.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés chapeauja a három esetkör közös kezdőnap-szabályát adja. Az Mt. 68. § (2) bekezdése szerint „a felmondási idő legkorábban az alábbiakban meghatározott tartam lejártát követő napon kezdődik”, majd az a)–c) pontok a tartamokat sorolják. A c) pont a hozzátartozó otthoni gondozására kapott fizetés nélküli szabadság. A munkavállaló saját felmondásánál e halasztás nem érvényesül."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "39c4cacb8cea"
+    },
+    {
+      "question": "A munkavállaló a felmondási tilalomra hivatkozik. Milyen tájékoztatási előfeltételhez köti a 65. § (4) bekezdése a védelemre való hivatkozást?",
+      "options": [
+        {
+          "text": "A munkavállaló a védelemre csak akkor hivatkozhat, ha a tilalmi körülményről a munkáltatót a felmondás közlését megelőzően tájékoztatta.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a védelemre való hivatkozás tájékoztatási előfeltételhez kötött. Az Mt. 65. § (4) bekezdése szerint a munkavállaló a védelemre csak akkor hivatkozhat, ha erről a munkáltatót a felmondás közlését megelőzően tájékoztatta. A tilalmi tartamon belüli közlés ettől még jogellenes lehet; a hivatkozás előfeltétele a tájékoztatás."
+        },
+        {
+          "text": "A védelem fennállásának irányadó időpontja a felmondás közlése; csoportos létszámcsökkentésnél a közlést legalább harminc nappal megelőző írásbeli tájékoztatás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az irányadó időpont a közlés, csoportosnál a 75. § (1) tájékoztatás. Az Mt. 65. § (4) bekezdése e két időpontot rögzíti a védelem fennállásához. A csoportos rendben a legalább harminc nappal megelőző írásbeli tájékoztatás az irányadó."
+        },
+        {
+          "text": "A 85. § (1) bekezdés c) pontja ellenére a felek munkaszerződésben kizárhatják a 82. § (1) bekezdésének jogkövetkezményeit.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 82. § (1) bekezdés abszolút zárt az eltérés elől. Az Mt. 85. § (1) bekezdés c) pontja a 82. § (1) bekezdésétől sem a felek, sem a KSZ eltérését nem engedi. A tilalomba ütköző felmondás jogkövetkezményei tehát nem zárhatók ki munkaszerződéssel."
+        },
+        {
+          "text": "A tilalomba ütköző felmondás érvényes, de a felmondási idő a tilalmi tartam lejártát követő napon kezdődik, a 68. § (2) mintájára.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalmi tartamon belüli közlés jogellenes. Az Mt. 65. § (3) bekezdése szerinti abszolút tilalomnál a tartamon belüli felmondás jogellenes; a jogkövetkezményeket a 82–83. § rendezi. A 68. § (2) bekezdés halasztása nem a tilalom jogkövetkezménye."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "d7184b9a79ee"
+    },
+    {
+      "question": "A munkáltatónál három éve, de még nem öt éve áll munkaviszonyban a munkavállaló, amikor a munkáltató felmond. Milyen tartamú a felmondási idő?",
+      "options": [
+        {
+          "text": "A munkavállaló saját felmondásánál is harmincöt nap a mérték, mert a (2) bekezdés mindkét oldalra szól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés csak a munkáltató felmondása esetén hosszabbít. Az Mt. 69. § (2) bekezdése kifejezetten a munkáltatói felmondáshoz fűzi a lépcsőt; a munkavállaló saját felmondásánál az (1) bekezdés harminc napja irányadó, hacsak a felek a (3) bekezdés szerint hosszabb tartamban nem állapodtak meg. A tévedés a munkáltatói lépcsőnek a munkavállalói felmondásra való átviteléből ered."
+        },
+        {
+          "text": "Harmincöt nap: a harminc napos alapot a (2) bekezdés a) pontja három év után öt nappal hosszabbítja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, három év után a hosszabbítás öt nap. Az Mt. 69. § (1) bekezdése harminc napos alapszabályt állít; a (2) bekezdés a) pontja három év után öt nappal hosszabbít. Öt év alatt a következő, tizenöt napos lépcső még nem nyílik meg. A munkavállaló saját felmondásánál ez az öt napos növekmény nem jár."
+        },
+        {
+          "text": "Három év alatt a munkáltatói felmondási idő is harminc nap; a lépcső csak a három év elérésekor indul.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hároméves küszöb előtt nincs hosszabbítás. Az Mt. 69. § (2) bekezdés a) pontja a hosszabbítást három év után köti ki; ez alatt az (1) bekezdés harminc napja irányadó a munkáltatói oldalon is. A számítás a munkáltatónál töltött időt méri. A munkavállaló saját felmondásánál a lépcső eleve nem érvényesül."
+        },
+        {
+          "text": "Három év után már a b) pont tizenöt napos hosszabbítása jár, mert a lépcső pontjai kumulatívak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, három év után csak az a) pont öt napos hosszabbítása jár. Az Mt. 69. § (2) bekezdés a) pontja három év után öt, a b) pont öt év után tizenöt nappal hosszabbít; a pontok nem adódnak össze. Három és öt év között a mérték harmincöt nap. A tévedés a lépcső pontjainak kumulatív olvasatából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "385971bd1f30"
+    },
+    {
+      "question": "Határozott idejű munkaviszonynál a munkáltató általános működési okra hivatkozva szeretne felmondani. Mi a jogi helyzet a 66. § (8) bekezdéséhez és a tilalomhoz képest?",
+      "options": [
+        {
+          "text": "A felmondási tilalom a (8) bekezdés nyílásaitól függetlenül a határozott idejű viszonyra is kiterjed; tilalmi tartamban a (8) szerinti felmondás sem közölhető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (8) bekezdés nem oldja fel a tilalmat. Az Mt. 65. § (3) bekezdése szerinti abszolút tilalom a határozott idejű viszonyra is kiterjed. A (8) bekezdés a jogcím nyitása; a tilalmi tartamban a közlés ettől még zárva marad."
+        },
+        {
+          "text": "A 66. § (8) bekezdése automatikusan feloldja a 65. § (3) bekezdése szerinti felmondási tilalmat is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom és a (8) bekezdés különböző sík. Az Mt. 65. § (3) bekezdése a közlést zárja a tilalmi tartamban; a 66. § (8) bekezdése csak a jogcímet nyitja. A (8) bekezdés nem oldja fel az abszolút tilalmat."
+        },
+        {
+          "text": "A 66. § (8) bekezdése csak három esetkört nyit: felszámolási vagy csődeljárás tartama, képességi ok, illetve elháríthatatlan külső ok miatti lehetetlenülés; általános működési ok önmagában nem elég.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a határozott idejű munkáltatói felmondás zárt esetkörű. Az Mt. 66. § (8) bekezdése e három nyílást taxatíve sorolja. Általános működési ok a határozatlan viszony mintájára nem nyitja meg a megszüntetési jogcímet."
+        },
+        {
+          "text": "Határozott idejű munkaviszonynál a munkáltató bármely működési okból szabadon felmondhat, a 66. § (8) bekezdése csak tájékoztató jellegű.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (8) bekezdés taxatív nyílás, nem tájékoztató lista. Az Mt. 66. § (8) bekezdése csak a felszámolási vagy csődeljárás, a képességi ok és az elháríthatatlan külső ok esetén engedi a megszüntetést. Általános működési ok önmagában nem elég a felmondáshoz."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "019d8ceb7652"
+    },
+    {
+      "question": "A 85. § (3) bekezdése a 69. § (1) bekezdésének harminc napjánál hosszabb felmondási időt enged a kollektív szerződésnek. Mit nem old fel ez a nyitás?",
+      "options": [
+        {
+          "text": "A 69. § (3) bekezdése a kollektív szerződésre is vonatkozik, ezért a KSZ sem léphet a hathavi plafon fölé.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 69. § (3) a feleket köti; a 85. § (3) a KSZ-nek e mondatban nem ismétli a hathavi zárat. Az Mt. 85. § (3) bekezdése a harminc napos alapnál hosszabb tartamot enged a kollektív szerződésnek. A felek hathavi plafonja és a KSZ nyitása tehát elválik."
+        },
+        {
+          "text": "A kollektív szerződés a 85. § (3) bekezdése alapján a feleket is feloldja a 69. § (3) bekezdésének hathavi plafonja alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két mondat alanya különbözik a plafon kérdésében. Az Mt. 69. § (3) bekezdése a felek megállapodását köti hathavi plafonnal; a 85. § (3) a KSZ-nek a harminc nap fölé nyit. A KSZ (3) bekezdése a felek hathavi zárát e szövegben nem oldja fel."
+        },
+        {
+          "text": "A 69. § nincs a 85. § (2) bekezdésének listáján; a (3) bekezdés külön a harminc napos alapot nyitja, nem a (2) bekezdés c) pont in favorem blokkjának része.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 69. § eltérési rendje elválik a 65–68. § blokktól. Az Mt. 85. § (2) bekezdés c) pontja a 65–68. §-t védi; a 69. § e listán nincs. A (3) bekezdés a harminc napos alapszabály KSZ-nyitása, külön síkon."
+        },
+        {
+          "text": "A 85. § (3) bekezdése a harminc napos alapszabály in favorem nyitása; nem a 69. § (2) bekezdés lépcsőjének és nem az (5) bekezdés határozott idejű zárjának feloldása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kollektív szerződéses hosszabbítás szűk, in favorem nyitás a harminc nap fölé. Az Mt. 85. § (3) bekezdése a 69. § (1) harminc napjánál hosszabb tartamot enged a KSZ-nek. A (2) bekezdés lépcsője és az (5) bekezdés határozott idejű zárja e mondatban nem oldódik fel. A 69. § nincs a 85. § (2) listáján; a (3) bekezdés külön síkon nyit."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "c1c70209a71f"
+    },
+    {
+      "question": "A vezetővel szembeni azonnali hatályú felmondás gyakorlásának határideje miben tér el a 78. § (2) bekezdésének általános zárjától?",
+      "options": [
+        {
+          "text": "A 210. § (2) bekezdése a vezetővel szemben az ok bekövetkeztétől számított három évre, bűncselekménynél a büntethetőség elévüléséig nyitja a jogot; ez a 78. § (2) bekezdésének tizenöt napos / egyéves zárját a vezető terhére tágítja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a vezetőnél a gyakorlási határidő hosszabb. Az Mt. 210. § (2) bekezdése az azonnali hatályú felmondást az ok bekövetkeztétől számított három évre, bűncselekménynél a büntethetőség elévüléséig engedi. A 78. § (2) bekezdése a tudomásszerzéstől számított tizenöt napot és az ok bekövetkeztétől számított egy évet állít. A vezető terhére tehát a zár tágabb."
+        },
+        {
+          "text": "A vezetővel szemben is a 78. § (2) bekezdésének tizenöt napos / egyéves zárja az egyedüli határidő, mert a 210. § (2) bekezdése csak a felmondási tilalmakat érinti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 210. § (2) bekezdése az azonnali hatály gyakorlási határidejét tágítja. Az Mt. 210. § (2) bekezdése az ok bekövetkeztétől számított három évet, bűncselekménynél a büntethetőség elévülését állítja a vezetővel szemben. A 78. § (2) bekezdésének rövidebb zárja e speciális szabály mellett nem marad egyedüli. A tévedés a vezető speciális határidejének mellőzéséből ered."
+        },
+        {
+          "text": "A hároméves zár a vezető javára rövidíti a 78. § (2) bekezdését, ezért a munkáltatónak szűkebb az ideje az azonnali hatály gyakorlására.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hároméves zár a vezető terhére tágít, nem a javára rövidít. Az Mt. 210. § (2) bekezdése az ok bekövetkeztétől számított három évet nyit, szemben a 78. § (2) bekezdésének egyéves zárjával. A munkáltató tehát hosszabb ideig gyakorolhatja az azonnali hatályt. A tévedés a „terhére tágít” irányának megfordításából ered."
+        },
+        {
+          "text": "A 208. § (1) bekezdése szerint vezető a munkáltató vezetője és a közvetlen irányítása alatt álló, helyettesítésére jogosított más munkavállaló; a (2) bekezdés a kiemelkedő vagy fokozottan bizalmi munkakörre is kiterjesztheti a szabályokat, ha az alapbér eléri a kötelező legkisebb munkabér hétszeresét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a vezető fogalma kétlépcsős. Az Mt. 208. § (1) bekezdése a munkáltató vezetőjét és a helyettesítésére jogosított közvetlen alárendeltjét sorolja ide. A (2) bekezdés a kiemelkedő vagy fokozottan bizalmi munkakörre is kiterjesztheti a vezetőre vonatkozó szabályokat, ha az alapbér a kötelező legkisebb munkabér hétszeresét eléri. A 210. § (2) bekezdésének hároméves zárja e körre is kihathat."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "a0fe7c1d8029"
+    },
+    {
+      "question": "Mely állítások tévesek a felmentési időre nézve?",
+      "options": [
+        {
+          "text": "A (3) bekezdés kivétele azt jelenti, hogy ha a munkavállaló egyébként sem kapna munkabért, a félidős felmentés megtagadható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kivétel a díjazásra szól, nem a felmentés elvonására. Az Mt. 70. § (3) bekezdése a felmentés tartamára távolléti díjat ad, kivéve ha a munkavállaló munkabérre egyébként nem lenne jogosult; az (1) bekezdés félidős kötelezettsége ettől nem esik el. A helyes: a felmentés jár, a díjazás eshet el. A tévedés a díjazási kivételnek a felmentési kötelezettség elvonásaként való olvasásából ered."
+        },
+        {
+          "text": "A felmentés alsó korlátja a felmondási idő egyharmada, és a töredéknap elhagyható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az alsó korlát a felmondási idő fele, a töredéknapot egész napként kell figyelembe venni. Az Mt. 70. § (1) bekezdése legalább a felmondási idő felére rendeli a felmentést; a töredéknap felfelé kerekít. A helyes: kilencven napnál legalább negyvenöt, harmincegy napnál legalább tizenhat nap. A tévedés a félidőnek egyharmadra csökkentéséből és a töredéknap mellőzéséből ered."
+        },
+        {
+          "text": "A munkáltató a felmentést egyetlen, számára kényelmes blokkban is kiadhatja a munkavállaló kívánsága ellenére, vagy három részletre is bonthatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felmentést a munkavállaló kívánságának megfelelően, legfeljebb két részletben kell kiadni. Az Mt. 70. § (2) bekezdése a két részletet a munkavállaló kívánságához köti. A helyes: a munkáltató nem kényszeríthet egyetlen blokkba a kívánság ellenében, és nem bonthatja kettőnél több szeletre. A tévedés a (2) bekezdés kívánsághoz kötöttségének mellőzéséből ered."
+        },
+        {
+          "text": "A végleges felmentés után beálló, bérfizetést kizáró körülmény esetén a már kifizetett munkabér a munkáltató által arányosan visszakövetelhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a visszakövetelés tilos. Az Mt. 70. § (4) bekezdése a végleges felmentés után beálló, bérfizetést kizáró körülménynél a már kifizetett munkabér visszakövetelését zárja. A helyes: a kockázat a munkáltatóé, a már kifizetett bér nem követelhető vissza. A tévedés a (4) bekezdés visszakövetelési zárjának megfordításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "99371b7944b7"
+    },
+    {
+      "question": "A nő reprodukciós eljárással összefüggő kezelése alatt a munkáltató képességi okra hivatkozva felmondást közöl. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A hat hónapos plafon a szülési szabadságra is vonatkozik: a szülési szabadság hatodik hónapja után a tilalom automatikusan megszűnik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hat hónapos plafon csak a reprodukciós kezelésre szól. Az Mt. 65. § (3) bekezdése a szülési szabadságot önálló tilalmi esetkörként nevezi meg, hat hónapos zár nélkül; a hat hónap a kezelés megkezdésétől a reprodukciós esetkörre vonatkozik. A tévedés a reprodukciós plafonnak a szülési szabadságra írásából ered."
+        },
+        {
+          "text": "A reprodukciós kezelés a felmondási tilalom tartama, legfeljebb a kezelés megkezdésétől számított hat hónap; a képességi okú munkáltatói felmondás e tartamban nem közölhető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a reprodukciós kezelés abszolút tilalmi esetkör, hat hónapos plafonnal. Az Mt. 65. § (3) bekezdése a nő jogszabály szerinti, az emberi reprodukciós eljárással összefüggő kezelését a tilalmi katalógusba sorolja, legfeljebb a kezelés megkezdésétől számított hat hónapra. A képességi okú felmondás a tilalom alá esik. A 82–83. § szerinti jogkövetkezmények a tilalmi tartamban közölt felmondáshoz fűződnek."
+        },
+        {
+          "text": "A vezető munkaszerződése a 209. § (2) bekezdés b) pontja szerint a tilalmi katalógus a)–d) és g) pontjától nem térhet el, de a reprodukciós kezelés — az e) pont — e zár alá nem esik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a reprodukciós kezelés a vezető szerződéses eltérési zárán kívül marad. Az Mt. 209. § (2) bekezdés b) pontja a 65. § (3) bekezdés a)–d) és g) pontjától nem enged eltérést; az e) pontot — a reprodukciós kezelést — nem említi. A tilalom tehát a vezetőnél sem tűnik el automatikusan, de a munkaszerződés e ponttól az (1) bekezdés főszabálya szerint eltérhet. A 210. § (1) bekezdés b)–c) pontja a 66. § (1)–(6) bekezdését és a 68. § (2) bekezdését iktatja ki."
+        },
+        {
+          "text": "A reprodukciós kezelés csak relatív védelmet ad: a felmondás közölhető, de a felmondási idő a kezelés lejártát követő napon kezdődik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a reprodukciós kezelés abszolút tilalom, nem a 68. § (2) bekezdése szerinti relatív védelem. Az Mt. 65. § (3) bekezdése a közlést zárja; a 68. § (2) bekezdése a betegséget, a beteg gyermek ápolását és a hozzátartozói gondozást sorolja a relatív védelemhez. A tévedés a tilalmi és a relatív védelmi katalógus felcseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "f0e1724fe312"
+    },
+    {
+      "question": "Köztulajdonban álló munkáltatók közötti váltásnál a 205. § (2a) bekezdése szerinti időbeszámítás mikor nem nyílik meg?",
+      "options": [
+        {
+          "text": "Ha a négy konjunktív feltétel közül bármelyik hiányzik — például a megszüntetés nem közös megegyezés volt —, a (2a) bekezdés szerinti beszámítás nem alkalmazható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2a) bekezdés feltételei konjunktívak. Az Mt. 205. § (2a) bekezdése a közös megegyezést, a kizárólag jogszabály szerint járó juttatást, a korábbi köztulajdoni minőséget és a közvetlenül következő új viszonyt együtt kívánja. Egy feltétel hiánya a kivételes időbeszámítást elzárja."
+        },
+        {
+          "text": "A korábbi munkáltatónál töltött idő mindig beszámít, ha az új munkáltató is köztulajdonban áll, a megszüntetés módjától függetlenül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megszüntetés módja is kötelező feltétel. Az Mt. 205. § (2a) bekezdése közös megegyezést kíván a többi konjunktív feltétellel együtt. A puszta köztulajdoni minőség az új oldalon nem elég a beszámításhoz."
+        },
+        {
+          "text": "A (2a) bekezdés a magánmunkáltatótól a köztulajdonba lépő munkavállalóra is kiterjed, ha az új viszony közvetlenül követi a régit.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a korábbi munkáltatónak a megszűnéskor köztulajdonban állónak kellett minősülnie. Az Mt. 205. § (2a) bekezdése e minőséget a feltételek között rögzíti. A magán→köztulajdon váltás e kivétel alá nem esik csupán a közvetlenség miatt."
+        },
+        {
+          "text": "A (2a) bekezdés az (1) bekezdés kógens zárjától eltérő, kivételes időbeszámítás; nem automatikus a köztulajdoni körön belüli minden váltásra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2a) bekezdés kivétel, nem automatikus főszabály. Az Mt. 205. § (2a) bekezdése az (1) bekezdéstől eltérően engedi a korábbi idő beszámítását a megjelölt feltételekkel. A köztulajdoni minőség önmagában nem pótolja a konjunktív feltételeket."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "b9a4bfeae581"
+    },
+    {
+      "question": "A munkavállaló jogellenesen szünteti meg határozatlan idejű munkaviszonyát. Milyen díjazási jogkövetkezmény irányadó?",
+      "options": [
+        {
+          "text": "A munkavállaló jogellenes megszüntetésénél mindig tizenkét havi távolléti díj jár, a 84. § (1) bekezdésének felmondási időre szabott mértéke helyett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tizenkét havi plafon a (3) bekezdés kárigényzárja, illetve a vezetőnél a 209. § (6) bekezdése; a nem vezető határozatlan idejű esetben az (1) bekezdés a felmondási időre járó távolléti díjat szabja. Az Mt. 84. § (1) bekezdése a munkavállalói felmondás esetén irányadó felmondási időre járó távolléti díjat rendeli. A tévedés a vezető speciális mértékének és a kárplafonnak az általános esetre írásából ered."
+        },
+        {
+          "text": "A 84. § (2) bekezdése a jogszerű határozott idejű felmondásnál is háromhavi távolléti díjat ad a munkavállalónak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés a jogellenes megszüntetés jogkövetkezménye. Az Mt. 84. § (2) bekezdése a munkavállaló jogellenes, határozott tartamú megszüntetésénél szab háromhavi plafont; jogszerű felmondásnál a 69. § (5) bekezdése a felmondási időt a véghatáridőhöz vágja, automatikus háromhavi díj nélkül. A tévedés a jogellenességi és a jogszerűi oldal felcseréléséből ered."
+        },
+        {
+          "text": "Határozott tartamú viszony jogellenes megszüntetésénél a (2) bekezdés a hátralévő időre járó, de legfeljebb háromhavi távolléti díjat szab; ez a 69. § (5) bekezdésének tükörképe a jogellenesség oldalán.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a határozott tartamú jogellenességnél háromhavi plafon van. Az Mt. 84. § (2) bekezdése a hátralévő időre járó, de legfeljebb háromhavi távolléti díjat szab. A 69. § (5) bekezdése a jogszerű felmondásnál a felmondási időt a határozott idő lejártához vágja; a (2) bekezdés e zár jogellenességi párja. A két szabály nem írja felül egymást."
+        },
+        {
+          "text": "A 84. § (1) bekezdése a munkavállalói felmondás esetén irányadó felmondási időre járó távolléti díjat szabja meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a határozatlan idejű jogellenes megszüntetésnél a felmondási időre járó távolléti díj a mérce. Az Mt. 84. § (1) bekezdése a munkavállaló jogellenes megszüntetésénél a munkavállalói felmondás esetén irányadó felmondási időre járó távolléti díjat szabja meg. A (3) bekezdés a kárigényt a tizenkét havi távolléti díjban zárja. A vezetőnél a 209. § (6) bekezdése a 84. § (1)–(2) bekezdésétől eltérően tizenkét havi távolléti díjat szab."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "d956cfbf3b98"
+    },
+    {
+      "question": "Felszámolásban a 36. § (2) bekezdése a 66. § (3) bekezdését és a 39–40. §-t kiveszi. Mi marad érvényben a felmondási tilalomra és a 66. § (8) bekezdésére nézve?",
+      "options": [
+        {
+          "text": "Felszámolásban a 40. § teljes egészében alkalmazandó, ezért az átszállásos munkavállalói felmondás felmentése és végkielégítése megmarad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felszámolás a 39–40. §-t is kiveszi a 36. § (2) alapján. Az Mt. 36. § (2) bekezdése felszámolásban a 39–40. §-t is kiveszi. Az átszállásos mw. felmondás e kedvezménye tehát felszámolásban nem alkalmazható."
+        },
+        {
+          "text": "A felmondási tilalom felszámolásban sem szűnik meg automatikusan; a 36. § (2) a 66. § (3) bekezdését és a 39–40. §-t említi, nem a 65. § (3) tilalmát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom és a felszámolási kivételek elválnak egymástól. Az Mt. 36. § (2) bekezdése felszámolásban a 39–40. §-t és a 66. § (3) bekezdését veszi ki. A 65. § (3) abszolút tilalom e listán nincs; a tilalom ettől nem szűnik."
+        },
+        {
+          "text": "A 66. § (8) bekezdés határozott idejű esetkörei megmaradhatnak; a 36. § (2) bekezdés e) pontja a (3) bekezdést nem rendeli, a (8) bekezdést nem iktatja ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (8) bekezdés nincs a 36. § (2) e) kivételi körében. Az Mt. 36. § (2) bekezdés e) pontja a 66. § (3) bekezdését nem rendeli alkalmazni. A (8) bekezdés határozott idejű nyílásai e szöveg szerint érintetlenek maradhatnak."
+        },
+        {
+          "text": "A 66. § (8) bekezdése felszámolásban szintén kiesik, ezért határozott idejű viszony felmondással egyáltalán nem szüntethető meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (8) bekezdés nincs a 36. § (2) e) kivételében. Az Mt. 36. § (2) bekezdés e) pontja a 66. § (3) bekezdését említi. A (8) bekezdés felszámolási/csőd, képességi és elháríthatatlan külső ok nyílásai ettől nem esnek ki automatikusan."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "44e317e7aacf"
+    },
+    {
+      "question": "A munkavállaló beteg gyermekét ápolja, és e címen keresőképtelen, amikor a munkáltató felmondást közöl. Mi a felmondási idő kezdőnapja?",
+      "options": [
+        {
+          "text": "A 68. § (2) bekezdés b) pontja plafon nélküli: a felmondási idő a keresőképtelenség lejártát követő napon kezdődik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a beteg gyermek ápolása plafon nélküli relatív védelmet ad. Az Mt. 68. § (2) bekezdés b) pontja szerint a felmondási idő legkorábban a beteg gyermek ápolása címén fennálló keresőképtelenség lejártát követő napon kezdődik. Az a) pont egyéves plafonja ide nem vihető át. A közlés önmagában nem jogellenes; csak a felmondási idő kezdőnapja tolódik."
+        },
+        {
+          "text": "A b) pont ugyanazt az egyéves plafont alkalmazza, mint az a) pont a betegszabadság lejártától.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a b) pont plafon nélküli. Az Mt. 68. § (2) bekezdés a) pontja a betegszabadság lejártát követő egyéves plafont állítja; a b) pont a beteg gyermek ápolása címén fennálló keresőképtelenség teljes tartamát védi. A kezdőnap tehát a keresőképtelenség tényleges lejártát követő nap. A tévedés az a) pont plafonjának a b) pontra írásából ered."
+        },
+        {
+          "text": "A beteg gyermek ápolása a 65. § (3) bekezdése szerinti abszolút tilalom, ezért a felmondás közlése jogellenes.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a beteg gyermek ápolása a 68. § (2) bekezdés b) pontjának relatív védelme, nem abszolút tilalom. Az Mt. 65. § (3) bekezdése a várandósságot, a szülési szabadságot, a gyermekgondozási fizetés nélküli szabadságot, a tartalékos szolgálatot és a reprodukciós kezelést sorolja a tilalomhoz. A tévedés a relatív védelmi esetkörnek a tilalmi katalógusba emeléséből ered."
+        },
+        {
+          "text": "A relatív védelem csak a munkáltatói felmondáshoz fűződik; a munkavállaló saját felmondásánál a 68. § (1) bekezdése szerinti, közlést követő nap a kezdőnap.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés aszimmetrikus. Az Mt. 68. § (2) bekezdése a halasztást a munkáltató felmondása esetén rendeli; a munkavállaló saját felmondásánál csak az (1) bekezdés érvényesül. A beteg gyermek ápolása tehát a munkavállaló saját felmondásának kezdőnapját nem tolja. A csoportos létszámcsökkentésnél a (3) bekezdés a tájékoztatás időpontjához köti a védelem fennállását."
+        }
+      ],
+      "sourceKerdesSorszam": 29,
+      "sourceHash": "c43b81ec0e87"
+    },
+    {
+      "question": "A 75. § (1) bekezdése szerinti csoportos tájékoztatás elmarad. Mi a jogkövetkezmény?",
+      "options": [
+        {
+          "text": "A tájékoztatás elmaradása a felmondást jogellenessé teszi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tájékoztatás elmaradása önálló jogellenességi ok. Az Mt. 75. § (1) bekezdése a munkáltatót arra kötelezi, hogy a csoportos létszámcsökkentésre vonatkozó döntéséről az érintettet a felmondás vagy a 79. § (1) bekezdés b) pontja szerinti azonnali hatályú felmondás előtt legalább harminc nappal írásban tájékoztassa. A (3) bekezdés szerint a tájékoztatás elmaradása a felmondást jogellenessé teszi. A felmondás a tájékoztatást követő harminc nap elteltét követően közölhető."
+        },
+        {
+          "text": "A 68. § (3) bekezdése a relatív védelem fennállását a 75. § (1) bekezdése szerinti tájékoztatás időpontjához köti; a tájékoztatás után beálló betegség a halasztást e körben nem nyitja meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a relatív védelem időpontja a tájékoztatáshoz igazodik. Az Mt. 68. § (3) bekezdése a (2) bekezdés alkalmazását ahhoz köti, hogy a védett körülmények a tájékoztatás közlésekor fennálltak. A később, a felmondás napján beálló gondozási szabadság vagy betegség e körben nem indít halasztást. A 71. § (1) bekezdése a csoportos minőséget külön határozza meg."
+        },
+        {
+          "text": "A tájékoztatás elmaradása csak kártérítési igényt nyit, a felmondás jogszerűségét nem érinti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tájékoztatás elmaradása a felmondást jogellenessé teszi. Az Mt. 75. § (3) bekezdése szerint a tájékoztatás elmaradása a felmondást jogellenessé teszi. A jogellenesség tehát a megszüntetés érvényességét érinti, nem csupán kártérítési jogcímet ad. A tévedés a (3) bekezdés jogkövetkezményének enyhítéséből ered."
+        },
+        {
+          "text": "A felmondás a tájékoztatással egyidejűleg is közölhető, ha a munkáltató a döntést már meghozta.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felmondás a tájékoztatást követő harminc nap elteltét követően közölhető. Az Mt. 75. § (1) bekezdése a tájékoztatást a felmondás előtt legalább harminc nappal írja elő, és a felmondás e harminc nap elteltét követően közölhető. A döntés meghozatala nem pótolja a várakozási időt. A tévedés a harminc napos várakozás mellőzéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 30,
+      "sourceHash": "85beba5df327"
+    },
+    {
+      "question": "A gyermek gondozása céljából igénybe vett fizetés nélküli szabadság alatt a munkáltató működési okra hivatkozva felmondást közöl. Jogellenes-e a közlés?",
+      "options": [
+        {
+          "text": "A gyermekgondozási fizetés nélküli szabadság csak a 68. § (2) bekezdés c) pontjának relatív védelmét adja, ezért a közlés jogszerű, csupán a kezdőnap tolódik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a gyermekgondozási fizetés nélküli szabadság abszolút tilalom; a c) pont a hozzátartozó otthoni gondozására kapott fizetés nélküli szabadságot sorolja a relatív védelemhez. Az Mt. 65. § (3) bekezdése a gyermek gondozása céljából igénybe vett fizetés nélküli szabadságot a tilalomhoz köti. A tévedés a tilalmi gyermekgondozás és a hozzátartozói gondozás relatív védelmének összekeveréséből ered."
+        },
+        {
+          "text": "A működési okú felmondás a tilalom alól kivétel, mert a 66. § a működési okot mindig megengedi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom éppen a magatartási, képességi vagy működési okú felmondást zárja. Az Mt. 65. § (3) bekezdésének abszolút védelme e három okú munkáltatói felmondásra szól; a működési ok nem kivétel. A tilalom alóli kivételek a minősített azonnali hatály, a próbaidő alatti megszüntetés és a határozott idejű viszony munkáltatói, azonnali hatályú, indokolás nélküli megszüntetése. A tévedés a működési oknak a tilalom alóli kivételként való kezeléséből ered."
+        },
+        {
+          "text": "A tilalom a határozott idejű viszonyra is kiterjed, ezért a gyermekgondozási fizetés nélküli szabadság alatt a határozott idejű viszony működési okú felmondása sem közölhető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom a határozott idejű viszonyra is kiterjed. Az Mt. 65. § (3) bekezdésének abszolút védelme a magatartási, képességi vagy működési okú felmondást a határozott idejű viszonyban is zárja. A 66. § (8) bekezdése a határozott idejű megszüntetés esetköreit külön nyitja, de a tilalom ettől függetlenül érvényesül. A gyermekgondozási tartam tehát mindkét tartamú viszonyban zár."
+        },
+        {
+          "text": "Igen: a gyermekgondozási fizetés nélküli szabadság a 65. § (3) bekezdése szerinti abszolút tilalom tartama, a működési okú felmondás e tartamban nem közölhető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a gyermekgondozási fizetés nélküli szabadság tilalmi esetkör. Az Mt. 65. § (3) bekezdése a gyermek gondozása céljából igénybe vett fizetés nélküli szabadságot a tilalmi katalógusba sorolja. A magatartási, képességi vagy működési okú munkáltatói felmondás e tartamban nem közölhető. A 82–83. § a tilalmi tartamban közölt felmondás jogellenességének következményeit rendezi."
+        }
+      ],
+      "sourceKerdesSorszam": 31,
+      "sourceHash": "84abb89026d3"
+    },
+    {
+      "question": "Mely állítások tévesek a felmondási idő mértékére nézve?",
+      "options": [
+        {
+          "text": "A felek a 69. § (3) bekezdése alapján a törvényinél rövidebb felmondási időben is megállapodhatnak, ha az a munkavállaló javára szolgál.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés csak a törvényinél hosszabb, legfeljebb hathavi tartamra ad felhatalmazást. Az Mt. 69. § (3) bekezdése a hosszabbítást nyitja és hathavi plafonban zárja; rövidebb tartamra e mondat nem ad felhatalmazást. A helyes: a rövidebb felmondási idő e címen nem nyílik meg. A tévedés a hosszabbításra nyitó szabálynak a rövidítésre való átfordításából ered."
+        },
+        {
+          "text": "Tizenöt év után a munkáltatói felmondási idő hatvan nap, mert az e) pont harminc nappal hosszabbít, és a korábbi pontok napjai hozzáadódnak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, tizenöt év után az e) pont harminc nappal hosszabbít a harminc napos alaphoz képest, a mérték tehát hatvan nap, de a korábbi pontok napjai nem adódnak hozzá. Az Mt. 69. § (2) bekezdés e) pontja tizenöt év után harminc nappal hosszabbít; a lépcső nem kumulatív összegzés. A helyes: tizenöt év után hatvan nap a g) pont nélküli e) pont szerint. A tévedés a kumulatív olvasatból ered."
+        },
+        {
+          "text": "Húsz év után a munkáltatói felmondási idő százhúsz nap, mert a g) pont a korábbi pontok napjait összeadja a hatvan napos hosszabbítással.",
+          "isCorrect": false,
+          "rationale": "HAMIS, húsz év után a g) pont hatvan nappal hosszabbít a harminc napos alaphoz képest, a mérték tehát kilencven nap. Az Mt. 69. § (2) bekezdés g) pontja húsz év után hatvan nappal hosszabbít; az a)–f) pontok napjait nem kell hozzáadni. A helyes: huszonéves viszonynál kilencven nap. A tévedés a lépcső kumulatív félreolvasásából ered."
+        },
+        {
+          "text": "Öt év után a munkáltatói felmondási idő a harminc napos alaphoz képest huszonöt nappal hosszabbodik, mert a b) és a d) pont összeadódik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, öt év után a b) pont tizenöt nappal hosszabbít, a mérték tehát negyvenöt nap. Az Mt. 69. § (2) bekezdés b) pontja öt év után tizenöt nappal hosszabbít; a d) pont tíz év után huszonöt napot ad, és a pontok nem adódnak össze. A helyes: öt év után negyvenöt nap. A tévedés az öt- és tízéves lépcsőpontok összeadásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 32,
+      "sourceHash": "76edd923f9c1"
+    },
+    {
+      "question": "A tényleges önkéntes tartalékos katonai szolgálatteljesítés alatt a munkáltató felmondást kíván közölni. Mi a helyzet?",
+      "options": [
+        {
+          "text": "A tartalékos szolgálat teljes tartama — a három hónapot meghaladó rész is — mindig beleszámít a 69. § (2) bekezdése szerinti lépcsőbe.",
+          "isCorrect": false,
+          "rationale": "HAMIS, csak a három hónapot meg nem haladó tartam a védett kivétel. Az Mt. 69. § (4) bekezdése a 132. § szerinti tartalékos szolgálat három hónapot meg nem haladó tartamát emeli vissza a számításba; a három hónapot meghaladó rész a 77. § (2) bekezdése szerinti bér nélküli tartamként kieshet. A tévedés a három hónapos zár mellőzéséből ered."
+        },
+        {
+          "text": "A tartalékos szolgálatteljesítés a 65. § (3) bekezdése szerinti abszolút tilalom tartama; a magatartási, képességi vagy működési okú felmondás e tartamban nem közölhető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tartalékos szolgálat tilalmi esetkör. Az Mt. 65. § (3) bekezdése a tényleges önkéntes tartalékos katonai szolgálatteljesítést a tilalmi katalógusba sorolja. A tilalom a határozott idejű viszonyra is kiterjed. A 69. § (4) bekezdése a 132. § szerinti tartalékos szolgálat három hónapot meg nem haladó tartamát a felmondási idő számításába visszaemeli."
+        },
+        {
+          "text": "A 132. § szerinti, tartalékos szolgálat céljából igénybe vett fizetés nélküli szabadság három hónapot meg nem haladó tartama a 77. § (2) bekezdése szerinti kivétel ellenére beleszámít a felmondási idő számításába.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tartalékos szolgálat rövid tartama védett a számítási kivétel alól. Az Mt. 69. § (4) bekezdése a 77. § (2) bekezdésének bér nélküli tartamait kiveszi, de a 132. § szerinti tartalékos szolgálat három hónapot meg nem haladó tartamát kivételként beszámítja. A három hónapot meghaladó rész már a számítási kivétel alá eshet. A tilalmi védelem és a számítási beszámítás tehát párhuzamosan érvényesül."
+        },
+        {
+          "text": "A tartalékos szolgálat csak relatív védelmet ad a 68. § (2) bekezdése szerint, ezért a felmondás közölhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tartalékos szolgálatteljesítés abszolút tilalom. Az Mt. 65. § (3) bekezdése a tényleges önkéntes tartalékos katonai szolgálatteljesítést a tilalmi katalógusba sorolja; a 68. § (2) bekezdése a betegséget, a beteg gyermek ápolását és a hozzátartozói gondozást védi. A tévedés a tartalékos tilalomnak a 68. § (2) bekezdése alá sorolásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 33,
+      "sourceHash": "23b9f86e5a4e"
+    },
+    {
+      "question": "Miben tér el a 78. § (3) bekezdésének 70. §-ra utaló szabálya a 40. § (1) bekezdésének megfelelő alkalmazásától?",
+      "options": [
+        {
+          "text": "A 78. § (3) bekezdése a munkavállaló azonnali hatályú felmondásánál csak a 70. § (3) bekezdésének díjazását és a 77. § végkielégítését rendeli megfelelően; az (1)–(2) bekezdés félideje és két részlete nem jön át.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 78. § (3) szelektíven utal a díjazásra és a végkielégítésre. Az Mt. 78. § (3) bekezdése a (3) bekezdés díjazását és a 77. §-t rendeli megfelelően. Az azonnali hatálynál nincs felmondási idő, ezért a 70. § (1)–(2) félideje és két részlete nem nyílik."
+        },
+        {
+          "text": "A munkavállaló azonnali hatályú felmondásánál is legalább a törvényi felmondási idő felére jár a felmentés, mert a 70. § (1) bekezdése mindig irányadó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, azonnali hatálynál nincs felmondási idő, a félidő nem nyílik. Az Mt. 78. § (3) bekezdése csak a 70. § (3) díjazását és a 77. §-t rendeli megfelelően. A 70. § (1) bekezdés félideje e jogcímnél nem alkalmazandó."
+        },
+        {
+          "text": "Az azonnali hatálynál a 40. § (1) bekezdése szerinti átszállásos szabály a 70. § egészét mindig megnyitja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 40. § az átszállásos munkavállalói felmondásra szól, nem az azonnali hatályra. Az Mt. 78. § (3) bekezdése az azonnali hatályú mw. felmondásnál a szelektív utaló szabály. A 40. § (1) nem írja át a 78. § (3) korlátozott átvételét."
+        },
+        {
+          "text": "A 40. § (1) bekezdése az átszállásos munkavállalói felmondásra a 70. § egészét megfelelően alkalmazni rendeli; ez szélesebb, mint a 78. § (3) szelektív átvétele.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az átszállásos szabály a 70. § teljes megfelelő alkalmazását hozza. Az Mt. 40. § (1) bekezdése a 70. §-t és a 77. §-t megfelelően alkalmazni rendeli. Ez elválik a 78. § (3) bekezdésnek csak a díjazásra és a végkielégítésre szorított utalásától."
+        }
+      ],
+      "sourceKerdesSorszam": 34,
+      "sourceHash": "a000da14d740"
+    },
+    {
+      "question": "Nyolc év után a munkáltató felmond. Milyen tartamú a felmondási idő a törvényi lépcső szerint?",
+      "options": [
+        {
+          "text": "A munkavállaló saját felmondásánál is ötven nap a mérték nyolc év után.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkavállaló saját felmondásánál az (1) bekezdés harminc napja irányadó. Az Mt. 69. § (2) bekezdése a lépcsőt a munkáltató felmondása esetén rendeli; a munkavállalói oldalon a hosszabbítás nem érvényesül, hacsak a felek a (3) bekezdés szerint másként nem állapodtak meg. A tévedés a munkáltatói lépcsőnek a munkavállalói felmondásra viteléből ered."
+        },
+        {
+          "text": "A felek a (3) bekezdés szerint az ötven napnál hosszabb, legfeljebb hathavi tartamban is megállapodhatnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés a törvényinél hosszabb tartamot nyit. Az Mt. 69. § (3) bekezdése az (1)–(2) bekezdésben foglaltaknál hosszabb, legfeljebb hathavi felmondási időre ad felhatalmazást. Az ötven napos törvényi mérték fölé tehát a felek megállapodása léphet. A felek megállapodása a hathavi felső zárig léphet a törvényi mérték fölé."
+        },
+        {
+          "text": "Nyolc év után már a d) pont huszonöt napos hosszabbítása jár, mert a c) és a d) pont együttesen érvényesül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, nyolc év után csak a c) pont húsz napos hosszabbítása jár. Az Mt. 69. § (2) bekezdés c) pontja nyolc év után húsz, a d) pont tíz év után huszonöt nappal hosszabbít; a pontok nem érvényesülnek együtt. A mérték tehát ötven nap. A tévedés a szomszédos lépcsőpontok összevonásából ered."
+        },
+        {
+          "text": "Ötven nap: a harminc napos alapot a (2) bekezdés c) pontja nyolc év után húsz nappal hosszabbítja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, nyolc év után a hosszabbítás húsz nap. Az Mt. 69. § (2) bekezdés c) pontja nyolc év után húsz nappal hosszabbít a harminc napos alaphoz képest, így a mérték ötven nap. A b) pont öt év utáni tizenöt napja nem adódik ehhez hozzá. A lépcső csak a munkáltatói oldalt növeli."
+        }
+      ],
+      "sourceKerdesSorszam": 35,
+      "sourceHash": "d17318d3e8e3"
+    },
+    {
+      "question": "Mely állítások tévesek a 85. § eltérési rendjére nézve?",
+      "options": [
+        {
+          "text": "A 85. § (1) bekezdése a 65–68. §-t abszolút kógenssé teszi a felek és a kollektív szerződés elől.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 65–68. § a (2) bekezdés c) pontjának relatív kógenciája alá esik. Az Mt. 85. § (1) bekezdése a 63. § (1) bekezdését, a 64. §-t és a 82. § (1) bekezdését zárja el. A helyes: a tilalmi-korlátozó blokk a kollektív szerződés elől csak a munkavállaló terhére zárt. A tévedés az (1) és a (2) bekezdés síkjainak felcseréléséből ered."
+        },
+        {
+          "text": "A 71–76. § csoportos rendje a kollektív szerződés elől abszolút zárt, eltérés a munkavállaló javára sem lehetséges.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 71–76. § a (2) bekezdés d) pontján in favorem zár alatt áll. Az Mt. 85. § (2) bekezdés d) pontja szerint kollektív szerződés a 71–76. §-ban foglaltaktól csak a munkavállaló javára térhet el. A helyes: a csoportos rend a munkavállaló javára bővíthető, terhére nem. A tévedés a relatív kógenciának abszolút zárként való kezeléséből ered."
+        },
+        {
+          "text": "A 78. § határidői a munkavállaló terhére kollektív szerződéssel rövidíthetők, mert a 78. § nincs a 85. § (2) bekezdésének listáján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 78. § a (2) bekezdés e) pontján szerepel, ezért csak a munkavállaló javára térhető el. Az Mt. 85. § (2) bekezdés e) pontja a 78. §-t in favorem zár alá helyezi; a tudomásszerzéstől számított tizenöt napos és az ok bekövetkeztétől számított egyéves zár a munkavállaló terhére nem rövidíthető. A helyes: e határidők a munkavállaló terhére nem szűkíthetők. A tévedés a listából való kihagyásból ered."
+        },
+        {
+          "text": "A 82. § (1) bekezdése a felek megállapodásával kizárható, ha a kollektív szerződés hallgat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jogellenes megszüntetés 82. § (1) bekezdése szerinti sarokpontja megállapodással sem zárható ki. Az Mt. 85. § (1) bekezdés c) pontja a 82. § (1) bekezdését a felek és a kollektív szerződés elől egyaránt elzárja. A helyes: e sarokpont a felek és a kollektív szerződés elől egyaránt zárt. A tévedés a jogellenességi sarokpont megállapodásos kizárhatóságának feltételezéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 36,
+      "sourceHash": "aa5f6a546d67"
+    },
+    {
+      "question": "Tíz év után a munkáltató felmond. Milyen tartamú a törvényi felmondási idő?",
+      "options": [
+        {
+          "text": "Ötvenöt nap: a harminc napos alapot a (2) bekezdés d) pontja tíz év után huszonöt nappal hosszabbítja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, tíz év után a hosszabbítás huszonöt nap. Az Mt. 69. § (2) bekezdés d) pontja tíz év után huszonöt nappal hosszabbít a harminc napos alaphoz képest, így a mérték ötvenöt nap. A c) pont nyolc év utáni húsz napja ehhez nem adódik. A munkavállaló saját felmondásánál a lépcső nem érvényesül."
+        },
+        {
+          "text": "A köztulajdonban álló munkáltatónál ez az ötvenöt napos mérték is kógens: a 205. § (1) bekezdés a) pontja a 69. § (2) bekezdését a felek és a kollektív szerződés elől elzárja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, köztulajdonban a lépcső nem enyhíthető és nem növelhető megállapodással. Az Mt. 205. § (1) bekezdés a) pontja a 69. § (1)–(2) és (4)–(5) bekezdését a kollektív szerződés és a felek megállapodása elől elzárja. A (2) bekezdés a) pontja a 69. § (3) bekezdését kiiktatja. A tízéves lépcső tehát e körben változtathatatlan."
+        },
+        {
+          "text": "Tíz év után a mérték már hetvenöt nap, mert a d) pont huszonöt napja a c) pont húsz napjához adódik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, tíz év után a d) pont önállóan huszonöt nappal hosszabbít, nem a c) ponttal összegezve. Az Mt. 69. § (2) bekezdés d) pontja tíz év után huszonöt nappal növeli a harminc napos alapszabályt, így a felmondási idő ötvenöt nap. A c) pont nyolc év utáni húsz napos hosszabbítása a tízéves küszöbnél nem adódik ehhez. A tévedés forrása a szomszédos lépcsőpontok napjainak összeadása."
+        },
+        {
+          "text": "Munkaerő-kölcsönzésnél a d) pont huszonöt napos hosszabbítása változatlanul alkalmazandó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, kölcsönzésnél a törvényi lépcső kiiktatásra kerül. Az Mt. 222. § (3) bekezdés a) pontja a 69. § (1)–(2) és (4) bekezdését kiiktatja. A tízéves hosszabbítás tehát kölcsönzésnél e címen nem érvényesül. A tévedés a kölcsönzési speciális rend mellőzéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 37,
+      "sourceHash": "18b1c1ecf717"
+    },
+    {
+      "question": "A szülési szabadság alatt a munkáltató a munkavállaló magatartására hivatkozva felmondást közöl. Mi a jogi helyzet?",
+      "options": [
+        {
+          "text": "A szülési szabadság a 77. § (2) bekezdése szerinti bér nélküli tartamok alóli kivétel: a felmondási idő számításánál figyelembe kell venni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szülési szabadság védett távollét a számításnál. Az Mt. 69. § (4) bekezdése a 77. § (2) bekezdésének bér nélküli tartamait kiveszi, de a szülési szabadságot, a szülői szabadságot és a 128. § szerinti gyermekgondozási fizetés nélküli szabadságot kivételként beszámítja. A tilalmi védelem és a számítási beszámítás tehát együtt áll. A tartós, nem védett bér nélküli távollét ellenben nem építi a lépcsőt."
+        },
+        {
+          "text": "A szülési szabadság csak a 68. § (2) bekezdése szerinti relatív védelmet adja, ezért a felmondás közölhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szülési szabadság abszolút tilalom. Az Mt. 65. § (3) bekezdése a szülési szabadságot a tilalmi katalógusba sorolja; a 68. § (2) bekezdése a betegséget, a beteg gyermek ápolását és a hozzátartozói gondozást védi. A közlés tehát a szülési tartamban nem csupán halasztott hatályú, hanem tilalmi. A tévedés a szülési tilalomnak a relatív védelem alá sorolásából ered."
+        },
+        {
+          "text": "A szülési szabadság a reprodukciós kezeléssel azonos hat hónapos plafon alá esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hat hónapos plafon csak a reprodukciós kezelésre szól. Az Mt. 65. § (3) bekezdése a szülési szabadságot plafon nélkül nevezi meg; a hat hónap a kezelés megkezdésétől a reprodukciós esetkörre vonatkozik. A tévedés a reprodukciós plafonnak a szülési szabadságra viteléből ered."
+        },
+        {
+          "text": "A szülési szabadság abszolút tilalmi tartam: a magatartási okú munkáltatói felmondás e tartamban nem közölhető, a közlés jogellenes.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szülési szabadság a tilalmi katalógus része. Az Mt. 65. § (3) bekezdése a szülési szabadságot a várandósság mellett önálló tilalmi esetkörként nevezi meg. A magatartási okú felmondás a tilalom alá esik. A 69. § (4) bekezdése a szülési szabadságot a felmondási idő számításába visszaemeli."
+        }
+      ],
+      "sourceKerdesSorszam": 38,
+      "sourceHash": "0bca1c97a2ae"
+    },
+    {
+      "question": "A vezető jogellenesen szünteti meg a munkaviszonyát. Milyen díjazási plafon irányadó a 84. § helyett?",
+      "options": [
+        {
+          "text": "A 209. § (6) bekezdése csak a munkáltató jogellenes megszüntetésére szól, a vezető saját jogellenes felmondására nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 84. § a munkavállaló jogellenes megszüntetésének jogkövetkezményeit rendezi, és a 209. § (6) bekezdése e szabályoktól tér el a vezetőnél. Az Mt. 84. § (1)–(2) bekezdése a munkavállaló jogellenes megszüntetésénél szab mértéket; a 209. § (6) bekezdése ettől eltérően tizenkét havi távolléti díjat rendel. A vezető saját jogellenes felmondása tehát e speciális mérték alá esik. A tévedés a vezető díjazási szabályának a munkáltatói oldalra szűkítéséből ered."
+        },
+        {
+          "text": "A vezető jogellenes megszüntetésénél is a 84. § (1) bekezdése szerinti, felmondási időre járó távolléti díj az egyedüli mérték.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 209. § (6) bekezdése a 84. § (1)–(2) bekezdésétől eltérően tizenkét havi távolléti díjat szab. Az Mt. 209. § (6) bekezdése a vezetőre nézve felülírja az (1)–(2) bekezdés mértékét. A felmondási időre járó távolléti díj tehát e körben nem az egyedüli mérce. A tévedés a vezető speciális díjazási szabályának mellőzéséből ered."
+        },
+        {
+          "text": "A 84. § (3) bekezdése a kárigényt a tizenkét havi távolléti díjban zárja; a vezetőnél a (6) bekezdés e plafont az (1)–(2) bekezdés helyébe lépteti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a vezetőnél a tizenkét havi mérték nem csupán kárplafon, hanem az (1)–(2) bekezdés helyetti díjazás. Az Mt. 84. § (3) bekezdése a kárigényt tizenkét havi távolléti díjban zárja. A 209. § (6) bekezdése a 84. § (1)–(2) bekezdésétől eltérően ugyanezt a tizenkét havi mértéket szabja a vezetőre. A két szabály szerepe különbözik: az egyik kárplafon, a másik a vezető speciális díjazása."
+        },
+        {
+          "text": "A 209. § (6) bekezdése a 84. § (1)–(2) bekezdésétől eltérően tizenkét havi távolléti díjat szab.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a vezetőnél a jogellenes megszüntetés díjazási mértéke tizenkét havi távolléti díj. Az Mt. 209. § (6) bekezdése a 84. § (1)–(2) bekezdésétől eltérően tizenkét havi távolléti díjat szab. A nem vezető határozatlan idejű esetben az (1) bekezdés a felmondási időre járó távolléti díjat rendeli. A vezető tehát szigorúbb díjazási következménnyel néz szembe."
+        }
+      ],
+      "sourceKerdesSorszam": 39,
+      "sourceHash": "c95acb4df272"
+    },
+    {
+      "question": "Mely állítások tévesek a relatív felmondási védelemre nézve?",
+      "options": [
+        {
+          "text": "A hozzátartozó otthoni gondozására kapott fizetés nélküli szabadság a betegszabadság lejártát követő egyéves plafon alá esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a c) pont plafon nélküli. Az Mt. 68. § (2) bekezdés c) pontja a hozzátartozó otthoni gondozása céljából kapott fizetés nélküli szabadság teljes tartamát védi; az egyéves plafon csak az a) pont betegségi keresőképtelenségére szól. A helyes: a gondozási szabadság lejártát követő napon indul a felmondási idő. A tévedés az a) pont plafonjának a c) pontra viteléből ered."
+        },
+        {
+          "text": "Csoportos létszámcsökkentésnél a relatív védelem a felmondás közlésének napján fennálló körülményhez igazodik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, csoportos létszámcsökkentésnél az irányadó időpont a 75. § (1) bekezdése szerinti tájékoztatás. Az Mt. 68. § (3) bekezdése a (2) bekezdés alkalmazását a tájékoztatás közlésének időpontjához köti. A helyes: a felmondás napján beálló betegség e körben nem indít halasztást. A tévedés az egyedi és a csoportos időpont felcseréléséből ered."
+        },
+        {
+          "text": "A 68. § (2) bekezdése a munkavállaló saját felmondására is kiterjed, ha a munkavállaló betegség miatt keresőképtelen.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés csak a munkáltatói felmondáshoz kötött. Az Mt. 68. § (2) bekezdése a halasztást a munkáltató felmondása esetén rendeli; a munkavállaló saját felmondásánál csak az (1) bekezdés kezdőnapja érvényesül. A helyes: betegség alatt a munkavállaló felmondásánál a közlést követő nap a kezdőnap. A tévedés a munkáltatói halasztásnak a munkavállalói oldalra írásából ered."
+        },
+        {
+          "text": "A vezetőre a 68. § (2) bekezdésének relatív védelme munkáltatói felmondásnál is teljes mértékben kiterjed.",
+          "isCorrect": false,
+          "rationale": "HAMIS, munkáltatói felmondásnál a vezetőnél a 68. § (2) bekezdése nem alkalmazandó. Az Mt. 210. § (1) bekezdés c) pontja a 68. § (2) bekezdését munkáltatói felmondás esetén kiiktatja. A helyes: a relatív védelem a vezetőre e körben nem terjed ki. A tévedés a vezető speciális rendjének mellőzéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 40,
+      "sourceHash": "5752527ed44c"
+    },
+    {
+      "question": "A 68. § (1) bekezdése szerinti kezdőnap milyen alsó korlátot állít?",
+      "options": [
+        {
+          "text": "A felmondási idő legkorábban a közlést követő napon kezdődik; a közlés napján nem indulhat, és vissza nem vetíthető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 68. § (1) bekezdés a felmondási idő kezdőnapjának alsó korlátját állítja. Az Mt. 68. § (1) bekezdése szerint: „A felmondási idő legkorábban a felmondás közlését követő napon kezdődik.” A felmondási idő nem indulhat a közlés napján, és nem vetíthető vissza a közlés előtti időre. Ez a korlát a munkavállalói és a munkáltatói felmondásra egyaránt igaz."
+        },
+        {
+          "text": "A felek megállapodhatnak arról, hogy a felmondási idő a közlés napján induljon, ha ez a munkavállaló javára rövidebb tartamot eredményez.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (1) bekezdés alsó korlátja nem tolható a közlés napjára. Az Mt. 68. § (1) bekezdése szerint a felmondási idő legkorábban a közlést követő napon kezdődik. A felek megállapodása e kezdőnap-korlátot nem írhatja felül a közlés napjára."
+        },
+        {
+          "text": "A kezdőnap-szabály a munkavállalói és a munkáltatói felmondásra egyaránt igaz; a (2) bekezdés további halasztása csak a munkáltatói oldalhoz fűződik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (1) bekezdés kezdőnap-szabálya mindkét oldalra szól. Az Mt. 68. § (1) bekezdése a kezdőnap alsó korlátját a felmondás mindkét oldalára állítja. A (2) bekezdés további, védett tartamhoz kötött halasztása csak a munkáltató felmondása esetén érvényesül."
+        },
+        {
+          "text": "A 68. § (1) bekezdése csak a munkáltatói felmondásra szól; a munkavállaló felmondásánál a közlés napja a kezdőnap.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (1) bekezdés kezdőnap-szabálya mindkét oldalra igaz. Az Mt. 68. § (1) bekezdése a kezdőnapot a közlést követő napra helyezi a munkavállalói és a munkáltatói felmondásnál egyaránt. A munkavállaló saját felmondásánál is ez az alsó korlát érvényesül."
+        }
+      ],
+      "sourceKerdesSorszam": 41,
+      "sourceHash": "b881a1cd8f15"
+    },
+    {
+      "question": "A 70. § nincs a 85. § (2) bekezdésének listáján. Mi következik ebből az eltérési rendre?",
+      "options": [
+        {
+          "text": "A 70. § nem esik a 85. § (2) bekezdés c) pontjának in favorem zárja alá; a felmentési szabályok eltérési rendje nem azonos a 65–68. § blokkjával.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felmentési idő eltérési rendje nem azonos a tilalmi blokkéval. Az Mt. 85. § (2) bekezdés c) pontja a 65–68. §-t védi; a 70. § e listán nem szerepel. A felmentési idő tehát nem ugyanazzal az in favorem zárral bír, mint a tilalmak és a relatív védelem. A 69. § (1) bekezdésének harminc napját a (3) bekezdés külön nyitja a kollektív szerződésnek."
+        },
+        {
+          "text": "A 40. § (1) bekezdése a munkáltató személyében bekövetkezett változás miatti munkavállalói felmondásra a 70. § egészét megfelelően alkalmazni rendeli.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az átszállásos felmondás a felmentést átveszi. Az Mt. 40. § (1) bekezdése a 70. §-t és a 77. §-t megfelelően alkalmazni rendeli. A (3) bekezdés a jogot a változás időpontját követő harminc napon belül zárja. Felszámolásban a 36. § (2) bekezdése a 39–40. §-t kiveszi."
+        },
+        {
+          "text": "A 70. § a 85. § (1) bekezdésének abszolút zárja alá esik, ezért sem a felek, sem a kollektív szerződés nem térhet el tőle.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (1) bekezdés a 63. § (1) bekezdését, a 64. §-t és a 82. § (1) bekezdését zárja, nem a 70. §-t. Az Mt. 85. § (1) bekezdése e három rendelkezést említi; a 70. § sem az (1), sem a (2) bekezdés listáján nem szerepel. A tévedés az abszolút zár listájának bővítéséből ered."
+        },
+        {
+          "text": "Mivel a 70. § nincs a listán, a kollektív szerződés a felmentés alsó korlátját a munkavállaló terhére a felmondási idő egynegyedére csökkentheti a 85. § (2) bekezdése alapján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 85. § (2) bekezdése nem ad felhatalmazást a listán nem szereplő 70. § terhes enyhítésére; a (2) bekezdés a megjelölt szakaszoktól csak a munkavállaló javára enged eltérést. Az Mt. 70. § (1) bekezdése a felmondási idő felét alsó korlátként rendeli. A tévedés a listán kívüli szakasznak a (2) bekezdés terhes eltérése alá vonásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 42,
+      "sourceHash": "cebd1024ecea"
+    },
+    {
+      "question": "Próbaidő alatt a munkáltató indokolás nélkül szünteti meg a munkaviszonyt. Hogyan viszonyul ez a 65. § (3) bekezdése szerinti felmondási tilalomhoz?",
+      "options": [
+        {
+          "text": "Próbaidő alatt a tilalmi tartamban a megszüntetés csak a 68. § (2) szerinti kezdőnap-halasztással közölhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a próbaidős mód nem a 68. § (2) relatív védelmének tárgya. Az Mt. 65. § (3) bekezdése szerinti tilalom a próbaidős, indokolás nélküli megszüntetést nem gátolja. A 68. § (2) a már közölt munkáltatói felmondás kezdőnapját tolja a nevesített esetkörökben, nem a próbaidős jogcímet szabályozza."
+        },
+        {
+          "text": "A tilalom nem gátolja a próbaidő alatti, indokolás nélküli megszüntetést; e mód a tilalom alkalmazási körén kívül esik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a próbaidős megszüntetés kívül esik a 65. § (3) tárgyán. Az Mt. 65. § (3) bekezdése a magatartási, képességi vagy működési okú munkáltatói felmondást zárja. A próbaidő alatti, indokolás nélküli megszüntetés e tilalom gátján kívül esik."
+        },
+        {
+          "text": "A tilalom minden egyoldalú munkáltatói megszüntetést elzár, ideértve a próbaidő alatti megszüntetést is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom nem abszolút megszüntetési tilalom minden jogcímre. Az Mt. 65. § (3) bekezdése a magatartási–képességi–működési okú felmondást zárja. A próbaidő alatti, indokolás nélküli megszüntetést a tilalom nem akadályozza."
+        },
+        {
+          "text": "A tilalom a határozott idejű viszonyra a magatartási–képességi–működési okú felmondásnál terjed ki; a próbaidős mód ettől elválik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom hatálya és a próbaidős jogcím különböző. Az Mt. 65. § (3) bekezdése a határozott idejű viszonyra is kiterjed a nevesített okú felmondásnál. A próbaidő alatti indokolás nélküli megszüntetés azonban nem e felmondási alakzat, ezért a tilalom nem gátolja."
+        }
+      ],
+      "sourceKerdesSorszam": 43,
+      "sourceHash": "fb86f7b0e64c"
+    }
+  ]
+}

@@ -1,0 +1,738 @@
+{
+  "id": "a7WgkySl4j3joSSviJfS",
+  "sorszam": 21,
+  "cim": "A munkaidő vasárnapra vagy munkaszüneti napra történő beosztása. A (...)",
+  "generationType": "fogalom",
+  "title": "21. A munkaidő vasárnapra vagy munkaszüneti napra történő beosztása. A (...)",
+  "questions": [
+    {
+      "question": "Mi a vasárnap és a munkaszüneti nap viszonya a munka- és pihenőidő rendszerében?",
+      "options": [
+        {
+          "text": "A vasárnap a 102. § (1) bekezdése szerint mindig munkaszüneti nap is, ezért a két fogalom a beosztási szabályokban felcserélhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a vasárnap nem munkaszüneti nap. Az Mt. 102. § (1) bekezdése taxatív ünneplistát ad, a vasárnapot nem említi. A 101. § a vasárnapi, a 102. § (2) a munkaszüneti napi rendes munkaidőt szabályozza, eltérő engedélykörrel. A heti pihenőnap és a naptári ünnep így nem cserélhető fel."
+        },
+        {
+          "text": "A 102. § (1) bekezdése a munkaszüneti napokat zárt katalógusban adja; magát a vasárnapot e katalógus nem tartalmazza, noha a (4) bekezdés a húsvét- és pünkösdvasárnapot a munkaszüneti napi beosztási rendhez utalja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a vasárnap önmagában nem munkaszüneti nap. Az Mt. 102. § (1) bekezdése január 1-jétől december 25–26-ig sorolja az ünnepeket, vasárnap nélkül. A (4) bekezdés csak akkor rendeli a szűkebb beosztási szabályt, ha az ünnep vasárnapra esik, vagy húsvét- illetve pünkösdvasárnapról van szó. A 101. § a vasárnapi, a 102. § (2) a munkaszüneti napi rendes munkaidőt szabályozza."
+        },
+        {
+          "text": "Ha a munkaszüneti nap vasárnapra esik, a 101. § (1) bekezdés teljes a)–i) listája irányadó, mert a vasárnapi engedélyek „felélednek”.",
+          "isCorrect": false,
+          "rationale": "HAMIS, éppen a szűkebb, munkaszüneti napi rend az irányadó. Az Mt. 102. § (4) bekezdése szerint a munkaszüneti napra vonatkozó beosztási szabályokat kell alkalmazni, ha az ünnep vasárnapra esik, továbbá húsvét- és pünkösdvasárnapon. A kereskedelmi i) pont e napon nem nyílik meg. A 101. § (1) teljes listája ilyenkor nem „éled fel”."
+        },
+        {
+          "text": "A vasárnap és a munkaszüneti nap nem azonos jogi minőség: a vasárnap a heti pihenőnap természetes horgonya, a munkaszüneti nap pedig a 102. § (1) bekezdése szerinti naptári ünnep.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két nap a munka- és pihenőidő rendszerében elválik egymástól. A vasárnap a heti pihenőnap horgonya a 105. § (4) és a 106. § (2) bekezdése szerint. A munkaszüneti nap taxatív naptári ünnep a 102. § (1) bekezdése alapján. Magát a vasárnapot a 102. § (1) bekezdése nem sorolja a munkaszüneti napok közé."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "aee946d163d2"
+    },
+    {
+      "question": "Milyen jellegű a vasárnapra rendes munkaidő beosztásának engedélye az Mt. 101. § (1) bekezdése alapján?",
+      "options": [
+        {
+          "text": "A 101. § (1) bekezdése a vasárnapi rendes munkaidőt kilenc zárt, taxatív esetben engedi (a)–i) pont); aki e pontok egyikébe sem tartozik, annak vasárnapra rendes munkaidő nem osztható be.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a vasárnapi engedélylista zárt és taxatív. Az Mt. 101. § (1) bekezdése szerint: „Vasárnapra rendes munkaidő a) a rendeltetése folytán e napon is működő munkáltatónál vagy munkakörben, b) az idényjellegű, c) a megszakítás nélküli, d) a több műszakos tevékenység keretében” — valamint az e)–i) pontokban — osztható be. A működési célszerűség önmagában nem elegendő jogalap. Aki az a)–i) pontok egyikébe sem tartozik, annak vasárnapra rendes munkaidő nem osztható be."
+        },
+        {
+          "text": "Vasárnapra rendes munkaidő bármely munkakörben beosztható, ha a munkáltató üzleti érdeke ezt indokolja, mert a 101. § csak példálódzó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a lista taxatív, nem példálódzó. Az Mt. 101. § (1) bekezdése kilenc zárt esetet enged. A taxatív körön kívül eső munkavállaló számára vasárnapra rendes munkaidő nem osztható be. Az üzleti érdek önmagában nem jogalap a vasárnapi rendes munkaidőre."
+        },
+        {
+          "text": "A munkáltató nem a működési célszerűségre, hanem a 101. § (1) bekezdés a)–i) pontjára támaszkodhat, ha vasárnapra rendes munkaidőt akar beosztani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom taxatív engedéllyel párosul. Az Mt. 101. § (1) bekezdése kilenc zárt esetet ad: rendeltetés, idényjelleg, megszakítás nélküli, több műszak, készenléti jelleg, szombat–vasárnapi részmunkaidő, közszükséglet vagy külföldi szolgáltatás, külföldi munkavégzés, kereskedelem. A célszerűségi érvelés a listán kívül esik. Munkaszüneti napon a 102. § (2) bekezdése még szűkebben utal vissza ugyanezekre a pontokra."
+        },
+        {
+          "text": "A 101. § (1) bekezdése csak a kereskedelmi i) pontot engedi; a többi a)–h) pont csupán munkaszüneti napra vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 101. § a teljes vasárnapi listát adja, és az i) pont csak egy a kilenc közül. Az Mt. 102. § (2) bekezdése a munkaszüneti napra éppen fordítva szűkít: az a)–c) és g)–h) pontot engedi, az i) pontot kimaradja. A kereskedelmi engedély vasárnapra szól, ünnepre nem. A vasárnapi és a munkaszüneti napi engedélykör így nem cserélhető fel."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "18e969e114af"
+    },
+    {
+      "question": "Miben szűkebb a munkaszüneti napra osztható rendes munkaidő a vasárnapi engedélykörhöz képest?",
+      "options": [
+        {
+          "text": "Munkaszüneti napra rendes munkaidő csak a 101. § (1) bekezdés a)–c) és g)–h) pontjában meghatározott esetben osztható be; kimarad a több műszak, a készenléti jelleg, a szombat–vasárnapi részmunkaidő és a kereskedelem.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 102. § (2) bekezdése szűkít a vasárnapi listához képest. Az Mt. 102. § (2) bekezdése szerint: „Munkaszüneti napra rendes munkaidő a 101. § (1) bekezdés a)–c), g)–h) pontban meghatározott esetben osztható be.” A d), e), f) és i) pont ünnepen nem nyílik meg. A kereskedelmi nyitva tartás és a többműszakos üzem ünnepi rendes munkaidőre e szabály szerint nem elegendő."
+        },
+        {
+          "text": "A készenléti jelleg, a több műszak és a kereskedelem a vasárnapi rendes munkaidőt megnyitja, a munkaszüneti napi rendes munkaidőt azonban a 102. § (2) bekezdése szerint nem.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ugyanezek a pontok vasárnapon igen, ünnepen nem. Az Mt. 101. § (1) bekezdés d), e) és i) pontja vasárnapra engedi a beosztást. A 102. § (2) bekezdése e pontokat kihagyja a munkaszüneti napi engedélykörből. A folyamatos vagy idényjellegű, a rendeltetés szerinti, a közszükségleti vagy külföldi munkavégzés ünnepen is indokolható marad."
+        },
+        {
+          "text": "Munkaszüneti napra a 101. § (1) bekezdés teljes a)–i) listája irányadó, mert a 102. § (2) bekezdése csak a rendeltetés fogalmát ismétli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés szűkít, nem ismétel. Az Mt. 102. § (2) bekezdése csak az a)–c) és g)–h) pontot engedi. A rendeltetés fogalmát a (3) bekezdés adja két ágon. A teljes vasárnapi lista ünnepre nem vihető át."
+        },
+        {
+          "text": "Munkaszüneti napra kizárólag a kereskedelmi i) pont szerinti munkavállaló osztható be rendes munkaidőben, a többi pont csak vasárnapra szól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az i) pont éppen kimarad a munkaszüneti napi listából. Az Mt. 102. § (2) bekezdése az a)–c) és g)–h) pontot engedi, az i) pontot nem. A kereskedelmi munkavállaló „sima” vasárnapon a 101. § (1) i) pontja szerint osztható be, ünnepen nem. A vasárnapi és az ünnepi engedélykör megfordítása téves."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "1f4229b9abff"
+    },
+    {
+      "question": "Mi a munkaközi szünet jogi természete, és miben különbözik a napi pihenőidőtől?",
+      "options": [
+        {
+          "text": "A munkaközi szünet azonos a 104. § szerinti napi pihenőidővel: mindkettő a munkanapok közötti, tizenegy órás egybefüggő pihenő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két intézmény nem azonos. Az Mt. 103. § a munkavégzés közbeni szünetet, a 104. § a napok közötti napi pihenőidőt rendezi. A 104. § főszabálya tizenegy egybefüggő óra a munka befejezése és a következő kezdés között. A 103. és a 104. § fogalmi összevonása ezért téves."
+        },
+        {
+          "text": "A 104. § a napi pihenőidőt főszabályként tizenegy egybefüggő órával a munka befejezése és a következő munkanapi kezdés közé teszi; a munkaközi szünet e sávon belül, a munkavégzés alatt áll.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hely és a funkció elválik. Az Mt. 104. § a napok közötti pihenőt, a 103. § a napi munkavégzés közbeni szünetet szabályozza. A munkavállaló a munkaközi szünet tartamában nem köteles rendelkezésre állni. A szünet a 103. § (4) bekezdése szerint nem tölthető a gép mellett."
+        },
+        {
+          "text": "A munkaközi szünet a 105. § szerinti heti pihenőnap része, ezért havonta legalább egy vasárnapra kell esnie.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkaközi szünet nem heti pihenőnap. Az Mt. 103. § a napi munkavégzés közbeni szünetet adja. A 105. § (4) és a 106. § (2) bekezdése a heti pihenőnap, illetve pihenőidő vasárnapi horgonyát rendezi. A 103. és a 105. § összekeverése a két intézmény helyét is felcseréli."
+        },
+        {
+          "text": "A munkaközi szünet a napi munkavégzés közbeni, a munkavégzés megszakításával kiadott pihenő; nem a napi pihenőidő (104. §) és nem a heti pihenőnap (105. §).",
+          "isCorrect": true,
+          "rationale": "IGAZ, három külön intézmény áll egymás mellett. A munkaközi szünetet a 103. § a napi munkavégzés közben rendezi. A 104. § a munka befejezése és a következő munkanapi kezdés közé teszi a napi pihenőidőt. A heti pihenőnapot a 105. § szabályozza, a havi vasárnapi horgonnyal. A 103. § (4) bekezdése szerint: „A munkaközi szünetet a munkavégzés megszakításával kell kiadni.”"
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "408932033c42"
+    },
+    {
+      "question": "Mely napokat sorolja fel az Mt. 102. § (1) bekezdése munkaszüneti napként?",
+      "options": [
+        {
+          "text": "A 102. § (1) bekezdése taxatív listát ad; december 24. e katalógusban nem szerepel munkaszüneti napként.",
+          "isCorrect": true,
+          "rationale": "IGAZ, december 24. nem munkaszüneti nap a törvényi listán. Az Mt. 102. § (1) bekezdése december 25–26-ot nevezi meg, a 24-ét nem. A 15/2023. (VII. 13.) GFM rendelet 2. § b) pontja a 2024. december 24-i keddet pihenőnappá teszi áthelyezéssel, de ez nem bővíti az (1) bekezdés katalógusát. Az áthelyezés a 102. § (5) bekezdése szerinti rendelet hatása."
+        },
+        {
+          "text": "A miniszter a 102. § (5) bekezdése alapján bármikor új munkaszüneti napot vehet fel az (1) bekezdés katalógusába.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (5) bekezdés nem nyit új ünnepet. Az Mt. 102. § (5) bekezdése a munkaidő-beosztás ünnepek miatti változtatását hatalmazza rendeletre, azonos hónapon belüli cserével. Újabb napot a törvény az (1) bekezdésben nem nyit. A miniszter vasárnapot sem nyilváníthat munkanappá."
+        },
+        {
+          "text": "Munkaszüneti nap: január 1., március 15., nagypéntek, húsvéthétfő, május 1., pünkösdhétfő, augusztus 20., október 23., november 1. és december 25–26.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkaszüneti napok köre az Mt. 102. § (1) bekezdésében zárt és taxatív. Az Mt. 102. § (1) bekezdése szerint: „Munkaszüneti nap: január 1., március 15., nagypéntek, húsvéthétfő, május 1., pünkösdhétfő, augusztus 20., október 23., november 1. és december 25–26.” Újabb napot a törvény e szakaszban nem nyit. A húsvét- és a pünkösdvasárnapot a (4) bekezdés a beosztási rendhez utalja, noha magát a vasárnapot az (1) bekezdés nem sorolja ide."
+        },
+        {
+          "text": "A 102. § (1) bekezdése a vasárnapot is munkaszüneti napnak minősíti, ezért minden vasárnap ünnepi beosztási rend alá esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a vasárnap nincs az (1) bekezdés listáján. Az Mt. 102. § (1) bekezdése taxatív ünnepeket sorol fel, vasárnap nélkül. A vasárnapi rendes munkaidőt a 101. § (1) bekezdése engedi. A (4) bekezdés csak akkor rendeli a munkaszüneti napi beosztási szabályt, ha az ünnep vasárnapra esik, vagy húsvét-/pünkösdvasárnapról van szó."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "42085a7b53e7"
+    },
+    {
+      "question": "Mit jelent az, hogy a munkáltató vagy a munkakör „rendeltetése folytán” működik munkaszüneti napon is az Mt. 102. § (3) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A 102. § (3) bekezdése csak munkaszüneti napra szól; a vasárnapi 101. § (1) a) pontnál a rendeltetés fogalma szabadon, a (3) bekezdés nélkül tölthető ki.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a vasárnapi a) pontra is a 102. § (3) bekezdés ismérvei irányadók. Az Mt. 101. § (2) bekezdése az (1) bekezdés a) pontjához a 102. § (3) bekezdését rendeli megfelelően. A társadalmi szokás és a szükséghelyzet tehát vasárnapon is köt. A (3) bekezdés átvitele nem hagyható figyelmen kívül."
+        },
+        {
+          "text": "A munkáltató vagy a munkakör akkor minősül rendeltetése folytán működőnek, ha a tevékenység igénybevétele a munkaszüneti naphoz kapcsolódó társadalmi szokásból ered, vagy baleset, elemi csapás, súlyos kár, egészségi illetve környezeti veszély, továbbá vagyonvédelem indokolja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés két ágon adja a fogalmat. Az Mt. 102. § (3) bekezdés a) pontja a munkaszüneti naphoz közvetlenül kapcsolódó, helyben kialakult vagy általánosan elfogadott társadalmi szokást köti a működéshez. A b) pont a baleset, elemi csapás, súlyos kár, egészségi vagy környezeti veszély megelőzése vagy elhárítása és a vagyonvédelem objektív szükséghelyzetét. A 101. § (2) bekezdése ugyanezt a fogalmat a vasárnapi a) pontra is átviszi."
+        },
+        {
+          "text": "A rendeltetés fogalma kizárólag a munkáltató üzleti döntésétől függ: ha a vállalkozás vasárnap is nyitva tartani kíván, a 102. § (3) bekezdése teljesül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendeltetés nem üzleti döntés. Az Mt. 102. § (3) bekezdése társadalmi szokáshoz vagy objektív szükséghelyzethez köti a minősítést. A 101. § (2) bekezdése ugyanezt a vasárnapi a) pontra is átviszi. Az önkényes nyitvatartási szándék a törvényi két ág egyikébe sem fér bele."
+        },
+        {
+          "text": "A 101. § (2) bekezdése az (1) bekezdés a) pont tekintetében a 102. § (3) bekezdését rendeli megfelelően irányadónak, tehát a vasárnapi rendeltetést a munkaszüneti napi ismérvekkel kell kitölteni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendeltetés fogalma a vasárnapi a) pontra is átmegy. Az Mt. 101. § (2) bekezdése szerint az (1) bekezdés a) pont tekintetében a 102. § (3) bekezdése megfelelően irányadó. A társadalmi szokás vagy a szükséghelyzet tehát vasárnapon is a mérce. A célszerűségi érvelés önmagában a 102. § (3) bekezdés ismérvei nélkül nem elegendő."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "047a911250ba"
+    },
+    {
+      "question": "Mely beosztási rend irányadó, ha a munkaszüneti nap vasárnapra esik, vagy húsvét- illetve pünkösdvasárnapról van szó?",
+      "options": [
+        {
+          "text": "Ilyenkor a 101. § (1) bekezdés teljes a)–i) listája irányadó, mert a nap egyben vasárnap is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, ilyenkor nem a teljes vasárnapi lista, hanem a szűkebb ünnepi rend az irányadó. Az Mt. 102. § (4) bekezdése a munkaszüneti napra vonatkozó beosztási szabályokat rendeli. Munkaszüneti napra a 102. § (2) bekezdés szűkített listája az a)–c) és g)–h) pontot tartja meg. A teljes 101. § (1) a)–i) lista e napokon nem alkalmazható."
+        },
+        {
+          "text": "A húsvét- és a pünkösdvasárnap a 102. § (1) bekezdés katalógusában szerepel munkaszüneti napként, ezért a (4) bekezdés felesleges.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (1) bekezdés a húsvéthétfőt és a pünkösdhétfőt nevezi meg, nem a vasárnapokat. Az Mt. 102. § (4) bekezdése éppen ezért utalja a húsvét- és pünkösdvasárnapot a munkaszüneti napi beosztási rendhez. Magát a vasárnapot az (1) bekezdés nem sorolja a munkaszüneti napok közé. A (4) bekezdés így nem felesleges ütközőszabály."
+        },
+        {
+          "text": "A munkaszüneti napra vonatkozó — tehát a szűkebb — beosztási szabályokat kell megfelelően alkalmazni, ha a munkaszüneti nap vasárnapra esik, továbbá a húsvét- és a pünkösdvasárnap tekintetében.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 102. § (4) bekezdése ütközőszabályként a szűkebb rendet rendeli. Az Mt. 102. § (4) bekezdése szerint: „A munkaszüneti napra vonatkozó beosztási szabályokat kell megfelelően alkalmazni, ha a munkaszüneti nap vasárnapra esik, továbbá a húsvét- és a pünkösdvasárnap tekintetében.” A vasárnapi engedélyek közül azok, amelyek a munkaszüneti napi listából kimaradtak, e napokon nem „élednek fel”. A kereskedelmi i) pont tehát e napon rendes munkaidőre nem nyílik meg."
+        },
+        {
+          "text": "A kereskedelmi i) pont szerinti munkavállaló e napon rendes munkaidőben nem osztható be, noha „sima” vasárnapon a 101. § (1) i) pontja szerint igen.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szűkebb rend a kereskedelmet is kizárja. Az Mt. 102. § (2) bekezdése az i) pontot nem engedi munkaszüneti napra. A (4) bekezdés e szűkebb rendet rendeli, ha az ünnep vasárnapra esik, vagy húsvét-/pünkösdvasárnapról van szó. A 101. § (1) i) pontja önmagában e napokon nem elegendő."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "b702ee7d313b"
+    },
+    {
+      "question": "Mire hatalmazza az Mt. 102. § (5) bekezdése a foglalkoztatáspolitikáért felelős minisztert, és milyen korlátokkal?",
+      "options": [
+        {
+          "text": "A miniszter évenként, legkésőbb a tárgyévet megelőző év október 31-ig rendeletben szabályozhatja az általános munkarendben foglalkoztatottak munkaidő-beosztásának munkaszüneti napok miatti változtatását; vasárnap nem nyilvánítható munkanappá, és a csere azonos naptári hónapra kell essen.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a foglalkoztatáspolitikáért felelős miniszter két törvényi korláttal kap rendeletalkotási felhatalmazást. Az Mt. 102. § (5) bekezdése szerint: „Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy – legkésőbb a tárgyévet megelőző év október 31-ig – az általános munkarendben foglalkoztatott munkavállalók munkaidő-beosztásának a munkaszüneti napok miatti változtatását évenként rendeletben szabályozza.” Vasárnap nem nyilvánítható munkanappá. A változtatásnak azonos naptári hónapra kell esnie."
+        },
+        {
+          "text": "A miniszter az (5) bekezdés alapján vasárnapot is munkanappá nyilváníthat, ha az ünnep miatti áthelyezés ezt indokolja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a vasárnap munkanappá nyilvánítása a 102. § (5) bekezdésében kifejezetten tilos. Az Mt. 102. § (5) bekezdése szerint vasárnap nem nyilvánítható munkanappá. A 15/2023. (VII. 13.) GFM rendelet 2. §-a is csak szombatot tesz munkanappá. A miniszter tehát az ünnep miatti áthelyezés címén sem teheti a vasárnapot általános munkanappá."
+        },
+        {
+          "text": "A 102. § (5) bekezdése szerinti változtatás során vasárnap nem nyilvánítható munkanappá, és a csere azonos naptári hónapra kell essen; a rendeletalkotás határideje a tárgyévet megelőző év október 31-e.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (5) bekezdés törzse e három korlátot adja. Az Mt. 102. § (5) bekezdése a felhatalmazást október 31-i határidőhöz, vasárnapi tilalomhoz és azonos naptári hónapon belüli cseréhez köti. A 15/2023. (VII. 13.) GFM rendelet 2. §-a mindhárom 2024. évi cserét e keretek között rögzíti."
+        },
+        {
+          "text": "az (5) bekezdés szerinti rendelet a több műszakos és a megszakítás nélküli foglalkoztatásra is kiterjed, mert minden munkarendet egységesen cserél.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendelet az általános munkarendet címzi. A 15/2023. (VII. 13.) GFM rendelet 1. §-a szerint a hatály a munkáltatókra és az általuk általános munkarendben foglalkoztatottakra terjed ki. A több műszakos, a megszakítás nélküli vagy a kötetlen rendű foglalkoztatásra a naptár-csere nem hat. Az Mt. 102. § (5) bekezdése is az általános munkarendben foglalkoztatottakat nevezi meg."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "b27361fdf49f"
+    },
+    {
+      "question": "Mekkora a munkaközi szünet törvényi tartama az Mt. 103. § (1) és (3) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Ha a beosztás szerinti napi munkaidő vagy a 107. § a) pont szerinti rendkívüli munkaidő tartama a hat órát meghaladja, húsz perc, a kilenc órát meghaladja, további huszonöt perc jár; a felek vagy a kollektív szerződés legfeljebb hatvan percet biztosíthat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a törvényi minimum és a plafon a 103. §-ban elválik. Az Mt. 103. § (1) bekezdése szerint: „A munkavállaló részére, ha a beosztás szerinti napi munkaidő vagy a 107. § a) pont szerinti rendkívüli munkaidő tartama a) a hat órát meghaladja, húsz perc, b) a kilenc órát meghaladja, további huszonöt perc munkaközi szünetet kell biztosítani.” A két sáv együtt negyvenöt perc, ha a napi tartam a kilenc órát meghaladja. A (3) bekezdés legfeljebb hatvan percet enged a felek vagy a kollektív szerződés számára."
+        },
+        {
+          "text": "A törvényi húsz, illetve negyvenöt perc minimum; a (3) bekezdés szerinti hatvan perc a plafon, amelyet a felek megállapodása vagy a kollektív szerződés érhet el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (1) bekezdés a minimumot, a (3) a plafont adja. Az Mt. 103. § (3) bekezdése szerint a felek megállapodása vagy kollektív szerződés a munkavállalók számára legfeljebb hatvan perc munkaközi szünetet biztosíthat. A törvényi húsz, illetve negyvenöt perc tehát nem csökkenthető a munkavállaló terhére a 135. § (2) bekezdés g) pontja szerint. A hosszabb szünet in melius nyitható."
+        },
+        {
+          "text": "Hat óra felett automatikusan hatvan perc jár, mert a (3) bekezdés a törvényi alapmérték.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törvényi alap az (1) bekezdés szerinti húsz, illetve további huszonöt perc. Az Mt. 103. § (3) bekezdése legfeljebb hatvan percet enged a felek vagy a kollektív szerződés számára. A hatvan perc tehát plafon, nem automatikus alapmérték. Az (1) bekezdés küszöbei a hat- és kilencórás sávhoz kötöttek."
+        },
+        {
+          "text": "Kilenc óra felett csak a további huszonöt perc jár, a hat óra feletti húsz perc ilyenkor elveszik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két sáv a 103. § (1) bekezdése szerint összeadódik. Az Mt. 103. § (1) bekezdés a) pontja hat óra felett húsz percet, a b) pont kilenc óra felett további huszonöt percet ad. A két sáv együtt negyvenöt perc, ha a napi tartam a kilenc órát meghaladja. A b) pont a húsz perces sávot nem vonja el a munkavállalótól."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "b1cdafd6caec"
+    },
+    {
+      "question": "Hogyan kell kiadni a munkaközi szünetet az Mt. 103. § (4)–(6) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A munkaközi szünetet a munkavégzés megszakításával kell kiadni; főszabály szerint legalább három, legfeljebb hat óra munkavégzést követően, de a munkáltató több részletben is kiadhatja, ha az (5) bekezdés szerinti tartamban kiadott részlet legalább húsz perc.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kiadás módja és ideje kötött. Az Mt. 103. § (4) bekezdése szerint a szünetet a munkavégzés megszakításával kell kiadni. Az (5) bekezdés legalább három, legfeljebb hat óra munkavégzéshez köti a kiadást. A (6) bekezdés a részletekben kiadást megengedi, de az (5) bekezdés szerinti tartamban kiadott részletnek legalább húsz percnek kell lennie."
+        },
+        {
+          "text": "A munkaközi szünet a gép mellett is eltölthető, ha a munkavállaló rendelkezésre áll, mert a (4) bekezdés csak a tartamot rendezi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (4) bekezdés a megszakítást követeli, nem csupán a tartamot. Az Mt. 103. § (4) bekezdése szerint a munkaközi szünetet a munkavégzés megszakításával kell kiadni. A munkavállaló e tartamban nem köteles rendelkezésre állni. A szünet ezért nem tölthető a gép mellett rendelkezésre állással."
+        },
+        {
+          "text": "A munkáltató a szünetet tetszőleges percnyi részletekre bonthatja, mert a (6) bekezdés az (5) bekezdéstől minden korlát nélkül eltérést enged.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (6) bekezdés korlátozott eltérést enged. Az Mt. 103. § (6) bekezdése szerint az (5) bekezdés szerinti tartamban kiadott részletnek legalább húsz percnek kell lennie. A munkáltató tehát nem aprózhatja a szünetet öt–öt perces blokkokra. Az (5) bekezdés három–hat órás sávjának védelme így megmarad."
+        },
+        {
+          "text": "Részletekben kiadáskor a munkáltató az (5) bekezdéstől eltérhet, de a húsz perces „főrészlet” a három–hat órás sáv védelmét viszi át: a szünet nem aprózható öt–öt perces blokkokra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (6) bekezdés a darabolást korlátozza. Az Mt. 103. § (6) bekezdése szerint a munkáltató több részletben is kiadhatja a szünetet, és ekkor az (5) bekezdéstől el lehet térni. Az (5) bekezdés szerinti tartamban kiadott részletnek azonban legalább húsz perc tartamúnak kell lennie. Az öt–öt perces aprózás e szabályba ütközik."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "528a2dfdbf46"
+    },
+    {
+      "question": "Mely rendkívüli munkaidő számít be a munkaközi szünet 103. § szerinti napi küszöbébe?",
+      "options": [
+        {
+          "text": "A 103. § küszöbei kizárólag a beosztás szerinti rendes munkaidőt mérik; a 107. § a) pont szerinti rendkívüli soha nem számít be.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a beosztástól eltérő rendkívüli mellőzése a napi küszöbnél ellentétes a 103. § (2) bekezdésével. Az Mt. 103. § (2) bekezdése a 107. § a) pont szerinti, beosztástól eltérő rendkívüli tartamát a beosztás szerinti napi munkaidőbe emeli. Az (1) bekezdés hat- és kilencórás küszöbe e beszámított tartamon is dől el. A rendkívüli teljes mellőzése a napi küszöbnél ezért tilos."
+        },
+        {
+          "text": "A beosztás szerinti napi munkaidőbe a 107. § a) pont szerinti, beosztástól eltérő rendkívüli munkaidő tartamát be kell számítani; a b)–d) pont szerinti kereten felüli, elszámolási időszakot meghaladó vagy ügyeleti tartam a 103. § küszöbébe nem számít be.",
+          "isCorrect": true,
+          "rationale": "IGAZ, csak a beosztástól eltérés számít. Az Mt. 103. § (2) bekezdése szerint a beosztás szerinti napi munkaidőbe a 107. § a) pont szerinti rendkívüli munkaidő tartamát be kell számítani. A 107. § a) pontja a munkaidő-beosztástól eltérő munkaidőt minősíti rendkívülinek. A b)–d) pont — kereten felüli, elszámolási időszakot meghaladó, ügyelet — a 103. § küszöbébe nem számít be."
+        },
+        {
+          "text": "A hat- és kilencórás küszöb a rendes beosztás és a beosztástól eltérő rendkívüli együttesén dől el a 103. § (1)–(2) bekezdése szerint.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés a beszámítást kötelezővé teszi. Az Mt. 103. § (1) bekezdése a beosztás szerinti napi munkaidőt vagy a 107. § a) pont szerinti rendkívülit méri. A (2) bekezdés e rendkívüli tartamot a beosztás szerinti napi munkaidőbe emeli. A küszöb tehát az együttes tartamon dől el."
+        },
+        {
+          "text": "Minden rendkívüli munkaidő — ideértve az ügyeletet is — automatikusan beleszámít a 103. § hatórás küszöbébe.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az ügyelet nem kerül automatikusan a 103. § hatórás küszöbébe. Az Mt. 103. § (2) bekezdése kifejezetten a 107. § a) pontjára utal. A kereten felüli, az elszámolási időszakot meghaladó és az ügyeleti tartam a 103. § küszöbébe nem számít be. Az ügyelet automatikus beszámítása tehát téves."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "b17310bfec01"
+    },
+    {
+      "question": "Mit ír elő az Mt. 105. § (4) és a 106. § (2) bekezdése a heti pihenőnap, illetve a heti pihenőidő vasárnapi kiadásáról?",
+      "options": [
+        {
+          "text": "A 105. § (4) bekezdése minden munkavállalóra — ideértve a szombat–vasárnapi részmunkaidőst is — kötelezően előírja a havi legalább egy vasárnapi pihenőnapot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az f) pont szerinti kör kivétel a havi vasárnapi kötelezettség alól. Az Mt. 105. § (4) bekezdése a 101. § (1) bekezdés f) pontja szerinti, kizárólag szombaton és vasárnap részmunkaidőben foglalkoztatottat kivonja. A 106. § (2) bekezdése ugyanezt a heti pihenőidőre is alkalmazza. A kivétel nélküli, mindenkit kötelező olvasat ezért nem állja meg a helyét."
+        },
+        {
+          "text": "A kizárólag szombaton és vasárnap teljesített részmunkaidőre a 105. § (4) és a 106. § (2) bekezdése a havi vasárnapi pihenőnap, illetve pihenőidő kötelezettségét nem írja elő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az f) pont önálló vasárnapi engedély és egyben kivétel a havi vasárnapi pihenő alól. Az Mt. 101. § (1) bekezdés f) pontja a kizárólag szombaton és vasárnap részmunkaidőben foglalkoztatottat engedi vasárnapi rendes munkaidőre. A 105. § (4) és a 106. § (2) bekezdése e körre a havi vasárnapi pihenő kötelezettségét nem írja elő. A munkarend ugyanis éppen a hétvégére épül, ezért a havi vasárnapi horgony e körben nem érvényesül."
+        },
+        {
+          "text": "Havonta legalább egy heti pihenőnapot — a 101. § (1) bekezdés f) pontja szerinti, kizárólag szombaton és vasárnap részmunkaidőben foglalkoztatott kivételével — vasárnapra kell beosztani; a 106. § (2) bekezdése ugyanezt a heti pihenőidő havonta legalább egy vasárnapi kiadására is előírja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a vasárnap a heti pihenő természetes horgonya. Az Mt. 105. § (4) bekezdése a heti pihenőnap havi legalább egy vasárnapi beosztását követeli, a 101. § (1) f) pont szerinti kivétellel. A 106. § (2) bekezdése ugyanezt a heti pihenőidőre is előírja. A kivétel azért áll, mert e munkarend éppen a hétvégére épül."
+        },
+        {
+          "text": "A 105. § (4) és a 106. § (2) bekezdése a munkaközi szünet vasárnapi kiadását rendezi, nem a heti pihenőnapét vagy pihenőidőét.",
+          "isCorrect": false,
+          "rationale": "HAMIS, e szakaszok a heti pihenőt rendezik. Az Mt. 105. § a heti pihenőnapot, a 106. § a heti pihenőidőt szabályozza. A munkaközi szünet a 103. § szerint a napi munkavégzés közben áll. A 105–106. § és a 103. § fogalmi összekeverése téves."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "b14a1a0068da"
+    },
+    {
+      "question": "Mikor minősül készenléti jellegűnek a munkakör a vasárnapi rendes munkaidő 101. § (1) e) pontja szempontjából?",
+      "options": [
+        {
+          "text": "Készenléti jellegűnek minősül minden olyan munkakör, amelyben a munkáltató bármikor elérhetőséget vár, mérték és igénybevétel vizsgálata nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a készenléti jelleg mértékes ismérveket kíván, nem puszta elérhetőséget. Készenléti a munkakör akkor, ha a rendes munkaidő legalább egyharmadában munkavégzés nélkül kell rendelkezésre állni, vagy a munkavégzés lényegesen alacsonyabb igénybevétellel jár. Az Mt. 101. § (1) e) pontja e fogalomra utal. Az általános „elérhetőség” önmagában nem elég."
+        },
+        {
+          "text": "Készenléti a munkakör, ha a rendes munkaidő legalább egyharmadában munkavégzés nélkül kell rendelkezésre állni, vagy a munkavégzés az általánoshoz képest lényegesen alacsonyabb igénybevétellel jár; e kör a 101. § (1) e) pontja szerint vasárnapra rendes munkaidőt nyit.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a készenléti jelleg a 91. § ismérveivel tölthető ki a vasárnapi e) pontnál. Az Mt. 101. § (1) bekezdés e) pontja a készenléti jellegű munkakört engedi vasárnapi rendes munkaidőre. A munkakör akkor készenléti, ha a rendes munkaidő legalább egyharmadában munkavégzés nélkül kell rendelkezésre állni, vagy a munkavégzés lényegesen alacsonyabb igénybevétellel jár. A 102. § (2) bekezdése ezt az e) pontot munkaszüneti napra nem engedi át."
+        },
+        {
+          "text": "A készenléti jelleg a vasárnapi rendes munkaidőt megnyitja, a munkaszüneti napi rendes munkaidőt azonban a 102. § (2) bekezdése szerint nem.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a vasárnapi és az ünnepi engedélykör elválik. Az Mt. 101. § (1) e) pontja vasárnapra engedi a készenléti munkakört. A 102. § (2) bekezdése az e) pontot kimaradja a munkaszüneti napi listából. Ünnepi rendes munkaidőre tehát a készenléti jelleg önmagában nem elegendő."
+        },
+        {
+          "text": "A készenléti jellegű munkakör munkaszüneti napra is ugyanúgy osztható be rendes munkaidőben, mint vasárnapra, mert a 101. § (1) e) pontja mindkét napra szól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, munkaszüneti napra az e) pont nem nyílik meg. A 102. § (2) bekezdés szűkített ünnepi köre az a)–c) és g)–h) pontot hagyja meg. A készenléti e) pont a vasárnapi 101. § (1) listán van, az ünnepi szűkítésből kimarad. A két nap engedélykörének azonossága tehát téves."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "c42d954aa6ce"
+    },
+    {
+      "question": "Kit enged a kereskedelemről szóló törvény hatálya alá tartozó munkáltatónál a 101. § (1) i) pont vasárnapi rendes munkaidőre?",
+      "options": [
+        {
+          "text": "Az i) pont vasárnapra megnyitja a kereskedelmi kört, munkaszüneti napra azonban a 102. § (2) bekezdése szerint nem; ha az ünnep vasárnapra esik, a (4) bekezdés miatt e napon sem osztható be.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az i) pont ünnepen kimarad a szűkített listából. Az Mt. 102. § (2) bekezdése a kereskedelmi i) pontot nem engedi munkaszüneti napi rendes munkaidőre. A (4) bekezdés a szűkebb ünnepi rendet rendeli, ha az ünnep vasárnapra esik, vagy húsvét-/pünkösdvasárnapról van szó. „Sima” vasárnapon az i) pont szerinti beosztás viszont lehetséges."
+        },
+        {
+          "text": "A kereskedelemről szóló törvény hatálya alá tartozó, kereskedelmi tevékenységet, a kereskedelmet kiszolgáló szolgáltató, valamint kereskedelmi jellegű turisztikai szolgáltatási tevékenységet folytató munkáltatónál foglalkoztatott munkavállaló számára osztható be vasárnapra rendes munkaidő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az i) pont a kereskedelmi kör három ágát nevezi meg. Az Mt. 101. § (1) bekezdés i) pontja szerint vasárnapra rendes munkaidő a kereskedelemről szóló törvény hatálya alá tartozó, kereskedelmi, azt kiszolgáló vagy kereskedelmi jellegű turisztikai tevékenységet folytató munkáltatónál foglalkoztatott számára osztható be. Ez a 2016. évi XXIII. törvénynek a 101. § (1) bekezdésébe inkorporált fordulata. A 2014. évi CII. törvény szerinti kiskereskedelmi vasárnapi tilalom feloldása után került a listába."
+        },
+        {
+          "text": "Az i) pont csak a kiskereskedelmi pénztárost engedi; a kereskedelmet kiszolgáló szolgáltató és a turisztikai tevékenység kívül esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az i) pont három tevékenységi ágat sorol. Az Mt. 101. § (1) i) pontja a kereskedelmi tevékenységet, a kereskedelmet kiszolgáló szolgáltatót és a kereskedelmi jellegű turisztikai szolgáltatást is nevezi. A hatály a kereskedelemről szóló törvény alá tartozást kívánja. A kizárólag pénztárosra szűkítés a törvényi szöveggel ellentétes."
+        },
+        {
+          "text": "Az i) pont munkaszüneti napra is engedi a kereskedelmi munkavállaló rendes munkaidő-beosztását, mert a kereskedelem mindig „rendeltetés szerint” működik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az i) pont ünnepen nem nyílik meg. Az Mt. 102. § (2) bekezdése az a)–c) és g)–h) pontot engedi, az i) pontot kimaradja. A rendeltetés a 102. § (3) bekezdés a) vagy b) pontja, nem automatikus kereskedelmi címke. A kereskedelmi nyitva tartás ünnepi rendes munkaidőre e szabály szerint nem elegendő."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "dbbac8744b88"
+    },
+    {
+      "question": "Kire terjed ki a 15/2023. (VII. 13.) GFM rendelet hatálya az 1. § szerint?",
+      "options": [
+        {
+          "text": "A rendelet hatálya csak a kereskedelmi munkáltatókra terjed ki, az egyéb általános munkarendűekre nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az 1. § minden munkáltatót és az általános munkarendűeket köt, nem csupán a kereskedelmet. A 15/2023. (VII. 13.) GFM rendelet 1. §-a nem szűkít kereskedelmi körre. A 102. § (5) bekezdés felhatalmazása is az általános munkarendben foglalkoztatottakat nevezi meg. A hatály kereskedelmi szektorra szűkítése ezért nem felel meg a rendelet szövegének."
+        },
+        {
+          "text": "A rendelet hatálya kiterjed minden munkáltatóra és az általuk általános munkarendben foglalkoztatottakra; a több műszakos, a megszakítás nélküli vagy a kötetlen rendű foglalkoztatásra a naptár-csere nem hat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendelet személyi hatálya az általános munkarendű foglalkoztatottakhoz kötődik. A 15/2023. (VII. 13.) GFM rendelet 1. §-a szerint: „E rendelet hatálya kiterjed minden munkáltatóra és az általuk általános munkarendben foglalkoztatottakra.” A több műszakos, a megszakítás nélküli vagy a kötetlen rendű foglalkoztatásra a naptár-csere nem hat. E körben nincs „hétfőtől péntekig” áthelyezendő munkanap."
+        },
+        {
+          "text": "A rendelet a 101. § (1) bekezdés összes vasárnapi engedélyesét is kötelezi a szombati ledolgozásra, mert minden vasárnapi foglalkoztatott „általános” rendű.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendelet 1. §-a nem a 101. § (1) bekezdés vasárnapi engedélyeseit címzi. A 15/2023. (VII. 13.) GFM rendelet az általános, naptár szerinti hétköznapi munkarendet bontja meg. A kereskedelmi vagy készenléti munkakörben vasárnap rendes munkaidőben foglalkoztatott a 101. § szerint osztható be. A rendelet a szombati ledolgozást az általános rendűeknek adja."
+        },
+        {
+          "text": "Ha ugyanannál a munkáltatónál vegyes a rend, a rendelet csak az általános munkarendűekre hat; a műszakos munkavállaló a saját beosztása szerint dolgozik vagy pihen.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hatály személyi oldala szűk. A 15/2023. (VII. 13.) GFM rendelet 1. §-a a munkáltatót és a nála általános munkarendben foglalkoztatottat együtt köti. Vegyes rendnél csak az általános munkarendűekre hat. A műszakos munkavállaló augusztus 3-án nem a rendelet szerinti ledolgozó napon, hanem a saját beosztása szerint dolgozik vagy pihen."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "f14c36eb4d0a"
+    },
+    {
+      "question": "Milyen naptári cseréket rögzít a 15/2023. (VII. 13.) GFM rendelet 2. §-a a 2024. évre?",
+      "options": [
+        {
+          "text": "A december 24-i pihenőnap a 102. § (5) bekezdése szerinti áthelyezés, nem a 102. § (1) bekezdés katalógusának bővítése; december 24. önmagában nem munkaszüneti nap.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 24-i pihenő áthelyezés, nem a törvényi ünneplistába felvett nap. Az Mt. 102. § (1) bekezdése a decemberi ünnepek közül a 25–26-ot nevezi meg munkaszüneti napként. A GFM-rendelet 2. § b) pontja a december 7-i szombatot munkanappá, a 24-i keddet pihenőnappá teszi. Ez az (5) bekezdés szerinti rendelet végrehajtása, nem az (1) bekezdés katalógusának bővítése."
+        },
+        {
+          "text": "A 2. § minden 2024. évi munkaszüneti naphoz rendel szombati ledolgozást, ideértve március 15-öt és május 1-jét is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, csak három csere van. A 15/2023. (VII. 13.) GFM rendelet 2. §-a augusztusi és két decemberi cserét rögzít. Március 15., nagypéntek, húsvét, május 1., pünkösd, október 23. és november 1. 2024-ben nem kaptak szombati ledolgozást. A 4. § szerinti hatályvesztésig más áthelyezést a rendelet nem tartalmaz."
+        },
+        {
+          "text": "Három csere van, mind azonos hónapon belül, és egyik sem tesz vasárnapot munkanappá: augusztus 3. szombat munkanap / augusztus 19. hétfő pihenőnap; december 7. szombat munkanap / december 24. kedd pihenőnap; december 14. szombat munkanap / december 27. péntek pihenőnap.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2. § három szombati ledolgozást és három hétközi pihenőt ad. A 15/2023. (VII. 13.) GFM rendelet 2. §-a szerint a 2024. évi munkarend: a) augusztus 3. szombat munkanap — augusztus 19. hétfő pihenőnap; b) december 7. szombat munkanap — december 24. kedd pihenőnap; c) december 14. szombat munkanap — december 27. péntek pihenőnap. Mindhárom csere azonos hónapon belül marad. Vasárnap egyik esetben sem válik munkanappá."
+        },
+        {
+          "text": "A rendelet 2024-ben vasárnapot is munkanappá tehet, ha az ünnep miatti hosszú hétvége ezt indokolja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a miniszter a vasárnapot a 102. § (5) bekezdés tilalma miatt nem teheti munkanappá. Az Mt. 102. § (5) bekezdése kifejezetten kimondja: vasárnap nem nyilvánítható munkanappá. A 15/2023. (VII. 13.) GFM rendelet 2. §-a mindhárom cserénél csak szombatot tesz munkanappá. A heti pihenőnap vasárnapi horgonya e rendeletben is megmarad."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "ee4ef5ddfc9a"
+    },
+    {
+      "question": "Mikor lép hatályba, és meddig hatályos a 15/2023. (VII. 13.) GFM rendelet?",
+      "options": [
+        {
+          "text": "A rendelet 2024. január 1-jén lép hatályba, és 2025. január 1-jén veszti hatályát; a 2024. december 27-i pihenőnap még e rendelet alatt marad.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hatály a naptári évet zárja a rendelet 3. és 4. szakasza szerint. A 15/2023. (VII. 13.) GFM rendelet 3. §-a szerint a rendelet 2024. január 1-jén lép hatályba. Ugyanezen rendelet 4. szakasza 2025. január 1-jén hatályon kívül helyezi a szöveget. A 2024. december 27-i pihenőnap még a 2024. évi rendelet alatt marad, a 2025. január 1-jei ünnepet már nem e rendelet cseréli."
+        },
+        {
+          "text": "A 102. § (5) bekezdése szerinti rendelet a tárgyév munkarendjét szabályozza; a következő tárgyévre új miniszteri rendelet kell, az október 31-i határidővel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az évenkénti rendelet logikája kötött. Az Mt. 102. § (5) bekezdése a tárgyévet megelőző október 31-ig ad felhatalmazást. A 2025. január 1-jei hatályvesztés után az általános munkarendűek beosztását már nem ez a rendelet köti. Áthelyezés nélkül az általános munkarend a naptár szerinti munkanapokon marad."
+        },
+        {
+          "text": "A 4. § szerinti hatályvesztés után a 2024. évi három csere automatikusan áthúzódik 2025-re is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 2024. évi három csere a következő naptári évre nem húzódik át. A 15/2023. (VII. 13.) GFM rendelet 4. szakasza 2025. január 1-jén hatályon kívül helyezi a rendeletet. A következő tárgyévre új miniszteri rendelet kell, vagy annak hiányában a naptár szerinti munkarend az irányadó. A 102. § (1) bekezdés ünneplistája áthelyezés nélkül is köt."
+        },
+        {
+          "text": "A rendelet a kihirdetés napján, 2023. július 13-án lép hatályba, ezért a 2023. évi cseréket is e szöveg szerint kell alkalmazni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatálybalépés 2024. január 1. A 15/2023. (VII. 13.) GFM rendelet 3. §-a a 2024. január 1-jei hatályt rögzíti. A kihirdetés 2023. nyarán történt, de a 2024. évi áthelyező munkarendet nyitja meg. A 2023. évi naptár e rendelettel nem csúszik össze."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "9f140ce1f386"
+    },
+    {
+      "question": "Mit enged a 135. § (2) bekezdés g) pontja a 101–108. §-tól való eltérésről?",
+      "options": [
+        {
+          "text": "A 135. § (1) bekezdése a 101–108. §-t is abszolút eltérést nem tűrő magnak minősíti, ezért kollektív szerződés e körben semmilyen irányban nem térhet el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 101–108. § a (2) bekezdés g) pontjában van, nem az (1) bekezdés abszolút magjában. Az Mt. 135. § (1) bekezdése más szakaszokat zár el teljesen. A (2) bekezdés g) pontja a 101–108. §-tól a munkavállaló javára enged eltérést. Az abszolút tilalom olvasata ezért túlzó."
+        },
+        {
+          "text": "Kollektív szerződés a 101–103. §-tól a munkavállaló terhére is eltérhet, ha az üzemmenet ezt indokolja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a terhére való eltérés tilos. Az Mt. 135. § (2) bekezdés g) pontja csak a munkavállaló javára enged eltérést a 101–108. §-tól. A vasárnapi taxáció és a munkaközi szünet minimuma a munkavállaló terhére nem oltható fel. Az üzemmeneti indok e záradékot nem oldja fel."
+        },
+        {
+          "text": "Kollektív szerződés a 101–108. §-ban foglaltaktól csak a munkavállaló javára térhet el; a vasárnapi és munkaszüneti taxáció, valamint a munkaközi szünet törvényi minimuma a munkavállaló terhére nem oltható fel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés g) pontja in melius záradék. Az Mt. 135. § (2) bekezdés g) pontja szerint kollektív szerződés a 101–108. §-ban foglaltaktól csak a munkavállaló javára térhet el. A vasárnapi és munkaszüneti beosztás taxációja a munkavállaló terhére nem tágítható. A 103. § húsz- és negyvenöt perces minimuma sem csökkenthető a munkavállaló kárára."
+        },
+        {
+          "text": "A 103. § (3) bekezdése szerinti hosszabb — legfeljebb hatvan perces — munkaközi szünet, a további vasárnapi tilalom vagy a kedvezőbb kiadási sáv in melius nyitható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkavállaló javára az eltérés megengedett a 101–108. § körében. Az Mt. 103. § (3) bekezdése a feleknek vagy a kollektív szerződésnek legfeljebb hatvan perces munkaközi szünetet enged. A 135. § (2) bekezdés g) pontja a 101–108. § körét csak in melius engedi tágítani. A kedvezőbb kiadási sáv vagy további vasárnapi tilalom tehát nyitható."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "123e356b845c"
+    },
+    {
+      "question": "Miben tér el a 135. § (4) bekezdése a (2) bekezdés g) pontjának „csak a munkavállaló javára” fordulatától?",
+      "options": [
+        {
+          "text": "A (4) bekezdés minden ágazatban feloldja a 101–108. § in melius korlátját, ha a munkáltató egyoldalúan elrendeli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (4) bekezdés taxatív ágazati körre és kollektív szerződésre / írásbeli megállapodásra szól. Az Mt. 135. § (4) bekezdése az a)–e) pont munkaköreit nevezi meg. Egyoldalú munkáltatói elrendelés e kivételt nem pótolja. A (2) bekezdés g) pontjának általános in melius záradéka más ágazatokban megmarad."
+        },
+        {
+          "text": "A (4) bekezdés csak a munkaközi szünet 103. §-át engedi lazítani, a vasárnapi 101. §-t nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (4) bekezdés nem csupán a munkaközi szünetet, hanem a 101–109. § teljes körét említi. Az Mt. 135. § (4) bekezdése a megjelölt légi, közúti, menetrendi, vasúti és kikötői munkakörökben engedi a kollektív szerződéses eltérést a 101–109. §-tól. A vasárnapi és munkaszüneti szabályok is e körbe tartoznak. A kizárólag a 103. §-ra szűkített olvasat ezért nem felel meg a szövegnek."
+        },
+        {
+          "text": "A felek írásbeli megállapodása a 99. § (2) bekezdésétől, kollektív szerződés a 101–109. §-tól térhet el a (4) bekezdés a)–e) pontjában megjelölt munkakörökben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (4) bekezdés két eltérési utat nyit a megjelölt munkakörökben. Az Mt. 135. § (4) bekezdése a felek írásbeli megállapodásának a 99. § (2) bekezdésétől, a kollektív szerződésnek a 101–109. §-tól enged eltérést. Az a)–e) pont a légi, közúti, menetrendi, vasúti és kikötői munkaköröket nevezi meg. Az (5) bekezdés e megállapodás feltételét nyitja meg."
+        },
+        {
+          "text": "A (4) bekezdés a polgári repülés, a közúti és vasúti személy- és árufuvarozás, a menetrendi közlekedés és a kikötő meghatározott munkaköreiben kollektív szerződéssel a 101–109. §-tól eltérést enged, és itt a „csak a munkavállaló javára” fordulat nem ismétlődik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (4) bekezdés ágazati kivétel. Az Mt. 135. § (4) bekezdése szerint kollektív szerződés a 101–109. §-ban foglaltaktól a polgári repülés, a közúti és vasúti fuvarozás, a menetrendi közlekedés és a kikötő meghatározott munkaköreiben eltérhet. A „csak a munkavállaló javára” fordulat itt nem ismétlődik. Ez a (2) bekezdés g) pontjának ágazati kivétele."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "351242197c4d"
+    },
+    {
+      "question": "Miben különbözik a 100. § szerinti osztott napi munkaidő közti időköz a 103. § munkaközi szünetétől?",
+      "options": [
+        {
+          "text": "A 100. § időköz azonos a 104. § napi pihenőidővel, ezért tizenegy egybefüggő órát kell kitennie.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 100. § legalább két órát kíván a részek között, nem tizenegy egybefüggő órát. Az Mt. 104. § a munka befejezése és a következő munkanapi kezdés közé teszi a napi pihenőidőt. Ezzel szemben a 100. szakasz az osztott nap belüli időközét szabályozza, legalább két órával. A napi pihenőidővel való azonosság ezért nem áll fenn."
+        },
+        {
+          "text": "A 100. § szerinti osztott napi munkaidő a beosztás szerinti napi munkaidők között legalább két óra pihenőidőt követel; ez nem a 103. § munkaközi szünete, hanem a két részre bontott nap közötti időköz.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két intézmény helye és mértéke elválik. Az Mt. 100. § az osztott napi munkaidő részei között legalább két óra pihenőidőt kíván. A 103. § a munkavégzés közbeni munkaközi szünetet a hat- és kilencórás küszöbhöz köti. A legalább két órás időköz nem helyettesíti a 103. § szerinti szünetet. A fogalmi azonosság tilos."
+        },
+        {
+          "text": "Az osztott napi munkaidő közti legalább két órás időköz egyben teljesíti a 103. § munkaközi szünetét is, külön kiadás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az osztott nap közti időköz nem helyettesíti a munkaközi szünetet. Az Mt. 103. § önálló tartamot és kiadási rendet ad a munkavégzés közben. A 100. § a két részre bontott nap közötti, legalább két órás pihenőidőt rendezi. A két intézmény egybeolvasztása a törvényi szerkezettel ellentétes."
+        },
+        {
+          "text": "A munkaközi szünet a 103. § szerint a munkavégzés megszakításával, jellemzően húsz vagy negyvenöt perces tartamban áll; az osztott nap közti időköz a 100. § szerinti, legalább két órás sáv.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tartam és a funkció más. Az Mt. 103. § (1) bekezdése hat óra felett húsz, kilenc óra felett további huszonöt percet ad. A 100. § a két beosztási rész közötti legalább két órás pihenőidőt követeli. A 103. § (4) bekezdése a megszakítással kiadást írja elő. A két szabály nem cserélhető fel."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "711918239dcb"
+    },
+    {
+      "question": "Hogyan hat a munkaszüneti nap a munkaidőkeret számítására az Mt. 93. § (2) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Munkaszüneti napra eső általános munkarendű napon a keretórákba az ünnep tartama is beleszámít, mert a nap „elveszett” munkanap.",
+          "isCorrect": false,
+          "rationale": "HAMIS, éppen a figyelmen kívül hagyás a szabály. Az Mt. 93. § (2) bekezdése az általános munkarend szerinti munkanapra eső munkaszüneti napot a keretszámításnál nem veszi figyelembe. Az ünnep a teljesítendő óraszámot nem duzzasztja. Az „elveszett nap” miatti feltöltés tehát tilos."
+        },
+        {
+          "text": "A 93. § (2) bekezdése a munkaidőkeret számításánál az általános munkarend szerinti munkanapra eső munkaszüneti napot figyelmen kívül hagyja: a keretben teljesítendő óraszámot az ünnep nem duzzasztja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az ünnep nem növeli a keretórákat. Az Mt. 93. § (2) bekezdése az általános munkarend szerinti munkanapra eső munkaszüneti napot a keretszámításnál figyelmen kívül hagyja. A teljesítendő óraszámot az ünnep nem duzzasztja. A 102. § (1) bekezdés ünneplistája így a keret mértékében is megjelenik."
+        },
+        {
+          "text": "A szabály az általános munkarend szerinti munkanapra eső munkaszüneti napra szól; a keretórák ünnepi „feltöltése” e fordulat szerint tilos.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a keret nem duzzad az ünneppel. Az Mt. 93. § (2) bekezdése a figyelmen kívül hagyást írja elő. A 102. § (1) bekezdése szerinti naptári ünnep tehát nem növeli a teljesítendő órákat. A munkáltató a keretet ünnepre hivatkozva nem emelheti."
+        },
+        {
+          "text": "A 93. § (2) bekezdése csak a vasárnapra eső munkaszüneti napot hagyja figyelmen kívül; hétköznapi ünnepen a keret nő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a figyelmen kívül hagyás nem csak a vasárnapra eső ünnepre korlátozódik. Az Mt. 93. § (2) bekezdése az általános munkarend szerinti munkanapra eső munkaszüneti napot említi. A 102. § (1) bekezdés ünnepei hétköznapra esve is a keretórákat nem duzzasztják. A szabály vasárnapi ünnepre szűkítése ezért nem helytálló."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "ceda68c54527"
+    },
+    {
+      "question": "Mely tevékenységi formákat emeli be a 101. § (1) bekezdés b)–d) pontja a vasárnapi rendes munkaidő engedélyei közé?",
+      "options": [
+        {
+          "text": "Munkaszüneti napra a 102. § (2) bekezdése az idényjellegű és a megszakítás nélküli kört megtartja, a több műszakos d) pontot viszont kimaradja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szűkítés a d) pontot érinti. Az Mt. 102. § (2) bekezdése munkaszüneti napra az a)–c) és g)–h) pontot engedi. A több műszakos d) pont ünnepi rendes munkaidőre nem nyílik meg. A folyamatos vagy idényjellegű munkavégzés ünnepen is indokolható marad, a többműszakos üzem ünnepi rendes munkaidőre nem."
+        },
+        {
+          "text": "A b) pont az idényjellegű, a c) pont a megszakítás nélküli, a d) pont a több műszakos tevékenység keretében engedi a vasárnapi rendes munkaidőt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a három pont külön tevékenységi formát nevez meg. Az Mt. 101. § (1) bekezdés b)–d) pontja az idényjellegű, a megszakítás nélküli és a több műszakos tevékenységet engedi. Vasárnapra e körben rendes munkaidő osztható be. A 102. § (2) bekezdése munkaszüneti napra a b)–c) pontot engedi, a d) pont szerinti több műszakot azonban nem."
+        },
+        {
+          "text": "Az idényjellegű tevékenység csak munkaszüneti napra engedi a rendes munkaidőt, vasárnapra nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az idényjelleg a vasárnapi engedélylistán is szerepel. Az Mt. 101. § (1) b) pontja vasárnapra engedi az idényjellegű tevékenységet. A 102. § (2) bekezdése munkaszüneti napra is megtartja a b) pontot. A „csak ünnepen engedett” olvasat tehát fordított és helytelen."
+        },
+        {
+          "text": "A több műszakos tevékenység munkaszüneti napra is ugyanúgy engedi a rendes munkaidőt, mint vasárnapra.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a d) pont ünnepen kimarad. Az Mt. 102. § (2) bekezdése a több műszakot nem engedi. Vasárnapra a 101. § (1) d) pontja viszont megnyitja a beosztást. A két nap engedélykörének azonossága a több műszaknál téves."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "a6846197908d"
+    },
+    {
+      "question": "Mit döntött a 3082/2018. (III. 5.) AB végzés és a 3081/2018. (III. 5.) AB végzés a kereskedelmi vasárnapi munkavégzést visszaállító szabályok elleni panaszokról?",
+      "options": [
+        {
+          "text": "Mindkét végzés a befogadást megtagadta: a tanács az L) és XV. cikk intézményvédelmi kötelezettségére, a B) cikk általános jogállamisági hivatkozására és az Abtv. 52. § (1b) bekezdése szerinti indokolás hiányára hivatkozott, érdemi alaptörvényi mérlegelés nélkül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a többségi ratio a befogadhatatlanság. A 3082/2018. (III. 5.) AB végzés és a 3081/2018. (III. 5.) AB végzés a panaszt befogadás hiányában utasította vissza. Az L) cikk (1) bekezdése és a XV. cikk (5) bekezdése intézményvédelmi kötelezettség, nem Alaptörvényben biztosított jog. Az Abtv. 52. § (1b) bekezdése szerinti határozott kérelem ismérvét a tanács hiányolta."
+        },
+        {
+          "text": "A panaszokat elkésettség miatt utasították el, mert a száznyolcvan napos határidőn kívül érkeztek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, mindkét panasz határidőben volt. A Módtv. 2016. április 16-án lépett hatályba; a száznyolcvan napos határidő 2016. október 13-án járt le. A 3082/2018. (III. 5.) AB végzés szerint az indítványt 2016. október 10-én nyújtották be, a 3081/2018. (III. 5.) AB végzés szerint 2016. október 11-én adták postára. A visszautasítás alapja a befogadhatatlanság, nem az elkésettség."
+        },
+        {
+          "text": "A tanács érdemben megsemmisítette a 101. § (1) i) pontját, mert a vasárnapi kereskedelmi munkavégzés alaptörvény-ellenes.",
+          "isCorrect": false,
+          "rationale": "HAMIS, érdemi megsemmisítés nem történt. A 3082/2018. (III. 5.) AB végzés és a 3081/2018. (III. 5.) AB végzés a befogadást tagadta meg. A 101. § (1) i) pontja a tanács előtt nem kapott érdemi alaptörvényi próbát. A megsemmisítési olvasat a többségi ratio ellentéte."
+        },
+        {
+          "text": "A panaszok a 2016. évi XXIII. törvény (Módtv.) ellen irányultak, amely a kereskedelemről szóló törvénybe és az Mt. 101. § (1) bekezdésébe inkorporálódott; a tanács a módosított (inkorporáló) rendelkezést vizsgálta.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a vizsgálat tárgya az inkorporáló, módosított szöveg. A 3143/2015. (VII. 24.) AB határozat Indokolás [37] pontja szerint a vizsgálat tárgya a módosított, nem a módosító rendelkezés. A tanács a Kertv. 6. § (1) és (3) bekezdését, az Mt. 101. § (1) bekezdését, a 140. §-t és a Módtv. hatályon kívül helyező rendelkezését vizsgálta. A 101. § (1) i) pontja érdemi alaptörvényi próbát nem kapott."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "696b324b732d"
+    },
+    {
+      "question": "Mikor engedhető munkaszüneti napon rendkívüli munkaidő a 108. § (3) bekezdése szerint, és hogyan kapcsolódik ez a 103. § küszöbeihez?",
+      "options": [
+        {
+          "text": "Munkaszüneti napon rendkívüli munkaidő bárkinek szabadon elrendelhető, a 108. § (3) bekezdés korlátai nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkaszüneti napi rendkívüli nem szabadon, korlát nélkül rendelhető el. Az Mt. 108. § (3) bekezdése a rendes munkaidőben e napon is foglalkoztatható számára vagy a (2) bekezdés szerinti szükséghelyzetben enged. Szabad, korlátlan elrendelés nincs. A 102. § (2) szerinti rendes engedélykör és a rendkívüli engedély elválik."
+        },
+        {
+          "text": "Minden munkaszüneti napi rendkívüli automatikusan beleszámít a 103. § hatórás küszöbébe, az ügyeletet is ideértve.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az ügyelet nem számít automatikusan a 103. § hatórás küszöbébe. Az Mt. 103. § (2) bekezdése kifejezetten a 107. § a) pont szerinti, beosztástól eltérő rendkívülire utal. Az ügyelet a 107. § b)–d) pont körébe tartozhat, és a 103. § küszöbébe nem számít be. Az ünnepi rendkívüli automatikus beszámítása ezért nem helytálló."
+        },
+        {
+          "text": "Munkaszüneti napon rendkívüli munkaidő a rendes munkaidőben e napon is foglalkoztatható számára vagy a (2) bekezdés szerinti szükséghelyzetben engedhető; a 103. § küszöbei a 107. § a) pontján át akkor hatnak, ha a rendkívüli a beosztástól eltér.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 108. § (3) bekezdése két ágon engedi az ünnepi rendkívülit. Az Mt. 108. § (3) bekezdése a rendes munkaidőben e napon is foglalkoztathatót vagy a (2) bekezdés szerinti szükséghelyzetet nevezi meg. A 103. § küszöbei e rendkívüli tartamra a 107. § a) pontján át akkor hatnak, ha a rendkívüli a beosztástól eltér. A b)–d) pont szerinti rendkívüli a 103. § küszöbébe nem számít be."
+        },
+        {
+          "text": "A 103. § (2) bekezdése csak a 107. § a) pont szerinti, beosztástól eltérő rendkívülit emeli a napi küszöbbe; az ünnepi rendkívüli önmagában nem minden esetben húsz vagy negyvenöt perces szünetet generál.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 103. § napi küszöbébe csak a beosztástól eltérő rendkívüli emelhető be. Az Mt. 103. § (2) bekezdése a beosztás szerinti napi munkaidőbe a 107. § a) pont szerinti rendkívüli tartamát számíttatja be. Ha az ünnepi rendkívüli nem beosztástól eltérés, a 103. § hat- és kilencórás küszöbe e címen nem nyílik meg. A 108. § (3) és a 103. § így összekapcsolódik, de nem automatikusan."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "5ed72865626a"
+    },
+    {
+      "question": "Mi a viszony a g) és h) pont szerinti közszükségleti vagy külföldi munkavégzés és a munkaszüneti napi beosztás között?",
+      "options": [
+        {
+          "text": "A szűkítés ratioja szerint a folyamatos vagy idényjellegű, a rendeltetés szerinti, a közszükségleti vagy külföldi munkavégzés az ünnepen is indokolható, a kereskedelmi nyitva tartás és a többműszakos üzem nem.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a pihenőnap védelme magyarázza a szűkítést. Munkaszüneti napra a 102. § (2) bekezdése szerint az a)–c) és g)–h) pont a nyitott kör. A kereskedelmi i) pont és a több műszakos d) pont ünnepi rendes munkaidőre nem nyílik meg. A g)–h) pont tehát a szűkített listán belül marad."
+        },
+        {
+          "text": "A g) és h) pont csak vasárnapra szól; munkaszüneti napra a 102. § (2) bekezdése e pontokat is kihagyja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a g)–h) pont a munkaszüneti napi szűkített listán is bent marad. Az Mt. 102. § (2) bekezdése az a)–c) pont mellett a g)–h) pontot is engedi. A kimaradó pontok a d), e), f) és i). A g)–h) pont kihagyásának olvasata a törvényi szöveggel ellentétes."
+        },
+        {
+          "text": "Külföldön történő munkavégzés esetén munkaszüneti napra rendes munkaidő soha nem osztható be, mert a 102. § (2) bekezdése a h) pontot kizárja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a h) pont a 102. § (2) bekezdés listáján szerepel. Az Mt. 102. § (2) bekezdése munkaszüneti napra az a)–c) és g)–h) pontot engedi. A külföldön történő munkavégzés tehát ünnepi rendes munkaidőre is jogalap lehet. A h) pont kizárásának olvasata téves."
+        },
+        {
+          "text": "A g) pont a társadalmi közszükségletet vagy a külföldre nyújtott, jellegénél fogva e napon szükséges szolgáltatást, a h) pont a külföldön történő munkavégzést engedi; mindkettő a 102. § (2) bekezdése szerint munkaszüneti napra is átvihető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a g)–h) pont ünnepen is megmarad. Az Mt. 101. § (1) g)–h) pontja vasárnapra engedi e köröket. A 102. § (2) bekezdése a munkaszüneti napi listán az a)–c) mellett a g)–h) pontot is megtartja. A közszükségleti vagy külföldi munkavégzés a naptári ünnepen is indokolható. A d), e), f) és i) pont viszont kimarad."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "bf148deb9269"
+    },
+    {
+      "question": "Mit jelent a 99. § (8) bekezdése a 102. § (5) bekezdése szerinti áthelyező munkarendet alkalmazó, munkaidőkeret nélküli munkáltatónál?",
+      "options": [
+        {
+          "text": "A szabály a 102. § (5) bekezdése szerinti áthelyező munkarendet alkalmazó, munkaidőkeret nélküli munkáltatóra szól; a szombati ledolgozó hét sajátos napi beosztási rendjét rendezi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a személyi és tárgyi kör szűk. Az Mt. 99. § (8) bekezdése a 102. § (5) bekezdése szerinti munkarendet és a munkaidőkeret hiányát köti össze. A 15/2023. (VII. 13.) GFM rendelet 2. §-a szerinti szombati munkanap e fordulatot hozza működésbe. A (2) és (3) bekezdés a) pontjai e héten is megmaradnak."
+        },
+        {
+          "text": "A 99. § (8) bekezdése a munkaközi szünet 103. §-át is félreteszi a szombati ledolgozó héten.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (8) bekezdés a 99. § (2)–(3) bekezdésének b) pontjaira szól, nem a munkaközi szünetre. Az Mt. 99. § (8) bekezdése nem említi a 103. szakaszt a felfüggesztett korlátok között. A munkaközi szünet törvényi tartama és kiadása a szombati ledolgozó héten is megmarad. A 103. szakasz félretétele a (8) bekezdésből nem következik."
+        },
+        {
+          "text": "A 99. § (8) bekezdése a 99. § összes napi beosztási korlátját feloldja a szombati ledolgozó héten, ideértve az a) pontokat is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 99. § (8) bekezdése nem oldja fel az összes napi beosztási korlátot. Az Mt. 99. § (8) bekezdése a (2) bekezdés b) pontját és a (3) bekezdés b) pontját függeszti fel a szombati munkavégzéssel érintett héten. A (2) bekezdés a) pontja és a (3) bekezdés a) pontja e héten is irányadó. A teljes feloldás olvasata ezért túlzó."
+        },
+        {
+          "text": "A szombaton történő munkavégzéssel érintett naptári héten a 99. § (2) bekezdés b) pontja és a (3) bekezdés b) pontja nem irányadó; a (2) bekezdés a) pontja és a (3) bekezdés a) pontja e héten is irányadó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (8) bekezdés részleges felfüggesztést ad. Az Mt. 99. § (8) bekezdése szerint a 102. § (5) bekezdése szerinti munkarendet alkalmazó, munkaidőkeret nélküli munkáltatónál a szombati munkavégzéssel érintett héten a (2) bekezdés b) pontja és a (3) bekezdés b) pontja nem irányadó. A (2) bekezdés a) pontja és a (3) bekezdés a) pontja e héten is irányadó. A GFM-rendelet szombati ledolgozása tehát a 99. § napi beosztási korlátait részben módosítja."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "d9eeaeebaba7"
+    },
+    {
+      "question": "Hogyan viszonyul a kereskedelmi nyitva tartás a GFM-rendelet december 24-i pihenőnapjához?",
+      "options": [
+        {
+          "text": "December 24. a 102. § (1) bekezdése szerint munkaszüneti nap, ezért a kereskedelmi i) pont e napon semmilyen formában nem alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, december 24. nincs felvéve az Mt. 102. § (1) bekezdésének munkaszüneti napi katalógusába. Az Mt. 102. § (1) bekezdése december 25–26-ot nevezi meg. A 24-i pihenő a 15/2023. (VII. 13.) GFM rendelet áthelyezése. A nap munkaszüneti nappá minősítése és az i) pont automatikus kizárása ezért nem helytálló."
+        },
+        {
+          "text": "A GFM-rendelet december 24-i pihenőnapja minden kereskedelmi egységet kötelezően zárva tartásra kényszerít.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendelet az általános munkarendűek beosztását köti, nem a nyitvatartást. A 15/2023. (VII. 13.) GFM rendelet 1. §-a az általános munkarendűekre terjed ki. A kereskedelemről szóló törvény 6. § (3) bekezdése a december 24-i nyitva tartást lehetővé teszi. A kötelező zárva tartás olvasata tehát nem áll."
+        },
+        {
+          "text": "A december 24-i pihenőnap az általános munkarendűek beosztását köti; a kereskedelmi munkáltató nyitvatartási szabadságát a 2005. évi CLXIV. törvény 6. § (3) bekezdése szerinti lehetőségtől a GFM-rendelet nem vonja el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a beosztás és a nyitvatartás elválik. A 15/2023. (VII. 13.) GFM rendelet a 102. § (5) bekezdése szerinti áthelyezéssel az általános munkarendűek pihenőnapját rögzíti december 24-én. A kereskedelemről szóló 2005. évi CLXIV. törvény 6. § (3) bekezdése a december 24-i nyitva tartást is lehetővé teszi. A 3082/2018. (III. 5.) AB végzés és a 3081/2018. (III. 5.) AB végzés indítványi előadása e nyitvatartási szabadságra is utal."
+        },
+        {
+          "text": "A 101. § (1) i) pontja szerinti vasárnapi rendes munkaidő a szombati ledolgozástól független; a GFM-rendelet nem a vasárnapi kereskedelmi engedélyt vonja el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a vasárnapi kereskedelmi engedély és a szombati ledolgozás más tengelyen áll. Az Mt. 101. § (1) i) pontja a vasárnapi rendes munkaidőt engedi a kereskedelmi körben. A GFM-rendelet 2. §-a szombati ledolgozást és hétközi pihenőt ad az általános rendűeknek. A december 24-i pihenő nem vonja vissza a 101. § (1) i) pont vasárnapi engedélyét."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "3b28abdfca4b"
+    }
+  ]
+}

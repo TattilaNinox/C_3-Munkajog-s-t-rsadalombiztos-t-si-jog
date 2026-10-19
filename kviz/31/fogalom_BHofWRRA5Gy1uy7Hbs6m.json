@@ -1,0 +1,549 @@
+{
+  "id": "BHofWRRA5Gy1uy7Hbs6m",
+  "sorszam": 31,
+  "cim": "A munkakör megosztása, több munkáltató által létesített munkaviszony, a (...)",
+  "generationType": "fogalom",
+  "title": "31. A munkakör megosztása, több munkáltató által létesített munkaviszony, a (...)",
+  "questions": [
+    {
+      "question": "A munkakör megosztása, a több munkáltató által létesített munkaviszony és a távmunkavégzés közül mely állítások írják le helyesen az alakzatok elhatárolását?",
+      "options": [
+        {
+          "text": "A munkakör megosztása és a távmunka ugyanazt a jogviszonyt írja le, mert mindkettőnél több munkavállaló látja el ugyanazt a munkakört a telephelytől elkülönülten.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megosztás az Mt. 194. § szerint a munkavállalói oldalt többesíti, a távmunka az Mt. 196. § szerint a helyet. A két szabály különböző elemet bont meg a klasszikus munkaviszony hármasából. Együttes alkalmazásuk sem teszi őket azonos jogviszonnyá."
+        },
+        {
+          "text": "A távmunkavégzés a több munkáltató által létesített munkaviszony speciális esete, mert a hely elválása a munkáltatói többalanyúságból következik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a három intézmény nem egymás speciális esete. Az Mt. 196. § (1) bekezdése szerint a távmunkánál a munkavállaló a munkát a munkaidő egy részében vagy egészében a munkáltató telephelyétől elkülönült helyen végzi. A hely megbontása önálló alakzat, nem az Mt. 195. § altípusa."
+        },
+        {
+          "text": "A több munkáltató által létesített munkaviszony a munkáltatói oldalt többesíti: ugyanazon munkakör feladatait több munkáltató viseli egy munkavállalóval szemben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 195. § (1) bekezdése több munkáltató és a munkavállaló megállapodását engedi egy munkakör feladataiban. A bérfizető kijelölése és az egyetemleges felelősség e viszony saját tartalma. A megosztás és a távmunka más elemet bont meg."
+        },
+        {
+          "text": "A munkakör megosztása a munkavállalói oldalt többesíti: egy munkakörbe tartozó feladatok közös ellátása több, ugyanazon munkaszerződést kötő munkavállaló között.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 194. § (1) bekezdése a munkáltató és több munkavállaló megállapodását engedi egy munkakör közös ellátásáról. A megosztás a klasszikus hármasból a munkavállalói oldalt bontja meg. Ez nem a munkáltatói oldal és nem a hely elválasztása."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "7c459d973808"
+    },
+    {
+      "question": "Az Mt. 194. § (1) bekezdése szerinti munkakör-megosztásnál mi a helytálló a teljesítési kötelezettségről akadályoztatás esetén?",
+      "options": [
+        {
+          "text": "„Valamely munkavállaló akadályoztatása esetén a szerződést kötő más munkavállaló köteles a munkaviszonyból származó kötelezettségek teljesítésére.”",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 194. § (1) bekezdése szó szerint így rendelkezik: „Valamely munkavállaló akadályoztatása esetén a szerződést kötő más munkavállaló köteles a munkaviszonyból származó kötelezettségek teljesítésére”. A helyettesítési kockázat a többi, azonos munkakört vállaló munkavállalóra települ. A kötelezettség a szerződést kötő többi munkavállalóé, nem a munkáltató szervezeti helyettesítése."
+        },
+        {
+          "text": "A munkakör megosztása a munkáltató és több munkavállaló megállapodása egy munkakörbe tartozó feladatok közös ellátásáról.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 194. § (1) bekezdése szerint a munkáltató és több munkavállaló a munkaszerződésben egy munkakörbe tartozó feladatok közös ellátásában állapodhatnak meg. A közös ellátás a többalanyú munkavállalói oldal fogalmi magja. A megállapodás munkaszerződésben jön létre."
+        },
+        {
+          "text": "Akadályoztatásnál csak a munkáltató által kijelölt egyik munkavállaló köteles helytállni, a többi szerződő fél mentesül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törvény a szerződést kötő más munkavállaló kötelezettségét írja elő, nem egy munkáltatói kijelölésű helyettesét. Az Mt. 194. § (1) bekezdése a többes alanyiságból eredő teljesítést várja. A kockázat a többi azonos munkakört vállaló szerződőre települ."
+        },
+        {
+          "text": "Akadályoztatás esetén a munkáltató köteles helyettes munkavállalót kiállítani, mert a megosztott munkakör a munkáltató szervezeti rendjébe tartozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkáltató nem helyettesít, hanem a többes alanyiságból eredő teljesítést várja. Az Mt. 194. § (1) bekezdése a szerződést kötő más munkavállalóra telepíti a kötelezettséget. A helyettesítési kockázat tehát a többi szerződő munkavállalóé."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "a208350dd43f"
+    },
+    {
+      "question": "A munkakör megosztásánál a munkabérre és a munkaidő beosztására mi igaz az Mt. 194. § szerint?",
+      "options": [
+        {
+          "text": "A munkaidő beosztására a kötetlen munkarendre vonatkozó szabályokat kell megfelelően alkalmazni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 194. § (2) bekezdése a kötetlen munkarend szabályainak megfelelő alkalmazását írja elő. Ez a megosztott munkakör beosztási rendjére vonatkozik. A közös ellátás mellett a beosztás ehhez a modellhez igazodik."
+        },
+        {
+          "text": "A munkabér aránya mindig kötelezően egyenlő, a felek megállapodása ettől nem térhet el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 194. § (3) bekezdése kifejezetten „eltérő megállapodás hiányában” egyenlő arányt ír. A díjazás aránya tehát diszpozitív, a felek eltérhetnek. A közös ellátás ténye nem teszi kógenssé a bérarányt."
+        },
+        {
+          "text": "A munkaidő beosztására a kötött munkarend általános szabályait kell alkalmazni, kötetlen munkarend csak külön kikötéssel jöhet szóba.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 194. § (2) bekezdése szerint a munkaidő beosztására a kötetlen munkarendre vonatkozó szabályokat kell megfelelően alkalmazni. Nem a kötött munkarend az irányadó alap. A megosztott munkakör beosztása ehhez igazodik."
+        },
+        {
+          "text": "A munkabér a munkavállalókat – eltérő megállapodás hiányában – egyenlő arányban illeti meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 194. § (3) bekezdése az egyenlő arányú díjazást főszabályként rögzíti. A díjazás aránya diszpozitív, eltérő megállapodással alakítható. A közös ellátás ténye ettől függetlenül megmarad fogalmi elemként."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "802471676cd6"
+    },
+    {
+      "question": "Mi a jogkövetkezmény, ha a munkakör megosztásánál a munkavállalók száma egy főre csökken?",
+      "options": [
+        {
+          "text": "A közös ellátás védelme miatt a maradék egyetlen munkavállalóval a megosztott munkakör nem él tovább, a megszűnés ex lege következik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közös ellátás fogalmi elem; egy főre csökkenésnél a megosztott alakzat nem folytatódik. Az Mt. 194. § (4) bekezdése a megszűnést ehhez a létszámváltozáshoz köti. A maradék egy munkavállalóval a viszony nem alakul át klasszikus egyalanyú megosztott munkakörré."
+        },
+        {
+          "text": "A maradék egy munkavállalóval a munkaviszony változatlanul fennmarad, csak a bérarány módosul.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 194. § (4) bekezdése a munkaviszony megszűnését írja elő, ha a munkavállalók száma egy főre csökken. A közös ellátás fogalmi elem, ezért a megosztott alakzat nem él tovább egy fővel. A jogkövetkezmény távolléti díj és a végkielégítés megfelelő alkalmazása."
+        },
+        {
+          "text": "A megszűnés a jogellenes megszüntetés teljes szankciórendjét indítja, beleértve a helyreállítás kötelezettségét.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szankció a munkáltatói felmondás szerinti távolléti díj és a végkielégítés megfelelő alkalmazása. Az Mt. 194. § (4) bekezdése nem a jogellenes megszüntetés teljes szankciórendjét hívja. Helyreállítási kötelezettséget e tényálláshoz nem fűz."
+        },
+        {
+          "text": "A munkaviszony megszűnik; a munkáltató annyi időre járó távolléti díjat fizet, amennyi a munkáltatói felmondás esetén járna, és megfelelően alkalmazni kell a végkielégítés szabályait is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 194. § (4) bekezdése a létszám egy főre csökkenéséhez a munkaviszony megszűnését fűzi. A munkáltató a felmondás esetén járó időre távolléti díjat fizet. Emellett megfelelően alkalmazni kell a végkielégítés szabályait is."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "3c07b3b9df92"
+    },
+    {
+      "question": "A több munkáltató által létesített munkaviszony kötelező szerződéses tartalmára és az egyetemlegességre mi igaz?",
+      "options": [
+        {
+          "text": "A kijelölt bérfizető kizárólagos helytállása miatt a többi munkáltató mentesül a munkavállaló munkajogi igénye alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 195. § (3) bekezdése szerint a munkáltatók egyetemlegesen felelnek. A bérfizető kijelölése (195. § (2) bekezdés) nem zárja ki a többi helytállását. A 213. § b) pontja e két szabályt kógenssé zárja."
+        },
+        {
+          "text": "„A munkaszerződésben meg kell határozni, hogy a munkabér-fizetési kötelezettséget melyik munkáltató teljesíti.”",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 195. § (2) bekezdése szó szerint előírja: „A munkaszerződésben meg kell határozni, hogy a munkabér-fizetési kötelezettséget melyik munkáltató teljesíti”. A bérfizető kijelölése a szerződés kötelező tartalma. Az Mt. 213. § b) pontja miatt e szabálytól a felek megállapodása vagy a kollektív szerződés nem térhet el."
+        },
+        {
+          "text": "A munkáltatók a munkavállaló munkajogi igényével kapcsolatban egyetemlegesen felelnek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 195. § (3) bekezdése az egyetemleges felelősséget írja elő. A kijelölt bérfizető nem zárja ki a többi munkáltató helytállását. Az Mt. 213. § b) pontja a (2)–(3) bekezdést kógenssé teszi."
+        },
+        {
+          "text": "A bérfizető kijelölése csak ajánlás; a felek megállapodása vagy a kollektív szerződés szabadon mellőzheti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 195. § (2) bekezdése kötelező tartalmat ír elő. Az Mt. 213. § b) pontja szerint a felek megállapodása vagy a kollektív szerződés ettől nem térhet el. A kijelölés tehát kógens, mellőzése nem megengedett."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "65ff07cce1ed"
+    },
+    {
+      "question": "A több munkáltató által létesített munkaviszony megszüntetésére és a munkáltatói létszám csökkenésére mi helytálló?",
+      "options": [
+        {
+          "text": "Bármely munkáltató jognyilatkozata csak a saját jogviszonyát szünteti meg; a többi munkáltatóval a viszony automatikusan fennmarad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 195. § (4) bekezdése szerint – eltérő megállapodás hiányában – bármely munkáltató vagy a munkavállaló jognyilatkozata a teljes munkaviszonyt megszünteti. Nincs főszabály szerint fennmaradó részviszony. Csak eltérő megállapodás alakíthat mást."
+        },
+        {
+          "text": "Eltérő megállapodás hiányában a munkaviszonyt bármely munkáltató vagy a munkavállaló jognyilatkozata megszünteti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 195. § (4) bekezdése ezt a főszabályt adja. Hatása, hogy nincs csak az egyik munkáltatóval fennmaradó részviszony, hacsak a felek másként nem rendelkeznek. A (4) bekezdés nem tartozik a 213. § b) pontjának kógens záradéka alá, ezért eltérő megállapodással alakítható."
+        },
+        {
+          "text": "A munkáltatók számának egy főre csökkenése mindig fenntartja a munkaviszonyt a megmaradó munkáltatóval, eltérés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 195. § (5) bekezdése szerint – eltérő megállapodás hiányában – a viszony a 63. § (1) bekezdés b) pontja szerinti okból megszűnik. A fenntartás a megmaradó munkáltatóval nem a főszabály. A felek eltérő megállapodással alakíthatják, de a törvényi alap a megszűnés."
+        },
+        {
+          "text": "Eltérő megállapodás hiányában a munkaviszony a 63. § (1) bekezdés b) pontjában meghatározott okból megszűnik, ha a munkáltatók száma egyre csökken.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 195. § (5) bekezdése a megszűnési okot a 63. § (1) bekezdés b) pontjára utalással hívja. A joghatás a munkáltatói oldal egy főre olvadása. Az (5) bekezdés szintén eltérő megállapodással alakítható, mert nem esik a 213. § b) pontja alá."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "f93cb7fb976f"
+    },
+    {
+      "question": "A távmunkavégzés Mt. 196. § (1)–(2) bekezdése szerinti minősítésére mi igaz?",
+      "options": [
+        {
+          "text": "A munkaszerződésben meg kell állapodni a munkavállaló távmunkavégzés keretében történő foglalkoztatásában.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 196. § (2) bekezdése a szerződéses megállapodást kötelezővé teszi. A minősítés nem a munkáltató egyoldalú utasítása. A foglalkoztatási módot a munkaszerződésben kell kikötni."
+        },
+        {
+          "text": "Távmunka csak a teljes munkaidő telephelytől elkülönült eltöltése esetén állapítható meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 196. § (1) bekezdése a munkaidő egy részét vagy egészét is elfogadja. A fogalmi ismérv a telephelytől elkülönült hely. A teljes munkaidő kizárólagossága nem feltétele a távmunkának; a részbeni elválás is elegendő."
+        },
+        {
+          "text": "„Távmunkavégzés esetén a munkavállaló a munkát a munkaidő egy részében vagy egészében a munkáltató telephelyétől elkülönült helyen végzi.”",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 196. § (1) bekezdése fogalmi ismérve: „Távmunkavégzés esetén a munkavállaló a munkát a munkaidő egy részében vagy egészében a munkáltató telephelyétől elkülönült helyen végzi”. A munkaidő egy része is elegendő a minősítéshez. A 213. § c) pontja a 196. § egészét kógenssé teszi a felek megállapodása és a kollektív szerződés irányában."
+        },
+        {
+          "text": "A távmunka a munkáltató egyoldalú utasításával is elrendelhető, ha a munkavégzés helye a telephelytől elválik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 196. § (2) bekezdése szerint a munkaszerződésben meg kell állapodni a távmunkavégzés keretében történő foglalkoztatásban. Egyoldalú utasítás nem pótolja a szerződéses minősítést. A fogalom az (1) bekezdés szerinti helyelváláshoz kötődik, de a foglalkoztatási mód megállapodást igényel."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "a82bb9b35b0a"
+    },
+    {
+      "question": "Eltérő megállapodás hiányában a távmunkavégzés Mt. 196. § (3) bekezdése szerinti rendjére mi igaz?",
+      "options": [
+        {
+          "text": "Eltérő megállapodás hiányában a munkáltató utasítási joga a teljes munkaviszonyra kiterjedő, korlátlan utasítási jog marad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 196. § (3) bekezdés a) pontja szerint eltérő megállapodás hiányában az utasítási jog a feladatok meghatározására terjed ki. Ez szűkebb, mint a klasszikus, teljes körű utasítási jog. A korlátlan utasítási jog nem a törvényi alap."
+        },
+        {
+          "text": "A munkáltató utasítási joga a munkavállaló által ellátandó feladatok meghatározására terjed ki, és az ellenőrzési jogát távolról számítástechnikai eszköz alkalmazásával gyakorolja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 196. § (3) bekezdés a) és b) pontja ezt adja eltérő megállapodás hiányában. Az utasítási jog a feladatok meghatározására szűkül. Az ellenőrzés főszabály szerint távoli, számítástechnikai eszközzel történik."
+        },
+        {
+          "text": "A munkavállaló a munkáltató telephelyén a tárgyévben legfeljebb a munkanapok egyharmada esetén végez munkát, és a munkáltató biztosítja a belépést, valamint a más munkavállalókkal való kapcsolattartást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 196. § (3) bekezdés c) és d) pontja ezt rögzíti eltérő megállapodás hiányában. A telephelyi jelenlét aránya legfeljebb egyharmad. A belépés és a kapcsolattartás a munkáltató kötelezettsége."
+        },
+        {
+          "text": "A (3) bekezdés négy szabálya a 196. §-on kívül, a 213. § ellenére is szabadon kiiktatható, mert a szakasz egésze diszpozitív.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 213. § c) pontja a 196. § egészét kógenssé teszi. A (3) bekezdés „eltérő megállapodás hiányában” fordulata a szakaszon belüli diszpozitív mag, nem a 196. § kiiktatása. Az utasítás, a távoli ellenőrzés, az egyharmad és a belépés-kapcsolattartás a 196. §-on belül alakítható."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "266f93ff1a02"
+    },
+    {
+      "question": "Ha a munkáltató a távmunkavégzés helyén gyakorolja az ellenőrzést, mi igaz az Mt. 196. § (4)–(5) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A távmunkát végző munkavállaló tájékoztatása szűkebb lehet, mint a telephelyen dolgozóké, mert a kapcsolat távoli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 196. § (5) bekezdése szerint minden olyan tájékoztatást meg kell adni, amelyet más munkavállalónak biztosítanak. A tájékoztatás paritásos a telephelyen dolgozókkal. A távmunka nem indokol szűkebb tájékoztatási kört."
+        },
+        {
+          "text": "Helyszíni ellenőrzésnél az arányosság csak a munkavállalóra vonatkozik; az ingatlant használó más személy érdeke nem védett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 196. § (4) bekezdése kifejezetten a munkavállaló és az ingatlant használó más személy számára is kizárja az aránytalan terhet. A védelem tehát kettős alanyi körű, nem csak a munkavállalóra korlátozódik. A harmadik személyi érdek a helyszíni belépésnél is számít."
+        },
+        {
+          "text": "A munkáltató a távmunkát végző munkavállalónak minden olyan tájékoztatást köteles megadni, amelyet más munkavállalónak biztosít.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 196. § (5) bekezdése a tájékoztatás paritását írja elő. A távmunka nem teheti másodrendűvé a tájékoztatási kört. Minden olyan tájékoztatást meg kell adni, amelyet más munkavállalónak biztosítanak."
+        },
+        {
+          "text": "Az ellenőrzés nem jelenthet a munkavállaló, valamint a távmunkavégzés helyeként szolgáló ingatlant használó más személy számára aránytalan terhet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 196. § (4) bekezdése az arányossághoz köti a helyszíni ellenőrzést. A védelem a munkavállalón túl az ingatlant használó más személyre is kiterjed. A helyszíni belépés tehát nem lehet aránytalan teher."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "1e191bdecc8b"
+    },
+    {
+      "question": "Az Mt. 213. § eltérés tilalma a tárgy három alakzatára nézve milyen mozgásteret zár le?",
+      "options": [
+        {
+          "text": "A 195. § (4)–(5) bekezdése ugyanúgy kógens, mint a (2)–(3) bekezdés, mert a 213. § a teljes 195. §-t zárja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 213. § b) pontja csak a 195. § (2)–(3) bekezdését említi, nem a teljes szakaszt. A (4)–(5) bekezdés kívül marad, ezért a megszüntető jogosultság és a létszámcsökkenéshez fűzött megszűnés eltérő megállapodással alakítható. A kógens záradék tehát nem terjed ki a megszüntetési és megszűnési főszabályra."
+        },
+        {
+          "text": "A 213. § b) pontja a 195. § (2)–(3) bekezdését zárja: a bérfizető kijelölése és az egyetemleges felelősség kógens.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 213. § b) pontja taxatíve a 195. § (2)–(3) bekezdését említi. A felek megállapodása vagy a kollektív szerződés ezektől nem térhet el. A (4)–(5) bekezdés viszont kívül marad e záradékon."
+        },
+        {
+          "text": "A 213. § c) pontja a 196. § egészét zárja: a távmunka fogalma, a szerződéses megállapodás és a kapcsolódó szabályok nem tehetők félre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 213. § c) pontja a 196. §-t kógenssé teszi. A fogalom, a szerződéses megállapodási kötelezettség, a (3) bekezdés szerkezete, a helyszíni ellenőrzés arányossága és a tájékoztatás e körbe tartozik. A tilalom a felek megállapodására és a kollektív szerződésre nézve egyirányú és zárt."
+        },
+        {
+          "text": "A 213. § a 194. §-t is kógens listára emeli, ezért a munkakör megosztásának szabályaitól semmilyen eltérés nem lehetséges.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 194. § nincs az Mt. 213. § felsorolásában, ezért a záradék nem tiltja az eltérést. A munkakör megosztásának szabályaitól a felek megállapodása vagy a kollektív szerződés – a záradék körén belül – eltérhet. A megosztás tehát nem a 213. § szerinti kógens listán áll."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "8f6b1106c580"
+    },
+    {
+      "question": "Az Mvt. 86/A. § a távmunka munkavédelmi rendjéről mit rögzít a saját munkaeszköz és a tájékoztatás kapcsán?",
+      "options": [
+        {
+          "text": "Ha a munkavállaló adja az eszközt, a kockázatértékelés is a munkavállaló kötelezettsége lesz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 86/A. § (2) bekezdése szerint a munkáltató a kockázatértékelés elvégzése során győződik meg a munkaeszköz biztonságos állapotáról. Csak a fenntartás száll át a munkavállalóra. A kockázatértékelés nem száll át a tulajdoni helyzettel."
+        },
+        {
+          "text": "Az Mvt. 86/A–86/C. § az Mt. 196. § helyébe lép, és a munkaviszony tartalmát is a munkavédelmi fejezet adja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két törvény nem helyettesíti egymást: az Mt. a munkaviszony tartalmát, az Mvt. a munkavédelmi rendet írja. Az Mvt. 86/A. § (1) bekezdése a törvényt a fejezetbeli eltérésekkel rendeli alkalmazni a távmunkára. Ez lex specialis a munkavédelemben, nem az Mt. 196. § helyettesítője."
+        },
+        {
+          "text": "Saját munkaeszköznél a munkáltató a kockázatértékelés során győződik meg az egészséget nem veszélyeztető és biztonságos állapotról, a fenntartás pedig a munkavállalóé.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 86/A. § (2) bekezdése a biztonságos állapot megállapítását a munkáltató kockázatértékelési kötelezettségénél hagyja. A fenntartás ebben az esetben a munkavállalóé. A fenntartás átszállása nem jelenti a kockázatértékelés átszállását."
+        },
+        {
+          "text": "A távmunkavégzés – a munkáltatóval kötött megállapodás alapján – a munkavállaló által biztosított munkaeszközzel is történhet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 86/A. § (2) bekezdése engedi a saját eszközt megállapodás alapján. A saját munkaeszköz nem mentesít a munkavédelem alól. A tulajdoni helyzet és a kötelezettség elválik egymástól."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "2d0b0dee33e8"
+    },
+    {
+      "question": "Számítástechnikai eszközzel végzett távmunkánál az Mvt. 86/B. § milyen helyválasztási és ellenőrzési rendet ad?",
+      "options": [
+        {
+          "text": "A távoli munkavédelmi ellenőrzés kógens: a felek megállapodása nem viheti más módra.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 86/B. § c) pontja szerint a munkáltató a munkavédelmi szabályok megtartását – eltérő megállapodás hiányában – számítástechnikai eszközzel távolról ellenőrizheti. A távoli ellenőrzés tehát diszpozitív főszabály. A felek megállapodása a munkavédelmi ellenőrzést más módra is viheti."
+        },
+        {
+          "text": "A munkavállaló a munkavégzés helyét az írásban közölt munkakörülmények teljesülésére figyelemmel választja meg, és – eltérő megállapodás hiányában – a munkáltató távolról, számítástechnikai eszközzel ellenőrizheti a munkavédelmi szabályok megtartását.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 86/B. § b) és c) pontja így épül egymásra. A helyválasztás nem szabad, hanem a tájékoztatott szabályokhoz kötött. A távoli munkavédelmi ellenőrzés diszpozitív: eltérő megállapodás más módra viheti."
+        },
+        {
+          "text": "A munkáltató írásban tájékoztatja a munkavállalót a munkavégzéshez szükséges, egészséget nem veszélyeztető és biztonságos munkakörülmények szabályairól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 86/B. § a) pontja az írásbeli szabályközlést írja elő. Ez a helyválasztás előfeltétele a számítástechnikai távmunkánál. A tájékoztatás a munkavédelmi alrendszer első lépése, és a helynek e szabályokhoz kell igazodnia."
+        },
+        {
+          "text": "Számítástechnikai távmunkánál a munkáltató köteles a helyet előzetesen munkavédelmi szempontból minősíteni, mielőtt a munkavállaló ott dolgozhatna.",
+          "isCorrect": false,
+          "rationale": "HAMIS, számítástechnikai távmunkánál a munkáltató nem köteles a helyet előzetesen minősíteni. Az Mvt. 86/B. § szerint a minősítés terhét a tájékoztatott munkavállaló helyválasztása viseli. Az előzetes helyminősítés a nem számítástechnikai rendre (86/C. §) jellemző."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "ae08788192ce"
+    },
+    {
+      "question": "Nem számítástechnikai eszközzel végzett távmunkánál az Mvt. 86/C. § (1)–(3) bekezdése milyen helyhez kötött rendet ír elő?",
+      "options": [
+        {
+          "text": "Előzetes munkavédelmi minősítés nélkül is megkezdhető a munka, ha a felek utólag pótolják a megállapodást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 86/C. § (2) bekezdése szerint a távmunkavégzés csak a munkáltató által előzetesen megfelelőnek minősített helyen folytatható. A minősítés a munkavégzés előfeltétele, nem utólagos formalitás. Utólagos pótlás nem helyettesíti az előzetes megfelelőséget."
+        },
+        {
+          "text": "A munkavállaló szabadon választhatja meg és bármikor megváltoztathatja a munkavégzés helyét, ha betartja az általános munkavédelmi szabályokat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, nem számítástechnikai távmunkánál az Mvt. 86/C. § (1)–(3) bekezdése írásban rögzített, előzetesen minősített helyet és a körülmények megváltoztatásának tilalmát írja elő. A szabadabb, tájékoztatáshoz kötött helyválasztás az Mvt. 86/B. § modellje. Itt a minősítés a munkavégzés előfeltétele."
+        },
+        {
+          "text": "A távmunkavégzés csak a munkáltató által munkavédelmi szempontból előzetesen megfelelőnek minősített helyen folytatható, és a munkavállaló a munkáltató hozzájárulása nélkül nem változtathatja meg a munkakörülményeket.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 86/C. § (2) bekezdése az előzetes minősítést a munkavégzés előfeltételévé teszi. A (3) bekezdés tiltja a körülmények hozzájárulás nélküli megváltoztatását. A hely és a körülmények előzetesen rögzítettek."
+        },
+        {
+          "text": "A felek írásban megállapodnak a munkavégzés helyéről; ez a hely a továbbiakban távmunkavégzési hely.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 86/C. § (1) bekezdése az írásbeli helymegállapodást követeli. A rögzített hely a továbbiakban távmunkavégzési hely. A rend helyhez kötött, ellentétben a 86/B. § rugalmasabb helyválasztásával."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "395a9777310f"
+    },
+    {
+      "question": "Nem számítástechnikai távmunkánál a belépés, a munkavédelmi képviselő és a hatósági ellenőrzés Mvt. 86/C. § szerinti rendjére mi igaz?",
+      "options": [
+        {
+          "text": "A munkavédelmi hatóság a munkáltatót és a munkavállalót az ellenőrzés megkezdése előtt legalább 3 munkanappal tájékoztatja, és a belépéshez szükséges munkavállalói hozzájárulást a munkáltató legkésőbb az ellenőrzés megkezdéséig beszerzi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 86/C. § (7) bekezdése a legalább három munkanapos előzetes tájékoztatást és a hozzájárulás beszerzését írja elő. Az ellenőrzés a más használó számára aránytalan terhet nem jelenthet. A rend a 81. § (4) bekezdése szerinti hatósági ellenőrzéshez igazodik."
+        },
+        {
+          "text": "A munkavédelmi képviselő a távmunkavégzési helyként szolgáló ingatlan területére a munkavállaló beleegyezésével léphet be és tartózkodhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 86/C. § (6) bekezdése a munkavállaló beleegyezését követeli a képviselő belépéséhez. A képviselet nem nyitja meg automatikusan a magánterületet. A belépés és a tartózkodás tehát a munkavállaló hozzájárulásához kötött."
+        },
+        {
+          "text": "A munkavédelmi képviselő a megbízatásánál fogva beleegyezés nélkül is beléphet a távmunkavégzési helyre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 86/C. § (6) bekezdése szerint a munkavédelmi képviselő a munkavállaló beleegyezésével léphet be és tartózkodhat. A képviselet önmagában nem nyitja meg a magánterületet. Beleegyezés nélkül a belépés nem jogszerű e szabály szerint."
+        },
+        {
+          "text": "Hatósági ellenőrzésnél nincs előzetes tájékoztatási kötelezettség, mert a közérdek azonnali belépést indokol.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 86/C. § (7) bekezdése szerint a munkavédelmi hatóság legalább 3 munkanappal korábban tájékoztat. A munkáltató a belépéshez szükséges hozzájárulást legkésőbb az ellenőrzés megkezdéséig szerzi be. Az azonnali, tájékoztatás nélküli belépés nem e rend."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "d5661d935d0e"
+    },
+    {
+      "question": "Az Mvt. 86/C. § (4)–(5) bekezdése a munkáltatói ellenőrzésről és a célhoz kötött belépésről mit mond?",
+      "options": [
+        {
+          "text": "A rendszeres ellenőrzésen túl a munkáltató vagy megbízottja kockázatértékelés, balesetvizsgálat, valamint a munkakörülmények ellenőrzése céljából léphet be és tartózkodhat a távmunkavégzési helyként szolgáló ingatlan területén.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 86/C. § (5) bekezdése a belépést e célokhoz köti. E körben különösen a 8. §-ban, valamint az 57. és 58. §-ban megjelölt személyt nevezi meg. A belépés tehát célhoz kötött, nem korlátlan."
+        },
+        {
+          "text": "A munkáltató vagy megbízottja rendszeresen köteles meggyőződni arról, hogy a távmunkavégzési helyen a munkakörülmények megfelelnek-e a követelményeknek, és a munkavállalók ismerik, illetve megtartják-e a rájuk vonatkozó rendelkezéseket.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 86/C. § (4) bekezdése a rendszeres meggyőződést írja elő. A kötelezettség a körülményekre és a rendelkezések ismeretére-megtartására egyaránt kiterjed. A rendszeresség a nem számítástechnikai rend része."
+        },
+        {
+          "text": "Az (5) bekezdés szerinti belépés kizárólag a munkavédelmi hatóság hatásköre; a munkáltató csak távolról ellenőrizhet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 86/C. § (5) bekezdése a munkáltató vagy megbízottja belépését engedi a megjelölt célokra. A hatósági ellenőrzés külön, a (7) bekezdés szerinti rendben áll. A munkáltatói belépés tehát nem hatósági monopólium."
+        },
+        {
+          "text": "A munkáltató bármikor, célmegjelölés nélkül beléphet a távmunkavégzési helyre, mert a munkavédelmi felelősség ezt megköveteli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 86/C. § (5) bekezdése a belépést a kockázatértékelés, a balesetvizsgálat és a munkakörülmények ellenőrzése céljához köti. A rendszeres ellenőrzés a (4) bekezdés szerinti meggyőződés. Cél nélküli, korlátlan belépést a szakasz nem ad."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "84400a7f6e17"
+    },
+    {
+      "question": "Miben különbözik a számítástechnikai és a nem számítástechnikai távmunka munkavédelmi helyrendje?",
+      "options": [
+        {
+          "text": "Számítástechnikai távmunkánál a helyet a tájékoztatott munkavállaló választja meg a közölt szabályokhoz igazítva; előzetes helyminősítés nem kötelező.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 86/B. § a)–b) pontja írásbeli szabályközlést és ahhoz igazított helyválasztást ad. A munkáltató nem köteles a helyet előzetesen minősíteni. A kettéválasztás a kockázat természetéhez igazodik."
+        },
+        {
+          "text": "Nem számítástechnikai távmunkánál nincs szükség írásbeli helymegállapodásra, elég a szóbeli utasítás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 86/C. § (1) bekezdése szerint a felek írásban megállapodnak a munkavégzés helyéről. A távmunkavégzési hely ezután e megállapodáshoz kötött. Szóbeli utasítás nem pótolja az írásbeli helyrögzítést."
+        },
+        {
+          "text": "Nem számítástechnikai távmunkánál a hely írásban rögzített, előzetesen minősített, és a körülmények hozzájárulás nélkül nem változtathatók.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 86/C. § (1)–(3) bekezdése helyhez kötött rendet ad a nem számítástechnikai távmunkára. A minősítés a munkavégzés előfeltétele, a körülmények hozzájárulás nélkül nem változtathatók. A képernyős, hálózati munkához képest a hely és a körülmények előzetesen rögzítettek."
+        },
+        {
+          "text": "Mindkét alrendszerben azonos: a munkavállaló szabadon választ helyet, és a munkáltató mindig csak távolról ellenőrizhet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mvt. 86/B. § és a 86/C. § eltérő rendet ad. Számítástechnikai esetben a helyválasztás a tájékoztatott szabályokhoz kötött, és a távoli ellenőrzés diszpozitív. Nem számítástechnikai esetben előzetes minősítés és rendszeres, célhoz kötött belépés érvényesül."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "c45208577e97"
+    },
+    {
+      "question": "Az Mt. 194. § és a 213. § viszonyára a kógencia szempontjából mi helytálló?",
+      "options": [
+        {
+          "text": "A 194. § nincs a 213. § felsorolásában, ezért a munkakör megosztásának szabályaitól a 213. § záradéka nem tiltja az eltérést.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom taxatív, és a 194. § hiányzik a listáról. A felek megállapodása vagy a kollektív szerződés e szakasz szabályaitól – a záradék körén belül – eltérhet. A megosztás tehát nem a 213. § szerinti kógens záradék alá esik."
+        },
+        {
+          "text": "A 213. § csak a munkavállaló terhére zárja az eltérést; a munkavállaló javára a felsoroltaktól el lehet térni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom egyirányú és zárt: sem a munkavállaló javára, sem a terhére nem lehet a felsoroltaktól eltérni. Az Mt. 213. § címzettje a felek megállapodása és a kollektív szerződés. A javára történő eltérés sem nyitja meg a listát."
+        },
+        {
+          "text": "A 194. § egésze a 213. § miatt kógens, ezért a bérarány és a kötetlen munkarend megfelelő alkalmazása sem alakítható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 194. § nincs az Mt. 213. § listáján, ezért a záradék nem teszi kógenssé. Az Mt. 194. § (3) bekezdése a béraránynál kifejezetten eltérő megállapodást enged. A megosztás szabályai nem a 213. § kógens záradéka alá esnek."
+        },
+        {
+          "text": "A 213. § a felek megállapodásának és a kollektív szerződésnek a mozgásterét zárja a felsorolt rendelkezésektől; a tilalom egyirányú és zárt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 213. § címzettje a felek megállapodása és a kollektív szerződés. Sem a munkavállaló javára, sem a terhére nem lehet a felsoroltaktól eltérni. A tárgy szempontjából a b) és a c) pont a döntő a 195. § (2)–(3) és a 196. § kapcsán."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "73cb4fecb5a4"
+    },
+    {
+      "question": "A távmunka Mt. és Mvt. szerinti kettős szabályozására mi igaz?",
+      "options": [
+        {
+          "text": "Az Mvt. 86/A–86/C. § a közszolgálati jogviszonyra is az Mt. helyett alkalmazandó, Kit. szabályok nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tárgy az Mt. munkaviszonyának atipikus alakzatait és a távmunka Mvt. szerinti munkavédelmi rendjét tárgyalja. A Kit. közszolgálati szabályai ide nem tartoznak. Az Mvt. 86/A–86/C. § nem az Mt. helyetti közszolgálati kódex."
+        },
+        {
+          "text": "Az Mvt. 86/A. § (1) bekezdése szerint a távmunkavégzésre e törvény szabályait a jelen fejezetben foglalt eltérésekkel kell alkalmazni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mvt. 86/A. § (1) bekezdése a törvényt a fejezetbeli eltérésekkel rendeli alkalmazni. Ez a lex specialis indító szabálya a távmunka munkavédelmében. Nem váltja ki az Mt. 196. § szerződéses és utasítási-ellenőrzési rendjét."
+        },
+        {
+          "text": "Ha az Mvt. fejezet alkalmazandó, az Mt. 196. § automatikusan háttérbe szorul, és a szerződéses megállapodás is az Mvt.-ből következik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 196. § (2) bekezdése önállóan követeli a távmunkavégzés keretében történő foglalkoztatás szerződéses kikötését. Az Mvt. a munkavédelmi rendet adja, nem váltja az Mt. munkaviszony-tartalmát. A két sík együtt áll, egyik sem szorítja háttérbe a másikat automatikusan."
+        },
+        {
+          "text": "Az Mt. 196. § a munkaviszony szerkezetét adja; az Mvt. 86/A–86/C. § a biztonságos munkavégzés feltételeit a fejezetbeli eltérésekkel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 196. § a munkaviszony szerkezetét adja, míg az Mvt. 86/A–86/C. § a biztonságos munkavégzés feltételeit rendezi a fejezetbeli eltérésekkel. A két törvény nem helyettesíti egymást, hanem párhuzamos síkon érvényesül. A távmunkát a munkajogi és a munkavédelmi sík együtt fedi le."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "08409ec5bc1e"
+    },
+    {
+      "question": "A munkakör megosztásánál az akadályoztatási helytállás alanyára mi igaz?",
+      "options": [
+        {
+          "text": "A munkáltató a többes alanyiságból eredő teljesítést várja, nem pedig saját maga „helyettesít”.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a megosztás szerkezete a munkavállalói oldalon többalanyú. Az Mt. 194. § (1) bekezdése a többi szerződő munkavállaló kötelezettségét írja elő. A munkáltató nem lép a helyettes szerepébe."
+        },
+        {
+          "text": "Akadályoztatásnál a munkáltató köteles azonnal új munkaszerződést kötni helyettes munkavállalóval.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 194. § (1) bekezdése a meglévő szerződést kötő más munkavállaló teljesítési kötelezettségét írja elő. Új munkaszerződés kötése nem a törvényi helyettesítési modell. A kockázat a többi szerződő munkavállalóra települ."
+        },
+        {
+          "text": "Az akadályoztatási helytállás a szerződést kötő többi munkavállaló kötelezettsége.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 194. § (1) bekezdése a szerződést kötő más munkavállalóra telepíti a teljesítést. A ratio a helyettesítési kockázat szerződéses áthárítása. A munkáltató e tényállásnál nem állít helyettest."
+        },
+        {
+          "text": "Csak a munkáltató döntheti el, hogy akadályoztatásnál melyik szerződő munkavállaló köteles teljesíteni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törvény a szerződést kötő más munkavállaló kötelezettségét általános szabályként rögzíti. Az Mt. 194. § (1) bekezdése nem a munkáltató szabad kijelöléséhez köti a helytállást. A többes alanyiságból eredő teljesítés a többi szerződőé."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "4d9623f4e714"
+    },
+    {
+      "question": "A 195. § (2)–(3) bekezdésének kógenciája és a (4)–(5) bekezdés alakíthatósága hogyan viszonyul egymáshoz?",
+      "options": [
+        {
+          "text": "Az egyetemlegesség diszpozitív, mert a kijelölt bérfizető önmagában elegendő helytállást ad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 195. § (3) bekezdése az egyetemlegességet írja elő, és a 213. § b) pontja kógenssé zárja. A kijelölt bérfizető nem zárja ki a többi munkáltató helytállását. Az egyetemlegesség nem tehető félre a felek megállapodásával."
+        },
+        {
+          "text": "Eltérő megállapodás hiányában bármely munkáltató vagy a munkavállaló jognyilatkozata a teljes munkaviszonyt megszünteti; a munkáltatói oldal egy főre olvadása a 63. § (1) bekezdés b) pontja szerinti okot hívja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 195. § (4)–(5) bekezdése ezt a főszabályt adja. Nincs főszabály szerint fennmaradó részviszony. A felek eltérő megállapodással mindkét pontot alakíthatják."
+        },
+        {
+          "text": "A 213. § b) pontja a 195. § egészét kógenssé teszi, ezért a (4)–(5) bekezdés sem alakítható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 213. § b) pontja kifejezetten a 195. § (2)–(3) bekezdését említi. A (4)–(5) bekezdés kívül marad e záradékon. A megszüntetés és a létszámcsökkenéshez fűzött megszűnés ezért eltérő megállapodással alakítható."
+        },
+        {
+          "text": "A bérfizető kijelölése és az egyetemlegesség a 213. § b) pontja miatt kógens; a megszüntető jogosultság és a létszámcsökkenéshez fűzött megszűnés eltérő megállapodással alakítható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 213. § b) pontja csak a 195. § (2)–(3) bekezdését zárja. A (4)–(5) bekezdés kívül marad e záradékon. A két réteg tehát elválik: tartalmi kógencia a bérfizetésnél és az egyetemlegességnél, alakíthatóság a megszüntetésnél."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "4201ec4f18d9"
+    }
+  ]
+}

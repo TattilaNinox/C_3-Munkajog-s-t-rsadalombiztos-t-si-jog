@@ -1,0 +1,1008 @@
+{
+  "id": "x53BlveV0ikuLYeTEiJc",
+  "sorszam": 15,
+  "cim": "A csoportos létszámcsökkentésre vonatkozó főbb szabályok.",
+  "generationType": "kerdes",
+  "title": "15. A csoportos létszámcsökkentésre vonatkozó főbb szabályok.",
+  "questions": [
+    {
+      "question": "Ha a 71. § szerinti csoportos létszámcsökkentés fogalma megnyílik, mely eljárási kötelezettségek kapcsolódnak a működési okú megszüntetéshez a 71–76. § szerint?",
+      "options": [
+        {
+          "text": "A 71–76. § megnyílása önálló megszüntetési jogcímet nyit, ezért a 66. § (2) bekezdése szerinti indokolás mellőzhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a fejezet nem váltja ki a felmondás indokolási rendjét. A helyes: a viszonyt továbbra is a működési okú felmondás, a munkáltatói közös megegyezés vagy a 79. § (1) bekezdés b) pontja szerinti intézkedés bontja fel. Az Mt. 71. § csak a küszöböt és az eljárást rendezi. A tévedés a minősítő eljárás és az önálló jogcím összecsúsztatásából ered."
+        },
+        {
+          "text": "Ha a fogalom megnyílik, a 78. § szerinti azonnali hatályú felmondás is a 75. § (1) bekezdése szerinti harmincnapos várakozás alá esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 78. § szerinti azonnali hatályú felmondás a beleszámításból és e proceduralis kötegből kiesik. A helyes: az Mt. 73. § (4) bekezdése a beleszámító jognyilatkozatot a működési okú felmondásra zárja; a 75. § (1) bekezdése a felmondást és a 79. § (1) bekezdés b) pontja szerinti intézkedést említi. A tévedés a kétféle azonnali hatályú intézmény felcseréléséből ered."
+        },
+        {
+          "text": "Az üzemi tanáccsal folytatott tárgyalás, az állami foglalkoztatási szerv értesítése és a munkavállaló legalább harminc nappal korábbi írásbeli tájékoztatása e fejezet szerint kötelező.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fogalom megnyílása proceduralis köteget indít. Az Mt. 72. § (1) bekezdése az üzemi tanácsi tárgyalást, a 74. § a hatósági értesítést, a 75. § (1) bekezdése a munkavállaló előzetes tájékoztatását írja elő. Húsz vagy kevesebb foglalkoztatottnál — vagy a sávos küszöb alatt — e fejezet szerinti kötelezettségek nem nyílnak meg. A 66. § (2) bekezdése szerinti működési felmondás ettől még közölhető."
+        },
+        {
+          "text": "A 75. § (3) bekezdése szerint az (1) bekezdés megszegésével közölt felmondás jogellenes; a tájékoztatás önmagában nem szünteti meg a viszonyt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a proceduralis szankció a felmondásra szól. Az Mt. 75. § (3) bekezdése a mulasztással közölt felmondást jogellenessé minősíti. Az (1) bekezdés szerinti tájékoztatás proceduralis előfeltétel, nem megszüntető aktus; a megszüntető jognyilatkozat a várakozás letelte után közölhető. A 77. § (1) bekezdés a) pontja szerinti végkielégítést a működési okú felmondás e címen nem vonja el."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "534bd7491e0e"
+    },
+    {
+      "question": "A 71. § (1) bekezdése szerinti csoportos minősítés a megszüntetési szándékra vagy a már közölt felmondások utólagos összeadására épül?",
+      "options": [
+        {
+          "text": "A fogalmi küszöb a már közölt működési okú felmondások utólagos összeadásával is megnyílik, ha a harmincnapos ablakban a sáv elérhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 71. § (1) bekezdése a szándékot minősíti, nem az utólagos összeadást. A helyes: a „kívánja … megszüntetni” fordulat a döntéskori szándékra szól; a 73. § (3) bekezdése a végrehajtási együttszámítást külön rendezi. A tévedés a fogalmi küszöb és a darabolás elleni szabály összecsúsztatásából ered."
+        },
+        {
+          "text": "Húsz vagy kevesebb foglalkoztatottnál is megnyílik a fogalom, ha a munkáltató legalább öt főt kíván elbocsátani az irányelvi fordulat alapján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az öt fős irányelvi feltétel nem pótolja a magyar alsó sávot. A helyes: az Mt. 71. § (1) bekezdés a) pontja húsznál több foglalkoztatottól indul; az öt fős feltétel a Tanács 98/59/EK irányelvének 1. cikkéé, nem a 71. § átültetése. A tévedés az irányelvi számítási fordulat ráírásából ered."
+        },
+        {
+          "text": "Húsz vagy kevesebb foglalkoztatottnál a 71. § szerinti fogalom nem nyílik meg; a 66. § (2) bekezdése szerinti működési felmondás ettől még közölhető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a húszfős alsó sáv alatt e fejezet nem kötelező. Az Mt. 71. § (1) bekezdés a) pontja a „húsznál több és száznál kevesebb” sávot nyitja; húsz vagy kevesebb létszámnál a fogalom nem nyílik. Az üzemi tanácsi tárgyalás, a hatósági értesítés és a 75. § harmincnapos előzetes tájékoztatása nem e fejezet szerint kötelező. Az egyéni működési felmondás szabályai ettől még érvényesülnek."
+        },
+        {
+          "text": "A küszöb a munkáltató szándékára épül: a működésével összefüggő ok miatt ennyi viszonyt kíván megszüntetni harmincnapos időszakon belül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fogalom a „kívánja … megszüntetni” fordulatra épül. Az Mt. 71. § (1) bekezdése a harmincnapos időszakon belüli, működési okú megszüntetési szándékot minősíti a félév átlagos statisztikai létszámához igazított sávokban. A már közölt felmondások utólagos összeadása önmagában nem a fogalmi küszöb. A 73. § (3) bekezdése a darabolás elleni együttszámítást külön síkon rendezi."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "e00ad5afc974"
+    },
+    {
+      "question": "Egy munkáltató a döntést megelőző félévben átlagosan tizennyolc munkavállalót foglalkoztat, és harminc napon belül tíz működési okú felmondást tervez. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "Mivel tíz főt kíván megszüntetni, a csoportos létszámcsökkentés akkor is fennáll, ha a foglalkoztatotti átlag húsz alatt van.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megszüntetési küszöb önmagában nem elég. A helyes: az Mt. 71. § (1) bekezdés a) pontja a legalább tíz fős megszüntetést csak húsznál több és száznál kevesebb foglalkoztatottnál kapcsolja a fogalomhoz. Tizennyolc fős átlagnál a fejezet szerinti eljárás nem kötelező. A tévedés a megszüntetési szám és a foglalkoztatotti sáv felcseréléséből ered."
+        },
+        {
+          "text": "A tervezett tíz működési okú felmondás önmagában nem pótolja a hiányzó foglalkoztatotti létszámsávot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a megszüntetési szándék száma és a foglalkoztatotti sáv konjunktív. Az Mt. 71. § (1) bekezdése először a döntést megelőző félév átlagos statisztikai létszámát, majd a megszüntetni kívánt viszonyok küszöbét vizsgálja. Tizennyolc foglalkoztatottnál a legalább tíz fős megszüntetési küszöb sem nyitja meg a csoportos minősítést. A 71. § (2) bekezdése csak a fél évnél rövidebb működés átlagképzését igazítja, a sávot nem engedi el."
+        },
+        {
+          "text": "A munkáltatónak a 75. § szerint legalább harminc nappal a felmondás előtt tájékoztatnia kell az érintetteket, mert a tíz fős szándék önmagában csoportosnak minősül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 75. § tájékoztatása a csoportos létszámcsökkentés fogalmának fennállásához kötött. A helyes: az Mt. 75. § (1) bekezdése a végrehajtásról szóló döntésről az érintett munkavállaló előzetes tájékoztatását akkor írja elő, ha a 71. § szerinti minősítés fennáll. Tizennyolc foglalkoztatottnál a 71. § nem nyílik meg, ezért e harmincnapos várakozás e címen nem kötelező. A tévedés a megszüntetési darabszám önálló minősítő erővé emeléséből ered."
+        },
+        {
+          "text": "A 71. § szerinti csoportos létszámcsökkentés fogalma nem nyílik meg, mert a húsznál több foglalkoztatotti alsó sáv nincs meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tizennyolc fős átlag a 71. § (1) bekezdés a) pontjának küszöbe alatt van. Az Mt. 71. § (1) bekezdés a) pontja húsznál több és száznál kevesebb foglalkoztatottnál kíván legalább tíz főt; húsz vagy kevesebb foglalkoztatottnál e fogalom nem nyílik meg. A 66. § (2) bekezdése szerinti működési felmondás ettől még közölhető. Üzemi tanácsi tárgyalás, hatósági értesítés és a 75. § szerinti harmincnapos előzetes tájékoztatás e fejezet alapján ilyenkor nem kötelező."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "6e97088fa826"
+    },
+    {
+      "question": "Több telephelynél hogyan kell a munkavállalót a 71. § (3) bekezdése szerint számításba venni, és mi a helyzet, ha a telephelyek különböző vármegyékben vannak?",
+      "options": [
+        {
+          "text": "Több telephelynél mindig az országos összesített létszámra kell a 71. § (1) bekezdésének sávjait alkalmazni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a főszabály a telephelyenkénti vizsgálat. A helyes: az Mt. 71. § (3) bekezdése telephelyenkénti megállapítást ír elő, és csak az azonos vármegye vagy a főváros telephelyeit vonja össze. A tévedés a munkáltatói egység és a telephelyi számítási egység felcseréléséből ered."
+        },
+        {
+          "text": "A munkavállalót azon a telephelyen kell figyelembe venni, amelyen a csoportos létszámcsökkentésről szóló döntés meghozatalakor irányadó beosztása szerint végez munkát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a beszámítás a döntéskori beosztáshoz kötött. Az Mt. 71. § (3) bekezdése második mondata szerint a munkavállalót azon a telephelyen kell számításba venni, amelyen a döntés meghozatalakor irányadó beosztása szerint végez munkát. A létesítéskori telephely önmagában nem határozza meg a beszámítást. Áthelyezés után a korábbi telephely e címen már nem viszi magával."
+        },
+        {
+          "text": "Különböző vármegyékben található telephelyek létszámát nem kell összevonni; a feltételeket telephelyenként kell vizsgálni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az összevonás csak azonos vármegyére vagy a fővárosra szól. Az Mt. 71. § (3) bekezdése az (1) bekezdés feltételeit telephelyenként rendeli megállapítani, és csak az azonos vármegyében vagy a fővárosban található telephelyek létszámát vonja össze. Országos összesítés e szabályból nem következik. A különböző vármegyék telephelyei tehát külön vizsgálandók."
+        },
+        {
+          "text": "A munkavállaló a munkaviszony létesítésekor irányadó telephelyen számítandó, a döntéskori beosztás irreleváns.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a döntéskori beosztás az irányadó. A helyes: az Mt. 71. § (3) bekezdése a döntés meghozatalakor irányadó beosztás szerinti telephelyet rendeli. A létesítéskori telephely önmagában nem határozza meg a beszámítást. A tévedés a munkaszerződéses telephely és a döntéskori beosztás összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "c58a7cfd3b2e"
+    },
+    {
+      "question": "Csoportos létszámcsökkentés tervezésekor elhagyható-e a 72. § szerinti üzemi tanácsi tárgyalási kötelezettség?",
+      "options": [
+        {
+          "text": "A tárgyalási kötelezettség megállapodás hiányában is azonnal megszűnik a tárgyalás megkezdésének napján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, megállapodás hiányában is ki kell tölteni a tizenöt napot. A helyes: az Mt. 72. § (3) bekezdése szerint a tárgyalási kötelezettség a megállapodás megkötéséig, ennek hiányában legalább a tárgyalás megkezdését követő tizenöt napig áll fenn. A tévedés a minimumtartam elhagyásából ered."
+        },
+        {
+          "text": "Nem: ha a munkáltató csoportos létszámcsökkentés végrehajtását tervezi, az üzemi tanáccsal tárgyalni köteles, még a végrehajtásról szóló döntés előtt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tárgyalás a döntést megelőzi, nem utólagos formalitás. Az Mt. 72. § (1) bekezdése szerint a munkáltató, ha csoportos létszámcsökkentés végrehajtását tervezi, az üzemi tanáccsal tárgyalni köteles. A kötelezettség a megállapodás megkötéséig, ennek hiányában legalább a tárgyalás megkezdését követő tizenöt napig áll fenn. A tizenöt nap minimum, nem a megállapodás helyettesítője."
+        },
+        {
+          "text": "A munkáltató a végrehajtásról szóló döntés után is eleget tehet a tárgyalási kötelezettségnek, ha utólag tájékoztatja az üzemi tanácsot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tárgyalás a tervezéshez és a döntés előtti szakaszhoz kötött. A helyes: az Mt. 72. § (1) bekezdése a végrehajtás tervezéséhez köti a kötelezettséget; a 73. § a végrehajtási döntést a tárgyalás után helyezi el. A tévedés a tájékoztatás és a döntés előtti tárgyalás felcseréléséből ered."
+        },
+        {
+          "text": "A tárgyalás elhagyása a munkavállaló terhére kollektív szerződéssel sem érvényes; a 71–76. § körében csak a munkavállaló javára szóló eltérés nyitott.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az in peius irány a tárgyalási kötelezettségnél zárt. Az Mt. 85. § (2) bekezdés d) pontja a relatív kógens magba emeli a 71–76. §-t: a munkavállaló terhére a 72. § (1) bekezdése szerinti tárgyalás nem oltható fel. A tárgyalás tizenöt napjának hosszabbítása vagy a küszöb emelése in melius megengedett. Az irányelv 5. cikke a munkavállalóra nézve kedvezőbb kollektív szerződéses szintet nem korlátozza."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "d9e92a9eaa11"
+    },
+    {
+      "question": "A tárgyalás során kötött megállapodás és a tárgyalás tartalma milyen kötelező elemeket hordoz?",
+      "options": [
+        {
+          "text": "A megállapodást csak az üzemi tanácsnak kell megküldeni; az állami foglalkoztatási szerv értesítése a 74. §-ra korlátozódik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 72. § (5) bekezdése külön hatósági továbbítást ír elő. A helyes: a megállapodást írásba kell foglalni és meg kell küldeni az állami foglalkoztatási szervnek. A 74. § (1) bekezdése a szándékról és a 72. § (2) bekezdése szerinti adatokról szóló értesítést rendezi, nem váltja ki a megállapodás megküldését. A tévedés a két hatósági irat azonosításából ered."
+        },
+        {
+          "text": "A tárgyalásnak ki kell terjednie az elkerülés módjára, az elvekre, a következmények enyhítésére és az érintettek számának csökkentésére.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tárgyalás tartalma taxatív célokat ölel fel. Az Mt. 72. § (4) bekezdése szerint a tárgyalásnak — a megállapodás érdekében — ki kell terjednie a csoportos létszámcsökkentés elkerülésének lehetséges módjára, eszközére, elveire, következményeinek enyhítését célzó eszközökre, valamint az érintett munkavállalók számának csökkentésére. A Tanács 98/59/EK irányelvének 2. cikke a konzultáció tárgyát legalább az elkerülés, a létszám csökkentése és a következmények enyhítése — áthelyezés, átképzés — köré zárja. A puszta tájékoztatás e tartalom nélkül nem elég."
+        },
+        {
+          "text": "A tárgyalás során kötött megállapodást írásba kell foglalni, és meg kell küldeni az állami foglalkoztatási szervnek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az írásbeliség és a hatósági továbbítás együtt kötelező. Az Mt. 72. § (5) bekezdése szerint a tárgyalás során kötött megállapodást írásba kell foglalni és meg kell küldeni az állami foglalkoztatási szervnek. A 76. § (1) bekezdése e megállapodásnak a kiválasztási szempontok rögzítését engedi. A szóbeli egyezség e címen nem pótolja az írásba foglalást."
+        },
+        {
+          "text": "A tárgyalásnak elegendő a létszámcsökkentés indokának ismertetésére szorítkoznia; az enyhítési eszközök tárgyalása fakultatív.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az enyhítés és az érintetti szám csökkentése kötelező tárgy. A helyes: az Mt. 72. § (4) bekezdés c)–d) pontja a következmények enyhítését célzó eszközöket és az érintett munkavállalók számának csökkentését a tárgyalás kötelező tartalmaként rögzíti. A (3) bekezdés a kötelezettséget megállapodás hiányában is legalább tizenöt napig fenntartja. A tévedés a tájékoztatás és a tárgyalási tartalom összecsúsztatásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "c040e24d25dc"
+    },
+    {
+      "question": "Mi a következménye annak, ha a munkáltató az utolsó megszüntető jognyilatkozat közlésétől számított harminc napon belül újabb működési okú felmondást közöl vagy munkáltatói közös megegyezést köt?",
+      "options": [
+        {
+          "text": "A (3) bekezdés alkalmazásában jognyilatkozatnak a működési okú felmondást, megállapodásnak a munkáltató által kezdeményezett közös megegyezést kell tekinteni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a beleszámító alakzatok taxatívak. Az Mt. 73. § (4) bekezdése szerint jognyilatkozatnak a munkáltató működésével összefüggő okra alapított felmondást, megállapodásnak a munkáltató által kezdeményezett közös megegyezést kell tekinteni. A munkavállalói felmondás, a munkavállaló által kezdeményezett közös megegyezés és a 78. § szerinti azonnali hatályú felmondás e taxáción kívül esik. Az (5) bekezdés a 79. § (1) bekezdés b) pontja szerinti intézkedést működési okú megszüntetésnek minősíti."
+        },
+        {
+          "text": "Az újabb felmondás csak akkor számít bele, ha a munkáltató előzetesen kérte a hatóságtól a küszöb újraszámítását.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az együttszámítás automatikus, hatósági kérelem nélkül. A helyes: az Mt. 73. § (3) bekezdése a harminc napon belüli újabb jognyilatkozatot vagy megállapodást együttesen rendeli figyelembe venni. A 74. § a hatósági tájékoztatást rendezi, nem az együttszámítás előfeltételét. A tévedés a hatósági eljárás és a létszám-összevonás összekeveréséből ered."
+        },
+        {
+          "text": "A munkavállaló által kezdeményezett közös megegyezés is beleszámít, ha a harmincnapos ablakon belül köttetik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkavállalói közös megegyezés a taxáción kívül esik. A helyes: az Mt. 73. § (4) bekezdés b) pontja szerint megállapodásnak a munkáltató által kezdeményezett közös megegyezést kell tekinteni. A tévedés a közös megegyezés kezdeményezőjének elhanyagolásából ered."
+        },
+        {
+          "text": "A munkavállalók létszámát együttesen kell figyelembe venni a 73. § (3) bekezdése szerinti darabolás elleni szabály szerint.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a harmincnapos láncolat összekapcsolja a megszüntetéseket. Az Mt. 73. § (3) bekezdése szerint a létszámot együttesen kell figyelembe venni, ha a munkáltató az utolsó jognyilatkozat közlésétől vagy megállapodás kötésétől számított harminc napon belül újabb megszüntető jognyilatkozatot közöl vagy megállapodást köt. A fogalmi 71. § (1) bekezdés ablakától ez a végrehajtási együttszámítás külön sík. A döntésre való hivatkozás nem feltétele."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "1ca322bdfd2c"
+    },
+    {
+      "question": "A nyugdíjasnak minősülő munkavállaló indokolás nélküli felmondása és a 79. § (1) bekezdés b) pontja szerinti intézkedés hogyan kapcsolódik a 73. § beleszámításához és a 75. § várakozásához?",
+      "options": [
+        {
+          "text": "A 66. § (9) bekezdése szerinti, indokolás nélküli felmondás — ellenkező bizonyításig — működési okú megszüntetésnek minősül a 73. § alkalmazásában.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a vélelem a nyugdíjas felmondásra ráillik. Az Mt. 73. § (5) bekezdése szerint — ellenkező bizonyításig — működési okú megszüntetésnek kell tekinteni a felmondást, ha e törvény alapján nem kell indokolni. A 66. § (9) bekezdése a nyugdíjasnak minősülő munkavállaló határozatlan tartamú viszonyának felmondását mentesíti az indokolás alól. Az ellenkező bizonyítás a vélelmet megdöntheti."
+        },
+        {
+          "text": "A 78. § szerinti azonnali hatályú felmondás ugyanígy vélelemmel beleszámít, ha a munkáltató nem indokolja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 78. § szerinti azonnali hatályú felmondás a beleszámításból kiesik. A helyes: az Mt. 73. § (4) bekezdése a beleszámító jognyilatkozatot a működési okú felmondásra zárja; az (5) bekezdés vélelme az indokolás nélküli felmondásra és a 79. § (1) bekezdés b) pontjára szól. A tévedés a két azonnali hatályú intézmény felcseréléséből ered."
+        },
+        {
+          "text": "A 79. § (1) bekezdés b) pontja szerinti intézkedésre a 75. § (1) bekezdése a harmincnapos előzetes tájékoztatást is kiterjeszti, miközben a 75. § (3) bekezdés jogellenességi fordulata csak a felmondást nevezi meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a várakozás tágabb, a szankció szűkebb. Az Mt. 73. § (5) bekezdése a 79. § (1) bekezdés b) pontja szerinti intézkedést működési okú megszüntetésnek rendeli tekinteni. A 75. § (1) bekezdése a közlés előtti legalább harmincnapos tájékoztatást ezen intézkedésre is kiterjeszti; a (3) bekezdés jogellenességi fordulata azonban kifejezetten a felmondásra szól. A 74. § (2) bekezdése ugyanezt a közlést a hatósági tájékoztatáshoz köti."
+        },
+        {
+          "text": "Az indokolás nélküli felmondás soha nem számít bele, mert a 73. § (4) bekezdése csak a kifejezetten működési okra hivatkozó felmondást sorolja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (5) bekezdés vélelme az indokolás nélküli felmondást is bevonja. A helyes: az Mt. 73. § (5) bekezdése szerint — ellenkező bizonyításig — működési okú megszüntetésnek kell tekinteni a felmondást, ha e törvény alapján nem kell indokolni. A tévedés a (4) és az (5) bekezdés hatókörének összecsúsztatásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "0ba7ad0c444c"
+    },
+    {
+      "question": "A 74. § (1) bekezdése szerinti szándékértesítés milyen adatkörről szól, és mi a szerepe az üzemi tanácsnak e lépcsőnél?",
+      "options": [
+        {
+          "text": "A munkáltató a csoportos létszámcsökkentésre vonatkozó szándékáról, valamint a 72. § (2) bekezdésében meghatározott adatról és körülményről írásban értesíti az állami foglalkoztatási szervet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az első lépcső a szándék és a 72. § (2) bekezdése szerinti adatkör. Az Mt. 74. § (1) bekezdése ezt az írásbeli értesítést rendeli. A (2) bekezdés a döntésről a megszüntető jognyilatkozat közlését legalább harminc nappal megelőző tájékoztatást és az érintett azonosító adatait, munkakörét, szakképzettségét külön lépcsőként írja elő. A tengeri hajó lobogó-értesítése a 71. § (4) bekezdésében marad."
+        },
+        {
+          "text": "Elegendő a végrehajtási döntés után egyetlen hatósági értesítés; a szándékról szóló előzetes értesítés nem kötelező.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szándékról szóló (1) bekezdés szerinti értesítés önálló kötelezettség. A helyes: az Mt. 74. § (1) bekezdése a szándékról és a 72. § (2) bekezdése szerinti adatról szóló értesítést rendeli; a (2) bekezdés a döntésről szóló tájékoztatást külön lépcsőként írja elő. A tévedés a két lépcső összevonásából ered."
+        },
+        {
+          "text": "A 74. § (1) bekezdése szerinti értesítés másolatát nem kell az üzemi tanácsnak átadni, mert a tanács a 72. § (2) bekezdése alapján már tájékozott.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatósági értesítés másolatának átadása önálló kötelezettség. A helyes: az Mt. 74. § (1) bekezdése kifejezetten előírja a másolat átadását. A 72. § (2) bekezdése a tárgyalás előtti saját tájékoztatást rendezi, nem váltja ki a hatósági másolatot. A tévedés a két tájékoztatási csatorna azonosításából ered."
+        },
+        {
+          "text": "A szándékról szóló értesítés másolatát az üzemi tanácsnak át kell adni; a 72. § (2) bekezdése szerinti saját tájékoztatás ezt a másolatot nem váltja ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hatósági értesítés tükörképe önálló kötelezettség. Az Mt. 74. § (1) bekezdése kifejezetten előírja a másolat átadását az üzemi tanácsnak. A 72. § (2) bekezdése a tárgyalás megkezdését megelőző legalább hétnapos saját tájékoztatást rendezi. A tanács így a saját tájékoztatás mellett a hatósági értesítés másolatát is megkapja."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "38ab40c45edf"
+    },
+    {
+      "question": "A 75. § (1) bekezdése szerinti tájékoztatás közlése milyen időbeli horgonyt ad a felmondási tilalomnak, és megszünteti-e önmagában a munkaviszonyt?",
+      "options": [
+        {
+          "text": "A harmincnapos várakozás a felmondási időbe beleszámít, ezért a tájékoztatás napján már közölhető a felmondás, ha a felmondási idő legalább harminc nap.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a várakozás a közlés előtti időszak, nem a felmondási idő része. A helyes: az Mt. 75. § (1) bekezdése szerint a felmondás csak a tájékoztatást követő harminc nap elteltét követően közölhető. A 69. § (1) bekezdése szerinti felmondási idő a közlés után indul. A tévedés a két harmincnapos intézmény összecsúsztatásából ered."
+        },
+        {
+          "text": "A 65. § (4) bekezdése a felmondási tilalom időbeli horgonyát csoportos létszámcsökkentésnél e tájékoztatás közléséhez köti, nem a későbbi felmondás napjához.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom kötőpontja a 75. § (1) bekezdése szerinti tájékoztatás. Az Mt. 65. § (4) bekezdése a (3) bekezdés szerinti felmondási tilalom időbeli horgonyát csoportos létszámcsökkentésnél éppen e tájékoztatás közléséhez köti. A későbbi felmondás napja e horgonyt nem pótolja. A 68. § (3) bekezdése szerinti felmondásiidő-késedelem csak akkor alkalmazandó, ha a körülmény a tájékoztatás közlésekor fennállt."
+        },
+        {
+          "text": "A tájékoztatás önmagában megszünteti a munkaviszonyt, ha a munkáltató a döntésben rögzítette a befejező időpontot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 75. § (1) bekezdése szerinti tájékoztatás önmagában nem bontja fel a viszonyt. A helyes: a megszüntető jognyilatkozat a várakozás letelte után közölhető; a 73. § szerinti döntés tartalma a tájékoztatást nem pótolja. A tévedés a tájékoztatás és a megszüntető jognyilatkozat felcseréléséből ered."
+        },
+        {
+          "text": "A tájékoztatás önmagában nem szünteti meg a munkaviszonyt; a megszüntető jognyilatkozat csak a tájékoztatást követő harminc nap elteltét követően közölhető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tájékoztatás proceduralis előfeltétel, nem megszüntető aktus. Az Mt. 75. § (1) bekezdése szerint a felmondás és a 79. § (1) bekezdés b) pontja szerinti azonnali hatályú felmondás a tájékoztatást követő harminc nap elteltét követően közölhető. A viszony felbontása továbbra is a megszüntető jognyilatkozathoz kötött. A harminc nap a közlés előtti várakozás, nem a felmondási idő része."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "2e69af8ea492"
+    },
+    {
+      "question": "Mi a jogkövetkezménye annak, ha a munkáltató a 75. § (1) bekezdésében foglaltakat megszegve közöl felmondást, és kiterjed-e a (3) bekezdés a 79. § (1) bekezdés b) pontjára?",
+      "options": [
+        {
+          "text": "A (3) bekezdés jogellenességi fordulata kifejezetten a felmondásra szól; a 79. § (1) bekezdés b) pontja szerinti intézkedést e fordulat nem nevezi meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szankciós hatókör szűkebb az (1) bekezdés tárgyi körénél. Az Mt. 75. § (1) bekezdése a harmincnapos várakozást a 79. § (1) bekezdés b) pontja szerinti azonnali hatályú felmondásra is kiterjeszti, a (3) bekezdés ezt az intézkedést azonban nem nevezi meg a jogellenességi fordulatban. A 77. § (1) bekezdés a) pontja szerinti végkielégítést a működési okú felmondás e címen nem vonja el."
+        },
+        {
+          "text": "Az (1) bekezdésben foglaltak megszegésével közölt felmondás a 75. § (3) bekezdése szerint jogellenes.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szankció kifejezett. Az Mt. 75. § (3) bekezdése szerint „az (1) bekezdésben foglaltak megszegésével közölt felmondás jogellenes”. A mulasztás a legalább harminc nappal korábbi írásbeli tájékoztatás elmaradását vagy a várakozás előtti közlést is átfoghatja. A Tanács 98/59/EK irányelvének 6. cikke bírósági és igazgatási kikényszerítést kíván; a magyar átültetés a munkavállaló oldalán e szankciót adja."
+        },
+        {
+          "text": "A (3) bekezdés a 79. § (1) bekezdés b) pontja szerinti azonnali hatályú felmondásra is ugyanazzal a jogellenességi fordulattal vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés jogellenességi fordulata kifejezetten a felmondásra szól. A helyes: az Mt. 75. § (3) bekezdése a megszegéssel közölt felmondást minősíti jogellenessé; az (1) bekezdés a 79. § (1) bekezdés b) pontjára is kiterjeszti a várakozást, a (3) bekezdés ezt nem nevezi meg. A tévedés az (1) és a (3) bekezdés hatókörének azonosításából ered."
+        },
+        {
+          "text": "A mulasztás csak kártérítési igényt nyit, a felmondás érvényességét nem érinti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törvény a felmondást jogellenessé minősíti. A helyes: az Mt. 75. § (3) bekezdése szerint az (1) bekezdésben foglaltak megszegésével közölt felmondás jogellenes. A tévedés a jogellenesség és a puszta kártérítés felcseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "e02bd6853295"
+    },
+    {
+      "question": "A 76. § (2) bekezdése szerinti tájékoztatási mulasztás semmissé teszi-e a 72. § (5) bekezdése szerinti megállapodást, és mentesíti-e a munkáltatót a 75. § alól?",
+      "options": [
+        {
+          "text": "A tájékoztatás elmulasztása a megállapodást semmissé teszi, ezért a munkáltató a kiválasztási szempontokat nem alkalmazhatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hallgatás a munkavállaló hivatkozását zárja, nem semmisíti a megállapodást. A helyes: az Mt. 76. § (2) bekezdése a hivatkozást zárja el; a megállapodás érvényessége ettől nem dől meg. A tévedés a hivatkozási tilalom és a semmisség felcseréléséből ered."
+        },
+        {
+          "text": "A (2) bekezdés mentesíti a munkáltatót a 75. § szerinti munkavállalói tájékoztatás alól, ha a megállapodás a kiválasztási szempontokat rögzítette.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 76. § (2) bekezdése nem oldja fel a 75. § tájékoztatási kötelezettségét. A helyes: a fordulat csak a hivatkozást zárja; az Mt. 75. § (1) bekezdése szerinti előzetes tájékoztatás fennmarad. A tévedés a hivatkozási zár és a munkáltatói tájékoztatási kötelezettség összekeveréséből ered."
+        },
+        {
+          "text": "A 76. § (2) bekezdése nem menti a munkáltatót a 72. § tárgyalási és a 75. § (1) bekezdése szerinti előzetes tájékoztatási kötelezettség alól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hivatkozási zár a munkáltatói kötelezettségeket nem engedi el. Az Mt. 76. § (2) bekezdése csak a megállapodás megsértésére való hivatkozást zárja a tájékoztatást elmulasztó munkavállalóval szemben. A 72. § tárgyalási kötelezettsége és a 75. § (1) bekezdése szerinti legalább harmincnapos előzetes tájékoztatás fennmarad. A 75. § (3) bekezdése a mulasztással közölt felmondást jogellenessé minősíti."
+        },
+        {
+          "text": "Nem: a hallgatás a munkavállaló saját oldali hivatkozását zárja a megállapodás megsértésére, a megállapodást semmissé nem teszi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fordulat hivatkozási zár, nem semmisségi szankció. Az Mt. 76. § (2) bekezdése szerint a munkavállaló nem hivatkozhat a megállapodás megsértésére, ha a munkáltatói kötelezettség teljesítéséhez szükséges tájékoztatást nem adta meg. A 76. § (1) bekezdése a kiválasztási szempontok rögzítését engedi. A megállapodás érvényessége a hallgatástól nem dől meg."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "998fc5013b4c"
+    },
+    {
+      "question": "A 85. § (3) bekezdése a 75. § (1) bekezdésének közlés előtti harminc napját hosszabbítja-e, és mit enged a (2) bekezdés d) pontja in melius?",
+      "options": [
+        {
+          "text": "A (2) bekezdés d) pontja szerint a kollektív szerződés a küszöböt emelheti, a tárgyalás tizenöt napját hosszabbíthatja, a 75. § harminc napját a munkavállaló javára tágíthatja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az in melius irány nyitott, az in peius zárt. Az Mt. 85. § (2) bekezdés d) pontja szerint kollektív szerződés a 71–76. § szabályaitól kizárólag a munkavállaló javára térhet el. A küszöb csökkentése, a tárgyalás elhagyása vagy a tájékoztatás lerövidítése a munkavállaló terhére nem érvényes. A kedvezőbb nemzeti és kollektív szerződéses szint az irányelv 5. cikke szerint is nyitva áll."
+        },
+        {
+          "text": "Nem: a (3) bekezdés a 69. § (1) bekezdésének felmondási idejénél hosszabb tartamot enged; ez nem a 75. § közlés előtti várakozása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két harmincnapos intézmény elválik. Az Mt. 85. § (3) bekezdése szerint a kollektív szerződés a 69. § (1) bekezdésében foglaltnál hosszabb felmondási időt is megállapíthat. A 75. § (1) bekezdésének közlés előtti harminc napja ettől külön áll. A 75. § várakozásának tágítása a (2) bekezdés d) pontja szerint lehetséges in melius."
+        },
+        {
+          "text": "A 85. § (3) bekezdése a 75. § (1) bekezdésének közlés előtti harminc napját is meghosszabbíthatja, mert mindkettő harminc napos intézmény.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés a 69. § (1) bekezdésének felmondási idejére szól. A helyes: az Mt. 85. § (3) bekezdése a felmondási idő tartamát rendezi, nem a 75. § várakozását. A tévedés a két harmincnapos intézmény felcseréléséből ered."
+        },
+        {
+          "text": "A kollektív szerződés a munkavállaló terhére is csökkentheti a 71. § küszöbét, ha cserébe magasabb végkielégítést ad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a küszöb csökkentése a munkavállaló terhére nem érvényes. A helyes: az Mt. 85. § (2) bekezdés d) pontja csak a munkavállaló javára enged eltérést; a végkielégítési kompenzáció nem oldja fel a relatív kógens zárat. A tévedés az in peius csereügylet feltételezéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "ffb7ffc9f396"
+    },
+    {
+      "question": "Egy kétszázötven fős átlagos statisztikai létszámú munkáltató harminc napon belül huszonöt munkavállaló működési okú megszüntetését tervezi. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A kétszázötven fős létszámnál a küszöb legalább harminc fő, ezért huszonöt megszüntetés még nem csoportos.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a legalább harminc fős küszöb a háromszáz vagy afeletti sávé. A helyes: az Mt. 71. § (1) bekezdés c) pontja háromszáz vagy annál több foglalkoztatottnál kíván legalább harminc főt; a b) pont szerinti tíz százalék a száz és háromszáz közötti sávra szól. Kétszázötvennél a tíz százalék huszonöt fő. A tévedés a b) és c) pont sávjainak felcseréléséből ered."
+        },
+        {
+          "text": "A 71. § (1) bekezdés b) pontja szerint a küszöb legalább a munkavállalók tíz százaléka; huszonöt fő eléri a huszonöt fős küszöböt, ezért a csoportos létszámcsökkentés fennáll.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a száz és háromszáz közötti sávban a tíz százalék a mérce. Az Mt. 71. § (1) bekezdés b) pontja szerint száz vagy annál több, de háromszáznál kevesebb foglalkoztatottnál legalább a munkavállalók tíz százaléka a küszöb. Kétszázötven foglalkoztatottnál ez huszonöt fő; a tervezett huszonöt megszüntetés eléri a küszöböt. A harmincnapos ablak és a működési ok a záró fordulat szerint e sávra is rávisz."
+        },
+        {
+          "text": "A minősítés a szándékra épül: a munkáltató a működésével összefüggő ok miatt ennyi viszonyt kíván megszüntetni, nem a már közölt felmondások utólagos összeadására.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a minősítés a döntéskori megszüntetési szándékot méri, nem az utólag összeadott közléseket. Az Mt. 71. § (1) bekezdése a „kívánja … megszüntetni” fordulattal a döntéskori szándékot rögzíti. A 73. § (3) bekezdése a darabolás elleni együttszámítást a közlések és megállapodások harmincnapos láncolatára adja, ha a küszöb utólagos darabolással kerülne megkerülésre. A küszöb tehát nem a már közölt felmondások utólagos statisztikai összegzése."
+        },
+        {
+          "text": "A csoportos minősítéshez a 90 napos uniós ablakot kell alkalmazni, mert a harmincnapos magyar ablak csak a húsz–száz fős sávra érvényes.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a harmincnapos ablak mindhárom magyar sávra rávisz. A helyes: az Mt. 71. § (1) bekezdésének záró fordulata a harmincnapos időszakot és a működési okot az a)–c) pontra egyaránt alkalmazza; a 90 napos, húszfős alternatíva a 71. § szövegében nem jelenik meg. A tévedés az irányelvi második modell ráírásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "5eed8d76de8f"
+    },
+    {
+      "question": "A tengeri hajó személyzetét érintő csoportos létszámcsökkentésnél a lobogó szerinti értesítés kiváltja-e a 74. § magyar hatósági tájékoztatását?",
+      "options": [
+        {
+          "text": "Nem: a 71. § (4) bekezdése szerinti lobogó-értesítés és a 74. § szerinti magyar állami foglalkoztatási szerv tájékoztatása párhuzamos címzetteket szolgál, egymást nem helyettesíti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két hatósági sík elkülönül. Az Mt. 71. § (4) bekezdése a lobogó szerinti állam illetékes hatóságának előzetes értesítését írja elő. A 74. § (1)–(2) bekezdése az állami foglalkoztatási szerv szándék- és döntéstájékoztatását rendezi. A Tanács 98/59/EK irányelvének 3. cikke a tengerjáró hajó legénységénél ugyanezt a lobogó szerinti értesítést rendeli. A 74. § tehát nem váltja ki a (4) bekezdést."
+        },
+        {
+          "text": "Elegendő a magyar állami foglalkoztatási szerv 74. § szerinti értesítése; a lobogó szerinti állam hatósága csak kérelemre értesítendő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a lobogó-értesítés előzetes és önálló kötelezettség. A helyes: az Mt. 71. § (4) bekezdése előzetes értesítést ír elő; a 74. § nem teszi a lobogó-értesítést kérelemfüggővé. A tévedés az irányelv bírósági megszüntetési kivételének ráírásából ered."
+        },
+        {
+          "text": "A 71. § (4) bekezdése a lobogó szerinti értesítést a 74. § magyar hatósági tájékoztatása helyébe lépteti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a lobogó szerinti előzetes értesítés nem váltja ki a magyar hatósági síkot. A helyes: az Mt. 71. § (4) bekezdése a tengeri hajó személyzeténél a lobogó szerinti állam illetékes hatóságának előzetes értesítését írja elő. A 74. § (1)–(2) bekezdése a szándék és a döntés tájékoztatását az állami foglalkoztatási szervhez rendeli. A két címzett párhuzamosan fennáll, egymást nem helyettesíti."
+        },
+        {
+          "text": "A lobogó szerinti értesítés az irányelv 3. cikkének tengerhajózási fordulata; a 74. § a magyar foglalkoztatási szervet címzi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a joghelyek és a címzettek elválnak. Az Mt. 71. § (4) bekezdése szerint a munkáltató előzetesen értesíti annak az államnak az illetékes hatóságát, amelynek lobogója alatt a hajó közlekedik. A 74. § a magyar állami foglalkoztatási szervet címzi a szándék és a döntés két lépcsőjével. A lobogó-értesítés tehát nem a 74. § (2) bekezdése szerinti harmincnapos döntési tájékoztatás helyébe lép."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "62f15743f0c5"
+    },
+    {
+      "question": "Az irányelv öt fős egyéb-megszüntetési fordulata és a hatósági meghosszabbítás hogyan viszonyul a magyar 73. § (4) bekezdéséhez, illetve a 74–75. §-hoz?",
+      "options": [
+        {
+          "text": "A 74–75. § a hatóságnak az irányelv 4. cikk (2)–(3) bekezdése szerinti, akár hatvan napig terjedő meghosszabbítási jogát nem ülteti át.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a magyar szabály a hatósági meghosszabbítás intézményét nem ismétli. Az Mt. 74–75. § a harminc napot a jognyilatkozat közléséhez köti. Az irányelv 4. cikk (2)–(3) bekezdése a hatóságnak — ha az eredeti határidő hatvan napnál rövidebb — hatvan napig terjedő hosszabbítást enged, de ez a 74–75. §-ban nem jelenik meg. Az uniós hosszabbítás ráírása a gyakori tévedés."
+        },
+        {
+          "text": "Az öt fős feltétel a 73. § (4) bekezdésébe beépült, ezért a beleszámítás csak legalább öt főnél indul.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 73. § (4) bekezdése öt fős küszöb nélkül zárja a beleszámító alakzatokat. A helyes: az Mt. 73. § (4) bekezdése a működési okú felmondást és a munkáltatói közös megegyezést nevezi meg; az öt fős feltétel az irányelv 1. cikkéé. A tévedés az irányelvi fordulat magyar átültetésként való olvasatából ered."
+        },
+        {
+          "text": "Az öt fős feltétel, amely mellett a munkáltató által kezdeményezett egyéb megszüntetés is elbocsátásnak számít, az irányelv 1. cikkéé, nem a 73. § átültetése.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az öt fős küszöb nem a magyar beleszámítási szabály. Az Mt. 73. § (4) bekezdése a beleszámító alakzatokat a működési okú felmondásra és a munkáltató által kezdeményezett közös megegyezésre zárja, öt fős küszöb nélkül. A Tanács 98/59/EK irányelvének 1. cikke az egyéb megszüntetést akkor vonja be, ha az elbocsátottak száma legalább öt fő. A prózai és a normaszöveg összecsúsztatása a tipikus hiba."
+        },
+        {
+          "text": "A 74. § (2) bekezdése szerinti harminc nap a hatóság döntésével hatvan napra nőhet az irányelv 4. cikke alapján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a magyar szöveg a meghosszabbítást nem ismétli. A helyes: az Mt. 74–75. § a harminc napot a közléshez köti; az irányelvi hatvan napos hosszabbítás a 74–75. §-ban nem jelenik meg. A tévedés az irányelvi hosszabbítás ráírásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "d6d72edb7584"
+    },
+    {
+      "question": "A munkáltató fél évnél rövidebb ideje alakult, és három telephelye van: kettő Pest vármegyében, egy Győr-Moson-Sopron vármegyében. Hogyan kell a 71. § feltételeit vizsgálni?",
+      "options": [
+        {
+          "text": "A két Pest vármegyei telephely létszámát össze kell számítani; a győri telephelyet külön kell vizsgálni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az azonos vármegyében található telephelyek összevonása kötelező. Az Mt. 71. § (3) bekezdése a feltételeket telephelyenként rendeli vizsgálni, és az azonos vármegyében, illetve a fővárosban található telephelyek létszámát összevonja. A Pest vármegyei két telephely tehát egy számítási egység; a Győr-Moson-Sopron vármegyei telephely külön egység. A döntéskori beosztás szerinti telephely a munkavállaló hozzárendelésének alapja."
+        },
+        {
+          "text": "Az átlagos statisztikai létszámot az adott, fél évnél rövidebb időszakra kell megállapítani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rövid működés nem engedi el a küszöbvizsgálatot, csak az átlagképzés időszakát igazítja. Az Mt. 71. § (2) bekezdése szerint, ha a munkáltató fél évnél rövidebb ideje alakult, az (1) bekezdésben meghatározott munkavállalók átlagos statisztikai létszámát az adott időszakra vonatkozóan kell megállapítani. A három sáv és a harmincnapos ablak ettől változatlan. A döntést megelőző félévre számított átlag helyett tehát a tényleges működési időszak az alap."
+        },
+        {
+          "text": "A három telephely létszámát országosan össze kell vonni, mert a rövid működés miatt a telephelyi bontás nem alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés csak az átlagképzés időszakát igazítja, a telephelyi szabályt nem engedi el. A helyes: az Mt. 71. § (3) bekezdése a feltételeket telephelyenként rendeli megállapítani, és csak az azonos vármegyében vagy a fővárosban található telephelyeket vonja össze. A (2) bekezdés a fél évnél rövidebb működés átlagát az adott időszakra számítja. A tévedés a rövid működés és az országos összevonás összekapcsolásából ered."
+        },
+        {
+          "text": "A győri telephely létszámát a Pest vármegyei telephelyekhez kell adni, mert a munkáltató azonos.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a vármegyei összevonás nem lép át vármegyahatárt. A helyes: az Mt. 71. § (3) bekezdése csak az azonos vármegyében vagy a fővárosban található telephelyek létszámát vonja össze; a különböző vármegyék telephelyeit külön kell vizsgálni. A munkavállaló beosztás szerinti telephelye a döntéskori hozzárendelést adja. A tévedés a munkáltatói egység és a vármegyei számítási egység felcseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "1c7108a7dcc3"
+    },
+    {
+      "question": "A 72. § (4) bekezdése szerint mire kell kiterjednie a tárgyalásnak a megállapodás érdekében, és fennáll-e a kötelezettség, ha a döntést ellenőrző vállalkozás hozza?",
+      "options": [
+        {
+          "text": "Ha a döntést az ellenőrző vállalkozás hozza, a munkáltató mentesül a 72. § szerinti tárgyalás alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az ellenőrző vállalkozás döntése nem menti a konzultációt. A helyes: az irányelv 2. cikk (4) bekezdése szerint a kötelezettség akkor is fennáll; az Mt. 72. § (1) bekezdése a tervező munkáltatót kötelezi. A tévedés a döntéshozó és a tárgyaló alany felcseréléséből ered."
+        },
+        {
+          "text": "A tárgyalásnak ki kell terjednie az elkerülés lehetséges módjára, az elvekre, a következmények enyhítését célzó eszközökre és az érintett munkavállalók számának csökkentésére.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tárgyalás tartalmi köre taxatív minimum. Az Mt. 72. § (4) bekezdés a)–d) pontja az elkerülés módját, eszközét, az elveket, a következmények enyhítését és az érintettek számának csökkentését nevezi meg. A (3) bekezdés a kötelezettséget a megállapodásig, ennek hiányában legalább tizenöt napig tartja fenn. A (2) bekezdés f) pontja a törvényitől eltérő juttatást a tájékoztatás adatköreként kezeli, nem a tárgyalás egyetlen tárgyaként."
+        },
+        {
+          "text": "A tárgyalás kizárólag a végkielégítés mértékéről szólhat; az elkerülés és az enyhítés nem kötelező tárgy.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (4) bekezdés az elkerülést, az elveket, az enyhítést és a létszámcsökkentést is kötelező tárgynak rendeli. A helyes: az Mt. 72. § (4) bekezdés a)–d) pontja e négy kört nevezi meg. A tévedés a juttatás-tájékoztatás és a tárgyalási minimum összekeveréséből ered."
+        },
+        {
+          "text": "A konzultációs kötelezettség akkor is fennáll, ha a döntést a munkáltatót ellenőrző vállalkozás hozza; a munkáltató nem védekezhet azzal, hogy a szükséges információt az ellenőrző vállalkozás nem adta meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az ellenőrző vállalkozás döntése nem menti a konzultációt. A Tanács 98/59/EK irányelvének 2. cikk (4) bekezdése ezt kifejezetten rögzíti. Az Mt. 72. § (1) bekezdése a tervező munkáltatót kötelezi a tárgyalásra. A döntéshozó és a tárgyaló alany felcserélése tehát nem oldja fel a kötelezettséget."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "c98210a32c00"
+    },
+    {
+      "question": "Miben tér el a 74. § (2) bekezdése szerinti hatósági tájékoztatás harminc napja a 75. § (1) bekezdése szerinti munkavállalói várakozástól?",
+      "options": [
+        {
+          "text": "A mérték azonos — legalább harminc nap a megszüntető jognyilatkozat közlése előtt —, de a címzett eltér: a hatóság, illetve az érintett munkavállaló.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két harminc nap párhuzamos, nem helyettesíti egymást. Az Mt. 74. § (2) bekezdése a döntésről az állami foglalkoztatási szervet a felmondás vagy a 79. § (1) bekezdés b) pont szerinti jognyilatkozat közlését legalább harminc nappal megelőzően tájékoztatja. A 75. § (1) bekezdése ugyanezt a várakozást az érintett munkavállaló írásbeli tájékoztatásához köti. A hatóság a foglalkoztatáspolitikai beavatkozáshoz, a munkavállaló a saját megszüntetésének előkészítéséhez kapja az információt."
+        },
+        {
+          "text": "A 75. § (1) bekezdése szerinti tájékoztatást az üzemi tanácsnak és az állami foglalkoztatási szervnek is meg kell küldeni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkavállalói tájékoztatás továbbítása bővíti a címzetti kört. Az Mt. 75. § (2) bekezdése szerint az (1) bekezdés szerinti tájékoztatást meg kell küldeni az üzemi tanácsnak és az állami foglalkoztatási szervnek is. A 74. § (2) bekezdése emellett a hatóságnak az érintett azonosító adatait, munkakörét és szakképzettségét is közli. A két irat tehát nem azonos tartalmú másolat."
+        },
+        {
+          "text": "A 75. § harminc napja a felmondási időbe beleszámít, a 74. § harminc napja viszont nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 75. § harminc napja sem a felmondási idő része. A helyes: az Mt. 75. § (1) bekezdése szerint a felmondás csak a tájékoztatást követő harminc nap elteltét követően közölhető; ez a közlés előtti várakozás. A 69. § (1) bekezdése szerinti felmondási idő a közlés után indul. A 74. § (2) bekezdése ugyancsak a közlés előtti hatósági tájékoztatást méri. A tévedés a várakozás és a felmondási idő összecsúsztatásából ered."
+        },
+        {
+          "text": "A 74. § (2) bekezdése szerinti hatósági tájékoztatás teljesítése mentesít a 75. § (1) bekezdése szerinti munkavállalói tájékoztatás alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két kötelezettség párhuzamos. A helyes: az Mt. 74. § (2) bekezdése a hatóságot, a 75. § (1) bekezdése az érintett munkavállalót címzi; a 75. § (3) bekezdése a munkavállalói tájékoztatás megszegésével közölt felmondást jogellenessé minősíti. A hatósági irat a munkavállalói példányt nem pótolja. A tévedés a címzettek felcseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "f2decf1b585b"
+    },
+    {
+      "question": "A 68. § (3) bekezdése szerinti felmondásiidő-késedelem csoportos létszámcsökkentésnél mikor alkalmazandó?",
+      "options": [
+        {
+          "text": "Csoportos létszámcsökkentésnél a 68. § (3) bekezdése nem alkalmazható, mert a 75. § (3) bekezdése a felmondást amúgy is jogellenessé teszi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 68. § (3) bekezdése kifejezetten a 75. § (1) bekezdése szerinti tájékoztatáshoz köti a késedelmet. A helyes: a felmondásiidő-késedelem akkor alkalmazandó, ha a körülmény a tájékoztatás közlésekor fennállt; a 75. § (3) bekezdése a tájékoztatás megszegésével közölt felmondást minősíti jogellenessé, nem zárja ki a 68. § alkalmazását. A tévedés a két jogkövetkezmény összecsúsztatásából ered."
+        },
+        {
+          "text": "A 65. § (4) bekezdése a felmondási tilalom időbeli horgonyát csoportos létszámcsökkentésnél a 75. § (1) bekezdése szerinti tájékoztatás közléséhez köti, nem a későbbi felmondás napjához.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom és a késedelem ugyanahhoz a tájékoztatáshoz igazodik. Az Mt. 65. § (4) bekezdése a (3) bekezdés szerinti felmondási tilalom időbeli horgonyát csoportos létszámcsökkentésnél e tájékoztatás közléséhez köti. A 75. § (1) bekezdése a döntésről szóló előzetes tájékoztatást legalább harminc nappal a felmondás közlése elé helyezi. A felmondás napja tehát sem a tilalom, sem a 68. § (3) bekezdése szerinti késedelem horgonyát nem pótolja."
+        },
+        {
+          "text": "A felmondásiidő-késedelem akkor is alkalmazandó, ha a keresőképtelenség csak a felmondás közlésekor áll fenn, a tájékoztatás idején még nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a körülménynek a tájékoztatás közlésekor kell fennállnia. A helyes: az Mt. 68. § (3) bekezdése a 75. § (1) bekezdése szerinti tájékoztatás közlésekor fennálló körülményt kívánja meg. A felmondás napján keletkező keresőképtelenség e címen nem nyitja meg a késedelmet. A tévedés a tájékoztatás és a felmondás időpontjának felcseréléséből ered."
+        },
+        {
+          "text": "Csak akkor, ha a betegség miatti keresőképtelenség, a beteg gyermek ápolása vagy a hozzátartozó otthoni gondozása a 75. § (1) bekezdése szerinti tájékoztatás közlésekor fennállt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a késedelem időbeli horgonya a tájékoztatás napja. Az Mt. 68. § (3) bekezdése szerint a (2) bekezdés felmondásiidő-késedelme — betegség miatti keresőképtelenség, beteg gyermek ápolása, hozzátartozó otthoni gondozása — csak akkor alkalmazandó, ha a körülmény a 75. § (1) bekezdése szerinti tájékoztatás közlésekor fennállt. A későbbi felmondás napján keletkező körülmény e címen nem nyitja meg a késedelmet. A 65. § (4) bekezdése a felmondási tilalom horgonyát ugyancsak e tájékoztatáshoz köti."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "a327a61f1c88"
+    },
+    {
+      "question": "Egy háromszázhúsz fős átlagos létszámú munkáltató harminc napon belül huszonnyolc működési okú felmondást tervez. Mi a helyes minősítés?",
+      "options": [
+        {
+          "text": "A csoportos létszámcsökkentés fogalma nem nyílik meg, mert a háromszáz vagy afeletti sávban a küszöb legalább harminc fő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a c) pont szerinti legalább harminc fős küszöb nincs meg. Az Mt. 71. § (1) bekezdés c) pontja szerint háromszáz vagy annál több munkavállaló foglalkoztatása esetén legalább harminc munkavállaló megszüntetési szándéka kell. Háromszázhúsz foglalkoztatottnál a huszonnyolc fő elmarad a küszöbtől. A b) pont szerinti tíz százalék csak a száz és háromszáz közötti sávra szól."
+        },
+        {
+          "text": "A huszonnyolc fő eléri a tíz százalékot, ezért a b) pont szerint csoportos a létszámcsökkentés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tíz százalékos küszöb nem a háromszáz feletti sávé. A helyes: az Mt. 71. § (1) bekezdés b) pontja száz vagy annál több, de háromszáznál kevesebb foglalkoztatottnál kíván legalább tíz százalékot; a c) pont háromszáz vagy afelett legalább harminc főt. Háromszázhúsznál a huszonnyolc fő a harminc alatt marad. A sávok felcserélése — a tíz százalék ráírása a c) pontra — a tipikus tévedés."
+        },
+        {
+          "text": "A 73. § (3) bekezdése szerint a huszonnyolc felmondást automatikusan harmincra kell kerekíteni, ha harminc napon belül történnek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az együttszámítás a tényleges megszüntetéseket adja össze, nem kerekít. A helyes: az Mt. 73. § (3) bekezdése a harminc napon belüli újabb jognyilatkozatokat vagy megállapodásokat együttesen rendeli figyelembe venni; küszöbkerekítést nem tartalmaz. A 71. § (1) bekezdés c) pontja legalább harminc főt kíván. A tévedés az együttszámítás és a küszöbkerekítés összekeveréséből ered."
+        },
+        {
+          "text": "A működési okú felmondások a 66. § (2) bekezdése szerint továbbra is közölhetők, csak a 71–76. § szerinti eljárás e címen nem kötelező.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a küszöb elmaradása nem zárja el a működési felmondást. Az Mt. 66. § (2) bekezdése a munkáltatói felmondás indokát a magatartásra, a képességre vagy a működésre zárja; a működési okú felmondás a 71. § fogalmának hiányában is közölhető. Az üzemi tanácsi tárgyalás, a hatósági értesítés és a 75. § harmincnapos előzetes tájékoztatása nem e fejezet szerint kötelező. A 73. § (3) bekezdése szerinti együttszámítás is csak a csoportos minősítés körében bír jelentőséggel."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "c3ec47321725"
+    },
+    {
+      "question": "Mi következik abból, ha a csoportos létszámcsökkentés keretében közölt, működési okú felmondás mellett a munkáltató a végkielégítést megvonná?",
+      "options": [
+        {
+          "text": "Csoportos létszámcsökkentésnél a végkielégítés törvényi mértéke automatikusan elenyészik, mert a 72. § (2) bekezdés f) pontja csak az eltérő juttatást említi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az f) pont az eltérő juttatásról szól, nem a törvényi végkielégítés elvonásáról. A helyes: az Mt. 77. § (1) bekezdés a) pontja a munkáltatói felmondáshoz végkielégítést kapcsol, és a csoportos eljárás e jogosultságot nem vonja el. A 72. § (2) bekezdés f) pontja a törvényitől eltérő juttatás feltételét és mértékét kéri. A tévedés az f) pont negatív olvasatából ered."
+        },
+        {
+          "text": "A kollektív szerződés a 85. § (2) bekezdés d) pontja alapján a munkavállaló terhére kizárhatja a végkielégítést csoportos létszámcsökkentésnél.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 85. § (2) bekezdés d) pontja csak in melius eltérést enged a 71–76. §-tól, és a 77. § végkielégítését e pont nem említi elvonhatóként. A helyes: a kollektív szerződés a 71–76. §-tól csak a munkavállaló javára térhet el; a végkielégítés elvonása a munkavállaló terhére nem fér ebbe a fordulatba. A 77. § (1) bekezdés a) pontja a munkáltatói felmondáshoz kapcsolja a jogosultságot. A gyakori félreértés a relatív kógens magot abszolút eltérési szabadsággá olvassa."
+        },
+        {
+          "text": "A 75. § (1) bekezdése szerinti tájékoztatás önmagában nem szünteti meg a munkaviszonyt; a végkielégítés a későbbi, jogszerűen közölt felmondáshoz kapcsolódik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tájékoztatás és a megszüntető jognyilatkozat elválik. Az Mt. 75. § (1) bekezdése a döntésről szóló előzetes tájékoztatást írja elő; a felmondás csak a harminc nap elteltét követően közölhető. A 77. § (1) bekezdés a) pontja a munkáltatói felmondáshoz köti a végkielégítést. A puszta tájékoztatás tehát sem a viszonyt, sem a végkielégítési jogcímet nem zárja le."
+        },
+        {
+          "text": "A 77. § (1) bekezdés a) pontja a munkáltatói felmondáshoz végkielégítést kapcsol; a csoportos létszámcsökkentés e jogosultságot nem vonja el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a csoportos eljárás nem szünteti meg a végkielégítési jogcímet. Az Mt. 77. § (1) bekezdés a) pontja a munkáltatói felmondáshoz végkielégítést kapcsol. A működési okú felmondás a 66. § (2) bekezdése szerinti indokolási körbe tartozik, és a 71–76. § eljárása e jogosultságot nem írja felül. A 72. § (2) bekezdés f) pontja csak a törvényitől eltérő juttatásról szól, nem a törvényi végkielégítés elvonásáról."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "2d97d0a04a76"
+    },
+    {
+      "question": "A csoportos létszámcsökkentés végrehajtásáról szóló döntés a 72. § szerinti tárgyaláshoz és a 74–75. § szerinti tájékoztatásokhoz képest hol helyezkedik el az eljárási sorrendben?",
+      "options": [
+        {
+          "text": "A tárgyalás a tervezett végrehajtás előtt kötelező, még a döntés meghozatala előtt; a döntés után következik a 74. § (2) bekezdése és a 75. § (1) bekezdése szerinti tájékoztatás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a sorrend: tárgyalás → döntés → közlés előtti tájékoztatás. Az Mt. 72. § (1) bekezdése a végrehajtás tervezéséhez köti a tárgyalást. A 73. § (1) bekezdése a döntésben a foglalkoztatási csoportonkénti létszámot és az ütemezést kívánja meg. A 74. § (2) bekezdése és a 75. § (1) bekezdése a döntésről a megszüntető jognyilatkozat közlését legalább harminc nappal megelőző tájékoztatást ír elő."
+        },
+        {
+          "text": "A puszta döntés nem nyitja meg a felmondás közlését: a 75. § (1) bekezdése szerinti tájékoztatás és a harmincnapos várakozás a döntés után is kötelező.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a döntés és a közlés elválik. Az Mt. 75. § (1) bekezdése szerint a munkáltató a döntésről az érintett munkavállalót a felmondás közlését megelőzően legalább harminc nappal írásban tájékoztatja, és a felmondás a tájékoztatást követő harminc nap elteltét követően közölhető. A 73. § (1) bekezdése szerinti döntés dokumentuma a munkavállalói tájékoztatást nem pótolja. A 74. § (2) bekezdése ugyanezt a harminc napot a hatósági tájékoztatáshoz köti."
+        },
+        {
+          "text": "A döntés önmagában pótolja a 75. § (1) bekezdése szerinti munkavállalói tájékoztatást, ha a befejező időpontot rögzíti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 73. § szerinti döntés és a 75. § szerinti tájékoztatás elválik. A helyes: az Mt. 75. § (1) bekezdése az érintett munkavállaló külön, legalább harminc nappal korábbi írásbeli tájékoztatását írja elő. A tévedés a két aktus azonosításából ered."
+        },
+        {
+          "text": "A munkáltató a végrehajtásról szóló döntés után is eleget tehet a 72. § szerinti tárgyalási kötelezettségnek, ha utólag tájékoztatja az üzemi tanácsot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tárgyalás a döntés előtti szakaszhoz kötött. A helyes: az Mt. 72. § (1) bekezdése a tervezéshez köti a tárgyalást; a 73. § a döntést a tárgyalás után helyezi el. A tévedés a tájékoztatás és a döntés előtti tárgyalás felcseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "28465bd1e0a5"
+    },
+    {
+      "question": "Mely állítások tévesek az üzemi tanáccsal folytatott tárgyalás időtartamáról és céljáról?",
+      "options": [
+        {
+          "text": "A tárgyalás megkezdését megelőző hétnapos írásbeli tájékoztatás mellőzhető, ha a munkáltató a tizenöt napos tárgyalást teljesíti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hétnapos előzetes tájékoztatás önálló kötelezettség. A helyes: az Mt. 72. § (2) bekezdése szerint a tárgyalás megkezdését megelőzően legalább hét nappal a munkáltató köteles az üzemi tanácsot írásban tájékoztatni a taxatív adatkörről. A (3) bekezdés tizenöt napja a tárgyalás tartamának minimuma, nem váltja ki az előzetes tájékoztatást. A tévedés a két határidő felcseréléséből ered."
+        },
+        {
+          "text": "A tárgyalásnak nem kell kitérnie az érintett munkavállalók számának csökkentésére, ha az elkerülés lehetetlennek látszik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az érintetti szám csökkentése kötelező tárgy. A helyes: az Mt. 72. § (4) bekezdés d) pontja szerint a tárgyalásnak ki kell terjednie az érintett munkavállalók számának csökkentésére. A (4) bekezdés a)–c) pontja az elkerülést, az elveket és az enyhítést is kötelezővé teszi. A tévedés a lehetetlennek látszó elkerülés ürügyén a tartalom elhagyásából ered."
+        },
+        {
+          "text": "A tizenöt nap a megállapodás helyettesítője: ha eltelt, a munkáltató a tárgyalás eredményétől függetlenül végrehajthatja a létszámcsökkentést megállapodás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tizenöt nap a kötelezettség minimuma, nem a megállapodás helyettesítője. A helyes: az Mt. 72. § (3) bekezdése szerint a tárgyalási kötelezettség a megállapodás megkötéséig, ennek hiányában legalább a tárgyalás megkezdését követő tizenöt napig áll fenn. A (4) bekezdés a tárgyalás tartalmát az elkerülés, az elvek, az enyhítés és az érintetti szám csökkentése köré zárja. A tévedés a minimumtartam és a megállapodás pótlásának összecsúsztatásából ered."
+        },
+        {
+          "text": "A tárgyalás során kötött megállapodás szóbeli is lehet, ha az üzemi tanács jegyzőkönyvben rögzíti az elhangzottakat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megállapodást írásba kell foglalni. A helyes: az Mt. 72. § (5) bekezdése szerint a tárgyalás során kötött megállapodást írásba kell foglalni és meg kell küldeni az állami foglalkoztatási szervnek. A szóbeli egyezség vagy a puszta jegyzőkönyv e címen nem pótolja az írásba foglalást. A tévedés a jegyzőkönyv és a megállapodás formai azonosságának feltételezéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "c5494efb9b76"
+    },
+    {
+      "question": "A 75. § (1) bekezdése szerinti munkavállalói tájékoztatást kinek kell még megküldeni, és mi a következménye a megszegéssel közölt felmondásnak?",
+      "options": [
+        {
+          "text": "Az (1) bekezdés megszegésével közölt felmondás a 75. § (3) bekezdése szerint jogellenes.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szankció a megszegéssel közölt felmondásra szól. Az Mt. 75. § (3) bekezdése szerint „az (1) bekezdésben foglaltak megszegésével közölt felmondás jogellenes”. A legalább harminc nappal korábbi írásbeli tájékoztatás elmaradása vagy a várakozás előtti közlés egyaránt a fordulat alá eshet. A 77. § szerinti végkielégítési jogosultság a működési okú felmondásnál ettől még fennmarad."
+        },
+        {
+          "text": "A (2) bekezdés szerinti továbbítás elmaradása önmagában a felmondást is jogellenessé teszi a (3) bekezdés szövegszerű fordulata szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés az (1) bekezdés megszegésével közölt felmondásra szól. A helyes: az Mt. 75. § (3) bekezdése az (1) bekezdésben foglaltak megszegését szankcionálja; a (2) bekezdés a továbbítást rendezi, de a jogellenességi fordulat az (1) bekezdésre utal. A tévedés a (2) és a (3) bekezdés hatókörének összecsúsztatásából ered."
+        },
+        {
+          "text": "A tájékoztatást meg kell küldeni az üzemi tanácsnak és az állami foglalkoztatási szervnek is; a munkavállalói példány önmagában nem pótolja e továbbítást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés önálló továbbítási kötelezettség. Az Mt. 75. § (2) bekezdése szerint az (1) bekezdés szerinti tájékoztatást meg kell küldeni az üzemi tanácsnak és az állami foglalkoztatási szervnek is. A 74. § (2) bekezdése a hatóságnak a döntésről szóló, azonosító adatokat tartalmazó tájékoztatást rendezi; a 75. § (2) bekezdése a munkavállalónak adott előzetes tájékoztatás másolatát juttatja el ugyanezen címzettekhez."
+        },
+        {
+          "text": "Igen, a felmondás közölhető a döntés után azonnal, ha a 74. § (2) bekezdése szerinti hatósági tájékoztatás már megtörtént, mert a hatósági irat a munkavállalói tájékoztatást pótolja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatósági tájékoztatás nem helyettesíti a munkavállalói példányt. A helyes: az Mt. 75. § (1) bekezdése az érintett munkavállaló írásbeli tájékoztatását kívánja; a 74. § (2) bekezdése a hatóságot címzi. A 75. § (3) bekezdése a munkavállalói tájékoztatás megszegésével közölt felmondást minősíti jogellenessé. A címzettek felcserélése a tipikus csapda."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "3cd09859b4cc"
+    },
+    {
+      "question": "A törvény által felsoroltak közül melyik szerepel ténylegesen a 73. § (4)–(5) bekezdése szerinti beleszámító alakzatok között?",
+      "options": [
+        {
+          "text": "A 78. § szerinti azonnali hatályú felmondás, ha a munkáltató működési okot is megjelöl az indokolásban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 78. § szerinti azonnali hatályú felmondás a beleszámításból kiesik. A helyes: az Mt. 73. § (4) bekezdése a beleszámító jognyilatkozatot a működési okú felmondásra zárja; a 78. § a lényeges kötelezettségszegésen vagy a viszonyt lehetetlenné tevő magatartáson nyugszik. Az (5) bekezdés a 79. § (1) bekezdés b) pontja szerinti intézkedést emeli be, nem a 78. §-t. A két azonnali hatályú intézmény felcserélése a tipikus hiba."
+        },
+        {
+          "text": "A munkavállaló által közölt felmondás, ha a munkáltató a harmincnapos ablakon belül fogadja el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkavállalói felmondás a taxáción kívül esik. A helyes: az Mt. 73. § (4) bekezdése a beleszámító jognyilatkozatot a működési okú felmondásra zárja; a munkavállalói felmondás, a 78. § szerinti azonnali hatályú felmondás és a munkavállaló által kezdeményezett közös megegyezés nem beleszámító alakzat. A munkáltatói „elfogadás” e kört nem bővíti. A csapda a megszüntetés ténye és a beleszámító jogcím összekeverése."
+        },
+        {
+          "text": "A 79. § (1) bekezdés b) pontja szerinti munkáltatói intézkedés, valamint — ellenkező bizonyításig — az indokolás nélküli felmondás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (5) bekezdés e két további alakzatot emeli be. Az Mt. 73. § (5) bekezdése a működési okú megszüntetésnek rendeli tekinteni a 79. § (1) bekezdés b) pont szerinti intézkedést, valamint — ellenkező bizonyításig — a felmondást, ha e törvény alapján nem kell indokolni. A 66. § (9) bekezdése szerinti nyugdíjas felmondás e vélelem alá eshet. A 78. § szerinti azonnali hatályú felmondás továbbra is kívül marad."
+        },
+        {
+          "text": "A munkáltató működésével összefüggő okra alapított felmondás és a munkáltató által kezdeményezett közös megegyezés.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (4) bekezdés e két alakzatot nevezi meg. Az Mt. 73. § (4) bekezdés a) pontja jognyilatkozatnak a működési okú felmondást, b) pontja megállapodásnak a munkáltató által kezdeményezett közös megegyezést rendeli tekinteni. A (3) bekezdés együttszámítása e taxációra épül. A munkavállalói oldali megszüntetések e listán kívül esnek."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "6add72edf29b"
+    },
+    {
+      "question": "Hogyan viszonyul a Tanács 98/59/EK irányelvének 2. cikk (3) bekezdése szerinti adatköre a 72. § (2) bekezdéséhez?",
+      "options": [
+        {
+          "text": "A 72. § (2) bekezdése szűkebb az irányelvnél, mert a kiválasztási szempontok közlését mellőzi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kiválasztási szempontok a magyar listán is szerepelnek. A helyes: az Mt. 72. § (2) bekezdés e) pontja a kiválasztás szempontjairól szóló tájékoztatást kötelezővé teszi. A Tanács 98/59/EK irányelvének 2. cikk (3) bekezdése ugyancsak a kiválasztási ismérveket kéri. A 76. § (1) bekezdése a megállapodásban rögzített szempontokká emelheti ezeket. A lista tehát a kiválasztási ismérveket is tartalmazza, nem hagyja el."
+        },
+        {
+          "text": "Az irányelv 4. cikk (2)–(3) bekezdése szerinti hatósági meghosszabbítás a 74. § (2) bekezdésébe beépült, ezért a magyar harminc nap hatvan napra nőhet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a magyar szabály a hatósági meghosszabbítást nem ismétli. A helyes: az Mt. 74–75. § a harminc napot a jognyilatkozat közléséhez köti; az irányelv 4. cikk (2)–(3) bekezdése a hatóságnak — ha az eredeti határidő hatvan napnál rövidebb — hatvan napig terjedő hosszabbítást enged, de ez a 74–75. §-ban nem jelenik meg. Az uniós hosszabbítás ráírása a gyakori tévedés."
+        },
+        {
+          "text": "A magyar f) pont a törvényitől eltérő juttatás feltételét és mértékét kéri; a 77. § szerinti végkielégítés törvényi mértéke önmagában nem e pont tárgya, miközben az irányelv 2. cikk (3) bekezdése a törvényitől eltérő végkielégítés számítási módszerét említi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a megfeleltetés az eltérő juttatás síkján áll, nem a törvényi végkielégítésen. Az Mt. 72. § (2) bekezdés f) pontja a munkaviszonyra vonatkozó szabályban meghatározottól eltérő juttatásról szól. A Tanács 98/59/EK irányelvének 2. cikk (3) bekezdése a törvényitől eltérő végkielégítés számítási módszerét kéri. A 77. § szerinti törvényi végkielégítés önmagában nem az f) pont tárgya."
+        },
+        {
+          "text": "Az irányelvi adatköre — ok, elbocsátani kívántak száma és kategóriája, rendszerint alkalmazottak, időszak, kiválasztási ismérvek, törvényitől eltérő végkielégítés számítási módszere — a 72. § (2) bekezdés a)–f) pontjával feleltethető meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a magyar tájékoztatási lista az irányelvi adatkört tükrözi. Az Mt. 72. § (2) bekezdés a)–f) pontja az okot, a létszámadatokat, az ütemezést, a kiválasztási szempontokat és a törvényitől eltérő juttatást sorolja. A Tanács 98/59/EK irányelvének 2. cikk (3) bekezdése ugyanezeket az elemeket kívánja írásban. A magyar f) pont a törvényitől eltérő juttatásra szűkít, nem a törvényi végkielégítésre."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "49215cebb669"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható a munkavállaló javára szóló eltérés a 71–76. § körében?",
+      "options": [
+        {
+          "text": "A felek egyedi megállapodása a 85. § (2) bekezdés d) pontja szerinti in melius eltérést nem kapja meg; az csak a kollektív szerződésnek jár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés alanya a kollektív szerződés. Az Mt. 85. § (2) bekezdés d) pontja a 71–76. § szabályaitól a kollektív szerződésnek csak a munkavállaló javára enged eltérést. Az (1) bekezdés a felek megállapodását más szakaszoktól zárja el, a 71–76. §-t ott nem említi; a (2) bekezdés d) pontja e szabályoktól csak a kollektív szerződésnek enged in melius eltérést. Az egyedi munkaszerződés tehát e címen nem tágíthatja a küszöböt."
+        },
+        {
+          "text": "A munkavállaló terhére a küszöb csökkentése, a tárgyalás elhagyása vagy a tájékoztatás lerövidítése még kollektív szerződésben sem érvényes.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az in peius irány zárt. Az Mt. 85. § (2) bekezdés d) pontja a 71–76. §-tól csak a munkavállaló javára enged eltérést. A küszöb emelhető, a tárgyalás tizenöt napja hosszabbítható, a 75. § harminc napja tágítható; a fordított irány nem. A Tanács 98/59/EK irányelvének 5. cikke ugyanezt a kedvezőbb szintet hagyja nyitva."
+        },
+        {
+          "text": "A kollektív szerződés a munkavállaló javára sem emelheti a 71. § küszöbét, mert a küszöb abszolút kógens.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a küszöb emelése in melius megengedett. A helyes: az Mt. 85. § (2) bekezdés d) pontja a 71–76. §-tól a kollektív szerződésnek csak a munkavállaló javára enged eltérést; a küszöb emelése a munkavállaló javára szól. A küszöb csökkentése lenne a tilos irány. Az abszolút kógencia állítása a (2) bekezdés d) pontjával ellentétes."
+        },
+        {
+          "text": "A 85. § (1) bekezdése a 71–76. §-t is elzárja a kollektív szerződéstől, ezért in melius eltérés sincs.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az abszolút eltérési tilalom tárgyi köre nem a 71–76. §-ra szól. A helyes: az Mt. 85. § (1) bekezdése a 63. § (1) bekezdésétől, a 64. §-tól és a 82. § (1) bekezdésétől zárja el a felek megállapodását vagy kollektív szerződést. A 71–76. § a (2) bekezdés d) pontjában kapja a csak in melius eltérést, tehát a kedvezőbb kollektív szerződéses szint nyitva áll. Az (1) és a (2) bekezdés tárgyi körének összecsúsztatása a hiba forrása."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "7b08d3d14997"
+    },
+    {
+      "question": "Egy százötven fős munkáltató két telephelyen működik Budapesten, és harminc napon belül tizenhat működési okú megszüntetést tervez. Mely megállapítások helytállóak?",
+      "options": [
+        {
+          "text": "Tizenhat fő a százötvenhez képest nem éri el a tíz százalékot, ezért a csoportos minősítés hiányzik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tíz százalék százötvennél tizenöt fő, a tervezett tizenhat pedig e fölött van. A helyes: az Mt. 71. § (1) bekezdés b) pontja legalább a munkavállalók tíz százalékát kívánja; százötven foglalkoztatottnál ez tizenöt fő. A tervezett tizenhat megszüntetés a harmincnapos ablakban és működési okkal eléri a küszöböt. A számtani küszöb alábecslése a hiba forrása."
+        },
+        {
+          "text": "A fővárosi telephelyek létszámát össze kell számítani; a százötven fős együttes átlag a b) pont szerinti sávba esik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fővárosi telephelyek összevonása kötelező. Az Mt. 71. § (3) bekezdése szerint az azonos vármegyében vagy a fővárosban található telephelyek létszámát össze kell számítani. Százötven foglalkoztatottnál a 71. § (1) bekezdés b) pontja legalább tíz százalékot, azaz tizenöt főt kíván. A tervezett tizenhat megszüntetés eléri a küszöböt, ha a harmincnapos ablak és a működési ok fennáll."
+        },
+        {
+          "text": "A munkavállalót a döntéskor irányadó beosztása szerinti telephelyen kell figyelembe venni, nem a korábbi beosztása szerint.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hozzárendelés időpontja a döntés. Az Mt. 71. § (3) bekezdése a munkavállalót azon a telephelyen rendeli számításba venni, amelyen a csoportos létszámcsökkentésről szóló döntés meghozatalakor irányadó beosztása szerint végez munkát. Áthelyezés után a korábbi telephely létszáma már nem viszi magával a munkavállalót. A fővárosi összevonás a telephelyek létszámát érinti, a beosztás szerinti hozzárendelést nem oldja fel."
+        },
+        {
+          "text": "A két budapesti telephelyet külön kell vizsgálni, mert a főváros nem vármegye.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törvény a fővárost kifejezetten az összevonási szabályba emeli. A helyes: az Mt. 71. § (3) bekezdése az azonos vármegyében vagy a fővárosban található telephelyek létszámát összevonja. A két budapesti telephely tehát egy számítási egység. A „főváros nem vármegye” érvelés a törvényi fordulatot mellőzi."
+        }
+      ],
+      "sourceKerdesSorszam": 29,
+      "sourceHash": "3153baaf0a6a"
+    },
+    {
+      "question": "Miben tér el a 79. § (1) bekezdés b) pontja szerinti intézkedés beleszámítása a 75. § (3) bekezdésének jogellenességi szankciójától?",
+      "options": [
+        {
+          "text": "A 73. § (5) bekezdése a 79. § (1) bekezdés b) pontja szerinti intézkedést kizárja a beleszámításból, mert az azonnali hatályú.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (5) bekezdés éppen ezt az intézkedést emeli be. A helyes: az Mt. 73. § (5) bekezdése a 79. § (1) bekezdés b) pont szerinti munkáltatói intézkedést működési okú megszüntetésnek rendeli tekinteni. A 78. § szerinti azonnali hatályú felmondás esik kívül a taxáción; a 79. § (1) bekezdés b) pontja szerinti intézkedés nem. A két azonnali hatályú intézmény felcserélése a csapda."
+        },
+        {
+          "text": "A 73. § (5) bekezdése a 79. § (1) bekezdés b) pontja szerinti intézkedést működési okú megszüntetésnek minősíti a létszámszámításnál.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a beleszámítás az (5) bekezdésen nyugszik. Az Mt. 73. § (5) bekezdése a munkáltató működésével összefüggő okra alapított megszüntetésnek rendeli tekinteni a 79. § (1) bekezdés b) pont szerinti munkáltatói intézkedést. A 75. § (1) bekezdése a harmincnapos várakozást az intézkedés közlésére is kiterjeszti. A két szabály tehát a számításban és a várakozásban is érinti az intézkedést."
+        },
+        {
+          "text": "A 75. § (3) bekezdése a jogellenességi fordulatban csak a felmondást nevezi meg; a 79. § (1) bekezdés b) pontja szerinti intézkedést ott nem említi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szankció szövegszerűen a felmondásra szűkül. Az Mt. 75. § (3) bekezdése szerint az (1) bekezdésben foglaltak megszegésével közölt felmondás jogellenes. Az (1) bekezdés a 79. § (1) bekezdés b) pontja szerinti azonnali hatályú felmondásra is kiterjeszti a harmincnapos várakozást, a (3) bekezdés ezt az intézkedést azonban nem nevezi meg. A várakozás és a jogellenességi szankció hatóköre tehát elválik."
+        },
+        {
+          "text": "A 75. § (3) bekezdése automatikusan a 79. § (1) bekezdés b) pontja szerinti intézkedésre is kiterjed, mert az (1) bekezdés említi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (1) és a (3) bekezdés hatóköre nem azonos. A helyes: az Mt. 75. § (1) bekezdése a harmincnapos várakozást a 79. § (1) bekezdés b) pontja szerinti azonnali hatályú felmondásra is kiterjeszti, de a (3) bekezdés jogellenességi fordulata kifejezetten a felmondásra szól. A két bekezdés azonosítása a tipikus félreértés."
+        }
+      ],
+      "sourceKerdesSorszam": 30,
+      "sourceHash": "d3a5d9f37d27"
+    },
+    {
+      "question": "Mely állítások tévesek a csoportos létszámcsökkentés és a felmondási tilalom kapcsolatáról?",
+      "options": [
+        {
+          "text": "A csoportos létszámcsökkentés automatikusan feloldja a 65. § szerinti felmondási tilalmakat, mert a működési ok erősebb.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a csoportos eljárás nem oldja fel a felmondási tilalmakat. A helyes: az Mt. 65. § (4) bekezdése a tilalom időbeli horgonyát a 75. § (1) bekezdése szerinti tájékoztatáshoz köti, de a tilalom fennállását nem szünteti meg. A 71–76. § az eljárást rendezi, nem a 65. § tilalmi katalógusát írja felül. A működési ok és a tilalom feloldásának összekapcsolása a félreértés."
+        },
+        {
+          "text": "A 75. § (1) bekezdése szerinti tájékoztatás közlésekor fennálló keresőképtelenség irreleváns a 68. § (3) bekezdése szempontjából.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tájékoztatás napja a késedelem időbeli kötőpontja. A helyes: az Mt. 68. § (3) bekezdése szerint a felmondásiidő-késedelem csak akkor alkalmazandó, ha a betegség miatti keresőképtelenség, a beteg gyermek ápolása vagy a hozzátartozó otthoni gondozása a 75. § (1) bekezdése szerinti tájékoztatás közlésekor fennállt. A későbbi felmondás napján keletkező körülmény e címen nem nyitja meg a késedelmet. Az időpont mellőzése a hiba forrása."
+        },
+        {
+          "text": "A 68. § (3) bekezdése szerinti késedelem a tájékoztatás után keletkező keresőképtelenségre is kiterjed, ha a felmondás közlésekor még fennáll.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tájékoztatás és a felmondás időpontja nem cserélhető fel. A helyes: az Mt. 68. § (3) bekezdése a 75. § (1) bekezdése szerinti tájékoztatás közlésekor fennálló körülményt kívánja meg. A tájékoztatás után, de a felmondás előtt keletkező keresőképtelenség e címen nem nyitja meg a késedelmet. A két időpont felcserélése a gyakori csapda."
+        },
+        {
+          "text": "A felmondási tilalom időbeli horgonya csoportos létszámcsökkentésnél a felmondás közlésének napja, nem a 75. § (1) bekezdése szerinti tájékoztatás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a horgony a tájékoztatás közlése. A helyes: az Mt. 65. § (4) bekezdése a (3) bekezdés szerinti felmondási tilalom időbeli horgonyát csoportos létszámcsökkentésnél a 75. § (1) bekezdése szerinti tájékoztatás közléséhez köti, nem a későbbi felmondás napjához. A 68. § (3) bekezdése a felmondásiidő-késedelmet ugyanehhez a tájékoztatáshoz igazítja. A felmondás napjának horgonyként kezelése a tipikus hiba."
+        }
+      ],
+      "sourceKerdesSorszam": 31,
+      "sourceHash": "d45c56522d71"
+    },
+    {
+      "question": "A munkáltató a 72. § (5) bekezdése szerinti megállapodásban rögzítette a kiválasztási szempontokat. Egy munkavállaló a szükséges adatokat nem adta meg. Mi következik?",
+      "options": [
+        {
+          "text": "A munkavállaló nem hivatkozhat a megállapodás megsértésére a 76. § (2) bekezdése szerint.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tájékoztatási mulasztás a saját oldali hivatkozást zárja. Az Mt. 76. § (2) bekezdése kizárja a megállapodás megsértésére való hivatkozást, ha a munkavállaló a kiválasztási kötelezettség teljesítéséhez szükséges tájékoztatást nem adta meg. A hallgatás a megállapodást nem teszi semmissé. A 72. § tárgyalási és a 75. § tájékoztatási kötelezettsége a munkáltató oldalán fennmarad."
+        },
+        {
+          "text": "A munkáltató a 75. § (1) bekezdése szerinti tájékoztatás alól is mentesül, mert a munkavállaló hallgatott.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 76. § (2) bekezdése nem oldja fel a munkáltatói tájékoztatási kötelezettséget. A helyes: a fordulat csak a megállapodás megsértésére való hivatkozást zárja; az Mt. 75. § (1) bekezdése szerinti előzetes tájékoztatás és a 72. § tárgyalási kötelezettsége fennmarad. A hallgatás a munkáltatói kötelezettségeket nem engedi el. A két teher összekeverése a csapda."
+        },
+        {
+          "text": "A 76. § (1) bekezdése a megállapodásnak a kiválasztási szempontok rögzítését engedi; ez a 72. § (2) bekezdés e) pontjának előzetes szempontközlését ismérvvé emelheti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a megállapodás a kiválasztást kötöttebbé teheti. Az Mt. 76. § (1) bekezdése szerint a 72. § (5) bekezdése szerinti megállapodás megállapíthatja azokat a szempontokat, amelyekre figyelemmel a munkáltató az érintettek körét meghatározza. A 72. § (2) bekezdés e) pontja az előzetes szempontközlést adja. A 76. § nem ad általános, minden klauzulára kiterjedő kereseti jogot."
+        },
+        {
+          "text": "A megállapodás semmis, mert a munkavállaló tájékoztatásának hiánya a kiválasztást érvénytelenné teszi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hallgatás nem semmisíti meg a megállapodást. A helyes: az Mt. 76. § (2) bekezdése a munkavállaló hivatkozását zárja, ha a szükséges tájékoztatást nem adta meg; a megállapodás ettől még fennáll. A 72. § (5) bekezdése az írásba foglalt megállapodást az állami foglalkoztatási szervnek is megküldeti. A semmisség állítása túllépi a törvényi fordulatot."
+        }
+      ],
+      "sourceKerdesSorszam": 32,
+      "sourceHash": "e4cab3d812dc"
+    },
+    {
+      "question": "A munkáltató a tárgyalás megkezdése előtt hat nappal adta át az üzemi tanácsnak az írásbeli tájékoztatást. Mi a következmény?",
+      "options": [
+        {
+          "text": "A tájékoztatás adatköre — ok, létszámadat, ütemezés, kiválasztási szempontok, törvényitől eltérő juttatás — a határidő betartása mellett is kötelező.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tartalom és a határidő konjunktív. Az Mt. 72. § (2) bekezdés a)–f) pontja a tájékoztatás elemeit sorolja; a b) és c) pont a létszámadatra vagylagos. A hétnapos előzetes átadás önmagában nem menti a hiányos adatkört. A 74. § (1) bekezdése a szándékról szóló hatósági értesítés másolatát is az üzemi tanácshoz rendeli."
+        },
+        {
+          "text": "A hatnapos átadás elfogadható, ha a tárgyalás ezt követően legalább tizenöt napig tart.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tizenöt napos tárgyalási minimum nem pótolja a hétnapos előzetes tájékoztatást. A helyes: az Mt. 72. § (2) bekezdése legalább hét nappal a tárgyalás megkezdése előtt kívánja az írásbeli tájékoztatást; a (3) bekezdés a tárgyalás tartamának minimumát adja. A két határidő összevonása a tipikus félreértés."
+        },
+        {
+          "text": "A hétnapos szabály csak akkor él, ha nincs üzemi tanácsi megállapodás; megállapodás esetén a tájékoztatás mellőzhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tájékoztatás a tárgyalás előfeltétele, nem a megállapodás pótléka. A helyes: az Mt. 72. § (2) bekezdése a tárgyalás megkezdését megelőző tájékoztatást írja elő; az (5) bekezdés a tárgyalás során kötött megállapodás írásba foglalását rendezi. A megállapodás megléte a hétnapos előzetes tájékoztatást nem engedi el. A sorrend felcserélése a hiba."
+        },
+        {
+          "text": "A hétnapos előzetes tájékoztatási kötelezettség sérül; a 72. § (2) bekezdése legalább hét napot kíván a tárgyalás megkezdése előtt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hat nap elmarad a törvényi minimumtól. Az Mt. 72. § (2) bekezdése szerint a tárgyalás megkezdését megelőzően legalább hét nappal kell az üzemi tanácsot írásban tájékoztatni a taxatív adatkörről. A (3) bekezdés tizenöt napos minimuma a tárgyalás tartamára szól, nem pótolja az előzetes hét napot. A két határidő egymástól független kötelezettség."
+        }
+      ],
+      "sourceKerdesSorszam": 33,
+      "sourceHash": "fddd7b72233e"
+    },
+    {
+      "question": "Mi következik abból, ha a munkáltató a csoportos létszámcsökkentést a 73. § (3) bekezdése ellenére harmincnapos darabokra bontja, hogy a küszöb alá kerüljön?",
+      "options": [
+        {
+          "text": "A darabolás jogszerű, ha minden harmincnapos szakaszban a küszöb alatt marad a megszüntetések száma, és a hatóság ezt tudomásul veszi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatósági tudomásulvétel nem oldja fel az együttszámítást. A helyes: az Mt. 73. § (3) bekezdése a harminc napon belüli újabb jognyilatkozatokat és megállapodásokat együttesen rendeli figyelembe venni. A 74. § a hatósági tájékoztatást rendezi, nem az együttszámítás mellőzésének jogcímét. A küszöb alatti darabolás tehát nem mentesít."
+        },
+        {
+          "text": "A döntés ütemezését is harmincnapos időszakok alapján kell megállapítani; a munkáltató döntésében rögzített ütemezés az irányadó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a döntés ütemezése nem tetszőleges naptári ciklusokra bontható. Az Mt. 73. § (2) bekezdése a csoportos létszámcsökkentés időbeni ütemezését harmincnapos időszakokra bontja, és e szempontból a döntésben meghatározott ütemezést kell irányadónak tekinteni. A 71. § (1) bekezdésének harmincnapos ablaka ugyanezt a mértékegységet használja. A tetszőleges hosszabb ciklusokra bontás e szabályba nem fér."
+        },
+        {
+          "text": "Az utolsó megszüntető jognyilatkozattól vagy megállapodástól számított harminc napon belüli újabb közlések és megállapodások létszámát együttesen kell figyelembe venni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a darabolás elleni szabály automatikus együttszámítást rendel. Az Mt. 73. § (3) bekezdése szerint a létszámot együttesen kell figyelembe venni, ha a munkáltató az utolsó megszüntetésre irányuló jognyilatkozat közlésétől vagy megállapodás kötésétől számított harminc napon belül újabb ilyen jognyilatkozatot közöl vagy megállapodást köt. A (4) bekezdés a beleszámító alakzatokat a működési okú felmondásra és a munkáltatói közös megegyezésre zárja. A küszöb megkerülése e láncolattal nem érhető el."
+        },
+        {
+          "text": "Az együttszámítás csak a felmondásokra vonatkozik; a munkáltatói közös megegyezések külön számítási egységet képeznek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkáltatói közös megegyezések nem képeznek külön számítási egységet. A helyes: az Mt. 73. § (3) bekezdése a jognyilatkozat közlését és a megállapodás kötését egyaránt említi. A (4) bekezdés b) pontja szerint megállapodásnak a munkáltató által kezdeményezett közös megegyezést kell tekinteni. A két alakzat szétválasztása a taxációt mellőzi."
+        }
+      ],
+      "sourceKerdesSorszam": 34,
+      "sourceHash": "42f0db410829"
+    },
+    {
+      "question": "A Tanács 98/59/EK irányelvének 4. cikke és a magyar 74–75. § viszonyában mely megállapítások helytállóak?",
+      "options": [
+        {
+          "text": "Az irányelv a bejelentett létszámcsökkentések hatálybalépését legkorábban az értesítést követő 30. napra helyezi; a magyar szabály a harminc napot a megszüntető jognyilatkozat közléséhez köti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a várakozás célja azonos, a kötőpont eltérő. A Tanács 98/59/EK irányelvének 4. cikke a hatálybalépést — a felmondási időre vonatkozó egyéni jogok sérelme nélkül — legkorábban az értesítést követő harmincadik napra helyezi. Az Mt. 74. § (2) bekezdése és a 75. § (1) bekezdése a harminc napot a felmondás vagy a 79. § (1) bekezdés b) pontja szerinti jognyilatkozat közléséhez igazítja. A magyar átültetés tehát a közlés előtti várakozást adja."
+        },
+        {
+          "text": "Az irányelv 4. cikke a felmondási időt feloldja, ezért a 69. § (1) bekezdése szerinti felmondási idő csoportos létszámcsökkentésnél nem alkalmazandó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az irányelv a felmondási időre vonatkozó egyéni jogokat kifejezetten sértetlenül hagyja. A helyes: a Tanács 98/59/EK irányelvének 4. cikke a hatálybalépési várakozást a felmondási időre vonatkozó egyéni jogok sérelme nélkül rendeli. Az Mt. 69. § (1) bekezdése szerinti felmondási idő a közlés után továbbra is él. Az Mt. 75. § (1) bekezdése szerinti harminc nap a közlés előtti várakozás, nem a felmondási idő."
+        },
+        {
+          "text": "Az irányelv 6. cikke bírósági és igazgatási kikényszerítést kíván; a 75. § (3) bekezdése a mulasztással közölt felmondást jogellenessé minősíti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kikényszerítés a munkavállaló oldalán a jogellenességi szankcióban jelenik meg. A Tanács 98/59/EK irányelvének 6. cikke a képviselők és a munkavállalók számára egyaránt megnyitja a bírósági és igazgatási utat. Az Mt. 75. § (3) bekezdése a megszegéssel közölt felmondást jogellenessé minősíti. Az Mt. 72. § (1) bekezdése az üzemi tanáccsal folytatott tárgyalást a képviselői oldal kikényszeríthető eljárási elemévé teszi."
+        },
+        {
+          "text": "A magyar harminc nap a hatóság kérésére hatvan napra hosszabbítható, mert az irányelv 4. cikk (2)–(3) bekezdése ezt kötelezően átülteti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatósági meghosszabbítás intézménye a 74–75. §-ban nem jelenik meg. A helyes: az Mt. 74. § (2) bekezdése és a 75. § (1) bekezdése a harminc napot a jognyilatkozat közléséhez köti; az irányelv 4. cikk (2)–(3) bekezdése a hatóságnak hatvan napig terjedő hosszabbítást engedhet, de a magyar szöveg ezt nem ismétli. Az uniós hosszabbítás ráírása a félreértés."
+        }
+      ],
+      "sourceKerdesSorszam": 35,
+      "sourceHash": "a022d09ac06b"
+    },
+    {
+      "question": "Egy munkáltató a döntést megelőző félévben átlagosan nyolcvan munkavállalót foglalkoztat. Harminc napon belül kilenc működési okú felmondást és egy munkáltatói közös megegyezést tervez. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A tíz fős küszöb a húsznál több és száznál kevesebb sávban eléri: a kilenc felmondás és a munkáltatói közös megegyezés együttesen tíz megszüntetés.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a beleszámító alakzatok együtt adják a küszöböt. Az Mt. 71. § (1) bekezdés a) pontja húsznál több és száznál kevesebb foglalkoztatottnál legalább tíz főt kíván. A 73. § (4) bekezdése a működési okú felmondást és a munkáltató által kezdeményezett közös megegyezést beleszámító alakzatnak rendeli. Nyolcvan foglalkoztatottnál a tervezett tíz megszüntetés a küszöböt eléri."
+        },
+        {
+          "text": "A munkáltatói közös megegyezés nem számít bele, ezért a kilenc felmondás a tíz fős küszöb alatt marad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkáltató által kezdeményezett közös megegyezés beleszámít. A helyes: az Mt. 73. § (4) bekezdés b) pontja szerint megállapodásnak a munkáltató által kezdeményezett közös megegyezést kell tekinteni. A 71. § (1) bekezdés a) pontja legalább tíz főt kíván; a kilenc felmondás és az egy közös megegyezés együtt tíz. A megállapodás kihagyása a taxáció mellőzése."
+        },
+        {
+          "text": "A csoportos minősítés fennállása esetén a 72. § szerinti üzemi tanácsi tárgyalás és a 74–75. § szerinti tájékoztatások kötelezőek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fogalom megnyílása az eljárási kötelezettségeket is megnyitja. Az Mt. 72. § (1) bekezdése a tervezett végrehajtásnál tárgyalási kötelezettséget ír elő. A 74. § a hatósági, a 75. § a munkavállalói előzetes tájékoztatást rendezi. A 75. § (3) bekezdése a tájékoztatás megszegésével közölt felmondást jogellenessé minősíti."
+        },
+        {
+          "text": "Nyolcvan foglalkoztatottnál a küszöb a tíz százalék, azaz nyolc fő, ezért már a kilenc felmondás önmagában elég.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tíz százalék a száz és háromszáz közötti sávé. A helyes: az Mt. 71. § (1) bekezdés a) pontja húsznál több és száznál kevesebb foglalkoztatottnál legalább tíz főt kíván; a b) pont szerinti tíz százalék a nagyobb sávra szól. Nyolcvan foglalkoztatottnál a küszöb tíz fő. A sávok felcserélése a tipikus hiba."
+        }
+      ],
+      "sourceKerdesSorszam": 36,
+      "sourceHash": "fa24c9ad0e43"
+    },
+    {
+      "question": "Mely állítások tévesek a 85. § eltérési rendjének a csoportos létszámcsökkentésre gyakorolt hatásáról?",
+      "options": [
+        {
+          "text": "A kollektív szerződés a 75. § harminc napját a munkavállaló terhére tizenöt napra rövidítheti, ha cserébe magasabb végkielégítést ad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a várakozás lerövidítése a munkavállaló terhére nem érvényes. A helyes: az Mt. 85. § (2) bekezdés d) pontja a 71–76. §-tól csak a munkavállaló javára enged eltérést; a 75. § harminc napjának tágítása megengedett, rövidítése nem. A végkielégítési kompenzáció nem oldja fel a relatív kógens zárat. Az in peius csereügylet feltételezése a csapda."
+        },
+        {
+          "text": "A 85. § (3) bekezdése a 75. § (1) bekezdésének közlés előtti várakozását is meghosszabbíthatja, mert mindkettő harminc napos intézmény.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés a 69. § (1) bekezdésének felmondási idejére szól. A helyes: az Mt. 85. § (3) bekezdése szerint a kollektív szerződés a 69. § (1) bekezdésében foglaltnál hosszabb felmondási időt is megállapíthat. A 75. § (1) bekezdésének közlés előtti harminc napja ettől elválik; annak tágítása a (2) bekezdés d) pontja szerint lehetséges in melius. A két harminc nap azonossága látszólagos."
+        },
+        {
+          "text": "A felek egyedi megállapodása a 71. § küszöbét a munkavállaló javára felemelheti, mert a 85. § (2) bekezdés d) pontja a felekre is kiterjed.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés d) pontjának alanya a kollektív szerződés. A helyes: az Mt. 85. § (2) bekezdés d) pontja szerint kollektív szerződés térhet el a 71–76. §-tól a munkavállaló javára; az egyedi munkaszerződés e címen nem kapja meg az in melius eltérést. Az (1) bekezdés más szakaszokra szól. A felek és a kollektív szerződés alanyi körének összecsúsztatása a hiba."
+        },
+        {
+          "text": "A kollektív szerződés a tárgyalási kötelezettséget teljesen elhagyhatja, ha cserébe a 71. § küszöbét megemeli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tárgyalás elhagyása a munkavállaló terhére nem érvényes. A helyes: az Mt. 85. § (2) bekezdés d) pontja a 71–76. §-tól csak a munkavállaló javára enged eltérést; a küszöb emelése megengedett, a 72. § tárgyalásának elhagyása nem. A két módosítás „cseréje” az in peius irányt nem menti. A tipikus hiba a kedvezőbb és a kedvezőtlenebb eltérés összepárosítása."
+        }
+      ],
+      "sourceKerdesSorszam": 37,
+      "sourceHash": "0dd7f679f046"
+    }
+  ]
+}

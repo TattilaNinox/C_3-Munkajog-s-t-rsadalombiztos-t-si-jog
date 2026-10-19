@@ -1,0 +1,630 @@
+{
+  "id": "KbKR9FgldYRhCGiGY9P6",
+  "sorszam": 30,
+  "cim": "A határozott idejű munkaviszonyra vonatkozó különös szabályok (...)",
+  "generationType": "fogalom",
+  "title": "30. A határozott idejű munkaviszonyra vonatkozó különös szabályok (...)",
+  "questions": [
+    {
+      "question": "Az Mt. 45. § (2) bekezdése és a határozott idejű munkaviszony fogalmi helyzetéről mi állapítható meg?",
+      "options": [
+        {
+          "text": "A határozott idő a munkáltató egyoldalú, bármikor megújítható diszkréciója.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A határozott idő objektív záróeseményhez kötött tartam, nem szabad diszkréció. A helyes szabály a 192. § (1) szerint az, hogy a tartamot naptárilag vagy más alkalmas módon kell meghatározni, és a megszűnés nem függhet kizárólag a fél akaratától. A 192. § (4) a meghosszabbítást és a hat hónapon belüli ismétlést jogos érdekhez köti."
+        },
+        {
+          "text": "A határozott idejű tartam a 45. § (1) szerinti kötelező tartalmi elem, mint az alapbér és a munkakör.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A 45. § (1) kötelező elemei az alapbér és a munkakör, nem a tartam. A helyes szabály szerint a tartam naptári vagy más alkalmas meghatározását a 192. § (1) írja elő, és ez nem a 45. § (1) kötelező tartalmi eleme. A 45. § (2) a határozatlan időt teszi főszabállyá eltérő megállapodás hiányában."
+        },
+        {
+          "text": "Eltérő megállapodás hiányában a munkaviszony határozatlan időre jön létre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 45. § (2) bekezdése kimondja, hogy a munkaviszony eltérő megállapodás hiányában határozatlan időre jön létre. A határozott idejű forma ezért kivétel, nem a diszpozitív főszabály. A 192. § különös szabályai e kivétel tartalmi és láncolási kereteit adják."
+        },
+        {
+          "text": "A határozott idejű munkaviszony kivétel a határozatlan idejű főszabály alól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 45. § (2) szerinti főszabály a határozatlan idő, a határozott idő ehhez képest kivétel. A kivétel a 192. § (2) ötéves felső határához és a (4) bekezdés jogosérdek-feltételéhez kötött. A tartam objektív záróeseményhez kapcsolódik, nem a munkáltató szabad megújítási diszkréciójához."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "433333ddb5e4"
+    },
+    {
+      "question": "Az Mt. 192. § (1) a határozott idejű tartam meghatározásánál milyen követelményeket állít?",
+      "options": [
+        {
+          "text": "Nem naptári tartammeghatározásnál a munkáltatót nem terheli tájékoztatási kötelezettség.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A tájékoztatás ilyenkor kötelező, nem mellőzhető. A helyes szabály a 192. § (1) szerint az, hogy ha a felek a tartamot nem naptárilag határozták meg, a munkáltató tájékoztatja a munkavállalót a várható tartamról. Emellett a megszűnés időpontja nem függhet kizárólag a fél akaratától sem."
+        },
+        {
+          "text": "A határozott idejű munkaviszony tartamát naptárilag vagy más alkalmas módon kell meghatározni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 192. § (1) szerint ez áll: „A határozott idejű munkaviszony tartamát naptárilag vagy más alkalmas módon kell meghatározni”. A naptári zárásnál a megszűnés napja a szerződésből kiolvasható objektív adat. A más alkalmas mód csak akkor érvényes, ha a megszűnés nem függ kizárólag a fél akaratától, hanem meghatározott feladat vagy esemény zárja le."
+        },
+        {
+          "text": "A „más alkalmas mód” akkor is érvényes, ha a megszűnés kizárólag a fél akaratától függ.",
+          "isCorrect": false,
+          "rationale": "HAMIS, Az ilyen konstrukció a határozatlan idejű főszabályt játszaná ki. A helyes szabály a 192. § (1) szerint az, hogy a munkaviszony megszűnésének időpontja nem függhet kizárólag a fél akaratától, ha a tartamot nem naptárilag határozták meg. A feladat vagy esemény csak ilyen objektív zárással alkalmas tartammeghatározás."
+        },
+        {
+          "text": "Nem naptári meghatározásnál a megszűnés időpontja nem függhet kizárólag a fél akaratától, és a munkáltató tájékoztat a várható tartamról.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 192. § (1) második mondata tiltja, hogy a megszűnés kizárólag a fél akaratától függjön. Ugyanezen bekezdés előírja, hogy a munkáltató tájékoztatja a munkavállalót a munkaviszony várható tartamáról. Ellenkező esetben a konstrukció a 45. § (2) szerinti határozatlan idejű főszabályt játszaná ki."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "b5d7a11b6d95"
+    },
+    {
+      "question": "Az Mt. 192. § (2) ötéves felső határa milyen tartamokat fog át?",
+      "options": [
+        {
+          "text": "Az ötéves határ csak az első, meghosszabbítás nélküli szerződésre vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A meghosszabbítás sem esik kívül a plafonon. A helyes szabály a 192. § (2) szerint az, hogy a tartam az öt évet nem haladhatja meg, ideértve a meghosszabbított tartamot is. A hat hónapon belüli újabb határozott tartam ugyanígy a plafon része."
+        },
+        {
+          "text": "A határozott idejű munkaviszony tartama az öt évet nem haladhatja meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 192. § (2) bekezdése kimondja, hogy a határozott idejű munkaviszony tartama az öt évet nem haladhatja meg. Ez a 1999/70/EK irányelv melléklete visszaélésellenes keretének maximális teljes időtartamú intézkedését ülteti át. A plafon a láncolás elleni fő magyar tartami korlát."
+        },
+        {
+          "text": "Az öt évbe beleszámít a meghosszabbítás és az előző határozott idő megszűnésétől számított hat hónapon belüli újabb határozott tartam is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 192. § (2) kifejezetten ideérti a meghosszabbított tartamot az ötéves plafonba. Ugyanígy beleszámít az előző határozott időre kötött munkaszerződés megszűnésétől számított hat hónapon belül létesített újabb határozott tartam. A hat hónapos ablak az egymást követés fogalmát is rögzíti a magyar jogban."
+        },
+        {
+          "text": "A hat hónapon belüli újabb határozott tartamú munkaviszony kívül esik az ötéves plafonon.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A hat hónapos ablakban létesített újabb tartam is beleszámít. A helyes szabály a 192. § (2) szerint az, hogy az öt évbe beleszámít az előző határozott idő megszűnésétől számított hat hónapon belül létesített újabb határozott tartamú munkaviszony tartama is. A meghosszabbítás szintén a plafon alá tartozik."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "65610a3fe0b2"
+    },
+    {
+      "question": "Hatósági engedélyhez kötött határozott idejű létesítésnél az Mt. 192. § (3) mit mond a tartamról?",
+      "options": [
+        {
+          "text": "A hatósági engedélyhez kötött létesítésnél a tartam az engedélytől függetlenül köthető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A tartam nem függetleníthető a hatósági engedélytől a létesítéskor. A helyes szabály a 192. § (3) szerint az, hogy a munkaviszony legfeljebb az engedélyben meghatározott tartamra létesíthető. Az engedély meghosszabbítása esetén viszont a korábbi tartammal együtt az öt év meghaladható."
+        },
+        {
+          "text": "A munkaviszony legfeljebb az engedélyben meghatározott tartamra létesíthető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 192. § (3) első mondata szerint, ha a létesítéshez hatósági engedély szükséges, a munkaviszony legfeljebb az engedélyben meghatározott tartamra létesíthető. A tartam tehát az engedélyhez igazodik, nem szabadon választható. Ez a (2) bekezdés általános ötéves plafonjának különös, engedélyhez kötött ága."
+        },
+        {
+          "text": "Hatósági engedélynél az öt év soha nem léphető túl, még az engedély meghosszabbításakor sem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, Az engedély meghosszabbításakor a plafon meghaladható. A helyes szabály a 192. § (3) szerint az, hogy az engedély meghosszabbítása esetén az újabb határozott idejű tartam a korábbival együtt az öt évet meghaladhatja. Maga a létesítés azonban legfeljebb az engedély tartamára szólhat."
+        },
+        {
+          "text": "Az engedély meghosszabbítása esetén az újabb határozott idejű tartam — a korábbival együtt — az öt évet meghaladhatja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 192. § (3) második mondata ezt a meghaladást kifejezetten lehetővé teszi. A korábban létesített munkaviszony tartamával együtt az öt év meghaladható az engedély meghosszabbításakor. Ez a (2) bekezdés főszabályától eltérő, engedélyhez kötött kivétel."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "8785a475f1e2"
+    },
+    {
+      "question": "Az Mt. 192. § (4) a meghosszabbításról és a hat hónapon belüli ismételt létesítésről milyen feltételeket ír elő?",
+      "options": [
+        {
+          "text": "Meghosszabbítás vagy hat hónapon belüli ismételt létesítés csak munkáltatói jogos érdek fennállása esetén lehetséges.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 192. § (4) első mondata a meghosszabbítást és a megszűnést követő hat hónapon belüli ismételt létesítést munkáltatói jogos érdekhez köti. Ez a 1999/70/EK irányelv melléklete objektív okának magyar megfelelője a visszaélés ellen. Jogos érdek nélkül a láncolás tilos a magyar szabály szerint."
+        },
+        {
+          "text": "A meghosszabbítás a munkáltató egyoldalú döntésével, jogos érdek vizsgálata nélkül is jogszerű.",
+          "isCorrect": false,
+          "rationale": "HAMIS, Jogos érdek vizsgálata nélkül a meghosszabbítás nem jogszerű. A helyes szabály a 192. § (4) szerint az, hogy meghosszabbítás csak munkáltatói jogos érdek fennállása esetén lehetséges, és a megállapodás nem irányulhat a munkavállaló jogos érdekének csorbítására. Azonos vagy hasonló munkakörnél próbaidő sem köthető ki."
+        },
+        {
+          "text": "A megállapodás nem irányulhat a munkavállaló jogos érdekének csorbítására.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 192. § (4) második mondata ezt a munkavállalóvédelmi tilalmat mondja ki. A munkáltatói jogos érdek önmagában nem elég, ha a megállapodás a munkavállaló jogos érdekét csorbítja. A két feltétel együtt adja a visszaélésellenes zárat a láncolásnál."
+        },
+        {
+          "text": "A hat hónapon belüli ismételt létesítéshez elegendő a felek megállapodása, jogos érdek nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A puszta megállapodás jogos érdek nélkül nem elegendő. A helyes szabály a 192. § (4) szerint az, hogy a megszűnést követő hat hónapon belüli ismételt létesítés is csak munkáltatói jogos érdek fennállása esetén lehetséges. A megállapodás emellett nem irányulhat a munkavállaló jogos érdekének csorbítására."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "fc99424303fc"
+    },
+    {
+      "question": "Az Mt. 192. § (4) próbaidőtilalma azonos vagy hasonló munkakörnél mikor érvényesül?",
+      "options": [
+        {
+          "text": "A megszűnést követő hat hónapon belüli ismételt létesítésnél azonos vagy hasonló munkakörben próbaidő nem köthető ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 192. § (4) a hat hónapon belüli ismételt létesítésre is kiterjeszti a próbaidőtilalmat. Feltétel az azonos vagy hasonló munkakör a foglalkoztatásnál. Az új próbaidő ilyenkor a láncolás visszaéléses eszközévé válhatna."
+        },
+        {
+          "text": "A próbaidőtilalom csak a meghosszabbításra vonatkozik, a hat hónapon belüli ismétlésre nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A tilalom mindkét esetkörre vonatkozik, nem csak a meghosszabbításra. A helyes szabály a 192. § (4) szerint az, hogy a meghosszabbítás vagy a megszűnést követő hat hónapon belüli ismételt létesítés esetén azonos vagy hasonló munkakörben próbaidő nem köthető ki. A tilalom a jogosérdek-feltétellel együtt áll."
+        },
+        {
+          "text": "Meghosszabbításnál azonos munkakörben is szabadon kiköthető új próbaidő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, Azonos munkakörnél az új próbaidő nem köthető ki. A helyes szabály a 192. § (4) szerint az, hogy meghosszabbítás esetén azonos vagy hasonló munkakörben történő foglalkoztatás alkalmával próbaidő nem köthető ki. Ugyanez érvényes a hat hónapon belüli ismételt létesítésre is."
+        },
+        {
+          "text": "Meghosszabbításnál azonos vagy hasonló munkakörben történő foglalkoztatás alkalmával próbaidő nem köthető ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 192. § (4) harmadik mondata ezt a próbaidőtilalmat mondja ki a meghosszabbításnál. Azonos vagy hasonló munkakör esetén az új próbaidő kizárt. Ez a 2019/1152 irányelv 8. cikkének (2) bekezdésével is összhangban áll."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "582cc75a9f72"
+    },
+    {
+      "question": "Az Mt. 192. § (5) a legfeljebb tizenkét hónapos határozott idejű munkaviszonynál hogyan kezeli a próbaidőt?",
+      "options": [
+        {
+          "text": "Tizenkét hónapnál rövidebb határozott idejű munkaviszonynál a próbaidő mindig a teljes törvényi maximum.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A próbaidő nem lehet mindig a teljes törvényi maximum. A helyes szabály a 192. § (5) szerint az, hogy legfeljebb tizenkét hónapra létesített munkaviszonynál a próbaidőt arányosan kell megállapítani. Az arányosítás a 45. § (5) és az 50. § (4) tartamához igazodik."
+        },
+        {
+          "text": "A próbaidő tartamát arányosan kell megállapítani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 192. § (5) szerint a legfeljebb tizenkét hónapra létesített munkaviszonynál a próbaidő tartamát arányosan kell megállapítani. Az arányosítás a 45. § (5) és az 50. § (4) szerinti tartam figyelembevételével történik. Ez a 2019/1152 irányelv 8. cikkének (2) bekezdésével van összhangban."
+        },
+        {
+          "text": "Az arányosításnál a 45. § (5) bekezdése és az 50. § (4) bekezdése szerinti tartamot, valamint a 121. § (2) bekezdését kell figyelembe venni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 192. § (5) kifejezetten hivatkozik a 45. § (5) és az 50. § (4) szerinti tartamra az arányosításnál. Emellett a 121. § (2) bekezdését is alkalmazni kell a számítás során. A rövid határozott tartamnál a próbaidő ezért nem lehet automatikusan a teljes törvényi maximum."
+        },
+        {
+          "text": "A 192. § (5) a próbaidőt teljesen megtiltja a tizenkét hónapos tartamnál.",
+          "isCorrect": false,
+          "rationale": "HAMIS, Az ötödik bekezdés nem tiltja meg teljesen a próbaidőt a rövid határozott tartamnál. A helyes szabály a 192. § (5) szerint az, hogy a próbaidő tartamát arányosan kell megállapítani. A teljes tilalom a negyedik bekezdésben a meghosszabbításnál és a hat hónapon belüli ismétlésnél, azonos vagy hasonló munkakörnél érvényesül."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "b4123e2cb0be"
+    },
+    {
+      "question": "A 1999/70/EK irányelv mellékletének első szakasza milyen két célt rögzít, és hogyan kapcsolódik ehhez az Mt. 192. §?",
+      "options": [
+        {
+          "text": "Az egymást követő határozott idejű szerződésekkel vagy munkaviszonyokkal való visszaélés megakadályozása kereteinek megállapítása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A melléklet első szakasz b) alpontja a visszaélésellenes célt rögzíti, amelyet az Mt. 192. § elsősorban átültet. Az ötödik szakasz az objektív ok, a maximális tartam és a megújítások száma közül legalább egy intézkedést követel. A magyar ötéves plafon és a jogos érdek e keret része."
+        },
+        {
+          "text": "Az irányelv egyetlen célja a határozott idejű szerződés kötelezővé tétele minden munkaviszonynál.",
+          "isCorrect": false,
+          "rationale": "HAMIS, Nem a határozott idejű forma kötelezővé tétele a cél. A helyes szabály a melléklet első szakasza és az Mt. 192. § viszonyában az, hogy a minőség javítása a megkülönböztetés tilalmával, valamint a visszaélés megakadályozásának keretei a két cél. A határozatlan idő marad az általános forma."
+        },
+        {
+          "text": "A visszaélésellenes cél csak a kölcsönzött munkavállalókra vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A visszaélésellenes cél nem korlátozódik a kölcsönzöttekre. A helyes szabály a melléklet első szakasz b) alpontja és az Mt. 192. § szerint az egymást követő határozott idejű szerződésekkel vagy munkaviszonyokkal való visszaélés megakadályozása. A preambulum a kölcsönzötteket a hatály alól kivéve kezeli, nem a cél alól."
+        },
+        {
+          "text": "A megkülönböztetés tilalma elvének alkalmazásával javítani a határozott ideig tartó munkavégzés minőségét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A melléklet első szakasz a) alpontja ezt a minőségi célt mondja ki, és az Mt. 192. § a visszaélésellenes ágat ülteti át. A minőségi pillér a melléklet negyedik szakaszának egyenlő bánásmódjában folytatódik. Az irányelv a határozatlan időt tekinti a munkaviszonyok általános formájának."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "c2a8c2eb3a17"
+    },
+    {
+      "question": "A 1999/70/EK irányelv mellékletének ötödik szakasza a visszaélés megakadályozására milyen intézkedés-csoportot ír elő, és mit választ az Mt. 192. §?",
+      "options": [
+        {
+          "text": "A tagállamnak — megfelelő intézkedés hiányában — az objektív okok, a maximális teljes időtartam és a megújítások száma közül egyet vagy többet be kell vezetnie.",
+          "isCorrect": true,
+          "rationale": "IGAZ, Az ötödik szakasz 1. pontja a)–c) alpontban ezt a három intézkedést sorolja, és közülük legalább egy kötelező. Az Mt. 192. § (2) a maximális tartamot öt évben rögzíti. A 192. § (4) az objektív okot a munkáltatói jogos érdekhez köti."
+        },
+        {
+          "text": "A tagállamnak mindhárom intézkedést — objektív ok, maximális tartam és megújításszám — kötelező együtt bevezetnie.",
+          "isCorrect": false,
+          "rationale": "HAMIS, Nem kötelező mindhárom intézkedést együtt bevezetni. A helyes szabály az ötödik szakasz 1. pontja és az Mt. 192. § szerint az, hogy a három intézkedés közül egyet vagy többet kell bevezetni. Az Mt. 192. § a maximális tartamot és az objektív okot választotta."
+        },
+        {
+          "text": "Meg kell határozni, milyen feltételek mellett tekintik a jogviszonyokat egymást követőnek, és mikor minősülnek határozatlan időre szólónak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, Az ötödik szakasz 2. pontja ezt a két meghatározási kötelezettséget írja elő a tagállamoknak. Az Mt. 192. § (2) a hat hónapos ablakkal adja az egymást követés fogalmát. A jogosérdek-feltétel a megújítás objektív okát ülteti át a (4) bekezdésben."
+        },
+        {
+          "text": "Az ötödik szakasz csak tájékoztatási kötelezettséget ír elő, tartami korlátot nem, ezért az Mt. 192. § (2) nem kapcsolódik hozzá.",
+          "isCorrect": false,
+          "rationale": "HAMIS, Az ötödik szakasz nem csupán tájékoztatási kötelezettséget ír elő a tagállamoknak. A helyes szabály szerint objektív okok, maximális teljes időtartam vagy a megújítások száma közül kell választani, és az Mt. 192. § (2) az ötéves maximális tartamot ülteti át. A megüresedett állásokról szóló tájékoztatás a hatodik szakaszban jelenik meg."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "cd7b8be43b9f"
+    },
+    {
+      "question": "Az Mt. 193. § szerinti behívás alapján történő munkavégzés alanyi köréről és kereteiről mi igaz?",
+      "options": [
+        {
+          "text": "A munkaidőkeret tartama a négy hónapot nem haladhatja meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 193. § (1) második mondata a négy hónapos felső határt állítja a munkaidőkeretre. A rugalmasság ellensúlya a keret korlátozása a behívásos típusnál. A 2019/1152 irányelv 11. cikkének első útját — alkalmazás és időtartam korlátozása — követi az Mt."
+        },
+        {
+          "text": "Csak a legfeljebb napi hat óra tartamú részmunkaidőben foglalkoztatott munkavállaló tartozhat e típus alá.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 193. § (1) alanyi köre zárt: csak a legfeljebb napi hat órás részmunkaidő. A munkavállaló a munkakörébe tartozó feladatokat az esedékességhez igazodva teljesíti. Ez nem a határozott idő különös esete, hanem a XV. fejezet önálló típusa."
+        },
+        {
+          "text": "A behívásos típus bármilyen teljes munkaidős munkaviszonyban is alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, Teljes munkaidőben a behívásos típus nem alkalmazható. A helyes szabály a 193. § (1) szerint az, hogy csak a legfeljebb napi hat óra tartamú részmunkaidőben foglalkoztatott munkavállaló tartozhat ide. A munkaidőkeret emellett a négy hónapot nem haladhatja meg."
+        },
+        {
+          "text": "Behívásnál a munkaidőkeret felső határa öt év, mint a 192. § (2) plafonja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A behívásos munkaidőkeret felső határa nem öt év. A helyes szabály a 193. § (1) szerint az, hogy a munkaidőkeret tartama a négy hónapot nem haladhatja meg. Az öt év a 192. § (2) határozott idejű tartamának plafonja, nem a behívás keretéé."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "fbc8dd5d08d3"
+    },
+    {
+      "question": "Az Mt. 193. § (2) a beosztás szerinti munkaidő közléséről mit követel meg?",
+      "options": [
+        {
+          "text": "A 22. § (2) bekezdés b) pontja e közlést akkor is írásbelinek tekinti, ha a helyben szokásos és általában ismert módon teszik közzé.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 22. § (2) bekezdés b) pontja a közlés alakját könnyíti a helyben szokásos közzététellel. A hetvenkét órás előzetességet a 193. § (2) továbbra is megköveteli. A formai könnyítés nem engedi el az időbeli védelmet a munkavállaló számára."
+        },
+        {
+          "text": "A behívásos beosztás bármikor, akár a munkavégzés kezdete előtt egy órával is közölhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, Egyórás előzetes közlés a behívásos beosztásnál nem elegendő. A helyes szabály a 193. § (2) szerint az, hogy a kezdő és befejező időpontot legalább hetvenkét órával korábban kell közölni. A 22. § (2) bekezdés b) pontja csak az írásbeliség alakját könnyíti a helyben szokásos közzététellel."
+        },
+        {
+          "text": "A munkáltató a beosztás szerinti munkaidő kezdő és befejező időpontját legalább hetvenkét órával korábban közli.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 193. § (2) ezt a hetvenkét órás előzetes közlést írja elő a behívásos beosztásnál. A közlés mind a kezdő, mind a befejező időpontra vonatkozik. A 22. § (2) bekezdés b) pontja a helyben szokásos közzétételt is írásbelinek tekinti."
+        },
+        {
+          "text": "A 193. § (2) a hetvenkét órás közlés elmulasztásához külön joghatást fűz a törvény szövegében.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A bekezdés külön joghatást nem mond ki az elmulasztásra. A helyes szabály a 193. § (2) szerint legalább hetvenkét órával korábbi közlés a beosztás szerinti munkaidő kezdő és befejező időpontjáról. Referenciaóra-feltételt és visszautasítási jogot sem ad a szakasz."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "0d12d2d8ebc0"
+    },
+    {
+      "question": "Mi határolja el a határozott idejű munkaviszonyt a behívás alapján történő munkavégzéstől?",
+      "options": [
+        {
+          "text": "A behívás a határozott idejű munkaviszony egyik alfaja a 192. § alatt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A behívás nem minősül a határozott idejű munkaviszony 192. § alatti alfajának. A helyes elhatárolás szerint a 193. § önálló típus a XV. fejezetben, míg a 192. § a határozott idejű tartam különös szabályait adja. A behívás legfeljebb napi hat órás részmunkaidőhöz és négy hónapos kerethez kötött."
+        },
+        {
+          "text": "Határozott idejű szerződés helyett mindig alkalmazható a behívásos forma ugyanazzal a joghatással.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A két forma joghatása nem ugyanaz, és nem helyettesíthető egymással. A helyes szabály szerint a 192. § a tartam zártságát, a 193. § a behívásos teljesítés kereteit szabályozza. A 213. § a) pontja a 192. §-t zárja, nem a 193. §-t."
+        },
+        {
+          "text": "A behívás a XV. fejezet önálló típusa, nem a határozott idő különös esete.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 193. § önálló alanyi körrel és teljesítési móddal bír a XV. fejezetben. A feladatok esedékességéhez igazodik, nem előre rögzített heti beosztáshoz. A 192. § viszont a határozott tartam objektív zárását és a visszaélésellenes plafont szabályozza."
+        },
+        {
+          "text": "A határozott idő a tartam zártságát szabályozza; a behívás a teljesítés időbeli kiszámíthatatlanságának kereteit.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 192. § a tartam naptári vagy más alkalmas zárását, az ötéves plafont és a láncolási feltételeket adja. A 193. § a napi hat órás részmunkaidőt, a négy hónapos keretet és a hetvenkét órás közlést. A két intézmény nem helyettesíti egymást a joghatás szintjén."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "cc4d28f1e383"
+    },
+    {
+      "question": "Az Mt. 213. § a) pontja a 192. § kógenciájáról mit mond?",
+      "options": [
+        {
+          "text": "Kollektív szerződés felemelheti az ötéves felső határt nyolc évre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A kollektív szerződés sem emelheti az ötéves plafont. A helyes szabály a 213. § a) pontja szerint az, hogy a kollektív szerződés sem térhet el a 192. §-tól. A 192. § (2) ötéves plafonja így a KSZ-szel szemben is zárva marad."
+        },
+        {
+          "text": "A kógencia kétirányú: a hat hónapos láncolási ablak és a munkavállalói érdekcsorbítás tilalma sem nyitható ki megállapodással.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 213. § a) pontja a teljes 192. §-t zárja a felek és a KSZ előtt. A 192. § (2) hat hónapos ablaka és a (4) érdekcsorbítási tilalma sem diszpozitív. A határozott idejű különös szabályok tehát nem engednek lefelé vagy felfelé eltérést."
+        },
+        {
+          "text": "A 192. § szabályai diszpozitívak, a felek szabadon eltérhetnek tőlük.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A határozott idejű különös szabályok nem diszpozitívak a felek számára. A helyes szabály a 213. § a) pontja szerint az, hogy a felek megállapodása vagy a kollektív szerződés a 192. §-ban foglaltaktól nem térhet el. Az ötéves plafon és a jogosérdek-feltétel ezért kógens."
+        },
+        {
+          "text": "A felek megállapodása vagy a kollektív szerződés a 192. §-ban foglaltaktól nem térhet el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 213. § a) pontja a 192. §-t az eltérést tiltó katalógusba helyezi. Sem a munkaszerződés, sem a kollektív szerződés nem emelheti az ötéves plafont. A jogosérdek-feltétel és a próbaidőtilalom sem mellőzhető megállapodással."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "3259c26360eb"
+    },
+    {
+      "question": "A 193. § és a 213. § viszonyáról a kógens zár szempontjából mi állapítható meg?",
+      "options": [
+        {
+          "text": "A 193. § nem szerepel a 213. § eltérést tiltó listáján.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 213. § a)–g) pontjai között a 192. § szerepel, a 193. § viszont nem. A behívásos típusnál ezért a XV. fejezet 213. §-a szerinti azonos kógens zár nem érvényesül. A 193. § (1) és (2) bekezdésének tartalma ettől függetlenül védőjellegű marad."
+        },
+        {
+          "text": "A 193. § ugyanúgy a 213. § eltérést tiltó listáján van, mint a 192. §.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A behívásos típus nincs az eltérést tiltó katalógusban a 192. § mellett. A helyes szabály szerint a 213. § a) pontja a 192. §-tól tiltja az eltérést, a 193. § pedig nem szerepel e listán. A behívás védőszabályai a 193. § (1) és (2) bekezdésének saját szövegéből következnek."
+        },
+        {
+          "text": "A 213. § a) pontja a behívásos közlési szabálytól is tiltja az eltérést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A 213. § a) pontja nem a behívásos közlési szabályt zárja. A helyes szabály a 213. § a) pontja szerint az, hogy a tilalom a 192. §-ra vonatkozik. A 193. § (2) hetvenkét órás közlése a behívás saját kötelezettsége, nem a 213. § a) pont tárgya."
+        },
+        {
+          "text": "A 213. § a) pontja a 192. §-t zárja, nem a 193. §-t.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A kógens katalógus tárgya a határozott idejű különös szabályok a 213. § a) pontja szerint. A behívás napi hat órás felsőhatára és négy hónapos kerete a 193. § saját szövegéből fakad. A hetvenkét órás közlés szintén a 193. § (2) kötelezettsége."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "48ce78b4f475"
+    },
+    {
+      "question": "A 46. § (6) bekezdése és a 193. § szerinti behívásos foglalkoztatás tájékoztatási viszonyáról mi igaz?",
+      "options": [
+        {
+          "text": "Behívásnál a napi fél órát meg nem haladó munkaidő automatikusan mentesít a tájékoztatás alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A rövid napi munkaidő a behívásos típusnál nem mentesít automatikusan a tájékoztatás alól. A helyes szabály a 46. § (6) szerint az, hogy a mellőzés alól a 193. § szerinti foglalkoztatás kivétel. A behívásnál a tájékoztatás akkor is jár, ha a napi munkaidő a fél órát nem éri el."
+        },
+        {
+          "text": "A 46. § (1) bekezdés b) pontja szerint a munkáltató hét napon belül írásban tájékoztat a munkaviszony kezdetéről és tartamáról.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 46. § (1) b) pont a kezdetről és a tartamról ad általános tájékoztatási kötelezettséget. A behívásos típusnál a (6) bekezdés mellőzési szabálya nem engedi el ezt a védelmet. A rövid napi munkaidő önmagában nem mentesít a tájékoztatás alól."
+        },
+        {
+          "text": "A napi fél órát meg nem haladó munkaidőnél a tájékoztatás mellőzése alól a 193. § szerinti foglalkoztatás kivétel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 46. § (6) a rövid napi munkaidőnél főszabályként mellőzi a tájékoztatást. Kivétel a 46. § (1) a) pontja és a 193. § szerinti foglalkoztatás. Behívásnál tehát a tájékoztatás akkor is jár, ha a napi munkaidő a félórás mértéket nem lépi át."
+        },
+        {
+          "text": "A 46. § (6) a 193. §-t is a mellőzési körbe vonja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A behívásos foglalkoztatás nincs a mellőzési körbe vonva. A helyes szabály a 46. § (6) szerint az, hogy a 193. § szerinti foglalkoztatás a mellőzés alóli kivétel. Emellett a 46. § (1) b) pont a kezdetről és a tartamról hét napon belüli írásbeli tájékoztatást ír elő."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "777644f8de16"
+    },
+    {
+      "question": "A 2019/1152 irányelv 8. cikkének (2) bekezdése a határozott idejű próbaidőről mit követel, és hogyan jelenik ez meg az Mt.-ben?",
+      "options": [
+        {
+          "text": "Az Mt. 192. § (5) az arányosítást csak a határozatlan idejű munkaviszonyra rendeli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, Az arányosítás nem a határozatlan idejű munkaviszonyra szól. A helyes szabály a 192. § (5) szerint az, hogy a legfeljebb tizenkét hónapra létesített határozott idejű munkaviszonynál kell arányosítani. Ez a 2019/1152 irányelv 8. cikkének (2) bekezdésével van összhangban."
+        },
+        {
+          "text": "A 8. cikk (2) bekezdése megengedi, hogy meghosszabbításnál ismét teljes próbaidőt kössenek ki.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A meghosszabbításnál az új teljes próbaidő nem megengedett. A helyes szabály a 2019/1152 irányelv 8. cikkének (2) bekezdése szerint az, hogy meghosszabbításnál új próbaidő nem köthető. Az Mt. 192. § (4) ezt azonos vagy hasonló munkakörnél átülteti."
+        },
+        {
+          "text": "Ugyanarra a munkakörre vonatkozó meghosszabbításnál a munkaviszonyt nem lehet új próbaidőhöz kötni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 2019/1152 irányelv 8. cikkének (2) bekezdése a meghosszabbításnál kizárja az új próbaidőt. Az Mt. 192. § (4) azonos vagy hasonló munkakörnél a meghosszabbításnál és a hat hónapon belüli ismétlésnél tiltja a próbaidőt. A két norma ugyanarra a visszaélésellenes célra mutat."
+        },
+        {
+          "text": "Határozott idejű munkaviszonynál a próbaidő hossza arányos legyen a szerződés várható időtartamával és a munka jellegével.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 2019/1152 irányelv 8. cikkének (2) bekezdése ezt az arányosságot írja elő a határozott idejű próbaidőnél. Az Mt. 192. § (5) a legfeljebb tizenkét hónapos tartamnál az arányosítást adja. A 45. § (5) és az 50. § (4) tartama az arányosítás kiindulópontja."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "6f6d188ae26b"
+    },
+    {
+      "question": "A 2019/1152 irányelv 10. és 11. cikke a kiszámíthatatlan munkarendhez és a behíváshoz képest az Mt. 193. § mit nem vesz át?",
+      "options": [
+        {
+          "text": "A 193. § nem fűz referenciaóra-feltételt a behíváshoz, és nem ad visszautasítási jogot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 2019/1152 irányelv 10. cikke a referenciaórákat és az észszerű előzetes értesítést köti a kiszámíthatatlan munkarendhez. A 193. § a hetvenkét órás közlést adja, de referenciaóra-feltétel és visszautasítási jog nélkül. A 11. cikk visszaélésellenes útját az Mt. a napi hat órás és négy hónapos korláttal követi."
+        },
+        {
+          "text": "A 193. § a ledolgozott átlagos órák alapján megdönthető vélelmet állít a fizetett órákra.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A behívásos szabály nem állít megdönthető vélelmet a fizetett órákra. A helyes szabály szerint az Mt. a 2019/1152 irányelv 11. cikkének első útját választja: napi hat órás részmunkaidő-felsőhatár és négy hónapos keret a 193. § (1) szerint. Az átlagórák alapján minimális fizetett órák a 11. cikk másik útja."
+        },
+        {
+          "text": "A 193. § a 10. cikk szerinti referenciaóra-feltételt és visszautasítási jogot is átülteti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A referenciaóra-feltétel és a visszautasítási jog nincs átültetve. A helyes szabály szerint a 193. § a hetvenkét órás közlést, a napi hat órás felsőhatárt és a négy hónapos keretet adja, a 2019/1152 irányelv 10. cikkének referenciaóra-feltétele nélkül. A 46. § (1) e) pont általános tájékoztatást ad, nem behívási feltételt."
+        },
+        {
+          "text": "Az Mt. a 11. cikk első útját választja: napi hat órás részmunkaidő-felsőhatár és négy hónapos keret.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 2019/1152 irányelv 11. cikke az alkalmazás és időtartam korlátozását, átlagórák alapján minimális fizetett órákat vagy egyenértékű intézkedést követel. Az Mt. 193. § (1) a korlátozási utat ülteti a napi hat órás felsőhatárral és a négy hónapos kerettel. A 193. § (2) a hetvenkét órás közlést adja hozzá."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "28cba9d263a0"
+    },
+    {
+      "question": "A 1999/70/EK irányelv 1. cikke az irányelv célját hogyan határozza meg?",
+      "options": [
+        {
+          "text": "A 1–4. cikk az instrumentum; a foglalkoztatási minimumok a melléklet szakaszaiban vannak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 1999/70/EK irányelv 1. cikke a célt, a 2. cikk a transzpozíciót, a 3. cikk a hatálybalépést, a 4. cikk a címzetteket adja. A magyar 192. § nem az 1. cikket, hanem a melléklet ötödik szakaszának visszaélésellenes keretét ülteti át. Az ötéves plafon és a jogos érdek e keret része."
+        },
+        {
+          "text": "Az 1. cikk maga tartalmazza az ötéves maximális tartamot és a jogosérdek-feltételt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, Az 1. cikk nem tartalmazza az ötéves plafont és a jogos érdeket. A helyes szabály szerint a 1999/70/EK irányelv 1. cikke a keretmegállapodás végrehajtását tűzi célul; a visszaélésellenes intézkedések a melléklet ötödik szakaszában vannak. Az Mt. 192. § (2) és (4) e szakaszt ülteti át."
+        },
+        {
+          "text": "Az irányelv célja a mellékletben szereplő, a határozott ideig tartó munkaviszonyra vonatkozó keretmegállapodás végrehajtása.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 1999/70/EK irányelv 1. cikke szerint: „Ezen irányelv célja a mellékletben szereplő, a határozott ideig tartó munkaviszonyra vonatkozó keretmegállapodás végrehajtása.” A megállapodást 1999. március 18-án az ESZSZ, az UNICE és a CEEP kötötte. A foglalkoztatási minimumok a melléklet szakaszaiban vannak, nem az 1. cikkben."
+        },
+        {
+          "text": "Az 1. cikk címzettjei közvetlenül a munkáltatók és a munkavállalók.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A munkáltatók és a munkavállalók nem az irányelv közvetlen címzettjei a 1999/70/EK irányelv 1. cikke alapján. A helyes szabály a 1999/70/EK irányelv 4. cikke szerint az, hogy az irányelv címzettjei a tagállamok. Az 1. cikk a célt a mellékletbeli keretmegállapodás végrehajtására szűkíti."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "121fe02d3c0e"
+    },
+    {
+      "question": "A 1999/70/EK irányelv 2. cikke a transzpozícióról milyen határidőt és kötelezettséget állít?",
+      "options": [
+        {
+          "text": "A transzpozíciós határidő 2012. július 1., az Mt. hatálybalépéséhez igazítva.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A közösségi transzpozíciós határidő nem az Mt. 2012. évi hatálybalépéséhez igazodik. A helyes szabály a 1999/70/EK irányelv 2. cikke szerint az, hogy a megfelelés határideje kétezer-egy július tizedike. A 192. § a 2012. évi kódex része, de a 2. cikk a közösségi kötelezettség idejét rögzíti."
+        },
+        {
+          "text": "A 2. cikk a láncolás tartalmát — az ötéves plafont és a jogos érdeket — határozza meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A 1999/70/EK irányelv 2. cikke nem a láncolás tartalmi plafonját és a jogos érdeket határozza meg. A helyes szabály szerint a 2. cikk a megfelelés idejét és a tájékoztatási kötelezettséget adja. A láncolás tartalmát a melléklet ötödik szakasza, magyarul az Mt. 192. § (2) és (4) bekezdése adja."
+        },
+        {
+          "text": "Különös nehézség vagy kollektív szerződéses végrehajtás esetén további egy év állhat rendelkezésre a szociális partnerekkel folytatott tárgyalást követően.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 1999/70/EK irányelv 2. cikkének második bekezdése ezt a további egyéves hosszabbítást engedi. Az ilyen körülményekről is tájékoztatni kell a Bizottságot. A 192. § e közösségi határidőhöz képest a 2012. évi kódex része."
+        },
+        {
+          "text": "A tagállamoknak 2001. július 10-e előtt meg kell felelniük, vagy biztosítaniuk kell, hogy a szociális partnerek eddig megállapodással bevezessék a rendelkezéseket.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 1999/70/EK irányelv 2. cikkének első bekezdése ezt a 2001. július 10-i határt állítja. A tagállamnak az eredmények folyamatos biztosításához szükséges lépéseket meg kell tennie. A Bizottságot haladéktalanul tájékoztatni kell a megfelelésről."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "bbff151714ee"
+    },
+    {
+      "question": "A 1999/70/EK irányelv 3. és 4. cikke a hatálybalépésről és a címzettekről mit rögzít?",
+      "options": [
+        {
+          "text": "Az irányelv címzettjei a tagállamok.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 1999/70/EK irányelv 4. cikke szerint ez áll: „Ennek az irányelvnek a tagállamok a címzettjei”. A magyar jogalkotó e címzetti minőségben alkotta meg az Mt. 192. § láncolási és jogosérdek-szabályait. A 4. cikk önmagában nem hordozza a melléklet foglalkoztatási minimumait, mert azok a melléklet szakaszaiban vannak."
+        },
+        {
+          "text": "Az irányelv az Európai Közösségek Hivatalos Lapjában való kihirdetés napján lép hatályba.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 1999/70/EK irányelv 3. cikke a hatálybalépést a Hivatalos Lapban való kihirdetés napjához köti. Ez elválik a 2. cikk szerinti, kétezer-egy július tizediki átültetési határidőtől. A mellékletbeli keretmegállapodás az irányelv hatálybalépésével válik a közösségi jog részévé."
+        },
+        {
+          "text": "A 4. cikk a melléklet első szakaszának két célját ismétli meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A 1999/70/EK irányelv 4. cikke nem ismétli meg a melléklet első szakaszának két célját. A helyes szabály a 4. cikk szerint az, hogy az irányelv címzettjei a tagállamok. A két cél a melléklet első szakaszában van, míg a 4. cikk csak a címzetti minőséget rögzíti."
+        },
+        {
+          "text": "A 3. cikk szerinti hatálybalépés azonos a 2. cikk 2001. július 10-i átültetési határidejével.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A hatálybalépés napja és az átültetési határidő nem esik egybe. A helyes szabály szerint a 1999/70/EK irányelv 3. cikke a kihirdetés napjához köti a hatálybalépést, míg a 2. cikk a belső jogi megfelelés határidejét kétezer-egy július tizedikében állítja. A két időpont szándékosan elválik egymástól."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "d8b55e2b08bc"
+    },
+    {
+      "question": "A 1999/70/EK keretmegállapodás negyedik szakasza a megkülönböztetés tilalmáról mit mond, és hogyan kapcsolódik a minőségi célhoz?",
+      "options": [
+        {
+          "text": "A határozott időre foglalkoztatottak nem részesülhetnek kedvezőtlenebb bánásmódban, mint az összehasonlítható állandó munkavállalók, csupán a határozott idejű jogviszony miatt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A melléklet negyedik szakasza a megkülönböztetés tilalmát mondja ki a foglalkoztatási feltételek szempontjából, és ez a minőségi cél része. Kivétel, ha az eltérő bánásmód objektív alapon igazolható. Adott esetben a pro rata temporis elvét kell alkalmazni; az Mt. 192. § a visszaélésellenes ágat ülteti."
+        },
+        {
+          "text": "A sajátos munkafeltételekkel kapcsolatos, a vállalkozásnál eltöltött idő alapján történő minősítés a két csoportnál azonos, kivéve objektív okot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A melléklet negyedik szakasza ezt az időalapú minősítési egyenlőséget is rögzíti a határozott és az állandó munkavállalóknál. Az összehasonlítható állandó munkavállaló fogalmát a harmadik szakasz adja. A minőségi pillér így a megkülönböztetés tilalmán keresztül érvényesül, míg az Mt. 192. § a láncolást zárja."
+        },
+        {
+          "text": "A határozott idejű munkavállaló mindig kedvezőtlenebb foglalkoztatási feltételeket kaphat indoklás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, Indoklás nélküli kedvezőtlenebb bánásmód nem megengedett. A helyes szabály a melléklet negyedik szakasza szerint az, hogy kedvezőtlenebb bánásmód csupán a határozott idejű jogviszony miatt tilos, kivéve ha objektív alapon igazolható; az Mt. 192. § a visszaélésellenes ágat adja. Adott esetben a pro rata temporis elv érvényesül."
+        },
+        {
+          "text": "A negyedik szakasz csak a megújítások számát korlátozza, egyenlő bánásmódot nem ír elő, ezért az Mt. 192. § (2) belőle származik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A melléklet negyedik szakasza nem a megújítások számát korlátozza elsődlegesen. A helyes szabály szerint a megkülönböztetés tilalma és az egyenlő bánásmód a foglalkoztatási feltételeknél érvényesül, míg az Mt. 192. § (2) ötéves plafonja a melléklet ötödik szakaszának maximális tartamából ered. A megújítások száma a melléklet ötödik szakaszának c) alpontjában jelenik meg."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "163eda0e544e"
+    },
+    {
+      "question": "Az Mt. 203. § (1) bekezdés m) pontja és a 192. § (4) viszonyáról mi igaz az egyszerűsített foglalkoztatásnál?",
+      "options": [
+        {
+          "text": "A 203. § (1) bekezdés m) pontja a 192. § (4) bekezdését az egyszerűsített foglalkoztatásra vagy alkalmi munkára irányuló munkaviszonyban nem rendeli alkalmazni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 203. § (1) m) pont kivételt nyit a (4) bekezdés jogosérdek- és próbaidő-szabályai alól e foglalkoztatási formáknál. A 192. § többi bekezdése ettől a kivételtől függetlenül értelmezendő. A kivétel szűk: csak a (4) bekezdésre vonatkozik."
+        },
+        {
+          "text": "A kivétel az egyszerűsített foglalkoztatásra vagy alkalmi munkára irányuló munkaviszonyra vonatkozik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 203. § (1) m) pont mindkét formát — egyszerűsített foglalkoztatást és alkalmi munkát — megnevezi. Ezeknél a 192. § (4) meghosszabbítási és ismétlési feltételei nem alkalmazandók. A határozott idejű általános tartami szabályok más bekezdései ettől elválnak."
+        },
+        {
+          "text": "Egyszerűsített foglalkoztatásnál a 192. § (4) jogosérdek-feltétele változatlanul kötelező.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A jogosérdek-feltétel e körben nem kötelező. A helyes szabály a 203. § (1) m) pont szerint az, hogy a 192. § (4) az egyszerűsített foglalkoztatásra vagy alkalmi munkára irányuló munkaviszonyban nem alkalmazandó. A próbaidőtilalom e körben szintén e kivétel alá esik."
+        },
+        {
+          "text": "A 203. § (1) m) pont a teljes 192. §-t kizárja az egyszerűsített foglalkoztatásból.",
+          "isCorrect": false,
+          "rationale": "HAMIS, Nem a teljes határozott idejű szakasz esik ki az egyszerűsített foglalkoztatásból. A helyes szabály a 203. § (1) m) pont szerint az, hogy csak a 192. § (4) bekezdését nem rendeli alkalmazni. Az ötéves plafon és a tartammeghatározás más bekezdései ettől a kivételtől elválnak."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "652252a8ca6b"
+    },
+    {
+      "question": "A határozott idejű munkaviszony objektív záróeseményhez kötött tartamának fogalmi magjáról mi állapítható meg a 45. § (2) és a 192. § együttes olvasatából?",
+      "options": [
+        {
+          "text": "Ha a tartamot nem naptárilag határozzák meg, a megszűnés időpontja szabadon a fél akaratához köthető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A megszűnés nem köthető szabadon a fél akaratához. A helyes szabály a 192. § (1) szerint az, hogy a megszűnés időpontja nem függhet kizárólag a fél akaratától, ha a tartamot nem naptárilag határozták meg. A munkáltató emellett tájékoztat a várható tartamról."
+        },
+        {
+          "text": "A határozott idő objektív záróeseményhez kötött tartam, nem a munkáltató egyoldalú, bármikor megújítható diszkréciója.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 45. § (2) a határozatlan időt teszi főszabállyá eltérő megállapodás hiányában. A 192. § (1) a megszűnést a fél kizárólagos akaratától elválasztja a nem naptári meghatározásnál. A 192. § (4) a megújítást jogos érdekhez és a munkavállaló érdekének védelméhez köti."
+        },
+        {
+          "text": "A „más alkalmas mód” — meghatározott feladat vagy esemény — csak akkor érvényes, ha a megszűnés nem függ kizárólag a fél akaratától.",
+          "isCorrect": true,
+          "rationale": "IGAZ, A 192. § (1) ezt az objektivitási követelményt mondja ki a nem naptári tartammeghatározásnál. Ellenkező esetben a konstrukció a 45. § (2) határozatlan idejű főszabályát játszaná ki. A munkáltatót ilyenkor tájékoztatási kötelezettség is terheli a várható tartamról."
+        },
+        {
+          "text": "A határozott idejű tartam a munkáltató szabad, egyoldalú megújítási jogán alapul.",
+          "isCorrect": false,
+          "rationale": "HAMIS, A tartam nem a munkáltató szabad egyoldalú megújítási jogán alapul. A helyes szabály szerint a 192. § (1) alapján a megszűnés nem függhet kizárólag a fél akaratától, a 192. § (4) pedig a meghosszabbítást munkáltatói jogos érdekhez köti. A 45. § (2) bekezdése a határozatlan időt teszi főszabállyá eltérő megállapodás hiányában."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "94feb043b28b"
+    }
+  ]
+}

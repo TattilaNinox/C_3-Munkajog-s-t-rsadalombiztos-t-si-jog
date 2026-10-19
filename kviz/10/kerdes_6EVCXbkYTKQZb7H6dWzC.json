@@ -1,0 +1,765 @@
+{
+  "id": "6EVCXbkYTKQZb7H6dWzC",
+  "sorszam": 10,
+  "cim": "Jogkövetkezmények a munkavállaló vétkes kötelezettségszegéséért.",
+  "generationType": "kerdes",
+  "title": "10. Jogkövetkezmények a munkavállaló vétkes kötelezettségszegéséért.",
+  "questions": [
+    {
+      "question": "Mikor állapítható meg hátrányos jogkövetkezmény a munkavállaló kötelezettségszegése miatt az Mt. szerint?",
+      "options": [
+        {
+          "text": "Akkor, ha a munkaviszonyból származó kötelezettség megszegése és a munkavállaló vétkessége együtt fennáll, és a hátrányt előzetesen kollektív szerződés vagy — kisegítő esetben — munkaszerződés állapította meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogalap kettős: kötelezettségszegés és vétkesség, emellett előzetes jogforrási megállapítás kell. Az Mt. 56. § (1) bekezdése szerint a munkaviszonyból származó kötelezettség vétkes megszegése esetére kollektív szerződés vagy — ha a munkáltató vagy a munkavállaló nem áll kollektív szerződés hatálya alatt — munkaszerződés állapíthat meg arányos hátrányos jogkövetkezményeket. A vétkesség felróhatóság: gondatlan és szándékos magatartás egyaránt kimerítheti. Intézmény hiányában e címen szankció nincs."
+        },
+        {
+          "text": "Elegendő a munkáltató utasítási jogára hivatkozni; előzetes kollektív szerződéses vagy munkaszerződéses katalógus nélkül is alkalmazható a hátrány.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szankció nem az utasítási jogból, hanem előzetes megállapításból ered. Az Mt. 56. § (1) bekezdése szerint kollektív szerződés vagy — kisegítő esetben — munkaszerződés állapíthat meg hátrányos jogkövetkezményeket; a „állapíthat meg” fordulat fakultatív. A 15. § (1) bekezdése szerint egyoldalú jognyilatkozatból csak munkaviszonyra vonatkozó szabályban meghatározott esetben származhatnak jogok vagy kötelezettségek. A tévedés forrása az utasítási jog és a szankciós jogalap összecsúsztatása."
+        },
+        {
+          "text": "A szankció súlyát az arányosság köti a kötelezettségszegés súlyához; az arányosság az (1) bekezdés tényállási eleme.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az arányosság nem csupán mérlegelési szempont, hanem a tényállás része. Az Mt. 56. § (1) bekezdése a kötelezettségszegés súlyával arányos hátrányos jogkövetkezmények megállapítását engedi. Az 57. § (1) bekezdés e) pontja nem ezt a mondatot, hanem a (2)–(5) bekezdést zárja el a felek és a kollektív szerződés elől. A szankció tehát a kötelezettségszegés súlyához igazodik, nem önkényes mértékű."
+        },
+        {
+          "text": "Csak szándékos kötelezettségszegés nyithatja meg a hátrányos jogkövetkezményt; a gondatlanság e körben nem számít vétkességnek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a vétkesség a gondatlan és a szándékos magatartást egyaránt átfogja. Az Mt. 56. § (1) bekezdése a kötelezettség vétkes megszegését kívánja meg; a vétkesség felróhatóság, és a gondatlan magatartás is kimerítheti. A szankció súlyát az arányosság köti a kötelezettségszegés súlyához, nem a szándékosság önmagában zárja ki vagy nyitja meg a jogcímet. A tévedés a büntetőjogi szándékosság-gondatlanság elhatárolásának ráírásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "f231fbaf9fef"
+    },
+    {
+      "question": "Mindkét fél kollektív szerződés hatálya alatt áll, a kollektív szerződés a hátrányos jogkövetkezményről hallgat. Mi következik az 56. § alkalmazhatóságára?",
+      "options": [
+        {
+          "text": "A munkáltatói szabályzat önállóan pótolhatja a hallgató kollektív szerződést, és így megnyitja az 56. §-t.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szabályzat nem jogforrási helyettesítő. Az Mt. 56. § (1) bekezdése a hátrány megállapítását a kollektív szerződéshez, kisegítő esetben a munkaszerződéshez köti. A 17. § a 15–16. § szerinti jognyilatkozatok közlésének módját engedi szabályzatban, nem a szankciós katalógus létrehozását. A tévedés a közlési forma és a jogalap-megállapítás összekeveréséből ered."
+        },
+        {
+          "text": "56. §-os szankció nincs: a munkaszerződés e helyzetben nem helyettesíti a kollektív szerződést, és a hallgatás mellett a kisegítő munkaszerződéses jogcím sem nyílik meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a zárt jogforrási sorrend és a fakultatív jelleg együtt zárja a szankciót. Az Mt. 56. § (1) bekezdése a munkaszerződést csak arra az esetre engedi, ha a munkáltató vagy a munkavállaló nem áll kollektív szerződés hatálya alatt. Ha mindkét fél hatály alatt áll, és a kollektív szerződés hallgat, e címen hátrány nem alkalmazható. A 13. § a kollektív szerződést munkaviszonyra vonatkozó szabállyá emeli, de hallgatása nem pótolható munkaszerződéssel."
+        },
+        {
+          "text": "A 15. § (1) bekezdése szerint egyoldalú jognyilatkozatból csak munkaviszonyra vonatkozó szabályban meghatározott esetben származhatnak jogok vagy kötelezettségek; intézmény hiányában a munkáltató e címen nem szankcionálhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hallgató kollektív szerződés mellett nincs 56. §-os jogalap az egyoldalú intézkedéshez. Az Mt. 15. § (1) bekezdése az egyoldalú jognyilatkozat joghatását munkaviszonyra vonatkozó szabályhoz köti. Az 56. § (1) bekezdése „állapíthat meg” fordulata fakultatív: ha a kollektív szerződés és a kisegítő munkaszerződés hallgat, szankció nincs. A munkáltatói utasítás tehát nem pótolja a katalógust."
+        },
+        {
+          "text": "A munkaszerződésben felsorolt hátrányok a kollektív szerződés hallgatása ellenére is alkalmazhatók, mert a munkaszerződés mindig elsődleges.",
+          "isCorrect": false,
+          "rationale": "HAMIS, mindkét fél hatálya alatt a munkaszerződés nem helyettesíti a kollektív szerződést. Az Mt. 56. § (1) bekezdése a munkaszerződéses jogcímet a kollektív szerződés hatályán kívüli kisegítő esetre szűkíti. A hallgató kollektív szerződés mellett a munkaszerződéses katalógus e címen nem pótolja a hiányt. A tévedés a munkaszerződés általános elsőbbségének ráírásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "6b92d324d893"
+    },
+    {
+      "question": "Mi következik abból, ha a munkáltató a hátrányos jogkövetkezményként a munkaviszony feltételeit a viszony egész tartamára, véglegesen módosítaná?",
+      "options": [
+        {
+          "text": "A (2) bekezdés ismérveket ad, nem nevesített szankciókatalógust: a hátránynak munkaviszonnyal összefüggőnek kell lennie, és a személyiségi jogot, valamint az emberi méltóságot nem sértheti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a törvény nem sorol fel megengedett fegyelmi fajtákat, hanem együttes ismérveket rögzít. Az Mt. 56. § (2) bekezdése a munkaviszonnyal összefüggő, határozott időre módosító, méltóságot nem sértő hátrányt engedi. A magánéletre vagy a büntetőjogi szférára átnyúló büntetés kiesik. A méltóságzár a vagyoni plafontól függetlenül érvényesül."
+        },
+        {
+          "text": "A végleges, a munkaviszony tartamára szóló módosítás a (2) bekezdés határozott idejű fordulatába ütközik; a plafon alatti vagyoni kihatás sem menti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a határozott időre szóló módosítás önálló, kógens ismérv. Az Mt. 56. § (2) bekezdése szerint a hátránynak a munkaviszony feltételeit határozott időre kell módosítania. A munkakör, a díjazás vagy más feltétel állandó, a viszony tartamára szóló megvonása a fordulatba nem fér. Az 57. § (1) bekezdés e) pontja e korlátot a felek és a kollektív szerződés elől is elzárja."
+        },
+        {
+          "text": "A kollektív szerződés a munkavállaló terhére előírhatja a feltételek határozatlan idejű módosítását, ha az 56. § (1) bekezdése szerint él az intézménnyel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az intézmény választása nem oldja fel a (2) bekezdés kógens tartamzárját. Az Mt. 57. § (1) bekezdés e) pontja az 56. § (2)–(5) bekezdését a kollektív szerződés elől elzárja. A határozott időre szóló módosítás követelményét sem enyhíteni, sem szigorítani nem lehet. A tévedés a fakultatív (1) bekezdés és a kógens (2) bekezdés összekeveréséből ered."
+        },
+        {
+          "text": "A végleges díjazásmegvonás megengedett, ha a vagyoni kihatás az egyhavi alapbér alatt marad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a vagyoni plafon nem pótolja a tartam-ismérvet. Az Mt. 56. § (2) bekezdése a határozott időre szóló módosítást és a vagyoni plafont külön ismérvként rögzíti. A plafon alatti, de végleges megvonás a határozott idejű fordulatba ütközik. A tévedés a két ismérv felcseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "87244782ddd2"
+    },
+    {
+      "question": "A munkáltató a kötelezettségszegést a felmondás indokaként megjelölte. Milyen további 56. §-os hátrány állapítható meg ugyanarra a magatartásra?",
+      "options": [
+        {
+          "text": "A tilalom csak akkor él, ha a megszüntetés azonnali hatályú felmondás; rendes felmondás mellett a hátrány szabad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom a megszüntetés minden indokolást hordozó alakzatára kiterjed. Az Mt. 56. § (4) bekezdése a „munkaviszony megszüntetésének indoka” fordulatot használja, nem szűkíti a 78. § szerinti azonnali hatályú felmondásra. A felmondás indokaként megjelölt magatartás mellett 56. §-os hátrány nem állapítható meg. A tévedés a megszüntetési alakzatok indokolatlan szűkítéséből ered."
+        },
+        {
+          "text": "Más, önálló kötelezettségszegés — amely nem szerepel a megszüntetés indokai között — önálló jogcímen hátrányt nyithat, ha van 56. § (1) bekezdés szerinti jogforrási alap.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a zár az azonosított magatartáshoz kötődik, nem a munkavállaló személyéhez. Az Mt. 56. § (4) bekezdése azt a kötelezettségszegést zárja ki, amelyet a megszüntetés indokaként is megjelöltek. Más, önálló kötelezettségszegés más jogcímet nyithat. A hátrányhoz továbbra is kell az 56. § (1) bekezdése szerinti kollektív szerződéses vagy kisegítő munkaszerződéses katalógus."
+        },
+        {
+          "text": "Ugyanarra a kötelezettségszegésre 56. §-os hátrány nem állapítható meg; a munkáltató a megszüntetés és a hátrány között választ, kumulálni nem lehet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (4) bekezdés a megszüntetés indokaként megjelölt magatartást kivonja a hátrány alól. Az Mt. 56. § (4) bekezdése szerint hátrányos jogkövetkezmény nem állapítható meg olyan kötelezettségszegés miatt, amelyet a munkáltató a munkaviszony megszüntetésének indokaként is megjelöl. A tilalom a felmondásra is kiterjed, ha indokolást hordoz. A munkáltató nem „tetézheti” a felmondást ugyanazon magatartásért járó 56. §-os hátránnyal."
+        },
+        {
+          "text": "Az arányos, enyhébb 56. §-os hátrány a felmondás mellett is kiszabható, mert a két szankció egymás fokozata.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az arányosság nem oldja fel a kumulálási tilalmat, és a két jogcím nem fokozat. Az Mt. 56. § (4) bekezdése kifejezetten tiltja, hogy a megszüntetés indokaként megjelölt kötelezettségszegés miatt hátrány is fennálljon. Az 56. § (1) bekezdése a viszonyt fenntartó hátrányt rendezi, nem a felmondás előtti lépcsőjét. A tévedés a fegyelmi fokozatosság ráírásából ered a halmazati tilalomra."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "c69d9eda075a"
+    },
+    {
+      "question": "Milyen kötöttséget visz át az 56. § (3) bekezdése a hátrányos jogkövetkezmény alkalmazására, és mi nem változik meg ezáltal?",
+      "options": [
+        {
+          "text": "A (3) bekezdés a 78. § (2) bekezdésének megfelelő alkalmazását rendeli: eljárási kötöttség száll át, a hátrány mégsem válik munkaviszony-megszüntetéssé.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az utalás eljárási kötöttséget emel át, nem alakítja át a szankció jogcímét. Az Mt. 56. § (3) bekezdése szerint a hátrányos jogkövetkezmény alkalmazása során a 78. § (2) bekezdését megfelelően alkalmazni kell, a (2) bekezdés törzse nélkül. Az 56. § (1) bekezdése a viszonyt fenntartó hátrányhoz a vétkes megszegést és az arányosságot köti. A 78. § (1) bekezdése megszüntetési ok, nem az utalás tárgya."
+        },
+        {
+          "text": "A 78. § (1) bekezdése azonnali hatályú felmondási ok marad; az 56. § (3) bekezdése nem emeli át e megszüntetési tényállást a hátrányra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés csak a 78. § (2) bekezdésére utal. Az Mt. 56. § (3) bekezdése kifejezetten a 78. § (2) bekezdésének megfelelő alkalmazását írja elő. A 78. § (1) bekezdése azonnali hatályú felmondási, megszüntetési ok. A (4) bekezdés a két jogcím együttes indokként való használatát ugyanazon kötelezettségszegésnél eltiltja."
+        },
+        {
+          "text": "A (3) bekezdés miatt a hátrányos jogkövetkezményre a 78. § (1) bekezdésének teljes tényállását is megfelelően alkalmazni kell.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés nem emeli át az azonnali hatályú felmondás megszüntetési okát. Az Mt. 56. § (3) bekezdése csak a 78. § (2) bekezdésének megfelelő alkalmazását rendeli. A 78. § (1) bekezdése megszüntetési ok, nem a hátrány utalási alapja. A tévedés a megszüntetési ok és az eljárási kötöttség összekeveréséből ered."
+        },
+        {
+          "text": "A (3) bekezdés a hátrányt az azonnali hatályú felmondás enyhébb fokává teszi ugyanazon eljárásban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két jogcím elválasztott szankciós sík, nem egymás fokozata. Az Mt. 56. § (1) bekezdése a viszonyt fenntartó hátrányt rendezi; a 78. § (1) bekezdése megszüntetési okot. A (3) bekezdés csak a 78. § (2) bekezdésének megfelelő alkalmazását írja elő. A tévedés a fegyelmi lépcső ráírásából ered a (3) bekezdés utalására."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "90fd5d684b25"
+    },
+    {
+      "question": "A 15. § (4) bekezdése szerinti hatályos közlés önmagában kielégíti-e az 56. § (5) bekezdésének követelményeit?",
+      "options": [
+        {
+          "text": "A kollektív szerződés elengedheti az indokolást, ha a közlés a 15. § (4) bekezdése szerint hatályos.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (5) bekezdés abszolút kógens, a hatályos közlés nem oldja fel. Az Mt. 57. § (1) bekezdés e) pontja szerint a felek megállapodása vagy a kollektív szerződés az 56. § (2)–(5) bekezdésétől nem térhet el. Sem a munkaszerződés, sem a kollektív szerződés nem mellőzheti az indokolást. A tévedés a hatályosság és a kógens alaki-tartalmi kényszer összekeveréséből ered."
+        },
+        {
+          "text": "Nem: a hatályos közlés nem pótolja az írásba foglalást és az indokolást; a hátrányos jogkövetkezménnyel járó intézkedést írásba kell foglalni és indokolni kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a címzettel való közlés a hatályosságot teremti meg, de önmagában nem teszi az intézkedést az 56. § (5) bekezdésének megfelelővé. Az Mt. 15. § (4) bekezdése az egyoldalú jognyilatkozat hatályosságát a címzettel való közléshez köti. Az 56. § (5) bekezdése külön alaki és tartalmi kényszert állít: az intézkedést írásba kell foglalni és indokolni kell. A puszta közlés tehát nem pótolja az írásba foglalást és az indokolást."
+        },
+        {
+          "text": "Szóbeli közlés is elegendő, ha a munkavállaló utólag írásban tudomásul veszi a hátrányt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az intézkedést már a közléskor írásba kell foglalni és indokolni. Az Mt. 56. § (5) bekezdése az írásba foglalást és az indokolást kötelezővé teszi. A 29. § (4) bekezdése az érvénytelen egyoldalú jognyilatkozattól a joghatást elvonja. A tévedés a 15. § (4) bekezdése szerinti hatályosság és az (5) bekezdés alaki kényszerének felcseréléséből ered."
+        },
+        {
+          "text": "A (2) vagy az (5) bekezdésbe ütköző intézkedés a 29. § (4) bekezdése szerint érvénytelen egyoldalú jognyilatkozat; utólagos szóbeli kiegészítés nem orvosolja, ha a kényszer már a közléskor hiányzott.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hiányos alak vagy tartalom az érvénytelenségen keresztül elvonja a joghatást, és utólag nem orvosolható. Az Mt. 29. § (4) bekezdése az érvénytelen egyoldalú jognyilatkozattól minden jogot és kötelezettséget megtagad. Ha a hátrányos intézkedés az 56. § (5) bekezdésébe ütközik, a munkaviszony feltételei e címen nem módosulnak. A 15. § (4) bekezdése szerinti hatályos közlés sem pótolja a hiányzó indokolást."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "d6d94ea99997"
+    },
+    {
+      "question": "Egyszerűsített foglalkoztatásra irányuló munkaviszonynál a munkaszerződés hátrányos jogkövetkezményt sorol fel. Mi a jogi helyzet az 56. § szempontjából?",
+      "options": [
+        {
+          "text": "A vétkes kötelezettségszegés ebben az atipikus alakzatban nem az 56. § szerinti, viszonyt fenntartó szankciós rendbe esik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kizárás a szankciós rendet emeli ki, nem csupán egy eljárási részletszabályt. Az Mt. 203. § (1) bekezdés c) pontja az 56. § egészét zárja. A 203. § (1) bekezdésének többi kizárásával együtt a különös szabályok alá esik a viszony. A munkáltató tehát e címen nem alkalmazhatja a (2)–(5) bekezdés szerinti hátrányos jogkövetkezményt."
+        },
+        {
+          "text": "A 203. § (1) bekezdés c) pontja az 56. § alkalmazását kizárja; a munkaszerződéses felsorolás a szankciós jogcímet nem hozza vissza.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tételes kizárás a felek kikötését is felülírja. Az Mt. 203. § (1) bekezdés c) pontja szerint az egyszerűsített foglalkoztatásra vagy alkalmi munkára irányuló munkaviszonynál az 56. § nem alkalmazható. Hátrányos jogkövetkezmény sem kollektív szerződés, sem munkaszerződés alapján nem állapítható meg. A fakultatív 56. § (1) bekezdés „állapíthat meg” fordulata e viszonyban nem érvényesül."
+        },
+        {
+          "text": "Ha a felek a munkaszerződésben kifejezetten kikötik a hátrányt, a 203. § (1) bekezdés c) pontja nem érvényesül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felek kikötése a tételes kizárást nem oldja fel. Az Mt. 203. § (1) bekezdés c) pontja kimondja, hogy az 56. § nem alkalmazható. E viszonyban hátrányos jogkövetkezmény egyik 56. § (1) bekezdés szerinti jogforrás alapján sem állapítható meg. A tévedés a fakultatív jogalap ráírásából ered a kizáró szabályra."
+        },
+        {
+          "text": "A kizárás csak a kollektív szerződéses jogcímet érinti; munkaszerződésben a hátrány továbbra is megállapítható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az 56. § egésze ki van zárva, mindkét jogforrás nélkül. Az Mt. 203. § (1) bekezdés c) pontja az 56. § alkalmazását zárja, nem csupán a kollektív szerződéses ágat. A munkaszerződéses felsorolás sem nyit szankciós jogcímet. A tévedés a kizárás részleges olvasatából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "5475892cb98a"
+    },
+    {
+      "question": "A kollektív szerződés a vizsgálati mentesítés tartamát az 57. § (2) bekezdése címén kívánja alakítani. Meddig nyúlhat bele?",
+      "options": [
+        {
+          "text": "Az 57. § (2) bekezdése az 55. § (5) bekezdésétől is szabad eltérést enged, mert a mentesítés a munkavállaló érdeke.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés szöveg szerint az 55. § (1) bekezdésétől enged in favorem eltérést, nem az (5) bekezdéstől. Az Mt. 57. § (2) bekezdése az 55. § (1) bekezdését nevezi meg. Az 55. § (5) bekezdés harminc napos zárát e fordulat nem oldja fel. A tévedés a tilalmi/eltérési lista hatókörének mellőzéséből ered."
+        },
+        {
+          "text": "Kollektív szerződés az 57. § (2) bekezdése alapján a harminc napos zárat a munkáltató javára meghosszabbíthatja, ha a vizsgálat összetett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az 57. § (2) bekezdése csak a munkavállaló javára enged eltérést az 55. § (1) bekezdésétől, és a harminc napos zárat nem oldja fel. Az Mt. 55. § (5) bekezdése a mentesítést legfeljebb harminc napra korlátozza. A vizsgálat összetettsége nem nyit munkáltatói érdekre szabott hosszabbítást. A tévedés az in favorem szabály terhévé fordításából ered."
+        },
+        {
+          "text": "Az 57. § (2) bekezdése az 55. § (1) bekezdésétől csak a munkavállaló javára enged eltérést; az (5) bekezdés legfeljebb harminc napos zárát e fordulat nem oldja fel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az in favorem szabály hatóköre szűk, és a harminc napos felső zár külön áll. Az Mt. 57. § (2) bekezdése az 55. § (1) bekezdésétől kizárólag a munkavállaló javára enged kollektív szerződéses eltérést. Az 55. § (5) bekezdése a mentesítést a vizsgálat lefolytatásához szükséges, de legfeljebb harminc napra korlátozza. A munkáltató javára szóló meghosszabbítás e két fordulatból sem vezethető le."
+        },
+        {
+          "text": "A mentesítés feltétele, hogy a kötelezettségszegés körülményeinek kivizsgálása indokolja; a tartam a vizsgálat lefolytatásához szükséges idő, de legfeljebb harminc nap.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a mentesítés célhoz és felső zárhoz kötött. Az Mt. 55. § (5) bekezdése a mentesítést a kivizsgálás indokoltságához és a vizsgálat lefolytatásához szükséges tartamhoz köti, legfeljebb harminc nappal. A rendelkezésre állási és munkavégzési kötelezettség alóli felmentés e keretben marad. A kollektív szerződés az 57. § (2) bekezdése alapján e harminc napos zárat a munkáltató terhévé fordított meghosszabbítással nem törheti át."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "0b2dec9cb511"
+    },
+    {
+      "question": "Mi következik abból, ha a kollektív szerződés a vagyoni hátrány plafonját az egyhavi alapbér fölé emeli?",
+      "options": [
+        {
+          "text": "A plafon a kötelezettségszegés elkövetésekor irányadó alapbérhez igazodik, nem a megállapítás időpontjához.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az irányadó időpont a jogkövetkezmény megállapítása, nem az elkövetés. Az Mt. 56. § (2) bekezdése a „jogkövetkezmény megállapításakor irányadó” egyhavi alapbért rögzíti. A számítás alapja az alapbér, és a plafon összességében érvényesül. A tévedés forrása a kártérítési vagy büntetőjogi elkövetési időpont ráírása a hátrányos jogkövetkezményre."
+        },
+        {
+          "text": "A plafont emelő kikötés semmis, mert az 57. § (1) bekezdés e) pontja az 56. § (2) bekezdését a kollektív szerződés elől is elzárja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a vagyoni plafon abszolút kógens, kollektív szerződéssel sem emelhető. Az Mt. 57. § (1) bekezdés e) pontja az 56. § (2)–(5) bekezdését a felek megállapodása és a kollektív szerződés elől elzárja, így a plafon sem tágítható. A 27. § (1) bekezdése semmissé teszi a munkaviszonyra vonatkozó szabályba ütköző vagy azt megkerülő megállapodást; a plafont áttörő kikötés e körbe tartozik. A 27. § (3) bekezdése szerint a semmisségre határidő nélkül lehet hivatkozni, a bíróság hivatalból észleli."
+        },
+        {
+          "text": "A számítás alapja az alapbér a jogkövetkezmény megállapításakor irányadó összeg szerint; a távolléti díj vagy a teljes munkabér nem helyettesíti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a plafon mércéje szűk: alapbér és a megállapítás időpontja. Az Mt. 56. § (2) bekezdése szerint a vagyoni hátrány összességében nem haladhatja meg a munkavállaló — a jogkövetkezmény megállapításakor irányadó — egyhavi alapbére összegét. A számítás alapja az alapbér, nem a távolléti díj és nem a teljes munkabér; az irányadó időpont a megállapítás, nem a kötelezettségszegés elkövetése. Ugyanazon kötelezettségszegéshez fűzött díjazás- és juttatáscsökkentés együttesen sem lépheti túl az egyhavi alapbér plafonját."
+        },
+        {
+          "text": "A kollektív szerződés a munkavállaló javára emelheti a plafont, mert az 57. § (2) bekezdése in favorem laborem eltérést enged.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az 57. § (2) bekezdése az 55. § (1) bekezdésére vonatkozik, nem az 56. § (2) bekezdésének plafonjára. Az Mt. 57. § (1) bekezdés e) pontja az 56. § (2)–(5) bekezdését a kollektív szerződés elől is elzárja; a kógencia kétirányú. Az 57. § (2) bekezdése szerint kollektív szerződés az 55. § (1) bekezdésében foglaltaktól csak a munkavállaló javára térhet el — ez más joghely. A tévedés az in favorem szabály hatókörének kiterjesztéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "a81d5df5e9cb"
+    },
+    {
+      "question": "Ha a kollektív szerződés él a hátrányos jogkövetkezmény intézményével, miben tér el az 57. § (1) bekezdés e) pontjának kógenciája az 57. § (2) bekezdés in favorem szabályától?",
+      "options": [
+        {
+          "text": "Az 57. § (2) bekezdése az 55. § (1) bekezdésétől csak a munkavállaló javára enged kollektív szerződéses eltérést; ez nem az 56. § (2)–(5) bekezdésére vonatkozik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az in favorem szabály más joghelyre szól. Az Mt. 57. § (2) bekezdése szerint kollektív szerződés az 55. § (1) bekezdésében foglaltaktól csak a munkavállaló javára térhet el. Az 56. § (2)–(5) bekezdésének zárjait az (1) bekezdés e) pontja védi, nem a (2) bekezdés. A plafonemelés vagy a halmazati tilalom feloldása tehát nem vezethető le az in favorem fordulatból."
+        },
+        {
+          "text": "Ha a kollektív szerződés megteremti az intézményt, az 56. § (4) bekezdés halmazati tilalmát a munkavállaló javára feloldhatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a halmazati tilalom a (4) bekezdésben áll, és az e) pont miatt nem oldható fel. Az Mt. 56. § (4) bekezdése szerint hátrányos jogkövetkezmény nem állapítható meg olyan kötelezettségszegés miatt, amelyet a munkáltató a megszüntetés indokaként is megjelöl. Az 57. § (1) bekezdés e) pontja az 56. § (2)–(5) bekezdését a kollektív szerződés elől elzárja. A tévedés az intézmény választásának és a kógens zárak feloldásának összekeveréséből ered."
+        },
+        {
+          "text": "Az e) pont az 56. § (2)–(5) bekezdését abszolút zár alá vonja: a plafon, a hátrányfajta, a halmazati tilalom, valamint az írásbeliség és az indokolás enyhítése és szigorítása egyaránt tilos.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kógencia kétirányú, nem csak a munkavállaló védelmére szól. Az Mt. 57. § (1) bekezdés e) pontja szerint a felek megállapodása vagy kollektív szerződés az 56. § (2)–(5) bekezdésében foglaltaktól nem térhet el. Ide tartozik a vagyoni plafon, a 78. § (2) bekezdésének megfelelő alkalmazása, a (4) bekezdés halmazati tilalma, valamint az (5) bekezdés alaki-tartalmi kényszere. A munkavállaló terhére szigorítani és a munkáltató védelmére enyhíteni egyaránt tilos."
+        },
+        {
+          "text": "A kollektív szerződés a munkavállaló javára emelheti az egyhavi alapbér plafonját, mert az 57. § (2) bekezdése in favorem eltérést enged.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az 57. § (2) bekezdése nem az 56. § (2) bekezdésének plafonjára vonatkozik. Az Mt. 57. § (1) bekezdés e) pontja a vagyoni plafont is abszolút zár alá vonja. Az 57. § (2) bekezdése az 55. § (1) bekezdésétől enged in favorem eltérést. A tévedés abból ered, hogy az 55. § (1) bekezdésére szabott in favorem eltérést az 56. § plafonjára olvasják rá."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "0203795c21e0"
+    },
+    {
+      "question": "Az 56. § (1) bekezdése szerinti arányosság mit köt a hátrányos jogkövetkezménynél, és mit nem?",
+      "options": [
+        {
+          "text": "Ha a kötelezettségszegés súlyos, az arányosság feloldja a vagyoni plafont, és a hátrány az egyhavi alapbér fölé emelkedhet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kötelezettségszegés súlya nem emeli a kógens vagyoni plafont. Az Mt. 56. § (2) bekezdése a vagyoni hátrányt összességében a megállapításkor irányadó egyhavi alapbérhez köti. Az (1) bekezdés arányossága a hátrány megválasztását szabja, de a plafon fölé nem enged. A tévedés a súlyossági mérlegelés és a (2) bekezdés abszolút mértékzárjának felcseréléséből ered."
+        },
+        {
+          "text": "Hátrányos jogkövetkezmény csak akkor alkalmazható, ha a megszegett kötelezettség lényeges és a megszegés jelentős mértékű, mert az arányosság ezt kívánja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az 56. § ilyen külön súlyossági küszöböt nem állít a jogalaphoz. Az Mt. 56. § (1) bekezdése a munkaviszonyból származó kötelezettség vétkes megszegését és az arányos hátrányt kívánja meg. A „lényeges” és „jelentős” fordulat a megszüntetéshez kapcsolódó olvasatot idézi. A tévedés a megszüntetési és a viszonyt fenntartó szankció tényállásának összekeveréséből ered."
+        },
+        {
+          "text": "Az arányosság nem állít „lényeges” kötelezettségre vagy „jelentős” megszegésre vonatkozó külön jogalap-küszöböt, és a (2) bekezdés egyhavi alapbér plafonját sem emeli.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az arányosság nem pótolja és nem tágítja a kógens zárakat. Az Mt. 56. § (1) bekezdése a vétkes megszegést és az arányos hátrányt köti össze, „lényeges” vagy „jelentős” fordulat nélkül. Az 56. § (2) bekezdése a vagyoni hátrányt összességében a megállapításkor irányadó egyhavi alapbérhez köti. Az arányosság a plafon fölé nem enged, és a megszüntetési súlyossági mércét sem írja rá a jogalapra."
+        },
+        {
+          "text": "Az arányosság a választott hátrány súlyát köti a kötelezettségszegés súlyához; a szankció mértékének igazodnia kell a megszegés súlyához.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az arányosság az (1) bekezdés tényállási eleme a hátrány megválasztásánál. Az Mt. 56. § (1) bekezdése a kötelezettségszegés súlyával arányos hátrányos jogkövetkezményeket engedi. A szándékos és a gondatlan megszegés egyaránt kimerítheti a vétkességet, de a választott hátrány súlyát az arányosság szabja. Az arányosság tehát nem a jogalap belépési küszöbe, hanem a szankció mértékének mércéje."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "6745f0c3578b"
+    },
+    {
+      "question": "A munkáltató 51. § szerinti kötelezettségeinek és az 56. § viszonyáról mely megállapítások tévesek / nem állják meg a helyüket?",
+      "options": [
+        {
+          "text": "Ha a munkáltató megszegi az 51. §-t, a munkavállaló ugyanezen jogcímen hátrányos jogkövetkezményt állapíthat meg a munkáltatóval szemben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az 56. § a munkavállaló vétkes kötelezettségszegésének szankciója, nem fordított fegyelmi jog. Az Mt. 56. § (1) bekezdése a munkaviszonyból származó kötelezettség vétkes megszegése esetére a munkáltató által alkalmazható hátrányt engedi, ha van jogforrási alap. A helyes: a munkáltató 51. §-ba ütköző magatartása nem az 56. § szerinti szankció tárgya; a hátrányos jogkövetkezmény nem fordítható meg. A tévedés forrása a szimmetrikus szankciós modell feltételezése."
+        },
+        {
+          "text": "A munkáltató 51. §-ba ütköző magatartása az 56. § szerinti, a munkavállalóval szembeni hátrányos jogkövetkezmény tárgya lehet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hátrányos jogkövetkezmény nem fordítható meg a munkáltatóra. Az Mt. 57. § (1) bekezdés a) pontja az 51. § egészét a felek és a kollektív szerződés elől elzárja; az 51. § a munkáltató foglalkoztatási, költségtérítési, munkafeltételi és munkavédelmi kötelezettségeit rögzíti. A helyes: a munkáltató 51. §-ba ütköző magatartása nem az 56. § szerinti, a munkavállalóval szembeni szankció tárgya. A tévedés a kétoldalú kötelezettségek szankciós tükörképének feltételezéséből ered."
+        },
+        {
+          "text": "Az 52. § (3) bekezdésének tilalma a hátrányos jogkövetkezmény vagyoni plafonjába olvad, ezért külön nem vizsgálandó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az 52. § (3) bekezdése a vagyoni plafontól független, önálló kógens tilalom. Az Mt. 52. § (3) bekezdése tiltja a munkabér csökkentését arra tekintettel, hogy a munkavállaló a munkáltató előzetes hozzájárulásával az 52. § (2) bekezdése szerinti díjazásban részesült. Az 57. § (1) bekezdés b) pontja ezt a szabályt zárja. A helyes: a hozzájárulással kapott harmadik személyi díjazás nem válhat a munkabér elvonásának ürügyévé, és az 56. § (2) bekezdése szerinti vagyoni hátrány sem álcázhatja e tilalom kijátszását. A tévedés a két vagyoni korlát összecsúsztatásából ered."
+        },
+        {
+          "text": "Az 57. § (1) bekezdés a) pontja csak az 51. § (1) bekezdését zárja, a (2)–(5) bekezdés a felek megállapodásával eltérhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az eltérési tilalom nem áll meg az 51. § (1) bekezdésénél, hanem a teljes szakaszt lefedi. Az Mt. 57. § (1) bekezdés a) pontja szerint a felek megállapodása vagy kollektív szerződés az 51. §-ban foglaltaktól nem térhet el. Az 51. § (1) bekezdése a foglalkoztatási kötelezettséget, a (2) bekezdés a költségtérítést és a munkavégzési feltételeket, a (3)–(5) bekezdés az egészségi, biztonsági és ésszerű alkalmazkodási szabályokat rendezi. A helyes: az 51. § egésze abszolút zár alatt áll. A tévedés a tilalmi lista részleges olvasatából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "c06aa2a8a3dd"
+    },
+    {
+      "question": "Miben tér el az érvénytelen 56. §-os hátrányos intézkedés jogkövetkezménye a megszüntetésre irányuló jognyilatkozat érvénytelenségétől?",
+      "options": [
+        {
+          "text": "A 29. § (5) bekezdése a munkaviszony megszüntetésére irányuló jognyilatkozat érvénytelenségénél a 82–84. § megfelelő alkalmazását rendeli; ez nem az 56. §-os hátrányé.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (5) bekezdés a megszüntetésre irányuló jognyilatkozat érvénytelenségéhez kötött jogkövetkezményt ad. Az Mt. 29. § (5) bekezdése a megszüntetésre irányuló jognyilatkozat érvénytelenségénél hívja a 82–84. §-t. Az 56. § szerinti hátrány a munkaviszonyt fenntartja, ezért nem esik a megszüntetési érvénytelenség rendje alá. A két érvénytelenségi ág tehát elválik: a (4) bekezdés a hátránynál, az (5) bekezdés a megszüntetésnél."
+        },
+        {
+          "text": "Az érvénytelen 56. §-os intézkedésnél mindig a 29. § (5) bekezdése szerinti 82–84. §-os megszüntetési jogkövetkezményeket kell alkalmazni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 29. § (5) bekezdése nem az 56. §-os hátrányra szól. Az Mt. 29. § (4) bekezdése az érvénytelen egyoldalú jognyilatkozattól a joghatást elvonja; ez a hátrányos intézkedés megfelelő következménye. A 82–84. § megfelelő alkalmazását a 29. § (5) bekezdése a megszüntetésre irányuló jognyilatkozathoz köti. A tévedés a két érvénytelenségi ág összekeveréséből ered."
+        },
+        {
+          "text": "Ha az intézkedés csak az (5) bekezdés indokolásába ütközik, a 15. § (4) bekezdése szerinti hatályos közlés automatikusan orvosolja az érvénytelenséget.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatályos közlés nem pótolja a hiányzó indokolást, és nem orvosolja az érvénytelenséget. Az Mt. 56. § (5) bekezdése szerint a hátrányos jogkövetkezménnyel járó intézkedést írásba kell foglalni és indokolni kell. Az érvénytelen egyoldalú jognyilatkozatból a 29. § (4) bekezdése szerint jogok és kötelezettségek nem származnak. A tévedés a 15. § (4) bekezdése szerinti hatályosság és az (5) bekezdés tartalmi kényszerének felcseréléséből ered."
+        },
+        {
+          "text": "Az 56. §-os hátránynál a 29. § (4) bekezdése az érvénytelen egyoldalú jognyilatkozattól a joghatást elvonja: a munkaviszony feltételei nem módosulnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hátrányos intézkedés oldalon a joghatás-nélküliség a megfelelő következmény. Az Mt. 29. § (4) bekezdése szerint az érvénytelen egyoldalú jognyilatkozatból jogok és kötelezettségek nem származnak. Ha a hátrány a (2) bekezdés ismérveibe vagy az (5) bekezdés alaki-tartalmi kényszerébe ütközik, a munkaviszony feltételei nem módosulnak. Ez nem a megszüntetési jogkövetkezmények rendje."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "72d90098ab92"
+    },
+    {
+      "question": "Díjazáscsökkentés és juttatáscsökkentés ugyanazon kötelezettségszegésért. Milyen tartamban és mértékben maradhat jogszerű a vagyoni hátrány?",
+      "options": [
+        {
+          "text": "A díjazás végleges megvonása megengedett, ha az összeg az egyhavi alapbér plafonja alatt marad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a végleges megvonás a határozott idejű módosítás követelményébe ütközik, a plafon alatti összeg sem menti. Az Mt. 56. § (2) bekezdése értelmében a hátránynak a munkaviszony feltételeit határozott időre kell módosítania. A díjazás állandó, a viszony tartamára szóló megvonása a fordulatba nem fér. A tévedés forrása a vagyoni plafon és a határozott idejű jelleg feltételének felcserélése."
+        },
+        {
+          "text": "Ha mindkét vagyoni elem külön-külön az egyhavi alapbér alatt marad, a plafon nem sérül akkor sem, ha együttesen meghaladják azt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a plafon összességében érvényesül, nem elemenként. Az Mt. 56. § (2) bekezdése szerint a vagyoni hátrányt megállapító jogkövetkezmény összességében nem haladhatja meg az egyhavi alapbért. A díjazás- és juttatáscsökkentés együtt számít ugyanazon kötelezettségszegésnél. A tévedés az elemenkénti olvasatból ered."
+        },
+        {
+          "text": "A több vagyoni elem együttesen sem lépheti túl a megállapításkor irányadó egyhavi alapbér plafonját, és a módosítás csak határozott időre szólhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a plafon összességében érvényesül, a határozott idejű jelleg pedig önálló ismérv. Az Mt. 56. § (2) bekezdése szerint a hátránynak a munkaviszony feltételeit határozott időre kell módosítania, és a vagyoni hátrány összességében nem haladhatja meg a megállapításkor irányadó egyhavi alapbért. Ugyanazon kötelezettségszegéshez fűzött díjazás- és juttatáscsökkentés együtt számít. A végleges megvonás a határozott idejű fordulatba nem fér."
+        },
+        {
+          "text": "A plafon mércéje az alapbér; a távolléti díj alapulvétele a (2) bekezdés szövegébe nem illeszkedik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a törvény az alapbért nevezi meg, nem a távolléti díjat. Az Mt. 56. § (2) bekezdése a munkavállaló egyhavi alapbére összegét rögzíti plafonként. A számítás alapja az alapbér, nem a távolléti díj és nem a teljes munkabér. Az irányadó időpont a jogkövetkezmény megállapítása."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "4b07a1cf75d6"
+    },
+    {
+      "question": "Miben tér el a 17. § szerinti munkáltatói szabályzat szerepe az 56. § (1) bekezdésének jogforrási rendjétől?",
+      "options": [
+        {
+          "text": "A munkáltatói szabályzat a 13. § szerint munkaviszonyra vonatkozó szabály, ezért ugyanolyan jogforrás, mint a kollektív szerződés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 13. § a kollektív szerződést emeli munkaviszonyra vonatkozó szabállyá, nem a belső szabályzatot az 56. § jogforrásává. Az Mt. 13. § a kollektív szerződést, a jogszabályt, az üzemi megállapodást és az egyeztető bizottság 293. § szerinti kötelező határozatát sorolja. Az 56. § (1) bekezdése a szankció megállapítására külön, zárt jogforrási sorrendet ad. A tévedés forrása a munkaviszonyra vonatkozó szabály tág fogalmának ráírása az 56. § szűk jogforrási rendjére."
+        },
+        {
+          "text": "Ha a munkáltatói szabályzat felsorolja a hátrányokat, az 56. § (1) bekezdése szerinti katalógus követelménye teljesül kollektív szerződés nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szabályzat önállóan nem pótolja az 56. § (1) bekezdése szerinti katalógust. Az Mt. 56. § (1) bekezdése a kollektív szerződést, kisegítő esetben a munkaszerződést nevezi meg. A 17. § szerinti munkáltatói szabályzat a 15–16. § jognyilatkozatainak közlési formája lehet, de a katalógust nem helyettesíti. A hiba forrása, hogy a közlés technikáját a szankció jogalapjával azonosítják."
+        },
+        {
+          "text": "A 17. § a munkáltató 15–16. § szerinti jognyilatkozatainak közlési formáját engedi belső szabályzatban vagy egyoldalú gyakorlatban; ez nem az 56. § (1) bekezdésének jogforrási helyettesítője.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szabályzat a közlés módja, nem a szankciós katalógus forrása. Az Mt. 17. § (1) bekezdése a munkáltató 15–16. § szerinti jognyilatkozatait belső szabályzatban vagy egyoldalú gyakorlatban is megengedi. Az 56. § (1) bekezdése a kollektív szerződést és kisegítő esetben a munkaszerződést nevezi meg. A 17. § tehát nem pótolja a hallgató kollektív szerződést vagy munkaszerződést."
+        },
+        {
+          "text": "Az 56. § (1) bekezdése a katalógust a kollektív szerződéshez, kisegítő esetben a munkaszerződéshez köti; a 17. § szerinti szabályzat e felsorolásban nem szerepel jogforrásként.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szabályzat nincs az 56. § (1) bekezdésének jogforrási listáján. Az Mt. 56. § (1) bekezdése a kollektív szerződést és — ha a munkáltató vagy a munkavállaló nem áll kollektív szerződés hatálya alatt — a munkaszerződést nevezi meg. A 17. § (1) bekezdése a munkáltató 15–16. § szerinti jognyilatkozatainak közlését engedi belső szabályzatban. A közlési forma tehát nem pótolja a hiányzó szankciós jogforrást."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "23661d1a17fa"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható a hátrányos jogkövetkezmény pusztán azért, mert hiányzik a jogforrási alap?",
+      "options": [
+        {
+          "text": "Ha a kollektív szerződés és — az (1) bekezdés szerinti kisegítő esetben — a munkaszerződés hallgat, 56. §-os szankció nincs.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a „állapíthat meg” fordulat fakultatív: hallgatás esetén e címen szankció nincs. Az Mt. 56. § (1) bekezdése a kollektív szerződéshez, kisegítő esetben a munkaszerződéshez köti a hátrány megállapítását. A 15. § (1) bekezdése az egyoldalú jognyilatkozat joghatását ahhoz köti, hogy munkaviszonyra vonatkozó szabály az esetet meghatározza. Intézmény hiányában a munkáltató e címen nem szankcionálhat."
+        },
+        {
+          "text": "A munkaviszonyból származó kötelezettség vétkes megszegése önmagában, katalógus nélkül is megnyitja az 56. § alkalmazását.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a vétkes megszegés szükséges, de nem elégséges a szankcióhoz; előzetes megállapítás is kell. Az Mt. 56. § (1) bekezdése szerint kollektív szerződés vagy — kisegítő esetben — munkaszerződés állapíthat meg hátrányos jogkövetkezményeket. Ha a kollektív szerződés és a kisegítő munkaszerződés hallgat, e címen a munkáltató nem alkalmazhat hátrányos jogkövetkezményt. A tévedés a tényállási elem és a jogforrási feltétel összecsúsztatásából ered."
+        },
+        {
+          "text": "A kötelezettség forrása a munkaszerződés és a 13. § szerinti munkaviszonyra vonatkozó szabály; ez azonban önmagában nem pótolja az 56. § szerinti szankciós megállapítást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a megszegett kötelezettség léte és a szankció előzetes megállapítása két külön kérdés. Az Mt. 13. § a kollektív szerződést, a jogszabályt, az üzemi megállapodást és az egyeztető bizottság kötelező határozatát emeli munkaviszonyra vonatkozó szabállyá. Az 56. § (1) bekezdése a hátrányos jogkövetkezményt külön, előzetes megállapításhoz köti. A kötelezettség megszegése tehát önmagában nem vált ki 56. § szerinti hátrányos jogkövetkezményt."
+        },
+        {
+          "text": "Az üzemi megállapodás a 13. § alapján pótolhatja a kollektív szerződéses katalógust az 56. § alkalmazásához.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az 56. § (1) bekezdése a szankció megállapítására a kollektív szerződést és kisegítő esetben a munkaszerződést nevezi meg, az üzemi megállapodást nem. Az Mt. 13. § az üzemi megállapodást munkaviszonyra vonatkozó szabállyá teszi a kötelezettségek forrásaként, de az 56. § jogforrási sorrendje szűkebb. A tévedés forrása a 13. § tág listájának ráírása az 56. § zárt katalógus-jogforrására."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "5d088ee9df1c"
+    },
+    {
+      "question": "A munkáltató azonnali hatályú felmondással megszünteti a munkaviszonyt, és ugyanarra a magatartásra 56. § szerinti hátrányt is kiszab. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A tilalom csak akkor él, ha a felmondás és a hátrány ugyanabban az iratban szerepel; külön iratokban mindkettő alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalom az azonosított magatartáshoz és a megszüntetés indokához kötődik, nem az iratok számához. Az Mt. 56. § (4) bekezdése azt a kötelezettségszegést zárja ki, amelyet a munkáltató a megszüntetés indokaként is megjelöl. A külön iratba foglalás nem oldja fel a kumulálási tilalmat. A tévedés forrása az alaki szétválasztás és az anyagi jogi tilalom összecsúsztatása."
+        },
+        {
+          "text": "A két jogcím elválasztott szankciós sík: az 56. § viszonyt fenntartó hátrány, a megszüntetés nem annak súlyosabb foka ugyanazon eljárásban.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hátrány nem a megszüntetés enyhébb változata. Az Mt. 56. § (1) bekezdése a viszonyt fenntartó, arányos hátrányhoz a vétkes megszegést köti; a szankció nem a munkaviszony megszüntetése. Az 56. § (3) bekezdése csak a 78. § (2) bekezdésének megfelelő alkalmazását rendeli, a 78. § (1) bekezdésének megszüntetési okát nem. A (4) bekezdés a kettő együttes indokként való használatát ugyanazon kötelezettségszegésnél eltiltja."
+        },
+        {
+          "text": "A (4) bekezdés miatt a hátrányos jogkövetkezmény e kötelezettségszegés miatt nem állapítható meg, ha a megszüntetés indoka ugyanaz a magatartás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kumulálás tilos: a megszüntetés indokaként megjelölt kötelezettségszegés kiesik a hátrány alól. Az Mt. 56. § (4) bekezdése kimondja, hogy hátrányos jogkövetkezmény nem állapítható meg olyan kötelezettségszegés miatt, amelyet a munkáltató a munkaviszony megszüntetésének indokaként is megjelöl. A tilalom a megszüntetés minden indokolást hordozó alakzatára kiterjed, így az azonnali hatályú felmondásra is. A munkáltató választ, ugyanarra a magatartásra mindkét jogcímet nem használhatja."
+        },
+        {
+          "text": "Az azonnali hatályú felmondás mellett az 56. §-os hátrány is jogszerű, ha a vagyoni plafon alatt marad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a vagyoni plafon nem oldja fel a halmazati tilalmat. Az Mt. 56. § (4) bekezdése a megszüntetés indokaként megjelölt kötelezettségszegésnél a hátrányt kizárja. A (2) bekezdés plafonja a hátrány tartalmát korlátozza, ha a jogcím egyáltalán megnyílik. A tévedés a tartalmi korlát és a jogcímválasztási tilalom összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "ae1e124cf381"
+    },
+    {
+      "question": "Milyen kapcsolatban áll a 27. § semmisségi szabálya az 56. § (2)–(5) bekezdésének kógens zárjaival?",
+      "options": [
+        {
+          "text": "A semmisségre csak három éven belül lehet hivatkozni, mert a munkajogi igények általános elévülése ezt szabja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 27. § (3) bekezdése szerint a semmisségre az érdekelt határidő nélkül hivatkozhat. Az Mt. 27. § (3) bekezdése a semmisségre határidő nélküli hivatkozást enged, és a bíróság hivatalból észleli. Az általános elévülési szabály erre a semmisségi hivatkozásra nem szűkít. A tévedés a követelések elévülésének ráírása a semmisségi hivatkozásra."
+        },
+        {
+          "text": "Az 56. § (2)–(5) bekezdésébe ütköző kollektív szerződéses vagy munkaszerződéses kikötés — például plafontúllépés, határozatlan idejű módosítás, méltóságot sértő szankció — a 27. § (1) bekezdése szerint semmis.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kógens zárat áttörő megállapodás semmisségi tényállás alá esik. Az Mt. 27. § (1) bekezdése semmissé teszi a munkaviszonyra vonatkozó szabályba ütköző, azt megkerülő vagy nyilvánvalóan a jóerkölcsbe ütköző megállapodást. A plafont túllépő vagyoni hátrány, a határozatlan idejű módosítás, a méltóságot sértő szankció, a halmazati tilalom feloldása, az írásbeliség vagy az indokolás elengedése e körbe tartozik. A 27. § (3) bekezdése szerint a semmisségre határidő nélkül lehet hivatkozni."
+        },
+        {
+          "text": "Ha a megállapodásnak csak egy része érvénytelen, a 29. § (3) bekezdése szerint helyette a munkaviszonyra vonatkozó szabályt kell alkalmazni, kivéve, ha a felek az érvénytelen rész nélkül nem állapodtak volna meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a részleges érvénytelenség főszabályként a törvényi szabályt helyettesíti be. Az Mt. 29. § (3) bekezdése ezt a helyettesítő mechanizmust rögzíti. A 27. § (3) bekezdése szerint a semmis megállapodás érvénytelen, kivéve, ha a rendelkezést megállapító munkaviszonyra vonatkozó szabály más jogkövetkezményt fűz hozzá. A kógens zár tehát nemcsak tilt, hanem a semmisségen keresztül is érvényesül."
+        },
+        {
+          "text": "A méltóságot sértő szankció csak akkor semmis, ha egyben a vagyoni plafont is túllépi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a méltóságzár önálló, abszolút tilalom a vagyoni plafontól függetlenül. Az Mt. 56. § (2) bekezdése értelmében a hátrány nem sértheti a munkavállaló személyiségi jogát és emberi méltóságát. Az ilyen kikötés a 27. § (1) bekezdése szerint semmis akkor is, ha vagyoni kihatása a plafon alatt maradna. A tévedés forrása a két ismérv konjunktív félreértése."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "8643f491b620"
+    },
+    {
+      "question": "Az 52. § (4) bekezdése szerinti díjazás-fogalom hogyan kapcsolódik az 52. § (2) és (3) bekezdéséhez?",
+      "options": [
+        {
+          "text": "A (4) bekezdés a díjazást minden, a munkáltatót megillető szolgáltatáson felül nyújtott vagyoni értékű szolgáltatásként határozza meg; ez adja a (2)–(3) bekezdés tárgyát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (4) bekezdés fogalmi keretet ad a tilalmaknak. Az Mt. 52. § (4) bekezdése a díjazást minden, a munkáltatót megillető szolgáltatáson felül nyújtott vagyoni értékű szolgáltatásként határozza meg. Az 52. § (2) bekezdése a munkáltató előzetes hozzájárulása nélküli, a munkaviszonyban végzett tevékenységre tekintettel kapott ilyen díjazást tiltja. A (3) bekezdés a hozzájárulással kapott díjazás miatti munkabér-csökkentést zárja."
+        },
+        {
+          "text": "A (4) bekezdés szerinti díjazás csak pénzbeli juttatás lehet; természetbeni vagyoni értékű szolgáltatás kiesik a (2)–(3) bekezdés alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a díjazás fogalma nem szűkül pénzbeli juttatásra. Az Mt. 52. § (4) bekezdése vagyoni értékű szolgáltatásként határozza meg a díjazást, a munkáltatót megillető szolgáltatáson felül. A (2) és (3) bekezdés e fogalmi keretre épül, ezért a természetbeni vagyoni értékű szolgáltatás is a körbe tartozhat. A tévedés a díjazás indokolatlan pénzbeli szűkítéséből ered."
+        },
+        {
+          "text": "Az 57. § (1) bekezdés b) pontja csak az 52. § (3) bekezdését zárja; az (1)–(2) és (4) bekezdés nincs ugyanezen a tilalmi listán.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kógens zár szűk: csak a (3) bekezdés áll az 57. § (1) bekezdés b) pontján. Az Mt. 57. § (1) bekezdés b) pontja szerint a felek megállapodása vagy kollektív szerződés az 52. § (3) bekezdésében foglaltaktól nem térhet el. Az 52. § (1)–(2) és (4) bekezdése nincs e listán. A (2) bekezdés tilalma és a (4) bekezdés fogalma tehát más eltérési rendben áll, mint a (3) bekezdés kógens bérvédelmi zárja."
+        },
+        {
+          "text": "Az 57. § (1) bekezdés b) pontja az 52. § egészét zárja, ezért a (2) és (4) bekezdés is eltérhetetlen.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a b) pont csak az 52. § (3) bekezdését zárja. Az Mt. 57. § (1) bekezdés b) pontja az 52. § (3) bekezdésében foglaltaktól tiltja az eltérést. Az (1)–(2) és (4) bekezdés nincs ugyanezen a listán. A tévedés a tilalmi lista hatókörének kiterjesztéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "1c44e0a9c1d5"
+    },
+    {
+      "question": "Mi következik abból, ha a munkáltató vagy a munkavállaló közül csak az egyik áll kollektív szerződés hatálya alatt?",
+      "options": [
+        {
+          "text": "A (2)–(5) bekezdés kógens zárjai a munkaszerződéses megállapításra is vonatkoznak; a jogcím megnyílása nem oldja fel a plafont, a méltóságzárat vagy az írásbeliséget.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kisegítő jogcím csak a megállapítás forrását nyitja meg, a tartalmi-eljárási korlátokat nem. Az Mt. 57. § (1) bekezdés e) pontja az 56. § (2)–(5) bekezdését a felek megállapodása elől is elzárja. A munkaszerződés sem emelheti a plafont, sem oldhatja fel a halmazati tilalmat, sem mellőzheti az indokolást. A fakultatív (1) bekezdés és a kógens (2)–(5) bekezdés így együtt érvényesül."
+        },
+        {
+          "text": "Vegyes hatályhelyzetben a kollektív szerződés és a munkaszerződés együttesen tágíthatja a (2) bekezdés plafonját.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a plafon a jogcím megnyílásától függetlenül abszolút kógens. Az Mt. 57. § (1) bekezdés e) pontja az 56. § (2)–(5) bekezdését a felek megállapodása és a kollektív szerződés elől elzárja. Az egyhavi alapbér plafonja sem együttesen, sem külön-külön nem emelhető. A tévedés forrása a jogforrási kisegítés és a kógens tartalmi zár összekeverése."
+        },
+        {
+          "text": "Ha csak a munkavállaló áll kollektív szerződés hatálya alatt, a munkaszerződéses út továbbra is zárva marad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, elegendő, ha a munkáltató nem áll kollektív szerződés hatálya alatt; a „vagy” fordulat ezt is lefedi. Az Mt. 56. § (1) bekezdése a munkáltató vagy a munkavállaló hatályon kívüliségét kívánja. A kisegítő munkaszerződéses jogcím tehát akkor is megnyílhat, ha csak az egyik fél esik ki. A tévedés a „mindkét fél” követelményének ráírásából ered."
+        },
+        {
+          "text": "Megnyílik a kisegítő munkaszerződéses jogcím: a munkaszerződés megállapíthat hátrányos jogkövetkezményt, mert legalább az egyik fél nem áll kollektív szerződés hatálya alatt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a „vagy” fordulat a legalább egyik fél kiesését kívánja. Az Mt. 56. § (1) bekezdése értelmében a munkaszerződés akkor állapíthat meg hátrányos jogkövetkezményt, ha a munkáltató vagy a munkavállaló nem áll kollektív szerződés hatálya alatt. Amikor a munkáltató és a munkavállaló egyaránt kollektív szerződés hatálya alatt áll, a munkaszerződés 56. §-os jogcímet nem nyithat. A kisegítő jogcím tehát a vegyes hatályhelyzetben nyílik meg."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "c4c9251a114d"
+    },
+    {
+      "question": "Összefüggés: hogyan kapcsolódik a 15. § (1) bekezdése ahhoz, hogy a munkáltató intézmény hiányában nem szankcionálhat 56. § címen?",
+      "options": [
+        {
+          "text": "A 15. § (1) bekezdése csak a munkaszerződés módosítására vonatkozik, a hátrányos jogkövetkezményre nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 15. § (1) bekezdése az egyoldalú jognyilatkozatokra általában áll, és a hátrányt megállapító intézkedés is ebbe a körbe tartozik. Az Mt. 15. § (1) bekezdése az egyoldalú jognyilatkozat joghatását ahhoz köti, hogy munkaviszonyra vonatkozó szabály kifejezetten lehetővé tegye a jogok vagy kötelezettségek keletkezését. Az 56. §-os hátrány egyoldalú intézkedésként e fordulat alá esik. A tévedés a 15. § hatókörének indokolatlan leszűkítéséből ered a szerződésmódosításra."
+        },
+        {
+          "text": "A 15. § (1) bekezdése szerinti munkaviszonyra vonatkozó szabály e körben az 56. § (1) bekezdése szerinti kollektív szerződés — kisegítő esetben a munkaszerződés —; ezek hiányában az egyoldalú intézkedés 56. § címen jogot nem keletkeztet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 15. § (1) bekezdése a szankcióhoz előzetes jogforrási alapot kíván. Az Mt. 15. § (1) bekezdése szerint egyoldalú jognyilatkozatból csak munkaviszonyra vonatkozó szabályban meghatározott esetben származhatnak jogok vagy kötelezettségek. Az 56. § (1) bekezdése a hátrány megállapítását a kollektív szerződéshez, kisegítő esetben a munkaszerződéshez köti. Ha mindkettő hallgat, a munkáltató egyoldalú intézkedése e címen nem keletkeztet kötelezettséget."
+        },
+        {
+          "text": "Intézmény hiányában a munkáltató a 52. § (1) bekezdésére hivatkozva is alkalmazhat 56. § szerinti hátrányt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az 52. § (1) bekezdése a teljesítési kötelezettségeket sorolja, de nem pótolja a szankciós katalógust. Az Mt. 56. § (1) bekezdése a hátrány megállapítását a kollektív szerződéshez vagy kisegítő munkaszerződéshez köti. Az 52. § (1) bekezdése szerinti kötelezettségek vétkes megszegése a tipikus tárgy, nem a jogforrás. A tévedés forrása a kötelezettséglistának a szankcióalapként való kezelése."
+        },
+        {
+          "text": "Egyoldalú jognyilatkozatból csak munkaviszonyra vonatkozó szabályban meghatározott esetben származhatnak jogok vagy kötelezettségek; az 56. § intézménye nélkül e címen nincs ilyen eset.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szankcióhoz előzetes jogforrási alap kell, különben az egyoldalú intézkedés jogot nem keletkeztet. Az Mt. 15. § (1) bekezdése az egyoldalú jognyilatkozat joghatását munkaviszonyra vonatkozó szabályban meghatározott esethez köti. Az 56. § (1) bekezdése a hátrányos jogkövetkezményt a kollektív szerződéshez vagy kisegítő munkaszerződéshez kapcsolja. Ha ezek hiányoznak, a munkáltató e címen nem állapíthat meg hátrányt."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "81664df1ab01"
+    },
+    {
+      "question": "A kollektív szerződés hátrányos jogkövetkezmény-katalógusának csak a méltóságot sértő kikötése érvénytelen. Mi a jogkövetkezmény?",
+      "options": [
+        {
+          "text": "A személyiségi jog és az emberi méltóság sérelme abszolút tilalom: a nyilvános megszégyenítés a (2) bekezdésbe ütközik akkor is, ha vagyoni kihatása nincs.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a méltóságzár önálló ismérv, nem a vagyoni plafon függvénye. Az Mt. 56. § (2) bekezdése szerint a hátrány a munkavállaló személyiségi jogát és emberi méltóságát nem sértheti. Az 57. § (1) bekezdés e) pontja e korlátot a kollektív szerződés elől is elzárja. A semmis kikötés ezért nem „menthető” azzal, hogy vagyoni teher nem jár vele."
+        },
+        {
+          "text": "A méltóságot sértő kikötés érvényes marad, ha a kollektív szerződés a katalógus többi elemét is ehhez a kikötéshez kötötte, mert a felek akarata mindent fenntart.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felek akarata nem törheti át a kógens méltóságzárat, és a 29. § (3) bekezdése kivétele nem a semmisség orvoslása. Az Mt. 56. § (2) bekezdése a méltóság védelmét abszolút tilalomként rögzíti. A 27. § (1) bekezdése a szabályba ütköző megállapodást semmissé teszi. A 29. § (3) bekezdése szerinti kivétel azt jelenti, hogy az egész megállapodás eleshet, nem azt, hogy a méltóságot sértő rész érvényesül."
+        },
+        {
+          "text": "A részleges érvénytelenségnél mindig a 29. § (5) bekezdése szerinti 82–84. §-os megszüntetési jogkövetkezményeket kell alkalmazni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 29. § (5) bekezdése a megszüntetésre irányuló jognyilatkozat érvénytelenségére szól. Az Mt. 29. § (3) bekezdése a megállapodás részleges érvénytelenségénél a munkaviszonyra vonatkozó szabály helyettesítő alkalmazását rendeli. A 29. § (5) bekezdése a 82–84. § megfelelő alkalmazását a megszüntető oldalhoz köti. A tévedés a megállapodás és a megszüntető jognyilatkozat érvénytelenségi jogkövetkezményének összekeveréséből ered."
+        },
+        {
+          "text": "A 29. § (3) bekezdése szerint, ha a megállapodásnak csak egy része érvénytelen, helyette a munkaviszonyra vonatkozó szabályt kell alkalmazni, kivéve, ha a felek az érvénytelen rész nélkül nem állapodtak volna meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a részleges érvénytelenségnél a törvényi szabály lép a semmis kikötés helyébe, ha a felek az érvénytelen rész nélkül is megállapodtak volna. Az Mt. 29. § (3) bekezdése a megállapodás érvénytelen része helyett a munkaviszonyra vonatkozó szabály alkalmazását rendeli, a kivétel kivételével. A méltóságot sértő kikötés a 27. § (1) bekezdése szerint semmis, mert a munkaviszonyra vonatkozó szabályba — az 56. § (2) bekezdés méltóságzárjába — ütközik. A katalógus többi, érvényes része a kivétel hiányában fennmaradhat."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "fc144af432b6"
+    },
+    {
+      "question": "Gyakorlat: a munkáltató a kötelezettségszegés elkövetésekor irányadó alapbér másfélszeresét szabja ki vagyoni hátrányként. Mi a helyes megítélés?",
+      "options": [
+        {
+          "text": "A másfélszeres mérték jogszerű, ha a kötelezettségszegés szándékos és súlyos.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szándékosság és a súlyosság nem emeli a vagyoni plafont. Az Mt. 56. § (2) bekezdése az egyhavi alapbér összességében érvényesülő plafonját rögzíti. Az arányosság az (1) bekezdés szerint a hátrány megválasztását köti, de a plafon fölé nem enged. A tévedés az arányosság és a kógens plafon felcseréléséből ered."
+        },
+        {
+          "text": "Az irányadó időpont a megállapítás; az elkövetéskori alapbér önmagában nem a törvényi mérce.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a törvény a megállapításkor irányadó alapbért nevezi meg. Az Mt. 56. § (2) bekezdése a „jogkövetkezmény megállapításakor irányadó” fordulatot használja. A számítás alapja az alapbér, nem a távolléti díj. Az elkövetés és a megállapítás közötti bérváltozás ezért a plafon számításánál a megállapítás napjához igazodik."
+        },
+        {
+          "text": "Ha a megállapításkori alapbér magasabb az elkövetéskorinál, a másfélszeres az elkövetéskori bérhez képest még a plafon alatt maradhat, és ezért jogszerű.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mérce mindig a megállapításkor irányadó egyhavi alapbér, nem az elkövetéskori összeg másfélszerese. Az Mt. 56. § (2) bekezdése a megállapításkor irányadó alapbért rögzíti plafonként. A másfélszeres mérték ehhez képest túllépés. A tévedés forrása az elkövetési időpontú számítás ráírása."
+        },
+        {
+          "text": "A mérték a plafonba ütközik, mert a vagyoni hátrány összességében nem haladhatja meg a megállapításkor irányadó egyhavi alapbért.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a másfélszeres összeg az egyhavi alapbér plafonját túllépi. Az Mt. 56. § (2) bekezdése szerint a vagyoni hátrányt megállapító jogkövetkezmény összességében nem haladhatja meg a munkavállaló — a jogkövetkezmény megállapításakor irányadó — egyhavi alapbére összegét. A plafont a kollektív szerződés és a munkaszerződés az 57. § (1) bekezdés e) pontja miatt nem emelheti. A 27. § (1) bekezdése szerinti semmisség a plafont áttörő kikötésre is kiterjed."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "76aa7730c98d"
+    },
+    {
+      "question": "Miben tér el a hátrányos jogkövetkezmény a munkaviszony megszüntetésétől és a kártérítéstől?",
+      "options": [
+        {
+          "text": "Az 56. § a viszonyt fenntartó, a kötelezettségszegés súlyával arányos, határozott időre szóló hátrányt enged; nem a munkaviszony megszüntetését és nem a kártérítést pótolja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hátrányos jogkövetkezmény önálló szankciós sík. Az Mt. 56. § (1)–(2) bekezdése a munkaviszony feltételeit határozott időre módosító, arányos hátrányt engedi. A megszüntetés más jogcím; a (4) bekezdés ugyanazon kötelezettségszegésnél a kettő együttes indokként való használatát megtiltja. A kártérítés a kárfelelősség szabályai alá esik, nem az 56. § katalógusába."
+        },
+        {
+          "text": "A hátrányos jogkövetkezmény a kártérítés különös alakzata, ezért a kár bekövetkezése a jogalap feltétele.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az 56. § nem kárbekövetkezéshez, hanem vétkes kötelezettségszegéshez és előzetes megállapításhoz kötött. Az Mt. 56. § (1) bekezdése a munkaviszonyból származó kötelezettség vétkes megszegése esetére engedi a hátrányt. A (2) bekezdés a munkaviszony feltételeinek határozott idejű módosítását engedi, nem a kár megtérítését. A tévedés a kárfelelősség és a viszonyt fenntartó szankció összekeveréséből ered."
+        },
+        {
+          "text": "A hátrányos jogkövetkezmény mindig a megszüntetés előtti kötelező fokozat; megszüntetés csak utána lehetséges.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két jogcím nem kötelező fokozatosságban áll. Az Mt. 56. § (4) bekezdése a kumulálást tiltja, de nem ír elő megelőző 56. §-os szankciót a megszüntetéshez. A munkáltató választ: vagy hátrányt alkalmaz — ha van jogforrási alap —, vagy megszüntet. A tévedés forrása a fegyelmi fokozatosság feltételezése."
+        },
+        {
+          "text": "A szankció hiányában a munkáltató e címen nem szankcionálhat; a fakultatív jelleg azt jelenti, hogy a katalógus megteremtése nem kötelező.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. nem ex lege fegyelmi katalógust ad, hanem fakultatív tartalmat enged. Az Mt. 56. § (1) bekezdése „állapíthat meg” fordulata választást ad a kollektív szerződésnek, kisegítő esetben a munkaszerződésnek. Ha a kollektív szerződés és a kisegítő munkaszerződés nem tartalmazza a hátrányt, e címen a munkáltató nem szankcionálhat. A megszüntetés és a kártérítés ettől független jogcímek maradhatnak."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "d467e6cbc402"
+    },
+    {
+      "question": "Az 57. § (1) bekezdés c) és d) pontja mely szabályokat zárja, és miért releváns ez a hátrányos jogkövetkezmény szempontjából?",
+      "options": [
+        {
+          "text": "A c) pont az 53. § (3)–(4) bekezdését, a d) pont az 54. § (1) bekezdését vonja abszolút zár alá; a hátrányos jogkövetkezmény szempontjából a döntő mégis az e) pont.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a VIII. fejezet eltérési rendje több szakaszt zár, de az 56. §-nál az e) pont a kulcs. Az Mt. 57. § (1) bekezdés c) pontja az 53. § (3)–(4) bekezdését, a d) pont az 54. § (1) bekezdését zárja. Az e) pont az 56. § (2)–(5) bekezdésének tartalmi, eljárási és halmazati zárjait védi a megállapodásos eltéréstől. A hátrány tartalmi, eljárási és halmazati korlátai tehát ugyanezen abszolút zár logikája alá esnek."
+        },
+        {
+          "text": "Az (1) bekezdés a felek megállapodását és a kollektív szerződést ugyanazon tilalmi listához köti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalmi lista a felekre és a kollektív szerződésre egyaránt áll. Az Mt. 57. § (1) bekezdése a felek megállapodását vagy kollektív szerződést ugyanazon pontokhoz köti. Az e) pontnál ez azt jelenti, hogy sem a munkaszerződés, sem a kollektív szerződés nem tágíthatja a (2) bekezdés hátrányfajtáját. A (2) bekezdés ettől elválasztott, egyoldalú in favorem szabály az 55. § (1) bekezdésére."
+        },
+        {
+          "text": "Az 57. § (1) bekezdése csak a kollektív szerződést köti; a felek megállapodása az 56. § (2)–(5) bekezdésétől eltérhet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tilalmi lista a felek megállapodására és a kollektív szerződésre egyaránt vonatkozik. Az Mt. 57. § (1) bekezdése mindkét jogforrást ugyanazon pontokhoz köti, az e) pontnál is. A munkaszerződés sem oldhatja fel a plafont, a halmazati tilalmat vagy az írásbeliséget. A tévedés forrása a tilalom alanyi hatályának leszűkítése."
+        },
+        {
+          "text": "A hátrányos jogkövetkezmény szempontjából a c) pont a döntő, mert az 53. § a szankció jogalapja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szankció jogalapja az 56. §, nem az 53. §; a döntő az e) pont. Az Mt. 57. § (1) bekezdés e) pontja az 56. § (2)–(5) bekezdését zárja. A c) pont az 53. § (3)–(4) bekezdését vonja abszolút zár alá, más tárgykörben. A tévedés a tilalmi lista pontjainak felcseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "334b4588538e"
+    },
+    {
+      "question": "Kivétel: mikor nem állapítható meg hátrányos jogkövetkezmény annak ellenére, hogy a munkavállaló vétkesen megszegte kötelezettségét?",
+      "options": [
+        {
+          "text": "Ha van érvényes katalógus, a hátrány a megszüntetés indoka mellett is alkalmazható, mert a (4) bekezdés csak a kártérítést zárja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (4) bekezdés kifejezetten a hátrányos jogkövetkezményt zárja ki a megszüntetéssel azonos indoknál. Az Mt. 56. § (4) bekezdése a megszüntetés indokaként megjelölt kötelezettségszegésnél a hátrány megállapítását tiltja. A katalógus megléte a kumulálási tilalmat nem oldja fel. A tévedés forrása a (4) bekezdés tárgyának félreértése."
+        },
+        {
+          "text": "Egyszerűsített foglalkoztatásnál a 203. § (1) bekezdés c) pontja az 56. § alkalmazását kizárja, hiába volna vétkes megszegés.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az atipikus viszony tételes kizárása a vétkességtől függetlenül érvényesül. A 203. § (1) bekezdés c) pontja az egyszerűsített foglalkoztatásra vagy alkalmi munkára irányuló munkaviszonynál az 56. §-t kizárja. Sem kollektív szerződés, sem munkaszerződés nem állapíthat meg hátrányos jogkövetkezményt. A vétkes kötelezettségszegés itt más különös szabályok alá eshet, de nem az 56. § rendjébe."
+        },
+        {
+          "text": "Ha a megszegés csak gondatlan, a hátrány soha nem állapítható meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a gondatlan magatartás is kimerítheti a vétkességet. Az Mt. 56. § (1) bekezdése a kötelezettség vétkes megszegését kívánja meg; a vétkesség felróhatóság. A szankció súlyát az arányosság köti a kötelezettségszegés súlyához. A tévedés a szándékosság kötelező előfeltételként való kezeléséből ered."
+        },
+        {
+          "text": "Ha a kötelezettségszegést a munkáltató a munkaviszony megszüntetésének indokaként is megjelöli, a (4) bekezdés kizárja a hátrányt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogcímválasztás kizáró hatályú ugyanarra a magatartásra. Az Mt. 56. § (4) bekezdése értelmében hátrányos jogkövetkezmény nem állapítható meg olyan kötelezettségszegés miatt, amelyet a munkáltató a megszüntetés indokaként is megjelöl. A tilalom a megszüntetés indokolást hordozó alakzataira kiterjed. Más, önálló kötelezettségszegés azonban más jogcímet nyithat."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "734b133c6973"
+    },
+    {
+      "question": "Mely megállapítások helytállóak az indokolás tartalmáról a hátrányos jogkövetkezménynél?",
+      "options": [
+        {
+          "text": "Az írásbeliség és az indokolás mellőzése a 29. § (4) bekezdése szerint joghatás nélküli egyoldalú jognyilatkozathoz vezethet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az alaki-tartalmi hiány az érvénytelenségen keresztül elvonja a joghatást. Az Mt. 29. § (4) bekezdése értelmében az érvénytelen egyoldalú jognyilatkozatból jogok és kötelezettségek nem származnak. Az 56. § (5) bekezdésébe ütköző intézkedés a munkaviszony feltételeit nem módosítja. A közlés hatályossága a 15. § (4) bekezdése szerint önmagában nem pótolja az indokolást."
+        },
+        {
+          "text": "Elegendő az intézkedésen feltüntetni az „56. §” hivatkozást, részletes tényállás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a puszta joghely-hivatkozás tartalmatlan formula, és az (5) bekezdésnek nem felel meg. Az Mt. 56. § (5) bekezdése indokolást követel; az indokolásnak a kötelezettségszegést, a vétkességet, a választott hátrányt és az arányosságot ellenőrizhetővé kell tennie. A 29. § (4) bekezdése az ilyen hiányos egyoldalú jognyilatkozattól a joghatást elvonhatja. A tévedés az alaki látszat és a tartalmi indokolás összekeveréséből ered."
+        },
+        {
+          "text": "Az indokolás csak akkor kötelező, ha a hátrány vagyoni jellegű.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (5) bekezdés minden hátrányos jogkövetkezménnyel járó intézkedésre áll, nem csak a vagyonira. Az Mt. 56. § (5) bekezdése az intézkedést írásba foglalja és indokolni rendeli. A (2) bekezdés a vagyoni plafont külön szabályozza, de az indokolási kényszert nem szűkíti vagyoni hátrányokra. A tévedés forrása a vagyoni plafon és az eljárási kényszer összekapcsolása."
+        },
+        {
+          "text": "Az indokolásnak a ténybeli kötelezettségszegést, a vétkességet, a választott hátrányt és az arányosságot ellenőrizhetővé kell tennie; tartalmatlan formula nem elég.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (5) bekezdés tartalmi kényszert is állít, nem csak alakit. Az Mt. 56. § (5) bekezdése értelmében a hátrányos jogkövetkezménnyel járó intézkedést írásba kell foglalni és indokolni kell. Az indokolás a ténybeli kötelezettségszegést, a vétkességet, a választott hátrányt és az arányosságot teszi ellenőrizhetővé. Tartalmatlan formula az (5) bekezdés indokolási követelményét nem elégíti ki."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "d23a22024c83"
+    },
+    {
+      "question": "A munkáltatói szabályzat és az 56. § szerinti katalógus viszonyáról mely állítások tévesek / nem állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A 17. § (1) bekezdése expressis verbis feljogosítja a munkáltatót, hogy szabályzatban állapítson meg 56. § szerinti hátrányokat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 17. § a közlés módját engedi, nem a szankció megállapítását. Az Mt. 17. § (1) bekezdése a munkáltató 15–16. § szerinti jognyilatkozatait belső szabályzatban vagy egyoldalú gyakorlatban is lehetővé teszi. A helyes: ez a közlés módja, nem az 56. § (1) bekezdésének jogforrási helyettesítője. A hiba abból ered, hogy a 17. § közlési szabályát szankció-megállapító felhatalmazásként olvassák."
+        },
+        {
+          "text": "A szabályzatban közölt hátrány a 15. § (1) bekezdése alapján akkor is jogot keletkeztet, ha sem kollektív szerződés, sem munkaszerződés nem állapított meg katalógust.",
+          "isCorrect": false,
+          "rationale": "HAMIS, intézmény hiányában az egyoldalú közlés e címen jogot nem keletkeztet. Az Mt. 15. § (1) bekezdése csak munkaviszonyra vonatkozó szabályban meghatározott esetben enged joghatást az egyoldalú jognyilatkozatnak. A helyes: ha a kollektív szerződés és a kisegítő munkaszerződés hallgat, 56. § címen hátrány nem alkalmazható. A tévedés a közlés hatályosságának és a jogalap meglétének összecsúsztatásából ered."
+        },
+        {
+          "text": "A munkáltatói szabályzat önállóan pótolja az 56. § (1) bekezdése szerinti katalógust, ha a kollektív szerződés hallgat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szabályzat nem jogforrási helyettesítője a katalógusnak. Az Mt. 56. § (1) bekezdése a kollektív szerződést és kisegítő esetben a munkaszerződést nevezi meg. A helyes: a 17. § szerinti munkáltatói szabályzat a 15–16. § jognyilatkozatainak közlési formája lehet, de az 56. § (1) bekezdése szerinti katalógust önállóan nem pótolja. A tévedés a közlés és a jogalap összekeveréséből ered."
+        },
+        {
+          "text": "Ha a szabályzat részletesen sorolja a hátrányokat, a munkaszerződéses kisegítő jogcím akkor is szükségtelen, ha mindkét fél kollektív szerződés hatálya alatt áll.",
+          "isCorrect": false,
+          "rationale": "HAMIS, mindkét fél kollektív szerződéses hatálya esetén a munkaszerződéses út zárva van, és a szabályzat ezt nem nyitja meg. Az Mt. 56. § (1) bekezdése ilyenkor a kollektív szerződést kívánja meg. A helyes: a hátrányos jogkövetkezményt a kollektív szerződésnek kell tartalmaznia; a munkaszerződés e helyzetben nem helyettesíti. A tévedés a belső szabályozás túlértékeléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "ae0061d2f06e"
+    }
+  ]
+}

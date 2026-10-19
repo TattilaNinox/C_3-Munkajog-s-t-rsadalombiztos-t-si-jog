@@ -1,0 +1,1034 @@
+{
+  "kategoria": "C/3 Munkajog és társadalombiztosítási jog",
+  "forras": "jogedu question_banks questions",
+  "bank": 114,
+  "kerdes": 3890,
+  "items": [
+    {
+      "file": "kviz/01/kerdes_VQsbRmIHPQfEoEvBoD1r.json",
+      "sorszam": 1,
+      "id": "VQsbRmIHPQfEoEvBoD1r",
+      "generationType": "kerdes",
+      "title": "1. Az Mt. bevezető rendelkezései és jelentőségük.",
+      "questions": 46,
+      "sha256": "7b3d50b0765dbe1f4ca84c10d869d522cb642a34dfe6c19a5f0b4b5677c44006"
+    },
+    {
+      "file": "kviz/01/fogalom_y1916rmYDlibQ8a8111R.json",
+      "sorszam": 1,
+      "id": "y1916rmYDlibQ8a8111R",
+      "generationType": "fogalom",
+      "title": "1. Az Mt. bevezető rendelkezései és jelentőségük.",
+      "questions": 28,
+      "sha256": "9abc7fa1ba1df3cb5a95c140c1705a2358c68f49c99d1f295a2145d8b6ec9ac2"
+    },
+    {
+      "file": "kviz/02/kerdes_5sf9MT87siL5SqaxIUo9.json",
+      "sorszam": 2,
+      "id": "5sf9MT87siL5SqaxIUo9",
+      "generationType": "kerdes",
+      "title": "2. A munkaviszonnyal kapcsolatos jognyilatkozatok, a jognyilatkozatok (...)",
+      "questions": 46,
+      "sha256": "e560a471cd6565e8a7e0670e840424aa6ba75ae4495f982efd9084a9c39c53c1"
+    },
+    {
+      "file": "kviz/02/fogalom_WOPE95Trd6LdsSvItpn8.json",
+      "sorszam": 2,
+      "id": "WOPE95Trd6LdsSvItpn8",
+      "generationType": "fogalom",
+      "title": "2. A munkaviszonnyal kapcsolatos jognyilatkozatok, a jognyilatkozatok (...)",
+      "questions": 28,
+      "sha256": "4f126e1e6a5b2ac62e7353491400ec1e40afb2d9ae7e28f5747393522a28eb94"
+    },
+    {
+      "file": "kviz/03/fogalom_5HlqHhyrrk3U7HVfSsDV.json",
+      "sorszam": 3,
+      "id": "5HlqHhyrrk3U7HVfSsDV",
+      "generationType": "fogalom",
+      "title": "3. Az érvénytelenség.",
+      "questions": 28,
+      "sha256": "22d61311a466806609bca48153aed8747695d7c3e8ada2d1b59ba5b0b569cfe8"
+    },
+    {
+      "file": "kviz/03/kerdes_FbM9nr8NTWAzhWiX34Nz.json",
+      "sorszam": 3,
+      "id": "FbM9nr8NTWAzhWiX34Nz",
+      "generationType": "kerdes",
+      "title": "3. Az érvénytelenség.",
+      "questions": 45,
+      "sha256": "7050953289f94caadccd6fe1b5d75c0e8491ec2e00863424120b44aadd2cbf37"
+    },
+    {
+      "file": "kviz/04/kerdes_2dRak1QAKv8mUW6ODsSF.json",
+      "sorszam": 4,
+      "id": "2dRak1QAKv8mUW6ODsSF",
+      "generationType": "kerdes",
+      "title": "4. A munkaviszony alanyai. A cselekvőképtelen munkavállaló.",
+      "questions": 46,
+      "sha256": "d26b2f70ecf3128163e30680c9dbb8fe07a4eb82c7f8c12ee18536c931cb2cef"
+    },
+    {
+      "file": "kviz/04/fogalom_XbSCIeWqPenQfhaICb49.json",
+      "sorszam": 4,
+      "id": "XbSCIeWqPenQfhaICb49",
+      "generationType": "fogalom",
+      "title": "4. A munkaviszony alanyai. A cselekvőképtelen munkavállaló.",
+      "questions": 28,
+      "sha256": "b608228ac528de2b21f05783435fc7568358aea688a2179b97639fc15952b2cd"
+    },
+    {
+      "file": "kviz/05/fogalom_AkPT51K9r2791Pdd9gHC.json",
+      "sorszam": 5,
+      "id": "AkPT51K9r2791Pdd9gHC",
+      "generationType": "fogalom",
+      "title": "5. A munkáltató személyében bekövetkező változás.",
+      "questions": 28,
+      "sha256": "7cd3d525b742bd69355633d6788c855922c639f752e14822c1c3f454889a5649"
+    },
+    {
+      "file": "kviz/05/kerdes_W9v9PwpVJqZgbC1twVff.json",
+      "sorszam": 5,
+      "id": "W9v9PwpVJqZgbC1twVff",
+      "generationType": "kerdes",
+      "title": "5. A munkáltató személyében bekövetkező változás.",
+      "questions": 46,
+      "sha256": "7aac1ef55e4c81a53abf4b26886f9ed8136cc4b87f0552399055255216680500"
+    },
+    {
+      "file": "kviz/06/fogalom_09FhtBQvtPe9gMDzLRQU.json",
+      "sorszam": 6,
+      "id": "09FhtBQvtPe9gMDzLRQU",
+      "generationType": "fogalom",
+      "title": "6. A munkaviszony létesítése, a munkaszerződés tartalma, a munkáltató (...)",
+      "questions": 28,
+      "sha256": "0b99e498eabe9962ec74da5921ca102e31ede684e2e158b30b73f4f05e242bfd"
+    },
+    {
+      "file": "kviz/06/kerdes_23Yb2caOb8xrcKno4yQX.json",
+      "sorszam": 6,
+      "id": "23Yb2caOb8xrcKno4yQX",
+      "generationType": "kerdes",
+      "title": "6. A munkaviszony létesítése, a munkaszerződés tartalma, a munkáltató (...)",
+      "questions": 46,
+      "sha256": "f327b59f38a3a4ea63a70e9de5e9cb4484f2db6d8d3e4b164be8f484963876ec"
+    },
+    {
+      "file": "kviz/07/kerdes_jy4vGKCb3H2sECUxZBTO.json",
+      "sorszam": 7,
+      "id": "jy4vGKCb3H2sECUxZBTO",
+      "generationType": "kerdes",
+      "title": "7. A munkaviszony kezdete; a próbaidő jogi természete, rendeltetése, időtartama.",
+      "questions": 26,
+      "sha256": "002a518dad69fcd2e860868e656b8df60b979601a5494f7909277d3df9c49c57"
+    },
+    {
+      "file": "kviz/07/fogalom_ofP7FZ0OvnsAUAFpJ9fQ.json",
+      "sorszam": 7,
+      "id": "ofP7FZ0OvnsAUAFpJ9fQ",
+      "generationType": "fogalom",
+      "title": "7. A munkaviszony kezdete; a próbaidő jogi természete, rendeltetése, időtartama.",
+      "questions": 16,
+      "sha256": "bac8c0371412af5d55d18b2ce6ceba88970f7ef37cd1ab0c8ec7332aa971c156"
+    },
+    {
+      "file": "kviz/08/fogalom_2yNby0IyMqS0yVWbJNAU.json",
+      "sorszam": 8,
+      "id": "2yNby0IyMqS0yVWbJNAU",
+      "generationType": "fogalom",
+      "title": "8. A munkaszerződés teljesítése, alapvető kötelezettségek, a (...)",
+      "questions": 50,
+      "sha256": "b7991a87efc99e24c02f52d806d10f52012982f9e164aa16cff874d2f53a0271"
+    },
+    {
+      "file": "kviz/08/kerdes_pFH9wvv9twhcEjwcJjao.json",
+      "sorszam": 8,
+      "id": "pFH9wvv9twhcEjwcJjao",
+      "generationType": "kerdes",
+      "title": "8. A munkaszerződés teljesítése, alapvető kötelezettségek, a (...)",
+      "questions": 40,
+      "sha256": "0e368d01624e2c1662e8fb433794108787c8eeb49303e95d6b3f2028115fe314"
+    },
+    {
+      "file": "kviz/08/fogalom_TPygIYEUMsHPMB64PW3l.json",
+      "sorszam": 8,
+      "id": "TPygIYEUMsHPMB64PW3l",
+      "generationType": "fogalom",
+      "title": "A munkaszerződés teljesítése, alapvető kötelezettségek, a (...)",
+      "questions": 33,
+      "sha256": "17444a54be88bc0296abc92abfacb99129ef88f8e0a9fc81cd645a6d0a1c70dc"
+    },
+    {
+      "file": "kviz/08/kerdes_UNqcaYRT0ohaHbqMgDAz.json",
+      "sorszam": 8,
+      "id": "UNqcaYRT0ohaHbqMgDAz",
+      "generationType": "kerdes",
+      "title": "A munkaszerződés teljesítése, alapvető kötelezettségek, a (...)",
+      "questions": 46,
+      "sha256": "703aaacf5de9d3028f9f77b22b86d829405c74ff1372fb7b63566833ac8266e9"
+    },
+    {
+      "file": "kviz/09/kerdes_ddjmnCM1x626W46YkLTd.json",
+      "sorszam": 9,
+      "id": "ddjmnCM1x626W46YkLTd",
+      "generationType": "kerdes",
+      "title": "9. Az utasítás teljesítésének megtagadása, mentesülés a munkavégzési (...)",
+      "questions": 46,
+      "sha256": "27188f7b5f5ff2f55bf6625e4361e13cfa75b6d22e536dbd600efb93c96bc437"
+    },
+    {
+      "file": "kviz/09/fogalom_ZgtzWeP6EDqIF1uiaMYm.json",
+      "sorszam": 9,
+      "id": "ZgtzWeP6EDqIF1uiaMYm",
+      "generationType": "fogalom",
+      "title": "9. Az utasítás teljesítésének megtagadása, mentesülés a munkavégzési (...)",
+      "questions": 28,
+      "sha256": "cd94ef610ad654d17a77478350260a200158eb366c5863c2ac02dd9f73bfc47f"
+    },
+    {
+      "file": "kviz/10/kerdes_6EVCXbkYTKQZb7H6dWzC.json",
+      "sorszam": 10,
+      "id": "6EVCXbkYTKQZb7H6dWzC",
+      "generationType": "kerdes",
+      "title": "10. Jogkövetkezmények a munkavállaló vétkes kötelezettségszegéséért.",
+      "questions": 28,
+      "sha256": "38b06b9b3fb88b5bb0135503984e0e5e0d4bb16bcd8d5ea8a94f667408672030"
+    },
+    {
+      "file": "kviz/10/fogalom_6upR8YKpb3MBQSB2f0Rj.json",
+      "sorszam": 10,
+      "id": "6upR8YKpb3MBQSB2f0Rj",
+      "generationType": "fogalom",
+      "title": "10. Jogkövetkezmények a munkavállaló vétkes kötelezettségszegéséért.",
+      "questions": 18,
+      "sha256": "515e9f1a4b6b008eee4465e6315d0932e41cef3782fd447530a5359bb1852835"
+    },
+    {
+      "file": "kviz/11/kerdes_95qrc6QzHkANqOeNAVAu.json",
+      "sorszam": 11,
+      "id": "95qrc6QzHkANqOeNAVAu",
+      "generationType": "kerdes",
+      "title": "11. A munkaszerződés módosítása.",
+      "questions": 46,
+      "sha256": "f35527cd9b4fc23063cc22cf76266daf1d56197df43f64b81c201a2b66a9f9ac"
+    },
+    {
+      "file": "kviz/11/fogalom_d5PTRjvIA3yhioh6n5gc.json",
+      "sorszam": 11,
+      "id": "d5PTRjvIA3yhioh6n5gc",
+      "generationType": "fogalom",
+      "title": "11. A munkaszerződés módosítása.",
+      "questions": 28,
+      "sha256": "691a17e6e89e62ca4c35868b100a735ec2fa0cdde20e7da1cdb9eb8955cd9465"
+    },
+    {
+      "file": "kviz/12/fogalom_BXizP8YAfwRDPoksEA05.json",
+      "sorszam": 12,
+      "id": "BXizP8YAfwRDPoksEA05",
+      "generationType": "fogalom",
+      "title": "12. A munkaviszony megszűnése és megszüntetése.",
+      "questions": 28,
+      "sha256": "c81ca497b09437f4ea225fb0721afc0ac20ce566d0e7345423514b4329b375df"
+    },
+    {
+      "file": "kviz/12/kerdes_GBIarSij81MwuYIJBD7t.json",
+      "sorszam": 12,
+      "id": "GBIarSij81MwuYIJBD7t",
+      "generationType": "kerdes",
+      "title": "12. A munkaviszony megszűnése és megszüntetése.",
+      "questions": 45,
+      "sha256": "890093fb1549b97a0f379360f36885eb9af12502f953e9b2efa6e9b7e5e980fa"
+    },
+    {
+      "file": "kviz/13/fogalom_n21Csp4xkNRCyLEK2OjC.json",
+      "sorszam": 13,
+      "id": "n21Csp4xkNRCyLEK2OjC",
+      "generationType": "fogalom",
+      "title": "13. A felmondás, a munkavállalói, illetve a munkáltatói felmondás szabályai (...)",
+      "questions": 28,
+      "sha256": "9d22e53c950b5122717c5089d11e32c7825bb3d7c1e4c74ed8ddbc3f1a87d6a3"
+    },
+    {
+      "file": "kviz/13/kerdes_rcWr7U1ot1eSAzuk4Flq.json",
+      "sorszam": 13,
+      "id": "rcWr7U1ot1eSAzuk4Flq",
+      "generationType": "kerdes",
+      "title": "13. A felmondás, a munkavállalói, illetve a munkáltatói felmondás szabályai (...)",
+      "questions": 46,
+      "sha256": "204d6bc9959b1641e0825ff9c1c0550930a38cd134052ca8561e3057755207f8"
+    },
+    {
+      "file": "kviz/14/fogalom_i7CuOs9yRoUg0l6giGAp.json",
+      "sorszam": 14,
+      "id": "i7CuOs9yRoUg0l6giGAp",
+      "generationType": "fogalom",
+      "title": "14. A felmondási tilalmak és a felmondási korlátozások, a felmondási idő (...)",
+      "questions": 28,
+      "sha256": "2c657e2d7270ef5d3255f8c27adedb4d7289f90df661281656af626f58957661"
+    },
+    {
+      "file": "kviz/14/kerdes_oGuc3jgJxiaDaelAKhsJ.json",
+      "sorszam": 14,
+      "id": "oGuc3jgJxiaDaelAKhsJ",
+      "generationType": "kerdes",
+      "title": "14. A felmondási tilalmak és a felmondási korlátozások, a felmondási idő (...)",
+      "questions": 43,
+      "sha256": "f6f1505f2a1d6fb0c389944c13866f73046b9c9faff766befa6fba9999b80b4a"
+    },
+    {
+      "file": "kviz/15/fogalom_3RCQhyujrZOd2ZzZKYfV.json",
+      "sorszam": 15,
+      "id": "3RCQhyujrZOd2ZzZKYfV",
+      "generationType": "fogalom",
+      "title": "15. A csoportos létszámcsökkentésre vonatkozó főbb szabályok.",
+      "questions": 23,
+      "sha256": "f7193f3a8dd7fa687b2e90a2e23877ef100dde7c3dd9692ad1a023a74c43dc99"
+    },
+    {
+      "file": "kviz/15/kerdes_x53BlveV0ikuLYeTEiJc.json",
+      "sorszam": 15,
+      "id": "x53BlveV0ikuLYeTEiJc",
+      "generationType": "kerdes",
+      "title": "15. A csoportos létszámcsökkentésre vonatkozó főbb szabályok.",
+      "questions": 37,
+      "sha256": "15c568fc41a378eadcd661d793db62cb55f1fd952501219867389b6c41ffab0b"
+    },
+    {
+      "file": "kviz/16/kerdes_HMLaDaJafkngS0r4McKC.json",
+      "sorszam": 16,
+      "id": "HMLaDaJafkngS0r4McKC",
+      "generationType": "kerdes",
+      "title": "16. A végkielégítés.",
+      "questions": 38,
+      "sha256": "6e8265fcf0fd52835602d290881babe2367aecb76be31126600701da6b38de48"
+    },
+    {
+      "file": "kviz/16/fogalom_jTwmlvd4ZOGOU7sgNkAh.json",
+      "sorszam": 16,
+      "id": "jTwmlvd4ZOGOU7sgNkAh",
+      "generationType": "fogalom",
+      "title": "16. A végkielégítés.",
+      "questions": 25,
+      "sha256": "4c978b73ca56df55e16f7a85ea5d6969beda7aa3a392019816fec1e2e3384b49"
+    },
+    {
+      "file": "kviz/17/kerdes_JgtjfmGgSYN3CbS0neug.json",
+      "sorszam": 17,
+      "id": "JgtjfmGgSYN3CbS0neug",
+      "generationType": "kerdes",
+      "title": "17. Az azonnali hatályú felmondás feltételei, fajtái.",
+      "questions": 22,
+      "sha256": "3fd788a731e3d4c4b4565d57223dc5c857a55650b90d06edfe7994c3051b12df"
+    },
+    {
+      "file": "kviz/17/fogalom_oNjg21ufiTx9iYQnxRkx.json",
+      "sorszam": 17,
+      "id": "oNjg21ufiTx9iYQnxRkx",
+      "generationType": "fogalom",
+      "title": "17. Az azonnali hatályú felmondás feltételei, fajtái.",
+      "questions": 16,
+      "sha256": "65419a78839110430aff64d45793030ae76220e8bc9fc1bfb4f2fa054f1d4d66"
+    },
+    {
+      "file": "kviz/18/kerdes_evWxdEpQktGIvXNvKgW0.json",
+      "sorszam": 18,
+      "id": "evWxdEpQktGIvXNvKgW0",
+      "generationType": "kerdes",
+      "title": "18. Eljárás a munkaviszony megszüntetése (megszűnése) esetén.",
+      "questions": 22,
+      "sha256": "7ee506b6cf6c656538ee8b6a143deb469ec40cfdf083b65eff10f2b5c052abbc"
+    },
+    {
+      "file": "kviz/18/fogalom_RHpWLqlFIJL5UV0fpK6O.json",
+      "sorszam": 18,
+      "id": "RHpWLqlFIJL5UV0fpK6O",
+      "generationType": "fogalom",
+      "title": "18. Eljárás a munkaviszony megszüntetése (megszűnése) esetén.",
+      "questions": 16,
+      "sha256": "ac3466f2fe10f7f31b0043ce09d56cbc2782dd6fe1b7f22533d05818b7450a2c"
+    },
+    {
+      "file": "kviz/19/fogalom_4QilbkCZo5GlhFbJYL5F.json",
+      "sorszam": 19,
+      "id": "4QilbkCZo5GlhFbJYL5F",
+      "generationType": "fogalom",
+      "title": "19. A munkaviszony jogellenes megszüntetése és jogkövetkezményei.",
+      "questions": 24,
+      "sha256": "eb526a6adf884b6a2135bc3766de71bcdfef36654e4b1b254c3b915090916ccf"
+    },
+    {
+      "file": "kviz/19/kerdes_Dqx6nZL4dLoYENosHanM.json",
+      "sorszam": 19,
+      "id": "Dqx6nZL4dLoYENosHanM",
+      "generationType": "kerdes",
+      "title": "19. A munkaviszony jogellenes megszüntetése és jogkövetkezményei.",
+      "questions": 37,
+      "sha256": "2ce5a98814387d5deffd6bf1ea6a9ae4b9e43f02b0df5891cd6d8a63ba0d5600"
+    },
+    {
+      "file": "kviz/20/fogalom_0Wk8zn7QoJr5xH2y17il.json",
+      "sorszam": 20,
+      "id": "0Wk8zn7QoJr5xH2y17il",
+      "generationType": "fogalom",
+      "title": "20. A munka- és pihenőidő fogalmai, a napi munkaidőre, a munkaidőkeretre és (...)",
+      "questions": 28,
+      "sha256": "634843ee6a7f59d36c9eabc0d87bbae1a9454033b50520683c42c88cf647d7a7"
+    },
+    {
+      "file": "kviz/20/kerdes_Re1rT2U7ml87foo5hjF2.json",
+      "sorszam": 20,
+      "id": "Re1rT2U7ml87foo5hjF2",
+      "generationType": "kerdes",
+      "title": "20. A munka- és pihenőidő fogalmai, a napi munkaidőre, a munkaidőkeretre és (...)",
+      "questions": 46,
+      "sha256": "cd00a54eeb5a95414b85bf0f4710e0850e381304a35b7c887d7bcd02ad120399"
+    },
+    {
+      "file": "kviz/21/fogalom_a7WgkySl4j3joSSviJfS.json",
+      "sorszam": 21,
+      "id": "a7WgkySl4j3joSSviJfS",
+      "generationType": "fogalom",
+      "title": "21. A munkaidő vasárnapra vagy munkaszüneti napra történő beosztása. A (...)",
+      "questions": 27,
+      "sha256": "14737e7d22de7e08102f0b94cdd039f527fbb4d9b2f4c110d7b3861dbcbe7a34"
+    },
+    {
+      "file": "kviz/21/kerdes_rwfUXEPLnbNfdMGHIJ2e.json",
+      "sorszam": 21,
+      "id": "rwfUXEPLnbNfdMGHIJ2e",
+      "generationType": "kerdes",
+      "title": "21. A munkaidő vasárnapra vagy munkaszüneti napra történő beosztása. A (...)",
+      "questions": 42,
+      "sha256": "a668e80b41b2dd6cf59eaf3cc56fcb99b12e5c67b83cf1855992e14305ef6a8b"
+    },
+    {
+      "file": "kviz/22/fogalom_EWXDGBtKxFwxqg7LwPes.json",
+      "sorszam": 22,
+      "id": "EWXDGBtKxFwxqg7LwPes",
+      "generationType": "fogalom",
+      "title": "22. A napi és a heti pihenőidőre, illetve a heti pihenőnapra vonatkozó (...)",
+      "questions": 28,
+      "sha256": "ab70faa8785cac77f05c992f99406e172d96585de51b2febc576a26aa3e90c2a"
+    },
+    {
+      "file": "kviz/22/kerdes_kHErIZnvTsaRzAJvIz1x.json",
+      "sorszam": 22,
+      "id": "kHErIZnvTsaRzAJvIz1x",
+      "generationType": "kerdes",
+      "title": "22. A napi és a heti pihenőidőre, illetve a heti pihenőnapra vonatkozó (...)",
+      "questions": 46,
+      "sha256": "3bc665c6c36e70bb67d0f4c6f3b287ce0baf49a1f2b925dffaf790d7e6049eb8"
+    },
+    {
+      "file": "kviz/23/kerdes_kNCpX02Zw8sWKNrDGXYF.json",
+      "sorszam": 23,
+      "id": "kNCpX02Zw8sWKNrDGXYF",
+      "generationType": "kerdes",
+      "title": "23. A rendkívüli munkaidő fogalma, elrendelése és elrendelésének korlátai (...)",
+      "questions": 46,
+      "sha256": "1eaa53ac9fdc1c35a88c6865b905bd05a1276e4cc110e23524c1d29f211189d5"
+    },
+    {
+      "file": "kviz/23/fogalom_UHxYNqu5ctawKhLzAAAD.json",
+      "sorszam": 23,
+      "id": "UHxYNqu5ctawKhLzAAAD",
+      "generationType": "fogalom",
+      "title": "23. A rendkívüli munkaidő fogalma, elrendelése és elrendelésének korlátai (...)",
+      "questions": 28,
+      "sha256": "524477a1cf44a24949d76b755d6384546a121bff6791ed25562afe997bbb4c95"
+    },
+    {
+      "file": "kviz/24/fogalom_J4VwuPFw99Sz9rTNRyF2.json",
+      "sorszam": 24,
+      "id": "J4VwuPFw99Sz9rTNRyF2",
+      "generationType": "fogalom",
+      "title": "24. A szabadság (alap- és pótszabadság) mértéke, kiadása, az apasági (...)",
+      "questions": 28,
+      "sha256": "95c7a04ae66fa024c1737b4425899b85a945a949b56380584f34efd9e1fdd20a"
+    },
+    {
+      "file": "kviz/24/kerdes_SWxRx7GDcKzSHJtVOBBI.json",
+      "sorszam": 24,
+      "id": "SWxRx7GDcKzSHJtVOBBI",
+      "generationType": "kerdes",
+      "title": "24. A szabadság (alap- és pótszabadság) mértéke, kiadása, az apasági (...)",
+      "questions": 46,
+      "sha256": "73cd8937f264f345c46b7dd04a2dec7560b707a1d9d6dc3d125979ab7771f342"
+    },
+    {
+      "file": "kviz/25/kerdes_338cZBkiRoUuWaUg7QGf.json",
+      "sorszam": 25,
+      "id": "338cZBkiRoUuWaUg7QGf",
+      "generationType": "kerdes",
+      "title": "25. A betegszabadság, a szülési szabadság és a fizetés nélküli szabadság, a (...)",
+      "questions": 46,
+      "sha256": "ad37521447ef07a2a417cb25ad49f1a4e15f1d9e7cdce06351dc88de389e97b4"
+    },
+    {
+      "file": "kviz/25/fogalom_FHGOMi8YCQK2lAWo9Ed4.json",
+      "sorszam": 25,
+      "id": "FHGOMi8YCQK2lAWo9Ed4",
+      "generationType": "fogalom",
+      "title": "25. A betegszabadság, a szülési szabadság és a fizetés nélküli szabadság, a (...)",
+      "questions": 28,
+      "sha256": "d05f528e5ed4919424d15f098d9973c5ffbacfedc49267873902df3aca2ea0f5"
+    },
+    {
+      "file": "kviz/26/kerdes_CGezRcNXRP21QqdUWexy.json",
+      "sorszam": 26,
+      "id": "CGezRcNXRP21QqdUWexy",
+      "generationType": "kerdes",
+      "title": "26. A munka díjazása, díjazás munkavégzés hiányában, a távolléti díj számítása.",
+      "questions": 46,
+      "sha256": "8bfd6cfebabd4231f4b1b7005e86872f6888c3b8a285f4fac335a07e1a0114cb"
+    },
+    {
+      "file": "kviz/26/fogalom_xzRCL6zVvwCYFqsnFuMm.json",
+      "sorszam": 26,
+      "id": "xzRCL6zVvwCYFqsnFuMm",
+      "generationType": "fogalom",
+      "title": "26. A munka díjazása, díjazás munkavégzés hiányában, a távolléti díj számítása.",
+      "questions": 28,
+      "sha256": "a131d2d3d205d7addaf3b87f16e311ce736e40bf366c77f3b69268f768351ee6"
+    },
+    {
+      "file": "kviz/27/kerdes_PM4wuRtVkTL6YpdsKyzv.json",
+      "sorszam": 27,
+      "id": "PM4wuRtVkTL6YpdsKyzv",
+      "generationType": "kerdes",
+      "title": "27. A munkabér védelme, a munkabérből való levonás szabályai, a jogalap (...)",
+      "questions": 46,
+      "sha256": "1479f44e5ef192eed18bf8e6589104830cafefbc459f0cd23fb064d660891a7e"
+    },
+    {
+      "file": "kviz/27/fogalom_QAXbdY26FDWhTrYZ8C8m.json",
+      "sorszam": 27,
+      "id": "QAXbdY26FDWhTrYZ8C8m",
+      "generationType": "fogalom",
+      "title": "27. A munkabér védelme, a munkabérből való levonás szabályai, a jogalap (...)",
+      "questions": 28,
+      "sha256": "d9a55887a877a7fd9f48bd6f913eacb80a613feda8328cf49742460315daa220"
+    },
+    {
+      "file": "kviz/28/kerdes_SBYev8TrjXz0l5m7sSfr.json",
+      "sorszam": 28,
+      "id": "SBYev8TrjXz0l5m7sSfr",
+      "generationType": "kerdes",
+      "title": "28. A munkáltató kártérítési felelőssége.",
+      "questions": 46,
+      "sha256": "109b2e821cc3ac411eed01f7401f69682019648cf0544d57d10931120a040529"
+    },
+    {
+      "file": "kviz/28/fogalom_TvM2y4xgv9mh24CyznSD.json",
+      "sorszam": 28,
+      "id": "TvM2y4xgv9mh24CyznSD",
+      "generationType": "fogalom",
+      "title": "28. A munkáltató kártérítési felelőssége.",
+      "questions": 28,
+      "sha256": "7524ef19529f7a5ab2dd728a65391058c0b2b049b087e42dfd020cf18da62500"
+    },
+    {
+      "file": "kviz/29/kerdes_0UulLFORqeJLWDWm7Dag.json",
+      "sorszam": 29,
+      "id": "0UulLFORqeJLWDWm7Dag",
+      "generationType": "kerdes",
+      "title": "29. A munkavállaló kártérítési felelőssége, a megőrzési felelősség, a (...)",
+      "questions": 46,
+      "sha256": "984056344df7d7306ba0a68804fff245e4a84840f08776339f92cc368e644675"
+    },
+    {
+      "file": "kviz/29/fogalom_lDERPA6JnhJJVn8LxnPV.json",
+      "sorszam": 29,
+      "id": "lDERPA6JnhJJVn8LxnPV",
+      "generationType": "fogalom",
+      "title": "29. A munkavállaló kártérítési felelőssége, a megőrzési felelősség, a (...)",
+      "questions": 28,
+      "sha256": "033ad103efa71eee868a87151b684d85e196071197730172c0633de952954835"
+    },
+    {
+      "file": "kviz/30/fogalom_KbKR9FgldYRhCGiGY9P6.json",
+      "sorszam": 30,
+      "id": "KbKR9FgldYRhCGiGY9P6",
+      "generationType": "fogalom",
+      "title": "30. A határozott idejű munkaviszonyra vonatkozó különös szabályok (...)",
+      "questions": 23,
+      "sha256": "d7fb54a23494d0c462c61c8edb1cfaa7691f50305fdbeca1932590cc0978f800"
+    },
+    {
+      "file": "kviz/30/kerdes_L0dnugnyxKUSeyfx9f9j.json",
+      "sorszam": 30,
+      "id": "L0dnugnyxKUSeyfx9f9j",
+      "generationType": "kerdes",
+      "title": "30. A határozott idejű munkaviszonyra vonatkozó különös szabályok (...)",
+      "questions": 35,
+      "sha256": "98d45906d0ac246586e6e541977b28cae7a8493ab9145878f8857a50777f0f02"
+    },
+    {
+      "file": "kviz/31/fogalom_BHofWRRA5Gy1uy7Hbs6m.json",
+      "sorszam": 31,
+      "id": "BHofWRRA5Gy1uy7Hbs6m",
+      "generationType": "fogalom",
+      "title": "31. A munkakör megosztása, több munkáltató által létesített munkaviszony, a (...)",
+      "questions": 20,
+      "sha256": "6be96b5dd523eac177a0934b663ed97ff9f124a1fb64a892d12e98690b3cb6d4"
+    },
+    {
+      "file": "kviz/31/kerdes_d91ZG8xE8eYUGMQIjaac.json",
+      "sorszam": 31,
+      "id": "d91ZG8xE8eYUGMQIjaac",
+      "generationType": "kerdes",
+      "title": "31. A munkakör megosztása, több munkáltató által létesített munkaviszony, a (...)",
+      "questions": 31,
+      "sha256": "89bfd46f274cc65f8b37f424257cfb5783696c46bbf83be9147a04c2eb2bd39a"
+    },
+    {
+      "file": "kviz/32/kerdes_k6QXLzdblQQVk2Qt3Ssr.json",
+      "sorszam": 32,
+      "id": "k6QXLzdblQQVk2Qt3Ssr",
+      "generationType": "kerdes",
+      "title": "32. A bedolgozói jogviszony és az egyszerűsített foglalkoztatásra vagy (...)",
+      "questions": 46,
+      "sha256": "8f07d5187473c6a7c5357f364e0a96bea543e6ebab484a03ca29112d9ab8e0d5"
+    },
+    {
+      "file": "kviz/32/fogalom_tXUFrKSa2l5JERolSCu0.json",
+      "sorszam": 32,
+      "id": "tXUFrKSa2l5JERolSCu0",
+      "generationType": "fogalom",
+      "title": "32. A bedolgozói jogviszony és az egyszerűsített foglalkoztatásra vagy (...)",
+      "questions": 28,
+      "sha256": "668cd26c60bd6bae60330cd232982f3f26e10861ad032c31e9ec716ad31f1a46"
+    },
+    {
+      "file": "kviz/33/fogalom_FCC1oTlf6Dv4YQwsGycY.json",
+      "sorszam": 33,
+      "id": "FCC1oTlf6Dv4YQwsGycY",
+      "generationType": "fogalom",
+      "title": "A köztulajdonban álló munkáltatóval fennálló munkaviszonyra vonatkozó (...)",
+      "questions": 29,
+      "sha256": "6034141a8c1994f22365feae37ab8bb5a2ed2565c87609c1683d4f1f4f47e0a2"
+    },
+    {
+      "file": "kviz/33/kerdes_ZRD5qvCNQkvMdiZoU9oU.json",
+      "sorszam": 33,
+      "id": "ZRD5qvCNQkvMdiZoU9oU",
+      "generationType": "kerdes",
+      "title": "A köztulajdonban álló munkáltatóval fennálló munkaviszonyra vonatkozó (...)",
+      "questions": 42,
+      "sha256": "7cea221f3221129d45dfee719a5279cb48dd623cfbdc2b19a42b4f214af9b9a0"
+    },
+    {
+      "file": "kviz/34/kerdes_IChzaiGMYi39U85oQYpb.json",
+      "sorszam": 34,
+      "id": "IChzaiGMYi39U85oQYpb",
+      "generationType": "kerdes",
+      "title": "34. A vezető állású munkavállalóra vonatkozó rendelkezések.",
+      "questions": 28,
+      "sha256": "206f2c7088a83b80006f9673cec586fca379b8f617145de79d81f87196b43675"
+    },
+    {
+      "file": "kviz/34/fogalom_xW6W6NrxltsGYdYP1aUw.json",
+      "sorszam": 34,
+      "id": "xW6W6NrxltsGYdYP1aUw",
+      "generationType": "fogalom",
+      "title": "34. A vezető állású munkavállalóra vonatkozó rendelkezések.",
+      "questions": 18,
+      "sha256": "88e24cb9e601efcd8985a3f99a5ed77c82ac3ce19f3bb0cfa8c409c6e60615fd"
+    },
+    {
+      "file": "kviz/35/kerdes_knvYP0nPC1W1J3R0eafC.json",
+      "sorszam": 35,
+      "id": "knvYP0nPC1W1J3R0eafC",
+      "generationType": "kerdes",
+      "title": "A munkaerő-kölcsönzésre vonatkozó legfontosabb rendelkezések.",
+      "questions": 46,
+      "sha256": "af058aee8edfcbc8f59d897730b4549eb22988525527a3cc697f896d25abe1a7"
+    },
+    {
+      "file": "kviz/35/fogalom_VuUDATASVbP971hLardj.json",
+      "sorszam": 35,
+      "id": "VuUDATASVbP971hLardj",
+      "generationType": "fogalom",
+      "title": "A munkaerő-kölcsönzésre vonatkozó legfontosabb rendelkezések.",
+      "questions": 36,
+      "sha256": "263072a82a1cfbcaecf8b451758da02522177791c5b3b8cf35702a62177cd740"
+    },
+    {
+      "file": "kviz/36/kerdes_7x6SpjIOak5kA0GEyGFK.json",
+      "sorszam": 36,
+      "id": "7x6SpjIOak5kA0GEyGFK",
+      "generationType": "kerdes",
+      "title": "36. A munkaviszonyhoz kapcsolódó egyes megállapodások: a versenytilalmi (...)",
+      "questions": 46,
+      "sha256": "04d0b6f1a70a7db9f1948e2b460d03bd1915e38a605dd7881bf9da7b9918fda8"
+    },
+    {
+      "file": "kviz/36/fogalom_adTdZzbplrmdCuLHsgRd.json",
+      "sorszam": 36,
+      "id": "adTdZzbplrmdCuLHsgRd",
+      "generationType": "fogalom",
+      "title": "36. A munkaviszonyhoz kapcsolódó egyes megállapodások: a versenytilalmi (...)",
+      "questions": 28,
+      "sha256": "d740880e7aa0a36e5ff064ac8c42f1d92b7cccd16e55d8c69ed3c2e09a1415c7"
+    },
+    {
+      "file": "kviz/37/kerdes_9MzRiGFSdINzxvX9s9dY.json",
+      "sorszam": 37,
+      "id": "9MzRiGFSdINzxvX9s9dY",
+      "generationType": "kerdes",
+      "title": "37. A kollektív szerződés megkötése és tartalma, hatálya, megszűnése.",
+      "questions": 38,
+      "sha256": "2c3abf761f50e3e1cf68178a1a87e1b38c7eb8d673b2f74cdec16c46e1948e46"
+    },
+    {
+      "file": "kviz/37/fogalom_wt3IwFzngcVIA6i9i3yi.json",
+      "sorszam": 37,
+      "id": "wt3IwFzngcVIA6i9i3yi",
+      "generationType": "fogalom",
+      "title": "37. A kollektív szerződés megkötése és tartalma, hatálya, megszűnése.",
+      "questions": 28,
+      "sha256": "525bc86ba0dd4e45a4835ff777705c0713ea18c6b2c427f8b2b4b67754aceb2b"
+    },
+    {
+      "file": "kviz/38/fogalom_bB8RkKRdYWRIdoWxIIgY.json",
+      "sorszam": 38,
+      "id": "bB8RkKRdYWRIdoWxIIgY",
+      "generationType": "fogalom",
+      "title": "38. A munkajogi igény érvényesítésének szabályai.",
+      "questions": 28,
+      "sha256": "7057a17e77b9c95d087bef90d9665b14f5301fdf2286a1563457b564a1ebd2a4"
+    },
+    {
+      "file": "kviz/38/kerdes_RxMxfhQ3XOWBCxNM6fwk.json",
+      "sorszam": 38,
+      "id": "RxMxfhQ3XOWBCxNM6fwk",
+      "generationType": "kerdes",
+      "title": "38. A munkajogi igény érvényesítésének szabályai.",
+      "questions": 46,
+      "sha256": "2154bac6b163dfe739aead74219d811e8c2e0ff1d1ca3c4f2ba11c8cc2a46af8"
+    },
+    {
+      "file": "kviz/39/fogalom_nqweRRKqaosNbVBvMlU3.json",
+      "sorszam": 39,
+      "id": "nqweRRKqaosNbVBvMlU3",
+      "generationType": "fogalom",
+      "title": "39. Kollektív munkaügyi vita.",
+      "questions": 28,
+      "sha256": "60930c91846e4246f993f183c8eeb541ebc339b2dd6ca8101bbedb22e111c82e"
+    },
+    {
+      "file": "kviz/39/kerdes_Vfv21x9Y03cNPsztq5Kx.json",
+      "sorszam": 39,
+      "id": "Vfv21x9Y03cNPsztq5Kx",
+      "generationType": "kerdes",
+      "title": "39. Kollektív munkaügyi vita.",
+      "questions": 46,
+      "sha256": "293a23733da24c91ce348fe7509ef08026c03d646c69e54981801c9b12277a77"
+    },
+    {
+      "file": "kviz/40/kerdes_A2Ux3an8DY3GjXUUhBnJ.json",
+      "sorszam": 40,
+      "id": "A2Ux3an8DY3GjXUUhBnJ",
+      "generationType": "kerdes",
+      "title": "40. A sztrájkhoz való jog a sztrájkról szóló 1989. évi VII. törvény (...)",
+      "questions": 38,
+      "sha256": "7c7c8d23139483e42d82a1c2d6fe44aba90936cbe6eed154011e0ce6ac2bf87a"
+    },
+    {
+      "file": "kviz/40/fogalom_YT72arfZdWkOPVDlmGTA.json",
+      "sorszam": 40,
+      "id": "YT72arfZdWkOPVDlmGTA",
+      "generationType": "fogalom",
+      "title": "40. A sztrájkhoz való jog a sztrájkról szóló 1989. évi VII. törvény (...)",
+      "questions": 24,
+      "sha256": "1af656c1b36078c2e6bfe9cd76177797c6402a772bce5e51dd5d235c43be596c"
+    },
+    {
+      "file": "kviz/41/fogalom_75AgZW0NDxHfVWs5MIDJ.json",
+      "sorszam": 41,
+      "id": "75AgZW0NDxHfVWs5MIDJ",
+      "generationType": "fogalom",
+      "title": "41. A rendezett munkaügyi kapcsolatok követelménye",
+      "questions": 21,
+      "sha256": "31aef787ca04686b0f1ad96d7bc8ae61a989ff3802d426e7502ef0d0934cb6a4"
+    },
+    {
+      "file": "kviz/41/kerdes_9iYvbB4M2IasTBzTY3wB.json",
+      "sorszam": 41,
+      "id": "9iYvbB4M2IasTBzTY3wB",
+      "generationType": "kerdes",
+      "title": "41. A rendezett munkaügyi kapcsolatok követelménye",
+      "questions": 32,
+      "sha256": "40fa2c4c3ec82843390468c8f6b1a1e7341ecdb8ecfd11c85d0807d79b67d985"
+    },
+    {
+      "file": "kviz/42/kerdes_WxgCFqeAQ2RdWfTOemuI.json",
+      "sorszam": 42,
+      "id": "WxgCFqeAQ2RdWfTOemuI",
+      "generationType": "kerdes",
+      "title": "A Kit. hatálya, a központosított álláshelyállomány és az álláshely fogalma.",
+      "questions": 46,
+      "sha256": "92df50eb0406fbadb0a53f211dfb17c3cb67b425125c7291eb116dcccb36dc86"
+    },
+    {
+      "file": "kviz/42/fogalom_yEdapV1rxBi3JjcKpDWB.json",
+      "sorszam": 42,
+      "id": "yEdapV1rxBi3JjcKpDWB",
+      "generationType": "fogalom",
+      "title": "A Kit. hatálya, a központosított álláshelyállomány és az álláshely fogalma.",
+      "questions": 36,
+      "sha256": "f40daf3fbefe1ea06dd7c44f4a7cc3972a50a54319f86454d487b612836146d8"
+    },
+    {
+      "file": "kviz/43/fogalom_58dpxkgynR3OvKJum5iX.json",
+      "sorszam": 43,
+      "id": "58dpxkgynR3OvKJum5iX",
+      "generationType": "fogalom",
+      "title": "43. A Kit. szerinti kormányzati szolgálati jogviszony és annak alanyai (...)",
+      "questions": 28,
+      "sha256": "871a28252c0d499fcd9167a10bc5968b98ce6d1f601ac845ba5560e241de6fe9"
+    },
+    {
+      "file": "kviz/43/kerdes_AhXfIs7rHkRmkYTjIhIU.json",
+      "sorszam": 43,
+      "id": "AhXfIs7rHkRmkYTjIhIU",
+      "generationType": "kerdes",
+      "title": "43. A Kit. szerinti kormányzati szolgálati jogviszony és annak alanyai (...)",
+      "questions": 46,
+      "sha256": "5260f5fdf1b6d0f5bf430dcbb226b787cb7345fbcf0a7f16044123d54214db2d"
+    },
+    {
+      "file": "kviz/44/fogalom_cO870KMpzQH2hw11HUam.json",
+      "sorszam": 44,
+      "id": "cO870KMpzQH2hw11HUam",
+      "generationType": "fogalom",
+      "title": "44. A Kit. szerinti kormányzati szolgálati jogviszony megszűnésére és (...)",
+      "questions": 28,
+      "sha256": "1a262164a5466ea3d6ceb587cb0a99864628a42e0bb7f9f7497c400bfcd8d7c6"
+    },
+    {
+      "file": "kviz/44/kerdes_sJ0WlHBQlRyiIMbzutZ9.json",
+      "sorszam": 44,
+      "id": "sJ0WlHBQlRyiIMbzutZ9",
+      "generationType": "kerdes",
+      "title": "44. A Kit. szerinti kormányzati szolgálati jogviszony megszűnésére és (...)",
+      "questions": 46,
+      "sha256": "5f2a76e40e49c7c5e73c9540f1a490d065dd2d61e66cb499b4c626145f366942"
+    },
+    {
+      "file": "kviz/45/kerdes_hUuqt0tLk7niSdbObDOQ.json",
+      "sorszam": 45,
+      "id": "hUuqt0tLk7niSdbObDOQ",
+      "generationType": "kerdes",
+      "title": "45. A kormányzati szolgálati jogviszony tartalma, jogok és kötelezettségek.",
+      "questions": 46,
+      "sha256": "274c6bf2ae3e3487c7f3851e7eca5546180c530611f0d0c3ff3235d35cb84af8"
+    },
+    {
+      "file": "kviz/45/fogalom_tlZ3Cgtl33ebXzfe89b9.json",
+      "sorszam": 45,
+      "id": "tlZ3Cgtl33ebXzfe89b9",
+      "generationType": "fogalom",
+      "title": "45. A kormányzati szolgálati jogviszony tartalma, jogok és kötelezettségek.",
+      "questions": 28,
+      "sha256": "2f78429b5fc305501a388f0d13615f52d942fc9a3007201e1100e3039695ea5a"
+    },
+    {
+      "file": "kviz/46/fogalom_cvI39LlVdMVG31k4eK9a.json",
+      "sorszam": 46,
+      "id": "cvI39LlVdMVG31k4eK9a",
+      "generationType": "fogalom",
+      "title": "46. A Magyar Kormánytisztviselői Kar jogköre és az érdekegyeztetés",
+      "questions": 28,
+      "sha256": "c36b8a9c021761e94dea875ad3425a99663cbd3cbcaeaf29da625cd3b42b9e23"
+    },
+    {
+      "file": "kviz/46/kerdes_UciuGLv5UdTIMYN1Mrcb.json",
+      "sorszam": 46,
+      "id": "UciuGLv5UdTIMYN1Mrcb",
+      "generationType": "kerdes",
+      "title": "46. A Magyar Kormánytisztviselői Kar jogköre és az érdekegyeztetés",
+      "questions": 46,
+      "sha256": "875139c032c66b6f88663bf58997bce74a664299e193cf2bd5607793d4938300"
+    },
+    {
+      "file": "kviz/47/kerdes_mS32YPdudNJzEv29yXWb.json",
+      "sorszam": 47,
+      "id": "mS32YPdudNJzEv29yXWb",
+      "generationType": "kerdes",
+      "title": "A bizalomvesztés, a méltatlanság és a fegyelmi eljárás, a kártérítés (Kttv.)",
+      "questions": 46,
+      "sha256": "9448bde3508188e87eaf810913e3ebf43e35ef65d628a10193a8462bb9ad8840"
+    },
+    {
+      "file": "kviz/47/fogalom_NeMKOzcATKTwcytNn9y3.json",
+      "sorszam": 47,
+      "id": "NeMKOzcATKTwcytNn9y3",
+      "generationType": "fogalom",
+      "title": "A bizalomvesztés, a méltatlanság és a fegyelmi eljárás, a kártérítés (Kttv.)",
+      "questions": 36,
+      "sha256": "e210ee99eb6c5d530cd64989e50c5b4b2e22f9865ee1ec760ae72813eb484b3c"
+    },
+    {
+      "file": "kviz/48/kerdes_7PdadbyShgbPIYJBaSvg.json",
+      "sorszam": 48,
+      "id": "7PdadbyShgbPIYJBaSvg",
+      "generationType": "kerdes",
+      "title": "48. Az érdemtelenség és a fegyelmi eljárás, a Közszolgálati Döntőbizottság (...)",
+      "questions": 46,
+      "sha256": "6e2e0d2a4385606a9204335be65b5479976c716da2f789f7a23e2a32c59204a6"
+    },
+    {
+      "file": "kviz/48/fogalom_WM6sGnOTwJzmOz2aIrvS.json",
+      "sorszam": 48,
+      "id": "WM6sGnOTwJzmOz2aIrvS",
+      "generationType": "fogalom",
+      "title": "48. Az érdemtelenség és a fegyelmi eljárás, a Közszolgálati Döntőbizottság (...)",
+      "questions": 28,
+      "sha256": "4c266a448e7428473d6f706119958bd365b5b2b81f8027d2ff8a816193efe439"
+    },
+    {
+      "file": "kviz/49/kerdes_RlvwWCaVCp0R5rqBFwbI.json",
+      "sorszam": 49,
+      "id": "RlvwWCaVCp0R5rqBFwbI",
+      "generationType": "kerdes",
+      "title": "49. A Kttv. hatálya. a Kttv. szerinti kormányzati szolgálati jogviszony (...)",
+      "questions": 22,
+      "sha256": "6bbb3599455a0b822d83005a6a544197d0e1c1f30ee3c2d90eef80e25b94917d"
+    },
+    {
+      "file": "kviz/49/fogalom_WxuNv6ydiiKNmQWpI3c3.json",
+      "sorszam": 49,
+      "id": "WxuNv6ydiiKNmQWpI3c3",
+      "generationType": "fogalom",
+      "title": "49. A Kttv. hatálya. a Kttv. szerinti kormányzati szolgálati jogviszony (...)",
+      "questions": 16,
+      "sha256": "43bea77dfd190ed4ea7a0b83f6ec0ffaf9fd406e58b53023b2ccd0289f6f648c"
+    },
+    {
+      "file": "kviz/50/fogalom_b15iSvrdpow7WYoOW9Ub.json",
+      "sorszam": 50,
+      "id": "b15iSvrdpow7WYoOW9Ub",
+      "generationType": "fogalom",
+      "title": "50. A közalkalmazotti jogviszonyra vonatkozó szabályok, a közalkalmazotti (...)",
+      "questions": 28,
+      "sha256": "4aaf4d6ebcbe5724f2a8d956490df85882ddf22ff4b224b760b6970212021829"
+    },
+    {
+      "file": "kviz/50/kerdes_WXgiFwehHv3OvGJaKTaU.json",
+      "sorszam": 50,
+      "id": "WXgiFwehHv3OvGJaKTaU",
+      "generationType": "kerdes",
+      "title": "50. A közalkalmazotti jogviszonyra vonatkozó szabályok, a közalkalmazotti (...)",
+      "questions": 46,
+      "sha256": "927baf84543ca379fa5cf750f41ba863722862f6e84769f26efb2529e4764e5d"
+    },
+    {
+      "file": "kviz/51/kerdes_DOx480S7onXp9erb3ol7.json",
+      "sorszam": 51,
+      "id": "DOx480S7onXp9erb3ol7",
+      "generationType": "kerdes",
+      "title": "51. A kártérítési felelősségre vonatkozó főbb rendelkezések a (...)",
+      "questions": 16,
+      "sha256": "bc213647c89fc409a00753385147fd9fa9b1c190961daaface738b874c58cb34"
+    },
+    {
+      "file": "kviz/51/fogalom_qJihYrEjHcdSHHt0RwNU.json",
+      "sorszam": 51,
+      "id": "qJihYrEjHcdSHHt0RwNU",
+      "generationType": "fogalom",
+      "title": "51. A kártérítési felelősségre vonatkozó főbb rendelkezések a (...)",
+      "questions": 12,
+      "sha256": "3c5593f1cbb5d155d4ba837a9299245687e078f89a85caaf9818611cbd72551b"
+    },
+    {
+      "file": "kviz/52/fogalom_bsgCv6w8XbKB2P12loNB.json",
+      "sorszam": 52,
+      "id": "bsgCv6w8XbKB2P12loNB",
+      "generationType": "fogalom",
+      "title": "A közszolgálati jog fogalma, annak a magánmunkajogtól való (...)",
+      "questions": 28,
+      "sha256": "fa961b3db1b4a7d55047b3bff227c6745dfbcdb8e5a576d4c7d443f14915a470"
+    },
+    {
+      "file": "kviz/52/kerdes_XCRyhSW9IYc1fxosxHRi.json",
+      "sorszam": 52,
+      "id": "XCRyhSW9IYc1fxosxHRi",
+      "generationType": "kerdes",
+      "title": "A közszolgálati jog fogalma, annak a magánmunkajogtól való (...)",
+      "questions": 46,
+      "sha256": "b2c6700236e5050f8daf1692902821f9b9912214072c36b0a11295c09fdeec2a"
+    },
+    {
+      "file": "kviz/53/fogalom_6zRX8ynpzMYL0ZnUnzuq.json",
+      "sorszam": 53,
+      "id": "6zRX8ynpzMYL0ZnUnzuq",
+      "generationType": "fogalom",
+      "title": "A törvény célja, alapelvek, fontosabb fogalmak és értelmező rendelkezések.",
+      "questions": 28,
+      "sha256": "7ee065082e0df991c633d88f55d472db6335bc00042b78e450a33da03ed47566"
+    },
+    {
+      "file": "kviz/53/kerdes_R8unnZEYvOXZ3Te9myZp.json",
+      "sorszam": 53,
+      "id": "R8unnZEYvOXZ3Te9myZp",
+      "generationType": "kerdes",
+      "title": "A törvény célja, alapelvek, fontosabb fogalmak és értelmező rendelkezések.",
+      "questions": 46,
+      "sha256": "787982c9d1f620f062397a2137ec6250b83821de4a2e209622a67bbda4583817"
+    },
+    {
+      "file": "kviz/54/kerdes_1sg6al33kS4eCTyq0XuY.json",
+      "sorszam": 54,
+      "id": "1sg6al33kS4eCTyq0XuY",
+      "generationType": "kerdes",
+      "title": "54. A társadalombiztosítás ellátásai és az ellátásra jogosultak.",
+      "questions": 46,
+      "sha256": "babc030950c2eec5943c74930f5eac5bcbab00a69df2f92c789f2c755894b7e9"
+    },
+    {
+      "file": "kviz/54/fogalom_WxKddz0QKmNRHlN4YPUy.json",
+      "sorszam": 54,
+      "id": "WxKddz0QKmNRHlN4YPUy",
+      "generationType": "fogalom",
+      "title": "54. A társadalombiztosítás ellátásai és az ellátásra jogosultak.",
+      "questions": 28,
+      "sha256": "ad93afc8c6689d898df2ff4c10a7ca565c951a297a886854d5ffeb33ed3c6f9a"
+    },
+    {
+      "file": "kviz/55/kerdes_pfUhv9b0FZsyOQpSmGiL.json",
+      "sorszam": 55,
+      "id": "pfUhv9b0FZsyOQpSmGiL",
+      "generationType": "kerdes",
+      "title": "55. A járulékfizetésre vonatkozó általános szabályok, megállapodás (...)",
+      "questions": 46,
+      "sha256": "b1b30a8ed4b3a3f2fa25dc11bb6e8253e97701aba2dfdddf949fec41902e3a9e"
+    },
+    {
+      "file": "kviz/55/fogalom_W21GoB9HBYdIkTq37HTi.json",
+      "sorszam": 55,
+      "id": "W21GoB9HBYdIkTq37HTi",
+      "generationType": "fogalom",
+      "title": "55. A járulékfizetésre vonatkozó általános szabályok, megállapodás (...)",
+      "questions": 28,
+      "sha256": "09453d3bcac2a16d749cf078de435a2b3206191117b6f225ca7ecdbc00390eb4"
+    },
+    {
+      "file": "kviz/56/kerdes_hWIr7xLiJrt9r4RoXeKF.json",
+      "sorszam": 56,
+      "id": "hWIr7xLiJrt9r4RoXeKF",
+      "generationType": "kerdes",
+      "title": "56. Késedelem, mulasztás következményei, valamint az ellátásokhoz (...)",
+      "questions": 46,
+      "sha256": "650f04a4e04cc14f6bdf6402ff75d7770e5980d246fb042a48f81c15b6173300"
+    },
+    {
+      "file": "kviz/56/fogalom_nW5IdBTOwUi7Dh4EaI84.json",
+      "sorszam": 56,
+      "id": "nW5IdBTOwUi7Dh4EaI84",
+      "generationType": "fogalom",
+      "title": "56. Késedelem, mulasztás következményei, valamint az ellátásokhoz (...)",
+      "questions": 28,
+      "sha256": "f89b3082ca57a4b96c7ecbe67cdc51f89c39c8bcfb366b109b612832fb0599b5"
+    }
+  ]
+}

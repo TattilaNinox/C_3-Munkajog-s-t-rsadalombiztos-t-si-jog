@@ -1,0 +1,765 @@
+{
+  "id": "tlZ3Cgtl33ebXzfe89b9",
+  "sorszam": 45,
+  "cim": "A kormányzati szolgálati jogviszony tartalma, jogok és kötelezettségek.",
+  "generationType": "fogalom",
+  "title": "45. A kormányzati szolgálati jogviszony tartalma, jogok és kötelezettségek.",
+  "questions": [
+    {
+      "question": "A Kit. 80. § szerint kik a kormányzati szolgálati jogviszony alanyai, és mi a következménye annak, ha a Kormány összetétele megváltozik vagy megbízatása megszűnik?",
+      "options": [
+        {
+          "text": "A Kormány összetételének megváltozása és megbízatásának megszűnése a kormányzati szolgálati jogviszonyt nem érinti; a foglalkoztatás a Kormány mint intézményi munkáltató mellett folytatódik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 80. § expressis verbis rögzíti: „a Kormány összetételének megváltozása és megbízatásának megszűnése a jogviszonyt nem érinti”. Nincs automatikus új kinevezési kényszer pusztán a kormányváltás miatt. A személyi változás a kormányzati szolgálati köteléket önmagában nem oldja fel."
+        },
+        {
+          "text": "A jogviszony alanyai a Magyar Kormánytisztviselői Kar és a kormánytisztviselő, mert az MKK szakmai köztestületként a munkáltatói pozíciót tölti be a Kit. 76–77. § alapján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az MKK a Kit. 76–77. § szerinti szakmai köztestület, nem a jogviszony munkáltatói alanya. A Kit. 80. § szerint a munkáltató a Kormány, a foglalkoztatott a kormánytisztviselő. Az MKK hivatásetikai és képviseleti szerepe nem helyettesíti a munkáltatói alanyiságot."
+        },
+        {
+          "text": "A kormányzati szolgálati jogviszony alanyai a Kormány mint munkáltató és a kormánytisztviselő mint foglalkoztatott; a jogviszony a köz szolgálata és munkavégzés céljából létesített különleges jogviszony.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 80. § a jogviszony alanyaiként a Kormányt és a kormánytisztviselőt nevezi meg. A munkáltatói pozíció tehát nem az MKK-é és nem a KMK-é. A Kit. a jogviszonyt különleges, közszolgálati jellegű kötelékként határozza meg, nem az Mt. munkaviszonyaként."
+        },
+        {
+          "text": "Ha a Kormány összetétele megváltozik, a kormányzati szolgálati jogviszony a törvény erejénél fogva megszűnik, és új kinevezés nélkül nem folytatható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 80. § szerint a Kormány összetételének megváltozása a jogviszonyt nem érinti. Nincs automatikus megszűnés és nincs kötelező új kinevezés pusztán a kormányváltás miatt. A kötelék a Kormány intézményi munkáltatói minőségéhez kapcsolódik."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "b03ca2ab159a"
+    },
+    {
+      "question": "A Kit. 80. § keretében hogyan ruházható át a Kormány nevében gyakorolt munkáltatói jogkör, és mi a következménye a jogosulatlan intézkedésnek?",
+      "options": [
+        {
+          "text": "A munkáltatói jogokat a Kormány nevében — törvény vagy kormányrendelet eltérő rendelkezése hiányában — a kormányzati igazgatási szerv hivatali szervezetének vezetője gyakorolja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 80. § a munkáltatói jogok gyakorlását főszabály szerint a kormányzati igazgatási szerv hivatali szervezetének vezetőjéhez telepíti. A vezető a Kormány nevében jár el, nem saját magánjogi munkáltatóként. Eltérő törvényi vagy kormányrendeleti rendelkezés hiányában ez a kiindulópont a jogkörgyakorlásnál."
+        },
+        {
+          "text": "A munkáltatói jogkör szóban is átruházható, és az átruházott jogkör gyakorlója azt tovább ruházhatja bármely kormánytisztviselőre a szerv hatékony működése érdekében.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 80. § szerint a jogkör csak írásban ruházható át, és tovább nem ruházható. Szóbeli átruházás és láncátruházás nem felel meg a törvényi formának. A címzetti kör is korlátozott: szakmai felsővezetői vagy szakmai vezetői álláshely."
+        },
+        {
+          "text": "A jogkör írásban, tovább nem ruházhatóan a szakmai felsővezetői vagy szakmai vezetői álláshelyet betöltő kormánytisztviselőre átruházható; a nem jogosított intézkedés érvénytelen, ha a jogkör gyakorlója hat hónapon belül írásban nem hagyja jóvá.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 80. § az átruházást írásbeliséghez és tovább-átruházási tilalomhoz köti. Célzott címzettek a szakmai felsővezetői vagy szakmai vezetői álláshelyet betöltők. A jogosulatlan intézkedés hat hónapon belüli írásbeli jóváhagyás hiányában érvénytelen."
+        },
+        {
+          "text": "A jogosulatlan intézkedés mindig érvényes marad, mert a kormányzati szolgálati jogviszonyban a tényleges munkáltatói gyakorlat pótolja az írásbeli átruházást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 80. § szerint a nem jogosított intézkedés érvénytelen, ha a jogkör gyakorlója hat hónapon belül írásban nem hagyja jóvá. A tényleges gyakorlat nem pótolja az írásbeli átruházást. Az utólagos jóváhagyás határideje és formája is kötött."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "358c3592bc9b"
+    },
+    {
+      "question": "Mi a különbség a kormányzati szolgálati jogviszony tartalma és a létesítés feltételei között a Kit. rendszerében, és hol helyezkedik el az MKK, illetve a KMK?",
+      "options": [
+        {
+          "text": "A Magyar Kormánytisztviselői Kar (MKK) a Kit. 76–77. § szerinti szakmai köztestület; a Kúria Közigazgatási-Munkaügyi Kollégiuma (KMK) nem alanya a kormányzati szolgálati jogviszonynak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az MKK köztestületi szerepe a hivatásetikai részletszabályokra és az etikai eljárásra is kiterjed a Kit. 77. § szerint. A KMK a Kúria kollégiuma, kollégiumi véleményt adhat, de nem fél a Kit. 80. § szerinti jogviszonyban. A két mozaikszó fogalmilag és hatáskörileg sem cserélhető fel egymással."
+        },
+        {
+          "text": "A KMK a Kit. 80. § szerinti munkáltatói alany, mert a közszolgálati jogvitákban a Kormány helyett jár el félként.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 80. § szerint a munkáltató a Kormány, a foglalkoztatott a kormánytisztviselő. A KMK nem alanya a jogviszonynak, és nem lép a közszolgálati jogvita felperesi vagy alperesi oldalára munkáltatóként. Kollégiumi véleménye eljárásjogi-értelmezési eszköz, nem alanyi státusz."
+        },
+        {
+          "text": "A jogviszony tartalma azonos a létesítés feltételeivel: ami a kinevezéshez kell, az egyben a tartalmi kötelezettségek teljes listája is a Kit. XV. fejezetében.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a jogviszony tartalma és a létesítés feltételei a Kit. rendszerében elválnak egymástól. A Kit. 82. § fennállási és létesítési feltételei nem helyettesítik a XV. fejezet 91–98. § szerinti tartalmi kötelezettségeket. A kinevezési feltételek teljesítése önmagában nem meríti ki a szolgálati tartalmat."
+        },
+        {
+          "text": "A jogviszony tartalma a Kit. XV. fejezetében a kölcsönös kötelezettségek és az azokból következő alanyi helyzetek rendje; ez nem azonos a létesítés feltételeivel, bár a fennálláshoz kapcsolódhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tartalom a foglalkoztató és a kormánytisztviselő kötelezettségeit, a mentesüléseket, a tilalmakat és az elévülést öleli fel. A létesítéshez kapcsolódó feltételek — például a Kit. 82. § (1) szerinti állampolgárság, büntetlen előélet, cselekvőképesség, végzettség és eskü — más síkon állnak. A két sík kapcsolódik, de nem esik egybe."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "ec24ac598c54"
+    },
+    {
+      "question": "Mi a közszolgálati szabályzat szerepe a kormányzati szolgálati jogviszony tartalmában a Kit. 91. § (5) bekezdése szerint, és hogyan viszonyul a törvényi kötelezettségekhez?",
+      "options": [
+        {
+          "text": "A kormányzati szolgálati jogviszony tartalmára az Mt. munkaviszonyi szabályai az irányadók, a közszolgálati szabályzat csak az Mt. kereteit tölti ki a szervnél.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kormányzati szolgálati jogviszony a Kit. szerinti különleges jogviszony, nem az Mt. munkaviszonya. A közszolgálati szabályzat a Kit. 91. § (5) bekezdése és a 88/2019. (IV. 23.) Korm. rendelet 19. §-a keretében értelmezendő. Az Mt. nem a tartalom elsődleges forrása."
+        },
+        {
+          "text": "A közszolgálati szabályzat a Kit. rendelkezéseivel ellentétesen is meghatározhatja a kormánytisztviselő kötelezettségeit, ha a szerv vezetője így dönt a helyi sajátosságok miatt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 91. § (5) bekezdése szerinti közszolgálati szabályzat a szerv belső munkáltatói rendjét adja, de a törvényi kötelezettségeket nem írhatja felül. A tartalmi szabályok kényszerítő jellegűek a XV. fejezetben. A hivatali szervezet vezetőjének döntése sem oldja fel a törvényi kötelezettségminimumot."
+        },
+        {
+          "text": "A közszolgálati szabályzat a szerv belső munkáltatói rendjét adja; a tartalmi szabályok kényszerítőek, ezért a szabályzat a törvényi kötelezettségeket nem írhatja felül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 91. § (5) bekezdése a hivatali szervezet vezetőjét közszolgálati szabályzat kiadására kötelezi. A szabályzat a belső munkáltatói rend kerete. A törvényi kötelezettségek kényszerítő jellegűek, ezért a szabályzat nem írhatja felül őket."
+        },
+        {
+          "text": "A 88/2019. (IV. 23.) Korm. rendelet 19. §-a a szabályzat kötelező elemeit a jogviszony létesítésétől a juttatásokig részletezi, ideértve az együttalkalmazást, a munkaidőt, a távmunkát és a teljesítményértékelés kormánytisztviselő általi kezdeményezését.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 88/2019. (IV. 23.) Korm. rendelet 19. §-a a kötelező szabályzati elemeket rögzíti. Ez a belső rend tartalmi minimumát adja. Nem jogosít fel arra, hogy a Kit. kötelezettségeit ellentétesen felülírják."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "cdd3d95eefaf"
+    },
+    {
+      "question": "A Kit. 91. § (1) bekezdése szerint miben áll a foglalkoztató kormányzati igazgatási szerv kötelezettségeinek közjogi súlya, és mely elemek tartoznak a tízpontos katalógusba?",
+      "options": [
+        {
+          "text": "Az illetmény és a járandóságok megfizetése, valamint az indokolt költségek megtérítése a szerv mérlegelési jogkörébe tartozik, ha a költségvetési helyzet ezt indokolja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 91. § (1) bekezdés h) és i) pontja az illetmény, járandóságok megfizetését és az indokolt költségek megtérítését kötelezettségként rögzíti. Ezek nem a szerv diszkrecionális döntésétől függnek. A költségvetési helyzet önmagában nem oldja fel a törvényi fizetési kötelezettséget."
+        },
+        {
+          "text": "A XV. fejezet a jogviszony tartalmát a foglalkoztató kötelezettségeivel nyitja; a szerv a köz szolgálatának szervezője, ezért előbb a rá nézve kötelező foglalkoztatási minimum áll.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. a XV. fejezetben a jogviszony tartalmát a foglalkoztató kötelezettségeivel nyitja, nem a kormánytisztviselőével. Ez a sorrend a közjogi jelleget mutatja: a szerv a köz szolgálatának szervezője. A Kit. 91. § (1) bekezdése a szervezési és ellenszolgáltatási foglalkoztatási minimumot rögzíti."
+        },
+        {
+          "text": "A katalógusba tartozik többek között az eskütétel megszervezése, az álláshelyen való foglalkoztatás, az egészséges és biztonságos munkavégzés, a követelmények írásbeli rögzítése, a képzés biztosítása, az illetmény megfizetése és az érdekképviseleti jogok gyakorolhatósága.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 91. § (1) bekezdés a)–j) pontjai sorolják e kötelezettségeket. Az illetmény és a költségek megtérítése nem diszkrecionális. Az érdekképviseleti jogok gyakorolhatóságának biztosítása szervezési kötelezettség."
+        },
+        {
+          "text": "A XV. fejezet először a kormánytisztviselő kötelezettségeit rögzíti, mert a közszolgálatban a foglalkoztatott kötelességei elsőbbséget élveznek a szerv kötelezettségeivel szemben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. a tartalmat a foglalkoztató Kit. 91. § szerinti kötelezettségeivel nyitja meg. A kormánytisztviselő kötelezettségei a Kit. 93. §-ban következnek, nem előzik meg a szervét. A sorrend a közjogi jelleget tükrözi, nem a foglalkoztatotti kötelezettségek elsőbbségét."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "2e1b21f7f603"
+    },
+    {
+      "question": "A Kit. 91. § (2)–(4) bekezdése milyen védőszabályokat állít a kormánytisztviselő foglalkoztatásához, és mi az észszerű alkalmazkodás jellege?",
+      "options": [
+        {
+          "text": "A fogyatékossággal élő, illetve a megváltozott munkaképességű kormánytisztviselő foglalkoztatása során a szervnek gondoskodnia kell az észszerű alkalmazkodás feltételeiről; az alkalmassági vizsgálat a munkába lépés előtt és a jogviszony alatt ingyenes.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 91. § (3) bekezdése az észszerű alkalmazkodást foglalkoztatási kötelezettséggé teszi. A (4) bekezdés az alkalmassági vizsgálatot ingyenesen írja elő a munkába lépés előtt és a jogviszony fennállása alatt. Mindkettő a szervre telepített kötelezettség."
+        },
+        {
+          "text": "Az észszerű alkalmazkodás a szerv diszkrecionális juttatása: csak akkor jár, ha a költségvetés és a vezető egyedi döntése ezt lehetővé teszi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 91. § (3) bekezdése szerint az észszerű alkalmazkodás foglalkoztatási kötelezettség, nem kegy. A szervnek gondoskodnia kell a feltételekről. A költségvetési mérlegelés nem írja felül a törvényi kötelezettséget."
+        },
+        {
+          "text": "A kormánytisztviselőt csak olyan munkára lehet alkalmazni, amely testi alkatára vagy fejlettségére tekintettel rá hátrányos következményekkel nem járhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 91. § (2) bekezdése a testi alkatra vagy fejlettségre tekintettel tilalmazza a hátrányos következménnyel járó munkát. Ez védőszabály a foglalkoztatásban, nem kegyként értelmezhető juttatás. A feladatok megszervezése csak e tilalom keretei között lehet jogszerű."
+        },
+        {
+          "text": "Az alkalmassági vizsgálat díját a kormánytisztviselő viseli, mert a vizsgálati kötelezettség a foglalkoztatott érdekkörébe tartozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 91. § (4) bekezdése szerint a szerv ingyenesen biztosítja az alkalmassági vizsgálatot a munkába lépés előtt és a jogviszony fennállása alatt. A díjviselés tehát nem a kormánytisztviselőé. A munkavédelemről szóló törvény felhatalmazása alapján kiadott miniszteri rendelet jelöli ki a feladatkört."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "8e48cb5c69b5"
+    },
+    {
+      "question": "A Kit. 92. § szerinti hivatásetikai követelmények miben állnak, hogyan kapcsolódnak az MKK szerepéhez, és mi a Kit. 109. § szerinti érdemtelenség viszonya a munkahelyen kívüli magatartáshoz?",
+      "options": [
+        {
+          "text": "A felsorolás különösen az elkötelezettséget, a nemzeti érdekek előnyben részesítését, az igazságosságot, a méltányosságot, a méltóságot, a tisztességet, az előítéletektől való mentességet és a felelősségtudatot nevezi meg; az MKK alkotja meg a részletszabályokat és folytatja le az etikai eljárásokat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 92. § az elkötelezettséget, a nemzeti érdekek előnyben részesítését, az igazságosságot, a méltányosságot, a méltóságot, a tisztességet, az előítéletektől való mentességet és a felelősségtudatot nevezi meg. A Kit. 77. § szerint az MKK alkotja meg a hivatásetikai részletszabályokat és folytatja le az etikai eljárásokat. Az MKK szakmai köztestület, és nem azonos a Kúria Közigazgatási-Munkaügyi Kollégiumával."
+        },
+        {
+          "text": "A 92. § zárt, taxatív etikai kódex: ami nincs a felsorolásban, az a kormánytisztviselőre nézve nem lehet hivatásetikai követelmény.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 92. § példálózó („különösen”) katalógust ad, nem zárt kódexet. A részletszabályokat az MKK alkotja meg a Kit. 77. § szerint. A törvényi alapelvek nem merítik ki az etikai tartalmat."
+        },
+        {
+          "text": "Az érdemtelenség kizárólag a munkahelyen belüli, a felettes utasításának megszegéséből eredő magatartásra épülhet, a munkahelyen kívüli magatartás irreleváns.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 109. § szerinti érdemtelenség a munkahelyen kívüli, a szerv jó hírnevét vagy a jó közigazgatásba vetett bizalmat súlyosan romboló magatartásra, illetve a szakmai elhivatottság hiányára is épülhet. Nem korlátozódik a felettesi utasítás megszegésére. A hivatásetikai sík így a munkahelyen kívüli magatartást is elérheti."
+        },
+        {
+          "text": "A 92. § nem zárt etikai kódex, hanem a hivatásetikai alapelvek törvényi katalógusa; az alapelvek a hivatás méltóságát védik, és függetlenül kötik a kormánytisztviselőt a 91. § és a 93. § kötelezettségeitől.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 92. § példálózó („különösen”) hivatásetikai alapelv-katalógust ad, nem zárt kódexet. Az alapelvek a 91. § szervezeti és a 93. § munkavégzési kötelezettségeitől elváló etikai síkot képeznek. A hivatás méltóságának védelme így önálló tartalmi elem a jogviszonyban."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "7debfe3894af"
+    },
+    {
+      "question": "A Kit. 93. § (1) bekezdése szerint melyek a kormánytisztviselő pozitív kötelezettségeinek magjai, és meddig terjed a titoktartás?",
+      "options": [
+        {
+          "text": "A titoktartás a minősített adaton túl minden olyan tényre kiterjed, amelynek kiszolgáltatása az állam, a szerv, a munkatárs vagy az állampolgár számára hátrányos vagy előnyös következménnyel járna.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 93. § (1) bekezdés g) pontja a minősített adat megtartásán túl ezt a tágabb tájékoztatási tilalmat is rögzíti. A hátrányos és az előnyös következmény egyaránt releváns. A tilalom az illetéktelen személynek és szervnek adott tájékoztatásra vonatkozik."
+        },
+        {
+          "text": "A kormánytisztviselő a munkáját helyettesítéssel is elláthatja, ha a felettes ezt szóban tudomásul veszi, mert a személyes munkavégzés nem kötelező elem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 93. § (1) bekezdés c) pontja szerint a kormánytisztviselő köteles munkáját személyesen ellátni. A szóbeli tudomásulvétel nem oldja fel ezt a kötelezettséget. A személyes ellátás a szolgálati tartalom része."
+        },
+        {
+          "text": "A titoktartás kizárólag a minősített adatra korlátozódik; minden más, a tevékenység során tudomásra jutott tény szabadon közölhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 93. § (1) bekezdés g) pontja a minősített adaton túl tiltja az olyan tények kiszolgáltatását, amelyek hátrányos vagy előnyös következménnyel járnának. A tilalom tehát tágabb a minősített adat fogalmánál. Az illetéktelen személynek vagy szervnek adott tájékoztatás tilos."
+        },
+        {
+          "text": "A kormánytisztviselő köteles az előírt helyen és időben, munkára képes állapotban megjelenni, munkaideje alatt rendelkezésre állni, munkáját személyesen ellátni, és felettese utasítását a törvény keretei között végrehajtani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 93. § (1) bekezdés a)–d) pontjai a megjelenést, a rendelkezésreállást, a személyes munkavégzést és az utasítás-végrehajtást írják elő. Ezek a szolgálati tartalom alapelemei a foglalkoztatotti oldalon. A személyes ellátás főszabály, nem helyettesíthető szabad belátással."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "bea6198ad9f8"
+    },
+    {
+      "question": "A Kit. 93. § (2)–(4) bekezdése szerint milyen jellegű a rendelkezésreállás és a munkavégzés alóli mentesülés, és mi az örökbefogadási, valamint a személyes gondozási jogcím sajátossága?",
+      "options": [
+        {
+          "text": "Az örökbefogadási mentesülés automatikusan a jogviszony megszűnését eredményezi, ha a kormánytisztviselő az évi tíz munkanapot igénybe veszi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 93. § (2) bekezdés n) pontja szerinti mentesülés a rendelkezésreállást és a munkavégzést oldja fel, de a jogviszonyt nem szünteti meg. Az igénybevétel nem automatikus megszűnési ok. A (3) bekezdés az igazolási és tájékoztatási rendet szabályozza."
+        },
+        {
+          "text": "A személyes gondozási mentesülés korlátlanul, a kormánytisztviselő egyoldalú bejelentésével vehető igénybe, orvosi igazolás és részletezés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 93. § (2) bekezdés o) pontja és (4) bekezdése szerint a személyes gondozás céljából évente legfeljebb öt munkanap jár, legfeljebb két részletben. A gondozás indokoltságát a gondozásra szoruló személy kezelőorvosa igazolja. Egyoldalú, igazolás nélküli igénybevétel nem felel meg a törvényi rendnek."
+        },
+        {
+          "text": "Az örökbefogadás előkészítése miatt évente legfeljebb tíz munkanap jár a kérésnek megfelelő időpontban, az örökbefogadást elősegítő szervezet igazolásának kiállításától számított kilencven napon belül, legalább öt munkanapos előzetes tájékoztatással; a személyes gondozás céljából évente legfeljebb öt munkanap jár, legfeljebb két részletben, a kezelőorvos igazolása alapján.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 93. § (2) bekezdés n) és o) pontja, valamint a (3)–(4) bekezdés ezt a rendet rögzíti. Az n) pontnál a kilencven napos érvényesítési ablak és az öt munkanapos előzetes tájékoztatás kötött. Az o) pontnál a két részlet és a kezelőorvosi igazolás a feltételek."
+        },
+        {
+          "text": "A mentesülések a rendelkezésreállást és a munkavégzést együtt oldják fel, de a jogviszonyt nem szüntetik meg; a katalógusban szerepel többek között a keresőképtelenség, a kötelező orvosi vizsgálat, a döntőbizottsági vagy etikai eljárás és az MKK testületi ülésén való személyes részvétel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 93. § (2) bekezdése a mentesülések katalógusát adja. A (2) bekezdés i) pontja a közszolgálati döntőbizottsági, etikai és MKK testületi részvételt is ide vonja. A mentesülés nem jogviszony-megszüntetés."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "0cf64ac8ebd3"
+    },
+    {
+      "question": "A Kit. 94. § szerint mikor köteles a kormánytisztviselő megtagadni a felettesi utasítás végrehajtását, és mikor csupán megtagadhatja azt?",
+      "options": [
+        {
+          "text": "A kormánytisztviselő minden olyan utasítást köteles megtagadni, amellyel szakmai szempontból nem ért egyet, mert a különvélemény automatikusan megtagadási kötelezettséget keletkeztet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 94. § (6) bekezdése szerinti különvélemény nem megtagadás: a kormánytisztviselő végrehajt, de írásban rögzíti az egyet nem értést. A kötelező és a jogosultság szerinti megtagadás az (1)–(2) bekezdéshez kötött. A szakmai egyet nem értés önmagában nem kötelező megtagadás."
+        },
+        {
+          "text": "Megtagadható az utasítás, ha teljesítése a kormánytisztviselő saját életét, egészségét vagy testi épségét közvetlenül és súlyosan veszélyeztetné, vagy jogszabályba, illetve a szerv normatív utasításába ütközne.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 94. § (2) bekezdése a jogosultság szerinti megtagadás körét adja. Itt a saját élet, egészség, testi épség, illetve a jogszabályi vagy normatív utasításba ütközés a fordulópont. Ez elválik az (1) bekezdés kötelező eseteitől."
+        },
+        {
+          "text": "Kötelező a megtagadás, ha az utasítás teljesítésével bűncselekményt vagy szabálysértést valósítana meg, vagy más személy életét, testi épségét, egészségét, illetve a környezetet közvetlenül és súlyosan veszélyeztetné.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 94. § (1) bekezdése a kötelező megtagadás eseteit rögzíti. A bűncselekmény és a szabálysértés, valamint a más személyre vagy a környezetre irányuló közvetlen és súlyos veszély itt nem mérlegelési kérdés. A kötelező megtagadás elmaradása kötelezettségszegéshez vezethet."
+        },
+        {
+          "text": "A saját élet, egészség vagy testi épség közvetlen és súlyos veszélyeztetése esetén is kötelező a végrehajtás, ha a felettes szóban megerősíti az utasítást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 94. § (2) bekezdés a) pontja szerint ilyen veszély esetén az utasítás megtagadható. A felettes szóbeli megerősítése nem szünteti meg ezt a jogosultságot. Az (1) bekezdés kötelező esetei mellett ez a sajátvédelmi megtagadási ág."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "915207658ab8"
+    },
+    {
+      "question": "A Kit. 94. § (3)–(8) bekezdése szerint mikor kötelező a figyelmeztetés és az írásba foglalás kérése, és mi a jogszerű megtagadás joghatása a rendelkezésreállásra és az illetményre?",
+      "options": [
+        {
+          "text": "Az írásba foglalás kérése miatt a kormánytisztviselő hátrányos jogkövetkezménnyel sújtható, mert ezzel megkérdőjelezi a felettes utasítási jogát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 94. § (4) bekezdése szerint a kormánytisztviselőt az írásba foglalásra irányuló kérelme miatt hátrány nem érheti. Az utasítást adó az írásba foglalást nem tagadhatja meg. A kérelem tehát védett procedurális eszköz."
+        },
+        {
+          "text": "A jogszerű megtagadás nem menti fel a kormánytisztviselőt a további rendelkezésreállás alól; a kieső időre illetmény jár, és a jogszerű utasításokat továbbra is teljesíteni kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 94. § (7)–(8) bekezdése szerint a jogszerű megtagadás nem oldja fel a további rendelkezésreállást. A kieső időre a kormánytisztviselő illetményre jogosult. A jogszerű utasítások teljesítési kötelezettsége a megtagadás mellett is fennmarad."
+        },
+        {
+          "text": "A jogszerű megtagadás automatikusan felmenti a kormánytisztviselőt a rendelkezésreállás alól, és a kieső időre illetmény nem jár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 94. § (7) bekezdése szerint a jogszerű megtagadás nem menti fel a rendelkezésreállás alól. A (8) bekezdés a kieső időre illetményt biztosít. A rendelkezésreállás és az illetmény tehát nem esik el automatikusan."
+        },
+        {
+          "text": "A kormánytisztviselő köteles az utasítást adó figyelmét felhívni, és kérheti az utasítás írásba foglalását, ha az utasítás jogszabályba vagy normatív utasításba ütközne, belátható kárt idézhet elő, vagy az érintettek jogos érdekeit sérti; az írásba foglalást az utasítást adó nem tagadhatja meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 94. § (3)–(4) bekezdése ezt a figyelmeztetési és írásba foglalási rendet rögzíti. A kérelem miatt hátrány nem érheti a kormánytisztviselőt. Ha az utasítást adó nem a közvetlen felettes, az (5) bekezdés szerint a közvetlen felettes útján kell kérni."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "d503028dd7f2"
+    },
+    {
+      "question": "A Kit. 95. § (1)–(2) bekezdése szerint mi az együttalkalmazási tilalom magja, és mikor adható felmentés a tilalom alól?",
+      "options": [
+        {
+          "text": "A külpolitikáért felelős miniszter a külszolgálati hálózat és a tartós külszolgálat tekintetében, illetve az európai uniós ügyek koordinációjáért felelős miniszter az EU ÁK tekintetében — ha jogszabály másként nem rendelkezik — különösen indokolt esetben felmentést adhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 95. § (2) bekezdése ezt a miniszteri felmentési lehetőséget nyitja. A felmentés kivételes és indokolt esetre szól. Nem általános dispensatio minden szervnél."
+        },
+        {
+          "text": "Nem létesíthető kormányzati szolgálati jogviszony, ha a kormánytisztviselő hozzátartozójával irányítási (felügyeleti), ellenőrzési vagy elszámolási kapcsolatba kerülne; a tilalom a létesítést és a fennállás alatti keletkezést is eléri.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 95. § (1) bekezdése kimondja: „Nem létesíthető kormányzati szolgálati jogviszony, ha a kormánytisztviselő hozzátartozójával irányítási (felügyeleti), ellenőrzési vagy elszámolási kapcsolatba kerülne”. A tilalom a jogviszony tartalmának korlátja a létesítéskor és a fennállás alatt egyaránt. A (2) bekezdés csak meghatározott miniszteri ügykörökben — külszolgálat és EU ÁK — nyit felmentést."
+        },
+        {
+          "text": "Az együttalkalmazási tilalom csak a létesítéskor vizsgálandó; ha a jogviszony fennállása alatt keletkezik hozzátartozói irányítási kapcsolat, a tilalom már nem alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 95. § az együttalkalmazási tilalmat a létesítésre és a fennállás alatti keletkezésre is kiterjeszti. A (14) bekezdés a fennállás alatt keletkező, az (1) bekezdés szerinti helyzetnél — megegyezés hiányában — a munkáltatói jogkör gyakorlójára bízza, hogy melyik jogviszony szűnik meg. A tilalom tehát nem merül ki a létesítéskori vizsgálattal."
+        },
+        {
+          "text": "Bármely kormányzati igazgatási szerv vezetője általános hatáskörben felmentést adhat az együttalkalmazási tilalom alól, ha a létszámgazdálkodás ezt indokolja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 95. § (2) bekezdése a felmentést meghatározott miniszteri hatáskörökhöz és ügykörökhöz (külszolgálat, EU ÁK) köti. Általános, bármely szervvezetői dispensatio nincs. A létszámgazdálkodás önmagában nem felmentési jogcím."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "f107afb1c6e2"
+    },
+    {
+      "question": "A Kit. 95. § (5)–(8) bekezdése szerint mikor kell előzetes engedély, mikor elég a bejelentés a további munkavégzésre irányuló jogviszonynál, és mi a mulasztás jogkövetkezménye?",
+      "options": [
+        {
+          "text": "Minden további keresőtevékenység — ideértve a tudományos és oktatói tevékenységet is — szabadon, bejelentés és engedély nélkül létesíthető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 95. § (5) bekezdése a további jogviszonyt főszabály szerint előzetes engedélyhez köti. A gyakorolható tevékenységnél a (6) bekezdés bejelentést ír elő, átfedő munkaidőnél pedig a (7) bekezdés engedélyt. Szabad, kontroll nélküli létesítés nincs."
+        },
+        {
+          "text": "Az engedély vagy bejelentés elmulasztása esetén a jogviszony a törvény erejénél fogva, harminc nap elteltével automatikusan megszűnik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 95. § (8) bekezdése szerint az engedély vagy bejelentés elmulasztása esetén a jogviszony felmentéssel megszüntethető; ez mérlegelési jog. A harminc napos, törvény erejénél fogva beálló megszűnés a (13) bekezdés szerinti összeférhetetlenségi felszólítás eredménytelenségéhez kötődik. A két jogkövetkezmény tehát nem cserélhető fel."
+        },
+        {
+          "text": "Ha a gyakorolható vagy közérdekű önkéntes tevékenység munkavégzési időtartama részben azonos a beosztás szerinti munkaidővel, akkor is előzetes engedély kell; az engedély vagy bejelentés elmulasztása esetén a jogviszony felmentéssel megszüntethető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 95. § (7) bekezdése az időbeli átfedésnél visszavezeti az engedélykényszert. A (8) bekezdés a mulasztás jogkövetkezményeként felmentést enged. A felmentés mérlegelési jog, nem automatikus törvényi megszűnés."
+        },
+        {
+          "text": "További munkavégzésre irányuló jogviszony főszabály szerint a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthető; a gyakorolható tevékenység és a közérdekű önkéntes tevékenység főszabály szerint bejelentési rend alá esik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 95. § (5)–(6) bekezdése az engedélyi főszabályt és a bejelentési kivételt választja szét. A gyakorolható tevékenység (tudományos, oktatói, művészeti és hasonló) és a közérdekű önkéntes tevékenység főszabály szerint bejelentési rend alá esik. A bejelentés írásbeli, és a jogviszony létesítését megelőzően teendő."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "32aecaeb121d"
+    },
+    {
+      "question": "A Kit. 95. § (10) és (13) bekezdése szerint milyen párttisztségi és gazdasági vezetői tilalmak kötik a kormánytisztviselőt, és mi az összeférhetetlenség megszüntetésére nyitott harminc nap joghatása?",
+      "options": [
+        {
+          "text": "Ha összeférhetetlenségi ok merül fel, a kormánytisztviselő köteles azt haladéktalanul írásban bejelenteni; a munkáltatói jogkör gyakorlója harminc napos megszüntetési felszólítást ad, és annak eredménytelensége esetén a jogviszony megszűnik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 95. § (13) bekezdése a bejelentési kötelezettséget, a harminc napos felszólítást és az eredménytelenséghez kapcsolódó törvényi megszűnést rögzíti. Ez elválik a (8) bekezdés szerinti felmentési lehetőségről. A harminc nap eredménytelen elteltével a jogviszony a törvény erejénél fogva szűnik meg."
+        },
+        {
+          "text": "A kormánytisztviselő pártban tisztséget nem viselhet, és párt nevében vagy érdekében — meghatározott választási jelöltségi kivételekkel — közszereplést nem vállalhat; gazdasági társaságnál vezető tisztségviselő vagy felügyelőbizottsági tag főszabály szerint nem lehet, meghatározott állami, önkormányzati vagy köztestületi tulajdoni kivételekkel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 95. § (10) bekezdés a) és b) pontja ezeket a tilalmakat rögzíti. A választási jelöltség bizonyos körben kivétel a közszereplési tilalom alól. A gazdasági vezetői tilalom alól a törvény tulajdoni és delegálási kivételeket nevesít."
+        },
+        {
+          "text": "A kormánytisztviselő pártban tisztséget viselhet, ha erről a munkáltatói jogkör gyakorlóját utólag tájékoztatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 95. § (10) bekezdés a) pontja a párttisztséget tiltja. Az utólagos tájékoztatás nem oldja fel a tilalmat. A közszereplési tilalom alól csak a törvényben nevesített választási jelöltségi kivételek érvényesülnek."
+        },
+        {
+          "text": "Az összeférhetetlenség fennállása esetén a jogviszony csak felmentéssel szüntethető meg, a harminc nap eredménytelen elteltének nincs automatikus megszűnési hatása.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 95. § (13) bekezdése szerint ha a kormánytisztviselő a felszólítás kézbesítésétől számított harminc napon belül nem szünteti meg az összeférhetetlenséget, jogviszonya megszűnik. Ez a törvény erejénél fogva beálló megszűnés. Nem azonos a (8) bekezdés szerinti, felmentéssel való megszüntethetőséggel."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "62d62381f34f"
+    },
+    {
+      "question": "A Kit. 96. § szerint mi a teljesítményértékelés jellege, mikor kötelező, és milyen illetményhatásokat enged?",
+      "options": [
+        {
+          "text": "Az értékelés az illetményt a besorolási kategória összeghatárán kívül is szabadon, korlát nélkül módosíthatja, és a kategóriát is felülírhatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 96. § (3) bekezdés a) pontja szerint az illetménymódosítás a besorolási kategóriához tartozó összeghatáron belül marad, legfeljebb 20% csökkenéssel vagy 30% növekedéssel. Az értékelés nem írhatja felül magát a besorolási kategóriát. A kategóriahatáron kívüli szabad módosítás tehát tilos."
+        },
+        {
+          "text": "Az értékelés alapján az illetmény a besorolási kategória összeghatárán belül legfeljebb 20%-kal csökkenthető, illetve legfeljebb 30%-kal növelhető, és teljesítményelismerés fizethető; a megsemmisítés iránt közszolgálati jogvita indítható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 96. § (3) és (5) bekezdése ezt a joghatást és a jogvitaútját rögzíti. Az illetménymódosítás a kategória összeghatárán belül marad. A jogvita a teljesítményértékelés megsemmisítésére irányul."
+        },
+        {
+          "text": "A teljesítményértékelés minden kormánytisztviselőnél kötelező éves rutinfeladat, a munkáltatói jogkör gyakorlójának nincs mérlegelési joga a mellőzésre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 96. § (1) bekezdése szerint az értékelés szükség szerint, a munkáltatói jogkör gyakorlójának mérlegelése alapján végezhető. Kötelezővé a (2) bekezdés szerinti kormánytisztviselői kérelem teszi tárgyévenként egyszer. Nincs általános, mindenkit érintő éves kényszerrutin."
+        },
+        {
+          "text": "A teljesítményértékelés a munkáltatói jogkör gyakorlójának mérlegelési joga: szükség szerint, írásban végezhető el; kivételként a kormánytisztviselő kérelmére tárgyévenként egyszer értékelni kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 96. § (1)–(2) bekezdése a teljesítményértékelést mérlegelési főszabállyá teszi, a kérelemre kötelező kivétellel. Nem kötelező éves rutinfeladat minden kormánytisztviselőnél. A kormánytisztviselő kérelme tárgyévenként egyszeri értékelési kötelezettséget keletkeztet."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "78731d594c20"
+    },
+    {
+      "question": "A Kit. 97. § szerint mi a képzés jogi természete a kormányzati szolgálati jogviszony tartalmában, ki biztosítja, és ki viseli a költségeket?",
+      "options": [
+        {
+          "text": "A képzés kizárólag a munkáltató egyoldalú utasítása; a kormánytisztviselőnek nincs alanyi joga a részvételre, és az NKE szerepe nem törvényi főszabály.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 97. § (1) bekezdése szerint a kormánytisztviselő köteles és jogosult a képzésben részt venni. A (2) bekezdés az NKE-t — eltérő jogszabály hiányában — a képzés biztosítójaként nevezi meg. A képzés tehát jog és kötelezettség egyszerre."
+        },
+        {
+          "text": "A kieső munkaidőre járó illetményt a szerv téríti; a képzés költségét a felróhatóság szerint a kormánytisztviselő vagy a szerv viseli.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 97. § (3)–(5) bekezdése az illetménytérítést és a költségviselés felróhatósági megosztását rögzíti. Ha a mulasztás a kormánytisztviselőnek felróható, ő térít a szervnek. Ha a mulasztás a munkáltatói jogkör gyakorlójának felróható, a szerv térít a kormánytisztviselőnek."
+        },
+        {
+          "text": "A kormánytisztviselő köteles és jogosult a Kormány, a miniszter vagy a munkáltatói jogkör gyakorlója által előírt képzésben, továbbképzésben, átképzésben vagy közigazgatási vezetőképzésben részt venni; a képzést — ha jogszabály másként nem rendelkezik — a Nemzeti Közszolgálati Egyetem biztosítja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 97. § (1)–(2) bekezdése a képzést egyidejűleg kötelezettséggé és alanyi joggá emeli. A képzést — ha jogszabály másként nem rendelkezik — a Nemzeti Közszolgálati Egyetem biztosítja. A képzés így a jogviszony tartalmának önálló eleme, nem puszta munkáltatói utasítás."
+        },
+        {
+          "text": "A képzés költségét minden esetben a kormánytisztviselő viseli, a szerv csak a kieső munkaidő illetményét téríti, felróhatóságtól függetlenül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 97. § (4)–(5) bekezdése a költségviselést a felróhatósághoz köti. Ha a mulasztás a munkáltatói oldalnak felróható, a szerv térít a kormánytisztviselőnek. Nincs egyoldalú, minden esetben a foglalkoztatottra telepített költségviselés."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "18806f4255dc"
+    },
+    {
+      "question": "A Kit. 98. § szerint mi a kormányzati szolgálati jogviszonnyal kapcsolatos igények elévülésének főszabálya, mely esetekben hosszabb az idő, és mit jelent a hivatalból figyelembevétel?",
+      "options": [
+        {
+          "text": "A kormányzati szolgálati igények elévülési ideje egységesen öt év, a hároméves főszabály csak az Mt. munkaviszonyára vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 98. § (1) bekezdése a kormányzati szolgálati jogviszonnyal kapcsolatos igényekre hároméves főszabályt állít. Az öt év a bűncselekménnyel okozott kár és személyiségi jogi sérelem kivételes köre. Az Mt. és a Kit. elévülési rendje nem cserélhető össze."
+        },
+        {
+          "text": "A kormányzati szolgálati jogviszonnyal kapcsolatos igény főszabály szerint három év alatt évül el; bűncselekménnyel okozott kár és személyiségi jogi sérelem esetén öt év, illetve — ha hosszabb — a büntethetőség elévülési ideje az irányadó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 98. § (1) bekezdése kimondja: „A kormányzati szolgálati jogviszonnyal kapcsolatos igény három év alatt évül el”. A (2)–(3) bekezdés a bűncselekménnyel okozott kár és személyiségi jogi sérelem esetén öt évet, illetve — ha hosszabb — a büntethetőség elévülési idejét rendeli. A főszabály tehát három év, a bűncselekményi körben öt év vagy annál hosszabb."
+        },
+        {
+          "text": "Az igény elévülését hivatalból kell figyelembe venni; elévült igény bírósági úton nem érvényesíthető, az elévülés utáni teljesítés pedig elévülés címén nem követelhető vissza.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 98. § (6) és (8) bekezdése a hivatalból észlelést és a kétirányú joghatást rögzíti. Ez elválasztja a közszolgálati igényérvényesítést a polgári peres rendelkezési elvtől. Az önkéntes teljesítés visszakövetelése elévülés címén tilos."
+        },
+        {
+          "text": "Az elévülés csak a kötelezett kifogása esetén vehető figyelembe, mert a közszolgálati igényérvényesítésben is a rendelkezési elv az irányadó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 98. § (6) bekezdése szerint az igény elévülését hivatalból kell figyelembe venni. Nem pusztán a kötelezett kifogásától függ a figyelembevétel. A közszolgálati igényérvényesítés e ponton elválik a polgári peres rendelkezési elvtől."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "1926b0ba863d"
+    },
+    {
+      "question": "A Kit. 98. § (4)–(7) és (9)–(10) bekezdése szerint mikor esedékes a kártérítés és a sérelemdíj, mikortól fut a szabadságmegváltás elévülése, és mi szakítja meg az elévülést?",
+      "options": [
+        {
+          "text": "Az elévülést megszakítja többek között az írásbeli felszólítás, a bírósági érvényesítés, a közvetítő vagy békéltető igénybevétele, a módosítás, az egyezség és az elismerés; menthető akadály esetén az akadály megszűnésétől számított hat hónapon belüli utólagos érvényesítés is nyílik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 98. § (10) bekezdése a megszakítási okokat, a (9) bekezdés a menthető akadály hat hónapos utólagos érvényesítési idejét rögzíti. Végrehajtható határozat után csak a végrehajtási cselekmény szakítja meg az elévülést. A megszakadás után az idő újra kezdődik."
+        },
+        {
+          "text": "A szabadságmegváltás iránti igény elévülése a szabadság kiadásának elmaradásakor azonnal megkezdődik, a jogviszony fennállása alatt is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 98. § (7) bekezdése szerint a szabadság megváltásával kapcsolatos kormánytisztviselői igény elévülése a jogviszony megszűnésének napján kezdődik. Nem a kiadás elmaradásának napja a kezdőpont. A fennállás alatti „azonnali” kezdés tehát téves."
+        },
+        {
+          "text": "Menthető akadály esetén sincs utólagos érvényesítési lehetőség, ha az elévülési idő már eltelt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 98. § (9) bekezdése szerint menthető okból az akadály megszűnésétől számított hat hónapon belül az igény akkor is érvényesíthető, ha az elévülési idő már eltelt, vagy abból hat hónapnál kevesebb van hátra. Van tehát törvényi utólagos érvényesítési ablak. Az elévülés elteltének ténye önmagában nem zárja ki ezt a lehetőséget."
+        },
+        {
+          "text": "A kártérítés a károkozáskor, a sérelemdíj a sérelem bekövetkezésekor nyomban esedékes; az elévülés az esedékességtől kezdődik, a szabadság megváltásával kapcsolatos igényé pedig a jogviszony megszűnésének napjától.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 98. § (4)–(7) bekezdése ezt az esedékességi és kezdőnap-rendet rögzíti. A szabadságmegváltás elévülése tehát nem a szabadság kiadásának elmaradásakor, hanem a jogviszony megszűnésekor indul. Az általános igények az esedékességtől futnak."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "346748e3b741"
+    },
+    {
+      "question": "A 3/2016. (III. 21.) KMK vélemény és a Kit. 80. § viszonyában kik a kormányzati szolgálati jogviszony és a közszolgálati jogvita felei, és mi az MKK, valamint a KMK elhatárolása?",
+      "options": [
+        {
+          "text": "A KMK a közszolgálati jogvitában a Kormány helyett alperesként jár el, mert a 3/2016. (III. 21.) KMK vélemény ezt a perbeli legitimációt biztosítja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a KMK nem fél a kormányzati szolgálati jogviszonyban, és nem lép a jogvita alperesi oldalára a Kormány helyett. A 3/2016. (III. 21.) KMK vélemény kollégiumi vélemény, nem perbeli legitimáció. A felek a Kit. 80. § szerint a Kormány és a kormánytisztviselő."
+        },
+        {
+          "text": "Az MKK a Kit. 76–77. § szerinti szakmai köztestület, a KMK a Kúria kollégiuma; a két mozaikszó nem cserélhető, és egyik sem azonos a jogviszony feleivel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az MKK köztestületi, hivatásetikai és képviseleti szerepet tölt be. A KMK bírói kollégium. A Kit. 80. § szerinti alanyok ettől elválnak: Kormány és kormánytisztviselő. A fogalmi csere a tartalom félreértéséhez vezet."
+        },
+        {
+          "text": "Az MKK a Kit. 80. § szerinti munkáltatói alany, mert a szakmai köztestület a kormánytisztviselők foglalkoztatója.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 80. § szerint a kormányzati szolgálati jogviszony munkáltatói alanya a Kormány. Az MKK a Kit. 76–77. § szerinti szakmai köztestület, nem a jogviszony munkáltatói alanya. A köztestületi tagság és az etikai szerep önmagában nem tesz munkáltatóvá."
+        },
+        {
+          "text": "A 3/2016. (III. 21.) KMK vélemény a Kúria Közigazgatási-Munkaügyi Kollégiumának kollégiumi véleménye; a jogviszony alanyai a Kit. 80. § szerint a Kormány és a kormánytisztviselő, a KMK nem fél ebben a jogviszonyban.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a KMK kollégiumi véleménye értelmezési eszköz, nem alanyi státusz. A Kit. 80. § a feleket a Kormányra és a kormánytisztviselőre szűkíti. A KMK nem lép a közszolgálati jogvita felperesi vagy alperesi oldalára."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "bd55d062f789"
+    },
+    {
+      "question": "A Kit. 79–81. § és a 91–98. § viszonyában mit jelent, hogy a kormányzati szolgálati jogviszony különleges jogviszony, és hol érvényesülnek a tartalmi kötelezettségek?",
+      "options": [
+        {
+          "text": "A 81. § a tartalmi kötelezettségek érvényesítésének munkáltatói oldalát a hivatali szervezet vezetőjéhez, illetve az átruházott jogkör gyakorlójához telepíti; a jogvita e minimumot a Kormány nevében eljáró szerv és a kormánytisztviselő között bírálja el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkáltatói joggyakorlás a Kit. 80–81. § szerinti szervezeti rendhez kötött. A közszolgálati döntőbizottsági és bírósági út, valamint a 94. § szerinti megtagadás és a 96. § (5) szerinti jogvita a tartalom érvényesítési fórumai. A felek a Kormány és a kormánytisztviselő."
+        },
+        {
+          "text": "A tartalmi kötelezettségek a felek megállapodásával szabadon felülírhatók, mert a különleges jogviszony is diszpozitív magánjogi kötelem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tartalmi szabályok kényszerítőek; a közszolgálati szabályzat sem írhatja felül a törvényi kötelezettségeket a Kit. 91. § (5) bekezdése keretében. A felek megállapodása nem teszi az Mt. szerinti diszpozitív munkaszerződéssé a köteléket. A különleges jogviszony közjogi minimuma fennmarad."
+        },
+        {
+          "text": "A Kit. 79. § szerinti különleges jogviszony nem puszta munkaszerződési kötelem: a 91–98. § a köz szolgálatának szervezeti és személyi minimumát kényszerítően rögzíti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 79. § szerinti különleges jogviszony tartalmi szabályai kényszerítőek. A foglalkoztató kötelezettségei, a hivatásetika, a kormánytisztviselői kötelezettségek, a tilalmak, a teljesítményértékelés, a képzés és az elévülés együtt adják a tartalmat. Ez elválik az Mt. diszpozitívabb munkaviszonyi logikájától."
+        },
+        {
+          "text": "A kormányzati szolgálati jogviszony tartalmára az Mt. munkaszerződési szabályai az elsődlegesek, a Kit. 91–98. § csak kisegítő jellegű.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kormányzati szolgálati jogviszony a Kit. szerinti különleges jogviszony, nem az Mt. munkaviszonya. A Kit. 91–98. § a tartalom kényszerítő minimumát adja, nem az Mt. kisegítő szabályait. Az Mt. és a Kit. rendelkezései ezért nem cserélhetők fel egymással."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "5e2fb0871bf8"
+    },
+    {
+      "question": "A Kit. 94. § (6) és (9) bekezdése szerint mi a különvélemény és az utasítástól való eltérés fogalmi határa a megtagadáshoz képest?",
+      "options": [
+        {
+          "text": "A különvélemény egyben az utasítás megtagadását is jelenti, ezért a kormánytisztviselő nem köteles végrehajtani azt, amellyel nem ért egyet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 94. § (6) bekezdése szerinti különvélemény mellett a végrehajtás kötelezettsége fennmarad. A megtagadás az (1)–(2) bekezdés eseteihez kötött. Az egyet nem értés önmagában nem oldja fel a teljesítést."
+        },
+        {
+          "text": "Az utasítástól eltérni csak akkor lehet, ha ezt a szerv károsodástól való megóvása feltétlenül megköveteli, és a szerv értesítésére nincs mód; az eltérésről a szervet haladéktalanul tájékoztatni kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 94. § (9) bekezdése szűk, kárelhárítási célú eltérési lehetőséget ad a felettes utasításától. Feltétel a szerv károsodástól való megóvásának szükségessége és az értesítés lehetetlensége. Az eltérésről a kormányzati igazgatási szervet haladéktalanul tájékoztatni kell."
+        },
+        {
+          "text": "A kormánytisztviselő bármikor, indokolás nélkül eltérhet a felettes utasításától, ha utólag szóban tájékoztatja a szervet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 94. § (9) bekezdése az eltérést a szerv károsodástól való megóvásához és az értesítés lehetetlenségéhez köti. Az eltérésről a szervet haladéktalanul tájékoztatni kell. Indokolás nélküli, szabad eltérés a felettesi utasítástól nincs."
+        },
+        {
+          "text": "A különvélemény nem megtagadás: a kormánytisztviselő végrehajtja az utasítást, de írásban rögzíti az egyet nem értést, és emiatt hátrány nem érheti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 94. § (6) bekezdése a különvéleményt a végrehajtás melletti írásbeli egyet nem értésként rögzíti. Ez elválik az (1)–(2) bekezdés szerinti megtagadástól. A hátránytilalom a különvéleményt is védi."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "efa5e2df3879"
+    },
+    {
+      "question": "A Kit. 91. § (1) bekezdés és a 93. § (1) bekezdés viszonyában hogyan jelenik meg a kölcsönösség a kormányzati szolgálati jogviszony tartalmában?",
+      "options": [
+        {
+          "text": "A szerv érdekképviseleti jogok biztosítására vonatkozó kötelezettsége csak akkor áll fenn, ha a kormánytisztviselő egyben az MKK tisztségviselője is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 91. § (1) bekezdés j) pontja a szervre telepíti az érdekképviseleti jogok gyakorolhatóságának biztosítását. Ez nem feltételezi az MKK tisztségviselői minőségét. Az MKK kötelező tagsága és a szerv szervezési kötelezettsége kapcsolódik, de nem szűkül tisztségviselői körre."
+        },
+        {
+          "text": "A kölcsönösség azt jelenti, hogy a kormánytisztviselő csak akkor köteles rendelkezésre állni, ha a szerv előbb teljesítette az összes 91. § szerinti kötelezettségét.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 93. § (1) bekezdése a megjelenési és rendelkezésreállási kötelezettséget önállóan írja elő. Nincs olyan törvényi feltétel, hogy a Kit. 91. § teljes katalógusának előzetes teljesítése oldaná fel a foglalkoztatotti kötelezettségeket. A szervi és a foglalkoztatotti oldal párhuzamosan érvényesül."
+        },
+        {
+          "text": "A szerv köteles többek között az esküt megszervezni, az álláshelyen foglalkoztatni, a feltételeket biztosítani, tájékoztatást és iránymutatást adni, képzést biztosítani, illetményt fizetni és az érdekképviseleti jogok gyakorolhatóságát lehetővé tenni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 91. § (1) bekezdés a)–j) pontjai a foglalkoztatói oldalt rögzítik. Ez a köz szolgálatának szervezési minimuma. Az ellenszolgáltatás és a szervezés nem kegy, hanem kötelezettség."
+        },
+        {
+          "text": "A kormánytisztviselő köteles megjelenni, rendelkezésre állni, személyesen dolgozni, az utasítást végrehajtani, a köz érdekében szakértelemmel eljárni, kímélő magatartást tanúsítani és a titkot megtartani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 93. § (1) bekezdés a)–g) pontjai a foglalkoztatotti oldalt adják. A két katalógus együtt a tartalom kölcsönösségét mutatja. A szerv kötelezettségei nem oldják fel a kormánytisztviselői kötelezettségeket, és fordítva sem."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "cee7fcb8f704"
+    },
+    {
+      "question": "A Kit. 95. § (3)–(4b) bekezdése szerint hogyan korlátozza a törvény a helyi önkormányzati képviselőséget és a nemzetiségi önkormányzati tisztségeket a kormánytisztviselőnél?",
+      "options": [
+        {
+          "text": "A kormánytisztviselő nem lehet helyi önkormányzati képviselő annál az önkormányzatnál, amely az őt alkalmazó kormányzati igazgatási szerv illetékességi területén működik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 95. § (3) bekezdése az illetékességi átfedéshez köti a helyi önkormányzati képviselői tilalmat. A tilalom szervtípushoz és területi kapcsolathoz igazodik. Nem általános, minden önkormányzatra kiterjedő tilalom."
+        },
+        {
+          "text": "A kormánytisztviselő bármely helyi önkormányzatnál lehet képviselő, ha a munkáltatói jogkör gyakorlója ezt utólag tudomásul veszi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 95. § (3) bekezdése az illetékességi területen működő önkormányzatnál tiltja a képviselőséget. Az utólagos tudomásulvétel nem oldja fel a törvényi tilalmat. A tilalom a jogviszony tartalmának korlátja."
+        },
+        {
+          "text": "A nemzetiségi önkormányzati tisztségek minden kormánytisztviselőre nézve azonos, kivétel nélküli tilalom alá esnek, a szerv típusától és az ügykörtől függetlenül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 95. § (4)–(4b) bekezdése a központi szerv, a területi szerv és az ügyköri-illetékességi kapcsolat szerint differenciál. Nincs egynemű, minden szervtípusra azonos tilalom. A törvény a szerv jellegéhez igazítja a korlátot."
+        },
+        {
+          "text": "A központi kormányzati igazgatási szerv kormánytisztviselője nem lehet helyi vagy országos nemzetiségi önkormányzat elnöke, elnökhelyettese, illetve nemzetiségi önkormányzat képviselője; a területi szerveknél a tilalom az ügykörre és az illetékességre is figyelemmel szűkül vagy tágul.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 95. § (4)–(4b) bekezdése a központi és a területi szervek kormánytisztviselőire differenciált tilalmi rendet állít. A területi szerveknél az országos és helyi nemzetiségi tisztségek tilalma az ügykörhöz és az illetékességhez igazodik. A törvény tehát nem egynemű tilalmat ad."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "065083fe0987"
+    },
+    {
+      "question": "A Kit. 91. § (1) bekezdés g) pontja, a 93. § (2) bekezdés g) pontja és a 97. § együtt hogyan teszi a képzést a jogviszony tartalmának önálló elemévé?",
+      "options": [
+        {
+          "text": "A képzés kizárólag a kormánytisztviselő magánügye; a szervnek nincs biztosítási kötelezettsége, és a részvétel idejére sem jár mentesülés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 91. § (1) bekezdés g) pontja a szervet a feladatokkal kapcsolatos, indokolt és szükséges képzés biztosítására kötelezi. A Kit. 93. § (2) bekezdés g) pontja a képzésben való részvételhez szükséges időre mentesít a rendelkezésreállás alól. A Kit. 97. § pedig a képzést egyidejűleg joggá és kötelezettséggé emeli, ezért a képzés nem magánügy."
+        },
+        {
+          "text": "A szerv köteles a munkáltatói jogkör gyakorlója által előírt vagy engedélyezett, a feladatokkal kapcsolatos indokolt és szükséges képzést biztosítani; a kormánytisztviselő a képzésben való részvételhez szükséges időre mentesül a rendelkezésreállás alól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 91. § (1) bekezdés g) pontja a szerv biztosítási kötelezettségét, a 93. § (2) bekezdés g) pontja a mentesülést rögzíti. A két oldal együtt a képzést nem puszta utasítássá, hanem tartalmi elemmé teszi. A mentesülés a részvételhez szükséges időre szól."
+        },
+        {
+          "text": "A képzésben való részvétel automatikusan megszünteti a kormányzati szolgálati jogviszonyt a képzés időtartamára.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 93. § (2) bekezdés g) pontja szerinti mentesülés a rendelkezésreállást és a munkavégzést oldja fel, de a jogviszonyt nem szünteti meg. A Kit. 97. § a képzésben való részvételt a jogviszony tartalmán belül szabályozza. A részvétel idejére nincs automatikus jogviszony-megszűnés."
+        },
+        {
+          "text": "A 97. § a képzést egyidejűleg kötelezettséggé és alanyi joggá emeli, az NKE főszabály szerinti biztosításával és a felróhatóság szerinti költségviseléssel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 97. § (1)–(5) bekezdése a jog–kötelezettség egységét, az NKE szerepét és a költségviselést adja. A 91. § és a 93. § szervezési és mentesülési oldala ehhez kapcsolódik. A három szabály együtt önálló tartalmi elemet képez."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "a04f026f0022"
+    },
+    {
+      "question": "A Kit. 80. § és a 95. § (14) bekezdése szerint mi a különbség a Kormány összetételének változása és a fennállás alatt keletkező együttalkalmazási tilalom joghatása között?",
+      "options": [
+        {
+          "text": "A Kormány összetételének megváltozása a Kit. 80. § szerint a kormányzati szolgálati jogviszonyt nem érinti; a kötelék az intézményi munkáltató mellett fennmarad.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 80. § a kormányváltozást nem tekinti megszűnési oknak. A jogviszony alanyai továbbra is a Kormány és a kormánytisztviselő. A személyi változás önmagában nem oldja fel a szolgálati köteléket."
+        },
+        {
+          "text": "Ha az együttalkalmazási tilalom a jogviszony fennállása alatt keletkezik, megegyezés hiányában a munkáltatói jogkör gyakorlója dönti el, hogy melyik kormánytisztviselő jogviszonya szűnik meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 95. § (14) bekezdése ezt a döntési jogkört rögzíti. Itt tehát van megszűnési következmény, szemben a 80. § szerinti kormányváltozással. A megegyezés elsőbbséget élvez, annak hiányában a munkáltatói döntés következik."
+        },
+        {
+          "text": "Az együttalkalmazási tilalom fennállás alatti keletkezésekor a jogviszony mindig a hozzátartozó kormánytisztviselőnél szűnik meg automatikusan, döntés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 95. § (14) bekezdése szerint megegyezés hiányában a munkáltatói jogkör gyakorlója dönti el, hogy melyik jogviszony szűnik meg. Nincs automatikus, mindig a hozzátartozóra telepített megszűnés. A döntés diszkrecionális a két érintett között."
+        },
+        {
+          "text": "A Kormány összetételének változása és az együttalkalmazási tilalom fennállás alatti keletkezése azonos joghatású: mindkettő automatikusan megszünteti a jogviszonyt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 80. § szerint a Kormány összetételének megváltozása a jogviszonyt nem érinti. A Kit. 95. § (14) bekezdése szerinti együttalkalmazási helyzet viszont — megegyezés hiányában — a munkáltatói döntéshez kötött megszűnéshez vezethet. A két joghatás tehát fogalmilag és következményében sem azonos."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "3fd5a07bc12a"
+    },
+    {
+      "question": "A Kit. 92. § és a 93. § (1) bekezdés f)–g) pontja szerint hogyan válik el a hivatásetikai alapelv a munkavégzési magatartási és titoktartási kötelezettségtől?",
+      "options": [
+        {
+          "text": "A 93. § (1) bekezdés f) pontja a mások egészségét, a munka zavarását, az anyagi kárt és a helytelen megítélést elkerülő magatartást, a g) pont pedig a titoktartást és a tágabb tájékoztatási tilalmat írja elő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 93. § (1) bekezdés f)–g) pontja konkrét munkavégzési és szolgálati magatartási kötelezettségeket ír elő. Ezek a magatartási és titoktartási szabályok elválnak a Kit. 92. § példálózó hivatásetikai alapelv-katalógusától. A titoktartás a minősített adaton túl a hátrányos vagy előnyös következménnyel járó tényekre is kiterjed."
+        },
+        {
+          "text": "A 92. § alapelvei teljesen helyettesítik a 93. § (1) bekezdés szerinti konkrét kötelezettségeket, ezért külön magatartási és titoktartási szabályra nincs szükség.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 92. § és a 93. § (1) bekezdése párhuzamosan érvényesül. Az alapelvek nem merítik ki a megjelenési, rendelkezésreállási, utasítás-végrehajtási, magatartási és titoktartási kötelezettségeket. A két normaanyag nem helyettesíti egymást."
+        },
+        {
+          "text": "A hivatásetikai alapelvek a 92. § szerint a hivatás méltóságát védik, és a 91. § szervezeti, valamint a 93. § munkavégzési kötelezettségeitől függetlenül kötik a kormánytisztviselőt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 92. § a hivatásetikai alapelvek önálló törvényi síkját képezi a jogviszony tartalmában. Nem helyettesíti a Kit. 93. § (1) bekezdésének konkrét munkavégzési kötelezettségeit. Az MKK a Kit. 77. § szerint a hivatásetikai részletszabályok és az etikai eljárások gazdája."
+        },
+        {
+          "text": "A titoktartás csak akkor kötelező, ha a 92. § szerinti méltóság elve ezt kifejezetten megnevezi a kormánytisztviselő egyedi ügyében.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 93. § (1) bekezdés g) pontja önálló, konkrét titoktartási és tájékoztatási tilalmat állít. Nem függ attól, hogy a Kit. 92. § méltóság-elve az adott ügyben kifejezetten megnevezi-e a kötelezettséget. A két szabály különböző síkon áll, és párhuzamosan érvényesül."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "8cfb1e546c38"
+    },
+    {
+      "question": "A Kit. 96. § (3)–(5) bekezdése és a 88/2019. (IV. 23.) Korm. rendelet 19. §-a szerint hogyan kapcsolódik a teljesítményértékelés a közszolgálati szabályzathoz és a jogvitához?",
+      "options": [
+        {
+          "text": "A Kormány rendeletben állapítja meg a teljesítményértékelés részletes szabályait; a 88/2019. (IV. 23.) Korm. rendelet 19. §-a a közszolgálati szabályzat kötelező elemei között írja elő a teljesítményértékelés kormánytisztviselő általi kezdeményezésének rendjét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 96. § (4) bekezdése a részletszabályokat a Kormány rendeletére bízza. A 19. § a szabályzatban kötelezően megjelenítendő kezdeményezési rendet rögzíti. Ez kapcsolódik a 96. § (2) szerinti kérelemre kötelező értékeléshez."
+        },
+        {
+          "text": "A teljesítményértékelés megsemmisítése iránt a kormánytisztviselő közszolgálati jogvitát kezdeményezhet; az illetménymódosítás a besorolási kategória összeghatárán belül marad.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 96. § (5) bekezdése a megsemmisítési jogvitát nyitja. A (3) bekezdés a) pontja az illetménymódosítást a kategória összeghatárához köti. A jogvita a tartalmi kötelezettségek érvényesítési fórumainak része."
+        },
+        {
+          "text": "A teljesítményértékelés részletszabályait kizárólag a szerv közszolgálati szabályzata állapíthatja meg, kormányrendeleti felhatalmazás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 96. § (4) bekezdése szerint a teljesítményértékelés részletes szabályait a Kormány rendeletben határozza meg. A közszolgálati szabályzat a 88/2019. (IV. 23.) Korm. rendelet 19. §-a szerint a kezdeményezés rendjét is magában foglalja. A szabályzat azonban nem helyettesíti a kormányrendeleti keretet."
+        },
+        {
+          "text": "A teljesítményértékelés ellen csak panasz nyújtható be a szerv vezetőjéhez; közszolgálati jogvitának nincs helye.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 96. § (5) bekezdése expressis verbis lehetővé teszi a teljesítményértékelés megsemmisítése iránti közszolgálati jogvitát. A jogvitaút tehát nyitott a kormánytisztviselő előtt. Az érvényesítés nem szűkül a szerv vezetőjéhez intézett belső panaszra."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "a2db9e34bba6"
+    },
+    {
+      "question": "A Kit. 94. § (1) bekezdése szerinti kötelező megtagadás elmaradása hogyan kapcsolódik a Kit. 93. § (1) bekezdés d) és e) pontjához?",
+      "options": [
+        {
+          "text": "A kötelező megtagadás elmaradása a felettesi utasítás törvényi keretek közötti végrehajtásának és a köz érdekében, szakértelemmel és gondossággal ellátott feladatvégzésnek a sérelméhez vezethet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 94. § (1) bekezdése kötelezővé teszi a megtagadást bűncselekmény, szabálysértés, illetve más személy vagy a környezet közvetlen és súlyos veszélyeztetése esetén. Az elmaradás a Kit. 93. § (1) bekezdés d) és e) pontjába ütköző kötelezettségszegésként értékelhető. A kötelező megtagadás tehát nem merőben jogosultság, hanem a törvényi tartalom része."
+        },
+        {
+          "text": "A 94. § három fokozata — kötelező megtagadás, jogosultság szerinti megtagadás, valamint figyelmeztetés és írásba foglalás — elválasztja a mérlegelést a kötelező tilalomtól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 94. § (1)–(3) bekezdése ezt a háromfokozatú rendet állítja fel. Az (1) bekezdés kötelező eseteiben nincs mérlegelési szabadság a végrehajtás mellett. A (2)–(3) bekezdés a jogosultság szerinti megtagadást, illetve a figyelmeztetést és az írásba foglalást szabályozza."
+        },
+        {
+          "text": "A kötelező megtagadás elmaradása mindig csak fegyelmi panasz alapja lehet, a 93. § (1) bekezdés d) és e) pontja ilyenkor nem alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 94. § (1) bekezdése szerinti kötelező megtagadás elmaradása a Kit. 93. § (1) bekezdés d) és e) pontjába ütköző kötelezettségszegéshez vezethet. Nem szűkül pusztán panaszjogra a jogkövetkezmény. A felettesi utasítás törvényi keretek közötti végrehajtása és a szakértelemmel való feladatellátás is sérülhet."
+        },
+        {
+          "text": "A 94. § (1) bekezdése szerinti esetekben a kormánytisztviselő szabadon választhat a végrehajtás és a megtagadás között, mert a különvélemény mindig elegendő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 94. § (1) bekezdése kötelező megtagadást ír elő a nevesített veszélyhelyzetekben. A (6) bekezdés szerinti különvélemény a végrehajtás melletti írásbeli egyet nem értés, nem helyettesíti a kötelező megtagadást. A mérlegelési szabadság tehát ezekben az esetekben nincs."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "56cc368addde"
+    }
+  ]
+}

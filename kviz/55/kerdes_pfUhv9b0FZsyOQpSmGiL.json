@@ -1,0 +1,1251 @@
+{
+  "id": "pfUhv9b0FZsyOQpSmGiL",
+  "sorszam": 55,
+  "cim": "A járulékfizetésre vonatkozó általános szabályok, megállapodás (...)",
+  "generationType": "kerdes",
+  "title": "55. A járulékfizetésre vonatkozó általános szabályok, megállapodás (...)",
+  "questions": [
+    {
+      "question": "Eset: Anna munkaviszonya 2025. március 31-én megszűnik. A volt foglalkoztató 2025. május 10-én fizeti ki a márciusra járó, járulékalapot képező jutalmát. A bérszámfejtő szerint a májusi kifizetésnél már nem kell társadalombiztosítási járulékot vonni, mert a jogviszony nincs fenn. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A megszűnés utáni jutalmat a járulékalap szempontjából úgy kell figyelembe venni, mintha a kifizetés a jogviszony fennállásának utolsó napján történt volna.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 30. § fikciója szerint a biztosítással járó jogviszony megszűnését követően, e jogviszony alapján kifizetett járulékalapot úgy kell figyelembe venni, mintha a kifizetés a jogviszony fennállásának utolsó napján történt volna. A 27. § (5) bekezdése ugyanezt a jövedelmet a járulékalapba vonja, függetlenül a kifizetés időpontjától. A 24. § fizetési kötelezettsége és a 30. § időbeli lehorgonyzása együtt zárja ki, hogy a májusi jutalom „járulékmentes utólagos juttatás” legyen."
+        },
+        {
+          "text": "A májusi jutalom után csak egészségügyi szolgáltatási járulék fizetendő, mert a társadalombiztosítási járulék a biztosítási jogviszony fennállásához kötött.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 24. § a társadalombiztosítási járulékot is a megszűnés után kifizetett járulékalapra kiterjeszti. A helyes elhatárolás: az egészségügyi szolgáltatási járulék a 43. § szerinti, biztosítás nélkül álló belföldi kötelezettsége, nem a megszűnés utáni bérpótló jutalom köztehertípusa. A jutalom után a foglalkoztatotti társadalombiztosítási járulék-szabályok érvényesülnek a 24. és 30. § szerint."
+        },
+        {
+          "text": "Ha a jogviszony már megszűnt, a későbbi kifizetésre a megszerzéskori járulékmérték az irányadó, a kifizetéskori tarifa nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 24. § a kifizetéskor irányadó mértéket rögzíti, nem a jogszerzés vagy a jogviszony fennállásának napját. A helyes szabály: a járulékokat a járulékalapot képező jövedelem kifizetésekor hatályos tarifa szerint kell megfizetni, és a megszűnés utáni kifizetés sem mentesít. A tévedés forrása a jogszerzéskori és a kifizetéskori tarifa összecserélése."
+        },
+        {
+          "text": "A járulékot a kifizetéskor irányadó mértékek szerint kell megfizetni, és a megszűnést követően kifizetett járulékalap után is fennáll a fizetési kötelezettség.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 24. § szerint a járulékokat havonta a járulékalapot képező jövedelem kifizetésekor irányadó járulékmértékek szerint kell megfizetni. Ugyanez a szakasz kimondja, hogy a biztosítási kötelezettséggel járó jogviszony megszűnését követően kifizetett vagy kiosztott járulékalap után is meg kell fizetni a járulékot. Anna májusi jutalma tehát nem esik ki a közteher alól puszta megszűnés miatt. A kötelezettség a kifizetéskor hatályos tarifához igazodik, nem a jogviszony utolsó napjának „lezárt” státuszához."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "065a0d4e8abf"
+    },
+    {
+      "question": "Eset: András tárgyhavi járulékalapot képező jövedelme a minimálbér 25 százaléka. A foglalkoztató a 27. § (2) bekezdése szerinti járulékfizetési alsó határ és a tényleges alap különbözete után társadalombiztosítási járulékot fizet. A bérszámfejtő szerint ez a közteher az ellátásszámításból kiesik, mert „nem a biztosított teljesítette”, és a különbözetre nyugdíjjárulékot kellene vallani. Mi a helyes megítélés?",
+      "options": [
+        {
+          "text": "A foglalkoztató köteles a 27. § (2) bekezdése szerinti járulékfizetési alsó határ és a ténylegesen kifizetett járulékalap különbözete után fennálló társadalombiztosítási járulékot teljesíteni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 23. § (3) bekezdése a különbözeti társadalombiztosítási járulékfizetési kötelezettséget a foglalkoztatóra telepíti, ha a 27. § (2) bekezdése szerinti alsó határ — a minimálbér 30 százaléka — meghaladja a tényleges járulékalapot. András 25 százalékos alapja e küszöb alatt van, ezért a különbözet közterhe a foglalkoztatóé. A kötelezettség jogcíme társadalombiztosítási járulék, nem a biztosított pótlólagos önálló tartozása."
+        },
+        {
+          "text": "A különbözet után a foglalkoztató nyugdíjjárulékot fizet, mert a 23. § minden foglalkoztatói pótlólagos közterhet nyugdíjjárulékként nevesít.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 23. § (3) bekezdése társadalombiztosítási járulékfizetési kötelezettséget ír elő a különbözetre, nem nyugdíjjárulékot. A nyugdíjjárulék a 23. § (1) bekezdés c) pontja szerinti, 37. §-os és megjelölt biztosítotti körre szűkül. A tévedés a katalógus jogcímeinek felcseréléséből fakad."
+        },
+        {
+          "text": "A különbözet utáni foglalkoztatói teljesítést az ellátások számítási szabályainál úgy kell tekinteni, mintha azt a biztosított személy teljesítette volna.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 23. § (3) bekezdése kifejezetten fikciót ír elő: a foglalkoztatói teljesítést az ellátásszámításnál a biztosított teljesítéseként kell kezelni. A fikció az ellátásszámítás fedezeti olvasatát védi, nem írja át visszamenőleg a közteher alanyát. András jogszerzése tehát nem csökken csak azért, mert a különbözetet a foglalkoztató állta."
+        },
+        {
+          "text": "A különbözeti járulékot az ellátásszámításnál figyelmen kívül kell hagyni, mert azt nem a biztosított, hanem a foglalkoztató fizette meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 23. § (3) bekezdése ellenkező fikciót ír elő: a foglalkoztatói teljesítést úgy kell tekinteni, mintha a biztosított teljesítette volna. A bérszámfejtő „kiesik az ellátásból” olvasata ezért téves. A tévedés a közteher alanyi és az ellátásszámítási fikció összecseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "b35b802edb9b"
+    },
+    {
+      "question": "Eset: Csilla járulékalapot képező jövedelme 200 000 forint. A bérszámfejtő a társadalombiztosítási járulékot és a nyugdíjjárulékot összevonva 28,5 százalékot von, és az egészségügyi szolgáltatási járulékot is e százalékos tarifa részeként kezeli. Mi a helyes megítélés?",
+      "options": [
+        {
+          "text": "A társadalombiztosítási járulék mértéke 18,5 százalék, a nyugdíjjáruléké 10 százalék; Csilla 200 000 forintos alapja után a társadalombiztosítási járulék 37 000 forint, ha e jogcím terheli.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 25. § (1) bekezdése a társadalombiztosítási járulékot 18,5 százalékban, a (2) bekezdés a nyugdíjjárulékot 10 százalékban rögzíti. 200 000 × 0,185 = 37 000 forint a társadalombiztosítási járulék. A két százalékos tarifa külön jogcímhez tartozik; a 28,5 százalékos összevonás nem felel meg a 25. § szerkezetének."
+        },
+        {
+          "text": "Az egészségügyi szolgáltatási járulék napi összege a havi összeg egytizenketted része, mert a valorizáció éves bontást ír elő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 25. § (3) bekezdése szerint a napi mérték a havi mérték harmincad része, nem egytizenketted. A törvény 7 710 forint havi összeg mellett 257 forintos napi összeget is megad. A tévedés a havi–éves és a havi–napi bontás összecseréléséből fakad."
+        },
+        {
+          "text": "A társadalombiztosítási járulék és a nyugdíjjárulék egyaránt 18,5 százalék, ezért a 28,5 százalékos összevonás helyett egységes 18,5 százalék az irányadó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 25. § (1)–(2) bekezdése két külön mértéket rögzít: 18,5 százalék a társadalombiztosítási járuléké, 10 százalék a nyugdíjjáruléké. Sem a 28,5 százalékos összevonás, sem az egységes 18,5 százalék nem felel meg a törvénynek. A tévedés a jogcímek szerinti tarifák egyneműsítéséből ered."
+        },
+        {
+          "text": "Az egészségügyi szolgáltatási járulék havi összege 7 710 forint, napi összege 257 forint; 2020 után a havi mértéket a KSH júliusi fogyasztóiár-indexe valorizálja, a napi mérték a havi harmincad része.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 25. § (3) bekezdése a havi 7 710 és a napi 257 forintos összeget adja, és a valorizációt a megelőző év júliusi fogyasztóiár-indexéhez köti, 100 forintra kerekítve; a napi mérték a havi harmincad része, 10 forintra kerekítve. Ez fix forintos közteher, nem a 18,5 százalék része. A NAV a tárgyévet megelőző év október 31-ig közzéteszi a mértékeket."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "2609b6b3e746"
+    },
+    {
+      "question": "Eset: a foglalkoztató a biztosított betegsége miatti keresőképtelenségére folyósított táppénz teljes összegét „járulékként” a biztosítottól kívánja levonni, arra hivatkozva, hogy a táppénz-hozzájárulás a biztosított köztehertartozása. Mely megállapítások helyesek?",
+      "options": [
+        {
+          "text": "A foglalkoztató csak akkor fizet táppénz-hozzájárulást, ha a biztosított egyidejűleg egészségügyi szolgáltatási járulékot is fizet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 25. § (5) bekezdése a 6. § szerint biztosított keresőképtelenségéhez és kórházi ápolásához köti a hozzájárulást, nem az egészségügyi szolgáltatási járulékhoz. A helyes elhatárolás: az egészségügyi szolgáltatási járulék a 43. § szerinti, biztosítás nélkül álló kötelezetti kör köztehertípusa. A két jogcím feltételei nem konjunktívak a táppénz-hozzájárulásnál."
+        },
+        {
+          "text": "A táppénz-hozzájárulás a biztosított társadalombiztosítási járulékának része, ezért a foglalkoztató a teljes táppénzt jogosult a járulékalapból levonni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 25. § (5) bekezdése a foglalkoztatót kötelezi az egyharmados hozzájárulásra, és nem teszi a teljes táppénzt a biztosított levonható járulékává. A helyes: a biztosítottat terhelő társadalombiztosítási járulékot a 33. § szerint a járulékalapot képező jövedelem után vonják, míg a táppénz-hozzájárulás külön foglalkoztatói teher. A tévedés a járulék és a táppénz-hozzájárulás alanyának felcseréléséből ered."
+        },
+        {
+          "text": "A táppénz-hozzájárulás a Tbj. járulékfogalmába tartozik, de alanya a foglalkoztató, nem a biztosított.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. bevezető fogalmi köre a járulékok között nevesíti a táppénz-hozzájárulást is, miközben a 23. § (2) bekezdése és a 25. § (5) bekezdése a foglalkoztatóra telepíti. A közteher tehát a fedezeti katalógus része, de az alanyi oldalon nem a biztosított levonható társadalombiztosítási járuléka. A teljes táppénzösszeg biztosítottól való „járulékként” levonása ezért nem felel meg a törvényi szerkezetnek. A hozzájárulás mértéke egyharmad, nem a teljes folyósított összeg."
+        },
+        {
+          "text": "A foglalkoztató a biztosított betegsége miatti keresőképtelenségére és kórházi ápolására folyósított táppénz egyharmadát hozzájárulás címén fizeti meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 25. § (5) bekezdése szerint a foglalkoztató a 6. § szerint biztosított betegsége miatti keresőképtelensége, valamint a kórházi vagy klinikai ápolása időtartamára folyósított táppénz egyharmadát hozzájárulás címén fizeti meg. A 23. § (2) bekezdése is rögzíti, hogy a foglalkoztató a táppénzkiadásokhoz hozzájárul. Az elszámolási szabályokat a 2. melléklet adja. A hozzájárulás tehát foglalkoztatói teher, nem a biztosítottól levonható „járulékpótlék”."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "92d1c1b54017"
+    },
+    {
+      "question": "Eset: a NAV naponta bontja a befizetett társadalombiztosítási járulékot. A könyvelő 50–40–10 százalékos arányt alkalmaz a Nyugdíjbiztosítási Alap, az Egészségbiztosítási Alap és a foglalkoztatási alap között. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A 8,1 százalékos munkaerőpiaci részt az Egészségbiztosítási Alapnak kell utalni, mert a munkaerőpiaci járulék az egészségügyi szolgáltatási járulék része.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 26. § (1) bekezdése a 8,1 százalékot a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalapnak rendeli. A helyes: az Egészségbiztosítási Alap a 37,9 százalékos egészségbiztosítási részt és — külön — az egészségügyi szolgáltatási járulékot kapja. A munkaerőpiaci rész nem olvasztható az egészségügyi jogcímbe."
+        },
+        {
+          "text": "A 26. § a társadalombiztosítási járulékot egyenlő arányban osztja a három alap között, mert a fedezeti likviditás egyenlő napi részesedést követel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 26. § (1) bekezdése 54 / 37,9 / 8,1 százalékos bontást ír elő, nem egyenlő harmadokat. A helyes arány: 54 százalék Nyugdíjbiztosítási Alap, 37,9 százalék Egészségbiztosítási Alap, 8,1 százalék foglalkoztatási alap. A tévedés forrása a likviditási cél és a törvényi százalékok összecserélése."
+        },
+        {
+          "text": "A befizetett társadalombiztosítási járulékból 54 százalékot nyugdíjjárulék címén a Nyugdíjbiztosítási Alapnak, 37,9 százalékot egészségbiztosítási járulék címén az Egészségbiztosítási Alapnak, 8,1 százalékot munkaerőpiaci járulék címén a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalapnak utalnak át naponta.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 26. § (1) bekezdése szerint „az állami adóhatóság 54 százalékot nyugdíjjárulék címén a Nyugdíjbiztosítási Alapnak, 37,9 százalékot egészségbiztosítási járulék címén az Egészségbiztosítási Alapnak, 8,1 százalékot munkaerőpiaci járulék címén a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalapnak naponta utal át”. A napi ütem a fedezeti oldal likviditását szolgálja. A 50–40–10 arány tehát nem felel meg a törvényi bontásnak."
+        },
+        {
+          "text": "A nyugdíjjárulék címén megfizetett önálló járulékot a Nyugdíjbiztosítási Alapnak, az egészségügyi szolgáltatási járulékot az Egészségbiztosítási Alapnak szintén naponta utalják.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 26. § (2) bekezdése a nyugdíjjárulék címén megfizetett járulék napi utalását, a (3) bekezdés az egészségügyi szolgáltatási járulék Egészségbiztosítási Alapnak történő napi utalását írja elő. Ez elválik az (1) bekezdés szerinti, társadalombiztosítási járulék belső százalékos bontásától. A két utalási rend párhuzamosan érvényesül. A könyvelői 50–40–10 séma egyikre sem illeszkedik."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "e8e104c08327"
+    },
+    {
+      "question": "Eset: Béla munkaviszonyban áll; a tárgyhavi járulékalapot képező jövedelme a minimálbér 20 százaléka. A HR szerint alsó határ nincs, mert „részmunkaidőben a tényleges bér a járulékalap”. Mely megállapítások helyesek?",
+      "options": [
+        {
+          "text": "Az alsó határ minden biztosított esetén alkalmazandó, ideértve a csecsemőgondozási díj mellett munkaviszonyban állókat és a nappali hallgatókat is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 27. § (3) bekezdése kifejezetten kizárja az alsó határ alkalmazását a csecsemőgondozási díj, gyermekgondozási díj, gyermekek otthongondozási díja, örökbefogadói díj, gyermekgondozást segítő ellátás, gyermeknevelési támogatás vagy ápolási díj mellett munkaviszonyban vagy tartós megbízásban állókra, valamint a nappali tanulóra, az ingyenes szakképzésben részt vevőre és a nappali hallgatóra. A helyes: az alsó határ nem univerzális. A tévedés a (2) bekezdés főszabályának kivétel nélküli olvasata."
+        },
+        {
+          "text": "Ha a biztosítási jogviszony hónap közben keletkezik vagy szűnik meg, illetve táppénz, baleseti táppénz vagy tizenkét évesnél fiatalabb beteg gyermek ápolása miatti fizetés nélküli szabadság napjai esnek a hónapra, az alsó határ számításánál ezeket a naptári napokat figyelmen kívül kell hagyni, részidőben a harmincadot alapul véve.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 27. § (2) bekezdés a)–c) pontja a hónapközbeni keletkezést vagy megszűnést, a 16. § szerinti szünetelést, valamint a táppénz, baleseti táppénz és a tizenkét évesnél fiatalabb beteg gyermek ápolása címén igénybe vett fizetés nélküli szabadság napjait kiveszi az alsó határ számításából. Ha e körülmények a hónapnak csak egy részében állnak fenn, egy naptári napra a járulékalap harmincad részét kell alapul venni. Az arányosítás tehát naparányos, nem „részmunkaidő = alsó határ nélkül” szabály."
+        },
+        {
+          "text": "A járulékfizetési alsó határ a minimálbér 20 százaléka, ezért Béla jövedelme pontosan teljesíti a törvényi küszöböt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 27. § (2) bekezdése a minimálbér 30 százalékát rögzíti alsó határként, nem 20 százalékot. A helyes küszöb: havonta legalább a minimálbér 30 százaléka. A tévedés forrása a százalékos küszöb egy fokkal történő lecsúsztatása."
+        },
+        {
+          "text": "A 6. § (1) bekezdés a) és l) pontja szerinti esetben a járulékalap havonta legalább a minimálbér 30 százaléka (járulékfizetési alsó határ).",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 27. § (2) bekezdése szerint a 6. § (1) bekezdés a) és l) pontjában meghatározott esetben „a járulékalap havonta legalább a minimálbér 30 százaléka (a továbbiakban: járulékfizetési alsó határ)”. Béla 20 százalékos jövedelme önmagában nem elégíti ki az alsó határt. A különbözet után a 23. § (3) bekezdése szerinti foglalkoztatói társadalombiztosítási járulék-kötelezettség merülhet fel. A részmunkaidő önmagában nem törli az alsó határt."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "589a3ec88183"
+    },
+    {
+      "question": "Eset: Endre előadáson személyesen közreműködik, ezért 120 000 forint díjazást kap, és ugyanarra a műre külön, a felhasználás jogának ellenértékeként 80 000 forint licenciadíjat is kifizetnek neki. A bérszámfejtő mindkét összeget a társadalombiztosítási járulék alapjába vonja, mert „egy felhasználási szerződésből származik”. Mi a helyes megítélés?",
+      "options": [
+        {
+          "text": "A 32. § c) pontja a személyes közreműködés 120 000 forintos díját is kiveszi a járulékalapból, ha a felek licenciának nevezték a szerződést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 32. § c) pontja a felhasználás vagy hasznosítás jogának ellenértékét említi, nem a személyes munkavégzés díját. A 28. § a személyes közreműködés díját járulékalappá teszi, függetlenül a szerződés elnevezésétől. A tévedés a szerződéscím és a tartalmi elhatárolás felcserélése."
+        },
+        {
+          "text": "A 80 000 forintos licenciadíj — a felhasználás vagy hasznosítás jogának ellenértékeként kifizetett díj — nem képezi a társadalombiztosítási járulék alapját.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 32. § c) pontja a licenciaszerződés alapján a felhasználás vagy hasznosítás jogának ellenértékeként kifizetett díjat kiveszi a társadalombiztosítási járulék alapjából. A 80 000 forintos licenciadíj ezért nem járulékalap, szemben az előadáson személyes közreműködés 120 000 forintos díjával. A Tbj. 28. § és a 32. § c) pontja egymás ellenpárjai: a személyes közreműködés díja belép, a licenciadíj kimarad."
+        },
+        {
+          "text": "A licenciadíj és a személyes közreműködés díja egyaránt teljes egészében járulékalap, mert mindkettő ugyanabból a felhasználási keretből származik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 28. § csak a személyes munkavégzés díját vonja be, míg a 32. § c) pontja a licenciadíjat kivonja. Endre két kifizetése ezért nem egyneműsíthető. A tévedés a szerződéses keret és a járulékalap tartalmának összecseréléséből ered."
+        },
+        {
+          "text": "A 13. § (5) bekezdése szerinti esetben a járulékalap megállapításakor a felhasználási szerződés (előadás) szerinti személyes munkavégzés vagy közreműködés 120 000 forintos díjazását kell figyelembe venni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 28. § szerint a 13. § (5) bekezdése esetén a járulékalap a felhasználási szerződés (előadás) szerinti személyes munkavégzés (közreműködés) díjazása. Endre 120 000 forintos személyes közreműködési díja tehát a társadalombiztosítási járulék alapjába tartozik. Nem a szerződés elnevezése, hanem a díj tartalma a mérvadó."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "a3eefb50ad8e"
+    },
+    {
+      "question": "Eset: Cecília 2024. évi bére csak 2025-ben, az esedékességet követően érkezik meg elmaradt követelésként. A bérszámfejtő a 2024. évi járulékszabályok szerint akarja elszámolni, mert „az az év, amelyre a bér járt”. Mely megállapítások igazak?",
+      "options": [
+        {
+          "text": "Az esedékességet követő időpontban kifizetett járulékalapot képező jövedelmet (elmaradt követelést) arra az évre vagy időszakra kell figyelembe venni, amelyre kifizették.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 29. § szerint az esedékességet követő időpontban kifizetett járulékalapot képező jövedelmet „arra az évre (időszakra) kell figyelembe venni, amely évre (időszakra) azt kifizették”. A törvény a teljesítés évét választja, nem a jogszerzés vagy az eredeti esedékesség évét. Az ellátásszámítás és a bevallás időbeli igazodása e fordulaton múlik. Cecília 2025-ös kifizetése tehát a kifizetés időszakához igazodik a 29. § szerint."
+        },
+        {
+          "text": "Az elmaradt követelést mindig arra az évre kell beszámítani, amelyben a munkavégzés történt, függetlenül a kifizetés évétől.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 29. § a kifizetés évét vagy időszakát jelöli ki, nem a munkavégzés évét. A helyes szabály: az elmaradt követelést arra az évre kell figyelembe venni, amelyre kifizették. A tévedés forrása a jogszerzési és a teljesítési időpont összecserélése."
+        },
+        {
+          "text": "A késedelmes bér a 24. § szerint a kifizetéskor irányadó járulékmértéket viseli.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 24. § a járulékokat a járulékalapot képező jövedelem kifizetésekor irányadó mértékekhez köti. A 29. § időszaki besorolása és a 24. § kifizetéskori tarifája együtt érvényesül a késedelmes bérnél. Nem a 2024. évi tarifa „lefagyasztása” az irányadó. A két szakasz együtt zárja ki a megszerzéskori mértékre való visszatérést."
+        },
+        {
+          "text": "Ha az elmaradt bért később fizetik ki, járulékfizetési kötelezettség egyáltalán nem keletkezik, mert az esedékesség már elmúlt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 29. § éppen a későbbi kifizetés járulékfizetési figyelembevételét rendezi, és a 24. § a megszűnés utáni kifizetést sem mentesíti. A helyes: a késedelmes járulékalap után is meg kell fizetni a járulékot, a kifizetéskori tarifa szerint. A tévedés az esedékesség elmulasztását tévesen mentesítő körülménnyé emeli."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "9af236b20af2"
+    },
+    {
+      "question": "Eset: Dóra munkaviszonya 2025. január 15-én megszűnik; február 20-án kapja meg az e jogviszony alapján járó jutalmat. A bérszámfejtő a februári biztosítási időszakra akarja sorolni a járulékalapot. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A megszűnést követően, e jogviszony alapján kifizetett járulékalapot úgy kell figyelembe venni, mintha a kifizetés a jogviszony fennállásának utolsó napján történt volna.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 30. § szerint a biztosítással járó jogviszony megszűnését követően, e jogviszony alapján kifizetett járulékalapot képező jövedelmet „úgy kell figyelembe venni, mintha annak kifizetésére a jogviszony fennállásának utolsó napján került volna sor”. A fikció Dóra január 15-i utolsó napjához köti a februárban kifizetett jutalmat. A 27. § (5) bekezdése ugyanezt a jövedelmet a járulékalapba vonja, függetlenül a kifizetés időpontjától. A 24. § fizetési kötelezettsége e fikció mellett is fennmarad."
+        },
+        {
+          "text": "A megszűnés utáni jutalom a kifizetés naptári hónapjának biztosítási időszakába esik, mert a 30. § csak az ellátásszámításra vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 30. § a járulékalapot képező jövedelem figyelembevételére ad fikciót, és az utolsó fennállási naphoz köti a kifizetést. A helyes: úgy kell figyelembe venni, mintha a jogviszony utolsó napján fizették volna ki. A tévedés a fikció hatályát indokolatlanul az ellátásszámításra szűkíti."
+        },
+        {
+          "text": "Ha a jogviszony megszűnt, a későbbi jutalom után csak nyugdíjjárulék fizetendő, társadalombiztosítási járulék nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 24. § a járulékokat — ideértve a társadalombiztosítási járulékot — a megszűnés utáni kifizetésre is kiterjeszti. A helyes: a megszűnés nem cseréli le a köztehertípust nyugdíjjárulékra. A tévedés a 23. § katalógus jogcímeit és a 24. § időbeli szabályát keveri."
+        },
+        {
+          "text": "A 24. § szerint a járulékot a februári kifizetéskor irányadó mértékek szerint is meg kell fizetni, a jogviszony megszűnése nem mentesít.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 24. § a kifizetéskor irányadó tarifát írja elő, és kimondja, hogy a megszűnést követően kifizetett járulékalap után is meg kell fizetni a járulékot. A 30. § időbeli fikciója és a 24. § fizetési kötelezettsége együtt érvényesül. A jutalom tehát nem „járulékmentes utólagos juttatás”. A mértéket a kifizetés napja, az időszakot a fikció határozza meg."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "56505912e144"
+    },
+    {
+      "question": "Mi következik abból, ha a biztosítás szünetelése alatt a szünetelést megelőző jogviszony alapján fizetnek ki járulékalapot képező jövedelmet?",
+      "options": [
+        {
+          "text": "A szünetelés alatt kifizetett jövedelem mindig a szünetelés idejére eső járulékalap, mert a kifizetés naptári napja az irányadó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 31. § fikciója a szünetelés kezdő napját megelőző napra vetíti vissza a megelőző jogviszony alapján kifizetett járulékalapot. A helyes: nem a kifizetés naptári napja, hanem a fikció szerinti megelőző nap az irányadó. A tévedés a 24. § kifizetéskori mértékszabályát tévesen az időbeli besorolásra is kiterjeszti."
+        },
+        {
+          "text": "A szünetelés alatt kifizetett, de a megelőző biztosítással járó jogviszonyon nyugvó járulékalapot úgy kell figyelembe venni, mintha a kifizetés a szünetelés kezdő napját megelőző napon történt volna.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 31. § szerint a biztosítás szünetelése alatt a szünetelést megelőzően fennálló biztosítással járó jogviszony alapján kifizetett, juttatott vagy megszerzett járulékalapot „úgy kell figyelembe venni, mintha annak kifizetésére, megszerzésére a szünetelés kezdő napját megelőző napon került volna sor”. A fikció a szünetelési időt a járulékalap szempontjából a megelőző biztosítási napra zárja. A szünetelés alatt kifizetett, de a megelőző jogviszonyon nyugvó jövedelem tehát nem a szünetelés idejére esik."
+        },
+        {
+          "text": "A 27. § (2) bekezdése a szünetelés naptári napjait az alsó határ számításánál figyelmen kívül hagyja, míg a 31. § a jövedelem időbeli besorolását adja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 27. § (2) bekezdés b) pontja a 16. § alapján a hónap egészében fenn nem álló biztosítási jogviszony napjait az alsó határ számításánál kiveszi. A 31. § ezzel párhuzamosan a szünetelés alatt kifizetett, megelőző jogviszonyon nyugvó jövedelem időbeli besorolását rendezi. A két szabály különböző funkciót lát el: az egyik az alsó határ naparányosítását, a másik a járulékalap időpontját. Nem helyettesítik egymást."
+        },
+        {
+          "text": "A 31. § szerint a szünetelés alatt kifizetett jövedelem után egyáltalán nem keletkezik járulékfizetési kötelezettség.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 31. § a figyelembevétel időpontját rendezi, nem mentesít a járulék alól. A helyes: a megelőző jogviszonyon nyugvó járulékalapot a szünetelés előtti napra kell sorolni, és utána a járulékfizetés a vonatkozó szabályok szerint fennáll. A tévedés a fikciót tévesen mentesítő szabállyá olvassa."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "0d7b9158f972"
+    },
+    {
+      "question": "A törvény által felsoroltak közül mely jövedelem nem képezi a társadalombiztosítási járulék alapját?",
+      "options": [
+        {
+          "text": "A 32. § e) pontja szerint a nem biztosított időszakra tekintettel kifizetett jövedelem is járulékalap, ha a kifizetés időpontjában már fennáll a biztosítás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 32. § e) pontja szerint nem képezi a járulékalapot az a jövedelem, amelynek kifizetése olyan időszakra tekintettel történik, amelyben a 3. § és a 17–19. § alapján nem állt fenn biztosítási jogviszony, függetlenül a kifizetés időpontjától. A helyes: a vonatkozási időszak, nem a kifizetés napjának biztosítási státusza a döntő. A tévedés a 27. § (5) bekezdés megszűnés utáni szabályát tévesen a nem biztosított időszakra is kiterjeszti."
+        },
+        {
+          "text": "A végkielégítés címén kapott összeg soha nem lehet járulékalap, mert a 32. § b) pontja minden kártérítés-szerű juttatást kivon.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 32. § b) pontja kifejezetten kivételt tesz a munkavégzés ellenértékeként, különösen elmaradt munkabér vagy végkielégítés címén kapott járulékalap javára. A helyes: a végkielégítés e kivétel folytán járulékalap maradhat. A tévedés a főszabályt a kivétel figyelmen kívül hagyásával olvassa."
+        },
+        {
+          "text": "Nem képezi a társadalombiztosítási járulék alapját a foglalkoztató által megállapított és folyósított társadalombiztosítási ellátás, valamint a szociális ellátásnak nem a foglalkoztatót terhelő összege.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 32. § a) pontja szerint nem képezi a társadalombiztosítási járulék alapját „a foglalkoztató által megállapított és folyósított társadalombiztosítási ellátás, valamint a szociális ellátásnak nem a foglalkoztatót terhelő összege”. A negatív katalógus az ellátást kiveszi a járulékalapból. Ez elválasztja a járulékot az ellátás fogalmától. Az a) pont tehát a fedezeti és a szolgáltatási oldal összekeverését zárja ki."
+        },
+        {
+          "text": "Nem képezi a járulékalapot a késedelmes teljesítéshez kapcsolódó kamat, valamint a jövedelmet pótló kártérítés és a keresetpótló járadék — kivéve a munkavégzés ellenértékeként, különösen elmaradt munkabér vagy végkielégítés címén kapott járulékalapot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 32. § b) pontja a jövedelmet pótló kártérítést és a keresetpótló járadékot kivonja, „ide nem értve a munkavégzés ellenértékeként (különösen elmaradt munkabér, végkielégítés címén) kapott” járulékalapot. A d) pont a késedelmes teljesítéshez kapcsolódó kamatot is kiveszi. A kivétel tehát a munkavégzés ellenértékét visszahozza a járulékalapba. A kártérítés és a bérpótló juttatás így nem azonos megítélésű."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "cf8909da80d9"
+    },
+    {
+      "question": "Eset: a foglalkoztató tévedésből a megengedettnél több társadalombiztosítási járulékot vont le Erikától. Erika írásban kéri a többlet visszafizetését. Milyen tartamban és milyen jogkövetkezménnyel kell eljárni?",
+      "options": [
+        {
+          "text": "A túllelvonást a biztosítottnak kell az adóhatóságtól visszakérnie, mert a foglalkoztató csak a nettó bért köteles rendezni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 33. § (2) bekezdése a foglalkoztatót kötelezi a többlet visszafizetésére a biztosított kérését követően. A helyes: a visszafizetés a foglalkoztató feladata, nem az adóhatósági visszaigénylés elsődleges útja e szakasz szerint. A tévedés a levonó alanyát és a visszafizetés címzettjét felcseréli."
+        },
+        {
+          "text": "A foglalkoztató a foglalkoztatottat terhelő társadalombiztosítási járulékot a járulékalapot képező jövedelem után — a 32. § kivételeire is figyelemmel — vonja le és fizeti meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 33. § (1) bekezdése a foglalkoztatóra telepíti a levonást és a megfizetést a járulékalapot képező jövedelem után, figyelemmel a 32. §-ban foglaltakra is. A levonás a foglalkoztató kötelezettsége, nem a biztosított önkéntes teljesítése. A 32. § a)–f) pontjai — így a folyósított társadalombiztosítási ellátás, a licenciadíj és a kamat — a levonható járulékalapot szűkítik. Erika túllelvonása e kötelezettség túlteljesítéséből ered."
+        },
+        {
+          "text": "A többletként jelentkező járulékot legkésőbb a biztosított kérését követő 15 napon belül vissza kell fizetni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 33. § (2) bekezdése szerint, ha a foglalkoztató a biztosítottól több járulékot vont le az előírtnál, „a többletként jelentkező járulékot legkésőbb a biztosított kérését követő 15 napon belül vissza kell fizetni”. A határidő a kéréshez igazodik, nem a levonás napjához. Az (1) bekezdés a foglalkoztató levonási és megfizetési kötelezettségét rögzíti. A túllelvonás orvoslása tehát kérelemhez kötött, 15 napos határidővel."
+        },
+        {
+          "text": "A túllelvonás visszafizetésének határideje a levonás napjától számított 15 nap, a biztosított kérése nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 33. § (2) bekezdése a biztosított kérését követő 15 napot írja elő, nem a levonás napjától induló automatikus határidőt. A helyes szabály: a visszafizetés határideje a kéréshez igazodik. A levonás napja önmagában nem indítja a 15 napos határidőt. A tévedés forrása a határidő kezdőnapjának a levonásra helyezése."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "db73e44acc62"
+    },
+    {
+      "question": "Eset: Hajnal Szja tv. szerinti családi kedvezményéből a ténylegesen érvényesített résszel csökkentett fennmaradó összeg 200 000 forint. A tárgyhavi fizetendő társadalombiztosítási járuléka 40 000 forint. A bérszámfejtő 25 százalékkal, azaz 50 000 forinttal akarja csökkenteni a járulékot. Mi a helyes megítélés?",
+      "options": [
+        {
+          "text": "A kedvezmény az adómentes vagy bevételnek nem minősülő járulékalap utáni járulékkötelezettséget is csökkenti, korlátozás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 34. § (6) bekezdése a családi járulékkedvezményt nem engedi az Szja tv. szerint adómentes vagy bevételnek nem minősülő járulékalap utáni járulékkötelezettségre. Kivétel a szakszervezeti tagdíj és az Szja tv. 7. § (1) bekezdés m) pontja szerinti jövedelem. A korlátlan csökkentés tehát a (6) bekezdés tilalmát mellőzi, Hajnal kedvezménye e körben nem érvényesül."
+        },
+        {
+          "text": "A családi járulékkedvezmény a fizetendő járulékot 25 százalékkal csökkenti, ezért Hajnalnál 50 000 forint a helyes kedvezmény.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 34. § (3) bekezdése 15 százalékot rögzít, nem 25 százalékot, és a kedvezmény legfeljebb a járulék összege. 50 000 forint a 40 000 forintos járulékot is meghaladná. A tévedés a százalékos kulcs elcsúsztatásából és a plafon mellőzéséből fakad."
+        },
+        {
+          "text": "A kedvezmény összege a fennmaradó 200 000 forint 15 százaléka, azaz 30 000 forint, és ez a 40 000 forintos járulékplafon alatt marad.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 34. § (3) bekezdése szerint a kedvezmény a ténylegesen érvényesített családi kedvezménnyel csökkentett összeg 15 százaléka, de legfeljebb a társadalombiztosítási járulék vagy nyugdíjjárulék. 200 000 × 0,15 = 30 000 forint, ami nem éri el a 40 000 forintos járulékösszeget, ezért a plafon nem vág. A bérszámfejtő 25 százalékos, 50 000 forintos számítása mind a kulcsot, mind a plafont sérti."
+        },
+        {
+          "text": "A családi járulékkedvezmény a biztosított által fizetendő társadalombiztosítási járulék vagy nyugdíjjárulék összegét csökkenti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 34. § (2) bekezdése szerint a családi járulékkedvezmény a biztosított társadalombiztosítási járulékát vagy nyugdíjjárulékát csökkenti. Az (1) bekezdés az Szja tv. szerinti családi kedvezményre jogosultat és a megosztással érvényesítő házastársat, élettársat jogosítja. A kedvezmény tehercsökkentő eszköz, nem új jogszerző jogcím."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "1f8c0411f82c"
+    },
+    {
+      "question": "Mi következik abból, ha a biztosított érvényesíti a családi járulékkedvezményt — érintheti-e ez az ellátásra való jogosultságot vagy az ellátás összegét?",
+      "options": [
+        {
+          "text": "Ha az éves bevallásban személyi jövedelemadó-kötelezettség keletkezik, a havi kedvezményt minden esetben vissza kell fizetni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 36. § szerint, ha a biztosított a kedvezményt havonta vagy negyedévente érvényesítette, és az éves bevallásában személyi jövedelemadó-kötelezettséget állapít meg, a kedvezmény összegét nem állapítja meg újra, és nem fizeti vissza. A helyes szabály a havi érvényesítést az éves szja-pozíció mellett is fenntartja. A jogosulatlan igénybevételre a 81. § (3) bekezdése szerinti kötelezettség ettől függetlenül érvényesül. A tévedés a jóhiszemű, bevallással lezárt érvényesítés védelmét fordítja általános visszafizetési kötelezettséggé."
+        },
+        {
+          "text": "A családi járulékkedvezmény érvényesítése nem érinti a biztosított társadalombiztosítási és munkaerő-piaci ellátásokra való jogosultságát és az ellátások összegét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 35. § szerint „a családi járulékkedvezmény érvényesítése nem érinti a biztosított társadalombiztosítási és munkaerő-piaci ellátásokra való jogosultságát és az ellátások összegét”. A kedvezmény tehercsökkentő, nem jogszerző. Az ellátás számítási alapja a kedvezmény előtti járulékalap logikája szerint marad érintetlen. A 23. § (3) bekezdésének különbözeti fikciója és a 35. § együtt zárja ki, hogy a kedvezmény az ellátást apassza."
+        },
+        {
+          "text": "Ha a biztosított a kedvezményt havonta vagy negyedévente érvényesítette, és az éves bevallásában személyi jövedelemadó-kötelezettséget állapít meg, a kedvezmény összegét nem állapítja meg újra, és nem fizeti vissza — a jogosulatlan igénybevétel 81. § (3) bekezdése szerinti kötelezettsége ettől függetlenül fennáll.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 36. § a havi vagy negyedéves érvényesítést az éves szja-pozíció mellett is fenntartja: a biztosított a kedvezményt nem állapítja meg újra, nem fizeti vissza. Ugyanez a szakasz kimondja, hogy e rendelkezés nem befolyásolja a jogosulatlan igénybevétel esetére a 81. § (3) bekezdésében előírt fizetési kötelezettséget. A 36. § tehát a jóhiszemű, bevallással lezárt érvényesítést védi. A jogosulatlan igénybevételt nem mentesíti."
+        },
+        {
+          "text": "A kedvezmény érvényesítése arányosan csökkenti a táppénz és a nyugdíj számítási alapját, mert kisebb járulékot fizettek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 35. § kifejezetten kizárja, hogy a kedvezmény az ellátásokra való jogosultságot vagy az ellátások összegét érintse. A helyes: a kedvezmény tehercsökkentő, az ellátásszámítást nem apasztja. A tévedés a járulékcsökkenést tévesen az ellátás csökkenésével azonosítja."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "4e60470a04f8"
+    },
+    {
+      "question": "Eset: Fruzsina gyermekgondozási díjban részesül, és nem saját jogú nyugdíjas. A folyósító szerv szerint az ellátás után nem kell nyugdíjjárulékot fizetni, mert „az ellátás nem járulékalap”. Mely megállapítások helyesek?",
+      "options": [
+        {
+          "text": "Az álláskeresési támogatásban részesülő személy az ellátás után nem fizet nyugdíjjárulékot, mert az nem szerepel a 37. § (1) bekezdés listáján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 37. § (2) bekezdése szerint az álláskeresési támogatásban részesülő személy az ellátás után nyugdíjjárulékot fizet. A helyes: a (2) bekezdés külön nevesíti ezt a kötelezettséget. Az (1) bekezdés listájának taxatív olvasata nem törli a (2) bekezdés szabályát. A tévedés az (1) bekezdés felsorolásának kizárólagos olvasatából ered."
+        },
+        {
+          "text": "A gyermekgondozási díjban részesülő személy az ellátás összege után nyugdíjjárulékot fizet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 37. § (1) bekezdése a gyermekgondozási díjban, gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, gyermekek otthongondozási díjában, ápolási díjban, fejlesztési foglalkoztatási díjban és a törvényben felsorolt további ellátásokban részesülő személyt az ellátás összege után nyugdíjjárulék fizetésére kötelezi. A nyugdíjjárulék mértéke a Tbj. 25. § (2) bekezdése szerint 10 százalék. Fruzsina gyedje tehát nem esik ki automatikusan a nyugdíjjárulék alól. Az „ellátás nem járulékalap” fordulat a 32. § a) pont társadalombiztosítási járulék-kivételével keverhető, de a 37. § külön jogcímet nyit."
+        },
+        {
+          "text": "A gyermekgondozási díj után soha nem fizetendő nyugdíjjárulék, mert a 32. § a) pontja minden társadalombiztosítási ellátást kivon a járulékalapból.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 32. § a) pontja a társadalombiztosítási járulék alapjából emeli ki a foglalkoztató által folyósított ellátást, míg a 37. § (1) bekezdése külön nyugdíjjárulék-kötelezettséget telepít a gyed és a felsorolt ellátások összegére. A helyes: járulékjogcím és mérték szerint a gyed után 10 százalék nyugdíjjárulék fizetendő. A tévedés a 32. § és a 37. § hatókörét mossa össze."
+        },
+        {
+          "text": "A saját jogú nyugdíjas, valamint az öregségi nyugdíjkorhatárt betöltött özvegyi nyugdíjas a gyermekgondozást segítő ellátás, a gyermekek otthongondozási díja, az ápolási díj és a fejlesztési foglalkoztatási díj után főszabály szerint nem fizet nyugdíjjárulékot — az özvegyi nyugdíjas azonban nyilatkozattal vállalhatja a fizetést.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 37. § (1) bekezdése a saját jogú nyugdíjast és az öregségi nyugdíjkorhatárt betöltött özvegyi nyugdíjast e felsorolt ellátások után mentesíti a nyugdíjjárulék alól. Ugyanez a bekezdés lehetővé teszi, hogy az öregségi nyugdíjkorhatárt betöltött özvegyi nyugdíjas a folyósító szervhez tett nyilatkozattal vállalja a fizetést. A mentesülés tehát nem abszolút az özvegyi nyugdíjasnál. Fruzsina gyedje ettől a kivételi körtől elválik, ha nem tartozik a mentesített nyugdíjas kategóriába."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "2939dbee0656"
+    },
+    {
+      "question": "Eset: Gábor biztosított társas vállalkozó; a tárgyhavi személyes közreműködési díja a minimálbér fele. A társaság szerint elég a tényleges díj után fizetni, alsó határ nincs. Mely állítások igazak?",
+      "options": [
+        {
+          "text": "Az alsó határt arányosan csökkenteni kell a táppénz, baleseti táppénz, csecsemőgondozási díj, örökbefogadói díj, gyermekgondozási díj, továbbá — személyes tevékenység hiányában — meghatározott gyermekgondozási és ápolási ellátások, valamint a fogvatartás és a kamarai tagság szüneteltetése idejére; részhónapban a harmincad irányadó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 39. § (3) bekezdése taxatíve felsorolja az alsó határ arányos csökkentésének eseteit, a (4) bekezdés pedig a részhónapra és a hónapközbeni keletkezésre vagy megszűnésre a járulékalap harmincad részét rendeli. A csökkentés tehát nem szabad mérlegelés, hanem a (3) bekezdés pontjaihoz kötött. Gábor alacsony díja önmagában nem „csökkentett alsó határ”. A harmincados szabály a naptári napokhoz igazodik."
+        },
+        {
+          "text": "Ha a társas vállalkozó több gazdasági társaság tagja, az alsó határ utáni járulékot minden társaságnál teljes mértékben, párhuzamosan meg kell fizetni választás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 42. § (4) bekezdése szerint, ha a társas vállalkozóként biztosított több gazdasági társaság személyesen közreműködő tagja vagy ügyvezetője, a járulékfizetési alsó határ utáni járulékot évente egy alkalommal történő választása szerint egyszer kell figyelembe venni. A helyes: január 31-éig tett választással egyszeres alsó határ. A tévedés a többes jogviszony választási rendjét mellőzi."
+        },
+        {
+          "text": "A társas vállalkozó járulékalapja mindig csak a ténylegesen kifizetett személyes közreműködési díj, alsó határ nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 39. § (1) bekezdése havonta legalább a minimálbért írja elő járulékalapként. A helyes: a tényleges díj és a minimálbér közül a magasabb logika szerint az alsó határ a minimálbér. A tévedés a munkaviszonyi alsó határ (minimálbér 30 százaléka) hiányát tévesen a társas vállalkozóra is kiterjeszti."
+        },
+        {
+          "text": "A biztosított társas vállalkozó a társadalombiztosítási járulékot a személyes közreműködésére tekintettel megszerzett járulékalap után fizeti, havonta legalább a minimálbér után.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 39. § (1) bekezdése szerint a biztosított társas vállalkozó a társas vállalkozástól személyes közreműködésére tekintettel megszerzett járulékalap után fizet, és „a társadalombiztosítási járulék alapja havonta legalább a minimálbér”. Gábor fele minimálbéres díja önmagában nem elégíti ki az alsó határt. Az ügyvezetőként biztosítottnál a (2) bekezdés szerint a személyes közreműködés díjazása az ügyvezetés díjazása. A tényleges díj tehát csak akkor elegendő, ha eléri a minimálbért."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "cdbb079bcbc9"
+    },
+    {
+      "question": "Eset: Imre vállalkozói jövedelem szerinti adózást alkalmazó biztosított egyéni vállalkozó; tárgyhavi vállalkozói kivétje a minimálbér felett van. Ákos átalányadózó biztosított egyéni vállalkozó. A könyvelő mindkettőnél a tárgyhavi bevétel 10 százalékát tekinti járulékalapnak, alsó határ nélkül. Mi a helyes megítélés?",
+      "options": [
+        {
+          "text": "Ákosnál a havi járulékalap az év elejétől a tárgynegyedév végéig átalányban megállapított, szja-köteles jövedelem, csökkentve a korábbi negyedévekben figyelembe vett összeggel, elosztva a tárgynegyedév biztosítási hónapjainak számával; az alsó határ a minimálbér.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 40. § (2) bekezdése az átalányadózó járulékalapját az év elejétől a tárgynegyedév végéig átalányban megállapított, szja-köteles jövedelemből, a korábbi negyedévek levonásával és a tárgynegyedév biztosítási hónapjaival osztva vezeti le. A 40. § (3) bekezdése e számításra a minimálbér-alsó határt is előírja. Ákosnál tehát negyedéves kumulált számítás és alsó határ érvényesül, nem a tárgyhavi bevétel 10 százaléka."
+        },
+        {
+          "text": "Imrénél a tárgyhavi társadalombiztosítási járulék alapja a vállalkozói kivét, havonta legalább a minimálbér.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 40. § (1) bekezdése a vállalkozói jövedelem szerinti adózónál a vállalkozói kivétet jelöli ki tárgyhavi járulékalapnak, a (3) bekezdés pedig havonta legalább a minimálbért írja elő. Imre kivétje a minimálbér felett van, ezért a kivét az irányadó alap, de az alsó határ nem törölhető. A tárgyhavi bevétel 10 százaléka nem a 40. § (1) bekezdése szerinti mérce."
+        },
+        {
+          "text": "Az egyéni vállalkozó a járulékfizetési alsó határ után akkor sem fizet, ha a gyermekgondozást segítő ellátás mellett személyesen folytatja a vállalkozói tevékenységet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 40. § (4) bekezdés b) pontja a gyermekgondozást segítő ellátás, a gyermekek otthongondozási díja és az ápolási díj idejére csak akkor mentesít, ha a vállalkozó a tevékenységet személyesen nem folytatja. Személyes folytatás esetén az alsó határ utáni kötelezettség fennmarad. A tévedés a mentesség feltételét mellőzi."
+        },
+        {
+          "text": "Az átalányadózó egyéni vállalkozó járulékalapja minden esetben csak a tárgyhavi bevétel 10 százaléka, alsó határ nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 40. § (2)–(3) bekezdése a kumulált átalányjövedelem hónapokra osztott összegét és a minimálbér-alsó határt írja elő, nem a bevétel 10 százalékát. A 10 százalékos olvasat a 41. § őstermelői szabályát tévesen az átalányadózóra írja. Az alsó határ mellőzése a 40. § (3) bekezdését is figyelmen kívül hagyja."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "56f25764854f"
+    },
+    {
+      "question": "Eset: Helga mezőgazdasági őstermelő; a tárgyévet megelőző évi, támogatások nélküli bevétele az éves minimálbér négyszerese. A könyvelő a minimálbér 92 százaléka után akar járulékot fizettetni. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "Az ötszörös küszöb alatti bevételnél is mindig a minimálbér 92 százaléka az irányadó, mert az (1) bekezdés kógens.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 41. § (2) bekezdése kifejezetten eltér az (1) bekezdéstől, ha a támogatások nélküli bevétel nem haladja meg az éves minimálbér ötszörösét. A helyes: ilyenkor a bevétel 15 százaléka a járulékalap. A tévedés a főszabályt kivétel nélküli kógens szabályként olvassa."
+        },
+        {
+          "text": "A magasabb járulékalap választása csak a tárgyév végét követően, visszamenőlegesen tehető meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 41. § (4) bekezdése szerint a magasabb járulékalapról a negyedévi járulékbevallásban kell nyilatkozni; a tárgyév első negyedévi nyilatkozat az adóévre, a későbbi a még hátralévő időszakra szól. A helyes: a választás a bevallásban, előre hatályos időszakokra történik. A tévedés a nyilatkozatot visszamenőleges évzáró aktussá alakítja."
+        },
+        {
+          "text": "Főszabály szerint a mezőgazdasági őstermelő — ideértve a tárgyévben kezdőt is — a minimálbér 92 százalékának megfelelő összeg után fizeti a társadalombiztosítási járulékot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 41. § (1) bekezdése a minimálbér 92 százalékát jelöli ki főszabályként, ideértve a tárgyévben kezdő őstermelőt is. A (2) bekezdés e főszabálytól tér el az alacsonyabb bevételű őstermelőnél. Helga esete a (2) bekezdés hatálya alá esik, de a 92 százalékos mérték a törvényi főszabály. A (4) bekezdés lehetővé teszi magasabb járulékalap vállalását nyilatkozattal."
+        },
+        {
+          "text": "Ha a tárgyévet megelőző évi, támogatások nélküli bevétel nem haladja meg az éves minimálbér ötszörösét, a járulék alapja e bevétel 15 százaléka, havi bontásban annak egytizenketted része.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 41. § (2) bekezdése szerint, ha az őstermelő tárgyévet megelőző évi, támogatások nélküli bevétele nem haladja meg a tárgyévet megelőző adóév éves minimálbérének ötszörösét, a járulék alapja e bevétel 15 százaléka. A (3) bekezdés a havi járulékalapot e 15 százalék egytizenketted részeként határozza meg. Helga négyszeres bevétele az ötszörös küszöb alatt van. A 92 százalékos főszabály ezért nem alkalmazandó rá."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "86bf2dfd011b"
+    },
+    {
+      "question": "Eset: István egyéni vállalkozó és egyben társas vállalkozó; emellett heti 40 órás munkaviszonyban is áll. A bérszámfejtő minden jogviszonyban a minimálbér-alsó határt akarja alkalmazni. Mely megállapítások helyesek?",
+      "options": [
+        {
+          "text": "Több biztosítási kötelezettséggel járó jogviszony egyidejű fennállása esetén a járulékalap után mindegyik jogviszonyban meg kell fizetni a társadalombiztosítási járulékot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 42. § (1) bekezdése kimondja, hogy több biztosítási kötelezettséggel járó jogviszony egyidejű fennállása esetén a járulékalap után mindegyik jogviszonyban meg kell fizetni a társadalombiztosítási járulékot. A többes jogviszony tehát nem mentesít. A (2) bekezdés viszont meghatározott esetben a tényleges járulékalapot (illetve átalányadózónál a 40. § (2) bekezdése szerinti alapot) jelöli ki az alsó határ helyett. István heti 40 órás munkaviszonya e kedvezményes alap-szabályt megnyithatja."
+        },
+        {
+          "text": "Ha az egyéni vagy társas vállalkozó legalább heti 36 órás foglalkoztatással járó munkaviszonyban is áll, a járulék alapja a ténylegesen elért járulékalap (átalányadózónál a 40. § (2) bekezdése szerinti alap), nem automatikusan a minimálbér-alsó határ.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 42. § (2) bekezdés a) pontja a legalább heti 36 órás munkaviszonyhoz köti, hogy a vállalkozói oldalon a tényleges járulékalap legyen az irányadó. A (3) bekezdés szerint a heti 36 órát az egyidejű munkaviszonyok munkaidejének összeszámításával kell megállapítani. István 40 órás jogviszonya önmagában eléri a küszöböt. A bérszámfejtő minden jogviszonyra kiterjesztett minimálbér-alsó határa ezért túlzó."
+        },
+        {
+          "text": "A heti 36 órás küszöb csak egyetlen munkaviszonyban vizsgálható; az egyidejű munkaviszonyok ideje nem számítható össze.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 42. § (3) bekezdése szerint a heti 36 órás foglalkoztatás megállapításánál az egyidejűleg fennálló munkaviszonyokban előírt munkaidőt össze kell számítani. A helyes szabály tehát az összeszámítást kötelezővé teszi. Két részmunkaidős jogviszony együtt is elérheti a heti 36 órát. A tévedés a (3) bekezdés összeszámítási fordulatát mellőzi, és egyetlen jogviszonyhoz köti a küszöböt."
+        },
+        {
+          "text": "Az egyéni vállalkozó, aki egyben társas vállalkozó is, a társas vállalkozásnál is mindig a minimálbér-alsó határ után fizet, választási lehetőség nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 42. § (8) bekezdése szerint az egyéni vállalkozói kötelezettség a 40. § szerint áll fenn, a társas vállalkozásnál pedig főszabály szerint a tényleges járulékalap az irányadó; az egyéni vállalkozó január 31-éig választhatja, hogy az alsó határt társas vállalkozóként teljesíti. A helyes: van választási rend, nem kényszerű párhuzamos alsó határ. A tévedés a (8) bekezdés választását mellőzi."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "fa2b27949074"
+    },
+    {
+      "question": "Eset: Judit belföldi, nem biztosított, és a 22. § (1) bekezdés a)–u) pontja, a 3. § és az Ebtv. 29. § (9) bekezdése szerint sem jogosult egészségügyi szolgáltatásra. A járulékfizetési kötelezettsége keletkezését megelőzően megszakítás nélkül nyolc hónapja van bejelentett lakóhelye. Mely megállapítások igazak?",
+      "options": [
+        {
+          "text": "Nyolc hónapos megszakítás nélküli lakóhely már megalapozza a 43. § szerinti kötelezettséget, mert a kilencven napos beszámítás a küszöböt kilenc hónapra csökkenti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 43. § (2) bekezdése legalább egyéves megszakítás nélküli lakóhelyet követel. A legfeljebb kilencven napos lakóhelyhiány csak az egyéves időtartamba számít bele, nem csökkenti a küszöböt kilenc hónapra. Judit nyolc hónapja ezért nem elégíti ki a feltételt. A tévedés a beszámítási szabályt küszöbcsökkentő szabállyá olvassa."
+        },
+        {
+          "text": "Egészségügyi szolgáltatási járulékfizetésre kötelezett az a belföldi, aki nem biztosított, és egészségügyi szolgáltatásra a 22. § (1) bekezdés a)–u) pontja, a 3. § és az Ebtv. 29. § (9) bekezdése szerint sem jogosult — feltéve, hogy a további törvényi feltételek is fennállnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 43. § (1) bekezdés a) pontja ezt a kötelezetti kört határozza meg. Judit alanyi helyzete e pont tényállásába illeszkedik. A (2) bekezdés további feltételként a keletkezést vagy a 71. § (2) bekezdése szerinti bejelentkezést megelőző, megszakítás nélküli legalább egyéves belföldi lakóhelyet kívánja meg. A kötelezettség tehát kétlépcsős: alanyi hiány + egyéves lakóhelyi feltétel. A puszta „nem biztosított” státusz önmagában nem elég."
+        },
+        {
+          "text": "A természetes személy kötelezettségének további feltétele a keletkezést megelőző, megszakítás nélküli legalább egyéves bejelentett lakóhely; a legfeljebb kilencven napos lakóhelyhiány beleszámít az egyéves időtartamba.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 43. § (2) bekezdése a megszakítás nélküli legalább egyéves bejelentett lakóhelyet (hontalannál a bejelentett szálláshelyet) írja elő. Ugyanez a bekezdés szerint az egyéves időtartamba beleszámít a legfeljebb kilencven napos lakóhely nélküli időszak is. Judit nyolc hónapos lakóhelye az egyéves küszöb alatt van. A 22. § (7) bekezdése szerint belföldinek minősülőkre e lakóhelyi feltétel nem vonatkozik, a főszabályos belföldinél viszont igen."
+        },
+        {
+          "text": "Ha Judit utólag biztosítottá válik, az előírt egészségügyi szolgáltatási járulékot akkor is meg kell fizetni, mert a kötelezettség visszamenőleg nem törölhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 43. § (3) bekezdése szerint, ha a biztosítási kötelezettség megállapítására utólag kerül sor, a biztosítási jogviszony fennállásának időtartama alatt az e § alapján előírt járulékot a foglalkoztató igazolása mellett az állami adó- és vámhatóság törli. A helyes: utólagos biztosítás esetén törlés jár. A tévedés a (3) bekezdés törlési szabályát mellőzi."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "20f0e550da08"
+    },
+    {
+      "question": "Eset: Klaudia a 43. § (1) bekezdés a) pontja szerinti egészségügyi szolgáltatási járulékfizetésre kötelezett; unokatestvére átvállalná a fizetést. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A 43. § (1) bekezdés a) pontja szerinti kötelezett helyett, annak hozzájárulásával, más személy vagy szerv is teljesítheti az egészségügyi szolgáltatási járulékot; az átvállalás az állami adóhatóság jóváhagyásával válik érvényessé.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 44. § (1) bekezdése lehetővé teszi, hogy a kötelezett helyett — annak hozzájárulásával — más személy vagy szerv teljesítse a járulékot, és az átvállalás az állami adóhatóság jóváhagyásával válik érvényessé. Klaudia unokatestvére tehát nem automatikusan lép a kötelezett helyébe. A jóváhagyás hiányában az átvállalás nem érvényes. Ez elválik a 50. § szerinti megállapodás-átvállalástól, ahol a megállapodás alanya is harmadik személy lehet."
+        },
+        {
+          "text": "Az átvállalás a felek magánjogi megállapodásával érvényessé válik, adóhatósági jóváhagyás nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 44. § (1) bekezdése szerint a járulékfizetés átvállalása az állami adóhatóság jóváhagyásával válik érvényessé. A helyes: a magánjogi akarat önmagában nem elég. A tévedés a 50. § megállapodás-átvállalásának szerkezetét tévesen a 44. §-ra írja jóváhagyás nélkül."
+        },
+        {
+          "text": "A kötelezett 15 napon belül bejelentést tesz az átvállalásról; ha az átvállaló nem teljesít, a járulék a kötelezettet terheli.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 44. § (2) bekezdése szerint a járulékfizetés átvállalásáról a kötelezett 15 napon belül bejelentést tesz az állami adóhatóságnak. Ha az átvállaló nem teljesít, az egészségügyi szolgáltatási járulékot a kötelezett köteles megfizetni. Az átvállalás tehát nem végleges mentesítés. A fizetési felelősség a nemteljesítéskor visszaszáll Klaudiára."
+        },
+        {
+          "text": "Ha az átvállaló nem fizet, a járulékkötelezettség véglegesen az átvállalóé marad, a kötelezett mentesül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 44. § (2) bekezdése szerint, ha az átvállaló nem teljesít, a járulékot a kötelezett köteles megfizetni. A helyes: a nemteljesítés a kötelezettséget visszateszi Klaudiára. A tévedés az átvállalást végleges alanycserének tekinti."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "611cb29d91a0"
+    },
+    {
+      "question": "Milyen időtartamban áll fenn a 43. § (1) bekezdés a) pontja szerinti egészségügyi szolgáltatási járulékfizetési kötelezettség, és mi a jogkövetkezménye a hatszoros hátraléknak?",
+      "options": [
+        {
+          "text": "A kötelezettség az egészségügyi szolgáltatásra való jogosultság megszűnését követő naptól a biztosítási jogviszony első napjáig, vagy a 22. § (1) bekezdés a)–u) pontja szerinti feltétel bekövetkezéséig áll fenn.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 45. § (1) bekezdése ezt az időbeli keretet rögzíti. Ha a kezdő időpont nem állapítható meg, az nem lehet korábbi az elévülés utolsó napjánál; meghatározott esetekben — így különösen EGT-állampolgárnál — a belföldiség keletkezése az irányadó. A (2) bekezdés szerint a megállapított kezdettől eltérő időpontra a fizetés nem állapítható meg. A kötelezettség tehát zárt idősávban él."
+        },
+        {
+          "text": "A fizetési kötelezettség a jogosultság megszűnésének hónapjától számított egy évig áll fenn, függetlenül a biztosítási jogviszony keletkezésétől.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 45. § (1) bekezdése a jogosultság megszűnését követő naptól a biztosítási jogviszony első napjáig vagy a 22. § (1) bekezdés a)–u) pontja szerinti feltétel bekövetkezéséig tartó sávot ad, nem egyéves abszolút tartamot. A helyes: a kötelezettség a biztosítási vagy jogosultsági feltétel beálltáig tart. A tévedés az egyéves lakóhelyi feltételt (43. § (2)) tévesen a kötelezettség tartamává emeli."
+        },
+        {
+          "text": "A hatszoros hátralék esetén a TAJ automatikusan visszamenőlegesen is érvényessé válik, amint a tartozást megfizetik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 46. § (2) bekezdése kifejezetten kimondja, hogy a tartozás utólagos megfizetése nem eredményezi a TAJ szám visszamenőleges érvényességét. A helyes: a visszaállítás a megfizetésről vagy a fizetési kedvezményről szóló adatszolgáltatást követő naptól hatályos. A tévedés a visszaállítás hatályát visszamenőlegessé olvassa."
+        },
+        {
+          "text": "Ha a kötelezett nem teljesít, és a hátralék meghaladja a havi járulék hatszorosát, a TAJ szám az egészségügyi szolgáltatás igénybevétele vonatkozásában érvénytelen; a tartozás utólagos megfizetése a TAJ-t nem teszi visszamenőlegesen érvényessé.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 46. § (2) bekezdése szerint, ha a hátralék meghaladja az egészségügyi szolgáltatási járulék havi összegének hatszorosát, a TAJ az egészségügyi szolgáltatás igénybevétele vonatkozásában érvénytelen, a szolgáltatás térítésmentesen nem vehető igénybe. A TAJ érvényességét a tartozás megfizetéséről vagy a fizetési kedvezményről szóló adatszolgáltatást követő naptól állítják vissza. A tartozás utólagos megfizetése nem eredményezi a TAJ visszamenőleges érvényességét. A 46. § (1) bekezdése szerint e járulék megfizetése alapozza meg a 22. § (1) bekezdés v) pontja szerinti jogosultságot."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "6a539ea3fdfd"
+    },
+    {
+      "question": "Eset: a szociális szövetkezet új tagi munkavégzési jogviszonyt létesít; a gazdasági vezető az első öt évben teljes egészségügyi szolgáltatási járulékot akar fizetni „biztonságból”. Mely megállapítások helyesek?",
+      "options": [
+        {
+          "text": "A kedvezmény igénybevételéhez nem kell a tag nyilatkozata, mert a szövetkezet saját nyilvántartása elegendő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 47. § (5) bekezdése szerint a kedvezményhez szükséges a tag nyilatkozata arról, hogy utána másik szövetkezet nem érvényesít kedvezményt, vagy a megelőző négy évben mennyi időre érvényesítettek. A jogszerűtlen nyilatkozatból eredő adóhiány, bírság és pótlék a tagot terheli. A helyes: a nyilatkozat kötelező eleme az igénybevételnek. A tévedés az (5) bekezdés nyilatkozati feltételét mellőzi."
+        },
+        {
+          "text": "A tagi jogviszony szünetelése alatt a szövetkezet nem fizet egészségügyi szolgáltatási járulékot; a tag közfoglalkoztatási jogviszonya alatt a szociális szövetkezetre és tagjára vonatkozó járulékszabályok nem alkalmazhatók.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 47. § (1) bekezdése a szünetelés alatt mentesíti a szövetkezetet az egészségügyi szolgáltatási járulék alól, és a közfoglalkoztatás idejére kizárja a szociális szövetkezeti járulékszabályok alkalmazását. A kedvezménylétra és a szünetelési mentesülés tehát különböző helyzeteket rendez. A közfoglalkoztatás nem „szünetelés” a (2) bekezdés kedvezménye szempontjából automatikusan. A két fordulat együtt olvasható."
+        },
+        {
+          "text": "A szociális szövetkezet az egészségügyi szolgáltatási járulék megfizetése alól a tagi munkavégzési jogviszony létrejöttét követő első évben mentesül, a második évben 25, a harmadikban 50, a negyedikben 75, az ötödik évtől 100 százalékot fizet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 47. § (2) bekezdése ezt az ötéves kedvezménylétrát rögzíti. Az egészségügyi szolgáltatási járulék különbözetét a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalap negyedévente megtéríti az Egészségbiztosítási Alapnak. A „biztonságból” teljes fizetés az első években nem a törvényi kedvezmény rendje. A (3) bekezdés szerint ugyanazon személy után egy időben csak egy szövetkezet, és ugyanaz a szövetkezet ugyanazon tag után csak egy alkalommal veheti igénybe a kedvezményt."
+        },
+        {
+          "text": "A kedvezményt ugyanazon személy után egyidejűleg több szociális szövetkezet is érvényesítheti, ha mindegyik tagi jogviszonyt létesített.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 47. § (3) bekezdése szerint a kedvezményt ugyanazon személy után egy időben csak egy szociális szövetkezet veheti igénybe, és ugyanaz a szövetkezet ugyanazon tag után csak egy alkalommal. A helyes: az egyidejű többszörözés tilos. A (4) bekezdés a négy évnél rövidebb jogviszonynál a fennmaradó idő másik jogviszonyban való érvényesítését engedi, a korábbi időtartam beszámításával. A tévedés a (3) bekezdés egyidejűségi korlátját mellőzi."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "31ba37d94344"
+    },
+    {
+      "question": "Az alábbi állítások a járulék és az ellátás, valamint a kötelező közteher és a megállapodás viszonyáról szólnak. Melyek HAMISAK?",
+      "options": [
+        {
+          "text": "A 48–54. § szerinti megállapodás ugyanaz, mint a 43. § szerinti egészségügyi szolgáltatási járulék kötelező fizetése, csak más elnevezéssel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 43. § a biztosítás nélkül álló belföldi kötelező egészségügyi szolgáltatási járulékát rendezi, míg a 48–54. § a szolgálati idő, a nyugdíjalap, az egészségügyi szolgáltatás és az anyasági pénzbeli ellátás önkéntes, hatósági szerződéses megszerzését. A helyes elhatárolás: kötelező közteher versus megállapodás. A két intézmény alanya, jogcíme és eljárása elválik."
+        },
+        {
+          "text": "A 32. § a) pontja és a 37. § ugyanazt a köztehertípust rendezik, ezért a gyermekgondozási díj után soha nem fizethető nyugdíjjárulék.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 32. § a) pont a társadalombiztosítási járulék alapjából emeli ki a foglalkoztató által folyósított ellátást, a 37. § (1) bekezdése viszont a gyed és a felsorolt ellátások összege után külön nyugdíjjárulékot ír elő. A helyes: a két szakasz különböző jogcímeket rendez. A tévedés a járulékalap-kivételt a nyugdíjjárulék tilalmával azonosítja."
+        },
+        {
+          "text": "A Tbj. 24. § szerinti kifizetéskori tarifa csak a megállapodásos járulékra vonatkozik, a kötelező társadalombiztosítási járulékra nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 24. § a járulékokat a járulékalapot képező jövedelem kifizetésekor irányadó mértékekhez köti, és a megszűnés utáni kifizetést is átfogja. A helyes: a 24. § a kötelező járulékfizetés időbeli mércéje. A 48–54. § megállapodásai külön eljárási és fizetési rendet kapnak. A tévedés az általános szabályt a megállapodási blokkra szűkíti."
+        },
+        {
+          "text": "A családi járulékkedvezmény érvényesítése automatikusan csökkenti a táppénz összegét, mert kisebb járulékot fizettek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 35. § szerint a családi járulékkedvezmény érvényesítése nem érinti a társadalombiztosítási és munkaerő-piaci ellátásokra való jogosultságot és az ellátások összegét. A helyes: a kedvezmény tehercsökkentő, nem ellátáscsökkentő. A járulékcsökkenés nem apasztja az ellátást. A tévedés a közteher és az ellátás összekapcsolásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "0b92dadf8c89"
+    },
+    {
+      "question": "Eset: László belföldi nagykorú, nem saját jogú nyugdíjas, biztosítási kötelezettséggel járó jogviszonyban nem áll. Szolgálati idő és nyugdíjalap szerzése céljából megállapodást kötne, de csak szolgálati időre, átlagkereset nélkül. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "Az (1) bekezdés szerinti feltételek mellett 22 százalék nyugdíjjárulék vállalásával megállapodás köthető szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 48. § (1) bekezdése a belföldi nagykorút — aki nem saját jogú nyugdíjas, és a biztosítási kötelezettséggel járó jogviszonyban nem áll, a biztosítás nem terjed ki rá, vagy a biztosítása szünetel — 22 százalék nyugdíjjárulék vállalása mellett jogosítja e megállapodásra. László alanyi helyzete e körbe illeszkedik. A járulék alapja a (3) bekezdés szerint a megjelölt jövedelem, de legalább a megkötés napján érvényes minimálbér. A megállapodás tehát önkéntes jogszerzési út a kényszerközteher mellett."
+        },
+        {
+          "text": "A szolgálati időre és a nyugdíj alapjául szolgáló átlagkeresetre a megállapodás külön-külön nem köthető meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 48. § (2) bekezdése szerint az (1) bekezdés szerinti megállapodás szolgálati időre és nyugdíj alapjául szolgáló átlagkereset megszerzésére külön-külön nem köthető meg. László „csak szolgálati idő” konstrukciója ezért nem felel meg. A két elem együtt jár. A (4) bekezdés szerinti, tisztán szolgálati idő szerzésére irányuló külön megállapodás más tényállásokra — nappali felsőoktatás, hiányzó 15/20 év — nyílik."
+        },
+        {
+          "text": "A megállapodás alapján fizetendő nyugdíjjárulék mértéke 18,5 százalék, mert a társadalombiztosítási járulék tarifája az irányadó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 48. § (1) bekezdése 22 százalék nyugdíjjárulék vállalását írja elő. A helyes: a megállapodásos nyugdíjjárulék 22 százalék, nem a 25. § (1) bekezdés szerinti 18,5 százalékos társadalombiztosítási járulék. A tévedés a kötelező tarifa és a megállapodásos mérték felcseréléséből ered."
+        },
+        {
+          "text": "A 48. § (1) bekezdése szerinti megállapodás kizárólag szolgálati időre is megköthető, ha a felek így rendelkeznek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 48. § (2) bekezdése tiltja a szolgálati idő és az átlagkereset szétválasztását az (1) bekezdés szerinti megállapodásnál. A helyes: a két elem együtt köthető meg. A tévedés a (2) bekezdés tilalmát mellőzi, és a (4) bekezdés külön szolgálati idő-megállapodását tévesen az (1) bekezdésre írja."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "4f2064c25523"
+    },
+    {
+      "question": "Milyen feltételekkel pótolható megállapodással a hiányzó öregségi szolgálati idő, és milyen fizetési rend mellett?",
+      "options": [
+        {
+          "text": "A hiányzó szolgálati idő pótlása a korhatár betöltése előtt is szabadon köthető, ha az igénylő öt évnél rövidebb hiányt igazolt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 54. § (1) bekezdése a 48. § (4) bekezdés b) pontja szerinti megállapodást a korhatár betöltése utánra korlátozza. A helyes: a korhatár előtti pótlás e jogcímen nem nyílik. A tévedés az öt éves felső korlátot a korhatár-feltétel helyébe lépteti."
+        },
+        {
+          "text": "A 48. § (4) bekezdés b) pontja szerinti megállapodás megkötésére a megállapodást kötőre — kedvezményezett javára kötésnél a kedvezményezettre — irányadó öregségi nyugdíjkorhatár betöltése után kerülhet sor.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 54. § (1) bekezdése szerint a 48. § (4) bekezdés b) pontja szerinti megállapodás a korhatár betöltése után köthető. A hiányzó szolgálati idő pótlása tehát nem nyílik meg a korhatár előtt. A (4) bekezdés a) pontja szerinti felsőoktatási tanulmányi idő elismertetése ettől elváló tényállás. A korhatár-feltétel a b) pontos pótlás sajátja."
+        },
+        {
+          "text": "A hiányzó szolgálati idő pótlására a járulékot havonta, a tárgyhónapot követő hónap 12. napjáig kell megfizetni, mint az (1) bekezdés szerinti folyamatos megállapodásnál.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 48. § (6) bekezdése a (4) bekezdés b) pont szerinti esetben tizenöt napon belüli egyösszegű fizetést ír elő. A helyes: egyösszegű, nem havi ütemezés. A tévedés a 52. § (4) bekezdés szerinti havi nyugdíjjárulék-határidőt tévesen a hiányzó idő pótlására írja."
+        },
+        {
+          "text": "A hiányzó tizenöt vagy húsz év szolgálati idő pótlására — legfeljebb öt naptári évre — a minimálbér 22 százaléka után köthető megállapodás; a járulékot a megkötést követő tizenöt napon belül egy összegben kell megfizetni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 48. § (4) bekezdés b) pontja a hiányzó szolgálati idő elismertetését legfeljebb öt naptári évre engedi a megkötés napján érvényes minimálbér alapulvételével számított 22 százalék nyugdíjjárulékkal. A (6) bekezdés szerint a járulékot a megkötést követő tizenöt napon belül egy összegben kell megfizetni. Az ellátás legkorábban a megfizetés napjától állapítható meg. A megállapodás a nyugdíjigény határozata elleni jogorvoslati határidő lejártáig kezdeményezhető."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "ae6f06e24583"
+    },
+    {
+      "question": "Eset: Mária nem biztosított, és egészségügyi szolgáltatásra egyéb jogcímen sem jogosult; a vele együtt élő 10 éves gyermekére is megállapodást kötne. Milyen járulékösszegek az irányadók?",
+      "options": [
+        {
+          "text": "A Magyarországon nappali rendszerű oktatásban tanulmányokat folytató külföldi állampolgár a minimálbér 30 százalékának megfelelő havi járulék vállalása esetén köthet egészségügyi szolgáltatásra megállapodást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 49. § (3) bekezdése a Magyarország területén oktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytató külföldi állampolgár számára a minimálbér 30 százalékának megfelelő havi járulékot ír elő. Ez a harmadik alanyi kör az (1)–(2) bekezdés mellett. A 30 százalékos kulcs a kiskorú gyermekével azonos mértékű, de külön tényállás. A 52. § (6) bekezdése e megállapodásoknál a huszonnégy hónapos várakozást is rendezi."
+        },
+        {
+          "text": "Nagykorú állampolgár esetén a megállapodás alapján fizetendő járulék havi összege a megkötés napján érvényes minimálbér 50 százaléka, 18 évesnél fiatalabb gyermeknél 30 százaléka.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 49. § (2) bekezdés a) és b) pontja a nagykorúnál a minimálbér 50 százalékát, a 18 évesnél fiatalabb gyermeknél 30 százalékát rögzíti. Az (1) bekezdés a nem biztosított és egyéb jogcímen sem jogosult természetes személyt jogosítja a saját, valamint a vele együtt élő gyermeke egészségügyi szolgáltatásának biztosítására. Mária és gyermeke tehát eltérő százalékos kulccsal kerül a megállapodásba. A mértékek a megkötés napján érvényes minimálbérhez igazodnak."
+        },
+        {
+          "text": "A 10 éves gyermek után a minimálbér 50 százaléka fizetendő, mert a gyermek is „nagykorúként” számít a megállapodásban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 49. § (2) bekezdés b) pontja a 18 évesnél fiatalabb gyermeknél a minimálbér 30 százalékát rögzíti. A helyes: Mária gyermekére 30 százalék az irányadó. A tévedés a nagykorú 50 százalékos kulcsát a kiskorúra is kiterjeszti."
+        },
+        {
+          "text": "Nagykorú és kiskorú gyermek után egyaránt a minimálbér 22 százaléka fizetendő, mert a 48. § nyugdíjjárulék-mértéke az irányadó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 49. § (2) bekezdése 50, illetve 30 százalékot ír elő, nem 22 százalékot. A helyes: az egészségügyi szolgáltatásra kötött megállapodás önálló mértékrendet kap. A tévedés a 48. § nyugdíjjárulék-százalékát tévesen a 49. §-ra írja."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "08b1b05246b5"
+    },
+    {
+      "question": "Eset: Nóra a 49. § (1) bekezdése szerint egészségügyi szolgáltatásra köt megállapodást március 15-én; a járulékot nem fizeti meg egyidejűleg huszonnégy hónapra visszamenőleg. Azt állítja, hogy március 15-étől teljes körű egészségügyi szolgáltatás illeti meg, a sürgősségi ellátást is beleértve a várakozásba. Mi a helyes megítélés?",
+      "options": [
+        {
+          "text": "Az egészségügyi szolgáltatás a megállapodás megkötésének napjától teljes körben jár, várakozási idő nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 52. § (6) bekezdése huszonnégy hónapos várakozást ír elő a sürgősségi ellátás kivételével, hacsak a járulékot visszamenőleg huszonnégy hónapra meg nem fizették. A (2) bekezdés hatálykezdete nem váltja fel a (6) bekezdés várakozását. A tévedés a hatálykezdetet tévesen teljes szolgáltatási jogosultsággá olvassa."
+        },
+        {
+          "text": "Az egészségügyi szolgáltatásra megállapodás csak a megkötést követő hónap első napjától kezdődő hatállyal, az első hónapra esedékes járulék egyidejű befizetése mellett köthető; ezt követően a járulékot havonta előre, a megelőző hónap 12. napjáig kell megfizetni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 52. § (2) bekezdése a hatály kezdetét a következő hónap első napjához, az első havi járulék egyidejű befizetéséhez és a havi előre fizetéshez köti, határidőként a tárgyhónapot megelőző hónap 12. napját jelölve. Nóra március 15-i megkötésénél a hatálykezdet tehát április 1., ami nem azonos a teljes szolgáltatási jogosultság kezdetével. A (2) és a (6) bekezdés együtt olvasandó."
+        },
+        {
+          "text": "Az egészségügyi szolgáltatás — a sürgősségi ellátás kivételével — a megállapodás megkötését követő huszonnegyedik hónap első napjától jár, kivéve ha a járulékot egyidejűleg huszonnégy hónapra visszamenőleg megfizették.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 52. § (6) bekezdése a 49. § (1) és (3) bekezdése szerinti megállapodásnál huszonnégy hónapos várakozást ír elő a sürgősségi ellátás kivételével. Nóra nem fizetett visszamenőlegesen, ezért a szolgáltatás főszabály szerint a megkötést követő huszonnegyedik hónap első napjától jár. Ha a járulékot visszamenőleg huszonnégy hónapra megfizették volna, a szolgáltatás a következő hónap első napjától járna."
+        },
+        {
+          "text": "A sürgősségi ellátás is csak a huszonnegyedik hónap első napjától vehető igénybe a megállapodás alapján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 52. § (6) bekezdése a sürgősségi ellátást kifejezetten kivonja a huszonnégy hónapos várakozás alól. A sürgősségi ellátás a várakozás kivétele. A tévedés a kivételt mellőzi, és a várakozást minden ellátásra kiterjeszti."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "6251c4284822"
+    },
+    {
+      "question": "Eset: Pál a fia javára 48. § szerinti szolgálati idő-megállapodást kíván megkötni úgy, hogy a járulékfizetést ő vállalja át. A jogász szerint ez csak a 44. § szerinti, már fennálló kötelezettség helyetti teljesítés lehet, és a megállapodás tisztán magánjogi szerződés. Mi a helyes megítélés?",
+      "options": [
+        {
+          "text": "A megállapodás átvállalása azonos a 44. § szerinti átvállalással: csak a már kötelezett helyetti teljesítés lehetséges, új megállapodás alanya nem lehet harmadik személy.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 50. § szerint a megállapodást a kedvezményezett javára más személy vagy szerv is megkötheti, tehát az alany is harmadik személy lehet. A 44. § a 43. § (1) bekezdés a) pontja szerinti kötelezett helyetti teljesítést rendezi jóváhagyással. A tévedés a két átvállalási szerkezetet azonosítja."
+        },
+        {
+          "text": "A 48–49. § szerinti megállapodások tisztán magánjogi szerződések, hatósági szerződési minősítés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 51. § kifejezetten hatósági szerződésnek minősíti a 48. §, a 49. § és a 49/A. § szerinti megállapodásokat. A közigazgatási hatósági szerződési forma az irányadó. A tévedés a hatósági szerződési minősítést mellőzi."
+        },
+        {
+          "text": "A Tbj. 50. § szerint a megállapodás alapján fizetendő járulékokat Magyarország hivatalos pénznemében és a megállapodás megkötése utáni mértékváltozások figyelembevételével kell megállapítani és megfizetni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 50. § a 48. § szerinti megállapodás járulékait a magyar hivatalos pénznemhez és a megkötés utáni mértékváltozáshoz köti. Pál átvállalása tehát nem rögzíthető idegen pénznemben vagy a megkötéskori mérték örökösítésével. A 44. § szerinti, már fennálló kötelezettség helyetti teljesítés e pénznemi és mértékszabályt nem helyettesíti."
+        },
+        {
+          "text": "A 48. §, a 49. § és a 49/A. § szerinti megállapodást a kedvezményezett javára a járulékfizetés átvállalásával más személy vagy szerv is megkötheti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 50. § lehetővé teszi, hogy a megállapodást a kedvezményezett javára más személy vagy szerv a járulékfizetés átvállalásával megkösse. Pál tehát a fia javára alanyként is eljárhat. A járulékokat Magyarország hivatalos pénznemében és a megkötés utáni mértékváltozások figyelembevételével kell megállapítani és megfizetni."
+        }
+      ],
+      "sourceKerdesSorszam": 29,
+      "sourceHash": "5fd52c0b2090"
+    },
+    {
+      "question": "Eset: Norbert szolgálati idő és nyugdíjalap szerzése céljából kötött megállapodást; a tárgyhavi nyugdíjjárulékot a következő hónap 20. napján fizeti meg. Mely megállapítások helyesek?",
+      "options": [
+        {
+          "text": "A szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából kötött megállapodás a megkötése napján, legkorábban a tárgyhónap első napján jön létre; a tárgyhónap első napját megelőző időre nem köthető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 52. § (4) bekezdése szerint a szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából kötött megállapodás a megkötése napján, legkorábban a tárgyhónap első napján jön létre. Ugyanez a bekezdés kimondja, hogy a tárgyhónap első napját megelőző időre megállapodás nem köthető. A nyugdíjjárulékot a tárgyhónapot követő hónap 12. napjáig kell megfizetni. Norbert 20-i fizetése e 12-i határidőn kívül esik."
+        },
+        {
+          "text": "A szolgálati idő szerzésére kötött megállapodás visszamenőlegesen, akár több évre is megköthető a megkötés napja előttre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 52. § (4) bekezdése szerint a tárgyhónap első napját megelőző időre megállapodás nem köthető. A helyes: a hatály legkorábban a tárgyhónap első napja. A 48. § (4) bekezdés b) pont szerinti hiányzó idő pótlása külön, egyösszegű fizetésű tényállás, nem általános visszamenőleges hatály. A tévedés e külön pótlási jogcímet tévesen általános visszamenőleges megkötéssé olvassa."
+        },
+        {
+          "text": "A nyugdíjjárulékot a tárgyhónapot megelőző hónap 12. napjáig, előre kell megfizetni, mint az egészségügyi szolgáltatásra kötött megállapodásnál.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 52. § (4) bekezdése a szolgálati idő és nyugdíjalap szerzése céljából kötött megállapodásnál a tárgyhónapot követő hónap 12. napjáig írja elő a nyugdíjjárulék megfizetését. A helyes: utólagos fizetési határidő, nem előre fizetés. Az egészségügyi szolgáltatásra kötött megállapodásnál a (2) bekezdés havonta előre, a megelőző hónap 12. napjáig rendel fizetni. A tévedés a (2) bekezdés előre fizetési rendjét tévesen a (4) bekezdésre írja."
+        },
+        {
+          "text": "A befizetés elmulasztása a megállapodás megszűnését vonja maga után.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 52. § (4) bekezdése szerint a nyugdíjjárulékot a tárgyhónapot követő hónap 12. napjáig kell megfizetni, és „a befizetés elmulasztása a megállapodás megszűnését vonja maga után”. A 12-i határidő elmulasztása tehát nem csupán késedelmi pótlékot, hanem megszűnést eredményez. Az egészségügyi szolgáltatásra kötött megállapodásnál a (2) bekezdés hasonló mulasztási megszűnést ad, tartozásrendezési kivétellel. Norbert késedelme a megszűnés kockázatát hordozza."
+        }
+      ],
+      "sourceKerdesSorszam": 30,
+      "sourceHash": "bd6adb1247a0"
+    },
+    {
+      "question": "Eset: Olga magyarországi lakóhellyel rendelkezik, és 48. § szerinti szolgálati idő-megállapodást, valamint anyasági pénzbeli ellátás biztosítására irányuló megállapodást is kötne. Mely szervek az illetékesek?",
+      "options": [
+        {
+          "text": "A 48. § szerinti megállapodást a lakóhely szerint illetékes, nyugdíjbiztosítási igazgatási szervként eljáró fővárosi és vármegyei kormányhivatallal kell megkötni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 53. § (1) bekezdése a 48. § szerinti megállapodást a lakóhely szerint illetékes, nyugdíjbiztosítási igazgatási szervként eljáró fővárosi és vármegyei kormányhivatalhoz telepíti; magyarországi lakóhely hiányában a fővárosi kormányhivatal jár el. Olga lakóhelye esetén a megyei/fővárosi illetékesség a lakóhelyhez igazodik. A nyugdíj-megállapodás tehát a nyugdíjbiztosítási ágon köthető."
+        },
+        {
+          "text": "Mindkét megállapodást kizárólag a Nemzeti Adó- és Vámhivatallal kell megkötni, mert a járulékfizetés adóhatósági hatáskör.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 53. § (1)–(2) bekezdése a kormányhivatal nyugdíjbiztosítási, illetve egészségbiztosítási ágát jelöli ki, nem a NAV-ot. A helyes: a megállapodás megkötése a 53. § szerinti kormányhivatali szerveknél történik. A tévedés a járulékbevallási adóhatósági szerepet tévesen a megállapodás-kötésre is kiterjeszti."
+        },
+        {
+          "text": "Az anyasági megállapodást is a nyugdíjbiztosítási igazgatási szervvel kell megkötni, mert minden megállapodás a 53. § (1) bekezdése alá esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 53. § (2) bekezdése az anyasági pénzbeli ellátás biztosítására irányuló megállapodást külön az egészségbiztosítási szervhez telepíti. A helyes: az (1) bekezdés a 48. §-ra, a (2) bekezdés az anyasági megállapodásra vonatkozik. A tévedés a két illetékességi fordulatot összevonja."
+        },
+        {
+          "text": "Az anyasági pénzbeli ellátás biztosítására irányuló megállapodást a lakóhely szerint illetékes, egészségbiztosítási szervként eljáró fővárosi és vármegyei kormányhivatallal kell megkötni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 53. § (2) bekezdése az anyasági pénzbeli ellátás biztosítására irányuló megállapodást az egészségbiztosítási szervként eljáró kormányhivatalhoz telepíti; lakóhely hiányában a fővárosi kormányhivatal jár el. A 54. § (2) bekezdése az egészségügyi szolgáltatás biztosítására kötött megállapodás megkötésére az egészségbiztosítási szervet jogosítja. A két megállapodástípus tehát különböző ágakon fut."
+        }
+      ],
+      "sourceKerdesSorszam": 31,
+      "sourceHash": "89507eec7f1a"
+    },
+    {
+      "question": "Eset: Rebeka szolgálati idő szerzése céljából megfizetett járulékot; utólag okirattal igazolja, hogy a megállapodás időtartama alatt biztosítotti jogviszonyban állt. A hivatal az Art. szerinti elévülésre hivatkozva elutasítja a visszafizetést, és csak közokiratot fogadna el. Mi a helyes megítélés?",
+      "options": [
+        {
+          "text": "Vissza kell fizetni a járulékot, ha a megállapodás nem felel meg a 48. § (1) és (4) bekezdésének, ha az időszakot a nyugellátásnál nem vették figyelembe, vagy ha utólag igazolják, hogy a megállapodás alatt biztosítotti jogviszony állt fenn.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 54. § (4) bekezdés a)–c) pontja e három visszafizetési esetet sorolja fel. Rebeka utólagos biztosítotti jogviszony-igazolása a c) pont alá esik. A visszafizetés a megállapodást kötőnek, halála esetén az örökösének jár."
+        },
+        {
+          "text": "Utólagos biztosítotti jogviszony igazolása esetén csak közokirat fogadható el, magánokirat nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 54. § (5) bekezdése a (4) bekezdés c) pontja szerinti utólagos igazolásnál nem szűkít közokiratra. A helyes: felhasználható minden közokirat és teljes bizonyító erejű magánokirat, valamint minden más, erre alkalmas további bizonyítási eszköz. Rebeka utólagos igazolásánál a magánokirat tehát nem eleve kizárt."
+        },
+        {
+          "text": "A visszafizetésnél az Art. szerinti elévülési időt figyelmen kívül kell hagyni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 54. § (4) bekezdése szerint a megfizetett járulékot „az Art. szerinti elévülési idő figyelmen kívül hagyásával” kell visszafizetni a felsorolt esetekben. A hivatal elévülési hivatkozása ezért nem zárja el a visszafizetést. A szabály a megállapodást kötőt és az örököst egyaránt védi."
+        },
+        {
+          "text": "A megfizetett járulék soha nem igényelhető vissza, mert a megállapodás hatósági szerződés, és a befizetés végleges.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 54. § (4) bekezdés a)–c) pontja taxatív visszafizetési eseteket nyit. A hatósági szerződési forma (51. §) nem zárja ki a visszafizetést. A tévedés a hatósági minősítést tévesen végleges, visszafizethetetlen befizetéssé olvassa."
+        }
+      ],
+      "sourceKerdesSorszam": 32,
+      "sourceHash": "2dd0e42e40f1"
+    },
+    {
+      "question": "Eset: Péter a 48. § (1) bekezdése szerinti megállapodást a minimálbér alapulvételével köti meg; a következő hónapban a minimálbér emelkedik. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "Ha a megállapodást a minimálbér összegének figyelembevételével kötik meg, a minimálbér változása esetén a fizetendő nyugdíjjárulékot a változást követő hónap 12. napjáig kell a módosított összeg alapján megfizetni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 48. § (3) bekezdése szerint a járulékfizetés alapja a megjelölt jövedelem, de legalább a megkötés napján érvényes minimálbér. Ha a megállapodást a minimálbér figyelembevételével kötik, a változás esetén a fizetendő nyugdíjjárulékot a változást követő hónap 12. napjáig kell a módosított összeg alapján megfizetni. Ugyanígy kell eljárni, ha a megállapodást kötő a megjelölt jövedelmét módosítja. Péter megállapodása tehát követi a minimálbér-emelést."
+        },
+        {
+          "text": "Ha a megállapodást kötő vagy a kedvezményezett a megállapodás időtartama alatt biztosítási kötelezettséggel járó jogviszonyban áll, a megállapodás alapján történő járulékfizetési kötelezettség szünetel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 48. § (3) bekezdése záró fordulata szerint, ha a megállapodást kötő — kedvezményezett javára kötött megállapodás esetén a kedvezményezett — biztosítási kötelezettséggel járó jogviszonyban áll, a megállapodás szerinti járulékfizetés szünetel. A szünetelés a párhuzamos biztosítotti jogviszonyhoz kötött. A minimálbér-követés és a szünetelés különböző helyzeteket rendez. A két fordulat együtt olvasható a (3) bekezdésben."
+        },
+        {
+          "text": "Biztosítotti jogviszony alatt a megállapodás szerinti járulékfizetés megduplázódik, mert a két jogcím párhuzamosan él.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 48. § (3) bekezdése szerint, ha a megállapodást kötő vagy a kedvezményezett biztosítási kötelezettséggel járó jogviszonyban áll, a megállapodás alapján történő járulékfizetési kötelezettség szünetel. A helyes: szünetelés, nem a két jogcím összeadása. A kötelező biztosítotti járulék és a megállapodásos nyugdíjjárulék párhuzamos teljesítése e fordulat szerint nem követelmény. A tévedés a szünetelést tévesen duplázó kötelezettséggé olvassa."
+        },
+        {
+          "text": "A minimálbér változása nem érinti a már megkötött megállapodás alapján fizetendő összeget, mert a megkötéskori minimálbér rögzül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 48. § (3) bekezdése a minimálbér változása esetén a módosított összeg alapján, a változást követő hónap 12. napjáig írja elő a fizetést. A helyes: a megkötéskori összeg nem fagyasztódik be. A tévedés a megkötéskori minimálbért végleges tarifává olvassa."
+        }
+      ],
+      "sourceKerdesSorszam": 33,
+      "sourceHash": "01b155d062f8"
+    },
+    {
+      "question": "Eset: Rita 2025. márciusában 400 000 forint járulékalapot képező jövedelmet kap munkaviszonyban. Mennyi társadalombiztosítási járulék esedékes a Tbj. szerinti mértékkel, és hogyan bontja a NAV a befizetést?",
+      "options": [
+        {
+          "text": "400 000 forint után a társadalombiztosítási járulék 40 000 forint, mert a mérték 10 százalék.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 10 százalék a Tbj. 25. § (2) bekezdése szerinti nyugdíjjárulék mértéke, nem a társadalombiztosítási járuléké. A helyes: a társadalombiztosítási járulék 18,5 százalék, azaz 74 000 forint. A tévedés a két százalékos tarifa felcseréléséből ered."
+        },
+        {
+          "text": "A társadalombiztosítási járulék 18,5 százalék, tehát 400 000 forint után 74 000 forint.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 25. § (1) bekezdése a társadalombiztosítási járulék mértékét 18,5 százalékban rögzíti. 400 000 forint járulékalap után 0,185 × 400 000 = 74 000 forint. A számítás a forrásbeli százalékot és a megadott Ft-alapot használja. A nyugdíjjárulék 10 százaléka ettől elváló jogcím a 25. § (2) bekezdése szerint."
+        },
+        {
+          "text": "A NAV a befizetést egyenlő harmadokban utalja a három alapnak, mert a 26. § likviditási célja egyenlő részesedést kíván.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 26. § (1) bekezdése 54 százalékot a Nyugdíjbiztosítási Alapnak, 37,9 százalékot az Egészségbiztosítási Alapnak, 8,1 százalékot a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalapnak rendel. A helyes arány tehát 54 / 37,9 / 8,1, nem egyenlő harmad. A napi ütem a fedezeti likviditást szolgálja, de nem ír felül százalékokat. A tévedés a likviditási célt tévesen egyenlő bontássá olvassa."
+        },
+        {
+          "text": "A befizetett társadalombiztosítási járulékból 54 százalék a Nyugdíjbiztosítási Alapé, 37,9 százalék az Egészségbiztosítási Alapé, 8,1 százalék a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalapé.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 26. § (1) bekezdése a 54 / 37,9 / 8,1 százalékos napi bontást írja elő. Rita 74 000 forintos befizetéséből ezek az arányok szerint oszlik a három alap között. A bontás a társadalombiztosítási járulék belső fedezeti megosztása. Nem azonos a 25. § szerinti, a biztosítottat terhelő százalékos mértékekkel."
+        }
+      ],
+      "sourceKerdesSorszam": 34,
+      "sourceHash": "eef69ea7f89a"
+    },
+    {
+      "question": "Eset: Szabolcs doktorandusz; nyugdíjalapot képező jövedelme nem éri el a kötelező legkisebb munkabért. A HR szerint nem köthet 48. § (1) bekezdése szerinti megállapodást, mert „van jövedelme”. Mely megállapítások helyesek?",
+      "options": [
+        {
+          "text": "Doktorandusz soha nem köthet megállapodást, mert a hallgatói jogviszony kizárja a 48. § alkalmazását.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 48. § (1a) bekezdése és a (4) bekezdés a) pontja kifejezetten a doktoranduszra is nyit megállapodási utat meghatározott feltételekkel. A helyes: a doktoranduszi státusz nem abszolút kizárás. A tévedés a hallgatói jogviszonyt tévesen teljes tilalommá emeli."
+        },
+        {
+          "text": "Az (1) bekezdés a) pontját — a biztosítási kötelezettséggel járó jogviszony hiányát — nem kell alkalmazni a doktoranduszra, ha a nyugdíjalapot képező jövedelme nem éri el a kötelező legkisebb munkabért.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 48. § (1a) bekezdése szerint az (1) bekezdés a) pontját nem kell alkalmazni a doktoranduszra, ha a nyugdíjalapot képező jövedelme nem éri el a kötelező legkisebb munkabért. Szabolcs tehát nem esik ki automatikusan a megállapodásból puszta jövedelem miatt. A kivétel a doktoranduszi státuszhoz és a minimálbér alatti nyugdíjalaphoz kötött. A „van jövedelme” fordulat önmagában nem zárja ki."
+        },
+        {
+          "text": "A felsőoktatási intézményben nappali rendszerű oktatás keretében folytatott tanulmányok Tny. szerint figyelembe vehető idejére a 48. § (4) bekezdés a) pontja szerinti szolgálati idő szerzése céljából is köthető megállapodás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 48. § (4) bekezdés a) pontja a felsőoktatási nappali tanulmányok — ideértve a doktoranduszképzést is — Tny. 41. §-a szerint figyelembe vehető idejére szolgálati idő szerzése céljából engedi a megállapodást a minimálbér alapulvételével számított 22 százalék nyugdíjjárulékkal. Ez elválik az (1) bekezdés szerinti együttes szolgálati idő és nyugdíjalap szerzésétől. Az (5) bekezdés a járulékalapot a naptári napok és a minimálbér harmincadának szorzatában adja. Szabolcs számára mindkét út vizsgálható."
+        },
+        {
+          "text": "A doktorandusz csak akkor köthet megállapodást, ha a nyugdíjalapot képező jövedelme eléri vagy meghaladja a minimálbért.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 48. § (1a) bekezdése éppen akkor engedi az (1) bekezdés a) pontjának mellőzését, ha a jövedelem nem éri el a kötelező legkisebb munkabért. A helyes: a minimálbér alatti jövedelem a kivétel feltétele. A tévedés a feltételt ellentétes irányba fordítja."
+        }
+      ],
+      "sourceKerdesSorszam": 35,
+      "sourceHash": "8e28f430debd"
+    },
+    {
+      "question": "Az alábbi állítások a megállapodás és a kötelező járulék viszonyáról, valamint a 54. és az 55. anyagrész elhatárolásáról szólnak. Melyek HAMISAK?",
+      "options": [
+        {
+          "text": "A táppénz-hozzájárulás a biztosítottól levonható társadalombiztosítási járulék része, ezért a foglalkoztató a teljes táppénzt jogosult levonni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 25. § (5) bekezdése a foglalkoztatót kötelezi a folyósított táppénz egyharmadának hozzájárulás címén történő megfizetésére. A helyes: a hozzájárulás foglalkoztatói teher, mértéke egyharmad. A tévedés a járulék és a táppénz-hozzájárulás alanyát, valamint a mértéket felcseréli."
+        },
+        {
+          "text": "Az 55. anyagrész tárgya azonos az 54. anyagrésszel, mert mindkettő az ellátások folyósítását rendezi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az 55. anyagrész a járulékfizetés általános szabályait (23–47. §) és a társadalombiztosítási ellátásra kötött megállapodást (48–54. §) fogja át — fedezeti és megállapodásos oldalt —, nem az ellátások folyósítási rendjét. A helyes elhatárolás: járulék és megállapodás versus ellátás. A tévedés a szomszédos anyagrészek tárgyát mossa össze."
+        },
+        {
+          "text": "A 49. § szerinti egészségügyi szolgáltatásra kötött megállapodás azonos a 43. § szerinti egészségügyi szolgáltatási járulékkal, csak a mérték más.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 43. § kötelező közteher a biztosítás nélkül álló belföldinek, forintos havi/napi összeggel (25. § (3) bekezdés), míg a 49. § önkéntes hatósági szerződés a minimálbér 50, illetve 30 százaléka után. A helyes elhatárolás: kötelező járulék versus megállapodás. A tévedés a két intézményt csupán mértékben eltérő ugyanazon jogcímnek tekinti."
+        },
+        {
+          "text": "A 48–54. § szerinti megállapodás helyettesíti a 23. § szerinti kötelező járulékkatalógust, ezért aki megállapodást köt, mentesül a társadalombiztosítási járulék alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 48–54. § önkéntes jogszerzési utat nyit a kényszerközteher mellett vagy helyett meghatározott hiányzó helyzetekben, de nem általános mentesítés a 23. § katalógusa alól. A helyes: a megállapodás és a kötelező járulék különböző jogcímek. A tévedés a megállapodást univerzális járulékmentességgé olvassa."
+        }
+      ],
+      "sourceKerdesSorszam": 36,
+      "sourceHash": "0698af8338f5"
+    },
+    {
+      "question": "Eset: Tímea anyasági pénzbeli ellátás biztosítására irányuló megállapodást kötne az SR. hatálya alá tartozott szolgálati jogviszonya után. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "Az anyasági megállapodás járulékát a megkötést követő tizenöt napon belül kell megfizetni, mint a hiányzó szolgálati idő pótlásánál.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 52. § (8) bekezdése öt napon belüli egyösszegű fizetést ír elő. A helyes: öt nap, nem tizenöt. A 48. § (6) bekezdés szerinti tizenöt napos határidő a hiányzó szolgálati idő pótlására vonatkozik. A tévedés a két egyösszegű fizetési határidőt felcseréli."
+        },
+        {
+          "text": "A megállapodás célja az Ebtv. szerinti előzetes 365 napi biztosítási idő szerzése a csecsemőgondozási díjra, gyermekgondozási díjra, örökbefogadói díjra jogosultsághoz.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az anyasági pénzbeli ellátás biztosítására irányuló megállapodás az Európai Közösségek tisztviselőinek személyzeti szabályzata (SR.) hatálya alá tartozó szolgálati jogviszonyban állt személy számára az Ebtv. szerinti előzetes 365 napi biztosítási idő pótlására nyílik. A járulék a naptári napi alap, illetve naptári napi jövedelem 5 százalékának és a hiányzó napok számának szorzata, ezer forintra kerekítve. A megállapodás legfeljebb annyi napra köthető, ahány napig a biztosított a két éves időtartamon belül az SR. szerinti közös betegségbiztosítási rendszer tagja volt. A Tbj. 54. § (3a) bekezdése szerint a megkötéshez a szerződő személyazonosságát, lakó- vagy tartózkodási helyét, valamint a 49/A. § (1)–(2) bekezdése szerinti jogviszonyt és betegbiztosítási időt igazoló dokumentumot be kell mutatni."
+        },
+        {
+          "text": "Az anyasági megállapodást a nyugdíjbiztosítási igazgatási szervvel kell megkötni, mert szolgálati időt pótol.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 53. § (2) bekezdése az anyasági pénzbeli ellátás biztosítására irányuló megállapodást az egészségbiztosítási szervként eljáró kormányhivatalhoz telepíti. A helyes: egészségbiztosítási ág, nem nyugdíjbiztosítási. A tévedés a 48. § szerinti szolgálati idő-megállapodás illetékességét tévesen az anyasági megállapodásra írja."
+        },
+        {
+          "text": "A megállapodás a csecsemőgondozási díj, a gyermekgondozási díj vagy az örökbefogadói díj határozata elleni jogorvoslati határidő lejártáig kezdeményezhető, és a járulékot a megkötést követő öt napon belül egy összegben kell megfizetni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 52. § (8) bekezdése szerint az anyasági pénzbeli ellátás biztosítására irányuló megállapodás a csecsemőgondozási díj, a gyermekgondozási díj, illetve az örökbefogadói díj elbírálása tárgyában hozott határozat elleni jogorvoslatra meghatározott idő lejártáig kezdeményezhető, és a járulékot a megkötést követő öt napon belül egy összegben kell megfizetni. Ez elválik a 48. § (6) bekezdés szerinti tizenöt napos egyösszegű fizetéstől. A 53. § (2) bekezdése az illetékességet az egészségbiztosítási szervhez telepíti."
+        }
+      ],
+      "sourceKerdesSorszam": 37,
+      "sourceHash": "eb0345f5b3a1"
+    },
+    {
+      "question": "Mely esetben nem terjed ki az egészségügyi szolgáltatásra kötött megállapodás a fennálló betegségre, és milyen előzetes eljárás kötelező?",
+      "options": [
+        {
+          "text": "A fennálló betegségre is kiterjed a megállapodás, ha a felek ezt a szerződésben kikötik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 52. § (3) bekezdése szerint a fennálló betegséggel, egészségkárosodással összefüggő egészségügyi szolgáltatásra a megállapodás nem terjedhet ki. A helyes: a kizárás törvényi, nem diszpozitív. A tévedés a felek kikötését a törvényi tilalom fölé helyezi."
+        },
+        {
+          "text": "Az állapotfelmérés ingyenes, és mellőzhető, ha a kérelmező nyilatkozik egészségéről.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 52. § (3) bekezdése szerint az egészségügyi állapotfelmérés díjköteles, és a megállapodás megkötésére a felmérést követően kerülhet sor. A helyes: a felmérés kötelező és díjköteles. A tévedés a felmérést önkéntes, ingyenes nyilatkozattá olvassa."
+        },
+        {
+          "text": "Az egészségügyi szolgáltatás biztosítására kötött megállapodás megkötéséhez be kell mutatni a személyazonosságot, a lakó-, tartózkodási vagy szálláshelyet igazoló okmányt, külföldinél a tartózkodásra jogosító okmányt — ide nem értve a gyógykezelési célú tartózkodási engedélyt és a kishatárforgalmi engedélyt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 54. § (3) bekezdése ezeket az okirati kört írja elő. A gyógykezelési célú tartózkodási engedély és a kishatárforgalmi engedély kifejezetten nem elegendő. A 54. § (2) bekezdése szerint a megállapodás megkötésére az egészségbiztosítási szerv jogosult. Az állapotfelmérés és az okirati feltételek együtt a megkötés előfeltételei."
+        },
+        {
+          "text": "Az egészségügyi szolgáltatás biztosítására kötött megállapodás megkötésére az egészségi állapot felmérését követően kerülhet sor; a felmérés során megállapított, fennálló betegséggel, egészségkárosodással összefüggő szolgáltatásra a megállapodás nem terjedhet ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 52. § (3) bekezdése az állapotfelmérést a megkötés előfeltételévé teszi, és kizárja a fennálló betegséggel, egészségkárosodással összefüggő szolgáltatásra való kiterjedést. Az állapotfelmérés díjköteles. Az igazgatási szerv az egészségbiztosításért felelős miniszter által meghatározott szolgáltatónál és rendben rendeli el. A megállapodás tehát nem fedez minden, már fennálló egészségügyi állapotot."
+        }
+      ],
+      "sourceKerdesSorszam": 38,
+      "sourceHash": "d0d5fc46425a"
+    },
+    {
+      "question": "Eset: a biztosított egyszerűsített közteherviselési hozzájárulás fizetését megalapozó jogviszonyból származó jövedelmet szerez. A bérszámfejtő a Tbj. 25. § szerinti 18,5 százalékot vonja. Mely megállapítások helyesek?",
+      "options": [
+        {
+          "text": "Az egyszerűsített közteherviselési hozzájárulás fizetését megalapozó jogviszonyból származó jövedelem után a biztosított a társadalombiztosítási járulék-fizetési kötelezettségét az egyszerűsített közteherviselési hozzájárulásról szóló törvényben meghatározottak szerint teljesíti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 38. § (1) bekezdése a társadalombiztosítási járulék-fizetési kötelezettséget az egyszerűsített közteherviselési hozzájárulásról szóló törvény szerinti teljesítéshez köti ebben a jogviszonyban. A 25. § általános 18,5 százaléka tehát nem automatikusan irányadó. A (2) bekezdés a kisadózó vállalkozók tételes adójában bejelentett személyek után a járulékot is kiváltó közterhet az adott adónemre vonatkozó törvény szerint rendeli megfizetni. A (3) bekezdés az egyszerűsített foglalkoztatásra a Tbj.-t az Efo. eltéréseivel rendeli alkalmazni."
+        },
+        {
+          "text": "A kisadózó vállalkozók tételes adójában bejelentett személyek után a Tbj. szerinti társadalombiztosítási járulékot a 25. § szerint külön is meg kell fizetni, a tételes adó mellett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 38. § (2) bekezdése szerint a kisadózó vállalkozók tételes adójáról szóló törvényben meghatározottak szerint bejelentett személyek után fizetendő, társadalombiztosítási járulékfizetési kötelezettséget is kiváltó közteherfizetést e különös törvény szerint kell teljesíteni. A helyes: a közteher kiváltja a járulékot. A tévedés a kiváltó hatást mellőzi, és párhuzamos 25. § szerinti járulékot követel."
+        },
+        {
+          "text": "Az egyszerűsített foglalkoztatásra a Tbj. rendelkezéseit az egyszerűsített foglalkoztatásról szóló törvényben foglalt eltérések figyelembevételével kell alkalmazni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 38. § (3) bekezdése kifejezetten az egyszerűsített foglalkoztatásról szóló törvény eltéréseit írja elő. A Tbj. általános mértékei tehát csak az eltérésekkel együtt érvényesülnek. Az (1) bekezdés szerinti egyszerűsített közteherviselési hozzájárulásos jogviszony ettől elváló különös közteher-rend. A bérszámfejtőnek a különös közteher-törvényt is alkalmaznia kell."
+        },
+        {
+          "text": "Az ekho-jogviszonyban mindig a Tbj. 25. § (1) bekezdése szerinti 18,5 százalék a kógens mérték, a különös törvény figyelmen kívül hagyásával.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 38. § (1) bekezdése szerint e jogviszonynál a társadalombiztosítási járulék-fizetési kötelezettséget az egyszerűsített közteherviselési hozzájárulásról szóló törvény szerint kell teljesíteni. A helyes: a különös törvény az irányadó. A tévedés a 25. § általános tarifáját a 38. § eltérése nélkül alkalmazza."
+        }
+      ],
+      "sourceKerdesSorszam": 39,
+      "sourceHash": "47a8fa302298"
+    },
+    {
+      "question": "Eset: a HR szerint minden biztosított kizárólag nyugdíjjárulékot fizet, a foglalkoztató pedig semmilyen járulékot vagy hozzájárulást nem visel, mert a 23. § „csak a biztosítottat nevezi meg”. Mi a helyes megítélés?",
+      "options": [
+        {
+          "text": "Minden biztosított kizárólag nyugdíjjárulékot fizet, mert a 23. § egységes köztehertípust ír elő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 23. § (1) bekezdése a társadalombiztosítási járulékot, az egészségügyi szolgáltatási járulékot, a nyugdíjjárulékot és a szociális hozzájárulási adót külön jogcímeken rendezi. A biztosított főszabály szerint társadalombiztosítási járulékot fizet; a nyugdíjjárulék a c) pont szerinti körre szűkül. A tévedés a katalógust egységes jogcímmé olvassa."
+        },
+        {
+          "text": "A 37. §-ban meghatározott ellátások után az ellátásban részesülő, a szociális szövetkezetben tagi munkavégzés keretében munkát végző tag, továbbá a 6. § (1) bekezdés c) és g) pontja szerinti biztosított nyugdíjjárulékot fizet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 23. § (1) bekezdés c) pontja a nyugdíjjárulékot e körre telepíti. Ez elválik az a) pont szerinti társadalombiztosítási járuléktól. A nyugdíjjárulék mértéke a Tbj. 25. § (2) bekezdése szerint 10 százalék. A HR „minden biztosított csak nyugdíjjárulékot fizet” állítása ezért túlzó."
+        },
+        {
+          "text": "A foglalkoztató soha nem fizet járulékot vagy hozzájárulást, mert a 23. § csak a biztosítottat nevezi meg kötelezettként.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 23. § (2) bekezdése szerint a foglalkoztató a táppénzkiadásokhoz hozzájárul, a (3) bekezdés pedig a járulékfizetési alsó határ különbözete utáni társadalombiztosítási járulékot a foglalkoztatóra telepíti. A foglalkoztató is kötelezett meghatározott jogcímeken. A tévedés az (1) bekezdés katalógusát a (2)–(3) bekezdés figyelmen kívül hagyásával olvassa."
+        },
+        {
+          "text": "A biztosított — a c) pont kivételeivel — társadalombiztosítási járulékot fizet; az egészségügyi szolgáltatási járulék a fizetésre kötelezett személyt, a központi költségvetést és a szociális szövetkezetet terheli.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 23. § (1) bekezdés a) és b) pontja ezt az alanyi megosztást rögzíti. A biztosított főszabály szerinti köztehertípusa a társadalombiztosítási járulék. Az egészségügyi szolgáltatási járulék a kötelezett személy, a központi költségvetés és a szociális szövetkezet oldalán jelenik meg. A katalógus jogcím és alany szerint bont."
+        }
+      ],
+      "sourceKerdesSorszam": 40,
+      "sourceHash": "510670056d5a"
+    },
+    {
+      "question": "Eset: Vera 1998. évre, a gyermekgondozási segély idejével megegyező otthoni gondozás idejére kíván szolgálati időt szerezni megállapodással. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A járulékfizetést a megállapodás megkötését követő 30 napon belül egy összegben kell teljesíteni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 48. § (7) bekezdése szerint a járulékfizetést a megállapodás megkötését követő 30 napon belül egy összegben kell teljesíteni. Ez hosszabb, mint a (6) bekezdés szerinti tizenöt napos, illetve az anyasági megállapodás öt napos egyösszegű határideje. A 30 napos határidő e speciális 1998. évi jogcím sajátja. A késedelem a megállapodás teljesítését veszélyezteti."
+        },
+        {
+          "text": "Szolgálati idő szerzése érdekében a megkötés napján érvényes gyermekgondozási segély összege alapján, 10 százalék nyugdíjjárulék megfizetésével megállapodás köthető az 1998. évre, a gyermekgondozási segély idejével megegyező otthoni gondozás idejére.",
+          "isCorrect": true,
+          "rationale": "IGAZ, szolgálati idő szerzése céljából az 1998. évre, a gyermekgondozási segély idejével megegyező otthoni gondozás idejére külön megállapodás nyílik. A Tbj. 48. § (7) bekezdése szerint a járulék alapja a megkötés napján érvényes gyermekgondozási segély összege, a mérték 10 százalék. Az (1) bekezdés szerinti megállapodás 22 százalékos nyugdíjjáruléka ettől elválik. A (4) bekezdés minimálbér-alapú 22 százalékos szolgálati idő-megállapodása szintén más tényállás."
+        },
+        {
+          "text": "Az 1998. évi otthoni gondozásra is 22 százalék nyugdíjjárulék fizetendő a minimálbér után, mint az (1) bekezdés szerinti megállapodásnál.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 48. § (7) bekezdése 10 százalékot ír elő a gyermekgondozási segély összege alapján. A helyes mérték tehát 10 százalék, nem a minimálbér utáni 22 százalék. Az (1) bekezdés 22 százalékos tarifája más megállapodástípusra vonatkozik. A tévedés a két megállapodási jogcím mértékét felcseréli."
+        },
+        {
+          "text": "A járulékot havonta, a tárgyhónapot követő hónap 12. napjáig kell megfizetni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 48. § (7) bekezdése 30 napon belüli egyösszegű fizetést ír elő. A helyes: egyösszegű teljesítés a megkötést követő 30 napon belül. A 52. § (4) bekezdés szerinti, tárgyhónapot követő hónap 12. napjáig tartó havi határidő a szolgálati idő és nyugdíjalap szerzése céljából kötött folyamatos megállapodásra vonatkozik. A tévedés a havi ütemezést tévesen a (7) bekezdés speciális jogcímére írja."
+        }
+      ],
+      "sourceKerdesSorszam": 41,
+      "sourceHash": "4c657f3bc1a9"
+    },
+    {
+      "question": "Eset: Zoltán egészségügyi szolgáltatási járulékot fizet a 43. § (1) bekezdés a) pontja szerint; a havi összeg 7 710 forint. Három havi hátraléka van. A háziorvos szerint a TAJ már érvénytelen. Mely megállapítások helyesek?",
+      "options": [
+        {
+          "text": "A 43. § (1) bekezdés a) pontja szerinti járulék megfizetése alapozza meg a 22. § (1) bekezdés v) pontja szerinti személy egészségügyi szolgáltatásra való jogosultságát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 46. § (1) bekezdése szerint a 43. § (1) bekezdés a) pontja szerinti egészségügyi szolgáltatási járulék megfizetése alapozza meg a 22. § (1) bekezdés v) pontja szerinti jogosultságot. A jogosultság tehát a megfizetéshez kötött. A nemfizetés a (2) bekezdés szerinti hatszoros küszöbön túl a TAJ érvénytelenségéhez vezet. A két bekezdés együtt adja a fedezet–jogosultság kapcsolatot."
+        },
+        {
+          "text": "Már egy havi hátralék érvényteleníti a TAJ-t, mert a 46. § szigorú nemfizetési szankciót ír elő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 46. § (2) bekezdése a havi összeg hatszorosát meghaladó hátralékhoz köti a TAJ érvénytelenségét. A helyes küszöb tehát hatszoros, nem egy havi elmaradás. 7 710 forintnál ez 46 260 forint. A tévedés a küszöböt egy hónapra szűkíti."
+        },
+        {
+          "text": "A TAJ az egészségügyi szolgáltatás igénybevétele vonatkozásában akkor válik érvénytelenné, ha a hátralék meghaladja a havi járulék hatszorosát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 46. § (2) bekezdése a hatszoros küszöbhöz köti az érvénytelenséget. 7 710 forint havi összegnél a küszöb 6 × 7 710 = 46 260 forint. Zoltán három havi hátraléka (3 × 7 710 = 23 130 forint) e küszöb alatt van. A háziorvos állítása ezért a törvényi küszöb alapján nem áll meg. A 25. § (3) bekezdése a 7 710 forintos havi összeget adja."
+        },
+        {
+          "text": "Három havi hátraléknál a TAJ automatikusan érvénytelen, mert a három hónap a törvényi küszöb.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 46. § (2) bekezdése a havi járulék hatszorosát meghaladó hátralékhoz köti az érvénytelenséget. A helyes: 7 710 forint havi összegnél a küszöb 46 260 forint; három havi 23 130 forint ez alatt van. A három hónap tehát nem önálló törvényi küszöb. A tévedés a hónapszámot az összegküszöb helyébe lépteti."
+        }
+      ],
+      "sourceKerdesSorszam": 42,
+      "sourceHash": "cc7190eaba19"
+    },
+    {
+      "question": "Miben tér el a szolgálati idő szerzése céljából kötött megállapodás járulékalapjának számítása az (1) bekezdés szerinti megállapodásétól a 48. § (4)–(5) bekezdése szerint?",
+      "options": [
+        {
+          "text": "A (4) bekezdés szerinti esetekben a járulék alapja a szolgálati időként elismerhető időszak naptári napjainak és a megkötés napján érvényes minimálbér harmincad részének szorzata.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 48. § (5) bekezdése a (4) bekezdés szerinti megállapodásoknál a naptári napok és a minimálbér harmincadának szorzatát jelöli ki járulékalapnak. Az (1) bekezdés szerinti megállapodásnál a (3) bekezdés a megjelölt jövedelmet, de legalább a minimálbért rendeli. A két számítási mód tehát elválik. A minimálbér változásakor a (4) bekezdés a) pontja szerinti megállapodásnál is a változást követő hónap 12. napjáig kell a módosított összeg alapján fizetni."
+        },
+        {
+          "text": "A (4) bekezdés b) pontja szerinti hiányzó szolgálati idő pótlása korhatár előtt is szabadon köthető, ha a hiány öt évnél rövidebb.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 54. § (1) bekezdése a 48. § (4) bekezdés b) pontja szerinti megállapodást a korhatár betöltése utánra korlátozza. A helyes: a korhatár előtti pótlás e jogcímen nem nyílik. A tévedés az öt éves felső korlátot a korhatár-feltétel helyébe lépteti."
+        },
+        {
+          "text": "A (4) bekezdés a) és b) pontja szerinti megállapodások szolgálati idő szerzése érdekében köthetők, a minimálbér alapulvételével számított 22 százalék nyugdíjjárulékkal.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 48. § (4) bekezdése a felsőoktatási nappali tanulmányok Tny. szerint figyelembe vehető idejére, valamint a hiányzó tizenöt vagy húsz év szolgálati idő pótlására — legfeljebb öt naptári évre — nyitja e megállapodást. A mérték 22 százalék. Ez elválik az (1) bekezdés együttes szolgálati idő és nyugdíjalap szerzésétől, ahol a (2) bekezdés tiltja a szétválasztást. A (4) bekezdés tehát tisztán szolgálati időre irányul."
+        },
+        {
+          "text": "A (4) bekezdés szerinti megállapodás járulékalapja mindig a megjelölt jövedelem, alsó határ nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 48. § (5) bekezdése a (4) bekezdés szerinti megállapodásoknál a szolgálati időként elismerhető időszak naptári napjainak és a megkötés napján érvényes minimálbér harmincad részének szorzatát jelöli ki. A helyes: naparányos minimálbér-alap. A (3) bekezdés megjelölt jövedelem szabálya az (1) bekezdés szerinti megállapodásra vonatkozik. A tévedés a két számítási módot felcseréli."
+        }
+      ],
+      "sourceKerdesSorszam": 43,
+      "sourceHash": "ae40ba1780c2"
+    },
+    {
+      "question": "Az alábbi állítások a kifizetéskori tarifa, a megszűnés utáni juttatás és a szünetelés fikciójáról szólnak. Melyek HAMISAK?",
+      "options": [
+        {
+          "text": "A szünetelés alatt a megelőző jogviszony alapján kifizetett járulékalapot a szünetelés idejére kell sorolni, mert a kifizetés naptári napja az irányadó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 31. § szerint a szünetelés alatt a megelőző biztosítással járó jogviszony alapján kifizetett járulékalapot úgy kell figyelembe venni, mintha a kifizetés a szünetelés kezdő napját megelőző napon történt volna. A helyes: a fikció a megelőző napra vetít. A tévedés a kifizetés naptári napját tévesen az időbeli besorolás egyetlen mércéjévé teszi."
+        },
+        {
+          "text": "Az elmaradt követelést mindig a munkavégzés évére kell beszámítani, függetlenül attól, hogy melyik évben fizették ki.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 29. § szerint az esedékességet követő időpontban kifizetett járulékalapot képező jövedelmet arra az évre vagy időszakra kell figyelembe venni, amelyre kifizették. A helyes: a teljesítés éve vagy időszaka az irányadó, nem a munkavégzés éve. A 24. § kifizetéskori mértékszabálya ettől elváló, de párhuzamos időbeli mérce. A tévedés a jogszerzési évet tévesen a 29. § helyébe lépteti."
+        },
+        {
+          "text": "A biztosítási jogviszony megszűnése után kifizetett járulékalap után már nem kell járulékot fizetni, mert a jogviszony nincs fenn.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 24. § szerint a járulékokat a megszűnést követően kifizetett vagy kiosztott járulékalap után is meg kell fizetni. A helyes: a megszűnés nem mentesít. A 30. § fikciója az utolsó fennállási naphoz köti a figyelembe vételt. A tévedés a megszűnést tévesen mentesítő körülménnyé emeli."
+        },
+        {
+          "text": "A járulékokat a jogszerzéskor irányadó mértékek szerint kell megfizetni; a kifizetéskori tarifa csak tájékoztató jellegű.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 24. § a járulékokat a járulékalapot képező jövedelem kifizetésekor irányadó járulékmértékek szerint rendeli megfizetni. A helyes: a kifizetéskori tarifa a kötelező mérce. A tévedés a jogszerzéskori és a kifizetéskori időpontot felcseréli."
+        }
+      ],
+      "sourceKerdesSorszam": 44,
+      "sourceHash": "4cb03d51b8f2"
+    },
+    {
+      "question": "Eset: a foglalkoztató a biztosítottól levont társadalombiztosítási járulékot a 26. § szerinti bontás nélkül, egy összegben „nyugdíjalapnak” utalja. Mely megállapítások igazak?",
+      "options": [
+        {
+          "text": "A nyugdíjjárulék címén megfizetett önálló járulékot és az egészségügyi szolgáltatási járulékot az adóhatóság ugyancsak naponta utalja a Nyugdíjbiztosítási, illetve az Egészségbiztosítási Alapnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 26. § (2) bekezdése a nyugdíjjárulék címén megfizetett járulék napi utalását a Nyugdíjbiztosítási Alapnak, a (3) bekezdés az egészségügyi szolgáltatási járulék napi utalását az Egészségbiztosítási Alapnak írja elő. Ez párhuzamos az (1) bekezdés szerinti, társadalombiztosítási járulék belső százalékos bontásával. A három utalási rend együtt adja a fedezeti likviditást. A foglalkoztató „egy alapra” utalása e szerkezetet nem váltja ki."
+        },
+        {
+          "text": "A befizetett társadalombiztosítási járulékot az állami adóhatóság naponta bontja: 54 százalék nyugdíjjárulék címén a Nyugdíjbiztosítási Alapnak, 37,9 százalék egészségbiztosítási járulék címén az Egészségbiztosítási Alapnak, 8,1 százalék munkaerőpiaci járulék címén a foglalkoztatási alapnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tbj. 26. § (1) bekezdése ezt a háromágú napi bontást írja elő. A foglalkoztató egyösszegű „nyugdíjalap” utalása nem helyettesíti az adóhatósági bontást. A biztosítottól levont társadalombiztosítási járulék a 33. § szerint a foglalkoztató levonási és megfizetési kötelezettségébe tartozik. A fedezeti megosztás az adóhatóság napi utalásán múlik."
+        },
+        {
+          "text": "A 8,1 százalékos munkaerőpiaci rész elhagyható, ha a foglalkoztató csak nyugdíj- és egészségügyi célra utal.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 26. § (1) bekezdése a 8,1 százalékot a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalapnak rendeli. A helyes: a háromágú bontás — 54 / 37,9 / 8,1 — kötelező. A munkaerőpiaci rész nem hagyható el a foglalkoztató döntésével. A tévedés a 8,1 százalékos részt diszpozitívvá olvassa."
+        },
+        {
+          "text": "A foglalkoztató jogosult a levont társadalombiztosítási járulékot közvetlenül és kizárólag a Nyugdíjbiztosítási Alapnak utalni, a 26. § bontása nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 26. § (1) bekezdése az állami adóhatóságra telepíti a 54 / 37,9 / 8,1 százalékos napi bontást. A helyes: a bontás adóhatósági feladat, nem a foglalkoztató egyedi címzési joga. A tévedés a foglalkoztatót tévesen a 26. § szerinti utaló szervvé emeli."
+        }
+      ],
+      "sourceKerdesSorszam": 45,
+      "sourceHash": "ae7701beafd2"
+    },
+    {
+      "question": "Az alábbi állítások a megállapodás hatályáról, mulasztásáról és az ellátásszámítási fikcióról szólnak. Melyek HAMISAK?",
+      "options": [
+        {
+          "text": "Az egészségügyi szolgáltatásra kötött megállapodásnál a befizetési határidő elmulasztása semmilyen jogkövetkezménnyel nem jár, ha a felek később megegyeznek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 52. § (2) bekezdése szerint a befizetési határidő elmulasztása esetén a megállapodás megszűnik a járulék esedékességének napját magában foglaló naptári hónap utolsó napján, kivéve ha addig a tartozást megfizetik. A helyes: mulasztási megszűnés, tartozásrendezési kivétellel. A tévedés a mulasztást jogkövetkezmény nélküli késedelemmé olvassa."
+        },
+        {
+          "text": "A családi járulékkedvezmény érvényesítése csökkenti a biztosított táppénzének összegét, mert a fizetett járulék kisebb.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 35. § szerint a családi járulékkedvezmény érvényesítése nem érinti a társadalombiztosítási és munkaerő-piaci ellátásokra való jogosultságot és az ellátások összegét. A helyes: a kedvezmény tehercsökkentő, nem ellátáscsökkentő. A tévedés a járulékot és az ellátást azonos irányban mozgó tételekként kezeli."
+        },
+        {
+          "text": "A 49. § szerinti egészségügyi szolgáltatás a megállapodás megkötésének napjától teljes körben jár, a sürgősségi ellátásra is kiterjedő huszonnégy hónapos várakozás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 52. § (6) bekezdése szerint — a sürgősségi ellátás kivételével — a szolgáltatás a megkötést követő huszonnegyedik hónap első napjától jár, hacsak a járulékot visszamenőleg huszonnégy hónapra meg nem fizették. A helyes: főszabály szerinti várakozás, sürgősségi kivétellel. A tévedés a várakozást és a sürgősségi kivételt mellőzi."
+        },
+        {
+          "text": "A foglalkoztató 23. § (3) bekezdése szerinti különbözeti járulék-teljesítését az ellátásszámításnál figyelmen kívül kell hagyni, mert azt nem a biztosított fizette.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tbj. 23. § (3) bekezdése szerint a foglalkoztató különbözeti társadalombiztosítási járulék-teljesítését az ellátások számítási szabályainak alkalmazása során úgy kell tekinteni, mintha azt a biztosított személy teljesítette volna. A helyes: ellátásszámítási fikció a foglalkoztatói teljesítésre. A 27. § (2) bekezdése szerinti alsó határ különbözete e fikció tárgya. A tévedés a fikciót mellőzi, és a fizető alanyát az ellátásszámításból is kirekeszti."
+        }
+      ],
+      "sourceKerdesSorszam": 46,
+      "sourceHash": "9733d4fa4082"
+    }
+  ]
+}

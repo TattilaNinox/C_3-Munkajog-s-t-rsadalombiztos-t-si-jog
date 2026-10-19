@@ -1,0 +1,765 @@
+{
+  "id": "UHxYNqu5ctawKhLzAAAD",
+  "sorszam": 23,
+  "cim": "A rendkívüli munkaidő fogalma, elrendelése és elrendelésének korlátai (...)",
+  "generationType": "fogalom",
+  "title": "23. A rendkívüli munkaidő fogalma, elrendelése és elrendelésének korlátai (...)",
+  "questions": [
+    {
+      "question": "Mit takar a rendkívüli munkaidő fogalma az Mt. 107. § zárt taxációja szerint?",
+      "options": [
+        {
+          "text": "A 107. § taxációja a készenlét teljes tartamát is rendkívüli munkaidőnek minősíti, mert a rendelkezésre állás uniós értelemben mindig munkaidő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a készenlét nincs a négy taxált eset között. Az Mt. 107. § a)–d) pontja a beosztástól eltérő, a kereten felüli, az elszámolási időszak heti alapját meghaladó munkaidőt és az ügyeletet nevezi meg. A készenlét önmagában nem rendkívüli munkaidő. A tévedés az uniós munkaidő-minősítés és a magyar rendkívüli taxáció felcseréléséből ered."
+        },
+        {
+          "text": "Rendkívüli munkaidő a munkaidő-beosztástól eltérő, a munkaidőkereten felüli, az elszámolási időszak heti alapját meghaladó munkaidő, továbbá az ügyelet tartama.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 107. § négy esetet sorol fel, és e lista zárt taxáció. Az Mt. 107. § szerint: „Rendkívüli munkaidő a) a munkaidő-beosztástól eltérő, b) a munkaidőkereten felüli, c) az elszámolási időszak alkalmazása esetén az ennek alapjául szolgáló heti munkaidőt meghaladó munkaidő, továbbá d) az ügyelet tartama.” A d) pont az ügyelet teljes tartamát a tényleges munkavégzéstől függetlenül emeli be. A készenlét e zárt taxációban nem szerepel, önmagában nem rendkívüli munkaidő."
+        },
+        {
+          "text": "A 107. § d) pontja az ügyelet tartamát a tényleges munkavégzéstől függetlenül rendkívüli munkaidővé minősíti; a készenlét önmagában nem tartozik e taxáció alá.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az ügyelet a d) ponton bekerül, a készenlét kimarad. Az Mt. 107. § d) pontja szerint rendkívüli munkaidő az ügyelet tartama. A 110. § (4) bekezdése szerinti készenlét önmagában nem a 107. § d) pontja. Ha a munkáltató a készenlét alatt munkavégzést utasít, az jellemzően a 107. § a) pontja szerint lesz rendkívüli, mert a beosztáson kívül esik."
+        },
+        {
+          "text": "A 107. § a) pontja a keret átlagában jelentkező többletet is lefedi, ezért a beosztástól eltérő utasítás és a keretóra fölötti teljesítés azonos jogcím.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az a) és a b) pont elválik. Az Mt. 107. § a) pontja a már közölt beosztástól eltérő munkavégzés, a b) pont a munkaidőkereten felüli tartam. A 18/2021. (V. 27.) AB határozat szerint a keretben a rendkívüli munkaidő e két jogcímen keletkezhet. A tévedés a beosztás-eltérés és a keretfölötti teljesítés összemosásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "e42af243673b"
+    },
+    {
+      "question": "Hogyan határolja el a 110. § (4) bekezdése az ügyeletet a készenléttől, és mi következik ebből a 107. § d) pontjára?",
+      "options": [
+        {
+          "text": "Ügyelet, ha a munkáltató jelöli ki a rendelkezésre állás helyét; készenlét, ha a tartózkodási helyet a munkavállaló határozza meg, de haladéktalanul rendelkezésre kell állnia.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a választóvonal a rendelkezésre állás helyének kijelölése. Az Mt. 110. § (4) bekezdése szerint: „A munkáltató a munkavállaló számára meghatározhatja a rendelkezésre állás helyét (ügyelet), egyébként a tartózkodási helyét a munkavállaló határozza meg oly módon, hogy a munkáltató utasítása esetén haladéktalanul rendelkezésre álljon (készenlét).” A 107. § d) pontja csak az ügyelet tartamát minősíti rendkívüli munkaidővé. A készenlét kimarad a 107. § zárt listájából, ezért önmagában nem rendkívüli munkaidő."
+        },
+        {
+          "text": "A készenlét tartama is a 107. § d) pontja szerinti rendkívüli munkaidő, mert a munkavállaló munkára képes állapotát meg kell őriznie.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkára képes állapot kötelezettsége nem emeli a készenlétet a d) pont alá. Az Mt. 110. § (3) bekezdése a rendelkezésre állás alatt a munkára képes állapotot és az utasítás teljesítését írja elő, de a 107. § d) pontja csak az ügyeletet taxálja. A helyes: a készenlét önmagában nem rendkívüli munkaidő. A tévedés a (3) bekezdés kötelezettségének és a d) pont ügyelet-minősítésének összekeveréséből ered."
+        },
+        {
+          "text": "Ha a munkavállaló otthon tartózkodik, a rendelkezésre állás mindig készenlét, és ezért soha nem lehet ügyelet a 110. § (4) bekezdése szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a döntő a helykijelölő személye, nem az otthoni cím. Az Mt. 110. § (4) bekezdése szerint ügyelet, ha a munkáltató határozza meg a helyet — akár a munkavállaló lakása is lehet kijelölt hely. Készenlét akkor áll, ha a tartózkodási helyet a munkavállaló választja, de haladéktalanul elérhetőnek kell lennie. A tévedés az otthoni tartózkodás és a munkáltatói helykijelölés felcseréléséből ered."
+        },
+        {
+          "text": "A 107. § d) pontja kizárólag az ügyeletet emeli rendkívüli munkaidővé; a készenlét tartama önmagában nem a 107. § d) pontja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a d) pont ügyelet-specifikus. Az Mt. 107. § d) pontja szerint rendkívüli munkaidő az ügyelet teljes tartama. A 110. § (4) bekezdése szerinti készenlét önmagában nem rendkívüli. Készenlét alatti munkavégzési utasításnál a rendkívüli jelleg jellemzően a 107. § a) pontján nyílik, mert a tartam a beosztáson kívül esik."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "4382492c8549"
+    },
+    {
+      "question": "Mit mond az Mt. 108. § (1)–(3) bekezdése a rendkívüli munkaidő elrendelésének formájáról és a munkaszüneti napi záról?",
+      "options": [
+        {
+          "text": "A rendkívüli munkaidőt a munkavállaló kérése esetén kell írásban elrendelni; a szóbeli utasítás érvényes, a bizonyítás a munkáltatót terheli.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az írásbeliség nem a létrejött feltétele, hanem kérelemhez kötött. Az Mt. 108. § (1) bekezdése szerint: „A rendkívüli munkaidőt a munkavállaló kérése esetén írásban kell elrendelni.” A szóbeli utasítás érvényes marad, a bizonyítási teher a munkáltatóé. A 110. § (5) bekezdése a rendelkezésre állás elrendelésére e szabályt megfelelően alkalmazza."
+        },
+        {
+          "text": "Munkaszüneti napon rendkívüli munkaidő csak a rendes munkaidőben e napon is foglalkoztatható munkavállaló számára, vagy a 108. § (2) bekezdése szerinti veszélyelhárítás esetén rendelhető el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés két szűk kaput nyit a munkaszüneti napi elrendelésre. Az Mt. 108. § (3) bekezdése szerint: „Munkaszüneti napon rendkívüli munkaidő a) a rendes munkaidőben e napon is foglalkoztatható munkavállaló számára, vagy b) a (2) bekezdésben meghatározott esetben rendelhető el.” A (2) bekezdés a baleset, elemi csapás, súlyos kár, illetve a közvetlen és súlyos egészségi vagy környezeti veszély esetét engedi. A 102. § (2) bekezdése szerinti, 101. § (1) a)–c) és g)–h) ponti kör az a) ponthoz kapcsolódik, nem a teljes vasárnapi taxáció."
+        },
+        {
+          "text": "A rendkívüli munkaidő csak akkor jön létre, ha a munkáltató azt előzetesen írásban elrendelte; a szóbeli utasítás semmis.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az írásbeliség nem érvényességi kellék. Az Mt. 108. § (1) bekezdése csak a munkavállaló kérése esetén kívánja az írásbeli elrendelést. A szóbeli utasítás érvényes, a bizonyítás a munkáltatót terheli. A tévedés a kérelemhez kötött írásbeliség és a létrejöttí feltétel felcseréléséből ered."
+        },
+        {
+          "text": "A 108. § (2) bekezdése a veszélyelhárítás tartamára a 113. § (1) bekezdésének abszolút személyi tilalmát is feloldja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés a 109. § mennyiségi plafonját és a (3) bekezdés munkaszüneti zárát oldja, a 113. § (1) bekezdését nem. Az Mt. 108. § (2) bekezdése a baleset, elemi csapás, súlyos kár, valamint a közvetlen és súlyos egészségi vagy környezeti veszély esetén a rendkívüli munkaidő elrendelését nem korlátozza. A 113. § (1) bekezdésének abszolút tilalmára kifejezett kivétel csak a 113. § (2) bekezdésénél áll. A tévedés a mennyiségi/munkaszüneti feloldás és a személyi abszolút tilalom összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "8a83a4bfe3fe"
+    },
+    {
+      "question": "Mit állapít meg a 18/2021. (V. 27.) AB határozat a rendkívüli munkaidő 107. § a) és b) pontjának elszámolásáról az Alaptörvény XVII. cikk (3)–(4) bekezdése mércéjén?",
+      "options": [
+        {
+          "text": "Az Alaptörvény XVII. cikk (3)–(4) bekezdése közvetlenül előírja, hogy a kereten felüli rendkívüli munkaidőt is a tárgyhót követő hónapban kell elszámolni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Alaptörvény a mércét adja, nem a havi elszámolás technikáját. Az Alaptörvény XVII. cikk (3)–(4) bekezdése az egészségét, biztonságát és méltóságát tiszteletben tartó munkafeltételeket, valamint a napi és heti pihenőidőt rögzíti. A 18/2021. (V. 27.) AB határozat a 107. § a) pontját a következő hónaphoz, a b) pontot a keret végéhez köti. A tévedés az alaptörvényi mérce és az Mt. elszámolási jogcím felcseréléséből ered."
+        },
+        {
+          "text": "A keretben előre beosztott, a heti negyven órát meghaladó, de a kereten belül kiegyenlített munka nem a következő havi bérpótlék tárgya; a már közölt beosztáson felüli utasítás igen.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kiegyenlített keretbelső többlet és a beosztásfölötti utasítás elválik. A 18/2021. (V. 27.) AB határozat szerint a keretben előre beosztott, heti negyven órát meghaladó, de kereten belül kiegyenlített munka nem a következő havi bérpótlék tárgya. A már közölt beosztáson felüli utasítás igen. Ez a 107. § a) és b) pontjának alkotmányos olvasata az Alaptörvény XVII. cikk (3)–(4) bekezdése mellett."
+        },
+        {
+          "text": "A beosztástól eltérő rendkívüli munkaidőt a tárgyhót követő hónapban kell elszámolni; a kereten felülit a keret végén, ha szabadidővel nem egyenlítették ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az a) és a b) pont elszámolása elválik. A 18/2021. (V. 27.) AB határozat szerint a 107. § a) pont szerinti, beosztástól eltérő tartam a következő hónapban számolandó el. A b) pont szerinti kereten felüli teljesítés a keret végén kerül elszámolásra, ha szabadidővel nem egyenlítették ki. Az Alaptörvény XVII. cikk (3)–(4) bekezdése a munka- és pihenőidő alanyi mércéjét adja, nem a havi vagy keret végi elszámolás technikáját."
+        },
+        {
+          "text": "A 18/2021. (V. 27.) AB határozat a 107. § a) és b) pontját azonos elszámolási jogcímnek tekinti, mert mindkettő a keret átlagában keletkezik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határozat a két pontot elválasztja. A 18/2021. (V. 27.) AB határozat szerint a beosztástól eltérő tartam a következő hónapban, a kereten felüli a keret végén számolandó el, ha szabadidővel nem egyenlítették ki. Az Mt. 107. § a) és b) pontja tehát két külön jogcím. A tévedés a keretátlag és a beosztás-eltérés összemosásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "e21358e28345"
+    },
+    {
+      "question": "Mit enged az Mt. 109. § (1)–(2) bekezdése a rendkívüli munkaidő éves mennyiségi plafonjáról és az önként vállalt túlmunkáról?",
+      "options": [
+        {
+          "text": "A 109. § (2) bekezdése szerinti megállapodást a munkavállaló a naptári év végére mondhatja fel; a 66. § (3) bekezdés b) pontja szerint e felmondás nem szolgálhat munkáltatói felmondási indokul.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felmondás joga és a felmondási tilalom együtt védi az önkéntességet. Az Mt. 109. § (2) bekezdése a naptári év végére szóló felmondást engedi. A 66. § (3) bekezdés b) pontja szerint e felmondás — a 99. § (3) bekezdése és a 135. § (3)–(4) bekezdése szerinti megállapodás felmondásával együtt — nem szolgálhat a munkáltatói felmondás indokául. A 18/2021. (V. 27.) AB határozat a (2) bekezdés megsemmisítését elutasította."
+        },
+        {
+          "text": "Naptári évenként kétszázötven óra rendelhető el egyoldalúan; írásbeli megállapodással további legfeljebb százötven óra önként vállalt túlmunka nyílik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két plafon együtt négyszáz órára nőhet. Az Mt. 109. § (1) bekezdése szerint: „Naptári évenként kétszázötven óra rendkívüli munkaidő rendelhető el.” A (2) bekezdés írásbeli megállapodással további legfeljebb százötven órát nyit önként vállalt túlmunkaként. A munkavállaló e megállapodást a naptári év végére mondhatja fel."
+        },
+        {
+          "text": "A 109. § (1) bekezdése naptári évenként négyszáz óra egyoldalú elrendelését engedi, megállapodás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az egyoldalú plafon kétszázötven óra. Az Mt. 109. § (1) bekezdése naptári évenként kétszázötven órát enged. A négyszáz óra a kétszázötven egyoldalú és a (2) bekezdés szerinti százötven megállapodásos óra együttese. A tévedés a két plafon összeadásának egyoldalú plafonná olvasásából ered."
+        },
+        {
+          "text": "Az önként vállalt túlmunka megállapodását a munkáltató is egyoldalúan felmondhatja a naptári év közepén.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felmondási jog a munkavállalóé, és a naptári év végére szól. Az Mt. 109. § (2) bekezdése szerint a munkavállaló a megállapodást a naptári év végére mondhatja fel. A munkáltatói évközi felmondás e fordulat alatt nem áll. A tévedés a munkavállalói felmondási jog és a munkáltatói egyoldalúság felcseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "66a999f6af37"
+    },
+    {
+      "question": "Mikor kell a 109. § (3) bekezdése szerint arányosan alkalmazni az (1)–(2) bekezdés óraszámait?",
+      "options": [
+        {
+          "text": "Határozott idejű munkaviszonynál a 109. § (1)–(2) bekezdése teljes óraszáma érvényesül, mert a határozott idő nem arányosítási ok.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határozott idő a (3) bekezdés b) pontja szerinti arányosítási ok. Az Mt. 109. § (3) bekezdés b) pontja szerint az (1)–(2) bekezdésben foglaltakat arányosan kell alkalmazni, ha a munkaviszony határozott időre jött létre. A teljes éves plafon tehát nem automatikus. A tévedés a határozott idő arányosítási jellegének figyelmen kívül hagyásából ered."
+        },
+        {
+          "text": "Az arányosítás csak részmunkaidőnél kötelező; évközi kezdésnél a teljes kétszázötven óra egyoldalúan elrendelhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az évközi kezdés önálló arányosítási ok. Az Mt. 109. § (3) bekezdés a) pontja az évközben kezdődött munkaviszonyt külön nevezi meg. A részmunkaidő a c) pont, nem az egyetlen eset. A tévedés a három taxált ok közül kettő elhagyásából ered."
+        },
+        {
+          "text": "A 109. § (3) bekezdés a)–c) pontja az évközi kezdést, a határozott időt és a részmunkaidőt külön-külön arányosítási okként nevezi meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a három ok taxált. Az Mt. 109. § (3) bekezdés a) pontja az évközi kezdést, a b) pont a határozott időt, a c) pont a részmunkaidőt emeli ki. Bármelyik fennállása arányosítást kíván. A teljes munkaidős, év elején kezdődő határozatlan viszonyra az arányosítás e pontok alapján nem nyílik."
+        },
+        {
+          "text": "Ha a munkaviszony évközben kezdődött, határozott időre vagy részmunkaidőre jött létre, az (1)–(2) bekezdés óraszámait arányosan kell alkalmazni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, három arányosítási eset van. Az Mt. 109. § (3) bekezdése szerint az (1)–(2) bekezdésben foglaltakat arányosan kell alkalmazni, ha a) a munkaviszony évközben kezdődött, b) határozott időre vagy c) részmunkaidőre jött létre. A teljes éves kétszázötven plusz százötven óra tehát nem automatikus minden jogviszonyban. Az arányosítás a naptári évi plafonokhoz kötődik."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "732dfce5e32c"
+    },
+    {
+      "question": "Mit nyit a 135. § (3) bekezdése a kollektív szerződéses és a megállapodásos rendkívüli munkaidő plafonjáról a 109. §-hoz képest?",
+      "options": [
+        {
+          "text": "A 135. § (3) bekezdése szerinti önként vállalt túlmunka plafonja is százötven óra, azonos a 109. § (2) bekezdésével.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a KSZ-pályán a második fordulat száz óra. Az Mt. 135. § (3) bekezdése a háromszáz órát meghaladóan legfeljebb száz óra önként vállalt túlmunkát enged. A 109. § (2) bekezdése szerinti százötven óra a KSZ nélküli pálya. A tévedés a két pálya második fordulatának felcseréléséből ered."
+        },
+        {
+          "text": "Kollektív szerződés alapján legfeljebb évi háromszáz óra rendelhető el; ezt meghaladóan írásbeli megállapodással legfeljebb száz óra önként vállalt túlmunka nyílik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a KSZ-pálya háromszáz plusz száz órára nyílik. Az Mt. 135. § (3) bekezdése szerint: „Kollektív szerződés rendelkezése alapján legfeljebb évi háromszáz óra rendkívüli munkaidő rendelhető el.” E fölött írásbeli megállapodással legfeljebb száz óra önként vállalt túlmunka nyílik. A megállapodás felmondása a munkavállaló részéről a naptári év végére szól."
+        },
+        {
+          "text": "A 135. § (3) bekezdése minden munkaviszonyban automatikusan háromszáz órára emeli az egyoldalú plafont, kollektív szerződés nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a háromszáz órás plafon kollektív szerződéses rendelkezéshez kötött. Az Mt. 135. § (3) bekezdése szerint a legfeljebb évi háromszáz óra kollektív szerződés rendelkezése alapján rendelhető el. Kollektív szerződés nélkül a 109. § (1) bekezdése szerinti kétszázötven óra marad. A tévedés a KSZ-feltétel elhagyásából ered."
+        },
+        {
+          "text": "Kollektív szerződés nélkül továbbra is a 109. § szerinti kétszázötven plusz százötven óra az irányadó; a 135. § (3) bekezdése nem emeli automatikusan a 109. § plafonját.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés nem a 109. § plafonjainak egyszerű, automatikus felemelése. Az Mt. 109. § (1)–(2) bekezdése kollektív szerződés nélkül kétszázötven plusz százötven órát enged. A 135. § (3) bekezdése csak kollektív szerződéses rendelkezés alapján nyitja a háromszáz plusz száz órás pályát. A 18/2021. (V. 27.) AB határozat a 135. § (3) bekezdése megsemmisítését is elutasította."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "e4f8a1697124"
+    },
+    {
+      "question": "Mit rögzít a 135. § (1) bekezdés h) pontja és a (2) bekezdés g)–j) pontja a rendkívüli munkaidő és a rendelkezésre állás eltérési rendjéről?",
+      "options": [
+        {
+          "text": "A 135. § (2) bekezdés g)–j) pontja a kollektív szerződésnek a munkáltató javára is enged eltérést a 108. § és a 113. § alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az eltérés csak a munkavállaló javára szól. Az Mt. 135. § (2) bekezdés g) pontja a 101–108. §-tól, a j) pont a 113–121. §-tól csak a munkavállaló javára enged eltérést. A munkáltató javára szóló lazítás e pontok alatt nem áll. A tévedés a relatív kógencia irányának megfordításából ered."
+        },
+        {
+          "text": "A 101–108. §-tól, a 109. § (2)–(3) bekezdésétől, a 111. §-tól és a 113–121. §-tól a kollektív szerződés csak a munkavállaló javára térhet el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, e kör relatív kógens a munkavállaló javára. Az Mt. 135. § (2) bekezdés g) pontja a 101–108. §-t, a h) pont a 109. § (2)–(3) bekezdését, az i) pont a 111. §-t, a j) pont a 113–121. §-t köti. A munkavállaló terhére szóló eltérés e pontok alatt nem nyílik. A 110. § és a 112. § e felsorolásban nem szerepel."
+        },
+        {
+          "text": "A 134. § nyilvántartásától a kollektív szerződés a munkavállaló javára szabadon eltérhet a 135. § (1) bekezdés h) pontja szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 134. § az (1) bekezdés h) pontja szerint abszolút kógens. Az Mt. 135. § (1) bekezdés h) pontja a felek megállapodásának és a kollektív szerződésnek egyaránt elzárja a 134. §-tól való eltérést. A munkavállaló javára szóló eltérés e ponton nem nyílik. A tévedés a relatív és az abszolút kógencia felcseréléséből ered."
+        },
+        {
+          "text": "A 134. § szerinti nyilvántartástól a felek megállapodása és a kollektív szerződés sem térhet el; a rendes és rendkívüli munkaidő, a készenlét és a megállapodásos túlmunka tartama kógensen rögzítendő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nyilvántartás abszolút kógens. Az Mt. 135. § (1) bekezdés h) pontja a 134. §-tól eltérést nem enged. A rendes és rendkívüli munkaidő, a készenlét, valamint a 109. § (2) bekezdése és a 135. § (3) bekezdése szerinti megállapodásos túlmunka tartama e nyilvántartásban kógensen rögzítendő. A felek és a KSZ e zár alól nem bújhat ki."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "f61dec57ebaa"
+    },
+    {
+      "question": "Kitől tiltja az Mt. 113. § (1) bekezdése a rendkívüli munkaidő elrendelését?",
+      "options": [
+        {
+          "text": "A 113. § (1) bekezdése csak a várandós munkavállalót védi; a gyermekét egyedül nevelő és az egészségkárosító kockázat e tilalom alá nem esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (1) bekezdés három pontot taxál. Az Mt. 113. § (1) bekezdés a) pontja a várandósságot, a b) pont a gyermekét egyedül nevelőt, a c) pont az egészségkárosító kockázatot nevezi meg. A tilalom tehát nem csak a várandósra szól. A tévedés a taxáció leszűkítéséből ered."
+        },
+        {
+          "text": "Egészségkárosító kockázat esetén a rendkívüli munkaidő a munkavállaló szóbeli hozzájárulásával elrendelhető a 113. § (1) bekezdése szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a c) pont abszolút tilalom, nem hozzájárulásos kapu. Az Mt. 113. § (1) bekezdés c) pontja szerint egészségkárosító kockázat esetén rendkívüli munkaidő nem rendelhető el. A hozzájárulásos modell a (2) bekezdés három–négy éves sávjára és az éjszakai munka (6) bekezdésére áll. A tévedés az abszolút tilalom és a hozzájárulás felcseréléséből ered."
+        },
+        {
+          "text": "A 108. § (2) bekezdésének veszélyelhárítási feloldása a 113. § (1) bekezdésének abszolút tilalmát nem oldja; kifejezett kivétel csak a 113. § (2) bekezdésénél áll.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (1) bekezdés abszolút zár. Az Mt. 108. § (2) bekezdése a 109. § mennyiségi plafonját és a 108. § (3) bekezdés munkaszüneti zárát oldja. A 113. § (1) bekezdésére e feloldás nem terjed ki. A (2) bekezdés a gyermekét egyedül nevelőnél a három–négy éves sávban a 108. § (2) bekezdését kifejezett kivételként nevezi meg."
+        },
+        {
+          "text": "A várandósság megállapításától a gyermek hároméves koráig, a gyermekét egyedül nevelő munkavállaló számára ugyanezen korig, valamint egészségkárosító kockázat esetén a rendkívüli munkaidő nem rendelhető el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, három abszolút tilalmi kör van. Az Mt. 113. § (1) bekezdés a) pontja a várandósság megállapításától a gyermek hároméves koráig tilt. A b) pont a gyermekét egyedül nevelő munkavállalót ugyanezen korig védi. A c) pont a munkakörre vagy a munkavállalóra megállapított egészségkárosító kockázat esetén zárja az elrendelést."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "406fa382ef91"
+    },
+    {
+      "question": "Mit mond a 113. § (2) bekezdése a gyermekét egyedül nevelő munkavállaló rendkívüli munkaidejéről a gyermek hároméves korától négyéves koráig?",
+      "options": [
+        {
+          "text": "A három–négy éves sávban a rendkívüli munkaidő továbbra is abszolút tilos, hozzájárulással sem rendelhető el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés hozzájárulással engedi. Az Mt. 113. § (2) bekezdése szerint e sávban rendkívüli munkaidő csak hozzájárulással rendelhető el, a 108. § (2) bekezdés kivételével. Az abszolút tilalom az (1) bekezdés szerinti hároméves korig áll. A tévedés az (1) és a (2) bekezdés sávjának felcseréléséből ered."
+        },
+        {
+          "text": "A 108. § (2) bekezdés kivétele a 113. § (1) bekezdésének abszolút tilalmát is feloldja a várandós munkavállalónál.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 108. § (2) bekezdés kifejezett kivétele a (2) bekezdéshez kötött. Az Mt. 113. § (2) bekezdése a gyermekét egyedül nevelő három–négy éves sávjában nevezi meg a 108. § (2) bekezdését. Az (1) bekezdés abszolút tilalmát a 108. § (2) bekezdése nem oldja. A tévedés a (2) bekezdés kivételének (1) bekezdésre tágításából ered."
+        },
+        {
+          "text": "E sávban — a 108. § (2) bekezdésében foglaltakat kivéve — rendkívüli munkaidő csak a munkavállaló hozzájárulásával rendelhető el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalom hozzájárulásos kapura vált. Az Mt. 113. § (2) bekezdése szerint a gyermekét egyedül nevelő számára a gyermek hároméves korától négyéves koráig rendkívüli munkaidő csak hozzájárulásával rendelhető el. A 108. § (2) bekezdés szerinti veszélyelhárítás e sávban kifejezett kivétel. Az (1) bekezdés hároméves korig abszolút tilalma e sávban már nem áll."
+        },
+        {
+          "text": "A 108. § (2) bekezdésének veszélyelhárítási tényállása a 113. § (2) bekezdésének hozzájárulási követelménye alól e sávban kivételt ad.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés a 108. § (2) bekezdését kifejezetten kivételként nevezi meg. Az Mt. 113. § (2) bekezdése a három–négy éves sávban a hozzájárulást kívánja, „a 108. § (2) bekezdésében foglaltakat kivéve”. A baleset, elemi csapás, súlyos kár, illetve a közvetlen és súlyos egészségi vagy környezeti veszély esetén tehát hozzájárulás nélkül is elrendelhető. Az (1) bekezdés abszolút tilalmára e kivétel nem terjed ki."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "82099e67e32d"
+    },
+    {
+      "question": "Mit tilt az Mt. 114. § (5) bekezdés a) pontja a fiatal munkavállaló rendkívüli munkaidejéről?",
+      "options": [
+        {
+          "text": "A 114. § (5) bekezdés a)–f) pontja a rendkívüli munkaidő mellett az egyenlőtlen pihenőbeosztást, az éjszakai munkát és az egy hetinél hosszabb keretet is zárja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalmi csomag több elemű. Az Mt. 114. § (5) bekezdés a) pontja a rendkívüli munkaidőt, a b) pont a 97. § (3) bekezdés b) és c) pontja szerinti beosztást, a c) pont az éjszakai munkát, a d) pont az egy hetinél hosszabb keretet zárja. Az e)–f) pont a munkaközi szünetet és a legalább tizenkét órás napi pihenőidőt emeli. A csomag tehát nem csak a túlmunkára szól."
+        },
+        {
+          "text": "A fiatal munkavállaló számára rendkívüli munkaidő nem rendelhető el; a 108. § (2) bekezdésének veszélyelhárítási feloldása e szakaszban nem ismétlődik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fiatal munkavállalónál a tilalom főszabály. Az Mt. 114. § (5) bekezdés a) pontja szerint a fiatal munkavállaló számára rendkívüli munkaidő nem rendelhető el. A 108. § (2) bekezdésének veszélyelhárítási feloldása e szakaszban nem ismétlődik. A 135. § (2) bekezdés j) pontja e védelmet a munkavállaló javára szóló relatív kógencia alá vonja."
+        },
+        {
+          "text": "A 114. § (5) bekezdés a) pontja csak az éjszakai munkát tiltja; a rendkívüli munkaidő fiatal munkavállalónál elrendelhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendkívüli munkaidő tilalma az a) pont. Az Mt. 114. § (5) bekezdés a) pontja a rendkívüli munkaidő elrendelését tiltja. Az éjszakai munka tilalma a c) pont. A tévedés az a) és a c) pont felcseréléséből ered."
+        },
+        {
+          "text": "Fiatal munkavállalónál a 108. § (2) bekezdése szerinti veszélyelhárítás esetén a rendkívüli munkaidő elrendelhető a 114. § (5) bekezdés a) pontja ellenére.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 114. § (5) bekezdés a) pontja a veszélyelhárítási feloldást nem ismétli. Az Mt. 114. § (5) bekezdés a) pontja szerint a fiatal munkavállaló számára rendkívüli munkaidő nem rendelhető el. A 108. § (2) bekezdés feloldása e szakaszban nem jelenik meg. A tévedés a 113. § (2) bekezdés kivételének a fiatal munkavállalóra viteléből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "982c010b490e"
+    },
+    {
+      "question": "Milyen okokra zárja a 110. § (2) bekezdése a négy órát meghaladó rendelkezésre állást?",
+      "options": [
+        {
+          "text": "A 110. § (2) bekezdés négyórás küszöbe a rövidebb rendelkezésre állást nem zárja ki, csak a hosszabb tartam okait szűkíti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a négy óra alatti tartam nem esik e taxáció alá. Az Mt. 110. § (2) bekezdése a négy órát meghaladó tartamot három okra zárja. A rövidebb rendelkezésre állás e pontok nélkül is elrendelhető. A 110. § (1) bekezdése a beosztás szerinti napi munkaidőn kívüli kötelezést általában megengedi."
+        },
+        {
+          "text": "Négy órát meghaladó rendelkezésre állás bármely munkáltatói üzleti érdekből elrendelhető a 110. § (2) bekezdése szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hosszabb tartam három taxált okhoz kötött. Az Mt. 110. § (2) bekezdés a)–c) pontja a közszükségleti szolgáltatást, a veszélyelhárítást és a technológia fenntartását nevezi meg. Az általános üzleti érdek e listán nem szerepel. A tévedés a taxáció nyitott érdekké olvasásából ered."
+        },
+        {
+          "text": "A 110. § (2) bekezdés b) pontja ugyanazt a „közvetlen és súlyos” veszélymércét kívánja, mint a 108. § (2) bekezdése.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két tényállás nem azonos. Az Mt. 108. § (2) bekezdése az egészséget vagy a környezetet fenyegető közvetlen és súlyos veszélyt említi. A 110. § (2) bekezdés b) pontja a veszélyt közvetlen és súlyos minősítés nélkül nevezi meg. A tévedés a két veszélyelhárítási fordulat azonosításából ered."
+        },
+        {
+          "text": "Négy órát meghaladó tartam a társadalmi közszükségleti szolgáltatás folyamatos biztosítása, a veszélyelhárítás, valamint a technológia biztonságos, rendeltetésszerű alkalmazásának fenntartása érdekében rendelhető el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, három ok taxált. Az Mt. 110. § (2) bekezdés a) pontja a társadalmi közszükségletet kielégítő szolgáltatás folyamatos biztosítását nevezi meg. A b) pont a baleset, elemi csapás, súlyos kár, illetve az egészséget vagy a környezetet fenyegető veszély megelőzését és elhárítását engedi. A c) pont a technológia biztonságos, rendeltetésszerű alkalmazásának fenntartását emeli ki."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "429215801771"
+    },
+    {
+      "question": "Mit ír elő a 110. § (6) bekezdése a rendelkezésre állás tartamának közléséről?",
+      "options": [
+        {
+          "text": "A rendelkezésre állás tartamát legalább egy héttel korábban, egy hónapra előre kell közölni; ettől a munkáltató a 97. § (5) bekezdése szerint térhet el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közlési rend a beosztás mintáját követi. Az Mt. 110. § (6) bekezdése szerint a rendelkezésre állás tartamát legalább egy héttel korábban, egy hónapra előre kell közölni. Ettől a munkáltató a 97. § (5) bekezdésében foglaltak szerint térhet el. A 97. § (5) bekezdése a kilencvenhat órás, előre nem látható gazdálkodási vagy működési okú módosítást engedi."
+        },
+        {
+          "text": "A 110. § (5) bekezdése a rendelkezésre állás elrendelésére a 108. § (1) bekezdését — kérésre írásbeliség — megfelelően alkalmazza.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a formai szabály a rendelkezésre állásra is átjön. Az Mt. 110. § (5) bekezdése szerint a rendelkezésre állás elrendelésére a 108. § (1) bekezdés rendelkezéseit megfelelően alkalmazni kell. A munkavállaló kérése esetén tehát írásban kell elrendelni. A szóbeli utasítás érvényessége és a bizonyítási teher e megfelelő alkalmazás mellett is a 108. § (1) bekezdés logikáját követi."
+        },
+        {
+          "text": "A 110. § (6) bekezdése szerinti közlési rendtől a munkáltató szabadon, indoklás nélkül bármikor eltérhet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az eltérés nem szabad, hanem a 97. § (5) bekezdésének feltételeihez kötött. Az Mt. 110. § (6) bekezdése szerint a munkáltató a 97. § (5) bekezdésében foglaltak szerint térhet el. A 97. § (5) bekezdése a kilencvenhat órás, előre nem látható gazdálkodási vagy működési okú módosítást engedi. A tévedés a kötött eltérés szabad eltéréssé olvasásából ered."
+        },
+        {
+          "text": "A rendelkezésre állás tartama a munkaidő-beosztással azonos napon, azonnal közölhető, előzetes határidő nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a főszabály egy hetes előzetes és egy hónapos előrehozott közlés. Az Mt. 110. § (6) bekezdése legalább egy héttel korábbi, egy hónapra előre szóló közlést kíván. Az azonnali közlés csak a 97. § (5) bekezdése szerinti eltérés keretében jöhet szóba. A tévedés a közlési zár teljes elhagyásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "3519ae1ca0d8"
+    },
+    {
+      "question": "Mit zár az Mt. 111. § az ügyelet tartamáról, és mi számít bele a huszonnégy órába?",
+      "options": [
+        {
+          "text": "A 111. § huszonnégy órás zárja a készenlétre is irányadó, mert a készenlét is rendelkezésre állás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 111. § huszonnégy órás zárja csak az ügyeletre szól, a készenlétre nem. Az Mt. 111. § az ügyelet tartamát zárja huszonnégy órában a napi rendes és elrendelt rendkívüli munkaidő beszámításával. A készenlét tartami és heti zárját a 112. § rendezi. A tévedés az ügyelet és a készenlét tartami szabályának összekeveréséből ered."
+        },
+        {
+          "text": "A 111. § szerinti huszonnégy óra az aznapi rendes munkaidőn felüli, plusz huszonnégy óra ügyeletet jelent.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a huszonnégy órába a napi rendes és elrendelt rendkívüli munkaidő beleszámít. Az Mt. 111. § a napra beosztott munka és az ügyelet együttes maximumát zárja. Nyolc óra rendes munka után legfeljebb tizenhat óra ügyelet marad. A tévedés a „plusz huszonnégy óra” olvasatából ered."
+        },
+        {
+          "text": "A 135. § (2) bekezdés i) pontja a 111. §-tól a kollektív szerződésnek csak a munkavállaló javára enged eltérést; a huszonnégy óra a munkavállaló terhére nem emelhető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tartami plafon relatív kógens. Az Mt. 135. § (2) bekezdés i) pontja a 111. §-tól csak a munkavállaló javára enged eltérést. A huszonnégy órás zár tehát a munkavállaló terhére nem emelhető. A C-151/2002. Jaeger-ítélet a kórházi fizikai jelenléten alapuló ügyeletet akkor is teljes munkaidőnek tekinti, ha a munkavállaló a helyszínen pihenhet."
+        },
+        {
+          "text": "Az ügyelet tartama nem haladhatja meg a huszonnégy órát, amelybe az ügyelet megkezdésének napjára beosztott rendes vagy elrendelt rendkívüli munkaidő tartamát be kell számítani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a zár a napi munka és az ügyelet együttese, nem plusz huszonnégy óra. Az Mt. 111. § szerint: „Az ügyelet tartama nem haladhatja meg a huszonnégy órát, amelybe az ügyelet megkezdésének napjára beosztott rendes vagy elrendelt rendkívüli munkaidő tartamát be kell számítani.” Nyolc óra rendes munkaidő után tehát legfeljebb tizenhat óra ügyelet marad. A 111. § huszonnégy órás zárja a készenlétre nem vonatkozik, arra a 112. § irányadó."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "f6bfe96d0e12"
+    },
+    {
+      "question": "Mit zár az Mt. 112. § a készenlét havi tartamáról és a heti pihenőre eső elrendelésről?",
+      "options": [
+        {
+          "text": "A munkavállaló számára készenlét a heti pihenőnap vagy heti pihenőidő tartamára havonta legfeljebb négy alkalommal rendelhető el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a regenerációs zár négy alkalom a heti pihenőre. Az Mt. 112. § (2) bekezdése a heti pihenőnapra vagy heti pihenőidőre eső készenlétet havonta legfeljebb négy alkalomban zárja. Az „alkalom” a pihenőre eső elrendelés, nem az óraszám. A 111. § ügyeleti huszonnégy órás zárja a készenlét e szakaszára nem vonatkozik."
+        },
+        {
+          "text": "A 112. § (1) bekezdés százhatvannyolc órás plafonja az ügyeletre is irányadó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 112. § a készenlét havi tartamát zárja, nem az ügyeletét. Az Mt. 112. § (1) bekezdése a készenlét havi tartamát százhatvannyolc órában zárja, munkaidőkeretnél átlagban. Az ügyelet tartami zárja a 111. § szerinti huszonnégy óra a napi munka beszámításával. A tévedés a két rendelkezésre állási alakzat tartami szabályának felcseréléséből ered."
+        },
+        {
+          "text": "A heti pihenőre eső készenlét havonta korlátlanul elrendelhető, ha a havi százhatvannyolc órás plafon megmarad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés külön, négy alkalmas zárat állít. A 112. § (2) bekezdése szerint a heti pihenő tartamára készenlét havonta legfeljebb négyszer rendelhető el. A havi óraplafon önmagában e regenerációs zárat nem oldja. A tévedés az (1) és a (2) bekezdés egymástól független korlátainak összemosásából ered."
+        },
+        {
+          "text": "A készenlét havi tartama a százhatvannyolc órát nem haladhatja meg; munkaidőkeretnél e mértéket átlagban kell figyelembe venni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a havi plafon százhatvannyolc óra. Az Mt. 112. § (1) bekezdése szerint a készenlét havi tartama a százhatvannyolc órát nem haladhatja meg. Munkaidőkeret alkalmazása esetén e mértéket átlagban kell figyelembe venni. Keret hiányában a naptári havi százhatvannyolc óra kemény zár."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "ae7e04520145"
+    },
+    {
+      "question": "Hogyan határolódik el a 91. § szerinti készenléti jellegű munkakör a 110. § (4) bekezdése szerinti készenléttől?",
+      "options": [
+        {
+          "text": "A 110. § (4) bekezdése szerinti készenlét azonos a 91. § szerinti készenléti jellegű munkakörrel, mert mindkettő rendelkezésre állás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két intézmény más időbeli keretben áll. Az Mt. 110. § (4) bekezdése a beosztás szerinti napi munkaidőn kívüli készenlétet határozza meg. A 91. § a rendes munkaidőn belüli készenléti jellegű munkakört minősíti. A tévedés a „rendelkezésre állás” közös kifejezésén alapuló azonosításból ered."
+        },
+        {
+          "text": "A 107. § d) pontja a 110. § (4) bekezdése szerinti ügyeletet emeli rendkívüli munkaidővé; a 91. § szerinti készenléti jellegű munkakör e d) pont alá nem fér.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a d) pont az ügyeletre szól. Az Mt. 107. § d) pontja az ügyelet tartamát rendkívüli munkaidővé minősíti. A 91. § a rendes munkaidőn belüli készenléti jellegű munkakört rendezi, nem a 110. § (4) bekezdése szerinti készenlétet. A készenléti jelleg tehát nem a 107. § d) pontjának harmadik alakzata."
+        },
+        {
+          "text": "A 91. § szerinti készenléti jellegű munkakör tartama automatikusan a 107. § d) pontja szerinti rendkívüli munkaidő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a d) pont az ügyeletet taxálja, nem a készenléti jellegű munkakört. A 107. § d) pontja az ügyelet tartamát emeli a rendkívüli munkaidő taxációjába. A 91. § a rendes munkaidőn belüli készenléti jellegű munkakört minősíti, nem a 110. § (4) bekezdése szerinti készenlétet. A tévedés a készenléti jelleg és az ügyelet felcseréléséből ered."
+        },
+        {
+          "text": "A 91. § szerinti készenléti jellegű munkakörnél a munkavállaló a rendes munkaidő legalább egyharmadában munkavégzés nélkül áll rendelkezésre, vagy a munkavégzés lényegesen alacsonyabb igénybevétellel jár; ez nem a 110. § szerinti készenlét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a készenléti jelleg a rendes munkaidőn belüli munkaköri minősítés. Az Mt. 91. § a rendes munkaidő legalább egyharmados rendelkezésre állásához vagy a lényegesen alacsonyabb igénybevételhez köti a minősítést. A 110. § (4) bekezdése szerinti készenlét a beosztás szerinti napi munkaidőn kívüli rendelkezésre állás. A két fogalom tehát nem azonos."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "7390a45dca97"
+    },
+    {
+      "question": "Mit állapít meg a C-151/2002. Jaeger-ítélet a kórházi fizikai jelenléten alapuló ügyeletről?",
+      "options": [
+        {
+          "text": "A Jaeger-ítélet csak a készenlétre vonatkozik; az ügyelet nemzeti fogalmát nem érinti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Jaeger-ügy a kórházi jelenléti ügyeletről szól. A C-151/2002. Jaeger-ítélet a fizikai jelenléten alapuló Bereitschaftsdienstet minősíti teljes munkaidőnek. A magyar 111. § az ügyeletet zárja; a készenlétre a 112. § irányadó. A tévedés az ügyelet és a készenlét felcseréléséből ered."
+        },
+        {
+          "text": "A Jaeger-ítélet szerint ellentétes az irányelvvel, ha kollektív szerződés vagy annak alapján kötött megállapodás csak a tényleges szakmai tevékenység tartamát kompenzálja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kompenzáció nem szűkíthető a tényleges tevékenységre. A C-151/2002. Jaeger-ítélet második rendelkező pontja szerint ellentétes a 93/104/EK irányelvvel, ha csak a tényleges szakmai tevékenység tartamát kompenzálják. A jelenléti ügyelet egésze munkaidő. A magyar 107. § d) pontja az ügyelet tartamát egyúttal rendkívüli munkaidővé is minősíti."
+        },
+        {
+          "text": "A kórházban való fizikai jelenléten alapuló ügyeletet akkor is teljes egészében munkaidőnek kell tekinteni, ha a munkavállaló a helyszínen pihenhet, amikor szolgálatára nincs szükség.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jelenléti ügyelet teljes munkaidő. A C-151/2002. Jaeger-ítélet első rendelkező pontja szerint a kórházi fizikai jelenléten alapuló ügyelet akkor is teljes munkaidő, ha a munkavállaló a helyszínen pihenhet. Ellentétes az irányelvvel, ha a tevékenység nélkül töltött részt pihenőidőnek minősítik. A magyar 111. § e logikát a huszonnégy órás, napi munkát beszámító zárral erősíti."
+        },
+        {
+          "text": "A Jaeger-ítélet szerint a helyszíni pihenéssel töltött ügyeleti szakasz nemzeti jog szerint pihenőidőnek minősíthető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a helyszíni pihenés nem teszi pihenőidővé a jelenléti ügyeletet. A C-151/2002. Jaeger-ítélet szerint a kórházi fizikai jelenléten alapuló ügyelet akkor is teljes munkaidő, ha a munkavállaló a helyszínen pihenhet. A tevékenység nélkül töltött rész pihenőidővé minősítése ellentétes az irányelvvel. A tévedés a helyszíni pihenés pihenőidővé olvasásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "bfe98defb17d"
+    },
+    {
+      "question": "Mit mond a C-518/15. Matzak-ítélet az otthoni készenlétről, ha a munkavállalónak nyolc percen belül kell reagálnia?",
+      "options": [
+        {
+          "text": "A Matzak-ítélet szerint az irányelv nem írja elő, hogy az otthoni készenlét díjazását a munkaidő/pihenőidő minősítéshez kell kötni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a minősítés és a díjazás elválik egymástól. A C-518/15. Matzak-ítélet harmadik rendelkező pontja szerint az irányelv nem írja elő, hogy az otthoni készenlét díjazását a munkaidő vagy pihenőidő minősítéshez kell kötni. A 2003/88/EK irányelv 2. cikke a fogalmi minősítést adja, nem a bérszabályt. A magyar díjazási szabályok nemzeti jog tárgyai maradnak."
+        },
+        {
+          "text": "A Matzak-ratio a magyar 107. § d) pontját is felülírja, ezért a készenlét tartama mindig rendkívüli munkaidő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az uniós minősítés a munkaidő/pihenőidő bináris fogalmát köti, a 107. § d) pontját nem írja felül. Az Mt. 107. § d) pontja csak az ügyeletet minősíti rendkívüli munkaidővé. A C-518/15. Matzak-ítélet a 2003/88/EK irányelv 2. cikke szerinti munkaidő-fogalmat értelmezi. A tévedés az uniós munkaidő és a magyar rendkívüli taxáció azonosításából ered."
+        },
+        {
+          "text": "A 2003/88/EK irányelv 2. cikke szerint munkaidőnek kell tekinteni azt az otthoni készenlétet, amely a hívásra nyolc percen belüli reagálási kötelezettség mellett jelentős mértékben korlátozza más tevékenység végzésének lehetőségét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Matzak-mérce a kötöttségek súlyán fordul. A C-518/15. Matzak-ítélet negyedik rendelkező pontja szerint az otthoni készenlét a nyolc percen belüli reagálási kötelezettség mellett munkaidő, ha más tevékenység lehetősége jelentős mértékben korlátozott. A magyar 110. § (4) bekezdése szerinti készenlét ettől még nem automatikusan a 107. § d) pontja szerinti rendkívüli munkaidő. A d) pont csak az ügyeletet taxálja."
+        },
+        {
+          "text": "A Matzak-ítélet szerint az otthoni készenlét mindig pihenőidő, ha a munkavállaló a saját lakásán tartózkodik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a lakóhely önmagában nem dönt. A C-518/15. Matzak-ítélet szerint a nyolc percen belüli reagálási kötelezettség mellett az otthoni készenlét munkaidő lehet, ha más tevékenység lehetősége jelentős mértékben korlátozott. A magyar 110. § (4) bekezdése a helykijelölés szerint választ ügyeletet és készenlétet. A tévedés az otthoni cím automatikus pihenőidő-olvasatából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "ea1aef4a5d49"
+    },
+    {
+      "question": "Mit állapít meg a C-214/20. MG-ítélet a tartalékos tűzoltói ügyeleti időszakról a Matzak-mércéhez képest?",
+      "options": [
+        {
+          "text": "A MG-ítélet szerint minden tíz perces reagálási idejű készenlét automatikusan munkaidő, a könnyítések ellenére is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a néhány perces válaszidő főszabályként munkaidőre utal, de a könnyítések ellensúlyozhatják. A C-214/20. MG-ítélet a más foglalkozás jogosultságát és a bevetések egy részének elhagyhatóságát ellensúlyozó körülményként értékeli. A tíz perces határidő önmagában nem dönt. A tévedés a válaszidő abszolút szabályként olvasásából ered."
+        },
+        {
+          "text": "Az ilyen ügyeleti időszak nem képez munkaidőt, ha a kötöttségek — más szakmai tevékenység jogosultsága és a bevetések egy részének elhagyhatósága — nem objektíve és igen jelentős mértékben hatnak ki a szabad időbeosztásra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az MG a Matzak ellenpólusa. A C-214/20. MG-ítélet rendelkező pontja szerint az ügyeleti időszak nem munkaidő, ha az összes körülmény értékeléséből az következik, hogy a kötöttségek nem objektíve és igen jelentős mértékben hatnak ki a szabad időbeosztásra. MG más szakmai tevékenységet (taxiszolgáltatást) végezhetett, és a bevetések egynegyedéről hiányozhatott. A magyar készenlét tehát nem automatikusan munkaidő és nem automatikusan pihenőidő."
+        },
+        {
+          "text": "A MG-ítélet a magyar 107. § d) pontját úgy értelmezi, hogy a készenlét is mindig rendkívüli munkaidő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a MG a 2003/88/EK irányelv 2. cikk 1. pontját értelmezi, nem a 107. § d) pontját. Az Mt. 107. § d) pontja csak az ügyeletet taxálja rendkívüli munkaidővé. A C-214/20. MG-ítélet a kötöttségek összességén forduló uniós munkaidő-minősítést ad. A tévedés az uniós fogalom és a magyar rendkívüli taxáció felcseréléséből ered."
+        },
+        {
+          "text": "A munkavállaló saját választásából eredő távolság — lakóhely vagy másik tevékenység helye — a MG-mérce szerint nem vehető figyelembe a kötöttségek értékelésénél.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a saját választású távolság kiesik. A C-214/20. MG-ítélet szerint a munkavállaló saját választásából eredő távolság nem vehető figyelembe. A vizsgálati mérce a hívástól a munkafelvételig rendelkezésre álló határidő, a bevetések gyakorisága és a könnyítések összessége. A 110. § (4) bekezdése szerinti „haladéktalan” fordulatot e skála konkrét kötöttségei szerint kell olvasni."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "a389e1c7d3ea"
+    },
+    {
+      "question": "Mit rögzít a C-303/1998. SIMAP-ítélet a jelenléti készenléti szolgálatról és az irányelvtől való eltérésről?",
+      "options": [
+        {
+          "text": "A SIMAP szerint a kollektív szerződés önmagában pótolja az érintettek hozzájárulását az irányelvtől való eltéréshez.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kollektív szerződés a személyes hozzájárulást nem helyettesíti. A C-303/1998. SIMAP-ítélet szerint az irányelvtől való eltéréshez az érintett személyek hozzájárulása kell. A KSZ e hozzájárulást nem pótolja. A tévedés a kollektív és az egyéni hozzájárulás azonosításából ered."
+        },
+        {
+          "text": "Az irányelvtől való eltéréshez az érintett személyek hozzájárulása kell; a kollektív szerződés e hozzájárulást nem helyettesítheti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hozzájárulás személyes. A C-303/1998. SIMAP-ítélet szerint az irányelvtől való eltéréshez az érintett személyek hozzájárulása kell. A kollektív szerződés e hozzájárulást nem helyettesítheti. A 89/391/EGK és a 93/104/EK irányelv az orvosi alapellátást nyújtó orvosokra is kiterjed. A foglalkozás sajátossága önmagában nem veszi ki őket."
+        },
+        {
+          "text": "A készenléti szolgálat annyiban munkaidő, amennyiben az orvos az egészségügyi intézményben ténylegesen jelen van; ha csupán elérhetőnek kell lennie, csak a ténylegesen a szolgáltatásra fordított idő számít munkaidőnek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a SIMAP a jelenlét és az elérhetőség között választ. A C-303/1998. SIMAP-ítélet szerint az intézményi jelenlét munkaidő, a puszta elérhetőségnél csak a tényleges szolgáltatás. A Bíróság a készenléti szolgálatot ügyeleti (váltott) munkának is minősítette a rotációs rendszer miatt. A magyar 107. § d) pontja a jelenléti ügyeletet a SIMAP-nál tovább viszi: az ügyelet tartama rendkívüli munkaidő is."
+        },
+        {
+          "text": "A SIMAP szerint a puszta elérhetőség teljes tartama is mindig munkaidő, jelenlét nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a puszta elérhetőségnél csak a tényleges szolgáltatás számít. A C-303/1998. SIMAP-ítélet szerint ha az orvosnak csupán elérhetőnek kell lennie, és idejével szabadon rendelkezik, csak a ténylegesen a szolgáltatásra fordított idő munkaidő. Az intézményi jelenlét a teljes tartamot munkaidővé emeli. A tévedés a jelenléti és az elérhetőségi alakzat felcseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "fa03e322ebf0"
+    },
+    {
+      "question": "Mit mond a 113. § (5)–(7) bekezdése az éjszakai munka beosztásáról a védendő körben?",
+      "options": [
+        {
+          "text": "Éjszakai munka a várandósság megállapításától a gyermek hároméves koráig, illetve a gyermekét egyedül nevelőnél ugyanezen korig nem osztható be.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (5) bekezdés abszolút beosztási tilalmat állít. Az Mt. 113. § (5) bekezdés a) pontja a várandósság megállapításától a gyermek hároméves koráig tiltja az éjszakai munka beosztását. A b) pont a gyermekét egyedül nevelő munkavállalót ugyanezen korig védi. A rendkívüli munkaidő (1) bekezdés szerinti tilalma mellett ez külön, éjszakai beosztási zár."
+        },
+        {
+          "text": "Az éjszakai munka a gyermek tízéves koráig abszolút tilos, hozzájárulással sem osztható be a 113. § szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a három–tíz éves sávban a (6) bekezdés írásbeli hozzájárulással engedi. Az Mt. 113. § (5) bekezdése a hároméves korig tilt. A (6) bekezdés a hároméves kortól tízéves korig írásbeli hozzájáruláshoz köti az éjszakai munkát. A tévedés az (5) és a (6) bekezdés sávjának összemosásából ered."
+        },
+        {
+          "text": "A (6) bekezdés a nő, illetve a gyermekét egyedül nevelő munkavállaló számára a gyermek hároméves korától tízéves koráig az éjszakai munkát írásbeli hozzájáruláshoz köti; a (7) bekezdés egészségkárosító kockázatnál a beosztás szerinti napi munkaidőt nyolc órában zárja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (6) bekezdés hozzájárulásos, a (7) bekezdés órazár. Az Mt. 113. § (6) bekezdés a) pontja a nő számára, a b) pont a gyermekét egyedül nevelő számára a három–tíz éves sávban írásbeli hozzájárulást kíván. A (7) bekezdés egészségkárosító kockázat fennállásakor a beosztás szerinti napi munkaidőt nyolc órában zárja. A 135. § (2) bekezdés j) pontja e szabályoktól csak a munkavállaló javára enged eltérést."
+        },
+        {
+          "text": "A (7) bekezdés egészségkárosító kockázatnál a beosztás szerinti napi munkaidőt tizenkét órában zárja éjszakai munka esetén.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a zár nyolc óra. Az Mt. 113. § (7) bekezdése szerint éjszakai munka esetén a beosztás szerinti napi munkaidő egészségkárosító kockázat fennállásakor a nyolc órát nem haladhatja meg. A tizenkét óra a 114. § (5) bekezdés f) pontja szerinti fiatal napi pihenőidő mértéke. A tévedés a nyolcórás zár és a tizenkét órás pihenő felcseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "5bb12aca82fd"
+    },
+    {
+      "question": "Mit rögzít a 18/2021. (V. 27.) AB határozat 3. pontja alkotmányos követelményként az egy évet meghaladó keretnél a rendkívüli munkavégzés átlagolásáról?",
+      "options": [
+        {
+          "text": "A határozat 1. pontja hivatalból mulasztásban megnyilvánuló alaptörvény-ellenességet állapított meg a 94. § (3) és (4) bekezdésének együttes alkalmazásánál, mert a kollektív szerződés munkáltatói felmondása után a többletgaranciák sorsa nincs biztosítva.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a mulasztás a keretemelés és a KSZ-felmondás találkozásánál áll. A 18/2021. (V. 27.) AB határozat 1. pontja szerint nincs olyan szabály, amely a harminchat hónapos kerethez kötött, a törvényinél többlettartalmú kollektív garanciákat a kollektív szerződés munkáltatói felmondása után is teljeskörűen érvényesítené. Az Országgyűlést 2021. július 31-ig hívta fel. A 109. § (2) bekezdése és a 135. § (3) bekezdése megsemmisítését ugyanakkor elutasította."
+        },
+        {
+          "text": "Az egy évet meghaladó keretnél a rendkívüli munkavégzés a keret teljes tartamára átlagolható a 18/2021. (V. 27.) AB határozat szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az átlagolás tizenkét hónaphoz kötött. A 18/2021. (V. 27.) AB határozat 3. pontja a 99. § (7) bekezdés b) pontja szerinti tizenkét hónapot írja elő. A keret teljes tartama nem lehet a referencia. A tévedés a kerethossz és az átlagolási időszak azonosításából ered."
+        },
+        {
+          "text": "Ha a 94. § (3) bekezdése alapján a keret vagy az elszámolási időszak a kollektív megállapodás szerint meghaladja az egy évet, a teljesített rendkívüli munkavégzés átlagolásánál a 99. § (7) bekezdés b) pontja szerinti tizenkét hónapot kell figyelembe venni, nem a keret teljes tartamát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az átlagolás tizenkét hónaphoz kötött, nem a keret teljes hosszához. A 18/2021. (V. 27.) AB határozat 3. pontja alkotmányos követelményt rögzít: az egy évet meghaladó keretnél a heti pihenőidő és a teljesített rendkívüli munkavégzés átlagolásánál a 99. § (7) bekezdés b) pontja szerinti tizenkét hónap irányadó. A keret teljes tartama nem lehet az átlagolás referencia-időszaka. Az Alaptörvény XVII. cikk (3)–(4) bekezdése a munka- és pihenőidő alanyi mércéjét adja, nem a tizenkét hónapos átlagolás technikáját."
+        },
+        {
+          "text": "A határozat a 109. § (2) bekezdését megsemmisítette, mert a négyszáz órás plafon az Alaptörvény XVII. cikkébe ütközik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megsemmisítést elutasította. A 18/2021. (V. 27.) AB határozat a 109. § (2) bekezdése és a 135. § (3) bekezdése megsemmisítését elutasította. A megállapodás írásbelisége, a naptári év végére szóló felmondás és a 66. § (3) bekezdés b) pontjának felmondási tilalma ellensúlyozza a (2) bekezdést. A tévedés az indítvány és a rendelkező rész felcseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "5dcaf476792f"
+    },
+    {
+      "question": "Mit mond a C-266/14. Tyco-ítélet a szokásos munkavégzési hellyel nem rendelkező munkavállaló mindennapos utazásáról?",
+      "options": [
+        {
+          "text": "A lakóhely és az első, illetve az utolsó ügyfél közötti mindennapos utazással töltött idő a 2003/88/EK irányelv 2. cikk 1. pontja szerint munkaidő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Tyco a munkahely nélküli utazást munkaidővé emeli. A C-266/14. Tyco-ítélet szerint a szokásos munkavégzési hellyel nem rendelkező munkavállaló lakóhelye és az első, illetve az utolsó ügyfél közötti mindennapos utazása munkaidő. A Tyco a napi munkaidőt korábban csak az ügyfeleknél töltött időben számolta. A 49. pont rögzíti: a díjazás módja nem az irányelv, hanem a nemzeti jog tárgya."
+        },
+        {
+          "text": "A Tyco-ítélet a 107. § d) pontját úgy értelmezi, hogy az utazás is ügyelet, ezért rendkívüli munkaidő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Tyco az uniós munkaidő-fogalmat tágítja, nem a 107. § d) pontját. Az ügyelet tartama a 107. § d) pontja szerint rendkívüli munkaidőnek minősül. A C-266/14. Tyco-ítélet a lakóhely és az ügyfél közötti utazást munkaidőnek minősíti. A tévedés az utazás ügyeletté olvasásából ered."
+        },
+        {
+          "text": "A Tyco-ratio a magyar 107. § négy esetét nem írja felül, de a beosztás és a 134. § szerinti nyilvántartás olvasatát köti, ha nincs állandó munkavégzési hely.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az uniós munkaidő-fogalom és a magyar rendkívüli taxáció elválik. A C-266/14. Tyco-ítélet a 2003/88/EK irányelv 2. cikk 1. pontját tágítja. Az Mt. 107. § a beosztástól eltérő, a kereten felüli, az elszámolási időszak heti alapját meghaladó munkaidőt és az ügyeletet taxálja. A Tyco e négy esetet nem írja felül, de a nyilvántartás 134. §-ának olvasatát köti."
+        },
+        {
+          "text": "A Tyco szerint a díjazás módját is az irányelv 2. cikke határozza meg, ezért a nemzeti bérszabályok nem alkalmazhatók.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a díjazás nemzeti jog tárgya. A C-266/14. Tyco-ítélet 49. pontja szerint a díjazás módja nem az irányelv, hanem a nemzeti jog tárgya. A 2003/88/EK irányelv 2. cikk 1. pontja a munkaidő fogalmát adja. A tévedés a fogalmi minősítés és a díjazás azonosításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "b12b288850eb"
+    },
+    {
+      "question": "Mit jelent a 99. § (5)–(6) bekezdése a 107. § szerinti tartamok beszámításáról a beosztás szerinti munkaidőbe?",
+      "options": [
+        {
+          "text": "A 99. § (6) bekezdése szerint, ha a munkavégzés tartama nem mérhető, az ügyelet teljes tartama a beosztás szerinti napi munkaidőbe számít.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nem mérhető ügyelet teljes tartama bejön a napi munkaidőbe. Az Mt. 99. § (6) bekezdése az ügyelet teljes tartamát a beosztás szerinti napi munkaidőbe viszi, ha a munkavégzés tartama nem mérhető. A 107. § d) pontja az ügyeletet egyszersmind rendkívüli munkaidővé is minősíti. A 111. § huszonnégy órás zárja e beszámítás mellett olvasandó."
+        },
+        {
+          "text": "Ha a munkavégzés tartama mérhető, a 99. § (6) bekezdése szerint az ügyelet teljes tartama akkor is a napi munkaidőbe számít.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (6) bekezdés a nem mérhető esetre szól. Az Mt. 99. § (6) bekezdése szerint az ügyelet teljes tartama akkor számít a beosztás szerinti napi munkaidőbe, ha a munkavégzés tartama nem mérhető. Mérhető tartamnál e speciális beszámítás nem nyílik. A tévedés a feltétel elhagyásából ered."
+        },
+        {
+          "text": "A 99. § (5) bekezdése a beosztás szerinti napi munkaidőbe a 107. § a) pontját, a heti munkaidőbe a 107. § egészét beszámítja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a napi és a heti beszámítás elválik egymástól. Az Mt. 99. § (5) bekezdése a beosztás szerinti napi munkaidőbe a 107. § a) pontját emeli. A heti munkaidőbe ugyanakkor a 107. § a)–d) pontjának teljes taxációját beszámítja. A beosztástól eltérő tartam tehát a napi plafont, a teljes rendkívüli taxáció a heti plafont érinti."
+        },
+        {
+          "text": "A 99. § (5) bekezdése a 107. § b)–d) pontját is a beosztás szerinti napi munkaidőbe számítja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a napi beszámítás csak az a) pontra szól, nem a b)–d) pontokra. Az Mt. 99. § (5) bekezdése a beosztás szerinti napi munkaidőbe a 107. § a) pontját emeli. A heti munkaidőbe viszont a 107. § teljes taxációját beszámítja. A tévedés a napi és a heti beszámítás hatókörének felcseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "24eec9898073"
+    },
+    {
+      "question": "Mely állítások hamisak a rendkívüli munkaidő 107. § szerinti fogalmáról?",
+      "options": [
+        {
+          "text": "A 107. § taxációja a készenlét teljes tartamát is rendkívüli munkaidőnek minősíti, mert a rendelkezésre állás mindig ügyelet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a készenlét nincs a 107. § négy taxált esete között, önmagában nem rendkívüli. A 107. § a)–d) pontja négy esetet taxál: beosztás-eltérés, keretfölötti tartam, elszámolási időszak heti alapját meghaladó munkaidő és ügyelet. A helyes: a készenlét önmagában nem rendkívüli munkaidő; a 110. § (4) bekezdése a helykijelölés szerint választ ügyeletet és készenlétet. A tévedés a készenlét ügyeletté olvasásából ered."
+        },
+        {
+          "text": "A 91. § szerinti készenléti jellegű munkakör tartama a 107. § d) pontja szerinti ügyelet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a készenléti jelleg nem ügyelet. Az Mt. 91. § a rendes munkaidőn belüli munkaköri minősítés. A helyes: a 107. § d) pontja a 110. § (4) bekezdése szerinti ügyelet tartamát minősíti rendkívüli munkaidővé. A tévedés a 91. § és a 110. § fogalmának felcseréléséből ered."
+        },
+        {
+          "text": "Az uniós C-518/15. Matzak-ítélet a 107. § d) pontját úgy írja felül, hogy a készenlét mindig rendkívüli munkaidő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Matzak az uniós munkaidő-fogalmat értelmezi, nem a 107. § d) pontját. A C-518/15. Matzak-ítélet a 2003/88/EK irányelv 2. cikke szerinti minősítést ad. A helyes: az Mt. 107. § d) pontja csak az ügyeletet taxálja rendkívüli munkaidővé; a készenlét ettől még uniós szinten munkaidő lehet. A tévedés az uniós fogalom és a magyar rendkívüli taxáció azonosításából ered."
+        },
+        {
+          "text": "A 107. § a) és b) pontja azonos jogcím, mert mindkettő a keret átlagában keletkezik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az a) pont és a b) pont két külön jogcím, nem olvad össze. A 107. § a) pontja a már közölt beosztástól eltérő munkát, a b) pont a munkaidőkereten felüli teljesítést jelöli. A helyes: a 18/2021. (V. 27.) AB határozat szerint a keretben a rendkívüli munkaidő e két jogcímen keletkezhet, és elszámolásuk is elválik. A tévedés a két pont összemosásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "0ae6b5c67e99"
+    },
+    {
+      "question": "Mely állítások hamisak a 109. § és a 135. § (3) bekezdése szerinti éves plafonokról?",
+      "options": [
+        {
+          "text": "A 18/2021. (V. 27.) AB határozat a 109. § (2) bekezdését megsemmisítette az Alaptörvény XVII. cikke alapján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megsemmisítést elutasította. A 18/2021. (V. 27.) AB határozat a 109. § (2) bekezdése alaptörvény-ellenességének megállapítására irányuló indítványt elutasította. A helyes: a megállapodás írásbelisége, a naptári év végére szóló felmondás és a 66. § (3) bekezdés b) pontja ellensúlyozza a (2) bekezdést. A tévedés az indítvány és a rendelkező rész felcseréléséből ered."
+        },
+        {
+          "text": "Kollektív szerződés nélkül is minden munkaviszonyban háromszáz óra az egyoldalú plafon a 135. § (3) bekezdése szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a háromszáz órás éves plafon csak kollektív szerződéses rendelkezéssel nyílik meg. A 135. § (3) bekezdése a legfeljebb évi háromszáz órát kollektív szerződéses rendelkezéshez köti. A helyes: kollektív szerződés nélkül a 109. § (1) bekezdése szerinti kétszázötven óra az egyoldalú plafon. A tévedés abból ered, hogy a kollektív szerződéses feltétel kimaradt az olvasatból."
+        },
+        {
+          "text": "A 109. § (3) bekezdése szerinti arányosítás csak részmunkaidőnél kötelező; évközi kezdésnél a teljes plafon jár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az évközi munkaviszony-kezdés önmagában is arányosítást kíván. A 109. § (3) bekezdés a) pontja az évközben indult munkaviszonyt önálló arányosítási esetként említi. A helyes: az (1)–(2) bekezdés óraszámait arányosan kell alkalmazni évközi kezdés, határozott idő vagy részmunkaidő esetén. A tévedés a három taxált ok leszűkítéséből ered."
+        },
+        {
+          "text": "A 109. § (2) bekezdése szerinti önként vállalt túlmunka plafonja a KSZ-pályán is százötven óra.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kollektív szerződéses pályán az önkéntes második fordulat plafonja száz óra. A 135. § (3) bekezdése a háromszáz órán felül legfeljebb száz óra önként vállalt túlmunkát nyit. A helyes: a 109. § (2) bekezdése szerinti százötven óra a KSZ nélküli pálya. A tévedés a két pálya második fordulatának felcseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "440bcf212613"
+    },
+    {
+      "question": "Mely állítások hamisak az ügyelet és a készenlét tartami zárjairól?",
+      "options": [
+        {
+          "text": "A 111. § huszonnégy órás zárja a készenlétre is irányadó, mert mindkettő rendelkezésre állás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 111. § huszonnégy órás zárja csak az ügyeletet érinti, a készenlétet nem. Az Mt. 111. § az ügyelet tartamát huszonnégy órában zárja a napi rendes és elrendelt rendkívüli munkaidő beszámításával. A helyes: a készenlét tartami és heti zárját a 112. § rendezi — havi százhatvannyolc óra és a heti pihenőre eső négy alkalom. A tévedés a két alakzat tartami szabályának összekeveréséből ered."
+        },
+        {
+          "text": "Nyolc óra aznapi rendes munkaidő után a 111. § szerint további huszonnégy óra ügyelet is elrendelhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a huszonnégy órába a napi rendes munkaidő beleszámít. Az Mt. 111. § szerint az ügyelet tartama nem haladhatja meg a huszonnégy órát, amelybe az aznapi rendes vagy elrendelt rendkívüli munkaidőt be kell számítani. A helyes: nyolc óra rendes munka után legfeljebb tizenhat óra ügyelet marad. A tévedés a „plusz huszonnégy óra” olvasatából ered."
+        },
+        {
+          "text": "A 112. § (1) bekezdés százhatvannyolc órás plafonja az ügyelet havi tartamát zárja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 112. § (1) bekezdése a készenlét havi tartamát zárja, nem az ügyeletét. Az Mt. 112. § (1) bekezdése a készenlét havi tartamát százhatvannyolc órában zárja, munkaidőkeretnél átlagban. A helyes: az ügyelet tartami zárja a 111. § szerinti huszonnégy óra a napi munka beszámításával. A tévedés az ügyelet és a készenlét felcseréléséből ered."
+        },
+        {
+          "text": "A heti pihenőre eső készenlét havonta korlátlan, ha a százhatvannyolc órás plafon megmarad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés külön négy alkalmas zárat állít. A heti pihenőnap vagy heti pihenőidő tartamára a 112. § (2) bekezdése havonta legfeljebb négy készenléti alkalmat enged. A helyes: a havi óraplafon önmagában e regenerációs zárat nem oldja. A tévedés az (1) és a (2) bekezdés korlátainak összemosásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "79a625bfec36"
+    },
+    {
+      "question": "Mit mond a 114. § (1)–(4) bekezdése a fiatal munkavállaló napi és beosztás szerinti munkaidejéről?",
+      "options": [
+        {
+          "text": "Több munkaviszony keretében a beosztás szerinti napi munkaidőt össze kell számítani; a párhuzamos nyolcórás beosztásokkal a plafon nem játszható ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (4) bekezdés az összevonást a beosztás szerinti napi munkaidőre mondja ki. Az Mt. 114. § (4) bekezdése szerint több munkaviszony keretében a beosztás szerinti napi munkaidőt össze kell számítani. A többes jogviszony tehát nem bújhat ki az (1)–(3) bekezdés plafonjai alól. A 114. § (5) bekezdés a) pontja emellett a rendkívüli munkaidőt is tiltja."
+        },
+        {
+          "text": "A tizenhat évesnél fiatalabb munkavállaló napi munkaideje mindig nyolc óra, a tanulói kivétel nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a főszabály hat óra, nyolc csak a fiatal általános plafon. Az Mt. 114. § (2) bekezdése a tizenhat évesnél fiatalabb napi munkaidejét legfeljebb hat órában zárja. A nappali rendszerű képzésben részt vevő, tizenötödik életévét betöltött, iskolai szünet alatt dolgozó tanuló a kivétel. A tévedés az (1) és a (2) bekezdés plafonjának felcseréléséből ered."
+        },
+        {
+          "text": "Több munkaviszonynál a beosztás szerinti napi munkaidők nem számítandók össze, ha az egyes jogviszonyok külön munkáltatónál állnak fenn.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (4) bekezdés az összevonást nem a munkáltató azonosságához köti. Az Mt. 114. § (4) bekezdése szerint több munkaviszony keretében a beosztás szerinti napi munkaidőt össze kell számítani. A párhuzamos beosztások tehát együttesen sem léphetik túl a plafont. A tévedés a többes jogviszony munkáltatónkénti külön plafonként olvasásából ered."
+        },
+        {
+          "text": "A fiatal munkavállaló napi munkaideje legfeljebb nyolc óra; a tizenhat évesnél fiatalabbé — a megjelölt tanulói kivétellel — legfeljebb hat óra, és ugyanezek a mértékek a beosztás szerinti napi munkaidőre is állnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a plafonok a napi és a beosztás szerinti mértékre együtt érvényesülnek. Az Mt. 114. § (1) bekezdése a fiatal munkavállaló napi munkaidejét legfeljebb nyolc órában zárja. A (2) bekezdés a tizenhat évesnél fiatalabbét — a nappali rendszerű képzésben részt vevő, tizenötödik életévét betöltött, iskolai szünet alatt dolgozó tanuló kivételével — legfeljebb hat órában zárja. A (3) bekezdés ugyanezeket a mértékeket a beosztás szerinti napi munkaidőre is kimondja."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "7478a0436b29"
+    }
+  ]
+}

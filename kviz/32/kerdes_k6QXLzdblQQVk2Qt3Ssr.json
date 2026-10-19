@@ -1,0 +1,1251 @@
+{
+  "id": "k6QXLzdblQQVk2Qt3Ssr",
+  "sorszam": 32,
+  "cim": "A bedolgozói jogviszony és az egyszerűsített foglalkoztatásra vagy (...)",
+  "generationType": "kerdes",
+  "title": "32. A bedolgozói jogviszony és az egyszerűsített foglalkoztatásra vagy (...)",
+  "questions": [
+    {
+      "question": "Egy cipőüzem otthoni darabszámos felsőrész-összeállítást tervez. A munkavállaló saját varrógépén, lakásán dolgozna, a bér darabszámra menne; ugyanő hétvégén a telephelyen egynapos alkalmi kisegítést is vállalna. Mely megállapítások helytállóak a két út elválasztásáról?",
+      "options": [
+        {
+          "text": "Az otthoni darabszámos, saját eszközzel végzett út bedolgozói munkaviszonyként az Mt. 198–200. § szerint értékelendő; az egynapos telephelyi kisegítés Efo. alkalmi munkaként csak az Mt. 201–203. § és az Efo. tv. keretében nyitható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a bedolgozás fogalmi tengelye az önálló, helyhez kötött teljesítménybéres munka az Mt. 198. § szerint, míg az Efo. alkalmi út a tartam–alak–közteher egyszerűsítése az Mt. 201–203. § és az Efo. tv. keretében. A két intézmény nem egymás speciális esete: a saját eszköz és a darabbér önmagában nem „Efo.-bedolgozás”. A cipőüzemi otthoni út tehát a 198–200. § síkján, a telephelyi egynapos kisegítés az Efo. síkján értékelendő."
+        },
+        {
+          "text": "Ha a felek között már fennáll a bedolgozói munkaviszony, ugyanazon felek között az egynapos alkalmi Efo.-szerződés az Mt. 201. § (1) szerint érvénytelen.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 201. § (1) bekezdése a szerződéskötéskor fennálló munkaviszonyhoz köti az érvénytelenséget, és a bedolgozói viszony is munkaviszony. Ugyanazon felek között tehát párhuzamos Efo. nem nyitható, még egynapos alkalmi kisegítésként sem. A 213. § f) pontja e tilalmat a 200–207. § kógens körébe emeli."
+        },
+        {
+          "text": "A bedolgozás az Efo. tv. speciális esete, ezért az otthoni darabszámos munkára is a 8. § napi közterhe alkalmazandó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a bedolgozás teljes szabályozása az Mt. 198–200. §-ában áll, az Efo. tv. 8. § pedig a 7. § (2) szerinti egyszerűsített foglalkoztatásra szabott napi közterhet. A közteher átvitele a bedolgozásra a két alakzatot összemossa. A helyes elválasztás: bedolgozásnál teljesítménybér és költségtérítés, Efo.-nál a 8. § közteher-rendje."
+        },
+        {
+          "text": "Az otthoni bedolgozói viszony is csak az Efo. tv. 11. § megkezdés előtti bejelentésével jön létre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 11. § bejelentése az egyszerűsített foglalkoztatás keletkezési aktusa az Efo. tv. 3. § (1) bekezdése és az Mt. 202. § (2) bekezdése szerint. A bedolgozás szerződéses létesítés az Mt. 198. § szerinti tartalommal; a bejelentés bedolgozásra történő kiterjesztése téves. A két keletkezési sík tehát elválik, és a bedolgozói viszony érvényességét nem az adóhatósági közlés adja."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "c6f9c82bea94"
+    },
+    {
+      "question": "A felek „bedolgozói” szerződést terveznek: a munka otthon végezhető, a díjazás fele időbér, fele darabbér, a helyet pedig a munkáltató a saját telephelyére írná. Az Mt. 198. § alapján mely következmények állnak?",
+      "options": [
+        {
+          "text": "A munkahely fogalmilag a munkavállaló lakóhelye vagy a felek által meghatározott más hely; a munkáltató egyoldalú telephely-kijelölése nem pótolja a (3) bekezdés helyfogalmát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 198. § (3) bekezdése a munkahelyet a munkavállaló lakóhelyéhez vagy a felek által meghatározott más helyhez köti, nem a munkáltató egyoldalú telephely-kijelöléséhez. A telephelyi integráció nem fogalmi elem. A 213. § e) pontja a helyfogalmat is a kógens körbe emeli, ezért a szerződéses helyet nem pótolhatja puszta telephely-írás."
+        },
+        {
+          "text": "Ha a felek a 199. § szerint eltérően állapodnak meg, a vegyes bér is megengedett bedolgozásnál.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 199. § diszpozitivitása az utasításra, az eszközre, az ellenőrzésre és a munkarendre vonatkozik, nem a 198. § (1) díjazási formájára. A 213. § e) pontja a 198. §-t zárja, ezért a vegyes bér megállapodással sem menthető. A helyes: bedolgozásnál kizárólag teljesítménybér köthető ki."
+        },
+        {
+          "text": "A vegyes időbér–darabbér a 198. § (1) kizárólagos teljesítménybér-követelményét sérti, ezért a bedolgozói alakzat fogalmilag nem áll fenn.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 198. § (1) bekezdése két együttes feltételt szab: önállóan végezhető munka és kizárólagos teljesítménybér. Az Mt. 198. § (1) szerint: „Bedolgozói munkaviszony olyan önállóan végezhető munkára létesíthető, amelyre a felek a munkabért kizárólag teljesítménybér formájában (137. § (3) bekezdés) határozzák meg.” Az időbér vagy a vegyes időbér–darabbér a fogalmat kiüti. A 213. § e) pontja a 198. § egészét kógenssé teszi, ezért a felek e formai követelménytől nem térhetnek el."
+        },
+        {
+          "text": "A telephely mint munkahely a bedolgozás főszabálya, ha a munkáltató így rendelkezik a szerződésben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 198. § (3) bekezdése nem a telephelyet teszi fogalmi munkahellyé, hanem a lakóhelyet vagy a felek közös kijelölését. A telephelyi integráció a szervezeti kötöttséget erősítené, ami a bedolgozás tengelyével ellentétes. A 213. § e) pontja e helyfogalmat is kógenssé teszi."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "2b0f57729c9c"
+    },
+    {
+      "question": "Egy bedolgozónál a munkáltató napi jelenléti irányítást, saját gépek kötelező használatát és kötött műszakot akar bevezetni „főszabályként”, megállapodás nélkül. Az Mt. 199. § alapján mi a helyes megítélés?",
+      "options": [
+        {
+          "text": "Egy bedolgozásnál a munkáltató főszabály szerint folyamatosan irányíthatja a teljes napi tevékenységet, mint a klasszikus munkaviszonyban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 199. § (1) bekezdése — eltérő megállapodás hiányában — éppen a folyamatos, teljes napi irányítást szűkíti a technikára és a módra. A fogalmi önállóságot az Mt. 198. § (1) bekezdése is megköveteli. A helyes főszabály tehát a szűkített utasítás, nem a klasszikus jelenléti irányítás."
+        },
+        {
+          "text": "A 213. § e) pontja a 199. § egészét kógenssé teszi, ezért a kötetlen munkarendtől a felek soha nem térhetnek el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 213. § e) pontja a 198. §-t zárja; a 199. § nincs a felsorolásban, ezért a kötetlen munkarend az Mt. 199. § (4) bekezdése szerint eltérő megállapodással alakítható. A bedolgozás kógens magja a fogalom és a 200. §, nem a 199. § belső diszpozitivitása; az f) pont a 200–207. §-t zárja. A helyes olvasat tehát a 199. § alakíthatósága eltérő megállapodással."
+        },
+        {
+          "text": "Eltérő megállapodás hiányában a munkavállaló saját eszközeivel dolgozik, és munkarendje kötetlen; a kötelező munkáltatói gép és a kötött műszak csak eltérő megállapodással nyílhat meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 199. § (2) és (4) bekezdése szerint — eltérő megállapodás hiányában — a munkavállaló saját eszközeivel dolgozik, és munkarendje kötetlen. A kötelező munkáltatói gép és a kötött műszak tehát csak eltérő megállapodással nyílhat meg. A 213. § e) pontja a 198. §-t zárja, a 199. § belső rendjét nem."
+        },
+        {
+          "text": "Eltérő megállapodás hiányában az utasítási jog a technikára és a munkavégzés módjára szűkül; a folyamatos jelenléti irányítás nem a 199. § (1) főszabálya.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 199. § (1) bekezdése — eltérő megállapodás hiányában — az utasítási jogot a technikára és a munkavégzés módjára szűkíti. A klasszikus, folyamatos jelenléti irányítás nem a főszabály. A 213. § a 199. §-t nem emeli a kógens listára, ezért a felek eltérhetnek, de megállapodás nélkül a szűkített terjedelmű irányítás él."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "77b3a5d7d090"
+    },
+    {
+      "question": "A felek között határozatlan idejű Mt. szerinti munkaviszony áll fenn. A munkáltató ugyanarra a személyre egynapos alkalmi Efo.-toldalékot akar a meglévő szerződéshez csatolni, „csak hétvégére”. Az Mt. 201. § szerint mi a helyes következtetés?",
+      "options": [
+        {
+          "text": "Ha a hétvégi munka öt napnál rövidebb, a párhuzamos Efo. érvényes a fennálló munkaviszony mellett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az érvénytelenség az Mt. 201. § (1) szerint a fennálló munkaviszonyhoz kötött, nem az alkalmi munka Efo. tv. 2. § 3. pont szerinti öt napos fogalmi plafonjához. A párhuzamosság tilos akkor is, ha a hétvégi munka öt napnál rövidebb. A helyes: a meglévő viszony mellett az Efo. szerződés érvénytelen."
+        },
+        {
+          "text": "A meglévő szerződés Efo.-toldaléka érvényes, ha a munkavállaló írásban hozzájárul.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 201. § (2) tilalma nem a hozzájárulás hiányára, hanem a célszerű módosításra épül; a munkavállaló írásbeli hozzájárulása a kógens tilalmat nem oldja fel. A 213. § f) pontja e szakaszt a 200–207. § kógens körébe emeli. A helyes: átminősítő toldalék nem köthető a fennálló szerződéshez, hozzájárulással sem."
+        },
+        {
+          "text": "A felek a meglévő munkaszerződést egyszerűsített foglalkoztatás vagy alkalmi munka létrehozása érdekében nem módosíthatják; az átminősítő toldalék tilos.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 201. § (2) bekezdése tiltja, hogy a meglévő munkaszerződést egyszerűsített foglalkoztatás vagy alkalmi munka létrehozása érdekében módosítsák. Nincs érvényes „Efo.-toldalék” a rendes szerződésen. A 213. § f) pontja e módosítási tilalmat is kógenssé teszi."
+        },
+        {
+          "text": "Az egyszerűsített foglalkoztatásra irányuló szerződés érvénytelen, mert a megkötés időpontjában a felek között már munkaviszony áll fenn.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 201. § (1) bekezdés második mondata expressis verbis a szerződéskötéskori fennálló munkaviszonyhoz köti az érvénytelenséget. Az Mt. 201. § (1) szerint: „Érvénytelen az egyszerűsített foglalkoztatásra vagy alkalmi munkára irányuló munkaszerződés, ha annak megkötése időpontjában a felek között munkaviszony áll fenn.” A rövid tartam vagy a „csak hétvége” nem nyit kiskaput. A 213. § f) pontja e szakaszt a 200–207. § kógens körébe emeli, ezért a felek megállapodása sem oldja fel a tilalmat."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "7d447ebea18e"
+    },
+    {
+      "question": "Egy bedolgozónál a villanyszámla egy része a munkára eső, számlával igazolt költség; a cérna- és tűfogyás nem számszerűsíthető. Egy munkadarab felróhatóan hibás és teljesen használhatatlan; egy másik hibás, de a munkáltató részben fel tudja használni. Az Mt. 200. § szerint mi a helyes elszámolás?",
+      "options": [
+        {
+          "text": "Ha a munkáltató a hibás, de részben felhasználható eredményt megtartja, semmilyen díjazás és költségtérítés nem jár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 200. § (2) második mondata csökkentett díjazást és költségtérítést rendel, ha a munkáltató a hibás eredményt részben vagy egészben felhasználhatja. Csak a teljesen felhasználhatatlan, felróható hibáért nem fizet. A helyes: a részben felhasználható darabért csökkentett járandóság jár."
+        },
+        {
+          "text": "A számlával igazolt, ténylegesen felmerült költséget meg kell téríteni; a nem számszerűsíthető részre átalány jár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 200. § (1) bekezdése szerint a munkavállaló részére meg kell téríteni a ténylegesen felmerült költséget, vagy ha az nem állapítható meg, átalányt kell fizetni. A számlával igazolt villamos költség a tényleges térítés alá esik; a nem számszerűsíthető cérna- és tűfogyás átalányra jogosít. Az átalány a költség pótléka, nem a teljesítménybér helyettesítője."
+        },
+        {
+          "text": "A teljesen felhasználhatatlan, felróható hibáért sem díjazás, sem költségtérítés nem jár; a részben felhasználható hibás eredményért csökkentett díjazás és költségtérítés jár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 200. § (2) bekezdése a felróhatósághoz és a felhasználhatósághoz köti a szankciót: teljesen felhasználhatatlan, felróható hibáért sem díjazás, sem költségtérítés nem jár. Részben felhasználható hibás eredményért csökkentett díjazás és költségtérítés jár. A 213. § f) pontja e szakaszt kógenssé teszi, ezért a felek e rendtől nem térhetnek el."
+        },
+        {
+          "text": "Az átalány a teljesítménybért helyettesíti, ezért külön díjazás a nem számszerűsíthető költségnél sem jár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 200. § (1) szerinti átalány a bizonyíthatatlan költség pótléka, nem a díjazás helyettesítője. A bedolgozás díjazása az Mt. 198. § (1) szerint kizárólag teljesítménybér; a két járandóság / jogcím elválik. A helyes: a nem számszerűsíthető költségre átalány jár, a teljesítménybér mellett."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "953c722a70a3"
+    },
+    {
+      "question": "A felek Efo. alkalmi munkát terveznek: papíron aláírnak egy rövid megállapodást, de a munkáltató a megkezdés előtt nem teszi meg a 11. § bejelentését; a mintaszerződést „később” akarják. Az Mt. 202. § és az Efo. tv. 3. § szerint mi állapítható meg?",
+      "options": [
+        {
+          "text": "Mintaszerződés nélkül az Efo. viszony egyáltalán nem jöhet létre, még bejelentéssel sem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a minta-munkaszerződés az Mt. 202. § (1) szerint lehetőség, nem keletkezési feltétel; a bejelentés elegendő a keletkezéshez. A minta az Mt. 203. § (4) szerinti 134. § és 155. § (2) mellőzéséhez kell. A helyes: mintaszerződés nélkül is létrejöhet az Efo. viszony bejelentéssel."
+        },
+        {
+          "text": "A munkaviszony a törvényben meghatározott bejelentési kötelezettség teljesítésével jön létre; az aláírt papír önmagában nem keletkeztető aktus.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 202. § (2) bekezdése és az Efo. tv. 3. § (1) bekezdése a munkaviszony keletkezését a törvényben meghatározott bejelentési kötelezettség teljesítéséhez köti. A 44. § írásbelisége nem kötelező, és az aláírt papír sem pótolja az Efo. tv. 11. § szerinti, megkezdés előtti adóhatósági közlést. A konstitutív aktus tehát a bejelentés, nem az aláírás napja."
+        },
+        {
+          "text": "A minta-munkaszerződés lehetőség, nem a keletkezés feltétele; hiánya önmagában nem akadályozza a létesítést, ha a bejelentés megtörténik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 202. § (1) bekezdése a minta-munkaszerződést választásként nyitja meg; a keletkezés feltétele továbbra is a bejelentés. A minta hiánya önmagában nem akadályozza a létesítést, ha a 11. § szerinti bejelentés megtörténik. Ugyanakkor az Mt. 203. § (4) szerinti nyilvántartási-elszámolási mentesség csak a mintaszerződéses úton él."
+        },
+        {
+          "text": "Az aláírás napján a viszony létrejön; a bejelentés csak utólagos adóadminisztráció.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a konstitutív aktus a bejelentés: az Efo. tv. 3. § (1) bekezdése expressis verbis a 11. § teljesítéséhez köti a keletkezést, és az Mt. 202. § (2) ugyanezt mondja. Az aláírás napja önmagában nem keletkeztető tény. A helyes: megkezdés előtti bejelentés nélkül a viszony nem jön létre."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "abb8beec2363"
+    },
+    {
+      "question": "Efo. alkalmi viszonyban a felek minta-munkaszerződést alkalmaznak. A munkáltató egyenlőtlen napi beosztást tervez munkaidőkeret nélkül, és azt állítja, hogy ezért sem munkaidő-nyilvántartást, sem havi bér-elszámolást nem vezet. Az Mt. 203. § szerint mi igaz?",
+      "options": [
+        {
+          "text": "A mintaszerződéses úton a 134. § és a 155. § (2) mellőzhető, de a 155. § (1) havi elszámolása fennmarad; a bérfizetés nem szűnik meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 203. § (4) bekezdése a 134. § és a 155. § (2) mellőzését a minta-munkaszerződéshez köti, de a 155. § (1) havi elszámolása fennmarad. A nyilvántartási mentesség nem szünteti meg a bérfizetést és a legalább havi elszámolást. A helyes elválasztás: (3) beosztás versus (4) feltételes mentesség."
+        },
+        {
+          "text": "A 203. § (3) szerint a napi munkaidő — munkaidőkeret vagy elszámolási időszak hiányában is — beosztható egyenlőtlenül; ez a lex specialis önmagában áll.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 203. § (3) bekezdése szerint a napi munkaidő — munkaidőkeret vagy elszámolási időszak hiányában is — beosztható egyenlőtlenül. Ez a lex specialis a rövid, alkalmi vagy idényjellegű igényhez igazodik, és önmagában áll. A 213. § f) pontja a 203. §-t a kógens 200–207. §-os körbe emeli."
+        },
+        {
+          "text": "Egyenlőtlen napi beosztás csak munkaidőkeret mellett lehetséges Efo.-nál.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 203. § (3) bekezdése expressis verbis engedi az egyenlőtlen napi beosztást munkaidőkeret vagy elszámolási időszak hiányában is. A helyes: az egyenlőtlen beosztás Efo.-nál éppen keret nélkül is lehetséges. A (2) bekezdés a hatályos törzsszövegben üres, a (3) a döntő lex specialis."
+        },
+        {
+          "text": "Mintaszerződés mellett a 155. § (1) havi elszámolása is automatikusan mellőzhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 203. § (4) bekezdése taxatíve a 134. §-t és a 155. § (2) bekezdését említi; a 155. § (1) havi elszámolása nincs a mentességben. A helyes: mintaszerződés mellett is legalább havonta el kell számolni a járó munkabért. A bérfizetés a nyilvántartási mentességtől elválik."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "42a24662715e"
+    },
+    {
+      "question": "Mely állítások tévesek a 213. § kógenciájáról a bedolgozás és az egyszerűsített foglalkoztatás kapcsán?",
+      "options": [
+        {
+          "text": "A 199. § nincs a 213. § felsorolásában, ezért az utasítás terjedelme, az eszköz, az ellenőrzés és a kötetlen munkarend a szakasz saját diszpozitív fordulatai szerint alakítható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, ez is helytálló, ezért nem a téves válaszok közé tartozik. A 199. § nincs a 213. § felsorolásában, ezért az utasítás terjedelme, az eszköz, az ellenőrzés és a kötetlen munkarend a szakasz saját diszpozitív fordulatai szerint alakítható. A bedolgozás kógens magja a 198. § és a 200. §."
+        },
+        {
+          "text": "A 213. § e) pontja a 199. § utasítási, eszköz- és munkarendi szabályait is a kógens listára emeli.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kiválasztandó állítás téves, mert a 213. § e) pontja a 198. §-t zárja, a 199. § pedig nincs a felsorolásban. Az f) pont a 200–207. §-t zárja, ideértve a bedolgozás 200. §-át és az egyszerűsített foglalkoztatás 201–203. §-át. A 199. § belső „eltérő megállapodás hiányában” fordulatai — utasítás, eszköz, ellenőrzés, kötetlen munkarend — alakíthatók."
+        },
+        {
+          "text": "A 213. § f) pontja a 200–207. §-t zárja; ide tartozik a bedolgozás 200. §-a és az egyszerűsített foglalkoztatás 201–203. §-a.",
+          "isCorrect": false,
+          "rationale": "HAMIS, ez a forráshű szabály, ezért a „tévesek” kérdésben nem választandó. A 213. § f) pontja a 200–207. §-t zárja; ide tartozik a bedolgozás 200. §-a és az egyszerűsített foglalkoztatás 201–203. §-a. A kógens záradék a bejelentéssel keletkező viszonyt és a mellőzött Mt.-listát is védi."
+        },
+        {
+          "text": "A 213. § tilalma csak a munkavállaló terhére szóló eltérést zárja ki; a munkavállaló javára a 198. §-tól szabadon el lehet térni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kiválasztandó állítás téves, mert a 213. § tilalma zárt: a felek megállapodása vagy a kollektív szerződés a felsoroltaktól sem a munkavállaló javára, sem a terhére nem térhet el. Az e) pont a 198. § egészét, az f) pont a 200–207. §-t zárja. A „javára szabad” olvasat a kógencia egyirányúságát téveszti el."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "4eb926d8b6a7"
+    },
+    {
+      "question": "Egy panzió turisztikai idénymunkára, egy gyümölcstermesztő mezőgazdasági idénymunkára, egy raktár pedig egynapos alkalmi kisegítésre keres munkaerőt. Mindhárom Efo.-t fontolgat, de a panzió inkább általános Mt. szerinti határozott időt választana. Az Efo. tv. 1. § alapján mi igaz?",
+      "options": [
+        {
+          "text": "A panzió az (5) bekezdés szerint az Mt. általános szabályai szerint is létesíthet munkaviszonyt; az Efo. út nem kényszer.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 1. § (5) bekezdése szerint a törvény szabályai nem zárják ki, hogy a felek az Mt. általános szabályai szerint létesítsenek munkaviszonyt. A panzió tehát szabadon választhatja a „rendes” határozott időt. Az Efo. út lehetőség, nem kényszer, még turisztikai idénymunkánál sem."
+        },
+        {
+          "text": "Mindhárom igény a törvény (1) bekezdésének hatályába eshet (mezőgazdasági / turisztikai idénymunka vagy alkalmi munka), ha a fogalmi feltételek teljesülnek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 1. § (1) bekezdése a hatályt a mezőgazdasági és a turisztikai idénymunkára, valamint az alkalmi munkára szabja. A panzió, a gyümölcstermesztő és a raktári egynapos kisegítés e három körbe eshet, ha a 2. § fogalmi feltételei teljesülnek. A rövid tartam önmagában nem pótolja a hatályi taxációt."
+        },
+        {
+          "text": "Ha a munka rövid tartamú, bármely munkára nyílik Efo., még ha nem idény- vagy alkalmi fogalmi körbe esik sem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 1. § (1) bekezdése taxatív hatályt ad; a rövid tartam önmagában nem nyitja meg a törvényt, ha a munka nem idény- vagy alkalmi fogalmi körbe esik. A hatály a mezőgazdasági és turisztikai idénymunkára, valamint az alkalmi munkára terjed ki, és a 2. § fogalmi taxációja e hatályt pontosítja. A helyes: a fogalmi körön kívüli „rövid munka” az általános Mt. síkján marad."
+        },
+        {
+          "text": "Turisztikai idénymunkánál a felek kötelesek az Efo. utat választani, az általános Mt. tilos.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 1. § (5) bekezdése minden (1) bekezdésbeli esetre — ideértve a turisztikai idénymunkát — engedi az általános Mt. szerinti viszonyt. A helyes: a felek nem kötelesek az Efo. utat választani. Az Mt. 201. § a személyi és érvényességi keretet adja, kötelező úttá azonban nem teszi."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "c3401579ff4c"
+    },
+    {
+      "question": "A munkáltató átlagos statisztikai létszáma három főállású Mt.-munkavállaló. Ugyanarra a naptári napra öt alkalmi Efo.-munkavállalót jelentene be. Az Efo. tv. 1. § (2) szerint mi a helyes megítélés?",
+      "options": [
+        {
+          "text": "Egy–öt főállású mellett a napi alkalmi keret legfeljebb két fő; az öt fő bejelentése a (2) bekezdés b) pontját túllépi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 1. § (2) bekezdés b) pontja egy–öt főállású Mt.-munkavállaló mellett legfeljebb két alkalmi főt enged egy naptári napon. Három főállású ebben a sávban van, ezért az öt fő bejelentése a plafont túllépi. A 8. § (4) bekezdése a létszámkorlát túllépésénél elvonhatja a kedvezményes közterhet."
+        },
+        {
+          "text": "Három főállású mellett a napi alkalmi keret automatikusan öt fő, mert „egy főállású = egy alkalmi”.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 1. § (2) bekezdése sávos plafont ad (egy / kettő / négy fő, illetve a létszám húsz százaléka), nem egy-az-egyhez arányt a főállásúakhoz. Három főállásúnál a b) pont szerint két fő a napi maximum. A helyes: az öt alkalmi bejelentés túllépi a keretet."
+        },
+        {
+          "text": "Főállású Mt.-munkavállaló nélkül a napi keret egy fő lenne; a három főállású a két fős sávba emeli a plafont, de nem öt főre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 1. § (2) bekezdés a) pontja főállású nélkül egy főt, a b) pont egy–öt főállású mellett két főt ad. A három főállású a két fős sávba emeli a plafont, de nem öt főre. Nincs egységes öt fős napi keret; a sávos plafon a főállású létszámhoz igazodik."
+        },
+        {
+          "text": "A létszámkeret csak ajánlás; túllépésnél a kedvezményes közteher megmarad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 8. § (4) bekezdése a létszám-, kereseti- vagy időkorlát túllépésénél a feltételhiány napjától elvonja az (1)–(3) bekezdés kedvezményes rezsimjét. A létszámkeret tehát nem puha ajánlás, hanem a kedvezmény feltétele. A helyes: az 1. § (2) sávos plafonjának betartása a 8. § (2) szerinti közteher alkalmazhatóságához kell."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "d168e7112af9"
+    },
+    {
+      "question": "Ugyanaz a munkavállaló egy naptári évben előbb 100 nap mezőgazdasági idénymunkát, majd 30 nap alkalmi Efo.-t teljesített. Most további 40 nap mezőgazdasági idénymunkát kérnének. Az Efo. tv. 1. § (4)–(4a) szerint mi igaz?",
+      "options": [
+        {
+          "text": "A fel nem használt napok a következő naptári évre átvihetők, ezért a 130 nap „előrehozott” következő évi keret.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 1. § (4) bekezdése naptári éves záradék; a fel nem használt napok átvitelének nincs törvényi alapja. A létszámkeretnél a (3) bekezdés expressis verbis tiltja a következő évre átvitelt; a tartamkorlát is éves. A helyes: a 130 nap nem „előrehozott” következő évi keret."
+        },
+        {
+          "text": "Az idénymunka és az alkalmi munka együttes tartama a (4) szerint naptári évenként százhúsz nap; a már eltöltött 130 nap önmagában túllépi ezt a keretet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 1. § (4) bekezdése szerint, ha a munkavállaló idénymunkára, alkalmi munkára vagy mindkettőre létesít több viszonyt, az együttes tartam naptári évenként a százhúsz napot nem haladhatja meg. A 100 mezőgazdasági + 30 alkalmi nap együtt 130 nap, ami e plafont már túllépi. A további 40 napos kérés e záradékba ütközik."
+        },
+        {
+          "text": "Turisztikai és mezőgazdasági idénymunkánál egyaránt jár a plusz kilencven nap.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 1. § (4a) bekezdése a további kilencven napot kizárólag mezőgazdasági idénymunkára engedi; turisztikai idénymunkánál és alkalmi munkánál a (4) százhúsz napos plafonja marad. A kedvezmény tehát ágazati, nem általános. A 8. § (2) b) pont is csak a mezőgazdasági túlsávra szab 1,125 százalékos közterhet."
+        },
+        {
+          "text": "A (4a) további kilencven napja csak mezőgazdasági idénymunkára nyílik; az alkalmi napok a (4) százhúsz napos keretbe számítanak, és a mezőgazdasági túlsávot nem „tisztítják meg”.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 1. § (4a) bekezdése a plusz kilencven napot kizárólag mezőgazdasági idénymunkára nyitja; az alkalmi napok a (4) százhúsz napos keretbe számítanak. A vegyes 130 napos tartam a (4) plafont sérti, és az alkalmi napok nem „tisztítják meg” a mezőgazdasági túlsávot. A 8. § (2) b) pont a mezőgazdasági túlsáv közterhét 1,125 százalékra emeli."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "12cb08100416"
+    },
+    {
+      "question": "A felek „alkalmi” Efo.-t terveznek: hat egymást követő naptári napot, és ugyanazon hónapban összesen tizennyolc napot. Az Efo. tv. 2. § 3. pontja szerint mi a helyes megítélés?",
+      "options": [
+        {
+          "text": "A havi tizenöt naptári nap plafonját a tizennyolc nap szintén sérti; a két korlát konjunktív, az egyik betartása a másikat nem menti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 2. § 3. pont b) alpontja egy naptári hónapon belül legfeljebb tizenöt naptári napot enged; a tizennyolc nap ezt is sérti. A két időkorlát konjunktív: az egyik betartása a másikat nem oldja fel. Az 1. § (4) százhúsz napos éves keret e fogalomra is ráépülhet több viszonynál."
+        },
+        {
+          "text": "Elegendő, ha csak a havi tizenöt napot tartják be; az öt egymást követő nap vagylagos.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 2. § 3. pontja az öt egymást követő napot és a havi tizenöt napot együttesen követeli meg; a vagylagosságnak nincs törvényi alapja. Mindkét plafont be kell tartani a fogalmi alkalmi munka fennállásához. Az 1. § (2) létszámkeret ettől külön záradék, és az egyik betartása a másikat nem menti."
+        },
+        {
+          "text": "Az öt egymást követő naptári nap plafonját a hat napos sor sérti; a fogalmi alkalmi munka így nem áll fenn.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 2. § 3. pont a) alpontja szerint az alkalmi munka összesen legfeljebb öt egymást követő naptári napig létesíthető. Az Efo. tv. 2. § 3. pontja az alkalmi munkát „összesen legfeljebb öt egymást követő naptári napig” és havi „legfeljebb tizenöt naptári napig” határozza meg. A hat napos sor e fogalmi plafont sérti, ezért a viszony nem alkalmi munka e törvény szerint. A 8. § (4) a fogalmi túllépésnél a kedvezményes közterhet elvonhatja."
+        },
+        {
+          "text": "Ha a munkáltató a napi létszámkeretet betartja, a 5+15 fogalmi plafon automatikusan mellőzhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a napi létszámkeret az Efo. tv. 1. § (2) bekezdése, a fogalmi időkorlát a 2. § 3. pontja — két külön záradék. Az egyik betartása a másikat nem oldja fel. A helyes: a 5+15 napos fogalmi plafon a létszámkeret mellett is kötelező."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "78956a1fd3e8"
+    },
+    {
+      "question": "Egy Kjt. szerinti közalkalmazotti intézmény az alaptevékenységébe tartozó feladatra szeretne Efo. alkalmi munkást; a gazdasági vezető azt mondja, „bejelentjük és kész”. Az Efo. tv. 3. § szerint mi igaz?",
+      "options": [
+        {
+          "text": "Egyébként a viszony a 11. § bejelentésének teljesítésével keletkezik; a bejelentés konstitutív, de a (4) tilalom mellett érvényes létesítés nincs.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 3. § (1) bekezdése a viszony keletkezését a 11. § bejelentésének teljesítéséhez köti, de a (4) bekezdés tilalma mellett érvényes létesítés az alaptevékenységre nincs. A konstitutív bejelentés nem „gyógyítja” a közszférabeli tilalmat. Az Mt. 202. § (2) ugyanezt a keletkezési logikát követi az egyébként megengedett körben."
+        },
+        {
+          "text": "Kjt. munkáltatónál az alaptevékenységre is szabad az Efo., ha a tartam öt napnál rövidebb.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 3. § (4) bekezdése nem a tartamhoz, hanem a munkáltatói körhöz és az alaptevékenységhez kötött tilalom; az öt napnál rövidebb tartam nem nyit kiskaput. Kjt. munkáltatónál az alaptevékenységre az Efo. nem létesíthető. A törvény hatálya egyébként az 1. § (1) szerint a mezőgazdasági és turisztikai idénymunkára, valamint az alkalmi munkára áll."
+        },
+        {
+          "text": "A (4) bekezdés tiltja, hogy a Kjt. 1. § (1) szerinti munkáltató az alaptevékenységébe tartozó feladatra egyszerűsített foglalkoztatást létesítsen.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 3. § (4) bekezdése tiltja, hogy a Kjt. 1. § (1) bekezdése és a Kttv. 1. § (1) bekezdése szerinti munkáltató az alaptevékenységébe tartozó feladatra egyszerűsített foglalkoztatást létesítsen. A közalkalmazotti intézmény alaptevékenységi Efo.-ja tehát tilos. A bejelentés szándéka e tilalmat nem oldja fel."
+        },
+        {
+          "text": "A tilalom csak a Kttv. szerinti közszolgálati tisztviselői munkáltatókra szól; a Kjt. intézmény szabadon Efo.-zhat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 3. § (4) bekezdése expressis verbis a Kjt. 1. § (1) szerinti munkáltatót is említi a Kttv. mellett. A közalkalmazotti intézmény alaptevékenységére sem nyitható egyszerűsített foglalkoztatás. A tilalom mindkét közszférabeli munkáltatói körre szól, nem csupán a közszolgálati tisztviselői oldalra, ezért a „csak Kttv.” olvasat téves."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "a1955ac29818"
+    },
+    {
+      "question": "Efo. alkalmi munkánál a munkáltató a minimálbér 70 százalékát akarja alapbérként fizetni; filmipari statisztánál a napi nettót a minimálbér 15 százalékában tervezi. Az Efo. tv. 4. § szerint mi a helyes?",
+      "options": [
+        {
+          "text": "Alapbérként legalább a kötelező legkisebb munkabér 85 százaléka jár; a 70 százalék a (1a) bekezdés alsó határát sérti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 4. § (1a) bekezdése szerint alapbérként, illetve teljesítménybérként legalább a kötelező legkisebb munkabér 85 százaléka, garantált bérminimum esetén 87 százaléka jár. A tervezett 70 százalék az alsó határt sérti. A közteher megfizetése a bérküszöböt nem helyettesíti, ezért a 85 százalékos minimum külön érvényesül."
+        },
+        {
+          "text": "Efo.-nál nincs alsó bérküszöb, mert a közteher „megváltja” a bért.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 4. § (1a) bekezdése expressis verbis alsó bérküszöböt szab (85/87 százalék); a közteher „megváltása” e küszöböt nem engedi el. A helyes: legalább a minimálbér 85 százaléka jár alapbérként. A 9. § mentesített kerete a magánszemély bevallására vonatkozik, nem a béralsóra."
+        },
+        {
+          "text": "A filmipari statiszta napi nettó jövedelme nem haladhatja meg a tárgyhónap első napján érvényes minimálbér 12 százalékát, száz forintra kerekítve; a 15% a (2) bekezdés plafonját túllépi.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 4. § (2) bekezdése szerint a filmipari statiszta alkalmi munkából származó napi nettó jövedelme nem haladhatja meg a tárgyhónap első napján érvényes minimálbér 12 százalékát, száz forintra kerekítve. A tervezett 15 százalék e plafont túllépi. A 8. § (4) a kereseti korlát túllépésénél a kedvezményes közterhet elvonhatja."
+        },
+        {
+          "text": "A statiszta napi nettó plafonja a minimálbér 20 százaléka.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 4. § (2) bekezdése 12 százalékos napi nettó plafont ír a filmipari statisztára, nem 20 százalékot. A helyes mérték a tárgyhónap első napján érvényes minimálbér 12 százaléka, száz forintra kerekítve. A túllépés a 8. § (4) szerinti szankciót vonhatja maga után."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "e3c5896ed561"
+    },
+    {
+      "question": "Egy harmadik országbeli állampolgár — huzamos tartózkodási jogosultság nélkül — panzióban turisztikai idénymunkát, illetve alkalmi raktári napot vállalna Efo. szerint; mezőgazdasági szüretre is jelentkezik. Az Efo. tv. 5. § szerint mi igaz?",
+      "options": [
+        {
+          "text": "A mezőgazdasági idénymunkához az állami foglalkoztatási szerv a kérelemre megkeresi az egészségbiztosítási és az adóhatóságot a TAJ és az adóazonosító kiadása érdekében.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 5. § (2)–(3) bekezdése szerint az állami foglalkoztatási szerv a kérelemre megkeresi az egészségbiztosítási szervet a TAJ, az adóhatóságot az adóazonosító kiadása érdekében, és az igazolványt közvetlenül a munkavállalónak adják ki. A (4) bekezdés hatósági bizonyítványa a szándékot igazolja, nem a viszonyt hozza létre. A keletkezés továbbra is az Efo. tv. 11. § szerinti bejelentéshez kötött."
+        },
+        {
+          "text": "Huzamos tartózkodás nélkül is turisztikai idénymunka nyitott, ha a munkáltató bejelenti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 5. § (1) bekezdése a turisztikai idénymunkát e kivétel nélkül nem engedi; a bejelentés a tilalmat nem oldja fel. A helyes: huzamos tartózkodás nélkül csak mezőgazdasági idénymunka lehetséges. A huzamos tartózkodó esik ki a szűkítés alól."
+        },
+        {
+          "text": "Alkalmi munkánál a harmadik országbeli szabadon foglalkoztatható, ha a napok száma legfeljebb öt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 5. § (1) bekezdése nem az alkalmi munka öt napos fogalmi plafonjához, hanem az ágazati korláthoz kötött; huzamos tartózkodás nélkül alkalmi út nincs. A helyes: kizárólag mezőgazdasági idénymunka nyitott. A turisztikai és az alkalmi Efo. e személyi körben zárva marad."
+        },
+        {
+          "text": "Huzamos tartózkodás nélkül kizárólag mezőgazdasági idénymunka keretében foglalkoztatható e törvény szerint; a turisztikai és az alkalmi út e személyi körben nem nyitott.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 5. § (1) bekezdése szerint harmadik országbeli állampolgár — a huzamos tartózkodási jogosultság kivételével — kizárólag mezőgazdasági idénymunka keretében foglalkoztatható e törvény szerint. A panziós turisztikai és a raktári alkalmi Efo. e kivétel nélkül tilos. A 2. § 5. pont fogalma e személyi korlát előzménye."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "8445dc8f6c7b"
+    },
+    {
+      "question": "A munkáltató az Efo. bejelentést és a mintaszerződést elintézte, de a munkavégzés megkezdése előtt nem győződik meg a munkavállaló alkalmas állapotáról. Az Efo. tv. 6. § szerint mi állapítható meg?",
+      "options": [
+        {
+          "text": "A 6. § a napi munkára lépés előtti állapotellenőrzést írja elő, nem a foglalkozás-egészségügyi alkalmassági vizsgálat teljes rendjét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 6. § a napi munkára lépés előtti állapotellenőrzést írja elő, nem a foglalkozás-egészségügyi alkalmassági vizsgálat teljes rendjét. A mérce az alkalmas állapot, az időpont a megkezdés előtti, a kötelezett a munkáltató. A közteherfizetési cím a 7. §-tól különül el; az alkalmasság nem adókérdés."
+        },
+        {
+          "text": "Az alkalmasság csak akkor kötelező, ha a felek mintaszerződést alkalmaznak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 6. § nem a mintaszerződéshez kötött; minden egyszerűsített foglalkoztatásra szól. A helyes: a megkezdés előtti állapotellenőrzés a bejelentés és a minta mellett is kötelező. Az Mt. 203. § (4) mentessége a 134. § és a 155. § (2) síkja, nem a 6. §."
+        },
+        {
+          "text": "Ha a bejelentés megtörtént, az alkalmasság vizsgálata mellőzhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 6. § a bejelentéstől független, megkezdés előtti munkáltatói kötelezettség; a 11. § teljesítése az alkalmasság vizsgálatát nem pótolja. A helyes: a keletkezés és az alkalmasság két sík. A mintaszerződéses út sem mentesít e vizsgálat alól."
+        },
+        {
+          "text": "A munkavégzés megkezdése előtt a munkáltatónak meg kell győződnie arról, hogy a munkavállaló a munka elvégzésére alkalmas állapotban van.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 6. § szerint a munkavégzés megkezdése előtt a munkáltatónak meg kell győződnie arról, hogy a munkavállaló a munka elvégzésére alkalmas állapotban van. A bejelentés és a mintaszerződés e vizsgálatot nem pótolja. Az egyszerűsített út tehát nem mentesít a megkezdés előtti állapotellenőrzés alól."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "c1e2c6c0b348"
+    },
+    {
+      "question": "A munkáltató ugyanazon a napon három Efo.-viszonyt jelent: mezőgazdasági idénymunkát (a 120 napon belüli sávban), turisztikai idénymunkát és alkalmi munkát; külön filmipari statisztát is foglalkoztat. A 8. § (2) napi köztehermértékeiről mi a helyes elhatárolás?",
+      "options": [
+        {
+          "text": "A filmipari statiszta alkalmi munkájánál a napi közteher a minimálbér 3 százaléka, száz forintra kerekítve.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 8. § (2) bekezdés e) pontja a filmipari statiszta alkalmi munkájánál a minimálbér 3 százalékát szabja, száz forintra kerekítve. Ez magasabb az általános alkalmi 1,5 százaléknál. A (2a) szerint a közteher szochónak minősül, a Szocho tv. mentességei és kedvezményei nem alkalmazhatók."
+        },
+        {
+          "text": "A mezőgazdasági (a) pont) és a turisztikai (c) pont) idénymunka napi közterhe egyaránt a minimálbér 0,75 százaléka; az alkalmi munka (d) 1,5 százalék.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 8. § (2) bekezdés a) pontja a rendes mezőgazdasági idénymunkát, a c) pont a turisztikai idénymunkát a minimálbér 0,75 százalékában állapítja meg; a d) pont az alkalmi munkát 1,5 százalékban. A három viszony közterhe tehát nem azonos az alkalmi sávban. A mértéket száz forintra kerekítve kell meghatározni."
+        },
+        {
+          "text": "Alkalmi munkánál is 0,75 százalék a napi közteher, ugyanúgy, mint a turisztikai idénymunkánál.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 8. § (2) d) pontja az alkalmi munkát 1,5 százalékban, a c) pont a turisztikai idénymunkát 0,75 százalékban állapítja meg. A két köztehermérték tehát elválik a törvény taxációjában. Az azonos 0,75 százalékos olvasat a d) és c) pont megkülönböztetését tagadja, ezért az alkalmi napi közteher magasabb a turisztikainál."
+        },
+        {
+          "text": "A mezőgazdasági idénymunka 120 napon túli további 90 napjára is 0,75 százalék marad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 8. § (2) b) pontja a mezőgazdasági idénymunka 1. § (4a) szerinti százhúsz napon túli további kilencven napjára 1,125 százalékot szab. A helyes: a túlsáv magasabb közteherrel jár, nem „végigviszi” a 0,75 százalékot. Az a) pont a rendes mezőgazdasági sávot 0,75 százalékban hagyja."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "b085f24232b0"
+    },
+    {
+      "question": "A munkáltató megfizeti a 8. § (2) szerinti napi közterhet egy alkalmi Efo.-napra. Azt kérdezi, marad-e szocho, rehabilitációs hozzájárulás, szja-előleg-levonás, illetve a munkavállalói járulék. A 8. § (3) szerint mi igaz?",
+      "options": [
+        {
+          "text": "A munkavállaló a közteher ellenére teljes Tbj. járulékot fizet, mert „biztosított”.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 8. § (3) b) pontja a tb-járulékot elengedi, a 10. § (1) a) pontja pedig kizárja a Tbj. szerinti biztosítotti minőséget. A helyes: a munkavállaló e körben nem teljes Tbj.-biztosított, és nem fizet tb-járulékot a közteher ellenében. A három ellátás a 10. § (1) b) szerint áll."
+        },
+        {
+          "text": "A közteher mellett a munkáltatónak továbbra is levonnia kell az szja-előleget.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 8. § (3) a) pontja expressis verbis elengedi az Szja tv. szerinti adóelőleg-levonási kötelezettséget a közteher megfizetése mellett. A helyes: a munkáltatónak e címen nem kell szja-előleget levonnia. A 9. § a magánszemély bevallási keretét rendezi, nem az előleg-levonást."
+        },
+        {
+          "text": "A közteher megfizetésével a munkáltatót nem terheli a Szocho tv. 1. § (1) szerinti szocho, a rehabilitációs hozzájárulás és az Szja tv. szerinti adóelőleg-levonás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 8. § (3) bekezdés a) pontja szerint a közteher megfizetésével a munkáltatót nem terheli a Szocho tv. 1. § (1) szerinti szocho, a rehabilitációs hozzájárulás és az Szja tv. szerinti adóelőleg-levonás. A (2a) szerint a közteher szochónak minősül, de a Szocho tv. mentességei/kedvezményei nem alkalmazhatók. A kedvezményes rezsim ellenértéke e tehermentesítés."
+        },
+        {
+          "text": "A közteher megfizetésével a munkavállalót nem terheli társadalombiztosítási járulékfizetési és személyi jövedelemadóelőleg-fizetési kötelezettség.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 8. § (3) bekezdés b) pontja szerint a közteher megfizetésével a munkavállalót nem terheli társadalombiztosítási járulékfizetési és személyi jövedelemadóelőleg-fizetési kötelezettség. Ez nem teszi Tbj.-biztosítottá; az ellátási joghatás az Efo. tv. 10. § külön szabálya. A három ellátási ág a 10. § (1) b) pontjában áll."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "2fc2476f509e"
+    },
+    {
+      "question": "A munkáltató az alkalmi létszámkeretet túllépi, illetve a fogalmi időkorlátot megsérti, de továbbra is a 8. § (2) szerinti kedvezményes közterhet fizeti. Az Efo. tv. 8. § (4) bekezdésének szankciójáról mely állítások igazak?",
+      "options": [
+        {
+          "text": "Ha a munkáltató önkéntesen magasabb közterhet fizet, a létszámkeret túllépése jogkövetkezmény nélkül marad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 8. § (4) bekezdése a létszám-, kereseti- és időkorlát túllépéséhez köti a kedvezményes (1)–(3) bekezdés elvesztését, nem az önkéntesen magasabb összeg megfizetéséhez. Attól a naptól, hogy a feltételek nem teljesülnek, a 8. § (1)–(3) nem alkalmazható. A munkáltató a jogosulatlan alkalmazás tartamáig a 7. § (1) szerinti általános szabályokat köteles alkalmazni."
+        },
+        {
+          "text": "A munkáltató a 7. § (1) bekezdésében meghatározott jogszabályokat köteles alkalmazni a feltétel megsértése feltárásának időpontjától annyi ideig, ameddig az (1)–(3) bekezdést jogosulatlanul alkalmazta.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (4) bekezdés második mondata időarányos visszarendezést ír elő: annyi ideig kell az általános szabályt alkalmazni, ameddig a kedvezményt jogosulatlanul alkalmazták. A szankció tehát nem egyszeri bírság-helyettesítő formulával zárul. A 7. § (1) az Szja tv., Szocho tv. és Tbj. általános rendjére utal."
+        },
+        {
+          "text": "A túllépés csak akkor számít, ha a NAV előzetesen figyelmeztette a munkáltatót; addig a kedvezményes közteher megmarad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 8. § (4) bekezdése a feltételhiány napjától vonja el az (1)–(3) bekezdés alkalmazhatóságát, nem a hatósági figyelmeztetéshez köti. A feltárás időpontja a visszarendezés tartamának számításánál jelenik meg. Az előzetes figyelmeztetés nem törvényi előfeltétel."
+        },
+        {
+          "text": "Attól a naptól, hogy a létszám-, kereseti- vagy időkorlát feltételei nem teljesülnek, a munkáltató a munkavállalóira nem alkalmazhatja a 8. § (1)–(3) bekezdését.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 8. § (4) bekezdése a kedvezményes rezsim elvesztését a feltételhiány napjához köti. A hivatkozott korlátok között szerepel az 1. § (2)–(4), a 2. § 1–3. pont és a 4. § (2) bekezdés. A jogosulatlan alkalmazás nem „hallgatólagosan” folytatható."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "40a86e409a02"
+    },
+    {
+      "question": "A magánszemély egy naptári évben 10 Efo.-napot teljesített; a kifizetett nettó bér összege a napibér×10×130% mentesített keret alatt marad. Filmipari statisztaként külön napokat is vállalt. A 9. § szerint mi a helyes?",
+      "options": [
+        {
+          "text": "A 7. § (2) szerinti foglalkoztatásból származó jövedelemnek a kifizetett (nettó) munkabér száz százalékát kell tekinteni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 9. § (1) bekezdése szerint a 7. § (2) szerinti foglalkoztatásból származó jövedelemnek a kifizetett (nettó) munkabér száz százalékát kell tekinteni. Ez a keretszámítás kiindulópontja a (2) bekezdés mentesített keretéhez. A filmipari statiszta bevételére a (4) bekezdés külön, teljes kivételt ad a magánszemélyi bevallás alól."
+        },
+        {
+          "text": "A mentesített keret alatt a munkáltatói napi közteher is automatikusan elmarad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 9. § a magánszemély bevallási tehermentessége; a 8. § munkáltatói napi közterhe külön sík, és a keret alatt is jár. A helyes: a mentesített keret nem engedi el a munkáltatói közterhet. A 8. § (1)–(2) a 7. § (2) szerinti foglalkoztatáshoz köti a közteherfizetést."
+        },
+        {
+          "text": "Filmipari statisztánál is a (2) keretszabály az egyetlen út; a (4) nem ad teljes kivételt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 9. § (4) bekezdése expressis verbis eltér a (2)–(3) bekezdéstől: a filmipari statisztaként végzett alkalmi munkából származó bevételből nem kell jövedelmet megállapítani és bevallást benyújtani. A helyes: a (4) teljes kivétel, nem csupán a (2) keretszabály. A 4. § (2) napi nettó plafonja e mellett áll."
+        },
+        {
+          "text": "Ha a bevétel nem haladja meg a naptári napok száma és a minimálbér (vagy adott esetben a garantált bérminimum) napibérének 130 százalékából számított mentesített keretet, nem kell jövedelmet megállapítani és bevallást benyújtani; a filmipari statiszta bevételéből pedig a (4) szerint egyáltalán nem kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 9. § (2) bekezdése szerint nem kell jövedelmet megállapítani és bevallást benyújtani, ha a bevétel nem haladja meg a naptári napok száma és a minimálbér — vagy adott esetben a garantált bérminimum — napibérének 130 százalékából számított mentesített keretet. A (4) bekezdés a filmipari statiszta bevételét teljesen kiveszi a magánszemélyi bevallás alól. A munkáltatói napi közteher az Efo. tv. 8. § szerint ettől függetlenül jár."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "60620b46e1c8"
+    },
+    {
+      "question": "Alkalmi Efo.-nap után a munkavállaló táppénzt igényelne az Ebtv. általános szabályai szerint, mert „három ellátásra jogosult”. A 10. § alapján mi a helyes elhatárolás?",
+      "options": [
+        {
+          "text": "Alkalmi munkánál a nyugellátási alap a minimálbér 2,1 százaléka, mint a turisztikai idénymunkánál.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 10. § (2) szerint a turisztikai (és rendes mezőgazdasági) sáv 2,1 százalék, az alkalmi 4,2 százalék. A helyes: alkalmi munkánál a nyugellátási alap 4,2 százalék, nem 2,1. A két mérték a 8. § (2) c) és d) pontjához igazodik."
+        },
+        {
+          "text": "Alkalmi munkánál a nyugellátás napi számítási alapja a tárgyhónap első napján érvényes minimálbér 4,2 százaléka, száz forintra kerekítve.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 10. § (2) bekezdés d) pontja szerint alkalmi munkánál — a 8. § (2) d) pont szerinti közteherhez igazodva — a nyugellátás napi számítási alapja a tárgyhónap első napján érvényes minimálbér 4,2 százaléka, száz forintra kerekítve. A mezőgazdasági/turisztikai rendes sáv 2,1 százalék, a statiszta 8,4 százalék. A mértékek a közteherpontokhoz kötöttek."
+        },
+        {
+          "text": "Mivel három ellátásra jogosult, a munkavállaló Tbj. szerinti biztosítottnak minősül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 10. § (1) a) pontja expressis verbis kizárja a Tbj. szerinti biztosítotti minőséget; a három ellátás a b) pont taxációja, nem teljes biztosítotti státusz. A helyes: a munkavállaló e törvény alapján nem Tbj.-biztosított. Az általános táppénz ebből önmagában nem következik."
+        },
+        {
+          "text": "A 7. § (2) szerinti foglalkoztatott e törvény alapján nem minősül a Tbj. szerinti biztosítottnak; az Ebtv. általános táppénzrendje e listán nem szerepel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 10. § (1) bekezdés a) pontja kizárja a Tbj. szerinti biztosítotti minőséget; a b) pont taxatíve nyugellátást, baleseti egészségügyi szolgáltatást és álláskeresési ellátást nevesít. Az Ebtv. általános táppénzrendje e listán nem szerepel. A háromágú jogosultság tehát nem nyit általános táppénzt."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "a4c1cf37f3e3"
+    },
+    {
+      "question": "A munkáltató a munka megkezdése előtt telefonos ügyfélszolgálaton akarja teljesíteni az Efo. bejelentést, és bizonytalan, mely adatokat kell közölni. A 11. § (1)–(2) szerint mi igaz?",
+      "options": [
+        {
+          "text": "A bejelentés a tárgyhót követő hó 12-éig is elegendő, mert ez a közteher határideje.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 11. § (1) a keletkezési bejelentést a megkezdés előtt követeli; a (4) bekezdés szerinti tárgyhót követő hó 12-e a közteher és az elektronikus bevallás határideje. A két határidő tehát elválik egymástól, és nem helyettesíthető. A 12-e nem pótolja a megkezdés előtti közlést, és a viszony keletkezése a korábbi, konstitutív aktushoz kötött."
+        },
+        {
+          "text": "Közlendő többek között a munkavállaló neve, a munkáltató adószáma, a munkavállaló adóazonosító jele és TAJ-száma, a foglalkoztatás 1. § (1) szerinti jellege és a munkaviszony napjainak száma.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 11. § (2) bekezdés a)–e) pontja szerint közlendő a munkavállaló neve, a munkáltató adószáma, a munkavállaló adóazonosító jele és TAJ-száma, a foglalkoztatás 1. § (1) szerinti jellege és a munkaviszony napjainak száma. A jelleg és a napszám a hatály és a közteher szempontjából is döntő. A (3) bekezdés a más államban fennálló biztosítást egyidejűleg köti bejelenteni."
+        },
+        {
+          "text": "A bejelentés a munkavégzés megkezdése előtt kötelező; teljesíthető elektronikus azonosítás utáni elektronikus kapcsolattartással vagy országos telefonos ügyfélszolgálaton.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 11. § (1) bekezdése szerint a munkáltató a munkavégzés megkezdése előtt köteles bejelenteni az adatokat; a csatorna elektronikus azonosítás utáni elektronikus kapcsolattartás vagy országos telefonos ügyfélszolgálat. A megkezdés utáni „pótlás” a keletkezési szabályt sérti. Az Mt. 202. § (2) a bejelentéshez köti a keletkezést."
+        },
+        {
+          "text": "Telefonos bejelentés érvénytelen; csak elektronikus út él.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 11. § (1) b) pontja expressis verbis engedi az országos telefonos ügyfélszolgálaton keresztüli bejelentést. A helyes: a telefonos út érvényes csatorna az elektronikus mellett. A keletkezés szempontjából a megkezdés előtti teljesítés a döntő."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "ff931638f428"
+    },
+    {
+      "question": "A munkáltató az Efo. közterhet a tárgyhó 20-án szeretné megfizetni, és a 8. § (2)/(3) a) szerinti adók tekintetében 350 ezer forint tartozása van. A 11. § (4)–(5) szerint mi a helyes?",
+      "options": [
+        {
+          "text": "A közteher a tárgyhó utolsó napjáig is fizethető késedelmi kamat nélkül, törvényi határidőként.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 11. § (4) bekezdése a tárgyhót követő hó 12-ét szabja törvényi határidőként; a tárgyhó utolsó napja nem pótolja. A helyes: a közterhet a következő hó 12-éig kell teljesíteni. A késedelmi következmények az Art. rendje szerint értékelendők, de a határidő a 11. § (4)."
+        },
+        {
+          "text": "A 300 ezer forintos küszöb csak figyelmeztetés; a további Efo. szabadon folytatható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 11. § (5) bekezdése expressis verbis elzárja a további Efo. jogosultságot a kiegyenlítésig, ha a tartozás eléri vagy meghaladja a 300 ezer forintot. A 350 ezer forintos tartozás mellett új Efo. nem nyitható. A küszöb nem csupán figyelmeztetés, hanem létesítési tilalom a tartozás alatt."
+        },
+        {
+          "text": "A közteher-fizetési és elektronikus bevallási kötelezettség a tárgyhót követő hó 12-éig áll; a tárgyhó 20-a e határidőt nem teljesíti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 11. § (4) bekezdése szerint a munkáltató a tárgyhót követő hó 12-éig tesz eleget a közteher-fizetési kötelezettségének, és eddig az időpontig vall be elektronikusan. A tárgyhó 20-a e törvényi határidőt nem teljesíti. A 8. § (7) a közteher mértékét a munkavégzés napjához köti, a fizetési határidőt a 11. § (4) adja."
+        },
+        {
+          "text": "A 300 ezer forintot elérő vagy meghaladó ilyen adótartozás mellett a munkáltató további egyszerűsített foglalkoztatásra nem jogosult a kiegyenlítésig.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 11. § (5) bekezdése szerint a 300 ezer forintot elérő vagy meghaladó, a 8. § (2) és/vagy (3) a) pont szerinti adótartozás mellett a munkáltató további egyszerűsített foglalkoztatásra nem jogosult a kiegyenlítésig. A 350 ezer forint a küszöb felett van, ezért új Efo. nem nyitható. A szakasz a további létesítést zárja, nem a már bejelentett napot törli vissza."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "ed6b9522300a"
+    },
+    {
+      "question": "Egyszerűsített foglalkoztatásnál a munkáltató átirányítást, hátrányos jogkövetkezményt és szabadságkiadást szeretne az általános Mt. szerint alkalmazni. Az Mt. 203. § (1) bekezdésének mellőzött szabályairól mi állapítható meg?",
+      "options": [
+        {
+          "text": "A 203. § (1) csak ajánlás; a felek a kollektív szerződésben visszahozhatják a szabadság szabályait.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 213. § f) pontja a 200–207. §-t — így a 203. §-t is — zárja: a felek megállapodása vagy a kollektív szerződés nem térhet el. A 203. § (1) bekezdés taxatív mellőzése ezért nem diszpozitív ajánlás, amelyet KSZ-szel vissza lehetne kapcsolni. A szabadság 126–133. §-ának alkalmazása e kógens záradékba ütközik, mert a lista e szakaszokat is kizárja."
+        },
+        {
+          "text": "A munkaviszonyra többek között az 53. § (átirányítás), az 56. § (hátrányos jogkövetkezmény), valamint a 122–124. § és a 126–133. § (szabadsággal összefüggő szabályok) nem alkalmazhatók.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 203. § (1) bekezdés b), c), k) és l) pontja e köröket kifejezetten kizárja a taxatív listán. Ami a listán szerepel, az az egyszerűsített vagy alkalmi viszonyra nem alkalmazható. A 213. § f) pontja a 203. §-t kógenssé teszi, ezért a felek a mellőzést megállapodással nem írhatják felül."
+        },
+        {
+          "text": "A 203. § (1) bekezdés a munkaszerződés módosításának 49. § (2) bekezdését, a vezetőre vonatkozó 208–211. §-t és a 192. § (4) bekezdését is a nem alkalmazható szabályok közé sorolja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 203. § (1) bekezdés a), m) és n) pontja e szabályokat is kizárja. Az egyszerűsített viszony tehát nem „kis Mt.” minden intézményével, hanem a taxatív mellőzésekkel szűkített alakzat. A keletkezés bejelentéshez kötött volta (202. § (2)) e szűkítéssel együtt olvasandó."
+        },
+        {
+          "text": "Az átirányítás és a hátrányos jogkövetkezmény az egyszerűsített foglalkoztatásnál is alkalmazható, mert a 203. § csak a szabadságot mellőzi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 203. § (1) bekezdés b) és c) pontja az 53. §-t és az 56. §-t is a nem alkalmazható szabályok közé sorolja, nemcsak a szabadságot. A taxatív lista több Mt.-intézményt érint, köztük az átirányítást és a hátrányos jogkövetkezményt. Az „csak szabadság” olvasat indokolatlanul szűkíti a mellőzést."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "9a5af18f1573"
+    },
+    {
+      "question": "A munkáltató a tárgyévben 40 napi alkalmi keretnapot fel nem használt, és ezt a következő év januárjára „átvinné”; emellett a fennmaradó tárgyévi keretet csúcsnapokra koncentrálná. Az 1. § (3) szerint mi igaz?",
+      "options": [
+        {
+          "text": "Az egyenlőtlen beosztás engedi, hogy a csúcsnapon a (2) bekezdés sávos plafonja feletti létszámot alkalmazzanak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 1. § (3) bekezdése az egyenlőtlen beosztással a tárgyév napjaira történő felhasználás ütemezését engedi, nem a (2) bekezdés sávos napi maximumának felemelését. A helyes: a csúcsnapon is a (2) a)–d) pont szerinti főszám a plafon. A keret túllépése a 8. § (4) szerint a kedvezmény elvesztéséhez vezethet."
+        },
+        {
+          "text": "A napi alkalmi létszámkeret a tárgyév napjaira egyenlőtlenül is beosztható, a 2. § 3. pont fogalmára is figyelemmel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 1. § (3) bekezdése szerint a (2) bekezdésben meghatározott napi alkalmi létszámkeret a tárgyév napjaira egyenlőtlenül is beosztható, a 2. § 3. pont fogalmára is figyelemmel. A rugalmasság az ütemezésé, nem a (2) sávos napi maximum felemeléséé. A csúcsnapon is a (2) a)–d) pont szerinti főszám a plafon."
+        },
+        {
+          "text": "A tárgyévben fel nem használt létszámkeret a következő naptári évre nem vihető át; a 40 nap „átvitele” tilos.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 1. § (3) bekezdése expressis verbis kimondja, hogy a tárgyévben fel nem használt létszámkeret a következő naptári évre nem vihető át. A 40 nap „átvitele” tehát tilos; a bejelentés vagy a felek megállapodása e tilalmat nem oldja fel. Az egyenlőtlen beosztás csak az adott éven belül marad."
+        },
+        {
+          "text": "Ha a munkáltató a NAV-nak bejelenti, a fel nem használt keret átvihető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 1. § (3) szerinti átviteli tilalom törvényi; a NAV-nak tett bejelentés nem felhatalmazás a következő évre átvitelre. A helyes: a fel nem használt keret az év végén elvész. Az egyenlőtlen beosztás csak a tárgyéven belüli ütemezést nyitja meg."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "06034a7d6ac1"
+    },
+    {
+      "question": "Mezőgazdasági szüretre a felek Efo. idénymunkát fontolgatnak, de a munkavállaló inkább „rendes” határozott idejű Mt. szerződést kér. A munkáltató azt állítja, hogy a hatályba esés miatt kötelező az Efo. Az 1. § (5) és a fogalmi kör alapján mi igaz?",
+      "options": [
+        {
+          "text": "Ha mégis Efo.-t választanak, a viszony a 11. § megkezdés előtti bejelentésével keletkezik; az általános Mt. választása esetén e bejelentés nem a keletkezési aktus.",
+          "isCorrect": true,
+          "rationale": "IGAZ, ha a felek mégis Efo.-t választanak, a viszony az Efo. tv. 3. § (1) és 11. § szerinti, megkezdés előtti bejelentéssel keletkezik. Az általános Mt. választása esetén e bejelentés nem a keletkezési aktus. A két út nem keverhető; az Mt. 202. § (2) az Efo. keletkezését a bejelentéshez köti."
+        },
+        {
+          "text": "Mezőgazdasági idénymunkánál az Efo. kötelező, az általános Mt. tilos.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 1. § (5) bekezdése expressis verbis engedi az általános Mt. szerinti viszonyt mezőgazdasági idénymunkánál is. A helyes: az Efo. lehetőség, nem kényszer. Az Mt. 201. § a személyi és érvényességi keretet adja, kötelező úttá azonban nem teszi."
+        },
+        {
+          "text": "Az (5) bekezdés szerint a törvény szabályai nem zárják ki az Mt. általános szabályai szerinti munkaviszonyt az (1) bekezdésbeli esetekben sem.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 1. § (5) bekezdése szerint a törvény szabályai nem zárják ki az Mt. általános szabályai szerinti munkaviszonyt az (1) bekezdésbeli esetekben sem. A mezőgazdasági idénymunka hatályba esése tehát nem kötelezi az efo. alakzatot. A munkavállaló kérheti a „rendes” határozott idejű Mt. szerződést."
+        },
+        {
+          "text": "Ha a felek általános Mt.-t választanak, akkor is az Efo. tv. 8. § napi közterhe alkalmazandó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 8. § a 7. § (2) szerinti egyszerűsített foglalkoztatásra szabott; az általános Mt. viszonyra az általános adótörvények irányadók. Ha a felek Mt. szerinti szerződést választanak, a 8. § napi közterhe nem alkalmazandó. A közteher-jogcím az alakzathoz kötött, nem a munka „rövid” jellegéhez."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "0026ee05076b"
+    },
+    {
+      "question": "A termelő a megtermelt almát csomagolná és raktározná Efo. mezőgazdasági idénymunkában; emellett ugyanott aszalóüzemben továbbfeldolgozást is végeztetne. A 2. § 1. pont alapján mi a helyes?",
+      "options": [
+        {
+          "text": "Az aszalóüzemi továbbfeldolgozás nem minősül mezőgazdasági idénymunkának e törvény szerint, még akkor sem, ha a termék saját termés.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 2. § 1. pontja a továbbfeldolgozást kifejezetten kivonja; a saját termés e kivételt nem oldja fel. Az aszalóüzemi továbbfeldolgozás tehát nem mezőgazdasági idénymunka e törvény szerint. A fogalmi határ a kedvezményes efo. út megnyílásának feltétele, és a csomagolás–anyagmozgatás ettől elválik."
+        },
+        {
+          "text": "A továbbfeldolgozás is mezőgazdasági idénymunka, ha a munkáltató termelő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 2. § 1. pontja expressis verbis kivonja a továbbfeldolgozást; a termelői minőség e kivételt nem oldja fel. A helyes: a továbbfeldolgozás nem mezőgazdasági idénymunka. Az anyagmozgatás és a csomagolás a továbbfeldolgozás kivételével tartozik a körbe."
+        },
+        {
+          "text": "Csak a vadászat esik kívül a fogalmon; a továbbfeldolgozás bent van.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 2. § 1. pontja a vadászatot az ágazati listán szerepelteti; a továbbfeldolgozás a kivétel. A helyes: a vadászat bent van, a továbbfeldolgozás kiesik. A saját termésű termék aszalása továbbfeldolgozásnak minősül."
+        },
+        {
+          "text": "A megtermelt mezőgazdasági termék anyagmozgatása és csomagolása — a továbbfeldolgozás kivételével — a mezőgazdasági idénymunka fogalmába tartozhat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 2. § 1. pontja szerint mezőgazdasági idénymunka a növénytermesztési, erdőgazdálkodási, állattenyésztési, halászati, vadászati ágazatba tartozó munkavégzés, továbbá a megtermelt termék anyagmozgatása és csomagolása — a továbbfeldolgozás kivételével. Az alma csomagolása és anyagmozgatása e körbe tartozhat. A továbbfeldolgozás kivétele expressis verbis áll."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "cd860d5f0198"
+    },
+    {
+      "question": "Ugyanarra a gyártósori kisegítésre a munkáltató két jelöltet néz: az egyik otthon, saját eszközzel, darabbérre bedolgozna; a másik a telephelyen három napra Efo. alkalmi munkát vállalna. Mely elhatároló következmények helytállóak?",
+      "options": [
+        {
+          "text": "A bedolgozói útnál — eltérő megállapodás hiányában — a saját eszköz és a kötetlen munkarend a 199. § főszabálya; az Efo. keletkezése ettől függetlenül a 11. § bejelentéséhez kötött.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a bedolgozásnál — eltérő megállapodás hiányában — a saját eszköz és a kötetlen munkarend az Mt. 199. § (2) és (4) főszabálya; az Efo. keletkezése ettől függetlenül az Efo. tv. 11. § megkezdés előtti bejelentéséhez kötött. A kötetlen munkarend nem pótolja az Efo. bejelentést, a bejelentés nem teszi bedolgozóvá a munkavállalót. A két sík: Mt. 198–200. § versus Mt. 201–203. § + Efo. tv."
+        },
+        {
+          "text": "Ha mindketten „rövid” munkát végeznek, mindkettőre az Efo. tv. 8. § közterhe alkalmazandó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rövid tartam nem egyesíti a közteher-jogcímeket; az Efo. tv. 8. § a 7. § (2) szerinti egyszerűsített foglalkoztatásra szabott. A helyes: a bedolgozó díjazása a 198. § teljesítménybére és a 200. § költségtérítése, az Efo. közterhe a 8. §. A munkarend azonossága sem moshatja össze a jogcímeket."
+        },
+        {
+          "text": "A bedolgozói szerződés érvényességéhez is kell a 11. § adóhatósági bejelentés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 11. § az egyszerűsített foglalkoztatás keletkezési aktusa az Efo. tv. 3. § (1) és az Mt. 202. § (2) szerint. A bedolgozás az Mt. 198. § szerinti szerződéses tartalommal létesül, nem az adóhatósági közléssel. A helyes: a bejelentés bedolgozásra nem kötelező keletkezési feltétel."
+        },
+        {
+          "text": "A telephelyi alkalmi munkánál az 5 egymást követő nap és a havi 15 nap fogalmi plafon, valamint a napi létszámkeret érvényesül; A bedolgozására ezek az Efo.-korlátok nem irányadók.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. alkalmi munkánál az Efo. tv. 2. § 3. pont 5+15 napos fogalmi plafonja és az 1. § (2) napi létszámkeret érvényesül; a bedolgozásra ezek nem irányadók. A bedolgozás feltételei az Mt. 198. § (1) szerint az önállóan végezhető munka és a kizárólagos teljesítménybér. A létszám- és Efo.-időkorlát átvitele a bedolgozásra alaptalan."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "6cfde52161da"
+    },
+    {
+      "question": "Mely állítások tévesek az egyszerűsített foglalkoztatás keletkezéséről és a mintaszerződés joghatásáról?",
+      "options": [
+        {
+          "text": "A mintaszerződés alkalmazása a 134. § és a 155. § egészének mellőzését eredményezi, ideértve a 155. § (1) havi elszámolását is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kiválasztandó állítás téves, mert az Mt. 203. § (4) a 134. §-t és csak a 155. § (2) bekezdését említi; a 155. § (1) havi elszámolása fennmarad. A mintaszerződés a nyilvántartást és az írásos elszámolási tájékoztatást engedi el, nem a bérfizetést. Az egész 155. § mellőzésének olvasata a taxációt sérti, ezért választandó a „tévesek” kérdésben."
+        },
+        {
+          "text": "Mintaszerződés nélkül a 134. § nyilvántartási kötelezettsége az egyszerűsített viszonyra fennmarad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, ez is helytálló: az Mt. 203. § (4) mentessége feltételes, mintaszerződéshez kötött. Mintaszerződés nélkül a 134. § nyilvántartási kötelezettsége az egyszerűsített viszonyra fennmarad. Ezért ez az állítás nem a téves válaszok közé tartozik."
+        },
+        {
+          "text": "A minta-munkaszerződés lehetőség; a keletkezés feltétele a bejelentés, nem a minta.",
+          "isCorrect": false,
+          "rationale": "HAMIS, ez a forráshű szabály az Mt. 202. § (1)–(2) szerint, ezért a „tévesek” kérdésben nem választandó. A minta-munkaszerződés lehetőség; a keletkezés feltétele a bejelentés. Az Efo. tv. 3. § (1) ugyanezt a keletkezési logikát rögzíti a 11. § mellett."
+        },
+        {
+          "text": "A viszony az írásba foglalás napján keletkezik; a 11. § szerinti bejelentés csak adójogi utólagos teher.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kiválasztandó állítás téves, mert az Mt. 202. § (2) és az Efo. tv. 3. § (1) a bejelentéshez köti a keletkezést; az írásba foglalás napja önmagában nem konstitutív. Az Efo. tv. 11. § a megkezdés előtti közlést követeli. A 44. § írásbelisége nem kötelező, és a papír sem pótolja a bejelentést."
+        }
+      ],
+      "sourceKerdesSorszam": 29,
+      "sourceHash": "f125a243f45f"
+    },
+    {
+      "question": "A munkáltató más tagállamban biztosított munkavállalót foglalkoztatna Efo. szerint, és a 11. § (3) szerinti igazolással rendelkezik. Az Efo. tv. 8. § (5) és a 10. § (3) együttes olvasatáról mi igaz?",
+      "options": [
+        {
+          "text": "Ha a munkavállaló másik tagállamban vagy egyezményes államban biztosított, és a megfelelő igazolással rendelkezik, a munkáltató közterhet nem fizet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 8. § (5) bekezdése a köztehermentességet e feltételekhez köti. A 11. § (3) bekezdése szerinti igazolás vagy az egyezményes igazolás a törvényi feltétel. A mentesség tehát nem automatikus a külföldi állampolgárságból."
+        },
+        {
+          "text": "A 8. § (5) szerinti személy nyugellátásra, baleseti egészségügyi szolgáltatásra és álláskeresési ellátásra nem szerez jogosultságot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 10. § (3) bekezdése e három ellátási ágból kiveszi a 8. § (5) szerinti személyt. A köztehermentesség és az ellátásból való kiesés együtt jár. A belföldi 10. § (1) b) pont háromága tehát nem illeti meg."
+        },
+        {
+          "text": "A köztehermentesség mellett a munkavállaló akkor is megszerzi a három ellátásra a jogosultságot, ha Magyarországon végez munkát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 10. § (3) bekezdése kifejezetten kizárja a 8. § (5) szerinti személyt a nyugellátás, a baleseti egészségügyi szolgáltatás és az álláskeresési ellátás jogosultságából. A magyarországi munkavégzés ténye e kizárást nem oldja fel. A köztehermentesség ellenértéke az ellátási oldalon is megjelenik."
+        },
+        {
+          "text": "A más államban fennálló biztosítást elég a tárgyhó végén bejelenteni; az egyidejűség nem követelmény.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 11. § (3) bekezdése szerint a más tagállamban vagy egyezményes államban fennálló biztosítást az egyszerűsített foglalkoztatás bejelentésével egyidejűleg kell közölni az állami adóhatósággal. Az Efo. tv. 8. § (5) bekezdésének köztehermentessége ehhez az egyidejű bejelentési rendhez kapcsolódik. A hónap végi utólagos közlés sem az egyidejűséget, sem a mentesség feltételeit nem pótolja."
+        }
+      ],
+      "sourceKerdesSorszam": 30,
+      "sourceHash": "5908c1deb47d"
+    },
+    {
+      "question": "Mintaszerződés nélküli Efo. alkalmi viszonyban a munkáltató nem vezet 134. § szerinti munkaidő-nyilvántartást, mert „az Efo. mindig mentesít”. Az Mt. 203. § (4) és a 134. § alapján mi igaz?",
+      "options": [
+        {
+          "text": "A 134. § a rendes és rendkívüli munkaidő, a készenlét és a szabadság tartamának nyilvántartását követeli; mintaszerződés nélkül e kötelezettség az Efo.-ra is él.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 134. § a rendes és rendkívüli munkaidő, a készenlét és a szabadság tartamának nyilvántartását követeli, és a (2) bekezdés a kezdő-befejező időpont naprakészségét is előírja. Az Mt. 203. § (4) mentessége csak a minta-munkaszerződés alkalmazásához kötött. Mintaszerződés nélkül e kötelezettség az Efo.-ra is él."
+        },
+        {
+          "text": "A mentesség a teljes 134. §-ra kiterjedhet, de csak akkor, ha a felek mintaszerződéssel kötötték az egyszerűsített vagy alkalmi szerződést.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 203. § (4) bekezdése a teljes 134. § mellőzését engedi, de csak akkor, ha a felek minta-munkaszerződéssel kötötték az egyszerűsített vagy alkalmi szerződést. A puszta bejelentés a nyilvántartási mentességet nem nyitja meg. A 135. § (1) h) pont a 134. §-tól a felek megállapodását is eltiltja a rendes körben; az Efo. mentesség feltételes lex specialis."
+        },
+        {
+          "text": "Minden Efo. viszony automatikusan mentes a 134. § alól, mintaszerződés nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 203. § (4) mentessége feltételes; nem minden Efo. viszony automatikusan mentes a 134. § alól. A helyes: mintaszerződés nélkül a nyilvántartás fennmarad. A „mindig mentesít” olvasat a (4) bekezdés szövegével ellentétes."
+        },
+        {
+          "text": "A 134. § csak a szabadság nyilvántartására vonatkozik Efo.-nál; a munkaidő naprakészsége soha nem kötelező.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 134. § (1)–(2) a munkaidő és a készenlét kezdő-befejező időpontjának naprakészségét is követeli, ha a 203. § (4) mentesség nem él. A nyilvántartás nem csupán a szabadságra szűkül. A mentesség hiányában a teljes 134. § irányadó az egyszerűsített viszonyra is."
+        }
+      ],
+      "sourceKerdesSorszam": 31,
+      "sourceHash": "f85044d87ea5"
+    },
+    {
+      "question": "Mintaszerződéses Efo.-viszonyban a munkáltató a tárgyhónapot követő hónap 10. napjáig nem ad írásbeli bérelszámolási tájékoztatást, és a havi elszámolást is elhagyja. A 203. § (4) és a 155. § szerint mi a helyes?",
+      "options": [
+        {
+          "text": "A 155. § (1) havi elszámolása, a (3) ellenőrizhetőség és a (4) módosítási rend nem e mentesség tárgya; a havi elszámolás elhagyása ezért nem fedett.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 155. § (1) havi elszámolása, a (3) ellenőrizhetőség és a (4) módosítási rend nem a 203. § (4) mentesség tárgya. A mintaszerződés a tájékoztatást engedi el, nem a bér-elszámolást és a fizetést. A havi elszámolás elhagyása ezért nem fedett a mentességgel."
+        },
+        {
+          "text": "Mintaszerződés mellett a 155. § egésze — ideértve az (1) bekezdést — mellőzhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 203. § (4) csak a 155. § (2) bekezdését említi; a 155. § egésze — ideértve az (1) bekezdést — nem mellőzhető. Mintaszerződés mellett is legalább havonta el kell számolni a járó munkabért az (1) bekezdés szerint. Az egész szakasz mellőzésének olvasata a taxációt sérti, ezért a havi elszámolás elhagyása nem fedett."
+        },
+        {
+          "text": "A tizedik napi tájékoztatás mintaszerződés mellett is kötelező, mert a 203. § (4) csak a 134. §-t említi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 203. § (4) expressis verbis a 155. § (2) bekezdését is említi a 134. § mellett; a tizedik napi tájékoztatás mintaszerződés mellett mellőzhető. A tájékoztatás elhagyható, a havi elszámolás nem. A két bekezdés elválik, és a bérfizetés a mentességtől független."
+        },
+        {
+          "text": "A 203. § (4) a 155. §-ból csak a (2) bekezdést veszi ki: a tizedik napi írásbeli tájékoztatás mintaszerződéses úton mellőzhető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 203. § (4) a 155. §-ból csak a (2) bekezdést veszi ki: a tárgyhónapot követő hónap tizedik napjáig adandó írásbeli tájékoztatás mintaszerződéses úton mellőzhető. A mentesség taxatív, nem terjed ki a havi elszámolásra. A (2) bekezdés elhagyása önmagában nem jogsértő, ha a felek mintaszerződést alkalmaztak, a 155. § (1) szerinti legalább havi elszámolás azonban fennmarad."
+        }
+      ],
+      "sourceKerdesSorszam": 32,
+      "sourceHash": "e1c313e14705"
+    },
+    {
+      "question": "Filmipari statiszta alkalmi napján a munkáltató a napi nettót a minimálbér 12%-a alatt tartja, és a közterhet az általános alkalmi 1,5%-kal számolja. A 4. § (2) és a 8. § (2) e) pont alapján mi igaz?",
+      "options": [
+        {
+          "text": "Ha a nettó a 12% alatt van, a közteher automatikusan 0 forint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 4. § (2) nettó plafon és a 8. § (2) e) pont 3 százalékos köztehermértéke két külön szabály; a plafon betartása nem teszi nullára a közterhet. A helyes: a 3 százalék közteher a nettó plafon mellett is jár. A (2a) szerint a közteher szochónak minősül."
+        },
+        {
+          "text": "A napi nettó nem haladhatja meg a tárgyhónap első napján érvényes minimálbér 12 százalékát, száz forintra kerekítve; a plafon alatti tartás e követelménynek megfelel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 4. § (2) bekezdése szerint a filmipari statiszta alkalmi munkából származó napi nettó jövedelme nem haladhatja meg a tárgyhónap első napján érvényes minimálbér 12 százalékát, száz forintra kerekítve. A plafon alatti tartás e követelménynek megfelel. A plafon betartása a kedvezményes rezsim feltételeinek egyike."
+        },
+        {
+          "text": "A filmipari statiszta alkalmi munkájánál a napi közteher a minimálbér 3 százaléka, nem az általános alkalmi 1,5 százalék.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 8. § (2) bekezdés e) pontja a filmipari statiszta alkalmi munkájánál a minimálbér 3 százalékát szabja napi közteherként, száz forintra kerekítve. Az általános alkalmi d) pont 1,5 százaléka e sávra nem irányadó. A statiszta külön közteher-pont, magasabb mértékkel."
+        },
+        {
+          "text": "A statiszta közterhe megegyezik a turisztikai idénymunka 0,75 százalékával.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a turisztikai idénymunka közterhe az Efo. tv. 8. § (2) c) pont szerint 0,75 százalék, a filmipari statisztáé az e) pont szerint 3 százalék. A statiszta nem a turisztikai sávot örökli. A két mérték elválik, és a kerekítés a (2) bekezdés záró fordulata szerint száz forintra történik."
+        }
+      ],
+      "sourceKerdesSorszam": 33,
+      "sourceHash": "75527d83be0e"
+    },
+    {
+      "question": "A munkáltató „egyéb rövid munkára” akarja az Efo. 8–9. § kedvezményes rezsimét alkalmazni, noha a munka nem mezőgazdasági/turisztikai idénymunka és nem alkalmi munka. A 7. § szerint mi a helyes?",
+      "options": [
+        {
+          "text": "Főszabályként az egyszerűsített foglalkoztatott utáni szja-, szocho- és járulékfizetésre az Szja tv., a Szocho tv. és a Tbj. irányadó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 7. § (1) bekezdése az egyszerűsített foglalkoztatott utáni szja-, szocho- és járulékfizetésre főszabályként az Szja tv., a Szocho tv. és a Tbj. rendelkezéseit jelöli ki. A 7. § nem önálló százalékos köztehermértéket szab, hanem a különös és az általános rezsim határát vonja meg. A napi mértékeket az Efo. tv. 8. § (2) bekezdése differenciáltan adja."
+        },
+        {
+          "text": "A 7. § önállóan, egységes százalékkal határozza meg a napi közterhet minden rövid munkára.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 7. § nem önálló, egységes százalékkal határozza meg a napi közterhet; a mértékeket a 8. § (2) differenciáltan adja, és csak a (2) bekezdésbeli esetkörökre. A helyes: a 7. § határt von, nem kulcsot szab. Az „egyéb rövid munka” önmagában nem nyitja a 8–9. §-t."
+        },
+        {
+          "text": "A 8–9. § eltérései csak a (2) bekezdés a)–c) pontja szerinti mezőgazdasági idénymunka, turisztikai idénymunka és alkalmi munka esetén alkalmazandók.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 7. § (2) bekezdés a)–c) pontja szerint a 8–9. § eltérései csak a mezőgazdasági idénymunka, a turisztikai idénymunka és az alkalmi munka esetén alkalmazandók. Ami e három körön kívül esik, nem kapja meg a kedvezményes napi közteher-rezsimet. A törvény hatálya az 1. § (1) szerint e háromra van szabva."
+        },
+        {
+          "text": "A 8. § (4) szerinti korláttúllépés után is a kedvezményes 8. § (2) közteher marad irányadó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 8. § (4) bekezdése a feltételhiány napjától elvonja az (1)–(3) bekezdést, és a 7. § (1) általános adótörvényeihez terel annyi ideig, ameddig a kedvezményt jogosulatlanul alkalmazták. Korláttúllépés után nem marad a kedvezményes 8. § (2) közteher. A visszatérés időarányos, nem egyszeri bírság."
+        }
+      ],
+      "sourceKerdesSorszam": 34,
+      "sourceHash": "2b57dccc1534"
+    },
+    {
+      "question": "Az Efo. tv. 14. § szerint az e törvényben nem szabályozott adózási kérdésekben az Art. és az adóigazgatási szabályok irányadók, de van egy kifejezett mellőzés. Mely állítások igazak?",
+      "options": [
+        {
+          "text": "A 14. § felhatalmazza a kormányt, hogy a 8. § (2) köztehermértékeit rendeletben módosítsa.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 14. § háttér-jogszabályi utaló szabály és egy igazolásmellőzés; a köztehermérték az Efo. tv. 8. § (2) bekezdésében törvényi százalékokban áll. A 15. § a bejelentés technikájára és a befizetés eljárására ad felhatalmazást, nem a mértékek megnyitására. A 14. § tehát nem rendeletalkotási jogcím a 8. § átírására."
+        },
+        {
+          "text": "Az Efo. tv.-ben nem szabályozott adózást érintő kérdésekben az Art., az adóigazgatási rendtartásról szóló törvény és az adóigazgatási eljárás részletszabályairól szóló kormányrendelet az irányadó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 14. § első mondata e háttér-jogszabályokat hívja. A háttér csak a törvényben nem rendezett adózási résre nyílik. A 8. § köztehermértékét a 14. § nem írja felül."
+        },
+        {
+          "text": "A január 31-i összesített igazolás mellőzése csak mintaszerződéses úton él.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 14. § a január 31-i összesített igazolás mellőzését nem köti a minta-munkaszerződéshez. Az Mt. 203. § (4) bekezdés más joghatást szabályoz: a 134. § és a 155. § (2) mellőzését a mintához. A 14. § igazolásmellőzése önálló törvényi fordulat az adózási háttérszabályok között."
+        },
+        {
+          "text": "Nem kell alkalmazni azt az előírást, hogy a munkáltató az elszámolási évet követő év január 31-éig összesített igazolást adjon a magánszemélynek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 14. § második mondata expressis verbis mellőzi azt az előírást, hogy a munkáltató az elszámolási évet követő év január 31-éig összesített igazolást adjon a magánszemélynek. Ez a rövid, napi közteherrel zárt viszony saját rendjéhez igazodik. A 9. § keret alatti bevallásmentessége ugyanezt a magánszemélyi adminisztrációs tehercsökkentést erősíti."
+        }
+      ],
+      "sourceKerdesSorszam": 35,
+      "sourceHash": "980d71805bfb"
+    },
+    {
+      "question": "Mely állítások tévesek a bedolgozás 213. § szerinti kógenciájáról a 198. § és a 199. § viszonyában?",
+      "options": [
+        {
+          "text": "A 199. § (4) kötetlen munkarendje a 213. § e) pontja miatt kógens, ezért a felek eltérő munkarendet nem köthetnek ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kiválasztandó állítás téves, mert a 213. § e) pontja a 198. §-t zárja; a 199. § nincs a listán. A kötetlen munkarend az Mt. 199. § (4) szerint eltérő megállapodással alakítható. Az f) pont a 200–207. §-t zárja; a bedolgozás kógens magja a fogalom és a 200. §, nem a 199. § belső rendje."
+        },
+        {
+          "text": "A 198. § (1) kizárólagos teljesítménybére diszpozitív, mert a felek a szerződésben időbért is kiköthetnek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kiválasztandó állítás téves, mert az Mt. 198. § (1) kizárólagos teljesítménybért követel, és a 213. § e) pontja e szakaszt kógenssé teszi. Az időbér a fogalmat kiüti; a felek megállapodása sem oldhatja fel a kizárólagosságot. A teljesítménybér fogalmi helyét az Mt. 137. § (3) bekezdése jelöli ki a zárójeles utalással."
+        },
+        {
+          "text": "A 213. § e) pontja a 198. § egészét zárja: a fogalom, a kizárólagos teljesítménybér, a szerződés kötelező tartalma és a munkahely fogalma kógens.",
+          "isCorrect": false,
+          "rationale": "HAMIS, ez a forráshű szabály, ezért a „tévesek” kérdésben nem választandó. A 213. § e) pontja a 198. § egészét zárja: a fogalom, a kizárólagos teljesítménybér, a szerződés kötelező tartalma és a munkahely fogalma kógens. A felek megállapodása vagy a kollektív szerződés nem térhet el."
+        },
+        {
+          "text": "A 200. § a 213. § f) pontja miatt kógens; a felróható hibás teljesítés díjazási szankciójától a felek nem térhetnek el.",
+          "isCorrect": false,
+          "rationale": "HAMIS, ez is helytálló a törvény szövege szerint. A 213. § f) pontja a 200–207. §-t zárja, ideértve a 200. §-t; a felróható hibás teljesítés díjazási szankciójától a felek nem térhetnek el. A 200. § (2) a felróhatósághoz és a felhasználhatósághoz köti a járandóságot, ezért a kógens szankciós rend fennáll a bedolgozásnál."
+        }
+      ],
+      "sourceKerdesSorszam": 36,
+      "sourceHash": "e2470066b14d"
+    },
+    {
+      "question": "A munkáltató a napi alkalmi keretet a tárgyév első felében feléli a (2) bekezdés szerinti napi plafonig, majd a második félévben „átcsoportosított” plusz főket jelentene be ugyanarra a napra. Az 1. § (2)–(3) szerint mi igaz?",
+      "options": [
+        {
+          "text": "A keret mértékét a munkáltató átlagos statisztikai létszáma határozza meg a (2) bekezdés a)–d) pontja szerint.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 1. § (2) bekezdés a)–d) pontja a keret mértékét a munkáltató átlagos statisztikai létszámához igazítja. Az átcsoportosítás nem írhat felül sávot. A számítás a tárgyév első, illetve hetedik hónapját megelőző hat havi — vagy rövidebb működésnél a működés egész hónapjaira eső — átlagos statisztikai létszámon alapul."
+        },
+        {
+          "text": "Ha az éves keretösszeg még „marad”, a napi plafon bármely napon szabadon túlléphető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 1. § (3) az egyenlőtlen beosztással nem engedi a napi plafon szabad túllépését; a (2) napi maximum minden napon él. A helyes: az „éves keretösszeg még marad” nem legitimálja a napi túllépést. A 8. § (4) a létszámkorlát megsértésénél elvonja a kedvezményt."
+        },
+        {
+          "text": "A filmipari statiszta és a szociális szövetkezet is ugyanazon sávos napi plafon alá esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 1. § (3a) bekezdése a filmipari statiszta alkalmi munkáját és a szociális szövetkezetbeli egyszerűsített foglalkoztatást kiveszi a (2)–(3) létszámkeret alól. A helyes: e két kör nem a sávos napi plafon alá esik. A többi alkalmi Efo. viszont a (2) sávos rendjét követi."
+        },
+        {
+          "text": "A keret a tárgyév napjaira egyenlőtlenül beosztható, de a fel nem használt keret következő évre nem vihető; a már felélt napi plafon „visszatöltése” plusz fővel ugyanarra a napra nem emeli a (2) maximumot.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 1. § (3) szerint a keret a tárgyév napjaira egyenlőtlenül beosztható, de a fel nem használt keret következő évre nem vihető át. Az egyenlőtlen beosztás az ütemezés eszköze; a már felélt napi plafon „visszatöltése” plusz fővel ugyanarra a napra nem emeli a (2) maximumot. A csúcsnapon is a (2) a)–d) pont szerinti főszám a plafon."
+        }
+      ],
+      "sourceKerdesSorszam": 37,
+      "sourceHash": "5f793ad6bfa1"
+    },
+    {
+      "question": "A turisztikai idénymunka fogalmáról az Efo. tv. 2. § 2. pontja és az idénymunka 7. pontja alapján mi igaz?",
+      "options": [
+        {
+          "text": "Turisztikai idénymunka bármely szálláshelyen végezhető, akkor is, ha a munkáltató nem folytat kereskedelmi jellegű turisztikai szolgáltatást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 2. § 2. pontja a kereskedelemről szóló törvény szerinti kereskedelmi jellegű turisztikai szolgáltatási tevékenységet folytató munkáltatóhoz köti a fogalmat. A puszta szálláshelyi helyszín önmagában nem elegendő. A munkáltatói tevékenység minősége a döntő."
+        },
+        {
+          "text": "Az idénymunka fogalma az Mt. 90. § c) pontjára utal; mezőgazdaságban a biológiai időszakhoz kötött munkát is ide kell érteni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 2. § 7. pontja az Mt. 90. § c) pontjára utal, és mezőgazdasági idénymunkánál a növény vagy állat biológiai sajátossága miatti időszakhoz kötöttséget is idényjellegűnek tekinti. A fogalmi híd tehát az Mt. és az Efo. között áll. A turisztikai idénymunka e 7. pontbeli idénymunka-fogalomra épül a 2. pontbeli munkáltatói keretben."
+        },
+        {
+          "text": "Turisztikai idénymunka a kereskedelemről szóló törvényben meghatározott kereskedelmi jellegű turisztikai szolgáltatási tevékenységet folytató munkáltatónál végzett idénymunka.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 2. § 2. pontja e munkáltatói kötöttséget állítja. Nem bármely „nyári munka” turisztikai idénymunka. A fogalom a munkáltató tevékenységéhez és az idénymunka minőségéhez kötött."
+        },
+        {
+          "text": "Az idénymunka Efo. szerinti fogalma független az Mt. 90. § c) pontjától.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 2. § 7. pontja expressis verbis az Mt. 90. § c) pontjában meghatározott feltételeknek megfelelő munkát nevezi idénymunkának. A két törvény fogalmi kapcsolata tehát fennáll. Az utaló szabály tagadása a 7. pont szövegével ellentétes."
+        }
+      ],
+      "sourceKerdesSorszam": 38,
+      "sourceHash": "ae42911ee60c"
+    },
+    {
+      "question": "A munkáltató Efo. bejelentést tesz, de a közterhet a bejelentés napján hatályos mértékkel számolja, noha a munkavégzés későbbi napra esik, amikor a minimálbér már változott. Az Efo. tv. 8. § (6)–(7) bekezdéséről mi a helyes következtetés?",
+      "options": [
+        {
+          "text": "Az állami adó- és vámhatóság a minimálbér változásának napját magában foglaló hónap 10. napjáig honlapján közzéteszi a 8. § (2) szerinti közterhek mértékét, valamint a 4. § (2) szerinti összeget és a nyugellátás 10. § (2) szerinti alapját.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 8. § (6) bekezdése előírja, hogy az állami adó- és vámhatóság a minimálbér változásának napját magában foglaló hónap 10. napjáig honlapján közzéteszi a (2) bekezdés szerinti közterhek mértékét, a 4. § (2) szerinti összeget és a 10. § (2) szerinti ellátási alapot. A közzététel a mértékek megismerhetőségét szolgálja. A (7) bekezdés napszerűsége ehhez a közzétett mértékrendhez igazodik."
+        },
+        {
+          "text": "Ha a bejelentés korábbi, a közteher „befagy” a bejelentéskori mértéken, még ha a minimálbér később emelkedik is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 8. § (7) bekezdése szerint a 3. § (1) szerinti bejelentés időpontjától függetlenül a munkavégzés napján hatályos mértéket kell alkalmazni. A befagyasztásnak nincs törvényi alapja. A későbbi minimálbér-változás a munkavégzés napján érvényesül."
+        },
+        {
+          "text": "A közterhet a munkavégzés napján hatályos köztehermértékkel kell teljesíteni, a bejelentés időpontjától függetlenül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 8. § (7) bekezdése expressis verbis a munkavégzés napi mértékét írja elő. A bejelentés napja nem a mértékadó időpont. A minimálbér változása a munkavégzés napján érvényes százalékos alapot érinti."
+        },
+        {
+          "text": "A (6) bekezdés közzététele csak tájékoztató; a mérték a felek megállapodása szerint is eltérhet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 8. § (2) bekezdés törvényi százalékos mértékeket szab, száz forintra kerekítve; a (6) bekezdés a közzétételt írja elő, nem teszi a mértéket diszpozitívvá. A felek megállapodása a köztehermértéket nem írhatja felül. Az Efo. tv. 15. § felhatalmazása a bejelentés technikájára és a befizetés eljárására szól, nem a (2) bekezdés átírására."
+        }
+      ],
+      "sourceKerdesSorszam": 39,
+      "sourceHash": "06621fd3dbe2"
+    },
+    {
+      "question": "Egy bedolgozónál a munkavállaló felróhatóan hibás, teljesen felhasználhatatlan darabot ad le. A munkáltató „méltányosságból” teljes díjazást és költségtérítést fizetne, noha a 200. § (2) ezt zárná; egy másik darab hibás, de részben felhasználható. Mit mond a kógencia a két esetre?",
+      "options": [
+        {
+          "text": "A költségtérítés a 200. § (1) szerint mindig elengedhető a szerződésben, mert csak a teljesítménybér kógens.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 200. § (1) a tényleges költség vagy átalány megtérítését írja elő, és a 213. § f) pontja e szakaszt is zárja. Az Mt. 198. § (2) a költségtérítés módját és mértékét szerződéses kötelező tartalomként is előírja. A helyes: a költségtérítés nem „elengedhető mellékteher”."
+        },
+        {
+          "text": "A részben felhasználható hibás eredményért csökkentett díjazás és költségtérítés jár; a munkáltató nem tarthatja meg ingyen.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 200. § (2) második mondata szerint csökkentett díjazás és költségtérítés jár, ha a munkáltató a munka eredményét részben vagy egészben felhasználhatja. A munkáltató nem tarthatja meg ingyen a részben felhasználható hibás eredményt. A két eset — teljesen használhatatlan versus részben felhasználható — elválik."
+        },
+        {
+          "text": "A 200. § (2) diszpozitív, ezért a felek a teljes díjazást akkor is kiköthetik, ha a teljesítés felróhatóan használhatatlan.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 213. § f) pontja a 200. §-t zárja; a 200. § (2) nem diszpozitív, ezért a felek a teljes díjazást felróhatóan használhatatlan teljesítésnél sem köthetik ki érvényesen a kógens záradék ellenében. A helyes: felróható, követelménynek nem megfelelő teljesítésnél a járandóság nem jár. A diszpozitív olvasat a kógenciát sérti."
+        },
+        {
+          "text": "A teljesen felhasználhatatlan, felróható hibáért a 200. § (2) szerint nem jár díjazás és költségtérítés; a 213. § f) pontja e szabályt kógenssé teszi, ezért a „méltányossági” teljes díj kikötése e záradékba ütközhet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 200. § (2) első mondata szerint nem jár díjazás és költségtérítés, ha a teljesítés a munkavállalónak felróható okból nem felel meg az előírt követelménynek. A 213. § f) pontja a 200. §-t a 200–207. § kógens körébe emeli, ezért a „méltányossági” teljes díj kikötése e záradékba ütközhet. A teljesen felhasználhatatlan, felróható hiba e mondata alá esik."
+        }
+      ],
+      "sourceKerdesSorszam": 40,
+      "sourceHash": "acaab49df09d"
+    },
+    {
+      "question": "Efo. alkalmi nap után a munkáltató azt állítja: mivel megfizette a 8. § (2) közterhet, a munkavállaló teljes Tbj.-biztosított, ezért táppénzre is jogosult. A 10. § (1) alapján mi a helyes?",
+      "options": [
+        {
+          "text": "A három ellátás miatt a munkavállaló Tbj. szerinti biztosítottnak minősül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 10. § (1) a) pontja kizárja a Tbj. szerinti biztosítotti minőséget; a b) pont taxatív három ellátást nevesít. A helyes: a három ellátás nem teszi Tbj.-biztosítottá a munkavállalót. Az Ebtv. általános táppénzrendje nem nyílik meg e listából."
+        },
+        {
+          "text": "A 7. § (2) szerinti foglalkoztatott e törvény alapján nem minősül a Tbj. szerinti biztosítottnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 10. § (1) bekezdés a) pontja szerint a 7. § (2) szerinti foglalkoztatott e törvény alapján nem minősül a Tbj. szerinti biztosítottnak. A kedvezményes közteher ellenértéke nem a teljes biztosítási jogviszony. Az általános táppénz-jogosultság ebből önmagában nem következik."
+        },
+        {
+          "text": "A 10. § (1) csak akkor él, ha a felek mintaszerződést alkalmaznak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 10. § (1) a 7. § (2) szerinti foglalkoztatáshoz kötött ellátási-biztosítási joghatás, nem a mintaszerződéshez. A minta-munkaszerződés az Mt. 203. § (4) szerint a 134. § és a 155. § (2) mellőzését érinti. A helyes: az ellátási szabály és a nyilvántartási mentesség elválik."
+        },
+        {
+          "text": "Ugyanakkor nyugellátásra, baleseti egészségügyi szolgáltatásra és álláskeresési ellátásra jogosultságot szerez; az Ebtv. általános táppénzrendje e taxációban nem szerepel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 10. § (1) bekezdés b) pontja nyugellátásra, baleseti egészségügyi szolgáltatásra és álláskeresési ellátásra nyit jogosultságot. Az Ebtv. általános táppénzrendje e taxációban nem szerepel. A háromágú jogosultság nem emel teljes biztosítottá."
+        }
+      ],
+      "sourceKerdesSorszam": 41,
+      "sourceHash": "ee11c6e82dcf"
+    },
+    {
+      "question": "A felek bedolgozói szerződést kötnek, de a költségtérítés módját és mértékét nem rögzítik. A munkáltató később azt mondja: „ez csak hiányzó utasítás, a 199. § pótolja”. Az Mt. 198. § (2) szerint mi igaz?",
+      "options": [
+        {
+          "text": "A (2) bekezdés érvényességi tartalma nem azonos a 199. § utasítási rendjének mellőzésével; a 199. § az utasítás, az eszköz, az ellenőrzés és a munkarend síkja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 198. § (2) a szerződés érvényességi tartalmát adja; a hiány nem azonos a 199. § utasítási rendjének mellőzésével. A 199. § az utasítás, az eszköz, az ellenőrzés és a munkarend síkja. A két szakasz funkciója elválik: érvényességi tartalom versus teljesítési rend."
+        },
+        {
+          "text": "A munkaszerződésben meg kell határozni a tevékenységet, a munkavégzés helyét, valamint a költségtérítés módját és mértékét; a költségtérítés elmaradása a bedolgozói alakzat szerződéses ismérvének hiánya.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 198. § (2) bekezdése szerint a munkaszerződésben meg kell határozni a tevékenységet, a munkavégzés helyét, valamint a költségtérítés módját és mértékét. A költségtérítés elmaradása a bedolgozói alakzat szerződéses ismérvének hiánya. A 213. § e) pontja a 198. §-t kógenssé teszi."
+        },
+        {
+          "text": "A költségtérítés kikötése elhagyható, ha a felek a 199. § szerint saját eszközt alkalmaznak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 198. § (2) a költségtérítés módját és mértékét kötelező tartalomként írja elő, függetlenül attól, hogy a 199. § (2) szerint — eltérő megállapodás hiányában — a saját eszköz a főszabály. Az Mt. 200. § (1) a tényleges költség vagy átalány megtérítésének anyagi szabályát adja. A helyes: a saját eszközhasználat nem mentesít a szerződéses költségtérítési kikötés alól."
+        },
+        {
+          "text": "A 198. § (2) csak ajánlás; a 213. § e) pontja a szerződéses tartalmat nem zárja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 213. § e) pontja a 198. § egészét zárja, ideértve a (2) bekezdés kötelező tartalmát; a felek megállapodása vagy a kollektív szerződés nem térhet el tőle. A költségtérítés módjának és mértékének kikötése érvényességi tartalom, nem ajánlás. Az ajánlás-olvasat a kógens záradékot tagadja, ezért a hiányzó kikötés a bedolgozói alakzat szerződéses ismérvét sérti."
+        }
+      ],
+      "sourceKerdesSorszam": 42,
+      "sourceHash": "255520669888"
+    },
+    {
+      "question": "Mely állítások tévesek az Efo. tv. 8. § (2) köztehermértékeiről?",
+      "options": [
+        {
+          "text": "A közteher mértékét a tárgyhónap első napján érvényes minimálbér százalékában, száz forintra kerekítve kell meghatározni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, ez is helytálló a 8. § (2) bekezdés szerint, ezért nem a téves válaszok közé tartozik. A közteher mértékét a tárgyhónap első napján érvényes minimálbér százalékában, száz forintra kerekítve kell meghatározni. A (7) bekezdés a munkavégzés napi hatályos mértékét köti a teljesítéshez."
+        },
+        {
+          "text": "A filmipari statiszta alkalmi munkájánál a napi közteher a minimálbér 3 százaléka, száz forintra kerekítve.",
+          "isCorrect": false,
+          "rationale": "HAMIS, ez a forráshű szabály a 8. § (2) e) pontja szerint, ezért a „tévesek” kérdésben nem választandó. A filmipari statiszta napi közterhe a minimálbér 3 százaléka, száz forintra kerekítve. A mérték magasabb az általános alkalmi 1,5 százaléknál."
+        },
+        {
+          "text": "A mezőgazdasági idénymunka százhúsz napon túli további kilencven napjára is a 0,75 százalékos mérték marad.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kiválasztandó állítás téves, mert a 8. § (2) b) pontja a mezőgazdasági idénymunka 1. § (4a) szerinti százhúsz napon túli további kilencven napjára 1,125 százalékot szab. Az a) pont a rendes mezőgazdasági sávot 0,75 százalékban hagyja. A túlsáv tehát magasabb közteherrel jár."
+        },
+        {
+          "text": "Az alkalmi munka napi közterhe a minimálbér 0,75 százaléka, ugyanúgy, mint a turisztikai idénymunkáé.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kiválasztandó állítás téves, mert az Efo. tv. 8. § (2) d) pontja az alkalmi munkát 1,5 százalékban, a c) pont a turisztikai idénymunkát 0,75 százalékban állapítja meg. A két köztehermérték a törvény taxációjában elválik. Az azonosítás a d) és c) pont megkülönböztetését tagadja, ezért a „tévesek” kérdésben ez a válasz választandó."
+        }
+      ],
+      "sourceKerdesSorszam": 43,
+      "sourceHash": "229c3c80b60e"
+    },
+    {
+      "question": "Nem elektronikus bevallásra kötelezett munkáltató melléklet szerinti Efo.-szerződést köt: a megnevezésen kívüli azonosítókat a munkavégzés napjának végéig tölti ki, a bejelentést megkezdés előtt teljesíti. A 3. § (1) szerint mi a helyes olvasat?",
+      "options": [
+        {
+          "text": "Az azonosító adatok a tárgyhót követő hó 12-éig is pótolhatók, mert ez a közteher határideje.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 3. § (1) a megnevezésen kívüli azonosítókra a munkavégzés napjának végét engedi, nem a 11. § (4) szerinti tárgyhót követő hó 12-ét. A 12-e a közteher fizetésének és az elektronikus bevallásnak a határideje. A helyes: a két határidő elválik, a szerződéses kitöltés nem csúszhat a 12-ére."
+        },
+        {
+          "text": "A melléklet szerinti szerződés a 11. § bejelentése mellett létesítési lehetőség; a munkaszerződést a munka megkezdéséig írásba kell foglalni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 3. § (1) bekezdése a melléklet szerinti utat a 11. § bejelentése mellett engedi a nem elektronikus bevallásra kötelezett munkáltatóra. A munkaszerződést a munka megkezdéséig írásba kell foglalni. A bejelentés konstitutív volta ettől nem változik; az Mt. 202. § (2) ugyanezt a keletkezési logikát követi."
+        },
+        {
+          "text": "A megnevezésen kívüli egyéb azonosító adatok kitöltése a munkavégzés napjának végéig elegendő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 3. § (1) bekezdés utolsó mondata szerint a megnevezésen kívüli egyéb azonosító adatok kitöltése a munkavégzés napjának végéig elegendő. A megnevezés és a többi azonosító adat időzítése tehát elválik. Ez nem mentesít a megkezdés előtti bejelentés alól."
+        },
+        {
+          "text": "A melléklet szerinti szerződés önmagában pótolja a 11. § bejelentését.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 3. § (1) a melléklet szerinti létesítést expressis verbis a 11. § bejelentési kötelezettség teljesítése mellett engedi. Az Mt. 202. § (2) is a bejelentéshez köti a keletkezést. A helyes: a melléklet kiegészítő alak, nem konstitutív helyettesítő."
+        }
+      ],
+      "sourceKerdesSorszam": 44,
+      "sourceHash": "fa95f0859d25"
+    },
+    {
+      "question": "A munkáltató azt állítja, hogy az Efo. tv. 15. § felhatalmazása alapján kormányrendeletben csökkentheti a 8. § (2) köztehermértékeit. A 15. § tartalmáról mi állapítható meg?",
+      "options": [
+        {
+          "text": "A tagállami állampolgár bejelentési részletszabályai a 2. § 6. pont fogalmától függetlenek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 15. § (1) bekezdés c) pontja expressis verbis az Efo. tv. 2. § 6. pontja szerinti tagállam állampolgárának bejelentési részletszabályaira ad felhatalmazást. A fogalmi előzmény tehát ez a 6. pontbeli tagállam-fogalom. A függetlenség állítása az utaló szerkezetet tagadja, ezért a részletszabályok nem szakíthatók el a törvényi fogalomtól."
+        },
+        {
+          "text": "A 15. § (1) felhatalmazza a Kormányt, hogy a 8. § (2) százalékos köztehermértékeit rendeletben csökkentsék.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 15. § (1) a bejelentés technikáját és biztonsági feltételeit szabályozza, nem a 8. § (2) mértékeit. A mértékek, a létszámkeret és az időtartam korlátja törvényi szinten marad. A felhatalmazás kiterjesztő olvasata a törvényi keretet sérti."
+        },
+        {
+          "text": "A Kormány felhatalmazása a bejelentett adatok rögzítésére, átadására, törlésére, valamint a bejelentő alkalmazások biztonsági feltételeire és a tagállami állampolgár bejelentési részletszabályaira szól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. tv. 15. § (1) bekezdés a)–c) pontja e technikai-eljárási tárgyakat jelöli ki. A felhatalmazás nem a köztehermértéket nyitja meg. A 8. § (2) törvényi százalékos rendje e szakaszon kívül marad."
+        },
+        {
+          "text": "Az adópolitikáért felelős miniszter a jövedelem és a közteher bejelentésének, befizetésének eljárási szabályait rendeletben határozhatja meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 15. § (2) bekezdése az eljárási szabályokra ad miniszteri felhatalmazást. Az eljárás nem azonos a mérték megváltoztatásával. A 11. § bejelentési csatornái e rendeletek nélkül is a törvényben állnak."
+        }
+      ],
+      "sourceKerdesSorszam": 45,
+      "sourceHash": "d45db05288b5"
+    },
+    {
+      "question": "Egy munkáltató ugyanazon a napon bedolgozót (kötetlen, saját eszköz) és Efo. alkalmi foglalkoztatottat (megkezdés előtti bejelentés, napi közteher) is alkalmaz. A párhuzamos gyakorlat jogi elválasztásáról mely következtetések helyesek?",
+      "options": [
+        {
+          "text": "Ha mindkét személy kötetlenül dolgozik, mindkét viszonyra az Efo. tv. 8. § közterhe alkalmazandó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kötetlen munkarend az Mt. 199. § (4) bedolgozási főszabálya, nem az Efo. közteher jogcíme. Az Efo. tv. 8. § a 7. § (2) szerinti egyszerűsített foglalkoztatásra szabott. A helyes: a munkarend azonossága nem egyesíti a közteher-jogcímeket."
+        },
+        {
+          "text": "A bedolgozói szerződés érvényességéhez is kell az Efo. tv. 11. § szerinti adóhatósági bejelentés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Efo. tv. 11. § bejelentése az egyszerűsített foglalkoztatás keletkezési aktusa az Efo. tv. 3. § (1) és az Mt. 202. § (2) szerint. A bedolgozói viszony az Mt. 198. § szerinti szerződéses tartalommal létesül. A helyes: a bejelentés bedolgozásra történő kiterjesztése a keletkezési szabályokat összemossa."
+        },
+        {
+          "text": "A bedolgozás közteher-jogcíme nem az Efo. tv. 8. §; az alkalmi Efo. közterhe a 8. § szerint áll, a bedolgozó díjazása pedig a 198. § szerinti teljesítménybér + a 200. § költségtérítése.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a bedolgozás közteher-jogcíme nem az Efo. tv. 8. §; az alkalmi Efo. közterhe a 8. § szerint áll, a bedolgozó díjazása pedig az Mt. 198. § szerinti teljesítménybér és a 200. § költségtérítése. A kötetlen munkarend azonossága nem egyesíti a közteher-jogcímeket. A két alakzat párhuzamos alkalmazása csak a saját szabályok betartásával jogszerű."
+        },
+        {
+          "text": "Az Efo. alkalmi munkánál a napi létszámkeret és az 5+15 napos fogalmi korlát érvényesül; a bedolgozásra ezek nem irányadók.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Efo. alkalmi munkánál az Efo. tv. 1. § (2) napi létszámkeret és a 2. § 3. pont 5+15 napos fogalmi korlát érvényesül; a bedolgozásra ezek nem irányadók. A bedolgozás feltételei az Mt. 198. § (1) szerint az önállóan végezhető munka és a kizárólagos teljesítménybér. A létszám- és Efo.-időkorlát átvitele a bedolgozásra alaptalan."
+        }
+      ],
+      "sourceKerdesSorszam": 46,
+      "sourceHash": "e45a59856940"
+    }
+  ]
+}

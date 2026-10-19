@@ -1,0 +1,945 @@
+{
+  "id": "VuUDATASVbP971hLardj",
+  "sorszam": 35,
+  "cim": "A munkaerő-kölcsönzésre vonatkozó legfontosabb rendelkezések.",
+  "generationType": "fogalom",
+  "title": "A munkaerő-kölcsönzésre vonatkozó legfontosabb rendelkezések.",
+  "questions": [
+    {
+      "question": "Mit jelent a munkaerő-kölcsönzés az Mt. fogalomrendszerében?",
+      "options": [
+        {
+          "text": "Olyan tevékenység, amelyben a kölcsönbeadó a vele kölcsönzés céljából munkaviszonyban álló munkavállalót ellenérték fejében, ideiglenesen átengedi a kölcsönvevőnek munkavégzésre.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kölcsönzés háromszereplős, atipikus foglalkoztatás, nem pedig a kölcsönvevővel kötött külön munkaviszony. Az Mt. 214. § (1) bekezdés a) pontja szerint munkaerő-kölcsönzés: „az a tevékenység, amelynek keretében a kölcsönbeadó a vele kölcsönzés céljából munkaviszonyban álló munkavállalót ellenérték fejében munkavégzésre a kölcsönvevőnek ideiglenesen átengedi (kölcsönzés)”. A munkaviszony a kölcsönbeadóé, a tényleges irányítás a kikölcsönzés alatt a kölcsönvevőé. Az ideiglenességet a (2) bekezdés ötéves tartamkorlátja is erősíti."
+        },
+        {
+          "text": "A kölcsönzött munkavállalóval szemben a kikölcsönzés alatt a munkáltatói jogokat a kölcsönbeadó és a kölcsönvevő megosztva gyakorolja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fogalom eleve a jogkör-megosztásra épül, nem egyetlen munkáltatói centrumra. Az Mt. 214. § (1) bekezdés d) pontja szerint kölcsönzött munkavállaló a kölcsönbeadóval kölcsönzés céljából munkaviszonyban álló munkavállaló, akivel szemben a kikölcsönzés alatt a munkáltatói jogokat a kölcsönbeadó és a kölcsönvevő megosztva gyakorolja. A megosztás tartalmát a 217. § szerinti megállapodás és a 218. § (4) bekezdése teszi működésképessé. A kölcsönvevővel külön munkaviszony nem jön létre."
+        },
+        {
+          "text": "A kölcsönzött munkavállaló a kölcsönvevővel is külön munkaviszonyt létesít a kikölcsönzés idejére.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás második munkaviszonyt told a háromszögbe. Az Mt. 214. § (1) bekezdés a)–d) pontja a munkaviszonyt a kölcsönbeadóhoz köti, a kölcsönvevőnél csak ideiglenes munkavégzés és megosztott munkáltatói jogkör van. A forrás kifejezetten rögzíti: a kölcsönzött munkavállaló a kölcsönvevővel nem létesít külön munkaviszonyt. A tévedés a munkaerő-közvetítés és a kölcsönzés összecseréléséből ered, ahol a cél éppen a kereső és a foglalkoztató találkozása."
+        },
+        {
+          "text": "Kölcsönbeadó csak a kölcsönvevő leányvállalata lehet, mert a jogkör-megosztás csak csoporton belül értelmezhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a kölcsönbeadói kört tulajdonosi kapcsolatra szűkíti. Az Mt. 215. § (1) bekezdése EGT-székhelyű vállalkozást vagy belföldi, korlátolt felelősségű gazdasági társaságot, illetve meghatározott szövetkezetet enged kölcsönbeadónak, nyilvántartásba vétel mellett. Sőt a 217. § (1) bekezdése semmissé teszi a megállapodást, ha a két oldal tulajdonosi viszonyban áll egymással. A tévedés a csoporton belüli „belső kölcsönzés” gyakorlatának a törvényi fogalomra való ráírásából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 1
+    },
+    {
+      "question": "Milyen tartamban maximalizálja az Mt. a kikölcsönzést?",
+      "options": [
+        {
+          "text": "A kikölcsönzés tartama nem haladhatja meg az öt évet, ideértve a meghosszabbítást és az előző kikölcsönzés megszűnésétől számított hat hónapon belüli ismételt kikölcsönzést is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tartamkorlát nem csak az egyetlen, folyamatos kikölcsönzésre vonatkozik. Az Mt. 214. § (2) bekezdése szerint: „A kikölcsönzés tartama nem haladhatja meg az öt évet, ideértve a meghosszabbított vagy az előző kikölcsönzés megszűnésétől számított hat hónapon belül történő ismételt kikölcsönzést, függetlenül attól, hogy a kikölcsönzés ugyanazzal vagy más kölcsönbeadóval kötött megállapodás alapján valósult meg.” A 216. § (1) bekezdés c) pontja ugyanezt a túllépést tilalomként ismétli. A hat hónapon túli ismétlés nem esik automatikusan az összeszámítás alá."
+        },
+        {
+          "text": "Az ötéves korlát számításánál közömbös, hogy a kikölcsönzés ugyanazzal vagy más kölcsönbeadóval kötött megállapodás alapján valósult meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogalkotó a kölcsönbeadó-váltással való megkerülést zárja ki. Az Mt. 214. § (2) bekezdése expressis verbis kimondja: a tartamkorlát független attól, hogy a kikölcsönzés ugyanazzal vagy más kölcsönbeadóval kötött megállapodás alapján valósult meg. A 219. § (4) bekezdése ugyanezt a számítási rendet az egyenlő bánásmód száznyolcvannegyedik napjához is köti. Így a „más kölcsönbeadóval újraindítom” konstrukció nem nullázza az ötéves keretet."
+        },
+        {
+          "text": "A kikölcsönzés legfeljebb három év lehet, és a meghosszabbítás nem számít bele a tartamba.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a mértéket és a számítási módot is elcsúsztatja. Az Mt. 214. § (2) bekezdése öt évet rögzít, és a meghosszabbítást kifejezetten beleszámítja a tartamba. A hat hónapon belüli ismételt kikölcsönzés szintén a korlát alá esik. A tévedés tipikusan a határozott idejű munkaviszony általános szabályainak vagy a régi Mt. rövidebb tartamkereteinek ráírásából ered."
+        },
+        {
+          "text": "Ha a munkavállaló más kölcsönbeadóval köt új szerződést, az ötéves számláló automatikusan újrakezdődik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kölcsönbeadó cseréje nem indít új ötéves ciklust. Az Mt. 214. § (2) bekezdése szerint a tartamkorlát akkor is érvényesül, ha a kikölcsönzés más kölcsönbeadóval kötött megállapodás alapján valósul meg, feltéve hogy az ismétlés az előző megszűnéstől számított hat hónapon belül történik. A 216. § (1) bekezdés c) pontja a túllépést tilalmazza. A tévedés a szerződéses alanyváltás és a tartamszámítás összekeveréséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 2
+    },
+    {
+      "question": "Ki minősül minősített kölcsönbeadónak?",
+      "options": [
+        {
+          "text": "Az a 215. § szerinti kölcsönbeadó, aki harmadik országbeli állampolgárok magyarországi foglalkoztatására jogszabályban foglalt feltételek alapján jogosult.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a minősített státusz a kölcsönbeadói jogosultságra épülő, további jogosultsági réteg. Az Mt. 214. § (1) bekezdés f) pontja szerint minősített kölcsönbeadó az a b) pont és a 215. § szerinti kölcsönbeadó, aki harmadik országbeli állampolgárok magyarországi foglalkoztatására jogszabályban foglalt feltételek alapján jogosult. A fogalom a 115/2021. (III. 10.) Korm. rendelet 5. § (2) bekezdés h) pontja és 18. § (4) bekezdés f) pontja szerinti felügyeleti szankciókhoz is kapcsolódik. Nem minden nyilvántartott kölcsönbeadó minősített automatikusan."
+        },
+        {
+          "text": "A minősített kölcsönbeadó is a 215. § szerinti kölcsönbeadói körbe tartozik; a minősítés a harmadik országbeli állampolgárok foglalkoztatására adott jogosultság.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a minősítés nem helyettesíti, hanem feltételezi a kölcsönbeadói státuszt. Az Mt. 214. § (1) bekezdés f) pontja a b) pont és a 215. § szerinti kölcsönbeadóra utal, majd a harmadik országbeli állampolgárok foglalkoztatására való jogosultságot teszi hozzá. A 115/2021. (III. 10.) Korm. rendelet 18. § (4) bekezdés f) pontja a minősített kölcsönbeadó tájékoztatási vagy nyilvántartási kötelezettségének megszegését kötelező bírsággal sújtja. A fogalom tehát jogosultsági és felügyeleti jelentőségű egyszerre."
+        },
+        {
+          "text": "Minősített kölcsönbeadó minden EGT-székhelyű vállalkozás, amely Magyarországon munkaerőt kölcsönöz.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az EGT-székhely önmagában nem teszi minősítetté a kölcsönbeadót. Az Mt. 215. § (1) bekezdés a) pontja az EGT-vállalkozást kölcsönbeadói jogosultsághoz köti a rá irányadó jog szerint, a 214. § (1) bekezdés f) pontja viszont a minősítést a harmadik országbeli állampolgárok foglalkoztatására adott külön jogosultsághoz kapcsolja. A tévedés a kölcsönbeadói alapjogosultság és a minősített státusz összecseréléséből ered."
+        },
+        {
+          "text": "A minősített kölcsönbeadó fogalma csak a magán-munkaközvetítőre vonatkozik, nem a kölcsönzésre.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a fogalom a kölcsönzési fejezet része, nem a közvetítői szabályozásé. Az Mt. 214. § (1) bekezdés f) pontja a kölcsönbeadót nevezi meg, a 118/2001. (VI. 30.) Korm. rendelet pedig a magán-munkaközvetítést külön tevékenységként határozza meg. A 115/2021. (III. 10.) Korm. rendelet 18. § (4) bekezdés f) pontja is a minősített kölcsönbeadóra szab szankciót. A tévedés a két piacra lépési tevékenység összemosásából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 3
+    },
+    {
+      "question": "Mely feltételek mellett lehet valaki kölcsönbeadó?",
+      "options": [
+        {
+          "text": "EGT-államban székhellyel rendelkező vállalkozás akkor lehet kölcsönbeadó, ha a rá irányadó jog szerint munkaerő-kölcsönzést folytathat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az egyik ág a külföldi jogosultság elismerése, nem a magyar nyilvántartás pótlása minden esetben. Az Mt. 215. § (1) bekezdés a) pontja szerint kölcsönbeadó lehet az az EGT-államban székhellyel rendelkező vállalkozás, amely a rá irányadó jog szerint munkaerő-kölcsönzést folytathat. A belföldi ág ettől elkülönül: korlátolt felelősségű társaság vagy meghatározott szövetkezet, törvényi és egyéb feltételekkel, állami foglalkoztatási szervi nyilvántartással. A két ág tehát nem azonos feltételeket kíván."
+        },
+        {
+          "text": "Belföldi székhelyű, a tagok korlátolt felelősségével működő gazdasági társaság akkor lehet kölcsönbeadó, ha megfelel a törvényi és egyéb jogszabályi feltételeknek, és az állami foglalkoztatási szerv nyilvántartásba vette.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a belföldi ág a korlátolt felelősséget és a nyilvántartást konjunktívan követeli. Az Mt. 215. § (1) bekezdés b) pontja szerint kölcsönbeadó lehet a belföldi székhelyű, a tagok korlátolt felelősségével működő gazdasági társaság vagy — a vele tagsági viszonyban nem álló munkavállaló vonatkozásában — szövetkezet, ha megfelel az e törvényben vagy az egyéb jogszabályban foglalt feltételeknek, és az állami foglalkoztatási szerv nyilvántartásba vette. A 118/2001. (VI. 30.) Korm. rendelet 4. §-a a bejelentést, a végzettséget, az irodát és a biztosítékot, a 6–8. § pedig a letét mértékét és a nyilvántartást részletezi. A nyilvántartásból való törlés a munkaszerződésre az érvénytelenség jogkövetkezményeit vonja."
+        },
+        {
+          "text": "Korlátlan felelősségű gazdasági társaság is lehet kölcsönbeadó, ha megfelelő vagyoni biztosítékot helyez letétbe.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a biztosíték nem pótolja a korlátolt felelősség követelményét. Az Mt. 215. § (1) bekezdés b) pontja a belföldi ágon a tagok korlátolt felelősségével működő gazdasági társaságot vagy meghatározott szövetkezetet enged. A 118/2001. (VI. 30.) Korm. rendelet 6. §-a szerinti tizenötmillió forintos biztosíték a folytatás feltétele, de nem nyitja meg a korlátlan felelősségű formákat. A tévedés a biztosítéki szabálynak a személyi körre való ráírásából ered."
+        },
+        {
+          "text": "A nyilvántartásból való törlés nem érinti a már megkötött kölcsönzési célú munkaszerződéseket.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a státuszvesztés a munkaszerződésre is kihat. Az Mt. 215. § (2) bekezdése szerint a kölcsönbeadó nyilvántartásból való törlése esetén a munkaszerződés tekintetében az érvénytelenség jogkövetkezményeit kell alkalmazni. A kölcsönbeadói státusz elvesztése tehát nem hagyja érintetlenül a munkaviszonyt. A tévedés abból fakad, hogy a hatósági nyilvántartást pusztán adminisztratív tehernek tekintik, miközben a jogosultság feltétele."
+        }
+      ],
+      "sourceKerdesSorszam": 4
+    },
+    {
+      "question": "Mely tilalmak zárják a kölcsönzést és a kölcsönvevő magatartását?",
+      "options": [
+        {
+          "text": "Nem lehet a munkavállalót kölcsönözni sztrájkban részt vevő munkavállaló helyettesítésére, sem a 214. § (2) bekezdése szerinti ötéves tartamot meghaladóan.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tilalmak a visszaélést és a tartamkorlát megkerülését zárják. Az Mt. 216. § (1) bekezdés b)–c) pontja szerint nem lehet a munkavállalót kölcsönözni sztrájkban részt vevő munkavállaló helyettesítésére, illetve a 214. § (2) bekezdésében meghatározott tartamot meghaladóan. Az a) pont emellett a munkaviszonyra vonatkozó szabályban meghatározott eseteket is tiltja. A 2008/104/EK irányelv 4. cikke szerint az ilyen korlátozás akkor indokolt, ha általános érdeket szolgál."
+        },
+        {
+          "text": "A kölcsönvevő a munkavállalót más munkáltatónál történő munkavégzésre nem kötelezheti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a továbbkölcsönzés tilalma a háromszereplős szerkezetet zárja. Az Mt. 216. § (2) bekezdése szerint a kölcsönvevő a munkavállalót más munkáltatónál történő munkavégzésre nem kötelezheti. A munkaviszony a kölcsönbeadóé marad, a kölcsönvevő csak a saját irányítása alatt veheti igénybe a munkavégzést. Ha a kölcsönvevő továbbadhatná a munkavállalót, a fogalmi háromszög négyszöggé válna. A tilalom tehát a fogalom védelme is."
+        },
+        {
+          "text": "Érvényes a megállapodás, amely a munkaviszony megszűnése után megtiltja a kölcsönvevővel való jogviszony létesítését.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az ilyen korlátozás semmis. Az Mt. 216. § (3) bekezdés a) pontja szerint érvénytelen a megállapodás, amely a munkaviszony megszűnését vagy megszüntetését követően a kölcsönvevővel való jogviszony létesítési tilalmat vagy korlátozást ír elő. Ez a 2008/104/EK irányelv 6. cikk (2) bekezdésének magyar átültetése. A tévedés a versenytilalmi megállapodás általános szabályainak a kölcsönzési speciális tilalomra való ráírásából ered."
+        },
+        {
+          "text": "A munkavállaló kötelezhető arra, hogy a kölcsönzésért vagy a kölcsönvevővel létesített jogviszonyért díjat fizessen a kölcsönbeadónak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkavállalóval szembeni díjkövetelés érvénytelen. Az Mt. 216. § (3) bekezdés b) pontja szerint érvénytelen a megállapodás, amely alapján a munkavállalónak a kölcsönbeadó javára díjazást kell fizetni a kölcsönzésért vagy a kölcsönvevővel történő jogviszony létesítésért. A 2008/104/EK irányelv 6. cikk (3) bekezdése ugyanezt a díjtilalmat rögzíti. A tévedés a kölcsönvevő felé érvényesíthető szolgáltatásdíj és a munkavállalóval szembeni tilalom összecseréléséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 5
+    },
+    {
+      "question": "Miben tér el a magán-munkaközvetítés a munkaerő-kölcsönzéstől a 118/2001. (VI. 30.) Korm. rendelet szerint?",
+      "options": [
+        {
+          "text": "A magán-munkaközvetítés a munkát keresők és a munkát kínálók találkozását segíti foglalkoztatásra irányuló jogviszony létesítése céljából; a kölcsönzés fogalma az Mt. 214. § (1) bekezdés a) pontjára utal.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendelet nem alkot párhuzamos kölcsönzési fogalmat, hanem az Mt.-re hivatkozik. A 118/2001. (VI. 30.) Korm. rendelet 2. § (1) bekezdés a) pontja a magán-munkaközvetítést a keresők és kínálók találkozásának elősegítéseként határozza meg. Az e) pont szerint munkaerő-kölcsönzés „a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: új Mt.) 214. § (1) bekezdés a) pontjában meghatározott tevékenység”, a f)–g) pont pedig ugyanezen bekezdés b)–c) pontjára utal. A közvetítésnél a cél a jogviszony létrejötte a foglalkoztatóval, kölcsönzésnél a munkaviszony a kölcsönbeadóé marad."
+        },
+        {
+          "text": "A munkaerő-kölcsönzési díj a kölcsönzött munkavállaló kikölcsönzésére tekintettel a kölcsönbeadót megillető, általános forgalmi adó nélküli ellenérték.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a díj fogalma a kölcsönbeadó–kölcsönvevő ellenértékre vonatkozik, nem a munkavállalótól szedhető jutalékra. A 118/2001. (VI. 30.) Korm. rendelet 2. § (1) bekezdés k) pontja szerint munkaerő-kölcsönzési díj a munkaerő-kölcsönzési szerződés alapján, a kölcsönzött munkavállaló kikölcsönzésére tekintettel a kölcsönbeadót megillető ellenérték általános forgalmi adó nélkül számított összege. A 9/A. § ehhez a fogalomhoz köti a minimális kölcsönzési díjat. A munkavállalóval szembeni díjtilalom ettől független: az Mt. 216. § (3) bekezdés b) pontja érvényteleníti a kölcsönbeadó javára fizetendő díjazást."
+        },
+        {
+          "text": "A rendelet a kölcsönzés fogalmát önállóan határozza meg, és nem utal az Mt. 214. §-ára.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendelet expressis verbis az Mt.-re hivatkozik. A 118/2001. (VI. 30.) Korm. rendelet 2. § (1) bekezdés e) pontja szerint munkaerő-kölcsönzés a munka törvénykönyvéről szóló 2012. évi I. törvény 214. § (1) bekezdés a) pontjában meghatározott tevékenység. A f) pont a kölcsönbeadót, a g) pont a kölcsönvevőt ugyanezen bekezdés b), illetve c) pontjában meghatározott munkáltatóként veszi át. A tévedés abból ered, hogy a rendelet piacra lépési szabályait párhuzamos anyagi jogi fogalomalkotásnak tekintik."
+        },
+        {
+          "text": "A magán-munkaközvetítő a tevékenységéért a munkát keresővel szemben szabadon számíthat fel díjat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkát keresővel szembeni díjtilalom kategórikus. A 118/2001. (VI. 30.) Korm. rendelet 10. § (3) bekezdése szerint a magán-munkaközvetítő a tevékenységéért a munkát keresővel szemben díjat, költséget semmilyen jogcímen nem számolhat fel. Ez párhuzamos az Mt. 216. § (3) bekezdés b) pontjával és a 2008/104/EK irányelv 6. cikk (3) bekezdésével. A tévedés a kölcsönvevői / munkaadói oldali díjazás és a keresővel szembeni tilalom összecseréléséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 6
+    },
+    {
+      "question": "Mekkora a vagyoni biztosíték a kölcsönzési tevékenység folytatásához?",
+      "options": [
+        {
+          "text": "Kölcsönzési tevékenység folytatása esetén a vagyoni biztosíték mértéke tizenötmillió forint.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kölcsönzés biztosítéka lényegesen magasabb, mint a magán-munkaközvetítésé. A 118/2001. (VI. 30.) Korm. rendelet 6. § (2) bekezdés b) pontja szerint a vagyoni biztosíték mértéke „kölcsönzési tevékenység folytatása esetén tizenötmillió forint”. A letét hitelintézetnél vagy pénzügyi vállalkozásnál lekötött, elkülönítetten kezelt, határozatlan idejű pénzbeli biztosíték. Kizárólag a munkavállaló vagy a munkát kereső kártérítési igényének kielégítésére használható, jogerős ítélet vagy egyezség alapján."
+        },
+        {
+          "text": "Ha a magán-munkaközvetítő kölcsönzést is végez, a biztosítékokat külön kell letétbe helyezni, és a kifizetés tevékenységenként, a saját letét erejéig teljesíthető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két tevékenység biztosítéka nem vonható össze. A 118/2001. (VI. 30.) Korm. rendelet 6. § (5) bekezdése szerint, ha a magán-munkaközvetítő munkaerő-kölcsönzést is végez, a biztosítékok összegét külön kell letétbe helyezni; az egyes tevékenységekhez kapcsolódó kártérítési igények kielégítése a saját letét mértékéig, tevékenységenként külön történik. A 7. § (3) bekezdése a megszűnéskor is csak a megszűnő tevékenység letétjét engedi feloldani. A szabály a kereszthasználatot zárja ki."
+        },
+        {
+          "text": "A kölcsönzési biztosíték ötszázezer forint, azonos a belföldi magán-munkaközvetítésével.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az ötszázezer forint a magán-munkaközvetítés belföldi / EGT-irányú mértéke, nem a kölcsönzésé. A 118/2001. (VI. 30.) Korm. rendelet 6. § (2) bekezdés a) pont aa) alpontja az ötszázezer forintot a magán-munkaközvetítéshez köti, míg a b) pont a kölcsönzésnél tizenötmillió forintot ír elő. A tévedés a két tevékenység biztosítéki táblájának összecseréléséből ered."
+        },
+        {
+          "text": "A letét a kölcsönvevő munkabér-tartozásának kielégítésére is szabadon felhasználható a kölcsönbeadó helyett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a biztosíték célja szűk: kártérítési igény, nem bérkövetelés. A 118/2001. (VI. 30.) Korm. rendelet 6. § (4) bekezdés a)–b) pontja szerint a letét kizárólag a kölcsönzés vagy a magán-munkaközvetítés során keletkezett, a munkavállaló vagy a munkát kereső részéről felmerülő kártérítési igény kielégítésére használható, jogerős ítélet vagy egyezség alapján. Az Mt. 221. § (4) bekezdése az egyetemlegességet a kárra és a személyiségi jogra, nem a munkabérre mondja ki. A tévedés a bérigény és a kártérítési fedezet összekeveréséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 7
+    },
+    {
+      "question": "Mi a kölcsönbeadó és a kölcsönvevő megállapodásának kötelező tartalma, és mikor semmis?",
+      "options": [
+        {
+          "text": "A megállapodás tartalmazza a kölcsönzés lényeges feltételeit és a munkáltatói jogkör megosztását; a munkaviszony megszüntetésének jogát kizárólag a kölcsönbeadó gyakorolhatja, és a megállapodást írásba kell foglalni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két munkáltató közötti megállapodás a jogkör-megosztás alapokmánya. Az Mt. 217. § (1) bekezdése szerint a kölcsönbeadó és a kölcsönvevő közötti megállapodás tartalmazza a kölcsönzés lényeges feltételeit, a munkáltatói jogkör gyakorlása megosztását; a munkaviszony megszüntetésének jogát kizárólag a kölcsönbeadó gyakorolhatja, és a megállapodást írásba kell foglalni. A 220. § (6) bekezdése szerint a munkavállaló a megszüntető jognyilatkozatot a kölcsönbeadóval közli. A 222. § (1) bekezdés b) pontja a 217. § (1) bekezdésétől a felek megállapodásával vagy kollektív szerződéssel sem enged eltérést."
+        },
+        {
+          "text": "Semmis a megállapodás, ha a két munkáltató tulajdonosa részben vagy egészben azonos, ha az egyik a másik tulajdonosa, vagy ha mindketten egy harmadik szervezethez kötődő tulajdonjogi viszony alapján állnak kapcsolatban.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a saját csoporton belüli „kölcsönzés” a jogintézmény megkerülése. Az Mt. 217. § (1) bekezdés a)–c) pontja taxatíve semmissé teszi a megállapodást, ha a tulajdonos részben vagy egészben azonos, ha legalább az egyik valamely arányban tulajdonosa a másiknak, vagy ha egy harmadik szervezethez kötődő tulajdonjogi viszony köti össze őket. A szabály a saját munkavállaló belső átcímkézését zárja ki. A kógencia a 222. § (1) bekezdés b) pontja szerint is védi ezt a magot."
+        },
+        {
+          "text": "A kölcsönvevő is gyakorolhatja a munkaviszony megszüntetésének jogát, ha a megállapodás így rendelkezik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megszüntetési jog kizárólagos a kölcsönbeadónál. Az Mt. 217. § (1) bekezdése szerint a munkaviszony megszüntetésének jogát kizárólag a kölcsönbeadó gyakorolhatja; a felek megállapodása ettől a 222. § (1) bekezdés b) pontja szerint nem térhet el. A 220. § (6) bekezdése a munkavállaló megszüntető nyilatkozatának címzettjét is a kölcsönbeadóban jelöli ki. A tévedés a megosztott munkáltatói jogkörnek a megszüntetésre való kiterjesztéséből ered."
+        },
+        {
+          "text": "A munkabéren kívüli juttatás soha nem járhat közvetlenül a kölcsönvevőtől.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törvény expressis verbis megengedi a közvetlen kölcsönveői juttatást. Az Mt. 217. § (2) bekezdése szerint a kölcsönbeadó és a kölcsönvevő megállapodhatnak, hogy a munkabéren kívüli juttatást a munkavállaló közvetlenül a kölcsönvevőtől kapja. Ez nem érinti a minimális kölcsönzési díj 9/A. § szerinti alsó korlátját. A tévedés a munkabérfizetés kölcsönbeadói centrumának a munkabéren kívüli juttatásra való ráírásából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 8
+    },
+    {
+      "question": "Mit kell tartalmaznia a kölcsönzés céljából kötött munkaszerződésnek, és miről kell tájékoztatni a munkavállalót a szerződéskötéskor?",
+      "options": [
+        {
+          "text": "A munkaszerződésben meg kell állapodni abban, hogy kölcsönzés céljából jön létre, továbbá meg kell határozni a munkavégzés jellegét és az alapbért.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kölcsönzési cél a szerződés kötelező tartalmi eleme, nem utólagos minősítés. Az Mt. 218. § (1) bekezdése szerint a munkaszerződésben meg kell állapodni abban, hogy a munkaszerződés kölcsönzés céljából jön létre, továbbá meg kell határozni a munkavégzés jellegét és az alapbért. A 222. § (1) bekezdés c) pontja ezt a kört kógenssé teszi. A cél nélküli „általános” munkaszerződés tehát nem felel meg a kölcsönzési fejezetnek."
+        },
+        {
+          "text": "A kölcsönbeadó a munkaszerződés megkötésekor a 46. §-ban foglaltakon túl tájékoztatja a munkavállalót a nyilvántartásba vételi számáról.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nyilvántartási szám a kölcsönbeadói jogosultság ellenőrizhetőségét szolgálja a munkavállaló felé is. Az Mt. 218. § (2) bekezdése szerint a kölcsönbeadó a munkaszerződés megkötésekor a 46. §-ban foglaltakon túl tájékoztatja a munkavállalót nyilvántartásba vételi számáról. A 118/2001. (VI. 30.) Korm. rendelet 9. § (2) bekezdése ugyanezt a számot az üzleti kapcsolatokban és hirdetésekben is kötelezően használtatja. A 222. § (1) bekezdés c) pontja a (2) bekezdéstől sem enged eltérést."
+        },
+        {
+          "text": "A munkavédelemmel, valamint a munkaidővel és pihenőidővel kapcsolatos munkáltatói jogok a kikölcsönzés alatt is kizárólag a kölcsönbeadónál maradnak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kikölcsönzés alatt ezek a jogok és kötelezettségek a kölcsönvevőre szállnak. Az Mt. 218. § (4) bekezdése szerint a kikölcsönzés tartama alatt a munkavállaló munkavédelmével, az 51. § (1) és (3)–(5) bekezdésében foglaltakkal, valamint a munkaidővel és pihenőidővel, ezek nyilvántartásával kapcsolatos jogokat és kötelezettségeket a kölcsönvevő gyakorolja és teljesíti. A 222. § (1) bekezdés c) pontja a (4) bekezdés a)–b) pontját kógenssé teszi. A tévedés a munkaviszony kölcsönbeadói centrumának a teljes jogkörre való kiterjesztéséből ered."
+        },
+        {
+          "text": "A kölcsönvevő azonosító adatait és a kikölcsönzés kezdetét elegendő a kikölcsönzés megkezdése után szóban közölni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tájékoztatás írásbeli és a kikölcsönzést megelőző. Az Mt. 218. § (3) bekezdése szerint a kölcsönbeadó legkésőbb a kikölcsönzést megelőzően írásban tájékoztatja a munkavállalót egyebek mellett a kölcsönvevő azonosító adatairól, a kikölcsönzés kezdetéről, a munkavégzés helyéről, a munkarendről, a jogkörgyakorlóról, valamint a munkába járás, szállás és étkezés feltételeiről. A 222. § (2) bekezdése szerint ettől kollektív szerződés csak a munkavállaló javára térhet el. A tévedés az általános 18. § rugalmas mércéjének a 218. § (3) bekezdés konkrét határidejére való ráírásából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 9
+    },
+    {
+      "question": "Mit jelent az alapvető munka- és foglalkoztatási feltételek köre a kölcsönzésben?",
+      "options": [
+        {
+          "text": "A kikölcsönzés tartama alatt a munkavállaló számára biztosítani kell a kölcsönvevővel munkaviszonyban álló munkavállalókra irányadó alapvető munka- és foglalkoztatási feltételeket.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a mérce a kölcsönvevő saját munkavállalóinak szintje, nem a kölcsönbeadó általános gyakorlata. Az Mt. 219. § (1) bekezdése szerint a kikölcsönzés tartama alatt a munkavállaló számára biztosítani kell a kölcsönvevővel munkaviszonyban álló munkavállalókra irányadó alapvető munka- és foglalkoztatási feltételeket. A 2008/104/EK irányelv 5. cikk (1) bekezdése ugyanezt a „legalább olyan szintű” elvet mondja ki. A fogalom tehát összehasonlító, nem abszolút minimumbér-szabály."
+        },
+        {
+          "text": "Az alapvető feltételek különösen a várandós és szoptató nők, valamint a fiatal munkavállalók védelmére, a munkabérre és egyéb juttatásokra, továbbá az egyenlő bánásmódra vonatkozó rendelkezések.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés példálódzó, de zárt tartalmi magot ad. Az Mt. 219. § (2) bekezdése szerint az alapvető munka- és foglalkoztatási feltételek különösen a várandós és szoptató nők, valamint a fiatal munkavállalók védelmére, a munkabér összegére és védelmére, továbbá az egyéb juttatásokra, valamint az egyenlő bánásmód követelményére vonatkozó rendelkezések. A „különösen” fordulat nem engedi a védelmi mag kiiktatását. A 222. § (2) bekezdés c) pontja a (2) bekezdés a)–b) pontjától csak a munkavállaló javára enged kollektív eltérést."
+        },
+        {
+          "text": "Az alapvető feltételek kizárólag a munkabér összegére korlátozódnak; a várandós nők védelme nem tartozik ide.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a védelmi szabályok expressis verbis az alapvető feltételek közé tartoznak. Az Mt. 219. § (2) bekezdés a)–b) pontja a várandós és szoptató nők, valamint a fiatal munkavállalók védelmét az alapvető feltételek közé sorolja, a munkabér és az egyenlő bánásmód mellett. A 2008/104/EK irányelv 5. cikk (1) bekezdése ugyanezt a kört nevezi meg. A tévedés a bérnormát az egész egyenlő bánásmódi fogalommal azonosítja."
+        },
+        {
+          "text": "A kölcsönvevő saját munkavállalóira irányadó feltételek csak akkor irányadók, ha a kölcsönbeadó és a kölcsönvevő erről külön megállapodik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (1) bekezdés törvényi kötelezettség, nem szerződéses opció. Az Mt. 219. § (1) bekezdése a kikölcsönzés tartama alatt biztosítandó feltételeket ír elő; a felek megállapodása ezt a főszabályt nem kapcsolhatja ki. A (3) bekezdés csak a munkabér, az egyéb juttatások és az egyenlő bánásmód meghatározott személyi köreinél ad száznyolcvanhárom napos türelmet. A tévedés a (3) bekezdés kivételének a teljes (1) bekezdésre való kiterjesztéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 10
+    },
+    {
+      "question": "Mely esetben alkalmazandók a munkabérre, az egyéb juttatásokra és az egyenlő bánásmódra vonatkozó rendelkezések csak a száznyolcvannegyedik naptól?",
+      "options": [
+        {
+          "text": "Akkor, ha a munkavállaló a kölcsönbeadóval határozatlan idejű kölcsönzési célú munkaviszonyban áll, és kölcsönvevőnél történő foglalkoztatás hiányában is díjazásban részesül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tartós, díjazott kölcsönzési jogviszony a türelmi idő egyik személyi köre. Az Mt. 219. § (3) bekezdés a) pontja szerint a munkabér összegére, az egyéb juttatásokra és az egyenlő bánásmód követelményére vonatkozó rendelkezéseket a kölcsönvevőnél történő foglalkoztatás száznyolcvannegyedik napjától kell alkalmazni arra, aki a kölcsönbeadóval munkaerő-kölcsönzés céljából létesített határozatlan idejű munkaviszonyban áll, és kölcsönvevőnél történő foglalkoztatás hiányában is díjazásban részesül. Ez a 2008/104/EK irányelv 5. cikk (2) bekezdése szerinti mentesség magyar leképezése. A várandós és fiatal munkavállalók védelme ettől a türelemtől független."
+        },
+        {
+          "text": "Ugyanez a száznyolcvannegyedik napos fordulópont irányadó a tartósan távollévőnek minősülő munkavállalóra, valamint a helyi önkormányzat többségi tulajdonú gazdasági társaságánál vagy közhasznú szervezetnél kölcsönzött munkavállalóra is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a törvény a türelmi időt három személyi körre nyitja. Az Mt. 219. § (3) bekezdés b)–c) pontja a 2004. évi CXXIII. törvény szerinti tartósan távollévő munkavállalót, valamint a helyi önkormányzat többségi tulajdonában lévő gazdasági társaságnál vagy közhasznú szervezetnél kölcsönzött munkavállalót is ide vonja. A (4) bekezdés szerint az ismételt kikölcsönzés napjainak számítására a 214. § (2) bekezdése irányadó. A türelmi idő tehát nem általános minden kölcsönzöttre."
+        },
+        {
+          "text": "A száznyolcvannegyedik napos szabály minden kölcsönzött munkavállalóra automatikusan vonatkozik, személyi kör nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés taxatív személyi kört ad, nem általános késleltetést. Az Mt. 219. § (3) bekezdése csak a határozatlan idejű és díjazott, a tartósan távollévő, valamint a megjelölt önkormányzati/közhasznú kölcsönzési esetekben engedi a száznyolcvannegyedik napos fordulópontot. Az (1)–(2) bekezdés főszabálya ettől elkülönül. A tévedés a kivételnek a teljes kölcsönzotti állományra való kiterjesztéséből fakad."
+        },
+        {
+          "text": "A várandós és szoptató nők védelme is csak a száznyolcvannegyedik naptól alkalmazandó a (3) bekezdés szerinti körben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a türelmi idő nem érinti a (2) bekezdés a)–b) pontja szerinti védelmet. Az Mt. 219. § (3) bekezdése expressis verbis csak a munkabér összegére, az egyéb juttatásokra és az egyenlő bánásmód követelményére vonatkozó rendelkezéseket késlelteti. A várandós és szoptató nők, valamint a fiatal munkavállalók védelme az (1)–(2) bekezdés szerint a kikölcsönzés alatt biztosítandó. A tévedés a (3) bekezdés tárgyi hatályának a teljes (2) bekezdésre való kiterjesztéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 11
+    },
+    {
+      "question": "Mi következik a kikölcsönzés megszűnéséből a felmondás és a felmondási idő szempontjából?",
+      "options": [
+        {
+          "text": "A 66. § (2) bekezdése alkalmazásában a kölcsönbeadó működésével összefüggő oknak minősül a kikölcsönzés megszűnése.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kikölcsönzés vége önmagában felmondási ok a kölcsönbeadó oldalán. Az Mt. 220. § (1) bekezdése szerint a 66. § (2) bekezdése alkalmazásában a kölcsönbeadó működésével összefüggő oknak minősül a kikölcsönzés megszűnése. Ez a minősítés a működési okú felmondás indokolásához kapcsolódik, nem a munkaviszony automatikus megszűnéséhez. A megszüntetés joga továbbra is a kölcsönbeadóé a 217. § (1) bekezdése szerint."
+        },
+        {
+          "text": "A felmondási idő tizenöt nap; a kölcsönbeadó felmondása esetén — eltérő megállapodás hiányában — a munkavállaló a felmondási idő alatt mentesül a munkavégzés alól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kölcsönzési felmondási idő rövid, és a mentesülés a főszabály. Az Mt. 220. § (2) bekezdése szerint a felmondási idő tizenöt nap; a (3) bekezdés szerint a kölcsönbeadó felmondása esetén – eltérő megállapodás hiányában – a felmondási idő tartama alatt a munkavállaló mentesül a munkavégzési kötelezettsége alól. A 222. § (2) bekezdés b) pontja szerint a (2)–(3) bekezdéstől kollektív szerződés csak a munkavállaló javára térhet el. A 67/2009. (VI.19.) AB határozat ratio-ja mellett a 65. § szerinti felmondási tilalmakat a 222. § nem veszi ki."
+        },
+        {
+          "text": "A felmondási idő harminc nap, és a munkavállaló a felmondási idő alatt köteles munkát végezni, mentesülés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törvény tizenöt napot és főszabály szerinti mentesülést rendel. Az Mt. 220. § (2)–(3) bekezdése a felmondási időt tizenöt napban állapítja meg, és a kölcsönbeadó felmondása esetén – eltérő megállapodás hiányában – a munkavállaló mentesül a munkavégzés alól. A 222. § (2) bekezdése a munkavállaló rovására való eltérést nem engedi. A tévedés az általános felmondási idő és a kölcsönzési speciális szabály összecseréléséből ered."
+        },
+        {
+          "text": "A munkavállaló a megszüntető jognyilatkozatot a kölcsönvevővel is közölheti, ha ott végzi a munkát.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a címzett kizárólag a kölcsönbeadó. Az Mt. 220. § (6) bekezdése szerint a munkavállaló a munkaviszony megszüntetésére irányuló jognyilatkozatot a kölcsönbeadóval közli. Ez összhangban van a 217. § (1) bekezdésével, amely a megszüntetés jogát is a kölcsönbeadónál tartja. A tévedés a tényleges munkavégzési hely és a munkaviszony alanyi centrumának összekeveréséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 12
+    },
+    {
+      "question": "Hogyan oszlik meg a kár és a személyiségi jog megsértésének felelőssége kölcsönzésben?",
+      "options": [
+        {
+          "text": "A munkavállalónak a kikölcsönzés során okozott kárért vagy személyiségi jogai megsértéséért a kölcsönvevő és a kölcsönbeadó egyetemlegesen felel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkavállaló oldalán az egyetemlegesség áttöri a két munkáltató belső megosztását. Az Mt. 221. § (4) bekezdése szerint a munkavállalónak a kikölcsönzés során okozott kárért vagy személyiségi jogai megsértéséért a kölcsönvevő és a kölcsönbeadó egyetemlegesen felel. A szabály a kárra és a személyiségi jogra terjed ki, nem a munkabér-igényre. A 9. § a személyiségi jog Ptk. 2:42–54. § szerinti védelmét és az Mt. kártérítési szabályainak elsődlegességét adja."
+        },
+        {
+          "text": "A kölcsönvevő a munkavállaló károkozása vagy személyiségi jogsértése esetén az Mt. szerint léphet fel a munkavállalóval szemben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kölcsönvevő igényérvényesítési jogot kap a nála kárt okozó kölcsönzöttel szemben. Az Mt. 221. § (1) bekezdése szerint a munkavállaló károkozása vagy személyiségi jog sértése esetén a kölcsönvevő a munkavállalóval szembeni igényét e törvény rendelkezései szerint érvényesítheti. A (2)–(3) bekezdés lehetővé teszi a polgári jogi alkalmazotti károkozás szabályainak kikötését, és — eltérő megállapodás hiányában — munkáltatónak a kölcsönvevőt kell tekinteni. A belső megállapodás a külső igényérvényesítést nem szünteti meg."
+        },
+        {
+          "text": "Az egyetemlegesség a munkabér megfizetésére is kiterjed: a kölcsönvevő a bérért is helytáll a kölcsönbeadó mellett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (4) bekezdés a kárra és a személyiségi jogra szorítkozik. Az Mt. 221. § (4) bekezdése a munkavállalónak okozott kárért vagy személyiségi jogai megsértéséért mond egyetemlegességet; a munkabér-fizetés a kölcsönbeadó kötelezettsége marad. A 67/2009. (VI.19.) AB határozat indítványozói éppen a bérigény kölcsönvevővel szembeni hiányát sérelmezték. A tévedés az egyetemlegesség tárgyi hatályának a bérre való kiterjesztéséből ered."
+        },
+        {
+          "text": "A kölcsönvevő soha nem érvényesíthet igényt a kölcsönzött munkavállalóval szemben, mert nincs közöttük munkaviszony.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törvény külön igényérvényesítési jogot ad a kölcsönvevőnek. Az Mt. 221. § (1) bekezdése szerint a kölcsönvevő a munkavállaló károkozása vagy személyiségi jog sértése esetén az Mt. szerint léphet fel, noha a munkaviszony a kölcsönbeadóé. A (2)–(3) bekezdés a polgári jogi út kikötését is megengedi. A tévedés a munkaviszony hiányából az igényérvényesítés teljes kizárására következtet."
+        }
+      ],
+      "sourceKerdesSorszam": 13
+    },
+    {
+      "question": "Miben tér el a 222. § (1) és (2) bekezdésének eltérési rendje?",
+      "options": [
+        {
+          "text": "A felek megállapodása vagy kollektív szerződés a 214–216. §-tól, a 217. § (1) bekezdésétől, valamint a 218. § (1)–(2) bekezdésétől és (4) bekezdés a)–b) pontjától nem térhet el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (1) bekezdés abszolút kógens magot zár. Az Mt. 222. § (1) bekezdése szerint a felek megállapodása vagy kollektív szerződés a 214–216. §-ban, a 217. § (1) bekezdésében, valamint a 218. § (1)–(2) és (4) bekezdés a) és b) pontjában foglaltaktól nem térhet el. Ide tartozik a fogalom, a kölcsönbeadói jogosultság, a tilalmak, a megszüntetési jog kizárólagossága, a kölcsönzési célú szerződés és a munkavédelmi/51. §-os jogkör-átszállás. A (2) bekezdés ettől elkülönülő, javára eltérést engedő kört ad."
+        },
+        {
+          "text": "Kollektív szerződés a 218. § (3) bekezdésétől, a 220. § (2)–(3) bekezdésétől és a 219. § (2) bekezdés a)–b) pontjától csak a munkavállaló javára térhet el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés egyoldalú eltérési tilalmat állít fel. Az Mt. 222. § (2) bekezdése szerint kollektív szerződés a 218. § (3) bekezdésében, a 220. § (2)–(3) bekezdésében, valamint a 219. § (2) bekezdés a) és b) pontjában foglaltaktól csak a munkavállaló javára térhet el. Ide tartozik a kikölcsönzés előtti tájékoztatás, a tizenöt napos felmondási idő és a mentesülés, valamint a várandós/szoptató és fiatal munkavállalók védelme. A felek egyedi megállapodása e körben nem kap ugyanilyen eltérési kaput."
+        },
+        {
+          "text": "A 220. § (2)–(3) bekezdése abszolút kógens: még a munkavállaló javára sem lehet kollektív szerződéssel eltérni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felmondási idő és a mentesülés a (2) bekezdés szerinti, javára eltérést engedő körbe tartozik. Az Mt. 222. § (2) bekezdés b) pontja expressis verbis a 220. § (2)–(3) bekezdésétől csak a munkavállaló javára enged kollektív eltérést. Az abszolút tilalom az (1) bekezdés taxatív listájára vonatkozik, abba a 220. § nem került be. A tévedés a két eltérési szint összecseréléséből fakad."
+        },
+        {
+          "text": "A 219. § (2) bekezdés c)–d) pontja (munkabér, egyéb juttatás, egyenlő bánásmód) is csak a munkavállaló javára téríthető el kollektív szerződéssel a (2) bekezdés szerint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés c) pontja csak a 219. § (2) bekezdés a)–b) pontját említi. Az Mt. 222. § (2) bekezdés c) pontja a várandós és szoptató nők, valamint a fiatal munkavállaló védelméről szól; a munkabérre, az egyéb juttatásokra és az egyenlő bánásmódra vonatkozó c)–d) pontokat nem sorolja ide. A tévedés a 219. § (2) bekezdés teljes listájának a 222. § (2) bekezdés c) pontjára való ráírásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 14
+    },
+    {
+      "question": "Mely általános Mt.-szabályok nem alkalmazhatók munkaerő-kölcsönzés esetén?",
+      "options": [
+        {
+          "text": "Nem alkalmazható a 69. § (1)–(2) és (4) bekezdése, a 193–195. §, a 198–200. § és a 212. §.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés pontonként zárja ki a megjelölt általános szabályokat. Az Mt. 222. § (3) bekezdése szerint munkaerő-kölcsönzés esetén a 69. § (1)–(2) és (4) bekezdésében, a 193–195. §-ban, a 198–200. §-ban és a 212. §-ban foglaltakat nem lehet alkalmazni. A 69. § (3) bekezdése tehát nem került a kizárás alá. A 193–195. és 198–200. § az üzemi tanács és a szakszervezet egyes általános szabályait érinti."
+        },
+        {
+          "text": "A 71–76. § rendelkezéseit nem kell alkalmazni; a végkielégítésnél a 77. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy az utolsó kikölcsönzés alatti tartam számít.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a határozott idejű munkaviszony egyes általános szabályai és a végkielégítés számítása külön kezelendő. Az Mt. 222. § (4) bekezdése szerint a 71–76. § rendelkezéseit nem kell alkalmazni; az (5) bekezdés a 77. § (2) bekezdését azzal az eltéréssel rendeli alkalmazni, hogy a végkielégítésre való jogosultság megállapításakor a munkaviszonynak az utolsó kikölcsönzés alatti tartamát kell figyelembe venni. A teljes munkaviszonyi tartam tehát nem automatikus mérce. A 220. § a kikölcsönzés megszűnését működési oknak minősíti, és tizenöt napos felmondási időt állapít meg — ez a végkielégítési számítási eltéréstől különálló megszüntetési rend."
+        },
+        {
+          "text": "A 69. § egésze, így a (3) bekezdés is, kizárt a kölcsönzésből.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kizárás csak a 69. § (1)–(2) és (4) bekezdésére vonatkozik. Az Mt. 222. § (3) bekezdés a) pontja expressis verbis a 69. § (1)–(2) és (4) bekezdését nevezi meg, nem a teljes 69. §-t. A (3) bekezdés tehát nem került a „nem lehet alkalmazni” fordulat alá. A tévedés a szakaszszámnak a bekezdésszintű kizárással való felcseréléséből ered."
+        },
+        {
+          "text": "A 65. § szerinti felmondási tilalmakat a 222. § kivette a kölcsönzésből, ezért a védett élethelyzetekre nem irányadók.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hatályos 222. § a 65. §-t nem veszi ki. A 67/2009. (VI.19.) AB határozat a korábbi teljes kizárást semmisítette meg, a hatályos 222. § pedig a 65. § szerinti felmondási tilalmakat nem veszi ki, ezért a védett élethelyzetekre szabott tilalmak a kölcsönzésben is irányadók. A (3)–(4) bekezdés taxatív listáján a 65. § nem szerepel. A tévedés a régi Mt. 193/P. § megsemmisített fordulatának a hatályos kógencia-rendre való ráírásából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 15
+    },
+    {
+      "question": "Mit foglal magában a 295. § (1) bekezdés kötelező magja a külföldi munkáltató magyarországi foglalkoztatásánál a kölcsönzés és a személyi védelem szempontjából?",
+      "options": [
+        {
+          "text": "A magyar jog kötelező magjába tartozik a munkaerő-kölcsönzésnek a 214–222. §-ban meghatározott feltételei, valamint a várandós vagy kisgyermekes nő és a fiatal munkavállaló munkavállalási és foglalkoztatási feltételei.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 295. § a kölcsönzési fejezetet és a személyi védelmet is a kötelező magba emeli. Az Mt. 295. § (1) bekezdés d) pontja a munkaerő-kölcsönzésnek a 214–222. §-ban meghatározott feltételeit, az f) pont a várandós vagy kisgyermekes nő, valamint a fiatal munkavállaló munkavállalási és foglalkoztatási feltételeit rendeli alkalmazni. Az f) pont tehát „várandós vagy kisgyermekes nő” fordulatot használ, nem csupán a várandósságot. A szabály akkor is irányadó, ha a foglalkoztatás a külföldi munkáltató vagy azonos cégcsoport magyarországi telephelyén történik."
+        },
+        {
+          "text": "A kötelező mag része az utazással, ellátással és szállással kapcsolatos költségekre fizetett juttatás vagy költségtérítés mértéke is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az i) pont a költségtérítési oldalt is a magyar jog alá vonja. Az Mt. 295. § (1) bekezdés i) pontja szerint Magyarország területén ideiglenesen foglalkoztatott munkavállaló kiküldetésekor felmerülő vagy a szokásos munkavégzés helyétől eltérő munkahelyre küldés esetén az utazással, ellátással és szállással kapcsolatos költségekre fizetett juttatások vagy költségtérítés mértéke tekintetében a magyar jog szabályait kell alkalmazni. A (9) bekezdés szerint, ha a munkaviszonyra egyébként irányadó jog kedvezőbb, az (1)–(3) bekezdés nem alkalmazandó. A h) pont a szállás feltételeit külön is említi."
+        },
+        {
+          "text": "Az f) pont csak a várandós nőre vonatkozik; a kisgyermekes nő nem tartozik a kötelező magba.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törvény a kisgyermekes nőt is megnevezi. Az Mt. 295. § (1) bekezdés f) pontja szerint a várandós vagy kisgyermekes nő, valamint a fiatal munkavállaló munkavállalási és foglalkoztatási feltételei tartoznak a kötelező magba. A „vagy” fordulat mindkét személyi kört bevonja. A tévedés a 219. § (2) bekezdés a) pontja szerinti várandós/szoptató fordulatnak a 295. § f) pontjára való ráírásából ered."
+        },
+        {
+          "text": "A 295. § (1)–(3) bekezdése akkor is alkalmazandó, ha a munkaviszonyra egyébként irányadó jog a munkavállalóra kedvezőbb.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kedvezőbb irányadó jog kiszorítja az (1)–(3) bekezdést. Az Mt. 295. § (9) bekezdése szerint az (1)–(3) bekezdés rendelkezéseit nem kell alkalmazni, ha az (1) bekezdésben meghatározott feltételek tekintetében a munkaviszonyra egyébként irányadó jog a munkavállalóra kedvezőbb. A magyar kötelező mag tehát minimum, nem abszolút kizáró szabály. A tévedés a minimumjelleg és a kógens kizárólagosság összecseréléséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 16
+    },
+    {
+      "question": "A 67/2009. (VI.19.) AB határozat mely megállapításai határozzák meg a kölcsönzési intézmény alkotmányos határát?",
+      "options": [
+        {
+          "text": "Az Alkotmánybíróság megsemmisítette a korábbi Mt. azon fordulatát, amely a kölcsönzött munkavállalót teljeskörűen kizárta a felmondási tilalmak alól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a teljes kizárás volt alkotmányellenes, nem a kölcsönzés intézménye. A 67/2009. (VI.19.) AB határozat a 193/P. § (1) bekezdésének „86/A. §–96. §-ai” szövegrészéből a 90. §-ra vonatkozó rendelkezést semmisítette meg: a kölcsönzött munkavállaló nem zárható ki teljeskörűen a felmondási tilalmak alól. A Pécsi Munkaügyi Bíróság előtt veszélyeztetett terhesség miatt táppénzes állományban lévő munkavállaló rendes felmondása ügyében a megsemmisített fordulat nem volt alkalmazható. A hatályos 222. § a 65. §-t nem veszi ki."
+        },
+        {
+          "text": "A szabadság kiadásának időpontjáról szóló előzetes közlés három napra rövidítése is megsemmisült; a kölcsönzés mint intézmény megsemmisítését az Alkotmánybíróság elutasította.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a határozat pontszerűen semmisített, az intézményt fenntartotta. A 67/2009. (VI.19.) AB határozat a 193/N. § (1) bekezdésének második mondatát — a háromnapos előzetes közlést — 2009. október 31-ével semmisítette meg, míg a XI. fejezet és több más szakasz alkotmányellenességének megállapítását elutasította. A kölcsönzés mint intézmény tehát nem volt alkotmányellenes. A ratio — a védett élethelyzetekre szabott felmondási tilalom általános kizárásának tilalma — a hatályos kógens rend mellett is olvasható."
+        },
+        {
+          "text": "Az Alkotmánybíróság a teljes kölcsönzési fejezetet megsemmisítette, ezért a hatályos Mt. XVI. fejezete alkotmányellenes.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a fejezet megsemmisítésére irányuló indítványt elutasították. A 67/2009. (VI.19.) AB határozat a XI. fejezet, valamint több nevesített szakasz alkotmányellenességének megállapítását elutasította: a kölcsönzés mint intézmény fennmaradt. A hatályos Mt. 214–222. § a fejezetet újraszabályozza, a 65. § szerinti tilalmak kivétele nélkül. A tévedés a pontszerű megsemmisítésnek a teljes intézményre való kiterjesztéséből ered."
+        },
+        {
+          "text": "A hatályos Mt. 220. § szerinti tizenöt napos felmondási idő azért alkotmányellenes, mert a 67/2009. (VI.19.) AB határozat a felmondási időt is megsemmisítette.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határozat a felmondási tilalmak teljes kizárását és a szabadság-közlés rövidítését semmisítette meg, nem a felmondási idő mértékét. A 67/2009. (VI.19.) AB határozat a 90. §-ra vonatkozó kizárást és a 193/N. § háromnapos közlését érintette; a hatályos 220. § (2) bekezdése a tizenöt napos felmondási időt önállóan állapítja meg. A 222. § (2) bekezdése ettől csak a munkavállaló javára enged kollektív eltérést. A tévedés a megsemmisített tárgykörnek a felmondási időre való ráírásából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 17
+    },
+    {
+      "question": "Eltérő megállapodás hiányában ki viseli a kölcsönzéshez kapcsolódó utazási és alkalmassági költségeket, és milyen határidővel közli a kölcsönvevő a béradatokat?",
+      "options": [
+        {
+          "text": "Eltérő megállapodás hiányában a kölcsönbeadó viseli az 51. § (2) bekezdése szerinti költségeket, így különösen a munkavállaló utazási költségeit és az alkalmassági vizsgálat díját.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a költségviselés főszabálya a kölcsönbeadónál van, de megállapodással eltolható. Az Mt. 217. § (4) bekezdése szerint: „Eltérő megállapodás hiányában a kölcsönbeadó viseli az 51. § (2) bekezdésében foglaltak szerinti költségeket, így különösen a munkavállaló utazási költségeit és a munkavégzéshez szükséges alkalmassági vizsgálat díját.” Ez nem a 222. § (1) bekezdés szerinti abszolút kógens mag; a felek eltérhetnek. A szabályt nem szabad a 222. § (1) bekezdés kógens listájával összetéveszteni."
+        },
+        {
+          "text": "A kölcsönvevő — eltérő megállapodás hiányában — legkésőbb a tárgyhónapot követő hónap ötödik napjáig közli a bérfizetéshez és a munkáltatói bevalláshoz szükséges adatokat; hónapközi megszűnéskor három munkanapon belül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a béradat-közlés külön, szoros határidőkhöz kötött kötelezettség. Az Mt. 217. § (5) bekezdése szerint a kölcsönvevő – eltérő megállapodás hiányában – köteles legkésőbb a tárgyhónapot követő hónap ötödik napjáig közölni a munkabér kifizetéséhez, valamint a munkáltatót terhelő bevallási, adatszolgáltatási, fizetési kötelezettség teljesítéséhez szükséges adatokat; ha a munkaviszony a hónap közben szűnik meg, az utolsó munkában töltött napot követő három munkanapon belül. A (4) bekezdés költségviselésétől ez elkülönülő kötelezettség. Az Mt. 10. § (1) bekezdése a nyilatkozat és a személyes adat bekérését a munkaviszony létesítése, teljesítése, megszűnése vagy az igényérvényesítés szempontjából lényeges körre szűkíti."
+        },
+        {
+          "text": "A 217. § (4) bekezdés első mondata kógens a 222. § (1) bekezdése szerint, ezért a felek a költségviselésen nem változtathatnak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (4) bekezdés első mondata expressis verbis „eltérő megállapodás hiányában” fordulattal él, és nincs a 222. § (1) bekezdés listáján. Az Mt. 222. § (1) bekezdése a 217. §-ból csak az (1) bekezdést teszi abszolút kógenssé; a (4) bekezdés költségviselése megállapodással eltéríthető. A tévedés a 217. § egészének a kógens magba sorolásából ered."
+        },
+        {
+          "text": "A béradatokat a kölcsönvevőnek csak a tárgynegyedévet követő hónap végéig kell közölnie.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határidő havi, nem negyedéves. Az Mt. 217. § (5) bekezdése a tárgyhónapot követő hónap ötödik napját, hónapközi megszűnéskor pedig három munkanapot ír elő. A negyedéves ritmus a 216. § (4) bekezdése szerinti üzemi tanácsi tájékoztatás féléves ütemével sem azonos. A tévedés a tájékoztatási és a béradat-közlési határidők összecseréléséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 18
+    },
+    {
+      "question": "A kölcsönvevő üzemi tanácsot és a munkavállalókat milyen ütemben köteles tájékoztatni a kölcsönzésről?",
+      "options": [
+        {
+          "text": "A kölcsönvevőnek a kölcsönzés keretében foglalkoztatottak létszámáról és foglalkoztatási feltételeiről, valamint a betöltetlen álláshelyekről az üzemi tanácsot legalább félévente, a munkavállalókat folyamatosan tájékoztatnia kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tájékoztatás két címzetti körre és két ütemre bomlik. Az Mt. 216. § (4) bekezdése szerint a kölcsönvevőnek a kölcsönzés keretében foglalkoztatott munkavállalók létszámáról és foglalkoztatási feltételeiről, valamint a betöltetlen álláshelyekről az üzemi tanácsot legalább félévente, valamint a munkavállalókat folyamatosan tájékoztatnia kell. A 2008/104/EK irányelv 8. cikke a képviselői tájékoztatást, a 6. cikk (1) bekezdése a megüresedő állásokról szóló tájékoztatást erősíti. Az Mt. 18. § (2) bekezdése szerint a tájékoztatást közöltnek kell tekinteni, ha azt a helyben szokásos és általában ismert módon közzéteszik."
+        },
+        {
+          "text": "A betöltetlen álláshelyekről szóló tájékoztatás a kölcsönzött munkavállaló állandó álláshoz való hozzáférését is szolgálja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tájékoztatás nem pusztán reprezentatív formalitás. A 2008/104/EK irányelv 6. cikk (1) bekezdése szerint a kölcsönzött munkavállalókat a kölcsönvevőnél megüresedő állásokról tájékoztatni kell, hogy a közvetlenül alkalmazottakkal azonos esélyekkel találhassanak állandó állást; a tájékoztatás általános értesítés útján is nyújtható. Az Mt. 216. § (4) bekezdés b) pontja a betöltetlen álláshelyek folyamatos közlését írja elő. A 216. § (3) bekezdés a) pontja a későbbi jogviszony-tilalmat semmisíti."
+        },
+        {
+          "text": "Az üzemi tanácsot elegendő évente egyszer tájékoztatni a kölcsönzöttek létszámáról.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törvény legalább féléves ütemet kíván. Az Mt. 216. § (4) bekezdése szerint az üzemi tanácsot legalább félévente kell tájékoztatni a létszámról és a foglalkoztatási feltételekről. Az éves ritmus elmarad a törvényi minimumtól. A tévedés a reprezentatív tájékoztatás általános gyakoriságának a kölcsönzési speciális szabályra való ráírásából ered."
+        },
+        {
+          "text": "A munkavállalókat csak akkor kell tájékoztatni a betöltetlen álláshelyekről, ha maguk kérik írásban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tájékoztatás folyamatos törvényi kötelezettség, nem kérelemhez kötött. Az Mt. 216. § (4) bekezdése a munkavállalók folyamatos tájékoztatását írja elő a létszámról, a foglalkoztatási feltételekről és a betöltetlen álláshelyekről. A 2008/104/EK irányelv 6. cikk (1) bekezdése ugyanezt a hozzáférési célt szolgálja. A tévedés a kérelemhez kötött adatszolgáltatásnak a kötelező tájékoztatásra való ráírásából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 19
+    },
+    {
+      "question": "Mely esetben élhet a kölcsönzött munkavállaló azonnali hatályú felmondással a kölcsönvevő magatartása miatt?",
+      "options": [
+        {
+          "text": "A munkavállaló azonnali hatályú felmondással akkor is megszüntetheti a munkaviszonyt, ha a 78. § (1) bekezdése szerinti kötelességszegést vagy magatartást a kölcsönvevő tanúsítja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tényleges irányítást gyakorló kölcsönvevő magatartása is megalapozhatja az azonnali hatályú felmondást. Az Mt. 220. § (4) bekezdése szerint a munkavállaló a munkaviszonyt azonnali hatályú felmondással akkor is megszüntetheti, ha a 78. § (1) bekezdésben foglalt kötelességszegést vagy magatartást a kölcsönvevő tanúsítja. A megszüntető nyilatkozatot a (6) bekezdés szerint a kölcsönbeadóval kell közölni. A szabály a háromszereplős szerkezetből eredő felelősségi hézagot zárja."
+        },
+        {
+          "text": "A kölcsönvevő a munkavállaló kötelezettségszegéséről a kölcsönbeadót a tudomásszerzéstől számított öt munkanapon belül írásban tájékoztatja; a 78. § (2) bekezdése szerinti határidő e tájékoztatás közlésével kezdődik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kölcsönveői tudomásszerzés önmagában nem indítja a kölcsönbeadói határidőt. Az Mt. 220. § (5) bekezdése szerint a kölcsönvevő a munkavállaló kötelezettségszegéséről a kölcsönbeadót a tudomásszerzéstől számított öt munkanapon belül írásban tájékoztatja, és a 78. § (2) bekezdésében meghatározott határidő a tájékoztatás közlésével kezdődik. A késedelmes tájékoztatás tehát a kölcsönbeadó fellépési idejét is tolja. A megszüntetés joga továbbra is a kölcsönbeadóé."
+        },
+        {
+          "text": "Az azonnali hatályú felmondás csak a kölcsönbeadó kötelességszegése esetén lehetséges; a kölcsönvevő magatartása irreleváns.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (4) bekezdés expressis verbis a kölcsönvevő magatartását is alapul veszi. Az Mt. 220. § (4) bekezdése szerint a 78. § (1) bekezdése szerinti kötelességszegés vagy magatartás a kölcsönvevő részéről is megalapozza az azonnali hatályú felmondást. A munkaviszony alanya a kölcsönbeadó marad, de a tényleges irányítás a kölcsönvevőé. A tévedés a munkaviszony alanyi centrumának az azonnali hatályú felmondás tényállási elemeivel való összekeveréséből ered."
+        },
+        {
+          "text": "A 78. § (2) bekezdése szerinti határidő a kölcsönvevő tudomásszerzésének napján automatikusan megkezdődik, tájékoztatás nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határidő a kölcsönbeadóhoz intézett tájékoztatás közléséhez kötött. Az Mt. 220. § (5) bekezdése szerint a 78. § (2) bekezdésében meghatározott határidő a tájékoztatás közlésével kezdődik, nem a kölcsönvevő belső tudomásszerzésével. A kölcsönvevőnek öt munkanapja van az írásbeli tájékoztatásra. A tévedés az általános 78. § (2) bekezdés közvetlen tudomásszerzési fordulatának a kölcsönzési speciális indítóra való ráírásából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 20
+    },
+    {
+      "question": "A 2008/104/EK irányelv 6. cikk (4) bekezdése szerint milyen közös létesítményekhez kell hozzáférést biztosítani?",
+      "options": [
+        {
+          "text": "A kölcsönzött munkavállalók számára a kölcsönvevő szolgáltatásaihoz és közös létesítményeihez — különösen az étkezdéhez, a gyermekgondozási létesítményekhez és az utazási szolgáltatásokhoz — a közvetlenül alkalmazottakkal megegyező feltételekkel kell hozzáférést biztosítani, kivéve az objektív indokon alapuló eltérést.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a „különösen” fordulat példálódzó magot ad, nem taxatív bezárást. A 2008/104/EK irányelv 6. cikk (4) bekezdése szerint a kölcsönzött munkavállalók számára a kölcsönvevő vállalkozás szolgáltatásaihoz, illetve közös létesítményeihez, különösen az étkezdéhez, a gyermekgondozási létesítményekhez és az utazási szolgáltatásokhoz hozzáférést kell biztosítani a közvetlenül alkalmazottakkal megegyező feltételekkel, kivéve, ha az eltérő bánásmódot objektív indokok támasztják alá. Az 5. cikk (1) bekezdésének sérelme nélkül áll. Az Mt. 219. § (1) bekezdése a kikölcsönzés tartama alatt a kölcsönvevő saját munkavállalóira irányadó alapvető munka- és foglalkoztatási feltételeket biztosítani rendeli."
+        },
+        {
+          "text": "A munkaerő-kölcsönző a munkavállalóval szemben díjat nem számíthat fel sem a felvételért, sem a későbbi munkaviszony létesítéséért.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a díjtilalom a 6. cikk önálló védelme. A 2008/104/EK irányelv 6. cikk (3) bekezdése szerint a munkaerő-kölcsönzők nem számolhatnak fel semmilyen díjat a munkavállalókkal szemben annak fejében, hogy rajtuk keresztül a kölcsönvevő felvette őket, vagy a kikölcsönzést követően munkaszerződést kötött velük. Az Mt. 216. § (3) bekezdés b) pontja ezt érvénytelenségi szabállyá ülteti. A 118/2001. (VI. 30.) Korm. rendelet 10. § (3) bekezdése a magán-munkaközvetítésben ugyanezt a tilalmat rögzíti."
+        },
+        {
+          "text": "Az étkezdéhez és a gyermekgondozáshoz való hozzáférés csak akkor jár, ha a kollektív szerződés expressis verbis előírja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 6. cikk (4) bekezdése irányelvi kötelezettség, nem kollektív szerződéses opció. A 2008/104/EK irányelv 6. cikk (4) bekezdése a közvetlenül alkalmazottakkal megegyező feltételeket ír elő, objektív indok kivételével. Az Mt. 219. § (1) bekezdése a kölcsönveői alapvető feltételeket törvényi szinten biztosítja. A tévedés a kollektív szerződéses kedvezménynek az irányelvi minimumra való ráírásából ered."
+        },
+        {
+          "text": "A 6. cikk (4) bekezdése csak az utazási szolgáltatásokra vonatkozik; az étkezde és a gyermekgondozás kívül esik a körön.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a 6. cikk (4) bekezdésének tárgyi körét az utazásra szűkíti. A 2008/104/EK irányelv 6. cikk (4) bekezdése és az Mt. 219. § (1) bekezdése szerint a kölcsönzött munkavállaló számára a kölcsönvevőnél irányadó alapvető feltételeket — ideértve a közös létesítményekhez, különösen az étkezdéhez és a gyermekgondozáshoz való hozzáférést — a közvetlenül alkalmazottakkal megegyező feltételekkel kell biztosítani, objektív indok kivételével. Az étkezde és a gyermekgondozás tehát a védett körbe tartozik. A tévedés a lista egyik elemének a teljes hatályra való szűkítéséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 21
+    },
+    {
+      "question": "Mikor indokolt a munkaerő-kölcsönzés igénybevételére vonatkozó korlátozás vagy tilalom a 2008/104/EK irányelv 4. cikke szerint?",
+      "options": [
+        {
+          "text": "A korlátozások vagy tilalmak kizárólag akkor tekinthetők indokoltnak, ha általános érdeket szolgálnak, különös tekintettel a kölcsönzött munkavállalók védelmére, a munkahelyi biztonságra és egészségvédelemre, a munkaerőpiac megfelelő működésére és a visszaélések megelőzésére.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 4. cikk az általános érdeket teszi a tilalom igazolási mércéjévé. A 2008/104/EK irányelv 4. cikk (1) bekezdése szerint a munkaerő-kölcsönzés keretében történő munkavégzés igénybevételére vonatkozó korlátozások vagy tilalmak kizárólag akkor tekinthetők indokoltnak, ha általános érdeket szolgálnak, különös tekintettel a kölcsönzött munkavállalók védelmére, a munkahelyi biztonság és egészségvédelem követelményeire, a munkaerőpiac megfelelő működésére és a visszaélések megelőzésére. Az Mt. 216. § (1) bekezdés a)–b) pontja — a munkaviszonyra vonatkozó szabályban meghatározott eset és a sztrájktörő kölcsönzés tilalma — e körbe olvasható. A nyilvántartási és pénzügyi garanciafeltételeket a (4) bekezdés nem érinti."
+        },
+        {
+          "text": "A nyilvántartásra, engedélyezésre, tanúsításra, ellenőrzésre és a pénzügyi garanciákra vonatkozó tagállami feltételeket a 4. cikk (1)–(3) bekezdése nem sérti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a piacra lépési feltételek nem esnek a tilalmak felülvizsgálati kötelezettsége alá. A 2008/104/EK irányelv 4. cikk (4) bekezdése szerint az (1)–(3) bekezdés nem sérti a munkaerő-kölcsönzők nyilvántartására, engedélyezésére, tanúsítására, ellenőrzésére és a nyújtandó pénzügyi garanciákra vonatkozó tagállami feltételeket. A 118/2001. (VI. 30.) Korm. rendelet e kivétel körébe tartozik. A 115/2021. (III. 10.) Korm. rendelet 18. § (4) bekezdés d) pontja a nyilvántartás nélküli kölcsönzést bírságolja."
+        },
+        {
+          "text": "A tagállam bármely gazdasági indokkal korlátozhatja a kölcsönzés igénybevételét, általános érdek vizsgálata nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a puszta gazdasági indok nem igazolja a korlátozást. A 2008/104/EK irányelv 4. cikk (1) bekezdése szerint a korlátozások vagy tilalmak kizárólag akkor tekinthetők indokoltnak, ha általános érdeket szolgálnak; az Mt. 216. § (1) bekezdés a)–b) pontja — a munkaviszonyra vonatkozó szabályban meghatározott eset és a sztrájktörő kölcsönzés tilalma — e mércével olvasható. A puszta gazdasági preferencia nem elegendő. A tévedés a tagállami szabályozási szabadságnak az irányelvi igazolási mérce nélküli olvasatából ered."
+        },
+        {
+          "text": "A 118/2001. (VI. 30.) Korm. rendelet szerinti vagyoni biztosíték a 4. cikk (1) bekezdése szerinti tilalom, ezért általános érdeket kell igazolnia.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a pénzügyi garancia a (4) bekezdés kivétele alá esik. A 2008/104/EK irányelv 4. cikk (4) bekezdése a pénzügyi garanciákra vonatkozó tagállami feltételeket kifejezetten kiveszi az (1)–(3) bekezdés hatálya alól. A 118/2001. (VI. 30.) Korm. rendelet 6. §-a szerinti tizenötmillió forintos biztosíték tehát nem a 4. cikk (1) bekezdése szerinti igénybevételi tilalom. A tévedés a piacra lépési feltételnek az igénybevételi korlátozással való összecseréléséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 22
+    },
+    {
+      "question": "A kölcsönbeadói tevékenység bejelentésére és az eljárásra milyen határidők és tilalmak vonatkoznak?",
+      "options": [
+        {
+          "text": "A kölcsönbeadói tevékenység folytatását a székhely szerint illetékes kormányhivatalhoz a tevékenység megkezdése előtt harminc nappal kell bejelenteni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a bejelentés megelőzi a tevékenység megkezdését. A 118/2001. (VI. 30.) Korm. rendelet 4. § (1) bekezdése szerint a kölcsönbeadói tevékenység folytatását a kölcsönbeadó székhelye szerint illetékes kormányhivatalhoz a tevékenység megkezdése előtt 30 nappal kell bejelenteni, ha a cégjegyzéki/nyilvántartási, végzettségi, irodai, biztosítéki és köztartozásmentességi feltételek fennállnak. Az 5. § az elektronikus bejelentést a Dáptv. szerint rendezi. A 215. § (1) bekezdése a nyilvántartásba vételt a kölcsönbeadói jogosultság feltételévé teszi."
+        },
+        {
+          "text": "Az eljárásban a kormányhivatal döntése szóban nem közölhető, és az iskolai végzettség ügyfélnyilatkozattal nem pótolható; az ügyintézési határidő kölcsönbeadóknál huszonöt nap.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az eljárás alakszerűsége és a bizonyítás szigorú. A 118/2001. (VI. 30.) Korm. rendelet 5. § (4) bekezdés a) pontja szerint a kormányhivatal döntése szóban nem közölhető; a b) pont szerint az iskolai végzettség, szakképzettség igazolása az ügyfél nyilatkozatával nem pótolható; a c) pont szerint az ügyintézési határidő kölcsönbeadók esetén 25 nap. A szóbeli közlés tilalma tehát csak a döntés közlésére vonatkozik, nem minden kapcsolattartásra. A magán-munkaközvetítőknél a szolgáltatási tevékenység megkezdésének általános szabályai szerinti határidő irányadó."
+        },
+        {
+          "text": "A kormányhivatal a nyilvántartásba vételi döntést szóban is közölheti, ha a bejelentő ezt kéri.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szóbeli közlés tilalma kérelemre sem oldható fel. A 118/2001. (VI. 30.) Korm. rendelet 5. § (4) bekezdés a) pontja szerint a kormányhivatal döntése szóban nem közölhető. A tilalom a döntés alakszerűségét védi, nem a bejelentő rendelkezésére áll. A tévedés az általános közigazgatási szóbeli közlési lehetőségnek e speciális tilalomra való ráírásából ered."
+        },
+        {
+          "text": "A kölcsönbeadói ügyintézési határidő tizenöt nap, azonos a felmondási idővel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendelet huszonöt napot ír elő. A 118/2001. (VI. 30.) Korm. rendelet 5. § (4) bekezdés c) pontja szerint az ügyintézési határidő kölcsönbeadók esetén 25 nap. Az Mt. 220. § (2) bekezdése szerinti tizenöt napos felmondási idő ettől teljesen elkülönülő munkajogi intézmény. A tévedés a két „tizenöt/huszonöt” szám közeli egybevetéséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 23
+    },
+    {
+      "question": "A 115/2021. (III. 10.) Korm. rendelet szerint mikor kötelező a munkaügyi bírság a kölcsönzéshez kapcsolódóan?",
+      "options": [
+        {
+          "text": "Kötelező a bírság, ha a foglalkoztató hatósági nyilvántartásba vétel hiányában folytat munkaerő-kölcsönzésre irányuló tevékenységet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a nyilvántartás nélküli kölcsönzés a kötelező bírság egyik esete. A 115/2021. (III. 10.) Korm. rendelet 18. § (4) bekezdés d) pontja szerint a foglalkoztatás-felügyeleti hatóság munkaügyi bírságot szab ki, ha a foglalkoztató a hatósági nyilvántartásba vétel hiányában folytatott munkaerő-kölcsönzésre irányuló tevékenységet. Ez a kormányrendeleti bírságszabály nem keverendő az Mt. 18. §-sal: utóbbi a tájékoztatást olyan időben és módon követeli, hogy az a jog gyakorlását lehetővé tegye. A 115/2021. (III. 10.) Korm. rendelet 5. § (2) bekezdés g) pontja a kölcsönzést expressis verbis minimumkövetelménynek minősíti."
+        },
+        {
+          "text": "Kötelező a bírság, ha a minősített kölcsönbeadó nem tesz eleget a harmadik országbeli állampolgár felé fennálló tájékoztatási kötelezettségének vagy a nyilvántartásba vételével kapcsolatos kötelezettségének.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a minősített kölcsönbeadói kötelezettségszegés külön bírságpont. A 115/2021. (III. 10.) Korm. rendelet 18. § (4) bekezdés f) pontja szerint bírságot kell kiszabni, ha a minősített kölcsönbeadó nem tett eleget a harmadik országbeli állampolgár felé fennálló tájékoztatási kötelezettségének, vagy a nyilvántartásba vételével kapcsolatos szabályok szerinti kötelezettségének. Az Mt. 214. § (1) bekezdés f) pontja a minősített státuszt a harmadik országbeli állampolgárok foglalkoztatására való jogosultsághoz köti. Az (5) bekezdés mentesítési esetei ettől elkülönülnek."
+        },
+        {
+          "text": "A 115/2021. (III. 10.) Korm. rendelet 18. §-a azonos az Mt. 18. § tájékoztatási szabályával.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szakaszszám egyezése ellenére más a jogszabály és más a tárgy. A 115/2021. (III. 10.) Korm. rendelet 18. §-a a munkaügyi bírság mérlegelési és kötelező eseteit rendezi, alsó határral és mentesítésekkel; az Mt. 18. § viszont azt írja elő, hogy a tájékoztatást olyan időben és módon kell megtenni, hogy az a jog gyakorlását és a kötelezettség teljesítését lehetővé tegye. A kölcsönzési felügyeleti bírságnál a kormányrendeleti 18. §-t kell alkalmazni. A tévedés a szakaszszám egyezéséből eredő jogszabálykeverés."
+        },
+        {
+          "text": "Ha a bejelentés az ellenőrzés megkezdéséig — késedelmesen is — megtörtént, a 18. § (4) bekezdés a) pontja szerinti bejelentési bírság akkor is kötelező.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (5) bekezdés mentesít a késedelmes, de ellenőrzés előtti bejelentés esetén. A 115/2021. (III. 10.) Korm. rendelet 18. § (5) bekezdés a) pontja szerint nem szabható ki munkaügyi bírság, ha a foglalkoztató a bejelentési kötelezettségét késedelmesen, de a hatósági ellenőrzés megkezdéséig teljesítette. A (7) bekezdés ezt a mentesítést kizárja, ha az ellenőrzés vagy eljárás megkezdését követően létesített jogviszony bejelentése késik. A tévedés a kötelező bírság és a mentesítés viszonyának figyelmen kívül hagyásából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 24
+    },
+    {
+      "question": "A foglalkoztatás-felügyeleti hatóság milyen szankciókat alkalmazhat, és mit jelent a bejelentés nélküli foglalkoztatás megállapítása?",
+      "options": [
+        {
+          "text": "A hatóság a közigazgatási szabályszegések szankcióiról szóló törvényen túl a további foglalkoztatás megtiltását és a munkaügyi bírságot is alkalmazhatja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a foglalkoztatás-felügyeleti szankciók a közigazgatási alapszabályokon túlnyúlnak. A foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvény 9. § (1) bekezdése szerint a hatóság a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározottakon túl a további foglalkoztatás megtiltását és a munkaügyi bírságot alkalmazhatja. A (2) bekezdés szerint kormányrendelet a bírság kötelező alkalmazását írhatja elő; a 115/2021. (III. 10.) Korm. rendelet 18. § (4) bekezdése a bejelentés elmaradása, a nyilvántartás nélküli kölcsönzés és a minősített kölcsönbeadói kötelezettségszegés körében e felhatalmazással él. Figyelmeztetés nem alkalmazható, ha a bírság kötelező."
+        },
+        {
+          "text": "Bejelentés nélküli foglalkoztatásnál a hatóság a jogviszony fennállását — az általános teljes napi munkaidő figyelembevételével — a szabályszegés megkezdésétől visszamenőleg számított harmincadik naptól állapítja meg, kivéve, ha a bejelentés nélküli foglalkoztatás a harminc napot meghaladta.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a bejelentés elmaradásához a törvény visszamenőleges tartammegállapítást kapcsol. A foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvény 10. § (2) bekezdése szerint a hatóság a foglalkoztatásra irányuló jogviszony fennállását az általános teljes napi munkaidő figyelembevételével a szabályszegés megkezdésétől visszamenőleg számított harmincadik naptól állapítja meg, kivéve, ha megállapítható, hogy a bejelentés nélküli foglalkoztatás a harminc napot meghaladta. Az (1) bekezdés a bejelentés teljesítésére kötelez. A 115/2021. (III. 10.) Korm. rendelet 18. § (5) bekezdése a bírság alól mentesíthet, de a jogviszony-megállapítást nem szünteti meg automatikusan."
+        },
+        {
+          "text": "Figyelmeztetés akkor is alkalmazható, ha a munkaügyi bírság kiszabása kötelező.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kötelező bírság kizárja a figyelmeztetést. A Fszftv. 9. § (4) bekezdése szerint figyelmeztetés nem alkalmazható, ha a munkaügyi bírság kiszabása kötelező. A 115/2021. (III. 10.) Korm. rendelet 18. § (4) bekezdése éppen ilyen kötelező eseteket sorol. A tévedés a mérlegelési szankciók általános sorrendjének a kötelező bírságra való ráírásából ered."
+        },
+        {
+          "text": "A bejelentés nélküli foglalkoztatásnál a jogviszony fennállását mindig csak a ténylegesen bizonyított napokra lehet megállapítani, harmincnapos fikció nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a törvény visszamenőleges harmincnapos megállapítást rendel, ha a túllépés nem bizonyított. A Fszftv. 10. § (2) bekezdése a szabályszegés megkezdésétől visszamenőleg számított harmincadik naptól állapítja meg a jogviszonyt, kivéve, ha a bejelentés nélküli foglalkoztatás a harminc napot meghaladta. A fikció tehát a bizonyítási hézagot tölti ki. A tévedés a teljes bizonyítottság követelményének a törvényi fikció helyébe állításából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 25
+    },
+    {
+      "question": "A kölcsönvevőnél végzett munka során a munkavédelmi kötelezettségek kit terhelnek?",
+      "options": [
+        {
+          "text": "A kikölcsönzés tartama alatt a munkavállaló munkavédelmével kapcsolatos, a munkáltatót megillető jogokat és terhelő kötelezettségeket a kölcsönvevő gyakorolja és teljesíti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tényleges munkavégzés helyén a munkavédelem a kölcsönvevőre száll. Az Mt. 218. § (4) bekezdés a) pontja szerint a kikölcsönzés tartama alatt a munkavállaló munkavédelmével kapcsolatos jogokat és kötelezettségeket a kölcsönvevő gyakorolja és teljesíti. A 222. § (1) bekezdés c) pontja a (4) bekezdés a)–b) pontjától a felek megállapodásával vagy kollektív szerződéssel sem enged eltérést. A 295. § (1) bekezdés e) pontja a külföldi munkáltató kötelező magjában is szerepelteti a munkavédelmi feltételeket."
+        },
+        {
+          "text": "Ugyanebben a körben a munkaidővel és pihenőidővel, ezek nyilvántartásával kapcsolatos jogok és kötelezettségek is a kölcsönvevőre szállnak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (4) bekezdés c) pontja a munkaidő-nyilvántartást is a kölcsönvevőhöz rendeli. Az Mt. 218. § (4) bekezdés c) pontja szerint a munkaidővel és pihenőidővel, ezek nyilvántartásával kapcsolatos jogokat és kötelezettségeket a kölcsönvevő gyakorolja és teljesíti. A b) pont az 51. § (1) és (3)–(5) bekezdését is ide vonja. A munkaviszony megszüntetése ettől elkülönülve a kölcsönbeadónál marad a 217. § (1) bekezdése szerint."
+        },
+        {
+          "text": "A munkavédelem a kikölcsönzés alatt is kizárólag a kölcsönbeadó felelőssége, mert ő a munkáltató.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (4) bekezdés a) pontja a munkavédelmet expressis verbis a kölcsönvevőre telepíti. Az Mt. 218. § (4) bekezdés a) pontja szerint a munkavédelemmel kapcsolatos jogokat és kötelezettségeket a kölcsönvevő gyakorolja és teljesíti a kikölcsönzés tartama alatt. A 222. § (1) bekezdés c) pontja a 218. § (4) bekezdés a)–b) pontjától a felek megállapodásával vagy kollektív szerződéssel sem enged eltérést. A tévedés a munkaviszony alanyi centrumának a munkavédelmi kötelezettség teljes átruházhatatlanságával való azonosításából ered."
+        },
+        {
+          "text": "A felek megállapodása a munkavédelmi jogkör-átszállást a kölcsönbeadónál tarthatja, ha mindketten aláírják.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkavédelmi jogkör-átszállás nem vihető vissza megállapodással. Az Mt. 222. § (1) bekezdés c) pontja szerint a felek megállapodása vagy kollektív szerződés a 218. § (4) bekezdés a) és b) pontjától nem térhet el; a munkavédelem és az 51. § (1), (3)–(5) bekezdése szerinti kötelezettségek a kikölcsönzés alatt a kölcsönvevőnél maradnak. A tévedés a 217. § (4) bekezdés eltérést engedő költségviselésének a kógens jogkör-átszállásra való ráírásából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 26
+    },
+    {
+      "question": "Egy kölcsönzött munkavállaló azt állítja, hogy a kölcsönvevő étkezdéjét nem veheti igénybe, mert „csak a saját állományé”. Mely megállapítások helytelenek?",
+      "options": [
+        {
+          "text": "A kölcsönzött munkavállaló soha nem férhet hozzá a kölcsönvevő étkezdéjéhez, mert nincs vele munkaviszonya.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkaviszony hiánya nem zárja ki a közös létesítményekhez való hozzáférést. A 2008/104/EK irányelv 6. cikk (4) bekezdése szerint a kölcsönzött munkavállalók számára különösen az étkezdéhez a közvetlenül alkalmazottakkal megegyező feltételekkel kell hozzáférést biztosítani, kivéve az objektív indokon alapuló eltérést. Az Mt. 219. § (1) bekezdése a kölcsönveői alapvető feltételeket a kikölcsönzés tartama alatt biztosítandóvá teszi. A helyes: a hozzáférés főszabály, az elzárás indokolandó kivétel."
+        },
+        {
+          "text": "A hozzáférés csak akkor jár, ha a kölcsönbeadó és a kölcsönvevő erről külön díjat kötött ki a munkavállaló terhére.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkavállaló terhére szabott díj a díjtilalomba ütközik, és a hozzáférés nem díjköteles opció. A 2008/104/EK irányelv 6. cikk (3) bekezdése tiltja a munkavállalóval szembeni díjfelszámítást, a (4) bekezdés pedig a közös létesítményekhez való hozzáférést rendezi. Az Mt. 216. § (3) bekezdés b) pontja a kölcsönbeadó javára fizetendő díjazást érvényteleníti. A helyes: a hozzáférés a közvetlenül alkalmazottakkal megegyező feltételekkel jár, objektív indok kivételével."
+        },
+        {
+          "text": "Az étkezdei elzárás mindig jogszerű, ha a kölcsönvevő belső szabályzata a kölcsönzötteket kihagyja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a belső szabályzat nem írhatja felül az irányelvi és törvényi mércét. A 2008/104/EK irányelv 6. cikk (4) bekezdése csak objektív indokon alapuló eltérést enged; a puszta „kölcsönzotti státusz” önmagában nem objektív indok. Az Mt. 219. § (1) bekezdése a kölcsönvevő saját munkavállalóira irányadó alapvető feltételeket a kikölcsönzés tartama alatt biztosítandóvá teszi. A helyes: az elzáráshoz objektív indok kell, a státusz önmagában kevés."
+        },
+        {
+          "text": "A gyermekgondozási létesítmény és az utazási szolgáltatás kívül esik a 6. cikk (4) bekezdésén, ezért azoknál az elzárás szabad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 6. cikk (4) bekezdése a gyermekgondozást és az utazási szolgáltatást is megnevezi. A 2008/104/EK irányelv 6. cikk (4) bekezdése és az Mt. 219. § (1)–(2) bekezdése szerint a kölcsönzött munkavállaló számára a kölcsönvevőnél irányadó alapvető feltételeket — ideértve a közös létesítményekhez, különösen az étkezdéhez, a gyermekgondozáshoz és az utazási szolgáltatásokhoz való hozzáférést — a közvetlenül alkalmazottakkal megegyező feltételekkel kell biztosítani, objektív indok kivételével. A helyes: mindhárom példa a védett körbe tartozik. A tévedés a „különösen” lista egyik elemének kiragadásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 27
+    },
+    {
+      "question": "Mit rögzít az Mt. 5. § a kölcsönzési fejezet értelmezési kereteként?",
+      "options": [
+        {
+          "text": "Az Mt. rendelkezéseit Magyarország és az Európai Unió jogrendjével összhangban kell értelmezni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az uniós összhang a kölcsönzési fejezet olvasásának előfeltétele. Az Mt. 5. § (1) bekezdése szerint e törvény rendelkezéseit Magyarország és az Európai Unió jogrendjével összhangban kell értelmezni. A 2008/104/EK irányelv egyenlő bánásmódi alapelve, a 6. cikk szerinti álláshoz és közös létesítményekhez való hozzáférés, valamint a 295. § kiküldetési szabályai e fordulat nélkül nem olvashatók. Az (1) bekezdés tehát nem díszítő klauzula, hanem értelmezési kötelezettség."
+        },
+        {
+          "text": "A jogról lemondó vagy abból engedő nyilatkozatot nem lehet kiterjesztően értelmezni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a lemondás és az engedés szűk olvasata védi a kógens magot. Az Mt. 5. § (2) bekezdése szerint a jogról lemondó vagy abból engedő nyilatkozatot nem lehet kiterjesztően értelmezni. Ez a 216. § (3) bekezdése szerinti semmisségi tilalmakat és a 222. § kógens magját védi a munkavállaló rovására tett általános lemondásokkal szemben. A kölcsönzött a kölcsönvevővel nem létesít külön munkaviszonyt, ezért a szűk értelmezés a háromszereplős szerkezetben különösen indokolt."
+        },
+        {
+          "text": "A munkavállaló általános, előzetes lemondása a személyiségi jogáról érvényes, ha a munkaszerződésben szerepel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkavállaló nem mondhat le előre, általános jelleggel a személyiségi jogáról. Az Mt. 9. § (3) bekezdése szerint a munkavállaló a személyiségi jogáról általános jelleggel előre nem mondhat le; a rendelkező jognyilatkozat csak írásban érvényes. Az 5. § (2) bekezdése a lemondás kiterjesztő értelmezését is tiltja. A tévedés a szerződéses diszpozitivitásnak a személyiségi jogi tilalomra való ráírásából ered."
+        },
+        {
+          "text": "Az 5. § csak a büntetőjogi rendelkezésekre vonatkozik, a kölcsönzési fejezetre nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az értelmezési keret nem korlátozódik a büntetőjogra. Az Mt. 5. § (1)–(2) bekezdése e törvény rendelkezéseire vonatkozik, ideértve a XVI. fejezet 214–222. §-át is: a rendelkezéseket az uniós jogrenddel összhangban kell értelmezni, és a jogról lemondó nyilatkozatot nem lehet kiterjesztően olvasni. A tévedés a szakasz általános jellegének a büntetőjogra való szűkítéséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 28
+    },
+    {
+      "question": "Mi a minimális kölcsönzési díj a 118/2001. (VI. 30.) Korm. rendelet szerint?",
+      "options": [
+        {
+          "text": "A kölcsönbevevő a munkaerő-kölcsönzési szerződés alapján legalább a minimális kölcsönzési díjat köteles megfizetni; a vizsgálatot a kölcsönzött munkavállaló vonatkozásában kell elvégezni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a díj alsó korlátja a kölcsönvevő fizetési kötelezettségét védi a kölcsönbeadó bérfizetési képessége érdekében. A 118/2001. (VI. 30.) Korm. rendelet 9/A. § (1)–(2) bekezdése szerint a kölcsönbevevő legalább a minimális kölcsönzési díjat köteles megfizetni, és a díjat a kölcsönzött munkavállaló vonatkozásában kell vizsgálni. A szabály nem a munkavállaló közvetlen igényét adja a kölcsönvevővel szemben. Az Mt. 217. § (2) bekezdése a munkabéren kívüli juttatás közvetlen kölcsönveői teljesítését ettől függetlenül megengedi."
+        },
+        {
+          "text": "A minimális kölcsönzési díj egy munkavállaló vonatkozásában nem lehet kevesebb, mint a minimálbér vagy a garantált bérminimum és az ezeket terhelő közteher együttes összege.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a mérce a bérminimum és a közteher együttese. A 118/2001. (VI. 30.) Korm. rendelet 9/A. § (2) bekezdése szerint a minimális kölcsönzési díj egy munkavállaló vonatkozásában nem lehet kevesebb, mint a kötelező legkisebb munkabér vagy a garantált bérminimum — egyszerűsített foglalkoztatásnál az Efotv. szerinti minimális bér — valamint az ezeket terhelő közteher együttes összege. A 2. § (1) bekezdés j)–k) pontja a közteher és a kölcsönzési díj fogalmát adja. A 6. § szerinti tizenötmillió forintos vagyoni biztosíték ettől elkülönülő, kártérítési fedezet."
+        },
+        {
+          "text": "A minimális kölcsönzési díj a munkavállaló közvetlen követelése a kölcsönvevővel szemben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 9/A. § a kölcsönbeadó–kölcsönvevő ellenérték alsó korlátja, nem munkavállalói bérigény. A 118/2001. (VI. 30.) Korm. rendelet 9/A. § (1) bekezdése a kölcsönbevevő fizetési kötelezettségét a kölcsönbeadó felé rendezi. Az Mt. 221. § (4) bekezdése az egyetemlegességet a kárra és a személyiségi jogra, nem a munkabérre mondja ki. A tévedés a díjfogalomnak a bérköveteléssel való azonosításából ered."
+        },
+        {
+          "text": "Egyszerűsített foglalkoztatásnál a minimális kölcsönzési díj számításánál a közteher figyelmen kívül hagyható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közteher az egyszerűsített foglalkoztatásnál is beleszámít. A 118/2001. (VI. 30.) Korm. rendelet 9/A. § (2) bekezdése az egyszerűsített foglalkoztatás esetén az Efotv. szerinti minimális bért és az ezeket terhelő közterhet együttesen követeli. A 2. § (1) bekezdés j) pont jb)–jc) alpontja az Efotv. szerinti tételes összeget is közteherként nevezi meg. A tévedés az egyszerűsített foglalkoztatás egyszerűsített közteher-rendjének a díjszámításból való kihagyásából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 29
+    },
+    {
+      "question": "A 2008/104/EK irányelv 3. cikke szerint mit jelentenek az alapvető munka- és foglalkoztatási feltételek?",
+      "options": [
+        {
+          "text": "Az alapvető feltételek a munkaidő hosszára, a túlmunkára, a szünetekre, a pihenőidőre, az éjszakai munkára, a szabadságokra és munkaszüneti napokra, valamint a fizetésre terjednek ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 3. cikk taxatív tárgyi magot ad. A 2008/104/EK irányelv 3. cikk (1) bekezdés f) pontja szerint az alapvető munka- és foglalkoztatási feltételek a munkaidő hosszára, túlmunkára, szünetekre, pihenőidőre, éjszakai munkára, szabadságokra és munkaszüneti napokra, valamint a fizetésre vonatkoznak. Az Mt. 219. § (2) bekezdése ezt a kört a várandós és szoptató nők, a fiatal munkavállalók védelmére, a munkabérre és az egyéb juttatásokra, valamint az egyenlő bánásmódra bontja. A 214. § fogalmai és a 3. cikk fogalmai egymást magyarázzák."
+        },
+        {
+          "text": "A tagállam nem zárhat ki munkavállalókat pusztán azért, mert részmunkaidősek, határozott idejű szerződés alapján dolgoznak, vagy munkaerő-kölcsönzővel állnak viszonyban.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés a személyi hatály mesterséges szűkítését tiltja. A 2008/104/EK irányelv 3. cikk (2) bekezdése szerint a tagállamok nem zárhatnak ki munkavállalókat, illetve munkaszerződéseket és munkaviszonyokat kizárólag azon oknál fogva, hogy azok részmunkaidősökre, határozott idejű szerződés alapján dolgozókra, illetve munkaerő-kölcsönzőkkel álló munkavállalókra vonatkoznak. Az irányelvet a fizetés, a munkaszerződés, a munkaviszony és a munkavállaló nemzeti fogalma sérelme nélkül kell alkalmazni. Az Mt. 214. § (1) bekezdése a háromszöget a kölcsönbeadó–kölcsönvevő–munkavállaló fogalmaival ülteti át."
+        },
+        {
+          "text": "Az alapvető feltételek kizárólag a fizetésre korlátozódnak; a munkaidő és a szabadság kívül esik a fogalmon.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az alapvető feltételek nem korlátozódnak a fizetésre. A 2008/104/EK irányelv 3. cikk (1) bekezdés f) pont i)–ii) alpontja a munkaidő hosszát, a túlmunkát, a szüneteket, a pihenőidőt, az éjszakai munkát, a szabadságokat és munkaszüneti napokat, valamint a fizetést nevezi meg; az Mt. 219. § (2) bekezdése e kört a várandós és szoptató nők, a fiatal munkavállalók védelmére, a munkabérre és az egyéb juttatásokra, valamint az egyenlő bánásmódra bontja. A tévedés a fizetésnek a teljes fogalommal való azonosításából ered."
+        },
+        {
+          "text": "A kölcsönzött munkavállaló azért zárható ki az irányelv hatálya alól, mert nem a kölcsönvevő saját állománya.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kölcsönzési viszony önmagában nem kizáró ok. A 2008/104/EK irányelv 3. cikk (2) bekezdése és az Mt. 214. § (1) bekezdése szerint a kölcsönzött munkavállaló — a kölcsönbeadóval kölcsönzés céljából munkaviszonyban álló személy — az irányelv és a XVI. fejezet hatálya alá tartozik; a tagállam nem zárhatja ki pusztán azért, mert munkaerő-kölcsönzővel áll viszonyban. Az 1. cikk (1) bekezdése éppen a kölcsönzöttekre vonatkoztatja az irányelvet. A tévedés a kölcsönveői saját állomány és az irányelvi hatály összecseréléséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 30
+    },
+    {
+      "question": "A kölcsönbeadó mikor köteles átadni a biztosítási bejelentés és a nyilvántartásba vétel igazolását a kölcsönvevőnek?",
+      "options": [
+        {
+          "text": "A kölcsönbeadó a kölcsönvevő kérésére köteles legkésőbb a munkavállaló munkába állásáig átadni a biztosítási jogviszony kezdetéről szóló bejelentés, valamint a kölcsönbeadóként történt nyilvántartásba vételét igazoló okirat másolatát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az átadás a munkába állásig kötelező, ha a kölcsönvevő kéri. Az Mt. 217. § (4) bekezdése szerint a kölcsönbeadó a kölcsönvevő kérésére köteles legkésőbb a munkavállaló munkába állásáig az adózás rendjét megállapító jogszabály szerinti biztosítási jogviszony-kezdeti bejelentés, valamint a külön jogszabály szerinti kölcsönbeadóként történt nyilvántartásba vételét igazoló okirat másolatát átadni. A bejelentés elmaradása esetén a foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvény 10. §-a a jogviszony megállapítását, a 115/2021. (III. 10.) Korm. rendelet 18. § (4) bekezdés a) pontja pedig kötelező bírságot rendel. A (4) bekezdés első mondata szerinti költségviseléstől ez elkülönülő kötelezettség."
+        },
+        {
+          "text": "A nyilvántartásba vételi számot a kölcsönbeadó a munkaszerződés megkötésekor a munkavállalóval is közli.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szám a munkavállalói oldalon is ellenőrizhetővé teszi a jogosultságot. Az Mt. 218. § (2) bekezdése szerint a kölcsönbeadó a munkaszerződés megkötésekor a 46. §-ban foglaltakon túl tájékoztatja a munkavállalót nyilvántartásba vételi számáról. A 118/2001. (VI. 30.) Korm. rendelet 9. § (2) bekezdése ugyanezt a számot az üzleti kapcsolatokban és hirdetésekben is kötelezően használtatja. A 222. § (1) bekezdés c) pontja a 218. § (2) bekezdésétől sem enged eltérést."
+        },
+        {
+          "text": "Az igazolások átadása elegendő a kikölcsönzés első hónapjának végéig, kérés nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a határidő a munkába állás, és a kötelezettség a kölcsönvevő kéréséhez kötött. Az Mt. 217. § (4) bekezdése szerint a kölcsönbeadó a kölcsönvevő kérésére köteles legkésőbb a munkavállaló munkába állásáig átadni a megjelölt okiratok másolatát. A hónapvégi határidő nincs a törvényben. A tévedés a 217. § (5) bekezdés béradat-határidejének az okiratátadásra való ráírásából ered."
+        },
+        {
+          "text": "A nyilvántartásba vételi számot elég a kölcsönvevővel közölni; a munkavállaló tájékoztatása nem kötelező.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkavállaló tájékoztatása önálló kötelezettség. Az Mt. 218. § (2) bekezdése expressis verbis a munkavállaló felé írja elő a nyilvántartásba vételi szám közlését a szerződéskötéskor. A 217. § (4) bekezdése a kölcsönvevő felé az okiratmásolatot rendezi. A tévedés a két címzett kötelezettségének összevonásából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 31
+    },
+    {
+      "question": "A 295. § szerint mikor kell a tizenkét hónapot meghaladó kiküldetésre az Mt. szélesebb körét alkalmazni?",
+      "options": [
+        {
+          "text": "Ha a kiküldetés időtartama meghaladja a tizenkét hónapot, a munkaviszonyra az Mt. rendelkezéseit — a (7) bekezdésben foglalt kivételekkel — megfelelően alkalmazni kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a tizenkét hónapos küszöb a kötelező magot szélesebb Mt.-alkalmazássá emeli. Az Mt. 295. § (5) bekezdése szerint, ha az (1) bekezdés szerinti kiküldetés időtartama meghaladja a tizenkét hónapot, a munkaviszonyra e törvény rendelkezéseit — a (7) bekezdésben foglaltak kivételével — megfelelően alkalmazni kell. A (6) bekezdés szerint a tizenkét hónapos időtartam további hat hónappal meghosszabbodik a külföldi munkáltató indokolt bejelentése esetén. A (7) bekezdés a VII. és X. fejezetet, a 228. §-t és a kiegészítő foglalkoztatói nyugdíjat veszi ki."
+        },
+        {
+          "text": "Felváltó kiküldetésnél a kiküldetés időtartama a felváltó kiküldetésben érintett munkavállalók összesített kiküldetési időtartamával egyezik meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felváltás nem nullázza a tartamszámítást. Az Mt. 295. § (8) bekezdése szerint, ha a külföldi munkáltató a munkavállalót Magyarországon adott munkahelyen végzett feladatot ellátó másik munkavállalóval helyettesíti, a kiküldetés időtartama a felváltó kiküldetésben érintett munkavállalók összesített kiküldetési időtartamával egyezik meg. Az adott munkahelyen végzett feladat meghatározásához a szolgáltatás jellegét, az elvégzendő feladatot és a munkavégzés helyét kell figyelembe venni. A szabály a tizenkét hónapos küszöb megkerülését zárja."
+        },
+        {
+          "text": "A tizenkét hónapos küszöb után is csak az (1) bekezdés a)–i) pontja szerinti kötelező mag alkalmazandó, bővebb Mt.-kör nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (5) bekezdés a törvény rendelkezéseinek megfelelő alkalmazását rendeli, nem csupán az (1) bekezdés magját. Az Mt. 295. § (5) bekezdése expressis verbis e törvény rendelkezéseit — a (7) bekezdés kivételeivel — megfelelően alkalmazni rendeli a tizenkét hónapot meghaladó kiküldetésnél. Az (1) bekezdés a rövidebb kiküldetés kötelező magja. A tévedés az (1) és az (5) bekezdés hatályának összecseréléséből ered."
+        },
+        {
+          "text": "A felváltó kiküldetés mindig új tizenkét hónapos ciklust indít az új munkavállaló belépésével.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tartamok összeszámítandók. Az Mt. 295. § (8) bekezdése szerint a kiküldetés időtartama a felváltó kiküldetésben érintett munkavállalók összesített kiküldetési időtartamával egyezik meg. Az új belépő tehát nem indít tiszta lapot. A tévedés a személycsere és a tartamszámítás összekeveréséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 32
+    },
+    {
+      "question": "Mely esetben nem alkalmazható a Fszftv. 10. § szerinti jogviszony-megállapítás TAJ-szám hiányában?",
+      "options": [
+        {
+          "text": "Nem alkalmazható az intézkedés, ha a foglalkoztató a TAJ-számmal nem rendelkező foglalkoztatott részére a foglalkoztatás megkezdése előtt kérte a TAJ-szám kiadását, és azt az adatképzésről kapott értesítéstől számított nyolc napon belül az adóhatóságnak bejelentette.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a törvény a jóhiszemű, előzetes TAJ-igénylést mentesíti. A foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvény 10. § (3) bekezdése szerint az (1) vagy (2) bekezdésben foglalt intézkedés nem alkalmazható, ha a foglalkoztató a TAJ-számmal nem rendelkező foglalkoztatott részére a foglalkoztatás megkezdése előtt kérte a TAJ-szám kiadását, valamint a TAJ-számot az adatképzésről kapott értesítéstől számított nyolc napon belül az adóhatóságnak bejelentette. A mentesítés konjunktív: előzetes kérelem és határidős bejelentés. A 115/2021. (III. 10.) Korm. rendelet 18. § (5) bekezdése a bírság alóli mentesítést külön rendezi."
+        },
+        {
+          "text": "A hatóság a bejelentés elmaradása esetén megállapítja a jogviszony fennállását, és kötelezi a foglalkoztatót a bejelentés teljesítésére.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (1) bekezdés a megállapítást és a kötelezést együtt rendeli. A Fszftv. 10. § (1) bekezdése szerint, ha a foglalkoztató a foglalkoztatásra irányuló jogviszony létesítésével kapcsolatos bejelentési kötelezettségének nem tett eleget, a hatóság megállapítja a jogviszony fennállását, és kötelezi a foglalkoztatót a bejelentési kötelezettség teljesítésére. A (2) bekezdés a visszamenőleges tartammegállapítást adja. A kölcsönbeadó 217. § (4) bekezdése szerinti bejelentés-másolat átadása e kötelezettség teljesítését is szolgálja."
+        },
+        {
+          "text": "A TAJ-szám utólagos, ellenőrzés alatti igénylése is mentesít a 10. § alól, ha a foglalkoztató ígéri a pótlást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mentesítés az előzetes kérelemhez és a nyolcnapos bejelentéshez kötött. A Fszftv. 10. § (3) bekezdése szerint a TAJ-szám kiadását a foglalkoztatás megkezdése előtt kell kérni, és az értesítéstől számított nyolc napon belül be kell jelenteni az adóhatóságnak. Az ellenőrzés alatti ígéret nem pótolja e konjunktív feltételeket. A tévedés a 115/2021. (III. 10.) Korm. rendelet 18. § (5) bekezdés késedelmes bejelentési mentesítésének a 10. § (3) bekezdésére való ráírásából ered."
+        },
+        {
+          "text": "A 10. § szerinti megállapítás mindig csak a ténylegesen ledolgozott órákra terjedhet, fikció nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés visszamenőleges harmincnapos megállapítást rendel. A Fszftv. 10. § (2) bekezdése szerint a hatóság a jogviszony fennállását az általános teljes napi munkaidő figyelembevételével a szabályszegés megkezdésétől visszamenőleg számított harmincadik naptól állapítja meg, kivéve, ha a bejelentés nélküli foglalkoztatás a harminc napot meghaladta. A fikció a bizonyítási hézagot tölti ki. A tévedés a teljes bizonyítottság követelményének a törvényi fikció helyébe állításából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 33
+    },
+    {
+      "question": "A 115/2021. (III. 10.) Korm. rendelet 5. §-a szerint mi minősül minimumkövetelménynek a kölcsönzés szempontjából?",
+      "options": [
+        {
+          "text": "A foglalkoztatás-felügyeleti ellenőrzés szempontjából minimumkövetelménynek kell tekinteni a munkaerő-kölcsönzésre, valamint a munkaerő-kölcsönzési tevékenység végzésére vonatkozó szabályok megtartását.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kölcsönzés expressis verbis a minimumkörbe tartozik. A 115/2021. (III. 10.) Korm. rendelet 5. § (2) bekezdés g) pontja szerint minimumkövetelménynek kell tekinteni a munkaerő-kölcsönzésre, valamint a munkaerő-kölcsönzési tevékenység végzésére vonatkozó szabályok megtartását. A h) pont a harmadik országbeli állampolgárok foglalkoztatását, a minősített kölcsönbeadónál történő foglalkoztatást és a kötelező tájékoztatást is ide vonja. Az (1) bekezdés az ellenőrzést a minimumkövetelmények megtartására szűkíti."
+        },
+        {
+          "text": "A minimumkörben az ellenőrzés az eltérést nem engedő követelményre és a jogsértő kollektív vagy felek szerinti eltérés miatt visszaálló kötelező rendelkezésre irányul.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés a kógens magot és a visszaálló rendelkezést is lefedi. A 115/2021. (III. 10.) Korm. rendelet 5. § (3) bekezdése szerint a minimumkövetelmények körében az ellenőrzés a foglalkoztatásra irányuló jogviszonyt szabályozó jogszabály eltérést nem engedő követelményének, valamint a jogsértő eltérés miatt a kötelező rendelkezések megtartására terjed ki. Az Mt. 222. § (1)–(2) bekezdése a kölcsönzési fejezet eltérési tilalmait és a csak javára eltérést engedő köröket zárja; e kógens rend a felügyeleti minimummel olvasható együtt. A mérlegelést engedő szabályok nem minden esetben esnek e minimumkörbe."
+        },
+        {
+          "text": "A kölcsönzés csak akkor minimumkövetelmény, ha a kölcsönvevő kéri a hatósági ellenőrzést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a g) pont objektív minimumkör, nem kérelemhez kötött. A 115/2021. (III. 10.) Korm. rendelet 5. § (2) bekezdés g) pontja a munkaerő-kölcsönzést és a kölcsönzési tevékenység végzését expressis verbis minimumkövetelménynek minősíti. Az (5) bekezdés az állami foglalkoztatási szerv megkeresésére külön ellenőrzést is előír, de ez nem feltétele a g) pontnak. A tévedés a megkereséses ellenőrzésnek a minimumkör fogalmára való ráírásából ered."
+        },
+        {
+          "text": "A minősített kölcsönbeadónál történő foglalkoztatás kívül esik a minimumkövetelményeken.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a h) pont expressis verbis ide vonja. A 115/2021. (III. 10.) Korm. rendelet 5. § (2) bekezdés h) pontja a harmadik országbeli állampolgár minősített kölcsönbeadónál történő foglalkoztatását és a kötelező tájékoztatást is minimumkövetelménynek tekinti. Az Mt. 214. § (1) bekezdés f) pontja a minősített státuszt a harmadik országbeli állampolgárok foglalkoztatására való jogosultsághoz köti. A tévedés a g) és a h) pont elválasztásának félreértéséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 34
+    },
+    {
+      "question": "Egy kölcsönbeadó a kikölcsönzés megszűnése miatt felmond. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A kikölcsönzés megszűnése a 66. § (2) bekezdése alkalmazásában a kölcsönbeadó működésével összefüggő oknak minősül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a törvény a kikölcsönzés végét működési okká minősíti. Az Mt. 220. § (1) bekezdése szerint a 66. § (2) bekezdése alkalmazásában a kölcsönbeadó működésével összefüggő oknak minősül a kikölcsönzés megszűnése. Ez indokolási támaszt ad a működési okú felmondáshoz, de nem automatikus megszűnést. A megszüntetés joga a 217. § (1) bekezdése szerint továbbra is kizárólag a kölcsönbeadóé."
+        },
+        {
+          "text": "A felmondási idő tizenöt nap, és — eltérő megállapodás hiányában — a munkavállaló a felmondási idő alatt mentesül a munkavégzés alól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rövid felmondási időhöz főszabály szerint mentesülés társul. Az Mt. 220. § (2) bekezdése a felmondási időt tizenöt napban állapítja meg; a (3) bekezdés szerint a kölcsönbeadó felmondása esetén – eltérő megállapodás hiányában – a munkavállaló a felmondási idő tartama alatt mentesül a munkavégzési kötelezettsége alól. A 222. § (2) bekezdés b) pontja szerint e szabályoktól kollektív szerződés csak a munkavállaló javára térhet el. A 65. § szerinti felmondási tilalmakat a 222. § nem veszi ki."
+        },
+        {
+          "text": "A kölcsönvevő is közölheti a felmondást, ha a munkavállaló nála dolgozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megszüntetés joga és a közlés címzettje a kölcsönbeadó. Az Mt. 217. § (1) bekezdése szerint a munkaviszony megszüntetésének jogát kizárólag a kölcsönbeadó gyakorolhatja; a 220. § (6) bekezdése szerint a munkavállaló a megszüntető jognyilatkozatot a kölcsönbeadóval közli. A 222. § (1) bekezdés b) pontja a 217. § (1) bekezdésétől nem enged eltérést. A tévedés a tényleges munkavégzési hely és a munkaviszony alanyi centrumának összekeveréséből ered."
+        },
+        {
+          "text": "A tizenöt napos felmondási időtől a felek egyedi megállapodása a munkavállaló rovására is eltérhet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkavállaló rovására való eltérés tilos. Az Mt. 222. § (2) bekezdés b) pontja szerint a 220. § (2)–(3) bekezdésétől csak kollektív szerződés és csak a munkavállaló javára lehet eltérni; a felek egyedi megállapodása e körben nem kap eltérési kaput a munkavállaló terhére. A tévedés a diszpozitív felmondási szabályok általános logikájának a kölcsönzési kógencia-rendre való ráírásából fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 35
+    },
+    {
+      "question": "Mit jelent a közteher a 118/2001. (VI. 30.) Korm. rendelet fogalomrendszerében?",
+      "options": [
+        {
+          "text": "Közteher a kölcsönbeadót a munkabér megfizetésével összefüggésben terhelő, kedvezményekkel csökkentett közterhek, amelyek alapja a munkabér, és amelyek bevallására és megfizetésére a kölcsönbeadó mint kifizető köteles.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a közteher a minimális kölcsönzési díj számításának egyik eleme. A 118/2001. (VI. 30.) Korm. rendelet 2. § (1) bekezdés j) pont ja) alpontja szerint közteher a kölcsönbeadót a munkabér megfizetésével összefüggésben terhelő mindazon — kedvezményekkel csökkentett — közterhek, amelyek alapja a munkabér, és amelyek bevallására és megfizetésére a kölcsönbeadó mint kifizető köteles. A 9/A. § (2) bekezdése a minimálbért vagy a garantált bérminimumot és az ezeket terhelő közterhet együttesen teszi a minimális kölcsönzési díj alsó korlátjává. Az egyszerűsített foglalkoztatásnál a jb)–jc) alpont az Efotv. szerinti összegeket nevezi meg."
+        },
+        {
+          "text": "Egyszerűsített foglalkoztatás esetén közteher az Efotv. által meghatározott, a kölcsönbeadót terhelő tételes összeg, vagy az Efotv. 8. § (4) bekezdése szerinti összeg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az egyszerűsített foglalkoztatás saját közteher-fogalmat kap. A 118/2001. (VI. 30.) Korm. rendelet 2. § (1) bekezdés j) pont jb) alpontja szerint egyszerűsített foglalkoztatás esetén közteher az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény által meghatározott, a kölcsönbeadót terhelő tételes összeg. A jc) alpont az Efotv. szerinti, a 8. § (4) bekezdés alapján fizetendő összeget is közteherként nevezi meg. A 9/A. § (2) bekezdése e közterhet is beleszámítja a minimális kölcsönzési díjba."
+        },
+        {
+          "text": "A közteher a kölcsönvevő által a munkavállalónak közvetlenül fizetett cafeteria értéke.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közteher a kölcsönbeadót mint kifizetőt terhelő járulékos fizetési kötelezettség. A 118/2001. (VI. 30.) Korm. rendelet 2. § (1) bekezdés j) pontja a munkabérhez kapcsolódó, a kölcsönbeadót terhelő közterheket nevezi meg. Az Mt. 217. § (2) bekezdése szerinti munkabéren kívüli juttatás ettől elkülönülő intézmény. A tévedés a cafeteria és a közteher fogalmának összecseréléséből ered."
+        },
+        {
+          "text": "A közteher fogalma azonos a munkaerő-kölcsönzési díjjal.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a két fogalom elválik. A 118/2001. (VI. 30.) Korm. rendelet 2. § (1) bekezdés k) pontja szerint a munkaerő-kölcsönzési díj a kölcsönbeadót a kikölcsönzésre tekintettel megillető, áfa nélküli ellenérték; a j) pont a közterhet a kölcsönbeadót terhelő járulékos fizetésként határozza meg. A 9/A. § a kettőt együttesen építi a minimális díjba. A tévedés a díj és a közteher együttes szerepének fogalmi azonossággá való egyszerűsítéséből fakad."
+        }
+      ],
+      "sourceKerdesSorszam": 36
+    }
+  ]
+}

@@ -1,0 +1,873 @@
+{
+  "id": "9iYvbB4M2IasTBzTY3wB",
+  "sorszam": 41,
+  "cim": "A rendezett munkaügyi kapcsolatok követelménye",
+  "generationType": "kerdes",
+  "title": "41. A rendezett munkaügyi kapcsolatok követelménye",
+  "questions": [
+    {
+      "question": "Eset: egy Kft. összes Mt. szerinti munkaszerződése érvényes. A támogatási elbíráló mégis elutasítja a kérelmet, mert a 115/2021. (III. 10.) Korm. rendelet 20. § szerinti két éves ablakban minősített munkaügyi bírság áll fenn. A HR szerint „érvényes szerződés mellett a támogatás nem tagadható meg”. Mely megállapítások helytállóak?",
+      "options": [
+        {
+          "text": "Az érvényes szerződés miatt az Áht. 50. § (1) a) pont automatikusan teljesült, a minősített bírság ellenére.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Áht. 50. § (1) a) pont a rendezett munkaügyi kapcsolatok követelményéhez köti a támogatást. A 20. § szerinti minősített bírság a meg nem felelést megalapozza. Az Mt. szerinti szerződésérvényesség ezt nem pótolja. Az automatikus teljesülésnek nincs törvényi alapja."
+        },
+        {
+          "text": "Az Áht. 50. § (1) bekezdés a) pontja a költségvetési támogatás nyújtásának konjunktív előfeltétele; a meg nem felelés a támogatást zárja el, nem a munkaszerződés érvényét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Áht. 50. § (1) a) pontja a támogatást a rendezett munkaügyi kapcsolatok követelményéhez köti. A 20. § szerinti minősített bírság a támogatási döntést érinti. A munkaszerződések érvényét az Mt. szabályai döntik el. A HR összekapcsolása ezért a két jogágat felcseréli."
+        },
+        {
+          "text": "A támogatás elutasítása az Mt. szerint semmissé teszi a Kft. munkaszerződéseit.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Áht. 50. § (1) a) pont és a 20. § a költségvetési támogatás nyújtását zárja el. A munkaszerződés érvényességét az Mt. szabályai döntik el. A támogatási elutasítás önmagában nem Mt. szerinti semmisségi ok. A két jogkövetkezmény összecsúszása a szűrő hatályát félreérti."
+        },
+        {
+          "text": "Érvényes munkaszerződések mellett is elzárható a támogatás, ha a 20. § szerinti végleges, végrehajtható és nyilvánosságra hozott bírsághatározat fennáll a támogatási igényt megelőző két évben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 20. § (1) záró fordulata a két éves ablakban fennálló minősített határozathoz köti a meg nem felelést. Az Áht. 50. § (1) a) pontja e meg nem felelésnél a támogatást zárja el. Az Mt. szerinti szerződésérvényesség önmagában nem menti a támogatási kaput. A szűrő az igény időpontjához igazodik."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "62bca048e280"
+    },
+    {
+      "question": "Eset: egy Zrt. magyarországi beruházásösztönző, közvetlenül nyújtott fejlesztési célú költségvetési támogatást kér. A Kormány egyedi határozatban az Áht. 50. § (1) c) pont szerinti átláthatóságról döntött. A Zrt. szerint ezzel a munkaügyi szűrő is „elengedett”. Mi a helytálló?",
+      "options": [
+        {
+          "text": "Az Áht. 50. § (2) bekezdése csak az (1) bekezdés c) pontjában meghatározott átláthatósági feltételről engedi a Kormány egyedi döntését; az a) pont e kivétel alá nem vonható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Áht 50. § (2) bekezdése szerint: „az (1) bekezdés c) pontjában meghatározott feltételről a Kormány egyedi határozatban dönt”. A rendezett munkaügyi kapcsolatok a) pontja e kivétel alá nem vonható. A fejlesztési célú jelleg önmagában nem mentesít. A munkaügyi szűrő a (2) mellett is kötelező kapu marad."
+        },
+        {
+          "text": "A b) pont szerinti közzétételi kötelezettség sem kerül a (2) bekezdés hatálya alá; az (1) a)–c) kapu az a) és b) tekintetében konjunktív marad.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Áht. 50. § (2) bekezdése a b) pontot sem engedi kormányzati diszpenzációnak. Az (1) bekezdés a) és b) pontja a c) pont Kormány-döntése mellett is vizsgálandó. A három kapu közül bármelyik hiánya kizárja a támogatást. A fejlesztési jelleg a konjunkciót nem oldja fel."
+        },
+        {
+          "text": "Fejlesztési célú támogatásnál az (1) a)–c) pont diszjunktívvá válik: elegendő a c) pont Kormány-döntése.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Áht. 50. § (1) bekezdése három konjunktív feltételt ír elő „és” kapcsolattal. A (2) bekezdés csak a c) pont döntési módját engedi át meghatározott támogatási körben. Az a) és b) pont nem válik választékossá. A diszjunktív olvasat a törvény szerkezetét sérti."
+        },
+        {
+          "text": "A Kormány egyedi határozata ugyanennél a fejlesztési támogatásnál az (1) a) pont munkaügyi szűrője alól is felmentést ad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Áht. 50. § (2) bekezdése csak az (1) c) pont szerinti átláthatóságról dönthet. Az a) pont munkaügyi szűrője e kivétel alá nem vonható. A 20. § szerinti meg nem felelés a fejlesztési célú támogatástól függetlenül elzárhat. A felmentésnek nincs törvényi alapja."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "fa0ec1120628"
+    },
+    {
+      "question": "Eset: a foglalkoztatás-felügyeleti hatóság megállapította a 20. § (1) b) pont szerinti életkori jogsértést, de bírságot még nem szabott ki. A cég a támogatási kérelem benyújtásakor azt állítja: a jogsértés önmagában elég a meg nem feleléshez, és a két év a jogsértés elévülésének kezdőnapjától számít. Mi a helytálló a 20. § (1) szerint?",
+      "options": [
+        {
+          "text": "A taxált jogsértés puszta megvalósulása bírsághatározat nélkül is elzárja a támogatást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 20. § (1) záró fordulata szerint a taxált jogsértés és a minősített bírsághatározat együttesen kell. Bírság nélkül a támogatási szűrő nem zár el. A puszta jogsértés-megállapítás a meg nem feleléshez nem elég. A példában a bírság még hiányzik."
+        },
+        {
+          "text": "A két éves időablak a költségvetési támogatás igénylésének időpontjától visszafelé számít, nem a jogsértés elévülésének kezdőnapjától.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 20. § (1) a költségvetési támogatás igénylésének időpontját megelőző két éven belüli minősített határozatot kívánja meg. A szűrő az igény napjához igazodik. Az elévülési kezdőnap önállóan nem váltja ki a meg nem felelést. Az ablak számítása ezért igényidőpont-kötött."
+        },
+        {
+          "text": "A két éves ablak a jogsértés elévülésének kezdőnapjától indul, nem a támogatási igény napjától visszafelé.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 20. § (1) a támogatási igény időpontját megelőző két éven belüli minősített határozatot követel. A szűrő igényidőpont-kötött, nem elévülés-kötött. Az elévülési kezdőnap önállóan nem a mérce. A 20. § (1) szöveg szerinti ablak az igény napjától visszafelé számít."
+        },
+        {
+          "text": "A meg nem feleléshez a taxált jogsértés mellett a támogatási igényt megelőző két éven belüli végleges – közigazgatási perben jogerős ítélettel elbírált –, végrehajtható és nyilvánosságra hozott bírsághatározat kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 20. § (1) záró fordulata a taxált jogsértést és a minősített bírsághatározatot konjunktívvá teszi. Önmagában a jogsértés-megállapítás nem zár el. A határozatnak véglegesnek, végrehajthatónak és nyilvánosságra hozottnak kell lennie. A példában a bírság hiánya miatt a meg nem felelés még nem áll fenn."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "47d025c8a6f4"
+    },
+    {
+      "question": "Eset: egy Bt.-t harmadik országbeli állampolgár munkavégzésre jogosító engedély nélküli foglalkoztatása miatt sújtottak a támogatási igényt megelőző két éven belüli, végleges, végrehajtható és nyilvánosságra hozott bírsághatározattal. A jogász szerint ez „csak bejelentési mulasztás az (1) a) pontban”, és díjjal előtörölhető. Mi a helyes?",
+      "options": [
+        {
+          "text": "A 22. § (1) e tényállás miatti munkaügyi bírságot kizárja az előtörlésből; díjfizetéssel sem törölhető a honlapról a két éves időtartam letelte előtt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 22. § (1) bekezdése a harmadik országbeli állampolgár „munkavégzésre jogosító engedély nélküli foglalkoztatása miatt kiszabott munkaügyi bírság” kivételét rögzíti. A 20. § (2) szerinti minősített jogsértés a kedvezményből ki van zárva. Díjfizetéssel sem rövidíthető a két éves honlapi időtartam. A jogász díjas megváltása ezért nem áll."
+        },
+        {
+          "text": "A tényállás az (1) bekezdés a) pontjába (bejelentési mulasztás) olvad, külön (2) bekezdés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 20. § (2) bekezdése önálló elzáró okként szabályozza az engedély nélküli foglalkoztatást. Nem része az (1) a)–f) taxációjának. A bejelentési mulasztás más jogalap a 20. § (1) a) pontban. Az összeolvasztás a rendelet bekezdés-szerkezetét félreérti."
+        },
+        {
+          "text": "A 20. § (2) bekezdése önálló elzáró ok; az engedély nélküli foglalkoztatás nem olvad az (1) bekezdés a)–f) taxációjába.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 20. § (2) bekezdése elválasztott tényállásként szabályozza az engedély nélküli foglalkoztatást. Az időbeli és határozati minősítés azonos az (1) záró fordulatával. A jogalap mégis külön bekezdés. A bejelentési mulasztásba olvasztás a rendelet szerkezetét sérti."
+        },
+        {
+          "text": "A taxáció a Kit. és a Kttv. szerinti közszolgálati jogviszony megszüntetésének jogszerűségét is lefedi, ezért a Bt. ügye közszolgálati szabályok szerint bírálandó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 20. § (1) a)–f) pontja és a (2) bekezdés az Áht. alkalmazása szempontjából a foglalkoztatás-felügyeleti meg nem felelést taxálja. A listán nincs Kit. vagy Kttv. megszüntetési tényállás. A közszolgálati jogszerűség nem helyettesíti e támogatási szűrőt. A Kit./Kttv. szabályai más jogágban állnak."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "496d0c8d06e7"
+    },
+    {
+      "question": "Eset: a pályázati kiírás az Áht. 50. § (4) alapján köztartozás-mentességet ír elő, és az (5) alapján további kizáró okot is. A kérelmezőnek csak önkormányzati adóhátraléka van; emellett két éven belüli, 20. § szerinti minősített munkaügyi bírsága. A kiíró szerint a bírság „kihagyható”, ha a kiírás nem ismétli a 20. §-t. Mi a helytálló?",
+      "options": [
+        {
+          "text": "A (4) bekezdés kógens minden költségvetési támogatásnál, és az önkormányzati adókat is kötelezően vizsgálni kell.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Áht. 50. § (4) bekezdése a köztartozás-mentességet előírható feltételként szabályozza, nem automatikus kógens kapuként. Az önkormányzati adóhatóság adói e körből ki vannak véve. A munkaügyi szűrő ettől függetlenül az (1) a) pontban kötelező. A két szabály felcserélése a támogatási döntést eltorzítja."
+        },
+        {
+          "text": "Az (5) alapján a pályázati kiírás mellőzheti vagy enyhítheti a 20. § taxációját, ha nem ismétli meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Áht. 50. § (5) bekezdése további kizáró okokat enged, de a 20. § meg nem felelését nem enyhíti. Az (1) a) pont a kiírás szövegétől függetlenül kötelező kapu. A minősített bírság a kiírás hallgatása mellett is elzár. A mellőzésnek nincs törvényi alapja."
+        },
+        {
+          "text": "Az (5) bekezdés további kizáró okot enged, de a 20. § szerinti meg nem felelést nem enyhítheti; a minősített bírság az Áht. 50. § (1) a) ponton elzár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Áht. 50. § (5) bekezdése a pályázati kiírásnak további kizáró okokat enged. A 20. § szerinti meg nem felelést azonban nem enyhítheti és nem mellőzheti. A munkaügyi szűrő az (1) a) pontban kógens marad. A kiírás hallgatása a minősített bírságot nem kapcsolja ki."
+        },
+        {
+          "text": "A (4) szerinti köztartozásból az önkormányzati adóhatóság hatáskörébe tartozó adók ki vannak véve; az önkormányzati hátralék önmagában nem e klauzula szerinti köztartozás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Áht. 50. § (4) bekezdése az adótartozásnál kifejezetten kivételt tesz az önkormányzati adóhatóság adói alól. A járulék-, illeték- és vámtartozás a köztartozás része lehet. Az önkormányzati hátralék önmagában nem dönti el a (4) szerinti szűrőt. A munkaügyi bírság ettől függetlenül az (1) a) ponton vizsgálandó."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "23872373e4a8"
+    },
+    {
+      "question": "Eset: bejelentési mulasztás miatti támogatás-elbírálásnál a kérelmező csak a foglalkoztatás-felügyeleti honlapot mutatja, és azt állítja: az adóhatósági irat soha nem kell. Egyenlő bánásmódi ügyben ugyanezt a honlapot akarja egyedüli bizonyítéknak. Mi a helytálló a 20. § (3)–(4) szerint?",
+      "options": [
+        {
+          "text": "A (4) szerinti pozitív különös hatáskörű igazolás felmenti a foglalkoztatót a 20. § (1)–(2) szerinti meg nem felelés alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 20. § (4) bekezdése csak az igazolás módját cseréli a kijelölt szerveknél. Nem ad felmentést a meg nem felelés taxációja alól. Ha minősített bírság fennáll, a különös hatáskörű igazolás sem pótolja a rendezett munkaügyi kapcsolatokat. A dokumentumcsere nem azonos a szűrő kikapcsolásával."
+        },
+        {
+          "text": "Minden taxált tényállásnál kizárólag a foglalkoztatás-felügyeleti hatóság honlapja az egyetlen elfogadható bizonyíték.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 20. § (3) bekezdése hatóság szerint osztja meg a bizonyítási bázist. Bejelentésnél az állami adóhatóság irata, az a)–e) pontnál és a (2) bekezdésnél a foglalkoztatás-felügyelet, az f) pontnál az egyenlő bánásmódi hatóság az irányadó. A honlap önmagában nem fedi a teljes taxációt."
+        },
+        {
+          "text": "Az f) pont (egyenlő bánásmód) tekintetében az egyenlő bánásmódot ellenőrző hatóság nyilvántartási irata az irányadó; a (4) csak kijelölt szerveknél cseréli a (3) dokumentumait különös hatáskörű igazolásra, felmentés nélkül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 20. § (3) c) pont az f) ponthoz az egyenlő bánásmódot ellenőrző hatóság iratát rendeli. A foglalkoztatás-felügyeleti honlap e tényállásnál nem a (3) szerinti bizonyítási alap. A (4) bekezdés csak a kijelölt szerveknél cseréli az igazolás módját. Pozitív igazolás sem ad felmentést a meg nem felelés taxációja alól."
+        },
+        {
+          "text": "Bejelentésnél a 20. § (3) a) pontja az állami adóhatóság nyilvántartásából nyilvánosságra hozott iratot rendeli a teljesülés megállapításának alapjául.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 20. § (3) a) pont a bejelentési kötelezettségnél az állami adóhatósághoz telepíti a bizonyítási bázist. A foglalkoztatás-felügyeleti honlap a 21. § (2) szerinti nyilvánosság, de nem váltja ki e szabályt. A meg nem feleléshez a 20. § (1) záró fordulata szerinti minősített bírság is kell. A „csak honlap” álláspont ezért hiányos."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "d6b2e4916b14"
+    },
+    {
+      "question": "Eset: a foglalkoztatót életkori feltételek sérelme miatt minősített munkaügyi bírsággal sújtották, és a 21. § (2) szerint a honlapon szerepel. Ugyanakkor külön díjazási ügye is van minősített bírsággal, de a honlapon nem látszik. A pályázati tanácsadó szerint „ami nincs a honlapon, az nem zár el”. Mi a helytálló?",
+      "options": [
+        {
+          "text": "A díjazási (c) pont a 20. § (1) szerint elzáró ok maradhat a 20. § (3) szerinti nyilvántartási irattal akkor is, ha a 21. § (2) honlapon nem jelenik meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 20. § (1) c) pont a díjazási szabályok megsértését taxálja. A 21. § (2) szűkebb honlapi köre nem szűkíti le a 20. § taxációját. A bizonyítás a 20. § (3) szerinti nyilvántartási iratra támaszkodhat. A honlapon nem szereplés ezért nem mentesít."
+        },
+        {
+          "text": "A díjazási bírság honlapi hiánya automatikusan kizárja a 20. § (1) c) pont szerinti meg nem felelést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 21. § (2) bekezdése a díjazást nem emeli a honlapra, de a 20. § (1) c) pont továbbra is elzáró ok. A minősített határozat a 20. § (3) szerinti nyilvántartási irattal igazolható. A honlapi hiány nem mentesít a támogatási szűrő alól. A taxáció tágabb, mint a honlapi lista."
+        },
+        {
+          "text": "A 21. § (2) és a 20. § (1) köre azonos: ami nem kerül a honlapra, az a rendezett munkaügyi kapcsolatok szempontjából sem számít elzáró oknak.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 21. § (2) honlapi köre szűkebb, mint a 20. § (1) elzáró taxációja. A c)–f) pont szerinti jogsértések is elzárhatnak minősített bírság esetén. A honlap nyilvános tükör, a taxáció a támogatási szűrő tartalma. A két kör azonosítása a rendelet funkcióit összemossa."
+        },
+        {
+          "text": "A 21. § (2) a honlapi közzétételt a 20. § (1) a) és b) pontjára, valamint a (2) bekezdés szerinti engedély nélküli foglalkoztatásra szűkíti; az életkori (b) ügy e körbe tartozik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 21. § (2) bekezdése a honlapi kört szűkebben húzza meg, mint a 20. § (1) elzáró taxációja. Az életkori és gyermekmunka-tényállás a honlapra kerülhet. A bejelentési és a (2) bekezdés szerinti ügyek szintén. A példában az életkori közzététel egyezik a rendelettel."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "2e524f5786b5"
+    },
+    {
+      "question": "Eset: a hatóság hétfőn meghozza a bejelentési jogsértést megállapító határozatot; a véglegesség szerdán áll be. A cég szerint a nyilvántartásba vétel már hétfőn kötelező volt, és a bírság csütörtöki megfizetésével a honlap azonnal törlendő. Mi a helyes a 21. § (1) és (3) szerint?",
+      "options": [
+        {
+          "text": "A honlapi adatok a bírság megfizetésének napján automatikusan törlendők, a két éves határidőre tekintet nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 21. § (3) bekezdése a törlést a végrehajthatóvá válástól számított két évhez köti. A 21. § (8) szerint a teljesítés nem érinti a közzétételt. A fizetés napja nem törlési nap. Az automatikus törlésnek nincs rendeleti alapja."
+        },
+        {
+          "text": "A honlapon nyilvánosságra hozott adatokat a végleges határozat végrehajthatóvá válásától, perben a bírósági határozat jogerőre emelkedésétől és végrehajthatóvá válásától számított két év elteltével törli a hatóság; a bírság megfizetése a 21. § (8) szerint nem indokol azonnali törlést.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 21. § (3) bekezdése a törlést e két éves határidőhöz köti. A 21. § (8) a kötelezettség teljesítését a nyilvántartástól és a közzétételtől elválasztja. A csütörtöki fizetés tehát nem törli a honlapot. Az idő előtti törlés csak a 22. § díjköteles útja lehet."
+        },
+        {
+          "text": "A nyilvántartásba vétel a jogszabálysértést megállapító határozat véglegessé válásakor esedékes; közigazgatási perben a bíróság jogerős és végrehajtható határozatáról való tudomásszerzést követő munkanapon.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 21. § (1) bekezdése a véglegességhez, perben a bírósági tudomásszerzést követő munkanaphoz köti a rögzítést. A meghozatal napja (hétfő) önmagában nem elég. A példában a szerdai véglegesség a fordulópont. Korai rögzítésnek nincs rendeleti alapja."
+        },
+        {
+          "text": "A nyilvántartásba vétel már a határozat meghozatalának napján kötelező, a véglegesség bevárása nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 21. § (1) bekezdése a véglegessé váláshoz köti a rögzítést. Közigazgatási perben a bíróság jogerős és végrehajtható határozatáról való tudomásszerzést követő munkanap a fordulópont. A meghozatal napja nem a mérce. A hétfői kötelező rögzítésnek nincs helye."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "14ee6dff1ca7"
+    },
+    {
+      "question": "Eset: bejelentési mulasztás miatti minősített bírságot a foglalkoztató teljes összegben megfizette, és a határozatban foglalt helyreállítási kötelezettséget is teljesítette. Azt állítja: a 21. § (8) alapján a nyilvántartás és a közzététel megszűnt, a támogatás újra jár. Mi a helytálló?",
+      "options": [
+        {
+          "text": "A 21. § (8) szerint a nyilvántartásba vételi és közzétételi kötelezettséget nem érinti, ha a foglalkoztató az alapul szolgáló hatósági határozatban foglalt kötelezettségét teljesítette.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 21. § (8) bekezdése a szűrő tartósságát azzal zárja, hogy a teljesítés nem mentesít. A bírság kiegyenlítése és a helyreállítás sem szünteti meg a nyilvántartást és a közzétételt. A két éves elzárás nem szűnik meg automatikusan. A cég mentesülési olvasata a (8) szövegével ütközik."
+        },
+        {
+          "text": "A bírság megfizetése önmagában nem törli a 20. § szerinti két éves elzárást; a meg nem felelés a minősített határozat fennállásához kötött.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 21. § (8) és a 20. § együtt olvasandó. A teljesítés nem szünteti meg a nyilvánosságra hozott, minősített bírsághatározat joghatását. A támogatási igényt megelőző két éves ablakban fennálló ilyen határozat továbbra is elzár. Az előtörlés a 22. § díjköteles kérelme, nem a puszta teljesítés."
+        },
+        {
+          "text": "A megfizetés után a 21. § (8) azonnal törli a honlapi adatot és megszünteti a támogatási szűrőt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 21. § (8) bekezdése kifejezetten kimondja, hogy a teljesítés a nyilvántartást és a közzétételt nem érinti. A 20. § szerinti meg nem felelés a minősített határozathoz kötött. A bírság kiegyenlítése önmagában nem eredményezi a honlapi törlést. Az azonnali mentesülésnek nincs jogalapja."
+        },
+        {
+          "text": "A (8) bekezdés csak a nyilvántartásra vonatkozik; a közzététel és a támogatási elzárás a bírság megfizetésével automatikusan megszűnik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 21. § (8) bekezdése a nyilvántartásba vételi és a közzétételi kötelezettséget egyaránt érintetlenül hagyja. A 20. § szerinti támogatási elzárás a minősített határozathoz kötött. A fizetés önmagában nem nyitja újra a támogatást. A részleges hatály a (8) szövegével ellentétes."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "98fd6b9c3bba"
+    },
+    {
+      "question": "Eset: a honlapon már közzétett bejelentési bírsághatározat ellen a foglalkoztató keresetet nyújtott be. Párhuzamosan egy másik ügyben jogerős bírósági határozat ellen perújítási kérelmet terjesztettek elő. Mely elhatárolások helyesek a 21. § (4)–(5) szerint?",
+      "options": [
+        {
+          "text": "Perújítási kérelem esetén a közzétételt nem érinti, a (4) bekezdés b) pontja nem alkalmazható, és törlés csak akkor hajtható végre, ha a bíróság a megtámadott ítéletet hatályon kívül helyezte.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 21. § (5) bekezdése a perújítást a (4) törlési mechanizmusa alól kiveszi. A perújítási kérelem önmagában nem törli a honlapi adatot. A törlés feltétele a megtámadott ítélet hatályon kívül helyezése. A kereset és a perújítás hatása ezért elválik."
+        },
+        {
+          "text": "Keresettel támadás esetén a hatóság a (2) bekezdés szerinti adatokat a bíróság jogerős és végrehajtható határozatához igazítja; ha a nyilvánosságra hozatalra már sor került, a (4) b) pont szerint intézkedik a honlapi adatok törléséről.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 21. § (4) a) és b) pontja ezt a mechanizmust adja. A közzététel a bíróság jogerős és végrehajtható döntéséhez igazodik. Ha az adat már fent van, a törlés kötelező. A kereset tehát gátolhatja vagy visszavonhatja a honlapi nyilvánosságot."
+        },
+        {
+          "text": "A perújítási kérelem benyújtása automatikusan törli a honlapi adatokat, a bíróság hatályon kívül helyező döntése nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 21. § (5) bekezdése szerint a közzétételi kötelezettséget a perújítás nem érinti. A (4) b) pont perújításnál nem alkalmazható. A nyilvánosságra hozott adatok a hatályon kívül helyezésig fennmaradnak. Az automatikus törlésnek nincs helye."
+        },
+        {
+          "text": "Keresetnél a hatóság a már közzétett adatot változatlanul fenntartja a bíróság döntéséig, törlési kötelezettség nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 21. § (4) b) pont szerint, ha a nyilvánosságra hozatalra már sor került, a hatóság intézkedik a honlapi adatok törléséről. A változatlan fenntartás a keresetnél nem a főszabály. A bíróság döntéséhez igazított közzététel a (4) a) pont rendje. A példában a már közzétett adat törlendő."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "17935206c920"
+    },
+    {
+      "question": "Eset: a cég közzétett és végrehajtott bejelentési bírságát szeretné a honlapról töröltetni. Azt állítja: a bírság megfizetése a 21. § (8) szerint automatikus előtörlés; ha mégsem, akkor az engedély nélküli foglalkoztatásra is kiterjed a 22. § kedvezménye. Mi a helyes?",
+      "options": [
+        {
+          "text": "A harmadik országbeli állampolgár munkavégzésre jogosító engedély nélküli foglalkoztatása miatt kiszabott munkaügyi bírság az előtörlésből ki van zárva.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 22. § (1) bekezdése e tényállást kifejezetten kivételként kezeli. A 20. § (2) szerinti engedély nélküli foglalkoztatás a rendezett munkaügyi kapcsolatok szempontjából is minősített jogsértés. Díjfizetéssel sem törölhető a honlapról a két éves időtartam letelte előtt. A kedvezmény tehát nem univerzális."
+        },
+        {
+          "text": "A 22. § (1) szerint a foglalkoztató naptári évenként egy alkalommal, kérelemre és a (2) szerinti befizetéssel kérheti a közzétett és végrehajtott határozat honlapi adatainak idő előtti törlését.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 22. § (1) bekezdése naptári évenként egyszeri, kérelemre induló előtörlést ad. A kedvezmény csak a közzétett és végrehajtott határozatra vonatkozik. A kérelemmel egyidejűleg a (2) bekezdés szerinti befizetést teljesíteni kell. Ez nem a 21. § (8) szerinti puszta kötelezettségteljesítés járuléka."
+        },
+        {
+          "text": "A 22. § előtörlése a 21. § (8) szerinti kötelezettségteljesítéssel azonos: a bírság megfizetése automatikusan törli a honlapi adatot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 21. § (8) bekezdése a teljesítést a nyilvántartástól és a közzétételtől elválasztja. A 22. § (1) önálló, díjköteles kérelmet nyit a honlapi adatok idő előtti törlésére. A két jogintézmény nem azonos. A puszta bírságfizetés nem váltja ki a 22. § szerinti előtörlést."
+        },
+        {
+          "text": "Az előtörlés naptári évenként korlátlan alkalommal kérhető, bármely munkaügyi bírságra, ideértve az engedély nélküli foglalkoztatást is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 22. § (1) bekezdése naptári évenként egy alkalmat enged. Az engedély nélküli foglalkoztatás miatti munkaügyi bírság a 22. § (1) szerint ki van zárva. A kérelem a közzétett és végrehajtott határozatra korlátozódik. A korlátlan és univerzális előtörlésnek nincs jogalapja."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "5f6677b6da52"
+    },
+    {
+      "question": "A 115/2021. (III. 10.) Korm. rendelet 22. § (2) bekezdése szerint hogyan kell kiszámítani az előtörléshez szükséges befizetés mértékét, ha a kiszabott munkaügyi bírság 400 000 Ft, az érintett foglalkoztatottak száma 3, a kérelem napján hatályos minimálbér pedig 300 000 Ft?",
+      "options": [
+        {
+          "text": "A befizetés mértéke a kiszabott munkaügyi bírság háromszorosa, de legalább az érintett foglalkoztatottak száma és a kérelem napján hatályos minimálbér szorzatának háromszorosa; a példában a minimálbér-szorzat háromszorosa a magasabb küszöb.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 22. § (2) bekezdése két küszöböt állít: bírság×3, illetve (foglalkoztatottak×minimálbér)×3. A példában 400 000×3 = 1 200 000 Ft, míg 3×300 000×3 = 2 700 000 Ft. A magasabb, 2 700 000 Ft a fizetendő. Az átutalást a foglalkoztatáspolitikáért felelős miniszter honlapján közzétett keretszámlára kell teljesíteni."
+        },
+        {
+          "text": "A példában elegendő 1 200 000 Ft befizetése, mert a rendelet mindig a bírság háromszorosát követeli, a minimálbér-szorzat csak tájékoztató adat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 22. § (2) bekezdése „de legalább” fordulattal a minimálbér-szorzat háromszorosát alsó küszöbként állítja. A példában 2 700 000 Ft a magasabb érték, tehát ez a fizetendő. A 1 200 000 Ft nem elég. A két küszöb közül mindig a nagyobbat kell teljesíteni."
+        },
+        {
+          "text": "A befizetés mértéke a bírság és a minimálbér összege, szorzó nélkül; a példában 700 000 Ft.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 22. § (2) bekezdése háromszoros szorzót alkalmaz mind a bírságra, mind a foglalkoztatottak×minimálbér szorzatra. Összeadás és szorzó nélküli összeg nincs a rendeletben. A példában a helyes alsó küszöb 2 700 000 Ft. A 700 000 Ft számításnak nincs jogalapja."
+        },
+        {
+          "text": "Az átutalást igazoló befizetési bizonylatot vagy annak másolatát a kérelemhez mellékelni kell, és a befizetés a miniszter honlapján közzétett előirányzat-felhasználási keretszámlára teljesíthető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 22. § (2) bekezdése a keretszámlát és a bizonylatcsatolást is előírja. A kérelem a befizetés igazolása nélkül nem teljes. A mérték a két küszöb közül a magasabb. A példában a minimálbér-alapú küszöb (2 700 000 Ft) irányadó a 1 200 000 Ft-os bírság-alapú összeggel szemben."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "f18057ebf9f9"
+    },
+    {
+      "question": "Eset: felülvizsgálatnál azonnali jogvédelem nem volt; a Kúria a felülvizsgálattal érintett bírósági határozatot megváltoztatta. Külön: a közzététel után a cég a nyilvántartásba vétel ellen indít közigazgatási pert, és a kereset napján azonnali honlap-törlést vár. Mi a helyes a 21. § (7) és (9) szerint?",
+      "options": [
+        {
+          "text": "Azonnali jogvédelem hiányában a Kúria jogerős és végrehajtható felülvizsgálati határozata akkor kerül a nyilvántartásba, ha a Kúria a felülvizsgálati kérelemmel érintett bírósági határozatot megváltoztatta.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 21. § (7) bekezdése ezt a szűk esetet rögzíti. Azonnali jogvédelem nélkül nem minden felülvizsgálati kimenet kerül a nyilvántartásba. Csak a megváltoztató Kúria-határozat indokolja a rögzítést. A hatályban tartás önmagában nem nyit új közzétételi fordulót."
+        },
+        {
+          "text": "Azonnali jogvédelem hiányában a Kúria minden felülvizsgálati határozata automatikusan a nyilvántartásba kerül, megváltoztatás nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 21. § (7) bekezdése szerint a Kúria határozata csak akkor kerül a nyilvántartásba, ha a felülvizsgálattal érintett bírósági határozatot megváltoztatta. A puszta felülvizsgálati eljárás nem elég. Az azonnali jogvédelem nélküli út szűkebb. Automatikus rögzítésnek nincs helye."
+        },
+        {
+          "text": "A közzétételt követően a nyilvántartásba vétel ellen indított közigazgatási perben a honlapi adat akkor törölhető, ha a bíróság a per tárgyává tett közigazgatási döntést jogerős és végrehajtható határozatában hatályon kívül helyezte.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 21. § (9) bekezdése a (4) b) ponttal azonos logikára fűzi ezt a pert. A kérelem előterjesztése önmagában nem töröl. A (4) b) pont e pernél a hatályon kívül helyezésig nem alkalmazható. A törlés feltétele a jogerős és végrehajtható hatályon kívül helyezés."
+        },
+        {
+          "text": "A nyilvántartásba vétel elleni per megindítása azonnal törli a honlapi adatot, a bíróság hatályon kívül helyező döntése nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 21. § (9) bekezdése szerint a törlés csak a per tárgyává tett közigazgatási döntés jogerős és végrehajtható hatályon kívül helyezésekor hajtható végre. A nyilvántartásba vétel elleni per megindítása önmagában nem indokol honlapi törlést. A (4) b) pont e helyzetben a hatályon kívül helyezésig nem alkalmazható. A közzététel a hatályon kívül helyező döntésig fennmarad a honlapon."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "1708ae98954f"
+    },
+    {
+      "question": "Egy Zrt. 2024. márciusában végleges, végrehajtható és nyilvánosságra hozott határozatban kapott munkaügyi bírságot bejelentési mulasztás miatt. 2025. szeptemberében költségvetési támogatást igényel. Milyen Áht- és rendeletbeli következménnyel kell számolnia?",
+      "options": [
+        {
+          "text": "A Kormány az Áht 50. § (2) bekezdése alapján egyedi határozattal a munkaügyi szűrő alól is felmentheti a Zrt.-t, ha a támogatás fejlesztési célú.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Áht 50. § (2) bekezdése csak az (1) bekezdés c) pont szerinti átláthatóságról engedi a Kormány egyedi döntését. Az a) pont munkaügyi szűrője e kivétel alá nem vonható. A fejlesztési célú jelleg nem diszpenzálja a 20. § szerinti meg nem felelést. A Zrt. tehát a (2) bekezdéssel nem mentesül."
+        },
+        {
+          "text": "A 20. § (1) a) pont szerinti taxált jogsértés és a két éven belüli minősített bírsághatározat miatt nem felel meg a rendezett munkaügyi kapcsolatok követelményének, ezért az Áht 50. § (1) a) pontja alapján a támogatás nem nyújtható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a támogatási igény 2025. szeptemberében a 2024. márciusi határozathoz képest két éven belül van. A 20. § (1) a) pont a bejelentési mulasztást taxálja. A végleges, végrehajtható, nyilvánosságra hozott bírság a záró fordulat szerint elzár. Az Áht 50. § (1) a) pontja konjunktív kapuként zárja a támogatást."
+        },
+        {
+          "text": "A 21. § (2) szerint a bejelentési mulasztás miatti bírság a foglalkoztatás-felügyeleti honlapon is nyilvánosságra hozható körbe tartozik, ha a határozat minősített.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 21. § (2) bekezdése a 20. § (1) a) pontját a honlapi közzététel körébe vonja. A bejelentési mulasztás tehát mind a támogatási szűrő, mind a honlap szempontjából releváns. A két éves honlapi nyilvánosság a 21. § (3) szerint a végrehajthatóvá válástól számít. A Zrt. a 22. § díjköteles előtörlését is csak a rendelet feltételeivel kérheti."
+        },
+        {
+          "text": "Mivel a Zrt. munkaszerződései érvényesek, az Áht 50. § (1) a) pontja szerinti szűrő nem alkalmazható, a támogatás szabadon nyújtható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendezett munkaügyi kapcsolatok követelménye támogatási szűrő, nem a munkaviszony érvényességének ismérve. Az Áht 50. § (1) a) pontja a támogatást zárja el. Érvényes szerződések mellett is fennáll a 20. § szerinti meg nem felelés. A két éves ablakban lévő minősített bírság önállóan elzár."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "b6173d3285d7"
+    },
+    {
+      "question": "Eset: a kérelmező átlátható szervezet, és a b) pont szerinti közzétételnek is eleget tett. Azt állítja: a c) pont teljesülése „magával húzza” az a) pontot, és az Áht. 50. § (3) általános felmentést ad a munkaügyi szűrő alól. Mi a helytálló?",
+      "options": [
+        {
+          "text": "A (3) bekezdés a munkaügyi szűrő alóli általános felmentést tartalmazza, ezért a 20. § taxációja csak a (3) hiányában él.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Áht. 50. § (3) bekezdéséhez a törvényhozó jelenleg nem fűzött rendelkezést. Nincs általános felmentés a munkaügyi szűrő alól. A 20. § taxációja az (1) a) pont tartalmát tölti ki. A (3) üressége semmit nem kapcsol ki."
+        },
+        {
+          "text": "A b) és a c) pont a munkaügyi a) pont mellett álló, önálló támogatási elemek; az átláthatóság nem pótolja a rendezett munkaügyi kapcsolatokat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Áht. 50. § (1) bekezdése három konjunktív kaput nyit a költségvetési támogatásnál. A c) pont teljesülése nem teljesíti automatikusan az a) vagy a b) pontot. A munkaügyi szűrő hiánya önmagában kizárja a támogatást. A „magával húzás” a konjunkciót sérti."
+        },
+        {
+          "text": "Az Áht. 50. § (3) bekezdéséhez a törvényhozó nem fűzött rendelkezést; nincs általános felmentés a munkaügyi szűrő alól. A (4)–(5) bekezdés a munkaügyi tartalmat nem helyettesíti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Áht 50. § (3) bekezdéséhez a törvényhozó jelenleg nem fűzött rendelkezést. Nincs általános mentesülés a rendezett munkaügyi kapcsolatok alól. A (4) köztartozási klauzula és az (5) további kizáró okai a munkaügyi szűrő mellett állnak. A 20. § szerinti meg nem felelés taxációját e fakultatív és pályázati korlátok nem kapcsolják ki."
+        },
+        {
+          "text": "Ha a c) pont szerinti átláthatóság teljesül, az a) pont munkaügyi szűrője és a b) pont közzététele automatikusan teljesítettnek tekintendő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Áht. 50. § (1) bekezdése három önálló, konjunktív feltételt ír elő. Az átláthatóság nem pótolja a rendezett munkaügyi kapcsolatokat. A b) pont közzétételi kötelezettsége is külön vizsgálandó. A c) pont teljesülése önmagában nem nyit támogatást."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "8a43a6a05959"
+    },
+    {
+      "question": "Egy foglalkoztatót egyenlő bánásmód sérelme miatt sújtottak végleges, végrehajtható és nyilvánosságra hozott bírsággal a támogatási igényt megelőző egy éven belül. A foglalkoztatás-felügyeleti honlapon a neve nem szerepel. Mi a helyes megítélés a 20–21. § alapján?",
+      "options": [
+        {
+          "text": "A 20. § (1) f) pont szerinti egyenlő bánásmód sérelme a minősített bírsággal elzáró ok, ezért a foglalkoztató nem felel meg a rendezett munkaügyi kapcsolatok követelményének.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 20. § (1) f) pontja az egyenlő bánásmód sérelmét taxált elzáró okként nevezi meg. A záró fordulat szerinti minősített bírság a két éves ablakban fennáll. A támogatási szűrő tehát elzár. A 20. § (3) c) pontja szerint az egyenlő bánásmódot ellenőrző hatóság nyilvántartásából nyilvánosságra hozott irat a bizonyítási bázis."
+        },
+        {
+          "text": "Mivel a név nincs a foglalkoztatás-felügyeleti honlapon, a 20. § (1) f) pont szerinti meg nem felelés kizárt, a támogatás szabadon nyújtható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 21. § (2) szűkebb honlapi köre nem szűkíti a 20. § (1) taxációját. Az f) pont elzáró ok marad minősített bírság esetén. A bizonyítás a 20. § (3) c) szerinti nyilvántartási iratra támaszkodik. A honlapi hiány nem mentesít."
+        },
+        {
+          "text": "A 21. § (2) a honlapi közzétételt nem terjeszti ki az f) pontra, ezért a honlapi hiány önmagában nem cáfolja a 20. § szerinti meg nem felelést.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 21. § (2) bekezdése csak az a)–b) pontot és a (2) bekezdést hozza a honlapra. Az egyenlő bánásmódi ügyek a honlapi listán nem jelennek meg. A meg nem felelés ettől még fennállhat a 20. § (1) f) alapján. A két szabály funkciója elválik."
+        },
+        {
+          "text": "Az egyenlő bánásmód sérelme csak akkor zár el, ha a foglalkoztatás-felügyeleti hatóság szabta ki a bírságot; más hatóság bírsága soha nem számít.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 20. § (1) az egyenlő bánásmód követelményének érvényesülését ellenőrző hatóságot is megnevezi a bírság kiszabására. Az f) pontnál éppen ez a hatóság a tipikus. A foglalkoztatás-felügyeleti hatóság monopóliuma e tényállásra nem áll. A (3) c) pont a bizonyítást is ehhez a hatósághoz rendeli."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "ba779cef9d2a"
+    },
+    {
+      "question": "A 115/2021. (III. 10.) Korm. rendelet 22. § (1)–(2) bekezdése szerinti előtörlésnél a foglalkoztató 2 érintett munkavállalóval, 500 000 Ft munkaügyi bírsággal és 290 000 Ft-os minimálbérrel számol a kérelem napján. Melyik számítás és kizárás helyes?",
+      "options": [
+        {
+          "text": "Az engedély nélküli foglalkoztatás miatti bírságnál is kérhető előtörlés, ha a foglalkoztató a bírság hatszorosát fizeti be.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 22. § (1) bekezdése e tényállást kivételként kezeli, összegtől függetlenül. Nincs hatszoros „megváltási” út a rendeletben. A 20. § (2) szerinti jogsértés a két éves időtartam letelte előtt nem törölhető díjjal. A kizárás abszolút."
+        },
+        {
+          "text": "A bírság háromszorosa 1 500 000 Ft, a minimálbér-szorzat háromszorosa 1 740 000 Ft; a fizetendő a magasabb, 1 740 000 Ft, ha a tényállás nem esik az (1) szerinti kizárás alá.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 22. § (2) bekezdése a két küszöb közül a magasabbat követeli. Számítás: 500 000×3 = 1 500 000 Ft, illetve 2×290 000×3 = 1 740 000 Ft. A „de legalább” fordulat miatt 1 740 000 Ft a fizetendő. A bizonylatot a kérelemhez mellékelni kell."
+        },
+        {
+          "text": "A példában elegendő 1 500 000 Ft, mert a bírság háromszorosa mindig megelőzi a minimálbér-alapú küszöböt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 22. § (2) „de legalább” fordulata a minimálbér-szorzat háromszorosát alsó küszöbként állítja. A példában 1 740 000 Ft a magasabb érték. A 1 500 000 Ft nem elég. A rendelet szerinti két számított összeg közül mindig a magasabbat kell befizetni."
+        },
+        {
+          "text": "Ha a bírság harmadik országbeli állampolgár engedély nélküli foglalkoztatása miatt született, a 22. § (1) szerint az előtörlés nem kérhető, a számított összeg befizetése sem nyitja meg a kedvezményt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 22. § (1) bekezdése e tényállást kizárja az előtörlésből. A 20. § (2) szerinti minősített jogsértés díjfizetéssel sem törölhető a honlapról idő előtt. A naptári évenkénti egy alkalom sem nyitja meg e kivételt. A két éves időtartam letelte marad az egyetlen út."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "e5d6551edede"
+    },
+    {
+      "question": "Az Áht 50. § (2) bekezdése szerinti fejlesztési célú, beruházásösztönző támogatásnál a kérelmező átláthatósága kérdéses, ugyanakkor két éven belüli, nyilvános munkaügyi bírsága is van. Mit dönthet a Kormány, és mi marad kötelező?",
+      "options": [
+        {
+          "text": "Ha a Kormány az átláthatóságról dönt, azzal automatikusan a munkaügyi bírság joghatását is felfüggeszti a támogatási eljárás időtartamára.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Áht 50. § (2) bekezdése nem ad hatáskört a munkaügyi szűrő felfüggesztésére. Az a) pont és a 20. § taxációja érintetlen marad. Az átláthatósági döntés csak a c) pontra hat. A bírság joghatása a két éves ablakban fennmarad."
+        },
+        {
+          "text": "A Kormány egyedi határozatban csak az (1) bekezdés c) pont szerinti átláthatósági feltételről dönthet; a munkaügyi szűrő ettől függetlenül vizsgálandó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Áht 50. § (2) bekezdése kizárólag a c) pontra engedi az egyedi kormányhatározatot. Az a) pont rendezett munkaügyi kapcsolatai e kivétel alá nem vonhatók. A két éven belüli minősített bírság a 20. § szerint elzár. A fejlesztési célú jelleg nem mentesít."
+        },
+        {
+          "text": "Fejlesztési célú támogatásnál a 20. § taxációja nem alkalmazandó, mert az Áht 50. § (2) a teljes (1) bekezdést kiváltja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Áht 50. § (2) bekezdése szöveg szerint csak az (1) bekezdés c) pontjáról rendelkezik. Az (1) bekezdés egésze nem váltódik ki a fejlesztési célú támogatásnál. Az a) és b) pont továbbra is kötelező kapu marad. A 20. § taxációja az a) pont tartalmát tölti ki, és a (2) bekezdés ezt nem kapcsolja ki."
+        },
+        {
+          "text": "A 20. § szerinti meg nem felelés a (2) bekezdés kivételétől függetlenül elzárja a támogatást, ha a minősített bírsághatározat fennáll.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkaügyi szűrő az Áht 50. § (1) a) pontjában marad. A (2) bekezdés nem diszpenzálja. A 115/2021. (III. 10.) Korm. rendelet 20. §-a a meg nem felelést taxálja. A Kormány átláthatósági döntése mellett is kötelező a munkaügyi megfelelés."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "0b89d0ab6608"
+    },
+    {
+      "question": "A 115/2021. (III. 10.) Korm. rendelet 20. § (1) bekezdés d)–e) pontja szerinti kölcsönzési és minősített kölcsönbeadói nyilvántartási jogsértés hogyan viszonyul a 21. § (2) honlapi körhöz és a támogatási szűrőhöz?",
+      "options": [
+        {
+          "text": "A 21. § (2) a honlapi közzétételt nem terjeszti ki a d)–e) pontra; a bizonyítás a 20. § (3) b) pont szerinti foglalkoztatás-felügyeleti nyilvántartási iratra támaszkodik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 21. § (2) csak az a)–b) pontot és a (2) bekezdést hozza a honlapra. A kölcsönzési ügyek a honlapi listán nem jelennek meg. A 20. § (3) b) pontja a foglalkoztatás-felügyeleti hatóság nyilvántartását rendeli. A honlapi hiány nem mentesít a meg nem felelés alól."
+        },
+        {
+          "text": "A d)–e) pont a 20. § (1) taxációjában elzáró ok, ha a minősített (végleges, végrehajtható, nyilvános) bírság a támogatási igényt megelőző két éven belül fennáll.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 20. § (1) d)–e) pontja a munkaerő-kölcsönzési és a minősített kölcsönbeadói nyilvántartás sérelmét taxálja. A záró fordulat konjunktív minősített bírságot követel. A két éves ablak a támogatási igénytől visszafelé számít. A meg nem felelés a támogatást az Áht 50. § (1) a) pontja szerint elzárja."
+        },
+        {
+          "text": "A d)–e) pont csak akkor zár el, ha a jogsértés a foglalkoztatás-felügyeleti honlapon is szerepel; ellenkező esetben a támogatás szabad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 21. § (2) szűkebb honlapi köre nem feltétele a 20. § (1) d)–e) pont szerinti elzárásnak. A minősített bírság a (3) b) szerinti nyilvántartási irattal igazolható. A honlapon nem szereplés nem mentesít. A támogatási szűrő tágabb a honlapi listánál."
+        },
+        {
+          "text": "A minősített kölcsönbeadói nyilvántartás sérelme a 20. § (2) bekezdésébe olvad, ezért az előtörlésből is ki van zárva, mint az engedély nélküli foglalkoztatás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 20. § (2) bekezdése kizárólag a harmadik országbeli állampolgár engedély nélküli foglalkoztatását szabályozza. A d)–e) pont az (1) bekezdés taxációjában áll. A 22. § (1) kizárása is csak az engedély nélküli foglalkoztatásra vonatkozik. A kölcsönzési bírság önmagában nem esik e kizárás alá."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "5bfce353a7ee"
+    },
+    {
+      "question": "Egy Bt. a támogatási igény benyújtásakor köztartozás-mentes, átlátható szervezet, és eleget tett a köztulajdonú társaságokra irányadó közzétételnek, de a 20. § (2) szerinti engedély nélküli foglalkoztatás miatt két éven belüli minősített bírsága van. Mi a támogatási helyzet?",
+      "options": [
+        {
+          "text": "A 20. § (2) szerinti bírság csak akkor zár el, ha a Bt. egyben az (1) a)–f) pont valamelyikét is megsértette; önmagában nem elég.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 20. § (2) bekezdése külön, önálló elzáró okként kezeli az engedély nélküli foglalkoztatást. Nem feltételezi az (1) bekezdés a)–f) pontjának párhuzamos sérelmét. Az azonos minősítésű (két éves, végleges, végrehajtható, nyilvános) bírság önmagában elég a meg nem feleléshez. A Bt. tehát a (2) bekezdés alapján is elesik a követelménytől."
+        },
+        {
+          "text": "Mivel a Bt. átlátható és köztartozás-mentes, az Áht 50. § (4)–(5) bekezdése felülírja a munkaügyi szűrőt, a támogatás nyújtható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Áht 50. § (4)–(5) bekezdése a munkaügyi szűrő mellett áll, nem helyettesíti. A köztartozás-mentesség csak előírható további feltétel. A további kizáró okok szigoríthatnak, nem enyhítenek a 20. §-on. Az a) pont hiánya önállóan kizár."
+        },
+        {
+          "text": "A 22. § (1) szerint e tényállás az előtörlésből ki van zárva, ezért díjfizetéssel sem törölhető idő előtt a honlapi adat, ha közzétételre került.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 22. § (1) bekezdése az engedély nélküli foglalkoztatás miatti munkaügyi bírságot kizárja az előtörlésből. A 20. § (2) és a 21. § (2) e tényállást a honlapi körbe is vonja. A két éves időtartam letelte előtt díjjal nem törölhető. A Bt. a b)–c) ponttal sem kerülhető meg a szűrő."
+        },
+        {
+          "text": "Az Áht 50. § (1) a) pontja szerinti munkaügyi szűrő hiányzik, ezért a támogatás a b)–c) pont teljesülése ellenére sem nyújtható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Áht 50. § (1) bekezdése három konjunktív feltételt ír elő, ezért bármelyik kapu hiánya kizár. A 20. § (2) szerinti minősített bírság meg nem felelést vált ki. A b)–c) pont teljesülése nem pótolja az a) pontot. A támogatás tehát a munkaügyi szűrő hiánya miatt nem nyújtható."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "562f10cbebc1"
+    },
+    {
+      "question": "A 115/2021. (III. 10.) Korm. rendelet 20. § (1) bekezdés c) pontja szerinti díjazási jogsértés és a 21. § (8)–(9) bekezdése együtt hogyan befolyásolja a támogatási elzárás tartósságát, ha a foglalkoztató már megfizette a bírságot?",
+      "options": [
+        {
+          "text": "A bírság megfizetésével a 21. § (8) automatikusan megszünteti a 20. § (1) c) pont szerinti meg nem felelést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 21. § (8) bekezdése kifejezetten kimondja, hogy a teljesítés a nyilvántartást és a közzétételt nem érinti. A 20. § (1) c) pont szerinti meg nem felelés a minősített bírsághatározat fennállásához kötött. A díjazási bírság megfizetése önmagában nem nyitja újra a támogatást. Az idő előtti honlapi törlés csak a 22. § díjköteles útja lehet."
+        },
+        {
+          "text": "A díjazási jogsértés a 20. § (1) c) pont szerint elzáró ok marad a két éves ablakban, ha a minősített bírsághatározat fennáll, még a bírság megfizetése után is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 20. § (1) c) pontja a díjazási szabályok megsértését taxálja. A záró fordulat a minősített határozathoz köti a meg nem felelést. A 21. § (8) szerint a kötelezettség teljesítése a nyilvántartást és a közzétételt nem érinti. A megfizetés tehát nem törli a két éves elzárást."
+        },
+        {
+          "text": "A díjazási bírság mindig a 22. § (1) kizárása alá esik, ezért előtörlés soha nem kérhető rá.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 22. § (1) kizárása csak a harmadik országbeli állampolgár engedély nélküli foglalkoztatása miatti munkaügyi bírságra vonatkozik, nem a díjazási (c) pontra. A díjazási ügy a 21. § (2) szerint nem kerül a honlapra, ezért a 22. § honlapi előtörlése eleve nem e tényállásra épül. A „mindig / soha” fordulat a kizárási klauzulát tévesen általánosítja."
+        },
+        {
+          "text": "A 21. § (9) szerinti, nyilvántartásba vétel elleni per önmagában nem törli a honlapi adatot; törlés csak a közigazgatási döntés jogerős és végrehajtható hatályon kívül helyezésekor lehetséges.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 21. § (9) bekezdése a perindítást elválasztja a törléstől. A (4) b) pont e pernél a hatályon kívül helyezésig nem alkalmazható. A díjazási ügy a 21. § (2) szerint nem is feltétlenül kerül a honlapra. A támogatási szűrő ettől még a 20. § (1) c) alapján fennállhat."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "7ab28b910ae5"
+    },
+    {
+      "question": "Az Áht 50. § (1) bekezdés a) pontja és a 115/2021. (III. 10.) Korm. rendelet 20. § együtt milyen viszonyban áll a munkaviszony érvényességével és a támogatási igény időpontjával?",
+      "options": [
+        {
+          "text": "Ha a munkaszerződés érvényes, a 20. § szerinti meg nem felelés fogalmilag kizárt, mert csak érvénytelen jogviszonynál alkalmazható a szűrő.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 20. § a foglalkoztató meg nem felelését taxálja a támogatási igényhez igazodó két éves ablakban. Az érvényes munkaszerződés nem zárja ki a minősített bírság joghatását. Az Áht 50. § (1) a) pontja a költségvetési támogatás nyújtásának konjunktív kapuja. A semmisség és a támogatási elzárás nem azonos jogkövetkezmény."
+        },
+        {
+          "text": "A két éves ablak a jogsértés elkövetésének napjától számít előre, a támogatási igény időpontjától függetlenül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 20. § (1)–(2) a költségvetési támogatás igénylésének időpontját megelőző két éven belüli határozatot követeli. A számítás visszafelé történik az igény napjától. Az elkövetés napjától előre számított ablaknak nincs jogalapja. A szűrő a támogatási igényhez igazodik."
+        },
+        {
+          "text": "A szűrő a támogatási igény időpontjához igazodik: a 20. § a támogatási igényt megelőző két éven belüli minősített bírságot vizsgálja, nem a jogsértés elévülését.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 20. § (1)–(2) bekezdése a támogatási igény időpontjától visszafelé számított két éves ablakot alkalmaz. A meg nem felelés a minősített határozathoz kötött. Az Áht 50. § (1) a) pontja e megfeleléshez köti a támogatás nyújtását. Az elévülési kezdőnap önállóan nem váltja ki a szűrőt."
+        },
+        {
+          "text": "Érvényes munkaszerződések mellett is elzárható a támogatás, ha a két éves ablakban minősített bírsághatározat áll fenn; a követelmény nem a munkaviszony érvényességének ismérve.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a rendezett munkaügyi kapcsolatok követelménye költségvetési jogi előfeltétel. Az Áht 50. § (1) a) pontja a támogatást zárja el, a munkaszerződést nem semmisíti meg. A 20. § taxációja a foglalkoztató támogatási megfelelését szűri a minősített bírsághoz kötve. A munkaviszony érvényessége és a támogatási megfelelés tehát elválik."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "38b2f7405c1d"
+    },
+    {
+      "question": "A 115/2021. (III. 10.) Korm. rendelet 21. § (5)–(6) bekezdése szerint a perújítás és a felülvizsgálat milyen eltérő hatást gyakorol a honlapi törlésre?",
+      "options": [
+        {
+          "text": "Perújításnál a közzététel nem szűnik meg a kérelem előterjesztésére; törlés csak a megtámadott ítélet hatályon kívül helyezésekor hajtható végre, és a (4) b) pont nem alkalmazható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 21. § (5) bekezdése a perújítási kérelmet kivonja a (4) bekezdés törlési mechanizmusa alól. A nyilvánosságra hozott adatok a kérelem előterjesztése ellenére fennmaradnak. A törlés feltétele a megtámadott ítélet hatályon kívül helyezése. A kereset (4) b) pont szerinti hatása ezért nem másolható át a perújításra."
+        },
+        {
+          "text": "Perújítás és felülvizsgálat azonos módon, a kérelem előterjesztésének napján kötelezően törli a honlapi adatot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 21. § (5) és (6) bekezdése eltérő feltételeket szab. Perújításnál a hatályon kívül helyezés kell; felülvizsgálatnál az azonnali jogvédelem és a befogadás. A kérelem puszta előterjesztése egyiknél sem automatikus törlés. A két jogorvoslat hatása tehát nem azonos."
+        },
+        {
+          "text": "Felülvizsgálatnál a honlapról törölni csak akkor kell, ha a Kúria az azonnali jogvédelem iránti kérelemnek helyt adott, és a felülvizsgálati kérelmet befogadta.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 21. § (6) bekezdése kettős Kúria-feltételt állít: azonnali jogvédelem és a felülvizsgálati kérelem befogadása. Önmagában a felülvizsgálati kérelem előterjesztése nem indokol törlést. A későbbi közzététel a Kúria jogerős és végrehajtható felülvizsgálati határozatához igazodik. A perújításhoz képest ez még szűkebb út."
+        },
+        {
+          "text": "Felülvizsgálati kérelemnél a (4) b) pont mindig alkalmazandó, a Kúria döntése előtt is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 21. § (6) bekezdése a felülvizsgálatot szűkebben kezeli, mint a (4) bekezdés kereseti szabályát. Törlés csak a Kúria azonnali jogvédelme és befogadása esetén kötelező. A (4) b) pont automatikus átültetése felülvizsgálatra nincs. A Kúria döntése előtti törlésnek nincs általános jogalapja."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "acc9d05193fb"
+    },
+    {
+      "question": "Egy Kft. 1 érintett foglalkoztatottal, 200 000 Ft munkaügyi bírsággal (bejelentési mulasztás) és 300 000 Ft-os minimálbérrel kér előtörlést a 22. § alapján. Melyik állítás helyes a mérték és a jogosultság szempontjából?",
+      "options": [
+        {
+          "text": "A befizetést a foglalkoztatáspolitikáért felelős miniszter honlapján közzétett előirányzat-felhasználási keretszámlára kell teljesíteni, és a bizonylatot a kérelemhez mellékelni kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 22. § (2) bekezdése a keretszámla és a bizonylatcsatolás szabályát is rögzíti. A kérelem a befizetési bizonylat vagy másolat csatolása nélkül nem tekinthető teljesnek. A mérték a példában 900 000 Ft. A kedvezmény a közzétett és végrehajtott határozat honlapi adataira vonatkozik."
+        },
+        {
+          "text": "A példában elegendő 600 000 Ft, mert egy foglalkoztatottnál a minimálbér-küszöb nem alkalmazandó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 22. § (2) „de legalább” fordulata a foglalkoztatottak száma és a minimálbér szorzatának háromszorosát alsó küszöbként állítja. A létszám egynél nem kapcsolja ki ezt a küszöböt. A példában 900 000 Ft a magasabb érték a 600 000 Ft-os bírság-alapú összeggel szemben. A 600 000 Ft befizetése tehát nem elég az előtörléshez."
+        },
+        {
+          "text": "Bejelentési mulasztásnál az előtörlés ugyanúgy tilos, mint az engedély nélküli foglalkoztatásnál, ezért a számítás irreleváns.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 22. § (1) kizárása csak a harmadik országbeli állampolgár engedély nélküli foglalkoztatása miatti bírságra vonatkozik. A bejelentési mulasztás a 20. § (1) a) pontja, és a 21. § (2) honlapi körébe tartozik. Az előtörlés a 22. § (1)–(2) bekezdése szerinti feltételekkel kérhető a bejelentési ügyben. A tilalom tehát nem terjed ki e tényállásra."
+        },
+        {
+          "text": "A bírság háromszorosa 600 000 Ft, a minimálbér-szorzat háromszorosa 900 000 Ft; a fizetendő 900 000 Ft, és a kérelem naptári évenként egy alkalommal nyújtható be.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 22. § (2) bekezdése a bírság-alapú és a minimálbér-alapú küszöb közül a magasabbat követeli. Számítás: 200 000×3 = 600 000 Ft, illetve 1×300 000×3 = 900 000 Ft. A 22. § (1) bekezdése a kérelmet naptári évenként egyetlen alkalomra korlátozza. A bejelentési mulasztás nincs kizárva az előtörlésből, ellentétben a (2) bekezdés szerinti engedély nélküli foglalkoztatással."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "dc62beeb2262"
+    },
+    {
+      "question": "Eset: a támogatási igényben a köztartozás-mentességet előírták; a kérelmező NAV-járulék tekintetében tiszta. Ugyanakkor életkori jogsértés miatti, két éven belüli minősített bírsága van. A pénzügyi vezető szerint „a (4) teljesülése az a) pontot is fedezi”. Mi a helyes?",
+      "options": [
+        {
+          "text": "A (4) bekezdés kógens minden támogatási igénynél, és az önkormányzati adókat is kötelezően vizsgálni kell.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Áht. 50. § (4) bekezdése a köztartozás-mentességet csupán előírható feltételként említi. Az önkormányzati adóhatóság adói e körből ki vannak véve. A munkaügyi szűrő ettől függetlenül az (1) a) pontban kötelező. A szabályok felcserélése a támogatási döntést eltorzítja."
+        },
+        {
+          "text": "Ha a kérelmező köztartozás-mentes, az (1) a) pont munkaügyi szűrője automatikusan teljesítettnek minősül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Áht. 50. § (4) bekezdése nem pótolja az (1) a) pont szerinti munkaügyi szűrőt. A 20. § szerinti minősített bírság a köztartozás hiányában is elzár. A fakultatív klauzula nem kapcsolja ki a kógens munkaügyi kaput. Az automatikus teljesülésnek nincs törvényi alapja."
+        },
+        {
+          "text": "Az Áht. 50. § (1) a) pont szerinti munkaügyi szűrő kógens előfeltétel; a (4) fakultatív köztartozási klauzula mellett áll, és nem helyettesíti azt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Áht. 50. § (1) a) pontja minden költségvetési támogatásnál kötelező kapu. A (4) bekezdés csak akkor vizsgálandó, ha a támogatási igény feltételéül előírták. A járulékmentesség nem dönti el a 20. § szerinti munkaügyi meg nem felelést. A két klauzula egymás mellett áll."
+        },
+        {
+          "text": "A (4) bekezdés a köztartozás fogalmából kizárja az önkormányzati adóhatóság hatáskörébe tartozó adókat, miközben a járulék-, illeték- és vámtartozás a köztartozás része lehet — ez azonban nem oldja fel a 20. § szerinti elzárást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Áht. 50. § (4) bekezdése ezt a tartalmi kört adja a fakultatív szűrőnek. A példában a járulék-tisztaság a (4) szempontjából kedvező lehet. Az életkori minősített bírság mégis az (1) a) ponton elzár. A köztartozási klauzula nem fedezi a munkaügyi szűrőt."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "045422f5ea53"
+    },
+    {
+      "question": "A 115/2021. (III. 10.) Korm. rendelet 20. § (1) bekezdés b) pontja (életkori feltételek / gyermekmunka) és a 21. § (2)–(3) bekezdése hogyan kapcsolódik a honlapi nyilvánossághoz?",
+      "options": [
+        {
+          "text": "A b) pont a 21. § (2) szerinti honlapi közzététel körébe tartozik, ha a határozat végleges, végrehajtható, és munkaügyi bírsággal sújtott foglalkoztatóról van szó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 21. § (2) bekezdése a 20. § (1) a) és b) pontját, valamint a (2) bekezdést hozza a honlapra. Az életkori és gyermekmunka-tényállás tehát a nyilvános tükör része. A támogatási szűrő szempontjából a 20. § (1) b) pont is elzár minősített bírság esetén. A két funkció együtt él."
+        },
+        {
+          "text": "A b) pont csak a támogatási szűrőben él; a 21. § (2) a honlapra soha nem emeli az életkori és gyermekmunka-ügyeket.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 21. § (2) bekezdése kifejezetten a 20. § (1) a) és b) pontját nevezi meg a honlapi közzététel alapjaként. Az életkori és gyermekmunka-tényállás a nyilvános körbe tartozik. A támogatási elzárás mellett tehát honlapi következmény is járhat. A „soha” állítás ellentétes a (2) bekezdéssel."
+        },
+        {
+          "text": "A honlapi adatokat a 21. § (3) szerint a végrehajthatóvá válástól, perben a jogerőtől és a végrehajthatóvá válástól számított két év elteltével törli a hatóság.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 21. § (3) bekezdése a honlapi adatok törlését a végrehajthatóvá válástól, perben a jogerőtől és a végrehajthatóvá válástól számított két év elteltéhez köti. A b) pont szerinti közzétett ügyekre ugyanez a határidő irányadó. A törlés csak a honlapi megjelenést szünteti meg. Ez az időtartam a 20. § két éves támogatási ablakával gyakorlatilag párhuzamos."
+        },
+        {
+          "text": "A honlapi törlés a bírság megfizetésének napján esedékes, a 21. § (3) két éves határideje helyett.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 21. § (3) bekezdése a törlést a végrehajthatóvá válástól számított két évhez köti. A 21. § (8) szerint a kötelezettség teljesítése a közzétételt nem érinti. A bírság megfizetése tehát nem hoz azonnali törlést. Az idő előtti törlés egyetlen rendeleti útja a 22. § szerinti díjköteles előtörlési kérelem."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "b57bae64817d"
+    },
+    {
+      "question": "Egy Zrt. pályázati kiírása az Áht 50. § (5) bekezdése alapján további kizáró okot állapít meg. Ugyanakkor a kérelmezőre a 20. § (1) szerinti minősített bírság is fennáll. Mi a helyes sorrend a támogatási döntésnél?",
+      "options": [
+        {
+          "text": "Ha a pályázati kiírás nem ismétli meg a 20. § taxációját, a minősített bírság figyelmen kívül hagyható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Áht 50. § (1) a) pontja törvényi kapu, nem pályázati rendelkezés. A 20. § a meg nem felelést az Áht alkalmazása szempontjából határozza meg. A kiírás hallgatása nem kapcsolja ki a munkaügyi szűrőt. A minősített bírság továbbra is elzár."
+        },
+        {
+          "text": "A 20. § szerinti meg nem felelés önállóan elzárja a támogatást az Áht 50. § (1) a) pontja alapján; a pályázati további kizáró ok ezt nem enyhítheti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Áht 50. § (5) bekezdése lehetővé teszi, hogy jogszabály vagy pályázati kiírás további kizáró okot állítson, de a 20. § taxációját nem gyengítheti. A munkaügyi szűrő az (1) a) pontban kötelező kapu marad. A pályázati kiírás legfeljebb szigoríthat. A minősített bírság fennállása önmagában kizárja a támogatást."
+        },
+        {
+          "text": "Az (5) bekezdés alapján a pályázati kiírás a 20. § (1) záró fordulatának két éves ablakát egy évre rövidítheti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Áht 50. § (5) bekezdése további kizáró okokat enged, ám a 20. § (1) záró fordulatának két éves ablakát nem rövidítheti. A két éves időtartam a rendelet kógens eleme a támogatási szűrőben. A kiírás csak szigoríthat, nem lazíthat. Az egy éves pályázati rövidítésnek nincs törvényi alapja."
+        },
+        {
+          "text": "A pályázati további kizáró ok a munkaügyi szűrő mellett álló, önálló akadály; a két korlát egymást nem helyettesíti.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Áht 50. § (5) bekezdése az (1)–(4) bekezdésen kívüli további okokat enged a pályázati kiírásnak. A 20. § a rendezett munkaügyi kapcsolatok meg nem felelésének tartalmát tölti ki taxációval. A pályázati ok és a munkaügyi szűrő párhuzamosan vizsgálandó. Bármelyik fennállása önállóan kizárhatja a támogatást."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "5c71369a6d2f"
+    },
+    {
+      "question": "Eset: a cég bejelentési mulasztás miatt került a foglalkoztatás-felügyeleti honlapra a 21. § (2) szerint. A támogatási elbíráló az állami adóhatóság nyilvántartásából nyilvánosságra hozott iratot is kéri. A cég szerint a honlap „helyettesíti” az adóhatósági iratot, és az irat megléte esetén bírság nélkül is elég a meg nem feleléshez. Mi a helyes?",
+      "options": [
+        {
+          "text": "A meg nem feleléshez a 20. § (1) záró fordulata szerinti minősített bírsághatározat is kell; az adóhatósági irat önmagában nem pótolja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 20. § (1) záró fordulata a taxált jogsértést és a minősített bírságot konjunktívvá teszi. A (3) bekezdés csak a teljesülés igazolásának dokumentumait osztja meg. Az irat megléte nem kapcsolja ki a bírságkövetelményt. A cég második állítása ezért hibás."
+        },
+        {
+          "text": "Ha az adóhatósági irat megvan, a 20. § (1) záró fordulata szerinti bírsághatározat már nem szükséges a meg nem feleléshez.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 20. § (1) záró fordulata a minősített bírsághatározatot is megköveteli. A (3) bekezdés dokumentumai a teljesülés igazolását szolgálják, nem a bírság helyettesítését. Az irat önmagában nem zár el. A meg nem feleléshez a taxált jogsértés és a bírság együtt kell."
+        },
+        {
+          "text": "Bejelentési mulasztásnál kizárólag a foglalkoztatás-felügyeleti honlap az egyetlen elfogadható bizonyíték; az adóhatósági nyilvántartás irreleváns.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 20. § (3) a) pont kifejezetten az állami adóhatóság nyilvántartásából nyilvánosságra hozott iratot rendeli. A 21. § (2) a bejelentési ügyet a honlapi nyilvánosságba emelheti. Az adóhatósági irat nem irreleváns. A két forrás funkciója elválik, és nem cserélhető fel."
+        },
+        {
+          "text": "A 20. § (3) a) pont a bejelentésnél az állami adóhatóság nyilvános iratát rendeli; a 21. § (2) honlap e bizonyítási szabályt nem váltja ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 20. § (3) a) pont a bejelentési kötelezettségnél az adóhatósághoz telepíti a teljesülés igazolását. A 21. § (2) a bejelentési ügyet a honlapi nyilvánosságba is emelheti. A két út funkciója elválik: honlap nyilvánosság, (3) a) bizonyítási bázis. A honlap tehát nem helyettesíti az adóhatósági iratot."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "cf57096c0a30"
+    },
+    {
+      "question": "Eset: a foglalkoztatás-felügyeleti hatóság a 21. § (2) szerint honlapon közzétette a cég végleges, végrehajtható munkaügyi bírságát. A tényállás: 20. § (1) b) pont szerinti életkori feltételek sérelme. A cég külön díjazási (c) pontú bírságát is „közzétettnek” tekinti, és mindkettőre 22. § szerinti előtörlést kér (az éves alkalom még szabad). Mi a helytálló?",
+      "options": [
+        {
+          "text": "A díjazási bírság a 21. § (2) szerint is kötelezően a honlapra kerül, ezért ugyanúgy előtörölhető, mint az életkori ügy.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 21. § (2) bekezdése a díjazást (c) nem emeli a honlapra. A c)–f) pont a 20. § elzáró taxációjának része, de a honlapi nyilvánosságé nem. A 22. § honlapi előtörlése ezért nem e tényállásra épül. A kötelező honlapi közzététel állítása a 21. § (2) szövegével ütközik."
+        },
+        {
+          "text": "A díjazási (c) pontot a 21. § (2) nem emeli a honlapra; a 22. § a honlapról töröl, ezért a díjazási ügy nem a 22. § honlapi előtörlésének tárgya.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 21. § (2) a honlapi kört az a)–b) pontra és a 20. § (2) bekezdésre szűkíti. A díjazás a 20. § (1) c) pontban elzáró ok lehet a támogatási szűrőben, de a foglalkoztatás-felügyeleti honlapra nem kerül. A 22. § a honlapi tükör idő előtti törlését adja. A díjazás „közzétett / előtörölhető” olvasata a 21. § (2) ellenére áll."
+        },
+        {
+          "text": "Az életkori (b) pont a 21. § (2) honlapi körébe tartozik; a közzétett és végrehajtott határozatra a 22. § (1) szerint — a (2) szerinti befizetés mellett, naptári évenként egy alkalommal — előtörlés kérhető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 21. § (2) az a) és b) pontot, valamint a 20. § (2) bekezdést emeli a honlapra. Az életkori ügy tehát a 22. § honlapi előtörlésének tárgya lehet, ha a határozat közzétett és végrehajtott. A kérelemhez a (2) szerinti befizetés kell. A naptári évenkénti egy alkalom kógens."
+        },
+        {
+          "text": "Az életkori ügy a 22. § (1) kizárása alá esik, mert minden 20. § (1) szerinti bírság ki van zárva az előtörlésből.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 22. § (1) kizárása csak a harmadik országbeli állampolgár engedély nélküli foglalkoztatása miatti munkaügyi bírságra vonatkozik. Az életkori (b) pont nincs e kivételben. A közzétett és végrehajtott életkori határozatra — a befizetés mellett — előtörlés kérhető. A teljes (1) taxáció kizárása túlterjeszkedik."
+        }
+      ],
+      "sourceKerdesSorszam": 29,
+      "sourceHash": "e6f1fa206a0e"
+    },
+    {
+      "question": "Eset: a foglalkoztató bejelentési mulasztás miatti, közzétett és végrehajtott határozatát a 22. § szerint jogszerűen előtöröltette a honlapról. A következő héten költségvetési támogatást igényel, és azt állítja: az előtörlés az Áht. 50. § (1) a) pontot és a 20. § meg nem felelést is „lerendezte”. Mi a helyes?",
+      "options": [
+        {
+          "text": "A 20–22. § együtt a munkaviszony érvényességét is meghatározza, ezért a meg nem felelés automatikusan semmissé teszi a munkaszerződést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 115/2021. (III. 10.) Korm. rendelet 20–22. §-a az államháztartási törvény alkalmazása szempontjából a támogatási meg nem felelést és a nyilvánosságot rendezi. Az Áht 50. § (1) a) pont költségvetési előfeltételként működik, nem Mt. szerinti érvényességi ismérvként. A munkaszerződés érvényességét az Mt. szabályai döntik el. A semmisség nem a rendezett munkaügyi kapcsolatok követelményének joghatása."
+        },
+        {
+          "text": "A bejelentési ügy a 21. § (2) honlapi körébe tartozik, ezért volt előtörölhető; a honlap törlése mégsem azonos azzal, hogy a 20. § (1) záró fordulata szerinti meg nem felelés megszűnt volna.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 21. § (2) az a) pontot a honlapra emeli, ezért a 22. § tárgya lehet. A támogatási szűrő azonban a minősített határozat két éves ablakához kötött. A nyilvánosság idő előtti megszüntetése és a meg nem felelés megszűnése elválik. A cég „lerendezés” állítása túlterjeszkedik."
+        },
+        {
+          "text": "A 22. § a honlapi adatok idő előtti törlését engedi; önmagában nem kapcsolja ki a 20. § szerinti, minősített határozathoz kötött meg nem felelést a támogatási döntésnél.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 22. § a 21. § (2) szerinti honlapi tükör idő előtti letörlését adja. Az Áht 50. § (1) a) pont a 20. § szerinti meg nem feleléshez igazodik. A honlap törlése nem azonos a taxáció hatályon kívül helyezésével. Az előtörlés tehát nem automatikus támogatási mentesülés."
+        },
+        {
+          "text": "Az előtörlés után az Áht. 50. § (1) a) pont automatikusan teljesítettnek minősül a két éves ablak végéig.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 22. § a honlapi adatok idő előtti törlését engedi, nem a 20. § támogatási szűrőjének kikapcsolását. Az Áht 50. § (1) a) pont a meg nem feleléshez a minősített határozathoz kötött. A honlap törlése nem automatikus támogatási mentesülés. Az ablak végéig tartó teljesítettség a rendelet hatályát félreérti."
+        }
+      ],
+      "sourceKerdesSorszam": 30,
+      "sourceHash": "61411702e2d0"
+    },
+    {
+      "question": "A 115/2021. (III. 10.) Korm. rendelet 21. § (1) bekezdése szerinti nyilvántartásba vétel és a 20. § szerinti meg nem felelés időbeli kapcsolata hogyan alakul közigazgatási perben?",
+      "options": [
+        {
+          "text": "A 21. § (4) szerint kereset esetén a honlapi közzététel a bíróság jogerős és végrehajtható döntéséhez igazodik, és a már közzétett adat törlendő lehet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 21. § (4) a) és b) pontja a kereset hatását rendezi. A közzététel a bírósági döntéshez igazodik. Ha az adat már fent van, a törlés kötelező lehet. A per tehát befolyásolja a nyilvánosságot, amely a 20. § meg nem felelésének is feltétele."
+        },
+        {
+          "text": "Közigazgatási per alatt a meg nem felelés már az elsőfokú határozat meghozatalakor beáll, a jogerő bevárása nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 20. § (1)–(2) közigazgatási per esetén a bíróság jogerős ítéletével elbírált állapotot követel. Az elsőfokú meghozatal önmagában nem elég. A 21. § (1) is a jogerős és végrehajtható bírósági határozathoz igazítja a nyilvántartásba vételt. A per alatti automatikus elzárásnak nincs jogalapja."
+        },
+        {
+          "text": "A kereset előterjesztése a 21. § (5) szerint azonnal és véglegesen törli a nyilvántartást, perújítási szabályok alkalmazásával.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a keresetre a 21. § (4) bekezdés irányadó, nem az (5) perújítási szabály. A (4) b) pont a már közzétett adat törlését a bírósági döntéshez igazítja. A perújítás ((5)) éppen hogy kizárja a (4) b) pont automatikus alkalmazását. A kereset tehát nem perújítási logikával töröl."
+        },
+        {
+          "text": "Perben a nyilvántartásba vétel a bíróság jogerős és végrehajtható határozatáról való tudomásszerzést követő munkanapon esedékes; a meg nem feleléshez a 20. § szerinti jogerős ítélettel elbírált, végrehajtható és nyilvánosságra hozott állapot kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 21. § (1) bekezdése a peres fordulópontot a tudomásszerzést követő munkanaphoz köti. A 20. § (1)–(2) a közigazgatási perben a bíróság jogerős ítéletével elbírált minősítést követeli. A két szabály időben összecseng. A puszta elsőfokú határozat per alatt nem elég a meg nem feleléshez."
+        }
+      ],
+      "sourceKerdesSorszam": 31,
+      "sourceHash": "0a25d8b82d71"
+    },
+    {
+      "question": "Egy Bt. két éven belüli, nyilvános díjazási bírsága mellett az Áht 50. § (2) szerinti fejlesztési célú támogatást kér, és a Kormány az átláthatóságról dönteni készül. Melyik állításpár helyes?",
+      "options": [
+        {
+          "text": "A Kormány döntése csak a c) pontra hathat; a 20. § (1) c) pont szerinti díjazási meg nem felelés az a) pontot továbbra is elzárja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Áht 50. § (2) bekezdése kizárólag az átláthatóságról engedi az egyedi határozatot. A 20. § (1) c) pont a díjazási jogsértést taxálja. A minősített bírság a két éves ablakban elzár. A fejlesztési célú jelleg nem mentesít."
+        },
+        {
+          "text": "A díjazási ügy a 21. § (2) szerint nem feltétlenül jelenik meg a foglalkoztatás-felügyeleti honlapon, de a 20. § (3) szerinti nyilvántartási irattal a meg nem felelés igazolható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 21. § (2) a díjazást nem emeli a honlapi körbe. A 20. § (1) c) pont ettől még elzáró ok. A (3) bekezdés a foglalkoztatás-felügyeleti nyilvántartási iratot rendeli. A honlapi hiány nem mentesít a támogatási szűrő alól."
+        },
+        {
+          "text": "Ha a Kormány az átláthatóságról dönt, a díjazási bírság joghatása a fejlesztési támogatásnál automatikusan szünetel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Áht 50. § (2) bekezdése nem hatalmazza fel a Kormányt a munkaügyi szűrő szüneteltetésére. Az a) pont és a 20. § (1) c) pont szerinti díjazási elzárás érintetlen marad. Az egyedi határozat csak az átláthatósági feltételre hathat. A bírság joghatása a támogatási igényt megelőző két éves ablakban fennmarad."
+        },
+        {
+          "text": "A díjazási bírság csak akkor zár el, ha egyben a 20. § (2) szerinti engedély nélküli foglalkoztatás is megállapítást nyert.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 20. § (1) c) pont önálló taxált elzáró ok. Nem feltételezi a (2) bekezdés párhuzamos sérelmét. A minősített bírság a díjazási tényállásnál önmagában elég. A (2) bekezdés külön, az engedély nélküli foglalkoztatásra áll."
+        }
+      ],
+      "sourceKerdesSorszam": 32,
+      "sourceHash": "ed9dcb916e9a"
+    }
+  ]
+}

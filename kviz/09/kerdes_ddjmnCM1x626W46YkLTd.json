@@ -1,0 +1,1251 @@
+{
+  "id": "ddjmnCM1x626W46YkLTd",
+  "sorszam": 9,
+  "cim": "Az utasítás teljesítésének megtagadása, mentesülés a munkavégzési (...)",
+  "generationType": "kerdes",
+  "title": "9. Az utasítás teljesítésének megtagadása, mentesülés a munkavégzési (...)",
+  "questions": [
+    {
+      "question": "Mi a gyakorlati különbség a teljesítés tilalma és a megtagadási jogosultság között a 54. § két bekezdésében?",
+      "options": [
+        {
+          "text": "Ha a veszély csak a munkavállaló saját életére, testi épségére vagy egészségére szorítkozik, a teljesítés nem válik tilossá — csupán megtagadható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés alanyi jogot ad, nem tilalmi szabályt. Az Mt. 54. § (2) bekezdése szerint a munkavállaló megtagadhatja az utasítást, ha életét, testi épségét vagy egészségét közvetlenül és súlyosan veszélyeztetné, vagy ha a végrehajtás munkaviszonyra vonatkozó szabályba ütközik. A környezet e jogosultsági tényállásban nem szerepel. A 54. § (2)–(4) bekezdése nincs a 57. § (1) bekezdés d) pontjának abszolút zárában."
+        },
+        {
+          "text": "A saját egészség közvetlen és súlyos veszélyeztetése esetén a teljesítés ugyanúgy tilos, mint más személy veszélyeztetésekor.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a saját integritás védelme nem teszi tilossá a teljesítést. Az Mt. 54. § (2) bekezdése a „megtagadhatja” modalitást használja; az (1) bekezdés „köteles megtagadni” fordulata a más személyt és a környezetet védi. A helyes: a saját veszélynél a munkavállaló dönthet a megtagadásról, de a teljesítés nem tilos. A tévedés a két bekezdés joghatásának felcseréléséből ered."
+        },
+        {
+          "text": "Ha a végrehajtás más személyt vagy a környezetet közvetlenül és súlyosan veszélyeztetné, a teljesítés tilos: a munkavállaló köteles megtagadni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (1) bekezdés a teljesítést megtiltja, nem csak lehetőséget ad. Az Mt. 54. § (1) bekezdése szerint a munkavállaló köteles megtagadni az utasítást, ha annak végrehajtása más személy életét, testi épségét, egészségét vagy a környezetet közvetlenül és súlyosan veszélyeztetné. A „közvetlenül és súlyosan” fordulat együttes ismérv. Az Mt. 57. § (1) bekezdés d) pontja e kötelező megtagadást abszolút kógenssé teszi."
+        },
+        {
+          "text": "A környezet közvetlen és súlyos veszélyeztetése csak megtagadási jogosultságot ad, mert a kötelező ág kizárólag más személyt véd.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a környezet az (1) bekezdés kötelező ágának része. Az Mt. 54. § (1) bekezdése a környezetet is a kötelező megtagadás jogtárgyai közé sorolja. A (2) bekezdésben a környezet nem tér vissza. A helyes: környezetveszélyeztetésnél a munkavállaló köteles megtagadni. A tévedés a „más személy” és a „környezet” együttes felsorolásának félreolvasásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "e27fb48aba32"
+    },
+    {
+      "question": "Mi következik abból, ha a munkavállaló jogszerűen megtagadja a munkáltató utasítását?",
+      "options": [
+        {
+          "text": "A megtagadás után — a rendelkezésre állási kötelezettség teljesítésének idejére vonatkozó utasítás kivételével — a munkavállaló továbbra is köteles rendelkezésre állni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a megtagadás a végrehajtást bontja meg, a rendelkezésre állást főszabály szerint nem. Az Mt. 54. § (3) bekezdése szerint a munkavállaló — a rendelkezésre állási kötelezettség teljesítésének idejére vonatkozó utasítást kivéve — az utasítás megtagadása esetén is köteles rendelkezésre állni. A kivétel azt jelenti, hogy maga a rendelkezésre állás idejére adott utasítás lehet a megtagadás tárgya. Minden más megtagadott utasítás mellett a munkavállaló elérhető marad, és a jogszerű utasításokat teljesíti."
+        },
+        {
+          "text": "A jogszerű megtagadás utáni rendelkezésre állás tartamára a munkavállalót távolléti díj illeti meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogszerű megtagadás utáni rendelkezésre állás nem díjtalan. Az Mt. 146. § (1) bekezdés e) pontja az 54. § (3) bekezdésében meghatározott esetre távolléti díjat rendel. A díjazás tehát a megtagadás után fenntartott rendelkezésre álláshoz kapcsolódik, nem a megtagadott utasítás végrehajtásához. Ez elválik az 55. § mentesülésétől, ahol mindkét főkötelezettség együtt oldódik fel."
+        },
+        {
+          "text": "A megtagadás utáni rendelkezésre állásra távolléti díj csak akkor jár, ha a munkáltató hozzájárul a távolléthez.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 54. § (3) bekezdéséhez tartozó díjazás törvényi, nem hozzájárulásfüggő. Az Mt. 146. § (1) bekezdés e) pontja a jogszerű megtagadás utáni rendelkezésre álláshoz távolléti díjat köt. A munkáltató hozzájárulásán alapuló mentesülés díjazását a 146. § (6) bekezdése a felek megállapodásához köti — ez más esetkör. A tévedés a törvényi díjazási tényállás és a hozzájárulásos mentesülés összecsúsztatásából ered."
+        },
+        {
+          "text": "A jogszerű megtagadás automatikusan felmenti a munkavállalót a rendelkezésre állás alól is, mint az 55. § szerinti mentesülés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 54. § (3) bekezdése a megtagadás után is rendelkezésre állást követel, ellentétben az 55. §-sal. Az Mt. 54. § (3) bekezdése kifejezetten fenntartja a rendelkezésre állást a megtagadás ellenére; az 55. § a rendelkezésre állást és a munkavégzést együtt oldja fel. A helyes: a két alakzat joghatása nem azonos. A tévedés forrása a megtagadás és a mentesülés intézményének összekeverése."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "738bbd8345be"
+    },
+    {
+      "question": "Mely esetben térhet el a munkavállaló a munkáltató utasításától anélkül, hogy a megtagadás szabályai alá esne?",
+      "options": [
+        {
+          "text": "Az utasítástól való eltérés elegendő, ha a munkáltató utólagos hozzájárulása várható, értesítési lehetetlenség nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az értesítés lehetetlensége konjunktív feltétel, nem mellőzhető. Az Mt. 54. § (4) bekezdése szerint az eltéréshez a károsodástól való megóvás feltétlen szükségessége és a munkáltató értesítésének hiánya együtt kell. A helyes: ha van mód az értesítésre, a munkavállaló nem léphet ki egyoldalúan az utasításból. A tévedés a kárelhárítás és a hozzájárulás-várakozás összekeveréséből ered."
+        },
+        {
+          "text": "Akkor, ha a munkáltató károsodástól való megóvása feltétlenül megköveteli az eltérést, és a munkáltató értesítésére nincs mód.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (4) bekezdés nem megtagadás, hanem kárelhárító eltérés. Az Mt. 54. § (4) bekezdése kettős, együttes feltételt állít: a munkáltató károsodástól való megóvása feltétlenül megköveteli az eltérést, és a munkáltató értesítésére nincs mód. A tényállás a kárelhárító szükségcselekmény munkajogi alakzata. A munkavállaló a hallgatólagos munkáltatói érdek védelmében lép ki az utasítás kötöttségéből."
+        },
+        {
+          "text": "Az utasítástól való eltérésről a munkavállaló a munkáltatót haladéktalanul tájékoztatni köteles.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az eltérés utólagos elszámolási kötelezettséggel jár. Az Mt. 54. § (4) bekezdése második mondata szerint az utasítástól való eltérésről a munkáltatót haladéktalanul tájékoztatni kell. A tájékoztatás nem opcionális, hanem a törvényi tényállás része. A (4) bekezdés nem szerepel a 57. § (1) bekezdésének kógens záradékában, szemben az (1) bekezdés kötelező megtagadásával."
+        },
+        {
+          "text": "A kárelhárító eltérés a 57. § (1) bekezdés d) pontja szerint abszolút kógens, ezért sem megállapodás, sem kollektív szerződés nem térhet el tőle.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kógens záradék csak az 54. § (1) bekezdésére vonatkozik, a (4) bekezdésre nem. Az Mt. 57. § (1) bekezdés d) pontja az 54. § (1) bekezdésében foglaltaktól tiltja az eltérést; a (2)–(4) bekezdés e listán nem szerepel. A helyes: a kárelhárító eltérés eltérhetőségét a 57. § (1) bekezdése nem zárja. A tévedés a kötelező megtagadás kógenciájának kiterjesztéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "12046c800245"
+    },
+    {
+      "question": "Hogyan viszonyul a jogszerű megtagadás utáni rendelkezésre állás díjazása a mentesülés díjazásához?",
+      "options": [
+        {
+          "text": "A jogszerű megtagadás után a munkavállaló mentesül a rendelkezésre állás alól is, ezért a 146. § (1) bekezdés e) pontja nem alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megtagadás főszabály szerint fenntartja a rendelkezésre állást. Az Mt. 54. § (3) bekezdése szerint a munkavállaló — a rendelkezésre állás idejére vonatkozó utasítás kivételével — a megtagadás esetén is köteles rendelkezésre állni. A 146. § (1) bekezdés e) pontja e tartamra távolléti díjat rendel. A helyes: a rendelkezésre állás fennmarad és díjazott. A tévedés a 54. § és az 55. § joghatásának összecsúsztatásából ered."
+        },
+        {
+          "text": "Az 55. § (1) bekezdés szerinti mentesülésnél a 146. § (1) bekezdés b) pontja csak a c)–g), j) és m) pontot díjazza; a mentesülés ténye önmagában nem keletkeztet távolléti díjat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a díjazási térkép nem követi a teljes mentesülési katalógust. Az Mt. 146. § (1) bekezdés b) pontja az 55. § (1) bekezdés c)–g), j) és m) pontjához rendel távolléti díjat. Az a), b), h), k), l) és n) pont e sorból kimarad. A 115. § (2) bekezdés f) pontja ugyanakkor az a)–n) pont és az (5) bekezdés tartamát a szabadságra jogosító időbe számítja."
+        },
+        {
+          "text": "A jogszerű megtagadás utáni rendelkezésre állásra az Mt. 146. § (1) bekezdés e) pontja távolléti díjat rendel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 54. § (3) bekezdése szerinti rendelkezésre állás nem díjtalan. Az Mt. 54. § (3) bekezdése a megtagadás után is rendelkezésre állást követel, a rendelkezésre állás idejére vonatkozó utasítás kivételével. Az Mt. 146. § (1) bekezdés e) pontja az 54. § (3) bekezdésében meghatározott esetre távolléti díjat köt. Az 55. § mentesülési katalógusánál ezzel szemben a 146. § (1) bekezdés b) pontja csak a c)–g), j) és m) pontot díjazza."
+        },
+        {
+          "text": "Minden 55. § (1) bekezdés szerinti mentesülés a 146. § (1) bekezdés b) pontja szerint távolléti díjas.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a b) pont szelektív. Az Mt. 146. § (1) bekezdés b) pontja csak a c)–g), j) és m) pontot nevezi meg. A helyes: a keresőképtelenség, a tűzoltói szolgálat, a méltányos távollét vagy a gondozási öt munkanap e pont szerint nem távolléti díjas. A tévedés a teljesítési feloldás és a díjazás azonosításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "5be1f8d7b22f"
+    },
+    {
+      "question": "A gépkezelő olyan utasítást kap, amelynek végrehajtása a mellett álló kolléga életét közvetlenül és súlyosan veszélyeztetné. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A megtagadás után a gépkezelő — ha nem a rendelkezésre állás idejére vonatkozó utasítást tagadta meg — továbbra is köteles rendelkezésre állni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötelező megtagadás sem oldja fel automatikusan a rendelkezésre állást. Az Mt. 54. § (3) bekezdése a megtagadás esetén is fenntartja a rendelkezésre állást, kivéve a rendelkezésre állási kötelezettség teljesítésének idejére vonatkozó utasítást. A 146. § (1) bekezdés e) pontja e tartamra távolléti díjat rendel. A jogszerű utasításokat a munkavállaló továbbra is teljesíti."
+        },
+        {
+          "text": "A kötelező megtagadás kollektív szerződéssel feloldható, ha a felek a munkavédelmi felelősséget a munkáltatóra hárítják.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a más személyt és a környezetet védő kötelező megtagadás abszolút kógens. Az Mt. 57. § (1) bekezdés d) pontja szerint a felek megállapodása vagy kollektív szerződés az 54. § (1) bekezdésében foglaltaktól nem térhet el. A helyes: sem munkaszerződés, sem kollektív szerződés nem olthatja fel e kötelezettséget. A tévedés a relatív és az abszolút kógencia összekeveréséből ered."
+        },
+        {
+          "text": "A gépkezelő szabadon eldöntheti, hogy megtagadja-e az utasítást, mert a veszélyeztetés mindig csak jogosultságot keletkeztet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a más személy életének közvetlen és súlyos veszélyeztetése kötelező megtagadást indít. Az Mt. 54. § (1) bekezdése „köteles megtagadni” fordulatot használ; a (2) bekezdés jogosultsága a saját integritásra és a szabályba ütközésre vonatkozik. A helyes: e tényállásnál nincs mérlegelési jog. A tévedés a kötelező és a jogosultsági megtagadás modalitásának felcseréléséből ered."
+        },
+        {
+          "text": "A munkavállaló köteles megtagadni az utasítás teljesítését, mert más személy életének közvetlen és súlyos veszélyeztetése kötelező megtagadási ok.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a más személy életének védelme nem mérlegelhető jogosultság, hanem kötelezettség. Az Mt. 54. § (1) bekezdése szerint a munkavállaló köteles megtagadni az utasítást, ha annak végrehajtása más személy életét, testi épségét, egészségét vagy a környezetet közvetlenül és súlyosan veszélyeztetné. A kötelező megtagadás a 57. § (1) bekezdés d) pontja szerint abszolút kógens. A távoli vagy enyhe kockázat e tényállásból kiesik."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "8a31b388a32e"
+    },
+    {
+      "question": "A szoptatási időkedvezmény (e) pont) milyen díjazást kap, és mi történik a főkötelezettségekkel a kedvezmény tartamára?",
+      "options": [
+        {
+          "text": "A kedvezmény tartamára a rendelkezésre állási és a munkavégzési kötelezettség együttesen oldódik fel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az e) pont az 55. § mentesülési rendje alá esik. Az Mt. 55. § (1) bekezdése a rendelkezésre állási és a munkavégzési kötelezettség teljesítése alóli mentesülést írja elő. Az ikergyermekek esetén a tartam végig kétszeres. A 54. § (3) bekezdésének rendelkezésre állást fenntartó szabálya itt nem irányadó."
+        },
+        {
+          "text": "Az e) pont a 146. § (1) bekezdés b) pontja szerint távolléti díjas mentesülés.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szoptatási időkedvezmény a díjazott körben van. Az Mt. 146. § (1) bekezdés b) pontja szerinti távolléti díj az 55. § (1) bekezdés c)–g), j) és m) pontjához kapcsolódik; az e) pont e listán szerepel. Az 55. § (1) bekezdés e) pontja az első hat hónapban naponta kétszer egy, ikreknél kétszer két órát, a kilencedik hónap végéig naponta egy, ikreknél naponta két órát ad. A díjazás a törvényi listához kötött."
+        },
+        {
+          "text": "A szoptatási időkedvezményre távolléti díj nem jár, mert a mentesülés önmagában nem díjazott.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az e) pont a távolléti díjas mentesülések között van. Az Mt. 146. § (1) bekezdés b) pontja az e) pontot is magában foglaló c)–g) sávot díjazza. A helyes: a szoptatási időkedvezmény távolléti díjas. A tévedés a díjazási katalógus és a nem díjazott mentesülési okok összekeveréséből ered."
+        },
+        {
+          "text": "A kedvezmény tartamára a munkavállaló a 54. § (3) bekezdése szerint továbbra is köteles rendelkezésre állni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az e) pont mentesülés, nem megtagadás. Az Mt. 55. § (1) bekezdés e) pontja a szoptató anyát a napi időkedvezmény tartamára menti fel a rendelkezésre állás és a munkavégzés alól. A 54. § (3) bekezdése a megtagadás utáni rendelkezésre állást rendezi, és e tartamra a 146. § (1) bekezdés e) pontja távolléti díjat köt. A helyes: a szoptatási kedvezmény idején sem rendelkezésre állási, sem munkavégzési kötelezettség nincs. A tévedés a 54. § és az 55. § joghatásának felcseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "4a5ba309d809"
+    },
+    {
+      "question": "Mely esetben nem alkalmazható a munkáltatói felmondás a gondozási mentesülés idején?",
+      "options": [
+        {
+          "text": "Az l) pont szerinti gondozási öt munkanap a 146. § (1) bekezdés b) pontja szerint távolléti díjas, ezért a felmondási tilalom is automatikus.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az l) pont a díjazási sorból kimarad, a felmondási tilalom pedig önálló. Az Mt. 146. § (1) bekezdés b) pontja a c)–g), j) és m) pontot díjazza; az l) pont nincs a listán. A 65. § (3) bekezdés h) pontja a felmondást az l) pont tartama alatt zárja, a díjazástól függetlenül. A helyes: nincs távolléti díj e mentesülésnél a b) pont szerint, a tilalom mégis él. A tévedés a díjazás és a felmondási védelem összekapcsolásából ered."
+        },
+        {
+          "text": "A felmondási tilalom az 55. § (1) bekezdés valamennyi mentesülési okának tartamára kiterjed.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 65. § (3) bekezdés h) pontja csak az l) pontot védi. Az Mt. 65. § (3) bekezdés h) pontja kifejezetten az 55. § (1) bekezdés l) pontja szerinti mentesülés tartamát zárja; a katalógus többi pontja e védelem alá nem esik. A helyes: a gondozási öt munkanapra szól a tilalom. A tévedés a mentesülési katalógus és a felmondási védelem azonosításából ered."
+        },
+        {
+          "text": "A gondozási mentesülést a jogosult kérésének megfelelő időpontban, legfeljebb két részletben kell biztosítani, és a súlyos egészségi okot a gondozásra szoruló személy kezelőorvosa igazolja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az l) pont eljárásrendje a (3) bekezdésben zárt. Az Mt. 55. § (3) bekezdése szerint a mentesülést a jogosult kérésének megfelelő időpontban, legfeljebb két részletben kell biztosítani; a súlyos egészségi ok fennállását és a gondozás indokoltságát a gondozásra szoruló személy kezelőorvosa igazolja. A (4) bekezdés a 124. § rendelkezéseit megfelelően alkalmazni rendeli. Az l) pont a 146. § (1) bekezdés b) pontjának díjazási sorából kimarad."
+        },
+        {
+          "text": "Az 55. § (1) bekezdés l) pontja szerinti, évente legfeljebb öt munkanapos személyes gondozás tartama alatt a munkáltatói felmondás zárva van.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felmondási tilalom a gondozási öt munkanapra szól, nem az 55. § teljes katalógusára. Az Mt. 65. § (3) bekezdés h) pontja a munkáltatói felmondást az 55. § (1) bekezdés l) pontja szerinti mentesülés tartama alatt zárja. Az l) pont a súlyos egészségi okból gondozásra szoruló hozzátartozó vagy a közös háztartásban élő személy személyes gondozására ad évente legfeljebb öt munkanapot. A védelem e tartamhoz kötött."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "14917b785904"
+    },
+    {
+      "question": "Az örökbefogadási előkészítés mentesülésénél a (2) és a (4) bekezdés milyen eljárásrendet és háttérszabályt ír elő?",
+      "options": [
+        {
+          "text": "A mentesítést a munkáltató egyoldalúan, a saját beosztási rendje szerint időzítheti, az igazolás kiállításától számított egy éven belül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az időpont a munkavállaló kéréséhez igazodik, a felhasználási ablak pedig kilencven nap. Az Mt. 55. § (2) bekezdése a kérésnek megfelelő időpontot és a kiállítástól számított kilencven napot írja elő. A helyes: a munkáltató a kért időpontban köteles mentesíteni az igazolás alapján. A tévedés a munkáltatói ütemezés és a törvényi eljárásrend összekeveréséből ered."
+        },
+        {
+          "text": "A (4) bekezdés a j) pontra a 124. § rendelkezéseit megfelelően alkalmazni rendeli; a j) pont a 146. § (1) bekezdés b) pontja szerint távolléti díjas.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 124. § háttérszabály a j) és az l) pontra. Az Mt. 55. § (4) bekezdése szerint az (1) bekezdés j) és l) pontja szerinti esetben a 124. § rendelkezéseit megfelelően alkalmazni kell. A j) pont célja az örökbe fogadható gyermekkel történő személyes találkozás. A 146. § (1) bekezdés b) pontja a j) pontot a távolléti díjas körbe vonja."
+        },
+        {
+          "text": "A munkavállalót a kérésének megfelelő időpontban, az örökbefogadást elősegítő szervezet igazolása alapján, a kiállítástól számított kilencven napon belül kell mentesíteni; az igénybevételről legalább öt munkanappal korábban tájékoztat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés az időpontot, az igazolást és a tájékoztatást köti. Az Mt. 55. § (2) bekezdése szerint az (1) bekezdés j) pontja szerinti esetben a munkavállalót a kérésének megfelelő időpontban, az örökbefogadást elősegítő szervezet által kiállított igazolás alapján, a kiállításától számított kilencven napon belül kell mentesíteni. A tájékoztatás legalább öt munkanappal korábbi. A j) pont évente legfeljebb tíz munkanapot ad."
+        },
+        {
+          "text": "Az örökbefogadási előkészítésre évente legfeljebb öt munkanap jár, ugyanannyi, mint a gondozási mentesülésnél.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a j) pont évente legfeljebb tíz munkanapot ad, az l) pont ötöt. Az Mt. 55. § (1) bekezdés j) pontja tíz munkanapot rendel; az l) pont öt munkanapot a személyes gondozásra. A helyes: a két tartam különbözik. A tévedés a j) és az l) pont éves keretének felcseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "70f5d3fa7ac5"
+    },
+    {
+      "question": "Mi teszi a vizsgálatot az 55. § (1) bekezdés c) pontja szerinti kötelező orvosi vizsgálattá, és jár-e díjazás?",
+      "options": [
+        {
+          "text": "A kötelező orvosi vizsgálat fogalmát a munkáltató egyedi utasítása tölti meg, ha a vizsgálat a munkakör ellátásához szükséges.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kötelező jelleg a munkaviszonyra vonatkozó szabály előírásához kötött, nem az egyedi utasításhoz. Az Mt. 294. § (1) bekezdés d) pontja a részvételt munkaviszonyra vonatkozó szabály előírásához köti. A helyes: a munkáltató puszta utasítása önmagában nem teszi a vizsgálatot az 55. § (1) bekezdés c) pontja szerinti kötelező orvosi vizsgálattá. A tévedés a munkáltatói utasítás és a törvényi fogalom összekeveréséből ered."
+        },
+        {
+          "text": "A kötelező orvosi vizsgálat tartamára távolléti díj nem jár, mert az a) ponttal együtt a 146. § (1) bekezdés b) pontjából kimarad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a c) pont szerinti kötelező orvosi vizsgálat tartama távolléti díjas. A 146. § (1) bekezdés b) pontja a c)–g), j) és m) pont szerinti mentesülésekre távolléti díjat köt. A helyes: a kötelező orvosi vizsgálat tartamára távolléti díj jár. A tévedés az a) pont nem díjazott jellegének a c) pontra történő kiterjesztéséből ered."
+        },
+        {
+          "text": "A kötelező jelleg a munkaviszonyra vonatkozó szabály előírásához kötött; ideértendő a várandós állapotra tekintettel előírt orvosi vizsgálat is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fogalmat a 294. § (1) bekezdés d) pontja tölti meg. Az Mt. 294. § (1) bekezdés d) pontja szerint kötelező orvosi vizsgálat az, amelyen a munkavállalónak munkaviszonyra vonatkozó szabály előírása alapján részt kell vennie, ideértve a várandós állapotra tekintettel előírt orvosi vizsgálatot is. A munkáltató puszta egyedi utasítása önmagában nem teszi a vizsgálatot a c) pont szerinti kötelező orvosi vizsgálattá. Ez tölti meg az 55. § (1) bekezdés c) pontját."
+        },
+        {
+          "text": "A kötelező orvosi vizsgálat tartamára a 146. § (1) bekezdés b) pontja távolléti díjat rendel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a c) pont a távolléti díjas mentesülések között van. Az Mt. 55. § (1) bekezdés c) pontja a kötelező orvosi vizsgálat tartamára menti fel a munkavállalót. A 146. § (1) bekezdés b) pontja e tartamra távolléti díjat rendel; a c) pont a lista elején áll. A rendelkezésre állás és a munkavégzés e tartamra együtt oldódik fel."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "3ee152da4268"
+    },
+    {
+      "question": "A véradás tartama alatt mi történik a munkavállaló főkötelezettségeivel, és jár-e díjazás?",
+      "options": [
+        {
+          "text": "A véradás mentesülése nem díjazott, mert az egészségügyi távollét mindig társadalombiztosítási ellátás alá esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a véradás a 146. § (1) bekezdés b) pontjának díjazási körébe esik. Az Mt. 146. § (1) bekezdés b) pontja a d) pontot is magában foglaló c)–g) sávot díjazza. A helyes: a véradás tartamára távolléti díj jár. A tévedés a keresőképtelenség TB-ellátási rendjének a véradásra történő ráírásából ered."
+        },
+        {
+          "text": "A véradás alatt a munkavállaló a 54. § (3) bekezdése szerint továbbra is köteles rendelkezésre állni a munkahelyen.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a véradás mentesülés, nem megtagadás. Az Mt. 55. § (1) bekezdés d) pontja a véradáshoz szükséges, legalább négy óra időtartamra mindkét főkötelezettséget feloldja. A megtagadás utáni rendelkezésre állást a 54. § (3) bekezdése tartja fenn, és a 146. § (1) bekezdés e) pontja ezért rendel rá távolléti díjat. A helyes: a véradás idején sem rendelkezésre állási, sem munkavégzési kötelezettség nincs. A tévedés forrása a megtagadási és a mentesülési joghatás összecsúsztatása."
+        },
+        {
+          "text": "A véradás tartamára a munkavállalót a 146. § (1) bekezdés b) pontja szerint távolléti díj illeti meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a d) pont a távolléti díjas mentesülések között van. A 146. § (1) bekezdés b) pontja az 55. § (1) bekezdés c)–g), j) és m) pontját a távolléti díjas körbe vonja; a d) pont e listán szerepel. A díjazás a törvényi mentesüléshez kapcsolódik, nem a munkáltató külön hozzájárulásához. A szükséges tartam a négy óránál hosszabb is lehet."
+        },
+        {
+          "text": "A véradáshoz szükséges időre a munkavállaló sem rendelkezésre állni, sem munkát végezni nem köteles — ez elválik a 54. § (3) bekezdésének rendelkezésre állást fenntartó rendjétől.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a d) pont az 55. § mentesülési rendje alá esik. Az Mt. 55. § (1) bekezdés d) pontja a véradáshoz szükséges, legalább négy óra időtartamra menti fel a munkavállalót. Az 55. § a rendelkezésre állási és a munkavégzési kötelezettséget együtt oldja fel. A 54. § (3) bekezdése ezzel szemben a megtagadás után is rendelkezésre állást követel."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "f2e609f49d91"
+    },
+    {
+      "question": "A hozzátartozó 294. § (1) bekezdés b) pontja szerinti fogalma hogyan kapcsolódik az f) pont díjazásához a k) ponttal szemben?",
+      "options": [
+        {
+          "text": "Hozzátartozónak minősül többek között a házastárs, az egyeneságbeli rokon, a testvér és az élettárs is; az f) pont két munkanapja e kör halálához kapcsolódik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hozzátartozó fogalma tágabb a házastársnál és az egyeneságbeli rokonnál. Az Mt. 294. § (1) bekezdés b) pontja szerint hozzátartozó a házastárs, az egyeneságbeli rokon, az örökbefogadott, a mostoha- és a nevelt gyermek, az örökbefogadó-, a mostoha- és a nevelőszülő és a testvér, az élettárs, az egyeneságbeli rokon házastársa, a házastárs egyeneságbeli rokona és testvére, és a testvér házastársa. Az 55. § (1) bekezdés f) pontja e kör halálakor két munkanapot ad. Az l) pont a közös háztartásban élő személyt a hozzátartozón túl is bevonja a gondozásnál."
+        },
+        {
+          "text": "A hozzátartozó halálakor járó mentesülés egy munkanap, és csak a házastárs vagy egyeneságbeli rokon halálára szól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tartam két munkanap, a hozzátartozó-kör pedig tágabb. Az Mt. 55. § (1) bekezdés f) pontja két munkanapot rendel; a 294. § (1) bekezdés b) pontja az élettársat és a tágabb rokonságot is ide sorolja. A helyes: két munkanap a törvényi hozzátartozó-fogalom szerint. A tévedés a tartam és az alanyi kör szűkítéséből ered."
+        },
+        {
+          "text": "Az f) pont a 146. § (1) bekezdés b) pontja szerint távolléti díjas; a k) pont méltányos távolléte e díjazási sorból kimarad.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az f) és a k) pont díjazása elválik. Az Mt. 146. § (1) bekezdés b) pontja a c)–g), j) és m) pontot díjazza; az f) pont e sávban van. A k) pont — különös méltánylást érdemlő személyi, családi vagy elháríthatatlan ok — a b) pontból kimarad. A hozzátartozó halálakor járó két munkanap tehát távolléti díjas, a méltányos távollét e pont szerint nem."
+        },
+        {
+          "text": "Az f) pont szerinti két munkanapra távolléti díj nem jár, mert a méltányos távollét a k) ponttal együtt díjazatlan.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az f) pont a távolléti díjas mentesülések között van, a k) pont nem. Az Mt. 146. § (1) bekezdés b) pontja a c)–g) pontot díjazza; az f) pont e sávban van. A helyes: a hozzátartozó halálakor járó két munkanap távolléti díjas. A tévedés az f) és a k) pont díjazási megkülönböztetésének elmosásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "1372ee01cdf3"
+    },
+    {
+      "question": "Ha a munkavállaló félként vagy szakértőként jelenik meg az eljárásban, mi illeti meg a mentesülés és a díjazás közül?",
+      "options": [
+        {
+          "text": "Az i) pont szerinti mentesülés csak a tanúkénti meghallgatásra szól; félként vagy szakértőként a munkavállaló nem mentesül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mentesülés tágabb a tanúi minőségnél; a szűkítés a díjazásra vonatkozik. Az Mt. 55. § (1) bekezdés i) pontja az eljárásban való személyes részvételhez szükséges időtartamra menti fel a munkavállalót. A 146. § (1) bekezdés c) pontja csak a távolléti díjat köti a tanúkénti meghallgatáshoz. A helyes: a mentesülés a személyes részvételre szól, a díjazás a tanúi minőségre. A tévedés a két szabály hatályának felcseréléséből ered."
+        },
+        {
+          "text": "Az i) pont szerinti mentesülés megnyílik: a bíróság vagy hatóság felhívására, illetve a személyes részvételhez szükséges időtartamra feloldódik a rendelkezésre állás és a munkavégzés.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a mentesülés a megjelenési minőségtől függetlenül széles. Az Mt. 55. § (1) bekezdés i) pontja a bíróság vagy hatóság felhívására, vagy az eljárásban való személyes részvételhez szükséges időtartamra menti fel a munkavállalót. A fél, a képviselő vagy a szakértő minőségében való megjelenés is mentesülést ad. A díjazás ettől elválik."
+        },
+        {
+          "text": "Ha a munkavállaló félként jelenik meg, a mentesülés mellett automatikusan távolléti díj is jár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a félkénti megjelenés mentesülést ad, távolléti díjat nem. Az Mt. 146. § (1) bekezdés c) pontja a díjazást a tanúkénti meghallgatásra szűkíti. A helyes: fél, képviselő vagy szakértő minőségénél a mentesülés megvan, a távolléti díj nincs. A tévedés a mentesülési tényállás és a díjazási szűkítés azonosításából ered."
+        },
+        {
+          "text": "Távolléti díj ebben a körben nem jár: a 146. § (1) bekezdés c) pontja csak a tanúkénti meghallgatást díjazza.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a díjazás a tanúi minőségre szűkül. Az Mt. 146. § (1) bekezdés c) pontja szerint az 55. § (1) bekezdés i) pontjában meghatározott esetben távolléti díj akkor illeti meg a munkavállalót, ha tanúként hallgatják meg. A fél, a képviselő vagy a szakértő megjelenése a mentesülést megadja, a távolléti díjat azonban nem. A mentesülés és a díjazás tehát szétválik."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "6fe533764282"
+    },
+    {
+      "question": "Önkéntes tűzoltói szolgálatot lát el munkaidőben. Mely megállapítások helytállóak a mentesülésre és a díjazásra?",
+      "options": [
+        {
+          "text": "A tűzoltói szolgálat csak a munkáltató előzetes engedélyével mentesít, mert a h) pont diszkrecionális munkáltatói intézkedés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a h) pont törvényi alanyi jog, nem a munkáltató (5) bekezdés szerinti intézkedése. Az Mt. 55. § (1) bekezdés h) pontja a szolgálat ellátása tartamára menti fel a munkavállalót. Az (5) bekezdés a kötelezettségszegés vizsgálatához kapcsolódó, legfeljebb harminc napos munkáltatói mentesítés. A helyes: a tűzoltói szolgálat az (1) bekezdés katalógusába tartozik. A tévedés az alanyi mentesülés és a vizsgálati mentesítés felcseréléséből ered."
+        },
+        {
+          "text": "Az önkéntes vagy létesítményi tűzoltói szolgálat ellátásának tartamára a munkavállaló mentesül a rendelkezésre állás és a munkavégzés alól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a h) pont önálló mentesülési jogcímet ad a tűzoltói szolgálatra. Az Mt. 55. § (1) bekezdés h) pontja az önkéntes vagy létesítményi tűzoltói szolgálat ellátása tartamára menti fel a munkavállalót. A szolgálat idején a teljesítési kötelezettség mindkét ága feloldódik; a tartam a szolgálat ellátásához igazodik."
+        },
+        {
+          "text": "A h) pont szerinti tűzoltói szolgálat a 146. § (1) bekezdés b) pontjának díjazási köréből kimarad, ezért e tartamra távolléti díj e pont szerint nem jár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a díjazási térkép nem követi a teljes mentesülési katalógust. Az Mt. 146. § (1) bekezdés b) pontja szerinti távolléti díj az 55. § (1) bekezdés c)–g), j) és m) pontjához kapcsolódik; a h) pont e listán nem szerepel. A mentesülés tehát megvan, a b) pont szerinti távolléti díj nincs. A 115. § (2) bekezdés f) pontja e tartamot is a szabadságra jogosító munkában töltött időbe számítja."
+        },
+        {
+          "text": "A tűzoltói szolgálat tartamára a 146. § (1) bekezdés b) pontja szerint távolléti díj jár, mert a közérdekű távollét mindig díjazott.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a h) pont a b) pont díjazási sorából kimarad. Az Mt. 146. § (1) bekezdés b) pontja a c)–g), j) és m) pontot nevezi meg; a h) pont nincs köztük. A helyes: a tűzoltói szolgálat mentesülést ad, de e pont szerint nem távolléti díjas. A tévedés a közérdekű jelleg és a díjazási katalógus összekapcsolásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "4809662a1980"
+    },
+    {
+      "question": "Mely választási és népszavazási típusokra terjed ki az m) pont, és díjazott-e a kedvezmény?",
+      "options": [
+        {
+          "text": "Az m) pont szerinti két órára távolléti díj nem jár, mert a politikai részvétel a munkáltató érdekkörén kívül esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az m) pont a távolléti díjas mentesülések között van. Az Mt. 146. § (1) bekezdés b) pontja az m) pontot is díjazza. A helyes: a nyolc órát meghaladó beosztás feltételével a választási, népszavazási részvétel távolléti díjas. A tévedés a politikai jelleg és a díjazási kizárás összekapcsolásából ered."
+        },
+        {
+          "text": "A választási részvételre járó két óra minden beosztott munkanapon jár, a napi munkaidő tartamától függetlenül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a nyolc órát meghaladó beosztás konjunktív feltétel. Az Mt. 55. § (1) bekezdés m) pontja a kedvezményt ahhoz köti, hogy e napra beosztott rendes vagy elrendelt rendkívüli munkaidő tartama meghaladja a nyolc órát. A helyes: nyolc órát meg nem haladó beosztásnál e pont szerinti két óra nem jár. A tévedés a feltétel nélküli választási távollét feltételezéséből ered."
+        },
+        {
+          "text": "A 146. § (1) bekezdés b) pontja az m) pont szerinti tartamot távolléti díjjal díjazza, ha a nyolc órát meghaladó beosztás feltétele teljesül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az m) pont a távolléti díjas mentesülések között van. Távolléti díjat az Mt. 146. § (1) bekezdés b) pontja az 55. § (1) bekezdés c)–g), j) és m) pontjában meghatározott esetekre rendel. A nyolc órát meghaladó beosztás konjunktív feltétel a részvételi céllal. Nyolc órát meg nem haladó beosztásnál e pont szerinti két óra nem jár."
+        },
+        {
+          "text": "Az m) pont az országgyűlési, az európai parlamenti, a helyi önkormányzati és a nemzetiségi önkormányzati választásra, valamint a helyi vagy országos népszavazásra is kiterjed; a tartam legfeljebb két óra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az m) pont a választási és népszavazási típusokat taxatíve sorolja. Az Mt. 55. § (1) bekezdés m) pontja az országgyűlési képviselők, az Európai Parlament tagjai, a helyi önkormányzati képviselők és polgármesterek, a nemzetiségi önkormányzati képviselők választását, valamint a helyi vagy országos népszavazást nevezi meg. A kedvezmény feltétele, hogy e napra beosztott rendes vagy elrendelt rendkívüli munkaidő tartama meghaladja a nyolc órát."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "bb24bc1e7528"
+    },
+    {
+      "question": "Mi a különbség a keresőképtelenség és a munkaköri egészségi alkalmatlanság között az a) pont alkalmazásában?",
+      "options": [
+        {
+          "text": "Az a) pont a keresőképtelenség időtartamára és a munkakör ellátására egészségi okból való alkalmatlanság időtartamára egyaránt mentesít.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az a) pont két alakzatot ölel. Az Mt. 55. § (1) bekezdés a) pontja a keresőképtelenség időtartamára, vagy egyébként munkaköre ellátására egészségi okból való alkalmatlansága esetén annak időtartamára menti fel a munkavállalót. Az utóbbi tágabb a keresőképtelenségnél: a munkaköri alkalmasság hiánya a keresőképtelenség megállapítása nélkül is feloldja a teljesítési kötelezettséget. A 146. § (1) bekezdés b) pontja az a) pontot nem díjazza."
+        },
+        {
+          "text": "Az a) pont szerinti mentesülés csak a keresőképtelenség orvosi megállapítása után nyílik meg; az egészségi alkalmatlanság önmagában nem mentesít.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az alkalmatlanság a keresőképtelenség nélkül is feloldja a teljesítést. Az Mt. 55. § (1) bekezdés a) pontja a keresőképtelenséget és a munkakör ellátására egészségi okból való alkalmatlanságot vagylagosan nevezi meg. A helyes: a munkaköri alkalmasság hiánya a keresőképtelenség megállapítása nélkül is mentesít. A tévedés a két alakzat egybeolvasztásából ered."
+        },
+        {
+          "text": "A betegszabadság tartamára a munkavállaló a távolléti díj hetven százalékára jogosult; a további keresőképtelenség díjazása a társadalombiztosítási ellátás rendjébe esik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az a) pont mentesülése és a díjazás szétválik. Az Mt. 146. § (3) bekezdése szerint a munkavállaló a betegszabadság tartamára a távolléti díj hetven százalékára jogosult. A 146. § (1) bekezdés b) pontja az a) pontot nem díjazza; a további keresőképtelenség a TB-ellátás rendjébe esik. A 10. § (4) bekezdése az alkalmassági vizsgálatot munkaviszonyra vonatkozó szabály előírásához vagy az abban meghatározott jog gyakorlásához, kötelezettség teljesítéséhez köti."
+        },
+        {
+          "text": "Az a) pont a 146. § (1) bekezdés b) pontja szerint távolléti díjas, ezért a keresőképtelenség teljes tartamára teljes távolléti díj jár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az a) pont a b) pont díjazási sorából kimarad; a betegszabadságra a (3) bekezdés a távolléti díj hetven százalékát rendeli. Az Mt. 146. § (1) bekezdés b) pontja a c)–g), j) és m) pontot díjazza; az a) pont nincs a listán. A helyes: a betegszabadságra 70% jár, a további keresőképtelenség a TB rendjébe esik. A tévedés a teljes távolléti díj feltételezéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "105e012da9d3"
+    },
+    {
+      "question": "A vizsgálati mentesítés kinek az intézkedése, és milyen díjazás jár rá?",
+      "options": [
+        {
+          "text": "A munkáltató diszkrecionális intézkedése: ha a kötelezettségszegés körülményeinek kivizsgálása indokolt, a szükséges, de legfeljebb harminc napra mentesítheti a munkavállalót.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (5) bekezdés nem az (1) bekezdés alanyi joga. Az Mt. 55. § (5) bekezdése szerint a munkáltató, ha a munkavállaló által elkövetett kötelezettségszegés körülményeinek kivizsgálása miatt indokolt, a vizsgálat lefolytatásához szükséges, de legfeljebb harminc napra mentesítheti a munkavállalót. A tartam a szükséges idő, de a harminc nap plafon. A munkavállaló e mentesítést nem követelheti az (1) bekezdés pontjai szerint."
+        },
+        {
+          "text": "E tartamra a 146. § (1) bekezdés e) pontja távolléti díjat rendel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a vizsgálati mentesítés nem díjtalan. Az Mt. 146. § (1) bekezdés e) pontja az 55. § (5) bekezdésében meghatározott esetre távolléti díjat rendel. Az 55. § (5) bekezdése a vizsgálat idejére emeli ki a munkavállalót, a 56. § szankcióját nem alkalmazza. A 115. § (2) bekezdés f) pontja e tartamot a szabadságra jogosító időbe számítja."
+        },
+        {
+          "text": "A vizsgálati mentesítés az (1) bekezdés alanyi joga, ezért a munkavállaló egyoldalúan kérheti, ha kötelezettségszegéssel gyanúsítják.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (5) bekezdés a munkáltató intézkedése, nem a munkavállaló alanyi joga. Az Mt. 55. § (5) bekezdése a munkáltatót jogosítja a mentesítésre, ha a vizsgálat indokolt. A helyes: a munkavállaló nem követelheti e mentesítést az (1) bekezdés pontjai szerint. A tévedés az alanyi katalógus és a diszkrecionális vizsgálati mentesítés felcseréléséből ered."
+        },
+        {
+          "text": "A vizsgálati mentesítés tartamára távolléti díj nem jár, mert a kötelezettségszegés gyanúja a díjazást kizárja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a vizsgálati mentesítés távolléti díjas. A vizsgálati mentesítés díjazását az Mt. 146. § (1) bekezdés e) pontja biztosítja az 55. § (5) bekezdés esetére. A helyes: a legfeljebb harminc napos mentesítés nem díjtalan. A tévedés a szankció és a vizsgálati távollét díjazásának összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "688f7fc2d664"
+    },
+    {
+      "question": "Mely képzési távollétek tartoznak az 55. § (1) bekezdés g) pontja alá, és hogyan díjazottak?",
+      "options": [
+        {
+          "text": "A g) pont szerinti mentesülés díjazatlan, mert a tanulmányi távollét a munkavállaló saját érdekkörébe esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a g) pont a 146. § (1) bekezdés b) pontjának díjazási listáján szerepel. Az Mt. 146. § (1) bekezdés b) pontja a c)–g) pontot is díjazza. A helyes: a képzésben való részvételhez szükséges idő távolléti díjas. A tévedés a saját érdekkör és a törvényi díjazás összekeveréséből ered."
+        },
+        {
+          "text": "Az általános iskolai tanulmányok folytatása, továbbá a felek megállapodása szerinti képzés, továbbképzés a részvételhez szükséges időre mentesít.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a g) pont két ágat ölel: a törvényi általános iskolai tanulmányokat és a megállapodás szerinti képzést. Az Mt. 55. § (1) bekezdés g) pontja az általános iskolai tanulmányok folytatása, továbbá a felek megállapodása szerinti képzés, továbbképzés esetén a képzésben való részvételhez szükséges időre menti fel a munkavállalót. A tartam a részvételhez szükséges idő, nem rögzített napkeret. A 146. § (1) bekezdés b) pontja az e)–g) pontot a távolléti díjas mentesülések közé sorolja."
+        },
+        {
+          "text": "A g) pont szerinti képzési mentesülés a 146. § (1) bekezdés b) pontja szerint távolléti díjas.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a képzési távollét a díjazott mentesülések sávjában van. A 146. § (1) bekezdés b) pontja az 55. § (1) bekezdés c)–g), j) és m) pontját a távolléti díjas körbe vonja; a g) pont e sáv záró eleme. A díjazás a törvényi mentesüléshez kapcsolódik. A felek megállapodása a képzés meglétét és tartalmát adja, a díjazást a 146. § rendezi."
+        },
+        {
+          "text": "A g) pont csak a munkáltató által kötelezően elrendelt belső továbbképzésre szól; az általános iskolai tanulmányok kívül esnek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az általános iskolai tanulmányok kifejezetten a g) pont első ága. Az Mt. 55. § (1) bekezdés g) pontja az általános iskolai tanulmányok folytatását és a felek megállapodása szerinti képzést, továbbképzést nevezi meg. A helyes: mindkét ág mentesít a részvételhez szükséges időre. A tévedés a belső továbbképzésre szűkített olvasatból ered."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "c3c09af0ad83"
+    },
+    {
+      "question": "Mi jellemzi a k) pont szerinti, különös méltánylást érdemlő ok miatti távollétet?",
+      "options": [
+        {
+          "text": "A k) pont évente legfeljebb öt munkanapot ad, ugyanazzal a kerettel, mint az l) pont szerinti gondozás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a k) pontnak nincs törvényi napkerete; a tartamot az indokoltság méri. Az Mt. 55. § (1) bekezdés k) pontja az indokolt távollét tartamára utal; az öt munkanapos plafon az l) pontra vonatkozik. A helyes: a méltányos távollét tartama az ok indokoltságához igazodik. A tévedés a k) és az l) pont keretének felcseréléséből ered."
+        },
+        {
+          "text": "A k) pont szerinti távollét a 146. § (1) bekezdés b) pontja szerint távolléti díjas, mert a méltányosság a díjazást is magában foglalja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a k) pont a b) pont díjazási sorából kimarad. Az Mt. 146. § (1) bekezdés b) pontja a c)–g), j) és m) pontot díjazza; a k) pont nincs köztük. A helyes: a méltányos távollét mentesülést ad, e pont szerint távolléti díjat nem. A tévedés a méltányosság és a díjazás összekapcsolásából ered."
+        },
+        {
+          "text": "A k) pont a 146. § (1) bekezdés b) pontjának díjazási köréből kimarad, ezért e mentesülés e pont szerint nem távolléti díjas.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a méltányos távollét mentesít, de a b) pont szerinti díjazást nem ad. Az Mt. 146. § (1) bekezdés b) pontja a c)–g), j) és m) pontot nevezi meg; a k) pont nincs a listán. A 115. § (2) bekezdés f) pontja e tartamot is a szabadságra jogosító munkában töltött időbe számítja. A mentesülés és a díjazás tehát itt is szétválik."
+        },
+        {
+          "text": "A munkavállaló a különös méltánylást érdemlő személyi, családi vagy elháríthatatlan ok miatt indokolt távollét tartamára mentesül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a k) pont méltányossági tényállás, a tartamot az indokoltság méri. Az Mt. 55. § (1) bekezdés k) pontja a különös méltánylást érdemlő személyi, családi vagy elháríthatatlan ok miatt indokolt távollét tartamára menti fel a munkavállalót. Nincs törvényi napkeret, mint a j) vagy az l) pontnál. A 146. § (1) bekezdés b) pontja ide távolléti díjat nem rendel."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "f47e0515d8df"
+    },
+    {
+      "question": "Az 55. § (5) bekezdése és az 54. § (2)–(4) bekezdése hogyan viszonyul a 57. § eltérési záradékához?",
+      "options": [
+        {
+          "text": "Kollektív szerződés az 54. § (1) bekezdését a munkavállaló javára feloldhatja, ha a munkavédelmi felelősséget a munkáltató vállalja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az 54. § (1) bekezdése semmilyen irányú eltérést nem tűr. Az Mt. 57. § (1) bekezdés d) pontja minden eltérést tilt a felek megállapodása és a kollektív szerződés előtt. A helyes: a kötelező megtagadás nem oltható fel. A tévedés a relatív kógencia (55. §) szabályának az abszolút zárra történő ráírásából ered."
+        },
+        {
+          "text": "Az 55. § (5) bekezdés szerinti vizsgálati mentesítés kívül esik a 57. § (2) bekezdésének javára-eltérési hatályán.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés csak az 55. § (1) bekezdésére szól. Az Mt. 57. § (2) bekezdése szerint kollektív szerződés az 55. § (1) bekezdésében foglaltaktól csak a munkavállaló javára térhet el. Az 55. § (5) bekezdése — a munkáltatói vizsgálati mentesítés — e hatályon kívül esik. A vizsgálati mentesítés a munkáltató intézkedése, legfeljebb harminc napra."
+        },
+        {
+          "text": "Az 54. § (2)–(4) bekezdése nincs a 57. § (1) bekezdés d) pontjának abszolút zárában; a jogosultsági megtagadás, a rendelkezésre állás fenntartása és a kárelhárító eltérés eltérhetőségét e pont nem tiltja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az abszolút zár csak az (1) bekezdésre szól. Az Mt. 57. § (1) bekezdés d) pontja az 54. § (1) bekezdését zárja el a felek megállapodása és a kollektív szerződés elől. Az 54. § (2) bekezdés jogosultsági megtagadása, a (3) bekezdés rendelkezésre állása és a (4) bekezdés kárelhárító eltérése e listán nem szerepel. A kötelező megtagadás feloldhatatlan; a jogosultsági ág, a (3) és a (4) bekezdés nem esik ugyanezen abszolút tilalom alá."
+        },
+        {
+          "text": "Az 55. § (1) bekezdésétől a kollektív szerződés a munkáltató javára is eltérhet, ha a mentesülési katalógust szűkíti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kollektív szerződés csak a munkavállaló javára térhet el az 55. § (1) bekezdésétől. Az Mt. 57. § (2) bekezdése a javára-eltérést engedi, a szűkítést nem. A helyes: a katalógus munkáltatói javára történő szűkítése tilos. A tévedés a kétirányú eltérés feltételezéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "9bbd8f55924f"
+    },
+    {
+      "question": "A nő emberi reprodukciós eljárással összefüggő kezelésen vesz részt. Mely megállapítások állják meg a helyüket?",
+      "options": [
+        {
+          "text": "A felmondási tilalom a b) pont mentesülésének teljes tartamára automatikusan kiterjed, hat hónapos plafon nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 65. § (3) bekezdés g) pontja legfeljebb a kezelés megkezdésétől számított hat hónapra zár. Az Mt. 65. § (3) bekezdés g) pontja e plafont önállóan állítja; a b) pont mentesülése ettől elválik. A helyes: a tilalom tartama nem azonos automatikusan a mentesülés tartamával. A tévedés a két intézmény tartamának azonosításából ered."
+        },
+        {
+          "text": "A 65. § (3) bekezdés g) pontja a nő ilyen kezelésének — de legfeljebb a kezelés megkezdésétől számított hat hónap — tartama alatt a munkáltatói felmondást zárja; e védelem a b) pont mentesülésétől elválik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felmondási tilalom alanya és tartama a 65. § saját tényállása. Az Mt. 65. § (3) bekezdés g) pontja a reprodukciós kezelést — legfeljebb a megkezdésétől számított hat hónapra — önállóan védi. A b) pont mentesülése és a felmondási tilalom tartama ezért nem feltétlenül esik egybe. A díjazás sem követi automatikusan a tilalmat."
+        },
+        {
+          "text": "A b) pont szerinti kezelés a 146. § (1) bekezdés b) pontja szerint távolléti díjas, mert egészségügyi távollét.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a b) pont a díjazási sorból kimarad. Az Mt. 146. § (1) bekezdés b) pontja a c)–g), j) és m) pontot nevezi meg; a b) pont nincs a listán. A helyes: a reprodukciós kezelés mentesít, e pont szerint távolléti díjat nem ad. A tévedés az egészségügyi jelleg és a díjazás összekapcsolásából ered."
+        },
+        {
+          "text": "A jogszabály szerinti, az emberi reprodukciós eljárással összefüggő, egészségügyi intézményben történő kezelés tartamára a munkavállaló mentesül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a b) pont önálló mentesülési jogcímet ad. Az Mt. 55. § (1) bekezdés b) pontja a jogszabály szerinti, az emberi reprodukciós eljárással összefüggő, egészségügyi intézményben történő kezelés tartamára menti fel a munkavállalót. E pont a 146. § (1) bekezdés b) pontjának díjazási körén kívül esik. A mentesülés a kezelés tartamához igazodik."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "0a6ab0a8d030"
+    },
+    {
+      "question": "A 60. § szerinti felmentéshez milyen előzetes lépések kellenek, és mi a díjazás a felmentés idejére?",
+      "options": [
+        {
+          "text": "Előbb az 51. § (3) bekezdése szerinti módosítás, majd az egészségi állapotnak megfelelő munkakör felajánlása; felmentés csak ha a megfelelő foglalkoztatás nem lehetséges.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a felmentés a felajánlás sikertelenségéhez kötött. Az Mt. 60. § szerint, ha a munkakörében történő foglalkoztatás feltételei az 51. § (3) bekezdése szerint nem módosíthatóak, egészségi állapotának megfelelő munkakört kell felajánlani; ha az nem lehetséges, a munkavégzés alól fel kell menteni. Ez a várandósság megállapításától a gyermek egyéves koráig kapcsolódik. Nem azonos az 55. § (1) bekezdés a) pontjának mentesülésével."
+        },
+        {
+          "text": "A 60. § felajánlási kötelezettség nélkül, azonnal felmenti a várandós munkavállalót a munkavégzés alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felmentés a felajánlás sikertelenségéhez kötött. Az Mt. 60. § előbb az 51. § (3) bekezdése szerinti módosítást, majd az egészségi állapotnak megfelelő munkakör felajánlását követeli. A helyes: a felajánlás megelőzi a felmentést. A tévedés a sorrend kihagyásából ered."
+        },
+        {
+          "text": "A felmentés idejére alapbér jár, kivéve, ha a felajánlott munkakört alapos ok nélkül nem fogadja el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 60. § díjazása alapbér, nem a betegszabadság hetven százaléka. Az Mt. 60. § szerint a felmentés idejére alapbér jár, kivéve a felajánlott munkakör alapos ok nélküli elutasítását. Az 55. § (1) bekezdés a) pontjánál a 146. § (1) bekezdés b) pontja nem díjaz; a betegszabadságra a 146. § (3) bekezdése a távolléti díj hetven százalékát rendeli. A két intézmény díjazása tehát elválik."
+        },
+        {
+          "text": "A 60. § szerinti felmentés azonos az 55. § (1) bekezdés a) pontjával, ezért a díjazás is a betegszabadság hetven százalékos sávjába esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 60. § felmentése alapbért rendel, nem a betegszabadság 70%-át. A 60. § a felmentés idejére alapbért rendel, kivéve ha a felajánlott munkakört alapos ok nélkül utasítják el. A helyes: a 60. § nem az a) pont mentesülése, és a díjazása is más. A tévedés a két intézmény azonosításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "ef391b1fd406"
+    },
+    {
+      "question": "A 53. § (3) bekezdésének hozzájárulási zára hogyan viszonyul a 54. § megtagadási rendjéhez és a 57. § (1) bekezdés c) pontjához?",
+      "options": [
+        {
+          "text": "A 57. § (1) bekezdés c) pontja e zárat a felek megállapodása és a kollektív szerződés elől is elvonja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hozzájárulási zár abszolút kógens. Az Mt. 57. § (1) bekezdés c) pontja szerint a felek megállapodása vagy kollektív szerződés az 53. § (3)–(4) bekezdésében foglaltaktól nem térhet el. A 53. § (5) bekezdése az eltérő foglalkoztatás idejére legalább a munkaszerződés szerinti alapbért garantálja. A védett munkavállaló más helységbe a hozzájárulása nélkül nem kötelezhető, e zár feloldhatatlan."
+        },
+        {
+          "text": "A 53. § (3) bekezdésének hozzájárulási zára kollektív szerződéssel feloldható a munkáltató javára.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a hozzájárulási zár kógens. Az Mt. 57. § (1) bekezdés c) pontja az 53. § (3)–(4) bekezdését a felek megállapodása és a kollektív szerződés elől elzárja. A helyes: a védett munkavállaló más helységbe a hozzájárulása nélkül nem kötelezhető. A tévedés a kógens zár és a diszpozitív eltérés összekeveréséből ered."
+        },
+        {
+          "text": "A 53. § szerinti átirányítás mindig kötelező megtagadást indít, mert a munkaszerződéstől eltérés önmagában szabályba ütközik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az átirányítás a 53. § keretein belül jogszerű lehet, és önmagában nem alapozza meg a 54. §-t. Az Mt. 53. § (1) bekezdése az eltérő foglalkoztatásra kiterjeszti az utasítási jogot. A helyes: a 54. § csak a veszélyeztetés vagy a munkaviszonyra vonatkozó szabályba ütközés esetén nyílik meg. A tévedés az eltérő foglalkoztatás és a jogszerűtlen utasítás azonosításából ered."
+        },
+        {
+          "text": "A hozzájárulási zár a 54. § megtagadási rendjétől független védelmet ad: a védett munkavállaló más helységbe a hozzájárulása nélkül nem kötelezhető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 53. § (3) bekezdése a más helységbe kötelezést a védett munkavállaló hozzájárulásához köti. Az Mt. 53. § (3) bekezdése a várandósság, az egyedül nevelés, a tartós gondozás és a legalább ötven százalékos egészségkárosodás eseteiben állít zárat. Az átirányítás önmagában nem alapozza meg a 54. §-t; a 54. § a veszélyeztetés vagy a szabályba ütközés esetén nyílik meg. A két védelem párhuzamosan élhet."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "35d2476f7e03"
+    },
+    {
+      "question": "Mi következik abból, ha a munkavállaló munkaszüneti napon keresőképtelen, és óra- vagy teljesítménybérezésű?",
+      "options": [
+        {
+          "text": "Főszabályként a távolléti díj hetven százaléka jár, ha a munkaszüneti napi keresőképtelenség a 146. § (2) bekezdése alá esik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) bekezdés az (1) bekezdés d) pontjától tér el. Az Mt. 146. § (2) bekezdése szerint, ha a munkavállaló a munkaszüneti napon keresőképtelen, részére a távolléti díj hetven százaléka jár. A d) pont óra- vagy teljesítménybérezésnél a munkaszüneti nap miatt kieső napi munkaidőre egyébként teljes távolléti díjat adna. A (2) bekezdés e helyzetet a 70%-os sávba helyezi."
+        },
+        {
+          "text": "Munkaszüneti napi keresőképtelenségnél a teljes távolléti díj és a táppénz egymás mellett jár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, táppénz vagy baleseti táppénz mellett a távolléti díj nem jár. Az Mt. 146. § (2) bekezdése a kettős ellátást kizárja. A helyes: TB-ellátás mellett a távolléti díj elenyészik; annak hiányában a 70% jár. A tévedés a kumuláció feltételezéséből ered."
+        },
+        {
+          "text": "A 146. § (2) bekezdése a betegszabadság teljes tartamára is a táppénzzel való kettős ellátást rendezi.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés a munkaszüneti napi keresőképtelenségre szól; a betegszabadságot a (3) bekezdés rendezi. Az Mt. 146. § (3) bekezdése a betegszabadság tartamára a távolléti díj hetven százalékát adja. A helyes: a (2) bekezdés a d) ponttól eltérő, munkaszüneti napi szabály. A tévedés a két bekezdés hatályának összecsúsztatásából ered."
+        },
+        {
+          "text": "Nem illeti meg távolléti díj, ha a keresőképtelenségére tekintettel táppénzben vagy baleseti táppénzben részesül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kettős ellátás tilalma a távolléti díjat elenyészti. Az Mt. 146. § (2) bekezdése második mondata szerint nem illeti meg távolléti díj, ha a keresőképtelenségére tekintettel táppénzben vagy baleseti táppénzben részesül. A 70%-os távolléti díj tehát csak a TB-ellátás hiányában él. A betegszabadság tartamára a (3) bekezdés külön rendezi a 70%-ot."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "f434c5e2c832"
+    },
+    {
+      "question": "A mentesülés ténye önmagában keletkeztet-e távolléti díjat, és hol pótolható a hiányzó mérték?",
+      "options": [
+        {
+          "text": "Nem: a 146. § (1) bekezdés b) pontja szelektív, az a), b), h), k), l) és n) pont, valamint az i) pont tanún kívüli esete e sorból kimarad.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a mentesülés és a távolléti díj nem azonos. Az Mt. 146. § (1) bekezdés b) pontja az 55. § (1) bekezdés c)–g), j) és m) pontját díjazza. Az i) pont díjazását a 146. § (1) bekezdés c) pontja a tanúkénti meghallgatásra szűkíti. A 115. § (2) bekezdés f) pontja a díjazatlan mentesüléseket is beleszámítja a szabadságra jogosító időbe."
+        },
+        {
+          "text": "A keresőképtelenség és a tűzoltói szolgálat is a 146. § (1) bekezdés b) pontja szerint távolléti díjas.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az a) és a h) pont a b) pont díjazási listájáról kimarad. Az Mt. 146. § (1) bekezdés b) pontja a c)–g), j) és m) pontot nevezi meg. A helyes: e két ok mentesít, e pont szerint nem távolléti díjas. A tévedés a teljes katalógus díjazásának feltételezéséből ered."
+        },
+        {
+          "text": "Az n) pont residualis mentesülése a 146. § (1) bekezdés b) pontja szerint mindig távolléti díjas.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az n) pont a b) pont listáján nem szerepel. Az Mt. 146. § (1) bekezdés b) pontja a c)–g), j) és m) pontot díjazza. A helyes: a residualis mentesülés díjazását más szabály — például az f) pont — rendezheti, a b) pont nem. A tévedés a residualis záradék automatikus díjazásából ered."
+        },
+        {
+          "text": "Ha munkaviszonyra vonatkozó szabály rendelkezésre állás vagy munkavégzés nélkül munkabér fizetését annak mértéke meghatározása nélkül írja elő, a 146. § (1) bekezdés f) pontja távolléti díjjal pótolja a hiányzó mértéket.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az f) pont a mérték nélküli munkabér-előírást tölti ki. Az Mt. 146. § (1) bekezdés f) pontja szerint a munkavállalót távolléti díj illeti meg, ha munkaviszonyra vonatkozó szabály rendelkezésre állás vagy munkavégzés nélkül munkabér fizetését annak mértéke meghatározása nélkül írja elő. Ez a residualis n) pontú mentesülés díjazását is pótolhatja. A (6) bekezdés ettől elválik, mert hozzájáruláshoz és megállapodáshoz kötött."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "143a4e9e3eb4"
+    },
+    {
+      "question": "A munkáltató hozzájárulása alapján a munkavállaló mentesül a rendelkezésre állás alól. Mi a díjazás szabálya?",
+      "options": [
+        {
+          "text": "Ha a munkáltató hozzájárulása alapján mentesül a rendelkezésre állási kötelessége alól, a munkavállalót a megállapodásuk szerint illeti meg díjazás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (6) bekezdés a hozzájárulásos mentesülést a felek megállapodásához köti. Az Mt. 146. § (6) bekezdése szerint a munkavállalót, ha a munkáltató hozzájárulása alapján mentesül a rendelkezésre állási kötelessége alól, a megállapodásuk szerint illeti meg díjazás. Ez elválik a 146. § (1) bekezdésének törvényi távolléti díjas eseteitől. A díjazás mértéke és megléte a megállapodás tartalma."
+        },
+        {
+          "text": "A hozzájárulásos mentesülés esetén mindig a teljes távolléti díj jár, a felek eltérő megállapodása érvénytelen.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (6) bekezdés a díjazást a felek megállapodásához köti. Az Mt. 146. § (6) bekezdése szerint a munkavállalót a megállapodásuk szerint illeti meg díjazás. A helyes: nincs törvényi, kötelező teljes távolléti díj e körben. A tévedés az (1) bekezdés törvényi díjazásának a hozzájárulásos esetre történő ráírásából ered."
+        },
+        {
+          "text": "A (6) bekezdés elválik a 146. § (1) törvényi távolléti díjas eseteitől: a díjazás mértéke és megléte a felek megállapodásának tartalma.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hozzájárulásos mentesülés díjazása megállapodás kérdése. A 146. § (6) bekezdése a hozzájárulásos mentesülés díjazását a felek megállapodásához köti. Ez elválik a 146. § (1) bekezdésének törvényi távolléti díjas eseteitől, és nem az 55. § (1) bekezdés a)–n) pontjának alanyi katalógusa. Nincs törvényi, kötelező teljes távolléti díj e körben."
+        },
+        {
+          "text": "A 146. § (1) bekezdés f) pontja az 55. § (5) bekezdésének vizsgálati mentesítésére is alkalmazandó, mert ott nincs külön díjazási szabály.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a vizsgálati mentesítést a 146. § (1) bekezdés e) pontja rendezi. Az Mt. 146. § (1) bekezdés e) pontja az 54. § (3) bekezdésben és az 55. § (5) bekezdésében meghatározott esetre távolléti díjat rendel. A helyes: az e) pont a külön díjazási tényállás, nem az f) pont. A tévedés a két pont hatályának felcseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "92772091e0e1"
+    },
+    {
+      "question": "A 115. § (2) bekezdés f) pontja a díjazatlan mentesüléseket és az (5) bekezdés tartamát is beleszámítja-e a szabadságra jogosító időbe?",
+      "options": [
+        {
+          "text": "Igen: a 115. § (2) bekezdés f) pontja az 55. § (1) bekezdés a)–n) pontjának teljes katalógusát lefedi, a 146. § (1) bekezdés b) pontjának díjazásától függetlenül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szabadságra jogosító idő és a díjazás szétválik. Az Mt. 115. § (2) bekezdés f) pontja az 55. § (1) bekezdés a)–n) pontjában meghatározott tartamot munkában töltött időnek minősíti. A keresőképtelenség, a tűzoltói szolgálat, a méltányos távollét vagy a gondozási öt munkanap sem esik ki. A 146. § (1) bekezdés b) pontjának szelektív díjazása — amely csak a c)–g), j) és m) pontot nevezi meg — e számítást nem szűkíti."
+        },
+        {
+          "text": "Az 55. § (5) bekezdés szerinti vizsgálati mentesítés is a 115. § (2) bekezdés f) pontjának hatálya alá esik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (5) bekezdés kifejezetten szerepel a szabadságszámítási szabályban. Az Mt. 115. § (2) bekezdés f) pontja az 55. § (1) bekezdés a)–n) pontjában és (5) bekezdésében meghatározott tartamot nevezi meg. A vizsgálati mentesítés harminc napos plafonja mellett e tartam is beleszámít. A mentesülés a szabadságra jogosultságot nem csökkenti."
+        },
+        {
+          "text": "Csak a távolléti díjas mentesülések számítanak bele a szabadságra jogosító időbe; a díjazatlanok csökkentik azt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 115. § (2) bekezdés f) pontja a teljes a)–n) katalógust és az (5) bekezdést is beleszámítja. Az Mt. 115. § (2) bekezdés f) pontja nem szűkít a 146. § díjazási listájára. A helyes: a mentesülés a szabadságra jogosultságot nem csökkenti a díjazástól függetlenül. A tévedés a díjazás és a szabadságra jogosító idő összekapcsolásából ered."
+        },
+        {
+          "text": "Az 55. § (5) bekezdés szerinti vizsgálati mentesítés kívül esik a 115. § (2) bekezdés f) pontján, mert nem az (1) bekezdés alanyi joga.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (5) bekezdés kifejezetten a 115. § (2) bekezdés f) pontjának hatálya alá esik. A 115. § (2) bekezdés f) pontja az a)–n) katalógust és az (5) bekezdés tartamát egyaránt a szabadságra jogosító időbe számítja. A helyes: a vizsgálati mentesítés is szabadságra jogosító idő. A tévedés az alanyi és a diszkrecionális mentesítés indokolatlan elválasztásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "4641c6dc7e3e"
+    },
+    {
+      "question": "Mely állítások hibásak az utasításmegtagadás szabályairól? (tanító)",
+      "options": [
+        {
+          "text": "A jogszerű megtagadás után a munkavállaló mentesül a rendelkezésre állás alól is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 54. § (3) bekezdése a megtagadás után is rendelkezésre állást követel. Az Mt. 54. § (3) bekezdése szerint a munkavállaló — a rendelkezésre állási kötelezettség teljesítésének idejére vonatkozó utasítást kivéve — az utasítás megtagadása esetén is köteles rendelkezésre állni. A helyes: a rendelkezésre állás főszabály szerint fennmarad. A tévedés a megtagadás és az 55. § mentesülésének összekeveréséből ered."
+        },
+        {
+          "text": "A saját egészség közvetlen és súlyos veszélyeztetése esetén a munkavállaló köteles megtagadni az utasítást.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a saját egészség veszélyeztetése jogosultsági ok. Az Mt. 54. § (2) bekezdése szerint a munkavállaló megtagadhatja az utasítást, ha életét, testi épségét vagy egészségét közvetlenül és súlyosan veszélyeztetné. A helyes: e körben a teljesítés nem tilos, csak megtagadható. A tévedés az (1) és a (2) bekezdés modalitásának felcseréléséből ered."
+        },
+        {
+          "text": "A környezet közvetlen és súlyos veszélyeztetése csak jogosultságot ad, nem kötelezettséget.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a környezet védelme a kötelező megtagadás része. Az Mt. 54. § (1) bekezdése a környezetet a kötelező megtagadás jogtárgyai közé sorolja. A helyes szabály: a környezet közvetlen és súlyos veszélyeztetése kötelező megtagadást indít. A tévedés a (2) bekezdés jogosultsági tényállásának a környezetre történő kiterjesztéséből ered."
+        },
+        {
+          "text": "Az 54. § (1) bekezdése kollektív szerződéssel feloldható, ha a felek a munkavédelmi kockázatot a munkáltatóra hárítják.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kötelező megtagadás abszolút kógens. A kötelező megtagadás kógenciáját az Mt. 57. § (1) bekezdés d) pontja rögzíti: sem egyedi megállapodás, sem kollektív szerződés nem térhet el az 54. § (1) bekezdésétől. A helyes: e kötelezettség egyedi és kollektív megállapodással sem oldható fel. A tévedés a relatív kógencia szabályának ráírásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "d0f5f8a4f5d5"
+    },
+    {
+      "question": "Mi a szerepe az n) pontnak a mentesülési katalógusban?",
+      "options": [
+        {
+          "text": "Az n) pont csak a törvényben taxatíve felsorolt okokat ismétli meg, új jogcímet nem nyithat.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az n) pont residualis záradék, amely a munkaviszonyra vonatkozó szabályban rögzített további jogcímeket is bevon. Az Mt. 55. § (1) bekezdés n) pontja a munkaviszonyra vonatkozó szabályban meghatározott időre nyitja a mentesülést. A helyes: a törvényen kívüli, de e szabályban rögzített távolléti jogcímek is az 55. § alá kerülnek. A tévedés a taxatív zártság feltételezéséből ered."
+        },
+        {
+          "text": "A 57. § (2) bekezdése szerint kollektív szerződés az 55. § (1) bekezdésétől — így az n) pont keretétől is — csak a munkavállaló javára térhet el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az n) pont is az (1) bekezdés része, ezért a relatív kógencia hatálya alá esik. Az Mt. 57. § (2) bekezdése a kollektív szerződésnek csak a munkavállaló javára engedi, hogy az 55. § (1) bekezdésétől eltérjen. A munkaszerződés ugyanezen javára-eltérést a 43. § (1) bekezdése nyitja meg. Az (5) bekezdés vizsgálati mentesítése e hatályon kívül esik."
+        },
+        {
+          "text": "Az n) pont szerinti mentesülés a 146. § (1) bekezdés b) pontja szerint távolléti díjas.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az n) pont a b) pont díjazási listájáról kimarad. Az Mt. 146. § (1) bekezdés b) pontja a c)–g), j) és m) pontot sorolja a távolléti díjas esetek közé. A helyes: az n) pont mentesít, e pont szerint nem távolléti díjas; a díjazást más szabály — például az f) pont — rendezheti. A tévedés a residualis záradék automatikus díjazásából ered."
+        },
+        {
+          "text": "Az n) pont a mentesülést munkaviszonyra vonatkozó szabályban meghatározott időre nyitja meg; a katalógus residualis záradéka.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az n) pont a törvényen kívüli, de a munkaviszonyra vonatkozó szabályban rögzített távolléti jogcímeket is az 55. § alá vonja. Az Mt. 55. § (1) bekezdés n) pontja szerint a munkavállaló mentesül rendelkezésre állási és munkavégzési kötelezettségének teljesítése alól munkaviszonyra vonatkozó szabályban meghatározott időre. A 54. § (2) bekezdése ugyanezen mércére ütközést tesz a jogosultsági megtagadás egyik okává. A díjazást a 146. § (1) bekezdés b) pontja e pontra nem rendeli."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "005288a426df"
+    },
+    {
+      "question": "A „közvetlenül és súlyosan” fordulat hogyan határolja a 54. § alkalmazási körét?",
+      "options": [
+        {
+          "text": "Elegendő a súlyos, de távoli kockázat is, mert a törvény a súlyosságot önmagában elegendőnek tekinti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közvetlenség és a súlyosság együtt kell. Az Mt. 54. § (1) és (2) bekezdése a „közvetlenül és súlyosan” fordulatot használja, nem vagylagosan. A helyes: a távoli kockázat a 54. § alól kiesik. A tévedés a két ismérv szétválasztásából ered."
+        },
+        {
+          "text": "A közvetlenség és a súlyosság együttes ismérv: a törvény fordulata nem vagylagos, ezért a távoli, hipotetikus vagy enyhe kockázat kiesik a 54. § alól.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kettős zár szűkíti a megtagadási tényállást. Az Mt. 54. § (1) és (2) bekezdése egyaránt a „közvetlenül és súlyosan” fordulatot használja. A távoli vagy enyhe kockázatnál a munkavállaló a jogszerű utasítást teljesíteni tartozik. Ha a végrehajtás munkaviszonyra vonatkozó szabályba ütközik, a (2) bekezdés jogosultságára támaszkodhat a veszélyeztetés hiányában is."
+        },
+        {
+          "text": "Az enyhe, de közvetlen kockázat is kötelező megtagadást indít, ha más személyt érint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az enyhe kockázat a súlyosság hiánya miatt kiesik. Az Mt. 54. § (1) bekezdése a közvetlen és súlyos veszélyeztetést követeli. A helyes: enyhe kockázatnál a jogszerű utasítást teljesíteni kell. A tévedés a súlyosság mellőzéséből ered."
+        },
+        {
+          "text": "A munkavédelmi és a környezetvédelmi utasítás más megítélés alá esik, mint a munkavállaló saját egészségét érintő, de másra ki nem ható utasítás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a veszélyeztetett jogtárgy választja el a kötelező és a jogosultsági megtagadást. Az Mt. 54. § (1) bekezdése a más személyt és a környezetet védi kötelező megtagadással; a (2) bekezdés a saját életet, testi épséget vagy egészséget jogosultsággá teszi. A saját egészségét érintő, de másra ki nem ható utasításnál a teljesítés nem válik tilossá. A környezet a jogosultsági oldalon nem tér vissza."
+        }
+      ],
+      "sourceKerdesSorszam": 29,
+      "sourceHash": "3607cdf0da74"
+    },
+    {
+      "question": "A munkavállaló saját életét közvetlenül és súlyosan veszélyeztető utasítást kap. Mely megállapítások helytállóak?",
+      "options": [
+        {
+          "text": "A saját élet veszélyeztetése kötelező megtagadást indít, mert az emberi élet abszolút védelmet élvez.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a saját élet veszélyeztetése a (2) bekezdés jogosultsági tényállása. Az Mt. 54. § (1) bekezdése a más személy életét védi kötelező megtagadással; a (2) bekezdés a saját életet jogosultsággá teszi. A helyes: a teljesítés nem tilos, csak megtagadható. A tévedés a jogtárgy szerinti elhatárolás mellőzéséből ered."
+        },
+        {
+          "text": "A megtagadás után — ha nem a rendelkezésre állás idejére vonatkozó utasítást tagadta meg — továbbra is köteles rendelkezésre állni, és e tartamra távolléti díj jár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogosultsági megtagadás sem oldja fel automatikusan a rendelkezésre állást. Az Mt. 54. § (3) bekezdése a megtagadás esetén is fenntartja a rendelkezésre állást a kivétel kivételével. A 146. § (1) bekezdés e) pontja az 54. § (3) bekezdésében meghatározott esetre távolléti díjat rendel. A jogszerű utasításokat továbbra is teljesíti."
+        },
+        {
+          "text": "A saját egészség veszélyeztetése a környezet veszélyeztetésével azonos megítélés alá esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a környezet a kötelező, a saját egészség a jogosultsági oldalon van. Az Mt. 54. § (1) bekezdése a környezetet a kötelező megtagadáshoz sorolja; a (2) bekezdés a saját egészségét a jogosultsághoz. A helyes: a két jogtárgy modalitása különbözik. A tévedés a jogtárgyak összecsúsztatásából ered."
+        },
+        {
+          "text": "A munkavállaló megtagadhatja az utasítás teljesítését, de a teljesítés nem válik tilossá.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a saját integritás védelme jogosultság, nem kötelezettség. Az Mt. 54. § (2) bekezdése szerint a munkavállaló megtagadhatja az utasítást, ha annak végrehajtása életét, testi épségét vagy egészségét közvetlenül és súlyosan veszélyeztetné. Az (1) bekezdés kötelező megtagadása a más személyt és a környezetet védi. A munkavállaló tehát mérlegelhet."
+        }
+      ],
+      "sourceKerdesSorszam": 30,
+      "sourceHash": "1b44a646507e"
+    },
+    {
+      "question": "Mely állítások hibásak a mentesülés díjazásáról? (tanító)",
+      "options": [
+        {
+          "text": "Az l) pont szerinti gondozási öt munkanap a 146. § (1) bekezdés b) pontja szerint távolléti díjas.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az l) pont a b) pont díjazási sorából kimarad. A 146. § (1) bekezdés b) pontjának listája a c)–g), j) és m) pontokra korlátozódik. A helyes: a gondozási mentesülés mentesít, e pont szerint nem távolléti díjas; a 65. § (3) bekezdés h) pontja viszont felmondási tilalmat ad. A tévedés a j) pont díjazásának az l) pontra történő ráírásából ered."
+        },
+        {
+          "text": "Minden 55. § (1) bekezdés szerinti mentesülés távolléti díjas, mert a munkavégzés hiánya önmagában díjazást keletkeztet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a díjazási térkép szelektív. Az Mt. 146. § (1) bekezdés b) pontja csak a c)–g), j) és m) pontot díjazza; az a), b), h), k), l) és n) pont kimarad. A helyes: a mentesülés ténye és a távolléti díjra jogosultság nem azonos. A csapda a mentesülés és a távolléti díj automatikus összekapcsolása."
+        },
+        {
+          "text": "Az i) pont szerinti bírósági megjelenés minden minőségben távolléti díjas.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az i) pontnál csak a tanúkénti meghallgatás díjazott. Az Mt. 146. § (1) bekezdés c) pontja a díjazást a tanúkénti meghallgatásra szűkíti. A helyes: a fél, a képviselő vagy a szakértő megjelenése mentesít, de távolléti díjat nem ad. A tévedés a mentesülés és a díjazás azonosításából ered."
+        },
+        {
+          "text": "A vizsgálati mentesítés díjtalan, mert a kötelezettségszegés gyanúja a díjazást kizárja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a gyanú nem vonja el a díjazást a vizsgálati távollétnél. Az Mt. 146. § (1) bekezdés e) pontja az 55. § (5) bekezdése szerinti, legfeljebb harminc napos mentesítést távolléti díjhoz köti. A helyes: a munkáltatói vizsgálati mentesítés tartama díjazott. A tévedés a hátrányos jogkövetkezmény és a vizsgálati kiemelés összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 31,
+      "sourceHash": "3dbe4ec55969"
+    },
+    {
+      "question": "Hogyan kapcsolódik az 55. § (5) bekezdése az 56. § szerinti hátrányos jogkövetkezményekhez?",
+      "options": [
+        {
+          "text": "Az 55. § (5) bekezdése a vizsgálat idejére emel ki; az 56. § a vétkes kötelezettségszegés hátrányos jogkövetkezményét a kollektív szerződéshez, annak hiányában a munkaszerződéshez köti — a két lépés egymást követheti, de nem esik egybe.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a vizsgálati mentesítés nem pótolja a szankciót. Az Mt. 55. § (5) bekezdése a kötelezettségszegés körülményeinek kivizsgálásához kapcsolódik, legfeljebb harminc napra. Az Mt. 56. § a hátrányos jogkövetkezményeket rendezi; az intézkedést írásba kell foglalni és indokolni kell. A 56. § (4) bekezdése szerint hátrányos jogkövetkezmény nem állapítható meg olyan kötelezettségszegés miatt, amelyet a munkáltató a munkaviszony megszüntetésének indokaként is megjelöl."
+        },
+        {
+          "text": "A vizsgálati mentesítés egyben az 56. § szerinti hátrányos jogkövetkezmény megállapítása is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a vizsgálati mentesítés a teljesítés alól old fel, de nem pótolja a hátrányos jogkövetkezmény megállapítását. Az Mt. 55. § (5) bekezdése a vizsgálat idejére, legfeljebb harminc napra emeli ki a munkavállalót; az 56. § a vétkes kötelezettségszegés szankcióját rendezi. A helyes: a mentesítés nem jelenti a kötelezettségszegés megállapítását, és nem helyettesíti az 56. § szerinti írásbeli, indokolt intézkedést. A tévedés a két intézmény összevonásából ered."
+        },
+        {
+          "text": "Az 55. § (5) bekezdése a vizsgálat idejére, legfeljebb harminc napra emeli ki a munkavállalót a teljesítés alól, anélkül, hogy az 56. § szankcióját maga alkalmazná.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a vizsgálati mentesítés a szankciós rend előszobája, nem a szankció. Az Mt. 55. § (5) bekezdése a kötelezettségszegés körülményeinek kivizsgálásához kapcsolódik. Az 56. § a vétkes kötelezettségszegés hátrányos jogkövetkezményeit a kollektív szerződéshez, annak hiányában a munkaszerződéshez köti. A mentesítés nem jelenti a kötelezettségszegés megállapítását."
+        },
+        {
+          "text": "Az 56. § (2)–(5) bekezdése diszpozitív, ezért a kollektív szerződés a vagyoni hátrány plafonját szabadon felemelheti.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az 56. § (2)–(5) bekezdése kógens, a vagyoni hátrány plafonja feloldhatatlan. Az Mt. 57. § (1) bekezdés e) pontja az 56. § (2)–(5) bekezdését a megállapodás és a kollektív szerződés elől elzárja. A vagyoni hátrány egyhavi alapbérben zárt. A helyes: a plafon sem egyedi, sem kollektív megállapodással nem emelhető. A tévedés a kógens zár mellőzéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 32,
+      "sourceHash": "ada288e9e36d"
+    },
+    {
+      "question": "Miben tér el az l) pont alanyi köre a 294. § (1) bekezdés b) pontjának hozzátartozó-fogalmától?",
+      "options": [
+        {
+          "text": "Az f) pont szerinti két munkanap csak a 294. § (1) bekezdés b) pontja szerinti hozzátartozó halálához kapcsolódik, a közös háztartásban élő nem hozzátartozóra nem.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az f) pont a hozzátartozó-fogalomhoz kötött, az l) pont bővebb. Az Mt. 55. § (1) bekezdés f) pontja hozzátartozója halálakor két munkanapot ad; a fogalmat a 294. § (1) bekezdés b) pontja tölti meg. Az l) pont a gondozásnál a közös háztartásban élő személyt is bevonja. A két pont alanyi hatálya tehát nem azonos."
+        },
+        {
+          "text": "Az f) pont két munkanapja a közös háztartásban élő nem hozzátartozó halálára is kiterjed.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az f) pont a hozzátartozó halálához kötött. Az Mt. 55. § (1) bekezdés f) pontja „hozzátartozója halálakor” fordulatot használ; a fogalmat a 294. § (1) bekezdés b) pontja adja. A helyes: a közös háztartásban élő nem hozzátartozó halála e pont alá nem esik. A tévedés az l) pont bővebb alanyi körének az f) pontra történő átviteléből ered."
+        },
+        {
+          "text": "Az l) pont csak a 294. § (1) bekezdés b) pontja szerinti hozzátartozóra szól; a közös háztartásban élő nem hozzátartozó kívül esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az l) pont kifejezetten a közös háztartásban élő személyt is megnevezi. Az Mt. 55. § (1) bekezdés l) pontja a hozzátartozó vagy a közös háztartásban élő személy gondozására ad öt munkanapot. A helyes: az alanyi kör a hozzátartozó-fogalmnál tágabb. A tévedés az f) pont szűkebb hatályának az l) pontra történő ráírásából ered."
+        },
+        {
+          "text": "Az l) pont a súlyos egészségi okból gondozásra szoruló hozzátartozó mellett a munkavállalóval közös háztartásban élő személyt is bevonja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az l) pont a hozzátartozónál tágabb alanyi kört véd. Az Mt. 55. § (1) bekezdés l) pontja a súlyos egészségi okból gondozásra szoruló hozzátartozójának, vagy a munkavállalóval közös háztartásban élő személynek nyújtott személyes gondozás céljából évente legfeljebb öt munkanapot ad. A 294. § (1) bekezdés b) pontja a hozzátartozót tölti meg; az l) pont e fogalmon túl a közös háztartásban élőt is lefedi. A 294. § (1) bekezdés n) pontja a gondozást végző munkavállaló fogalmát is e kettősségre építi."
+        }
+      ],
+      "sourceKerdesSorszam": 33,
+      "sourceHash": "3b861d1083fc"
+    },
+    {
+      "question": "Mikor nem kényszeríti a 54. § (3) bekezdése a munkavállalót a megtagadott rendelkezésre állás teljesítésére?",
+      "options": [
+        {
+          "text": "A jogszerű megtagadás utáni rendelkezésre állás tartamára a 146. § (1) bekezdés e) pontja távolléti díjat rendel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a fenntartott rendelkezésre állás nem díjtalan. Az Mt. 146. § (1) bekezdés e) pontja az 54. § (3) bekezdésben meghatározott esetre távolléti díjat köt. A díjazás a megtagadás utáni elérhetőséghez kapcsolódik. A kivétel körében — ha a rendelkezésre állás maga a megtagadás tárgya — e díjazási tényállás értelemszerűen nem a megtagadott rendelkezésre állás „teljesítésére” épül."
+        },
+        {
+          "text": "Akkor, ha maga a rendelkezésre állási kötelezettség teljesítésének idejére vonatkozó utasítás a megtagadás tárgya.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés kivétele pontosan e körre szól. Az Mt. 54. § (3) bekezdése szerint a munkavállaló – a rendelkezésre állási kötelezettség teljesítésének idejére vonatkozó utasítást kivéve – az utasítás megtagadása esetén is köteles rendelkezésre állni. A kivétel azt jelenti, hogy e körben a törvény nem kényszeríti a megtagadott rendelkezésre állás teljesítésére. Minden más megtagadott utasítás mellett a munkavállaló elérhető marad."
+        },
+        {
+          "text": "A (3) bekezdés minden megtagadás után kötelezően fenntartja a rendelkezésre állást, kivétel nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendelkezésre állás idejére vonatkozó utasítás kivétel. Az Mt. 54. § (3) bekezdése e kivételt kifejezetten nevesíti. A helyes: ha maga a rendelkezésre állás a megtagadás tárgya, a törvény nem kényszeríti annak teljesítésére. A tévedés a kivétel mellőzéséből ered."
+        },
+        {
+          "text": "A megtagadott rendelkezésre állás idejére is jár a 146. § (1) bekezdés e) pontja szerinti távolléti díj, mert a megtagadás mindig díjazott.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az e) pont a (3) bekezdés szerinti, fenntartott rendelkezésre állásra szól. Az Mt. 146. § (1) bekezdés e) pontja az 54. § (3) bekezdésben meghatározott esetet díjazza, ahol a munkavállaló köteles rendelkezésre állni. A helyes: ha a rendelkezésre állás maga a megtagadott utasítás, e díjazási tényállás nem a megtagadott kötelezettség „teljesítésére” épül. A tévedés a kivétel és a díjazás összekeveréséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 34,
+      "sourceHash": "00f847cb47d0"
+    },
+    {
+      "question": "Mely állítások hibásak az 57. § eltérési záradékáról? (tanító)",
+      "options": [
+        {
+          "text": "A munkaszerződés az 55. § (1) bekezdésétől a munkáltató javára is eltérhet a 43. § alapján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 43. § (1) bekezdése a munkavállaló javára engedi az eltérést. Az Mt. 57. § (2) bekezdése a kollektív szerződés javára-eltérését rögzíti; a munkaszerződés ugyanezen irányt a 43. § (1) bekezdése nyitja meg. A helyes: a katalógus munkáltatói javára történő szűkítése egyedi megállapodással sem lehetséges. A tévedés a javára-eltérés irányának felcseréléséből ered."
+        },
+        {
+          "text": "Az 55. § (5) bekezdés vizsgálati mentesítése is a 57. § (2) bekezdésének hatálya alá esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (2) bekezdés csak az 55. § (1) bekezdését említi. Kollektív szerződés az 55. § (1) bekezdését a 57. § (2) bekezdése szerint kizárólag a munkavállaló javára módosíthatja. A helyes: az (5) bekezdés e hatályon kívül esik. A tévedés az (1) és az (5) bekezdés összecsúsztatásából ered."
+        },
+        {
+          "text": "Az 54. § (2) bekezdése abszolút kógens, ezért a jogosultsági megtagadás sem megállapodással, sem kollektív szerződéssel nem módosítható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kógens záradék csak az 54. § (1) bekezdésére vonatkozik. Az Mt. 57. § (1) bekezdés d) pontja az 54. § (1) bekezdését zárja el; a (2)–(4) bekezdés e listán nem szerepel. A helyes: a jogosultsági megtagadás eltérhetőségét a 57. § (1) bekezdése nem tiltja. A csapda a kötelező megtagadás abszolút zárjának a (2)–(4) bekezdésre történő kiterjesztése."
+        },
+        {
+          "text": "Az 53. § (3)–(4) bekezdésének hozzájárulási zára kollektív szerződéssel feloldható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, e zár a 57. § (1) bekezdés c) pontja szerint kógens. A 57. § (1) bekezdés c) pontja szerint az 53. § (3)–(4) bekezdésétől sem megállapodás, sem kollektív szerződés nem térhet el. A helyes: a védett munkavállaló más helységbe a hozzájárulása nélkül nem kötelezhető. A tévedés a kógens zár diszpozitívnak olvasásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 35,
+      "sourceHash": "589ba76efce7"
+    },
+    {
+      "question": "A raktáros a munkáltató értesítése nélkül eltér az utasítástól, hogy elhárítsa a készlet károsodását. Mely feltételek mellett jogszerű ez?",
+      "options": [
+        {
+          "text": "Az eltérésről a munkavállaló a munkáltatót haladéktalanul tájékoztatni köteles.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az utólagos tájékoztatás a törvényi tényállás része. Az Mt. 54. § (4) bekezdése második mondata szerint az utasítástól való eltérésről a munkáltatót haladéktalanul tájékoztatni kell. A munkavállaló a hallgatólagos munkáltatói érdek védelmében lép ki az utasítás kötöttségéből, de utólag elszámolni tartozik. A tájékoztatás elmulasztása a jogszerűség értékelését érinti."
+        },
+        {
+          "text": "Az eltérés jogszerű, ha a munkáltató károsodástól való megóvása feltétlenül megköveteli, és a munkáltató értesítésére nincs mód.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (4) bekezdés kettős, együttes feltételt állít. Az Mt. 54. § (4) bekezdése szerint a munkavállaló a munkáltató utasításától eltérhet, ha ezt a munkáltató károsodástól való megóvása feltétlenül megköveteli és a munkáltató értesítésére nincs mód. Ez a kárelhárító szükségcselekmény munkajogi megfelelője. Az értesítés lehetősége az eltérést kizárja."
+        },
+        {
+          "text": "Elegendő, ha a károsodás elhárítása célszerű, az értesítés lehetetlensége nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a célszerűség önmagában nem elég; a törvény két konjunktív feltételt állít. Az Mt. 54. § (4) bekezdése szerint az eltéréshez a munkáltató károsodástól való megóvásának feltétlen szükségessége és a munkáltató értesítésének hiánya együttesen kell. A helyes: ha van mód az értesítésre, a munkavállaló nem térhet el egyoldalúan az utasítástól. A tévedés a célszerűség és a törvényi feltételek összekeveréséből ered."
+        },
+        {
+          "text": "A kárelhárító eltérés azonos a kötelező megtagadással, ezért a 57. § (1) bekezdés d) pontja szerint abszolút kógens.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (4) bekezdés nem megtagadás, és a kógens listán nem szerepel. Az Mt. 54. § (4) bekezdése utasítástól való eltérést rendez; a 57. § (1) bekezdés d) pontja csak az (1) bekezdést zárja. A helyes: a kárelhárító eltérés eltérhetőségét a 57. § (1) bekezdése nem tiltja. A tévedés a két alakzat azonosításából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 36,
+      "sourceHash": "e72d47fd9240"
+    },
+    {
+      "question": "A 10. § (4) bekezdése hogyan kapcsolódik az a) pont szerinti egészségi alkalmatlansághoz?",
+      "options": [
+        {
+          "text": "Az a) pont a munkakör ellátására egészségi okból való alkalmatlanság időtartamára is mentesít, a keresőképtelenség megállapítása nélkül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az alkalmatlanság önálló alakzat a keresőképtelenség mellett. Az Mt. 55. § (1) bekezdés a) pontja a keresőképtelenséget és az egészségi okból való alkalmatlanságot vagylagosan nevezi meg. Az utóbbi tágabb: a munkaköri alkalmasság hiánya a keresőképtelenség nélkül is feloldja a teljesítést. Az a) pont a 146. § (1) bekezdés b) pontjának távolléti díjas listájáról kimarad."
+        },
+        {
+          "text": "A munkavállalóval szemben olyan alkalmassági vizsgálat alkalmazható, amelyet munkaviszonyra vonatkozó szabály ír elő, vagy amely munkaviszonyra vonatkozó szabályban meghatározott jog gyakorlása, kötelezettség teljesítése érdekében szükséges.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az alkalmassági vizsgálat kerete a munkaviszonyra vonatkozó szabályhoz kötött. Az Mt. 10. § (4) bekezdése ezt a kettős feltételt állítja. Az a) pont szerinti munkaköri egészségi alkalmatlanság megállapítása e vizsgálati rendbe illeszkedhet. A puszta munkáltatói kívánság önmagában nem alapozza meg a vizsgálatot."
+        },
+        {
+          "text": "A munkáltató egyedi utasítással bármikor elrendelhet alkalmassági vizsgálatot, ha a munkakör ellátása kétséges.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az alkalmassági vizsgálat a 10. § (4) bekezdése szerint munkaviszonyra vonatkozó szabályhoz kötött. Az Mt. 10. § (4) bekezdése a vizsgálatot szabályi előíráshoz vagy az abban meghatározott jog, kötelezettség érdekében szükséges voltához köti. A helyes: a puszta egyedi utasítás nem elég. A tévedés a munkáltatói utasítási szabadság túlterjesztéséből ered."
+        },
+        {
+          "text": "Az egészségi alkalmatlanság csak a keresőképtelenség orvosi megállapítása után mentesít az a) pont alapján.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az alkalmatlanság a keresőképtelenség nélkül is mentesít. Az Mt. 55. § (1) bekezdés a) pontja a két alakzatot vagylagosan rendezi. A helyes: a munkaköri alkalmasság hiánya önálló mentesülési ok. A tévedés a két alakzat egybeolvasztásából ered."
+        }
+      ],
+      "sourceKerdesSorszam": 37,
+      "sourceHash": "bc59c3066cb3"
+    },
+    {
+      "question": "Összevetve a j) és az l) pontot: milyen tartam- és eljárásbeli különbségek adódnak?",
+      "options": [
+        {
+          "text": "Az l) pont a 146. § (1) bekezdés b) pontja szerint távolléti díjas, a j) pont nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, éppen fordítva: a j) pont díjazott, az l) pont nem. Az Mt. 146. § (1) bekezdés b) pontja a j) pontot a listán tartja, az l) pontot nem. A helyes: az örökbefogadási előkészítés távolléti díjas, a gondozási öt nap e pont szerint nem. A tévedés a két pont díjazásának felcseréléséből ered."
+        },
+        {
+          "text": "A j) pontnál kilencven napos felhasználási ablak és öt munkanapos előzetes tájékoztatás kell; az l) pontnál legfeljebb két részlet és kezelőorvosi igazolás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (2) és a (3) bekezdés eltérő eljárásrendet ad. Az Mt. 55. § (2) bekezdése a j) ponthoz az örökbefogadást elősegítő szervezet igazolását, a kiállítástól számított kilencven napot és legalább öt munkanapos előzetes tájékoztatást köt. A (3) bekezdés az l) pontot a jogosult kérésének megfelelő időpontban, legfeljebb két részletben biztosítja, kezelőorvosi igazolással. A 65. § (3) bekezdés h) pontja csak az l) pontot védi felmondási tilalommal."
+        },
+        {
+          "text": "Mindkét pont évente legfeljebb tíz munkanapot ad, azonos eljárásrenddel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a tartam és az eljárásrend is különbözik. Az Mt. 55. § (1) bekezdés j) pontja tíz, az l) pont öt munkanapot rendel; a (2) és a (3) bekezdés eltérő feltételeket állít. A helyes: a két pont nem azonosítható. A tévedés a keretek és az eljárás összevonásából ered."
+        },
+        {
+          "text": "A j) pont évente legfeljebb tíz, az l) pont évente legfeljebb öt munkanapot ad; mindkettőnél a 124. § megfelelően alkalmazandó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a két pont éves kerete különbözik, az eljárásrendben viszont közös a 124. §. Az Mt. 55. § (1) bekezdés j) pontja tíz, az l) pont öt munkanapot rendel. A (4) bekezdés mindkettőre a 124. § rendelkezéseit megfelelően alkalmazni rendeli. A j) pont távolléti díjas, az l) pont a 146. § (1) bekezdés b) pontjából kimarad."
+        }
+      ],
+      "sourceKerdesSorszam": 38,
+      "sourceHash": "0ffa29fb8b84"
+    },
+    {
+      "question": "Mi a távolléti díj számításának alapja a 148. § szerint, ha a 146. § díjazást rendel?",
+      "options": [
+        {
+          "text": "A pótlékátalány az esedékességkori elemek része, míg a teljesítménybér és a bérpótlék az irányadó időszak alapján kerül a 148. § szerinti számításba.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a távolléti díj számítása két idősíkot kapcsol össze. A 148. § az esedékességkori alapbért és pótlékátalányt az irányadó időszak teljesítménybérével és bérpótlékával együtt veszi alapul. A jogosultságot a 146. §, a számítási módot a 148. § határozza meg. A puszta háromhavi átlagkereset önmagában nem helyettesíti e szerkezetet."
+        },
+        {
+          "text": "A távolléti díj mindig az utolsó három havi átlagkereset száz százaléka, a 148. § eltérése nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 148. § az esedékességkori alapbér és pótlékátalány, valamint az irányadó időszak teljesítménybére és bérpótléka együttesét rendeli. Az Mt. 148. § e számítási módot adja, nem a puszta háromhavi átlag száz százalékát. A helyes: a számítás a 148. § elemeiből áll össze. A tévedés a régi átlagkereset-fogalom ráírásából ered."
+        },
+        {
+          "text": "A 146. § (3) bekezdése szerinti betegszabadság hetven százaléka is a 148. § szerinti távolléti díj teljes összegének felel meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a (3) bekezdés a távolléti díj hetven százalékát rendeli, nem a teljes összeget. Az Mt. 146. § (3) bekezdése a betegszabadság idejére a távolléti díj hetven százalékát rendeli. A helyes: a 148. § szerinti távolléti díj a bázis, abból 70% jár. A tévedés a százalékos sáv mellőzéséből ered."
+        },
+        {
+          "text": "A távolléti díj számításának módját a 148. § adja: az esedékességkori alapbér és pótlékátalány, valamint az irányadó időszak teljesítménybére és bérpótléka együttesen.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 146. § a jogosultságot, a 148. § a számítási módot rendezi. Az Mt. 148. § szerint a távolléti díj az esedékességkori alapbér és pótlékátalány, valamint az irányadó időszak teljesítménybére és bérpótléka együttesén alapul. Ez a 54. § (3) bekezdése és az 55. § díjazott esetei mellett is irányadó. A jogosultság és a számítás tehát két lépés."
+        }
+      ],
+      "sourceKerdesSorszam": 39,
+      "sourceHash": "f6a7cc33fa02"
+    },
+    {
+      "question": "Mely állítások hibásak a 54. § és az 55. § elhatárolásáról? (tanító)",
+      "options": [
+        {
+          "text": "A kötelező megtagadás diszpozitív, a mentesülési katalógus abszolút kógens.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kógencia fordított: az 54. § (1) bekezdése abszolút, az 55. § (1) bekezdése relatív kógens. Az Mt. 57. § (1) bekezdés d) pontja az 54. § (1) bekezdését zárja el; a (2) bekezdés az 55. § (1) bekezdésétől csak a munkavállaló javára enged eltérést. A helyes: a kötelező megtagadás feloldhatatlan, a mentesülési katalógus javára bővíthető. A tévedés a két záradék felcseréléséből ered."
+        },
+        {
+          "text": "A díjazás mindkét intézménynél automatikusan a teljes távolléti díj.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a díjazás szelektív és intézményfüggő. Az Mt. 146. § (1) bekezdés e) pontja a 54. § (3) bekezdése szerinti rendelkezésre állásra távolléti díjat ad; az 55. §-nál a b) és c) pont csak meghatározott mentesülési okokat díjaz. A helyes: sem a megtagadás, sem a mentesülés nem jelent automatikus teljes távolléti díjat minden esetben. A tévedés az automatikus díjazás feltételezéséből ered."
+        },
+        {
+          "text": "A mentesülés a munkaviszony szünetelése, ezért a szabadságra jogosító időbe nem számít bele.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a mentesülés nem a munkaviszony szünetelése, és a 115. § (2) bekezdés f) pontja e tartamot beleszámítja. Az Mt. 115. § (2) bekezdés f) pontja az 55. § (1) bekezdés a)–n) pontját és az (5) bekezdést a szabadságra jogosító munkában töltött időbe sorolja. A helyes: a mentesülés a szabadságra jogosultságot nem csökkenti. A tévedés a szünetelés és a mentesülés összekeveréséből ered."
+        },
+        {
+          "text": "A megtagadás és a mentesülés joghatása azonos, mert mindkettő felmenti a munkavállalót a munkavégzés alól.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a rendelkezésre állás sorsa elválasztja a két alakzatot. Az Mt. 54. § (3) bekezdése a megtagadás után is rendelkezésre állást követel; az 55. § mindkét főkötelezettséget együtt oldja fel. A helyes: a joghatás nem azonos. A tévedés a munkavégzés feloldásának a rendelkezésre állásra történő kiterjesztéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 40,
+      "sourceHash": "bd6ec56e7c41"
+    },
+    {
+      "question": "A várandós állapotra tekintettel előírt orvosi vizsgálat hogyan illeszkedik a mentesülésbe és a díjazásba?",
+      "options": [
+        {
+          "text": "A várandós állapotra tekintettel előírt vizsgálat csak akkor mentesít, ha a munkáltató egyedi utasításban elrendeli.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kötelező jelleg a munkaviszonyra vonatkozó szabály előírásához kötött. Az Mt. 294. § (1) bekezdés d) pontja a részvételt szabályi előíráshoz köti, ideértve a várandós állapotra tekintettel előírt vizsgálatot. A helyes: az egyedi utasítás önmagában nem teszi a vizsgálatot a c) pont szerinti kötelező orvosi vizsgálattá. A csapda az egyedi utasítás és a munkaviszonyra vonatkozó szabályi előírás azonosítása."
+        },
+        {
+          "text": "A várandós vizsgálat a 60. § szerinti felmentéssel azonos, ezért alapbér jár rá.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a c) pont szerinti mentesülés távolléti díjas, a 60. § felmentése más intézmény. Az Mt. 55. § (1) bekezdés c) pontja és a 146. § (1) bekezdés b) pontja a kötelező orvosi vizsgálatra távolléti díjat rendel; a 60. § a felajánlás sikertelensége utáni felmentésre alapbért. A helyes: a két jogintézmény nem azonos. A tévedés a várandóssághoz kapcsolódó intézmények összevonásából ered."
+        },
+        {
+          "text": "E tartamra a 146. § (1) bekezdés b) pontja szerint távolléti díj jár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötelező orvosi vizsgálat a 146. § (1) bekezdés b) pontjának díjazott esetei közé tartozik. Az Mt. 146. § (1) bekezdés b) pontja szerinti távolléti díj az 55. § (1) bekezdés c)–g), j) és m) pontjához kapcsolódik. A várandós állapotra tekintettel előírt vizsgálat tehát mentesítést és díjazást is ad. Ez elválik a 60. § szerinti felmentéstől, ahol alapbér jár."
+        },
+        {
+          "text": "A várandós állapotra tekintettel előírt orvosi vizsgálat a 294. § (1) bekezdés d) pontja szerint kötelező orvosi vizsgálat, ezért az 55. § (1) bekezdés c) pontja szerint mentesülést ad.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a várandós állapotra tekintettel előírt vizsgálat a törvényi fogalomba esik. Az Mt. 294. § (1) bekezdés d) pontja szerint kötelező orvosi vizsgálat az, amelyen a munkavállalónak munkaviszonyra vonatkozó szabály előírása alapján részt kell vennie, ideértve a várandós állapotra tekintettel előírt orvosi vizsgálatot is. Ez tölti meg az 55. § (1) bekezdés c) pontját. A kötelező jelleg a szabályi előíráshoz, nem az egyedi utasításhoz kötött."
+        }
+      ],
+      "sourceKerdesSorszam": 41,
+      "sourceHash": "3dbccc475f64"
+    },
+    {
+      "question": "Mi következik abból, ha a munkaviszonyra vonatkozó szabályba ütköző utasítást kap a munkavállaló?",
+      "options": [
+        {
+          "text": "A munkavállaló megtagadhatja az utasítás teljesítését; a jogszerűtlen utasítás megtagadása alanyi jog, nem kötelesség.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a szabályba ütközés a (2) bekezdés jogosultsági tényállása. Az Mt. 54. § (2) bekezdése szerint a munkavállaló megtagadhatja az utasítást, ha annak végrehajtása munkaviszonyra vonatkozó szabályba ütközik. A teljesítés nem válik tilossá, csak megtagadhatóvá. A kötelező megtagadás az (1) bekezdés veszélyeztetési tényállásaihoz kötött."
+        },
+        {
+          "text": "A szabályba ütköző utasítás megtagadása után a munkavállaló mentesül a rendelkezésre állás alól is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 54. § (3) bekezdése a rendelkezésre állást főszabály szerint fenntartja. Az Mt. 54. § (3) bekezdése a megtagadás esetén is rendelkezésre állást követel, kivéve ha maga a rendelkezésre állás idejére vonatkozó utasítás a megtagadás tárgya. A helyes: a rendelkezésre állás és a megtagadott végrehajtás elválik. A tévedés a megtagadás és az 55. § mentesülésének összekeveréséből ered."
+        },
+        {
+          "text": "A megtagadás után a munkavállaló főszabály szerint továbbra is köteles rendelkezésre állni, és e tartamra távolléti díj illeti meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a jogosultsági megtagadás sem oldja fel automatikusan a rendelkezésre állást. Az Mt. 54. § (3) bekezdése a rendelkezésre állást a megtagadás ellenére is fenntartja, a rendelkezésre állás idejére vonatkozó utasítás kivételével. A 146. § (1) bekezdés e) pontja e fenntartott rendelkezésre álláshoz távolléti díjat köt. A megtagadás nem menti fel a többi, jogszerű utasítás teljesítése alól."
+        },
+        {
+          "text": "A munkaviszonyra vonatkozó szabályba ütközés kötelező megtagadást indít, mint a környezet veszélyeztetése.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a szabályba ütközés jogosultsági, nem kötelező ok. Az Mt. 54. § (2) bekezdése „megtagadhatja” fordulatot használ; az (1) bekezdés „köteles megtagadni” fordulata a más személyt és a környezetet védi. A helyes: a jogszerűtlen utasítás megtagadása alanyi jog. A tévedés a két bekezdés modalitásának felcseréléséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 42,
+      "sourceHash": "aa7eb7056628"
+    },
+    {
+      "question": "A betegszabadság és a további keresőképtelenség díjazása hogyan kapcsolódik az a) pont mentesüléséhez?",
+      "options": [
+        {
+          "text": "A keresőképtelenség teljes tartamára a 146. § (1) bekezdés b) pontja szerint teljes távolléti díj jár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az a) pont a b) pont listájáról kimarad; a betegszabadságra a (3) bekezdés 70%-ot rendel. Az Mt. 146. § (1) bekezdés b) pontja a c)–g), j) és m) pontot díjazza. A helyes: teljes távolléti díj e körben a b) pont szerint nem jár. A tévedés a teljes díjazás feltételezéséből ered."
+        },
+        {
+          "text": "A további keresőképtelenség díjazása a társadalombiztosítási ellátás rendjébe esik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a betegszabadság után a TB-ellátás veszi át a díjazást. Az Mt. 55. § (1) bekezdés a) pontja a keresőképtelenség tartamára mentesít; a 146. § (1) bekezdés b) pontja e pontot nem díjazza. A további keresőképtelenség a társadalombiztosítási ellátás rendjébe esik. A mentesülés és a díjazás tehát végig szétválik."
+        },
+        {
+          "text": "A betegszabadság tartamára a munkavállaló a távolléti díj hetven százalékára jogosult; ez a keresőképtelenség első, az a) ponthoz kapcsolódó díjazási sávja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (3) bekezdés a betegszabadságra a 70%-os sávot adja. Betegszabadság alatt a munkavállalót a 146. § (3) bekezdése szerint a távolléti díj hetven százaléka illeti meg. A b) pont szerinti távolléti díj az a) pont mentesülésére nem terjed ki. A mentesülés az a) pont alapján megvan, a díjazás e külön sávban jelenik meg."
+        },
+        {
+          "text": "A betegszabadság tartamára a teljes távolléti díj és a táppénz egymás mellett jár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a betegszabadságra nem a teljes távolléti díj jár táppénzzel együtt. Betegszabadság alatt a munkavállalót a 146. § (3) bekezdése szerint a távolléti díj hetven százaléka illeti meg. A helyes: a (3) bekezdés 70%-os sávja érvényesül, nem a teljes összeg és a táppénz kumulációja. A tévedés a kettős ellátás feltételezéséből ered."
+        }
+      ],
+      "sourceKerdesSorszam": 43,
+      "sourceHash": "86e0f071e4e2"
+    },
+    {
+      "question": "A munkaszerződés hogyan térhet el az 55. § (1) bekezdésétől a 43. § tükrében?",
+      "options": [
+        {
+          "text": "Egyedi megállapodással a kötelező megtagadás az 54. § (1) bekezdése szerint nem oltható fel; ezt a 57. § (1) bekezdés d) pontja zárja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a kötelező megtagadás abszolút kógens, a mentesülési katalógus relatív. Az Mt. 57. § (1) bekezdés d) pontja az 54. § (1) bekezdését a felek megállapodása elől is elzárja. Az 55. § (1) bekezdésétől a munkaszerződés a 43. § (1) bekezdése alapján a munkavállaló javára térhet el. A két intézmény eltérhetőségi rendje tehát aszimmetrikus."
+        },
+        {
+          "text": "A munkaszerződés az 54. § (1) bekezdését a munkavállaló javára feloldhatja, ha a kockázatot a munkáltató vállalja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kötelező megtagadás feloldhatatlan, a munkavállaló javára sem. Az Mt. 57. § (1) bekezdés d) pontja szerint a felek megállapodása az 54. § (1) bekezdésében foglaltaktól nem térhet el. A helyes: a más személyt és a környezetet védő kötelező megtagadás nem oltható fel. A tévedés a relatív kógencia szabályának az abszolút zárra történő ráírásából ered."
+        },
+        {
+          "text": "A munkaszerződés az 55. § (1) bekezdésének egyes pontjait a munkáltató javára elhagyhatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a javára-eltérés a munkavállaló javát szolgálja, a katalógus szűkítését nem. Az Mt. 43. § (1) bekezdése és a 57. § (2) bekezdése a munkavállaló javára engedi az eltérést. A helyes: a mentesülési okok elhagyása munkáltatói javára tilos. A tévedés az eltérés irányának felcseréléséből ered."
+        },
+        {
+          "text": "A munkaszerződés a 43. § (1) bekezdése alapján az 55. § (1) bekezdésétől a munkavállaló javára térhet el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a munkaszerződés a munkavállaló javára bővítheti a mentesülési katalógust. Az Mt. 43. § (1) bekezdése a munkaszerződésnek a munkavállaló javára engedi az eltérést. A 57. § (2) bekezdése ugyanezt a kollektív szerződésnek rögzíti az 55. § (1) bekezdésére. A katalógus tehát bővíthető, szűkíteni nem lehet."
+        }
+      ],
+      "sourceKerdesSorszam": 44,
+      "sourceHash": "f507a3aa2c7d"
+    },
+    {
+      "question": "Az apasági és a szülői szabadság díjazása hogyan viszonyul a 146. § (1) bekezdésének mentesülési díjazásához?",
+      "options": [
+        {
+          "text": "A szülői szabadság tartamára a teljes távolléti díj jár, beszámítás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az (5) bekezdés a távolléti díj tíz százalékát rendeli, meghatározott ellátások beszámításával. Az Mt. 146. § (5) bekezdése a 10%-os sávot és a gyermekgondozási díj, illetve a gyermekgondozást segítő ellátás csökkentő hatását írja elő. A helyes: nem a teljes távolléti díj jár. A tévedés a százalékos sáv és a beszámítás mellőzéséből ered."
+        },
+        {
+          "text": "A szülői szabadság tartamára a távolléti díj tíz százaléka jár, csökkentve a meghatározott gyermekgondozási ellátások összegével.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az (5) bekezdés a szülői szabadságra 10%-os sávot és beszámítást rendel. Az Mt. 146. § (5) bekezdése szerint a munkavállaló a szülői szabadság tartamára a távolléti díj tíz százalékára jogosult, amelyet csökkenteni kell az Ebtv. 42/A. § (1) bekezdése vagy 42/E. § (1) bekezdése szerinti gyermekgondozási díj, illetve a családok támogatásáról szóló törvény 20. § (1) bekezdése szerinti gyermekgondozást segítő ellátás összegével. Ez elválik az 55. § mentesülési katalógusának b) pont szerinti díjazásától."
+        },
+        {
+          "text": "Az apasági és a szülői szabadság díjazása az 55. § (1) bekezdés b) pontjának 146. § (1) bekezdés b) pontja szerinti listájába esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az apasági és a szülői szabadság a 146. § (4)–(5) bekezdésének önálló tényállása. Az Mt. 146. § (1) bekezdés b) pontja az 55. § (1) bekezdés c)–g), j) és m) pontját díjazza; a (4)–(5) bekezdés más jogcímeket rendez. A helyes: e két szabadság nem a mentesülési katalógus b) pontos listáján van. A tévedés a szabadság és a mentesülés díjazásának összevonásából ered."
+        },
+        {
+          "text": "Az apasági szabadság öt munkanapjára távolléti díj, a hatodik munkanapjától a távolléti díj negyven százaléka jár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a (4) bekezdés az apasági szabadságra külön sávot ad. Az Mt. 146. § (4) bekezdése szerint a munkavállaló az apasági szabadság öt munkanapjára távolléti díjra, a hatodik munkanapjától a távolléti díj negyven százalékára jogosult. Ez nem az 55. § (1) bekezdés b) pontjának listája, hanem önálló díjazási tényállás. A 148. § szerinti számítás itt is az esedékességkori alapbért, a pótlékátalányt, valamint az irányadó időszak teljesítménybérét és bérpótlékát veszi alapul."
+        }
+      ],
+      "sourceKerdesSorszam": 45,
+      "sourceHash": "e922439a6a6a"
+    },
+    {
+      "question": "A 294. § (1) bekezdés n) pontja szerinti gondozást végző munkavállaló fogalma hogyan viszonyul az l) pont mentesüléséhez?",
+      "options": [
+        {
+          "text": "Az l) pont mentesülése a 294. § (1) bekezdés n) pontja nélkül is jár, kezelőorvosi igazolás nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az 55. § (3) bekezdése a súlyos egészségi okot és a gondozás indokoltságát a gondozásra szoruló személy kezelőorvosának igazolásához köti. Az Mt. 55. § (3) bekezdése ezt az igazolást kötelezővé teszi. A helyes: kezelőorvosi igazolás nélkül az l) pont nem biztosítható. A tévedés az igazolási feltétel mellőzéséből ered."
+        },
+        {
+          "text": "A 294. § (1) bekezdés n) pontja csak a hozzátartozóra szól; a közös háztartásban élő személy kívül esik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az n) pont a közös háztartásban élő személyt is megnevezi. Az Mt. 294. § (1) bekezdés n) pontja a hozzátartozó vagy a munkavállalóval közös háztartásban élő személy gondozását, támogatását rögzíti. A helyes: az alanyi kör az l) ponttal összhangban tágabb a puszta hozzátartozónál. A tévedés a 294. § (1) bekezdés b) pontjának szűkebb fogalmára szorításból ered."
+        },
+        {
+          "text": "Az l) pont a személyes gondozás céljából ad mentesülést; a 65. § (3) bekezdés h) pontja e tartamra a munkáltatói felmondást zárja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a gondozási mentesülés felmondási védelmet is kap. Az Mt. 55. § (1) bekezdés l) pontja évente legfeljebb öt munkanapot rendel; a 65. § (3) bekezdés h) pontja a munkáltatói felmondást e tartam alatt zárja. A 146. § (1) bekezdés b) pontja az l) pontot nem díjazza. A védelem és a díjazás tehát szétválik."
+        },
+        {
+          "text": "Gondozást végző munkavállaló az, aki a kezelőorvos által igazolt súlyos egészségi okból és jelentős gondozásra vagy támogatásra szoruló hozzátartozójának vagy a közös háztartásban élő személynek személyes gondozást vagy támogatást nyújt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az n) pont értelmező rendelkezése a gondozás alanyi és tárgyi ismérveit adja. Az Mt. 294. § (1) bekezdés n) pontja a kezelőorvos által igazolt súlyos egészségi okot és a jelentős gondozásra vagy támogatásra szorulást köti a hozzátartozóhoz vagy a közös háztartásban élő személyhez. Az 55. § (1) bekezdés l) pontja e körben évente legfeljebb öt munkanapos mentesülést ad. A (3) bekezdés a kezelőorvosi igazolást az l) pont eljárásrendjében is megköveteli."
+        }
+      ],
+      "sourceKerdesSorszam": 46,
+      "sourceHash": "cd1d33b386e6"
+    }
+  ]
+}

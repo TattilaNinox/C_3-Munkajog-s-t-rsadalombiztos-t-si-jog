@@ -1,0 +1,765 @@
+{
+  "id": "xzRCL6zVvwCYFqsnFuMm",
+  "sorszam": 26,
+  "cim": "A munka díjazása, díjazás munkavégzés hiányában, a távolléti díj számítása.",
+  "generationType": "fogalom",
+  "title": "26. A munka díjazása, díjazás munkavégzés hiányában, a távolléti díj számítása.",
+  "questions": [
+    {
+      "question": "Mit jelent a munkabér fogalma az Mt. 12. § (2) bekezdése szerint az egyenlő bánásmód alkalmazásában?",
+      "options": [
+        {
+          "text": "Az alapbér, a pótlék és a távolléti díj egyaránt az Mt. 12. § (2) bekezdése szerinti munkabérnek minősül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 12. § a XII. fejezet küszöbe: az alapbér, a pótlék és a távolléti díj mind a (2) bekezdés szerinti munkabér. A munkabér a munkaviszony főszolgáltatásának ellenértéke, nem szociális juttatás és nem kártérítés. A 12. § (1)–(2) bekezdése e tág fogalmat az egyenlő bánásmód követelményéhez köti."
+        },
+        {
+          "text": "A munkabér fogalmába tartozik minden, a munkaviszony alapján közvetlenül vagy közvetve nyújtott pénzbeli és természetbeni juttatás.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 12. § (2) bekezdése szerint: „Munkabérnek minősül az (1) bekezdés alkalmazásában minden, a munkaviszony alapján közvetlenül vagy közvetve nyújtott pénzbeli és természetbeni juttatás.” A tág fogalom a díjazási vita teljes spektrumára kiterjed, nem csupán a szerződéses alapbérre. E küszöbön áll az alapbér, a pótlék és a távolléti díj is mint munkabér. A XII. fejezet mindhárom díjazási síkja e fogalmi keret alá esik."
+        },
+        {
+          "text": "A munkabér fogalmába csak a szerződésben rögzített alapbér és a kötelező legkisebb munkabér tartozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állítás a tág fogalmat a szerződéses alapbérre szűkíti. Az Mt. 12. § (2) bekezdése szerint munkabér minden, a munkaviszony alapján közvetlenül vagy közvetve nyújtott pénzbeli és természetbeni juttatás. A pótlék és a távolléti díj is e körbe tartozik, nem csak a 136. § szerinti alapbér vagy a 153. § szerinti minimum."
+        },
+        {
+          "text": "A munkabér kizárólag szociális juttatás és kártérítés együttes elnevezése a munkaviszonyban.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a munkabér a munkaviszony főszolgáltatásának ellenértéke, nem szociális juttatás és nem kártérítés. Az Mt. 12. § (2) bekezdése a pénzbeli és természetbeni juttatások tág körét sorolja a munkabér fogalmába. A XII. fejezet első síkja a munkavégzésért járó díjazás, második a munkavégzés nélküli díjazás, harmadik a számítási rend."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "e28f29d68eb5"
+    },
+    {
+      "question": "Mit követel meg az Mt. 12. § (1) bekezdése a munka díjazásával kapcsolatban?",
+      "options": [
+        {
+          "text": "Az egyenlő bánásmód megsértésének orvoslása nem járhat más munkavállaló jogának megsértésével vagy csorbításával.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 12. § (1) bekezdésének második mondata szerint a felzárkóztatás nem a magasabb bér csökkentése. Az orvoslás tehát nem csorbíthatja más munkavállaló jogát. A (2) bekezdés a munkabért a díjazási vita teljes spektrumára kiterjeszti, a (3) bekezdés az egyenlő érték ismérveit adja."
+        },
+        {
+          "text": "Az Mt. 12. § (1) bekezdése csak a közszolgálati jogviszonyokra vonatkozik, a magánmunkaviszonyra nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 12. § (1) bekezdése a munkaviszonnyal, így különösen a munka díjazásával kapcsolatban írja elő az egyenlő bánásmódot. A magánmunkajogi munkaviszonyra vonatkozik, nem a Kit. szerinti kormányzati szolgálatra. A XII. fejezet küszöbeként az alapbér, pótlék és távolléti díj vitáiban is irányadó."
+        },
+        {
+          "text": "A munkaviszonnyal, így különösen a munka díjazásával kapcsolatban meg kell tartani az egyenlő bánásmód követelményét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 12. § (1) bekezdése szerint: „A munkaviszonnyal, így különösen a munka díjazásával kapcsolatban az egyenlő bánásmód követelményét meg kell tartani.” A követelmény nem puszta programmondat, hanem a díjazásra is kötött kötelezettség. A sérelem orvoslása nem járhat más munkavállaló jogának megsértésével vagy csorbításával. A (2) bekezdés a munkabért a díjazási vita teljes spektrumára kiterjeszti."
+        },
+        {
+          "text": "Az egyenlő bánásmód orvoslása a magasabb bérű munkavállaló díjazásának csökkentésével is történhet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 12. § (1) bekezdése szerint a követelmény megsértésének orvoslása nem járhat más munkavállaló jogának megsértésével vagy csorbításával. A felzárkóztatás nem a magasabb bér csökkentése. A helyes út a hátrányos helyzetű munkavállaló díjazásának felemelése, nem a magasabb bérűé csökkentése."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "8dfc96e79dd0"
+    },
+    {
+      "question": "Milyen ismérveket kell figyelembe venni a munka egyenlő értékének megállapításánál az Mt. 12. § (3) bekezdése szerint?",
+      "options": [
+        {
+          "text": "Különösen a munka természetét, minőségét, mennyiségét, a munkakörülményeket, a szükséges szakképzettséget, az erőfeszítést, a tapasztalatot, a felelősséget és a munkaerő-piaci viszonyokat kell figyelembe venni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 12. § (3) bekezdése nyitott, példálódzó listában adja ezeket az ismérveket. A lista a munka természetétől a munkaerő-piaci viszonyokig terjed, és nem merül ki a munkakör megnevezésében. A C-624/19. aránya szerint a minőség a ténylegesen végzett munka jellegéhez kötődik, a hazai (3) bekezdés pedig nemzeti ismérvkészlettel tölti ki."
+        },
+        {
+          "text": "A C-624/19. szerint az egyenlő érték minősége a ténylegesen végzett munka jellegéhez kötődik, a 12. § (3) bekezdése pedig nemzeti ismérvekkel tölti ki a mércét.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-624/19. K és társai ítélet a tényleges munka jellegének minőségi vizsgálatához köti az egyenlő értéket. Az Mt. 12. § (3) bekezdése a minőségi mércét nemzeti ismérvekkel — természet, minőség, mennyiség, körülmények, szakképzettség, erőfeszítés, tapasztalat, felelősség, munkaerő-piaci viszonyok — tölti ki. A 157. cikk közvetlen hatálya mellett áll ez a nemzeti lista."
+        },
+        {
+          "text": "Az egyenlő érték megállapításánál csak a munkáltató belátása és a szerződéses bérhatár irányadó.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 12. § (3) bekezdése taxált, példálódzó tartalmi szempontokat ír elő, nem a munkáltatói belátást. A munka természetét, minőségét, mennyiségét, a munkakörülményeket, a szakképzettséget, az erőfeszítést, a tapasztalatot, a felelősséget és a munkaerő-piaci viszonyokat kell figyelembe venni. A szerződéses bérhatár önmagában nem helyettesíti ezt a mércét."
+        },
+        {
+          "text": "Az egyenlő érték kizárólag a munkakör megnevezésének azonosságán múlik, tartalmi vizsgálat nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 12. § (3) bekezdése tartalmi ismérveket — a munka természetét, minőségét, mennyiségét, a munkakörülményeket, a szakképzettséget, az erőfeszítést, a tapasztalatot, a felelősséget és a munkaerő-piaci viszonyokat — rendel figyelembe venni. A C-624/19. is a ténylegesen végzett munka jellegének minőségi vizsgálatát várja el, nem a megnevezés azonosságát. A munkakör elnevezésének egyezése önmagában nem elég az egyenlő érték megállapításához."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "6d6e7dbabd67"
+    },
+    {
+      "question": "Mit állapít meg a C-624/19. K és társai ítélet az EUMSZ 157. cikk közvetlen hatályáról?",
+      "options": [
+        {
+          "text": "A 157. cikk csak a közigazgatási szervekre hatályos, magánmunkáltatóra és magánjogviszonyokra nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a C-624/19. kifejezetten a magánszemélyek közötti jogvitákban állapítja meg az EUMSZ 157. cikk közvetlen hatályát. A Tesco-ügy magánmunkáltatói viszonyokra vonatkozott, nem közigazgatási szervekre. A horizontális hatály az egyenlő vagy egyenlő értékű munkáért járó egyenlő díjazás elvéhez kötődik."
+        },
+        {
+          "text": "A 157. cikk közvetlen hatálya csak az „egyenlő munka” helyzetére korlátozódik, az egyenlő értékű munkára nem terjed ki.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a C-624/19. K és társai ítélet szerint a 157. cikk közvetlen hatálya nem szűkíthető az „egyenlő munka” esetére. A rendelkező rész az egyenlő értékű munkáért járó egyenlő díjazás elvének megsértésére hivatkozó magánjogi jogvitákra is megállapítja a közvetlen hatályt. A tényleges egyenlő érték megállapítása a nemzeti bíróság minőségi vizsgálata."
+        },
+        {
+          "text": "Ha a díjazási feltételek egyetlen forrásból erednek, a különböző telephelyeken végzett, egyenlő értékű munka is összehasonlítható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-624/19. szerint, ha a díjazási feltételek egyetlen forrásból — például a munkáltatói minőségből — erednek, a különböző létesítmények nem zárják ki az összehasonlítást. A Watford Employment Tribunal előzetes döntést kért a Tesco üzleteiben és elosztóközpontjaiban dolgozók díjazásának összevetéséről. A Bíróság a 157. cikk szövegéből és a Defrenne–Brunnhofer–Cadman vonalból vonta le a horizontális hatályt."
+        },
+        {
+          "text": "A 157. cikk közvetlen hatállyal rendelkezik a magánszemélyek közötti jogvitákban is, ha az egyenlő értékű munkáért járó egyenlő díjazás elvének megsértésére hivatkoznak.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-624/19. rendelkező része szerint az EUMSZ 157. cikket úgy kell értelmezni, hogy az közvetlen hatállyal rendelkezik a magánszemélyek közötti olyan jogvitákban, amelyekben a férfi és női munkavállalók egyenlő értékű munkáért való egyenlő díjazása elvének megsértésére hivatkoznak. A közvetlen hatály tehát nem szűkíthető az „egyenlő munka” helyzetére. A tényleges egyenlő érték megállapítása a nemzeti bíróság feladata."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "bcc4ca0f5b65"
+    },
+    {
+      "question": "Mit jelent az alapbér az Mt. 136. § szerint a szerződéses díjazás kógens magjaként?",
+      "options": [
+        {
+          "text": "Az alapbért időbérben kell megállapítani; tiszta teljesítménybérrel az alapbér nem helyettesíthető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 136. § (2) bekezdése szerint az alapbért időbérben kell megállapítani. A tiszta teljesítménybér tehát nem helyettesítheti az alapbért. A 165. § (1) bekezdés a) pontja e (2) bekezdéstől is elzárja az eltérést, a (3) bekezdéstől pedig a kollektív szerződés csak a munkavállaló javára térhet el."
+        },
+        {
+          "text": "Alapbérként legalább a 153. § (1) bekezdése szerinti munkabért — a kötelező legkisebb munkabért vagy a garantált bérminimumot — kell meghatározni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 136. § (1) bekezdése szerint: „Alapbérként legalább a 153. § (1) bekezdése szerinti munkabért kell meghatározni.” A szerződéses díjazás alsó határa tehát a kötelező legkisebb munkabér vagy a garantált bérminimum. A 165. § (1) bekezdés a) pontja az (1)–(2) bekezdéstől az eltérést elzárja. A 573/2022. (XII. 23.) Korm. rendelet tölti ki a 153. § (1) bekezdés szerinti felhatalmazást."
+        },
+        {
+          "text": "A havi alapbér órára vetítése mindig a bérpótlék százhetvennégy órás osztójával történik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 136. § (3) bekezdése a havi alapbér meghatározott időszakra járó részét az általános munkarend szerinti órákra vetíti. A bérpótlék számítási alapjánál a 139. § (3) bekezdése tér el ettől: ott százhetvennégy órával, illetve annak arányos részével kell osztani. A két osztó tehát nem azonos. A pótlék fix osztón nyugszik, nem a havi általános munkarend szerinti óraszámon."
+        },
+        {
+          "text": "Az alapbér megállapítható kizárólag teljesítménybérként, külön munkaszerződéses kikötés nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 136. § (2) bekezdése szerint az alapbért időbérben kell megállapítani, tiszta teljesítménybérrel nem helyettesíthető. A kizárólagos teljesítménybér a 137. § (3) bekezdése szerint csak munkaszerződésbe foglalt megállapodással engedhető. A 165. § (1) bekezdés a) pontja a 136. § (1)–(2) bekezdésétől az eltérést elzárja."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "35bd5dcce977"
+    },
+    {
+      "question": "Mikor és hogyan állapítható meg a munkabér teljesítménybérként az Mt. 137. § szerint?",
+      "options": [
+        {
+          "text": "A kizárólag teljesítménybérrel díjazott munkavállalónál nem kötelező garantált bért megállapítani.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 138. § (6) bekezdése szerint a kizárólag teljesítménybérrel díjazott munkavállaló esetén legalább az alapbér felét elérő garantált bér megállapítása kötelező. A 165. § (2) bekezdés b) pontja e (6) bekezdéstől a kollektív szerződésnek csak a munkavállaló javára enged eltérést. Az (5) bekezdés a százszázalékos teljesítésnél a 153. § (1) szerinti mértéket is megköveteli."
+        },
+        {
+          "text": "A munkabért kizárólag teljesítménybér formájában meghatározni csak a munkaszerződésbe foglalt megállapodás esetén lehet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 137. § (3) bekezdése szerint: „A munkabért kizárólag teljesítménybér formájában meghatározni csak a munkaszerződésbe foglalt megállapodás esetén lehet.” Ugyanez irányadó a vegyes díjazásra, ha az időbér nem éri el az alapbér összegét. A 165. § (1) bekezdés b) pontja e (3) bekezdéstől az eltérést elzárja. A 138. § (6) bekezdése a kizárólagos teljesítménybérhez legalább az alapbér felét elérő garantált bért is kötelezővé teszi."
+        },
+        {
+          "text": "A teljesítménykövetelmény a munkáltató belátása szerint bármikor, utólag is meghatározható írásbeli közlés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 138. § (1) bekezdése előzetes, objektív mérésen és számításon alapuló eljárást követel, a rendes munkaidőben történő százszázalékos teljesíthetőség vizsgálatával. A (4) bekezdés a követelményt és a teljesítménybér-tényezőt alkalmazás előtt írásban közölteti. A (3) bekezdés a vitában a munkáltatóra telepíti a bizonyítási terhet."
+        },
+        {
+          "text": "A munkáltató a munkabért teljesítménybérként vagy idő- és teljesítménybér összekapcsolásával is megállapíthatja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 137. § (1) bekezdése a munkáltatónak engedi a teljesítménybért vagy az idő- és teljesítménybér összekapcsolását. A teljesítménybér nem az időbér ellenpárja, hanem kiegészítő vagy — szűk feltétellel — önálló forma. A (2) bekezdés a teljesítménybért a kizárólag a munkavállaló számára előre meghatározott teljesítménykövetelményhez köti."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "57e1f9208428"
+    },
+    {
+      "question": "Mit jelent a bérpótlék kiegészítő jellege és számítási alapja az Mt. 139. § szerint?",
+      "options": [
+        {
+          "text": "A bérpótlék a munkavállalót a rendes munkaidőre járó munkabérén felül illeti meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 139. § (1) bekezdése szerint: „A bérpótlék a munkavállalót a rendes munkaidőre járó munkabérén felül illeti meg.” A pótlék tehát kiegészítő ellenérték, nem a rendes munkabér helyettesítője. A 165. § (1) bekezdés d) pontja e mondattól az eltérést elzárja. A (2) bekezdés a számítási alapot — eltérő megállapodás hiányában — az egy órára járó alapbérhez köti."
+        },
+        {
+          "text": "A bérpótlék a rendes munkaidőre járó munkabér helyébe lép, és attól a felek szabadon eltérhetnek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 139. § (1) bekezdése szerint a bérpótlék a rendes munkaidőre járó munkabéren felül illeti meg a munkavállalót. A 165. § (1) bekezdés d) pontja e kiegészítő jellemtől az eltérést elzárja. A pótlék tehát nem helyettesíti a rendes munkabért, és a felek megállapodása sem törölheti e kógens magot."
+        },
+        {
+          "text": "A pótlék számítási alapjánál a havi alapbért mindig az általános munkarend szerinti óraszámmal kell osztani.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 139. § (3) bekezdése a 136. § (3) bekezdésétől eltérően százhetvennégy órával, illetve annak arányos részével oszt. A pótlék tehát nem a havi általános munkarend szerinti óraszámon, hanem e fix osztón nyugszik. A 136. § (3) bekezdése az alapbér időarányos részére irányadó, nem a pótlék alapjára."
+        },
+        {
+          "text": "A bérpótlék számítási alapja — eltérő megállapodás hiányában — a munkavállaló egy órára járó alapbére; a havi alapbért százhetvennégy órával kell osztani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 139. § (2) bekezdése az egy órára járó alapbérhez köti a számítási alapot, eltérő megállapodás hiányában. A (3) bekezdés a havi alapbér órára vetítését a 136. § (3) bekezdésétől eltérően százhetvennégy órával, rész- vagy eltérő teljes napi munkaidőnél annak arányos részével végzi. A pótlék tehát fix osztón nyugszik, nem a havi általános munkarend szerinti óraszámon."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "e2ccf7bf6f70"
+    },
+    {
+      "question": "Mi a különbség a távolléti díj és az állásidő díjazása között az Mt. 146–147. § szerint?",
+      "options": [
+        {
+          "text": "Az állásidő díjazása mindig a 148–152. § szerinti távolléti díj átlagával történik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az állásidő nem távolléti díj: az Mt. 147. § (1)–(2) bekezdése szerint alapbér és — ha a beosztás alapján járna — bérpótlék a mérce. A 148–152. § szerinti átlag a távolléti díj számítására szolgál. A 146. § (1) bekezdés f) pontja akkor lép be, ha más szabály díjazást ír elő mérték nélkül; a 147. § saját mértéket ad."
+        },
+        {
+          "text": "Állásidőnél, ha a munkaidő-beosztás alapján bérpótlék járna, az alapbéren felül a bérpótlék is megilleti a munkavállalót.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 147. § (2) bekezdése a beosztás alapján járó bérpótlékot az alapbéren felül is megadja. A műszak- vagy éjszakai sávba eső állásidő tehát nem veszíti el a pótlékot. A távolléti díj számítása ezzel szemben a 148–152. § szerinti összetett átlag, nem pusztán az alapbér."
+        },
+        {
+          "text": "Állásidőnél a munkáltató foglalkoztatási kötelezettségének megszegése esetén sem jár díjazás, ha van elháríthatatlan külső ok, és pótlék soha nem jár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 147. § (1) bekezdése valóban kivételként kezeli az elháríthatatlan külső okot az alapbér alól. A (2) bekezdés szerint viszont, ha a beosztás alapján bérpótlék járna, az alapbéren felül a pótlék is megilleti a munkavállalót. A pótlék tehát nem „soha” nem jár. A műszak- vagy éjszakai sávba eső állásidő megtartja a pótlékot."
+        },
+        {
+          "text": "A 146. § a távolléti díj alanyi jogcímeit adja — például a szabadság tartamára —, míg a 147. § az állásidőre alapbért rendel, elháríthatatlan külső ok kivételével.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 146. § (1) bekezdés a) pontja a szabadság tartamára távolléti díjat ad, további pontok pedig taxált mentesülési és egyéb eseteket sorolnak. Az Mt. 147. § (1) bekezdése szerint, ha a munkáltató foglalkoztatási kötelezettségének nem tesz eleget (állásidő) — az elháríthatatlan külső okot kivéve — alapbér illeti meg a munkavállalót. Az állásidő nem távolléti díj: számítási alapja az alapbér és a beosztás szerinti pótlék."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "72e9baf38403"
+    },
+    {
+      "question": "Mikor jár vasárnapi és munkaszüneti napi bérpótlék az Mt. 140. § szerint?",
+      "options": [
+        {
+          "text": "Vasárnapi munkavégzésre minden munkavállalónak automatikusan ötven százalék pótlék jár, feltétel nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 140. § (1) bekezdése a vasárnapi pótlékot a 101. § (1) bekezdés d), e) vagy i) pontjához, illetve a rendkívüli munkaidő taxált eseteihez köti. Nem általános vasárnapi díj minden munkavállalónak. A munkaszüneti napi száz százalék a (2)–(3) bekezdés szerinti külön cím. Az ötven százalék tehát feltételhez kötött, nem automatikus."
+        },
+        {
+          "text": "Munkaszüneti napi munkavégzésre csak ötven százalék pótlék jár, a száz százalékos mérték kizárólag a vasárnapra vonatkozik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 140. § (2) bekezdése szerint munkaszüneti napon száz százalék bérpótlék illeti meg a munkavállalót. A vasárnapi pótlék mértéke az (1) bekezdés szerint ötven százalék, feltételes körben. A (3) bekezdés a húsvét- és pünkösdvasárnapot, valamint a vasárnapra eső munkaszüneti napot is a száz százalékos körbe vonja."
+        },
+        {
+          "text": "Munkaszüneti napon történő munkavégzés esetén száz százalék bérpótlék illeti meg a munkavállalót; ugyanez jár húsvét- vagy pünkösdvasárnapra, illetve a vasárnapra eső munkaszüneti napra.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 140. § (2) bekezdése munkaszüneti napon száz százalékot ad. A (3) bekezdés ugyanezt a száz százalékot rendeli húsvét- vagy pünkösdvasárnapra, illetve a vasárnapra eső munkaszüneti napra. A 145. § (1) bekezdése e pótlékot is magában foglaló alapbért engedhet."
+        },
+        {
+          "text": "Vasárnapi munkavégzés esetén ötven százalék bérpótlék jár, ha a rendes munkaidőben a foglalkoztatás kizárólag a 101. § (1) bekezdés d), e) vagy i) pontja alapján kötelezhető, továbbá meghatározott rendkívüli munkaidős esetekben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 140. § (1) bekezdése ötven százalék vasárnapi pótlékot csak e feltételes körben ad. A pótlék nem általános vasárnapi díj minden vasárnapi munkára. Az (1) bekezdés b) pontja a rendkívüli munkaidőre is kiterjeszti az a) pontbeli, illetve a 101. § (1) alapján rendes munkaidőben nem kötelezhető munkavállalóra."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "441b3113dbdf"
+    },
+    {
+      "question": "Mikor jár műszakpótlék az Mt. 141. § szerint, és mi a rendszeresség kettős ismérve?",
+      "options": [
+        {
+          "text": "A rendszerességhez elég, ha a kezdés havonta egyszer eltér, a négyórás különbség nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 141. § (2) bekezdése szerint a változást akkor kell rendszeresnek tekinteni, ha havonta a beosztás szerinti napi munkaidő kezdete a munkanapok legalább egyharmada esetében eltér, valamint a legkorábbi és a legkésőbbi kezdési időpont között legalább négy óra eltérés van. Egyetlen nap eltérése tehát nem elég a rendszerességhez. A két ismérv konjunktív feltétel. Az (1) bekezdés a harminc százalékot emellett a tizennyolc és hat óra közötti munkavégzéshez is köti."
+        },
+        {
+          "text": "A változás rendszeres, ha havonta a munkanapok legalább egyharmadán eltér a kezdés, és a legkorábbi és a legkésőbbi kezdés között legalább négy óra a különbség.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 141. § (2) bekezdése a rendszerességet e kettős ismérvhez köti. Az egyharmados arány és a legalább négyórás kezdéskülönbség együtt kell. A 151. § (3) bekezdése a műszakpótlékot a távolléti díjba akkor viszi, ha az irányadó időszakban a beosztás szerinti munkaidő legalább harminc százaléka pótlékra jogosító sávban telt."
+        },
+        {
+          "text": "Műszakpótlék jár minden tizennyolc és hat óra közötti munkavégzésre, a kezdés változása nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 141. § (1) bekezdése a rendszeresen változó kezdéshez és a tizennyolc–hat óra közötti munkavégzéshez egyaránt köti a műszakpótlékot. A kezdés változása nélkül a cím nem nyílik meg; ilyenkor a 142. § szerinti éjszakai pótlék jöhet szóba, ha annak feltételei fennállnak. A (2) bekezdés a rendszeresség kettős ismérvét adja."
+        },
+        {
+          "text": "Harminc százalék műszakpótlék jár, ha a beosztás szerinti napi munkaidő kezdete rendszeresen változik, és a munkavégzés tizennyolc és hat óra között történik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 141. § (1) bekezdése szerint: a változó kezdésű beosztáshoz kötött, harminc százalékos pótlék akkor jár, ha a beosztás szerinti napi munkaidő kezdete rendszeresen változik, és a munkavégzés tizennyolc és hat óra között történik. A pótlék tehát két feltétel konjunkciója. A 142. § a műszakpótlékra jogosultat az éjszakai pótlék alól kiveszi."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "26a45a2de318"
+    },
+    {
+      "question": "Mikor jár éjszakai pótlék az Mt. 142. § szerint, és hogyan viszonyul a műszakpótlékhoz?",
+      "options": [
+        {
+          "text": "Éjszakai pótlék csak akkor jár, ha a munkavállaló egyidejűleg műszakpótlékra is jogosult.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 142. § fordítva rendelkezik: a műszakpótlékra jogosult munkavállaló kivételével jár az éjszakai pótlék. A műszakpótlékra jogosultság tehát kizáró ok, nem feltétel. A tizenöt százalékos mérték és az egyórás tartami küszöb a 142. § szövegéből következik."
+        },
+        {
+          "text": "Éjszakai munkavégzés esetén — a műszakpótlékra jogosult munkavállaló kivételével — tizenöt százalék bérpótlék jár, ha a tartam az egy órát meghaladja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 142. § szerint a munkavállalónak — a műszakpótlékra jogosult munkavállalót kivéve — éjszakai munkavégzés esetén, ha ennek tartama az egy órát meghaladja, tizenöt százalék bérpótlék jár. A két cím nem halmozódik. A tartami küszöb az egy óra; a rövidebb éjszakai szakasz a cím alatt nem díjazott. A 151. § (3) bekezdése a távolléti díjba emeléshez külön harminc százalékos tartami küszöböt állít."
+        },
+        {
+          "text": "A 139. § szerinti alap és a 145. § szerinti magában foglaló alapbér, illetve átalány az éjszakai pótlékra is irányadó.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 139. § szerinti számítási alap és a 145. § szerinti beépítés, illetve átalány e pótlékra is vonatkozik. A 151. § (3) bekezdése az éjszakai pótlékot a műszakpótlékkal azonos harminc százalékos tartami küszöbhöz köti a távolléti díj számításánál. A műszakpótlékra jogosultnál viszont a 142. § kivételként zárja ki az éjszakai címet."
+        },
+        {
+          "text": "Az éjszakai pótlék a műszakpótlékkal együtt is jár, és már félórás éjszakai szakaszra is megnyílik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 142. § a műszakpótlékra jogosultat kivonja az éjszakai pótlék alól, a két cím nem halmozódik. A küszöb az egyórás tartam; a rövidebb éjszakai szakasz a cím alatt nem díjazott. A 141. § szerinti műszakpótlék és a 142. § szerinti éjszakai pótlék tehát egymást kizáró jogosulti körben áll."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "3cd5cdd239b8"
+    },
+    {
+      "question": "Milyen ellenérték jár a rendkívüli munkaidőre az Mt. 143. § szerint?",
+      "options": [
+        {
+          "text": "Rendkívüli munkaidőre mindig csak szabadidő jár, bérpótlék soha nem választható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 143. § (2) bekezdése ötven százalék bérpótlékot vagy — munkaviszonyra vonatkozó szabály vagy a felek megállapodása alapján — szabadidőt ad. A pótlék tehát elsődleges lehetőség, a szabadidő feltételes alternatíva. Az (1) bekezdés szerint az ellenérték a rendes munkaidőre járó munkabéren felül jár."
+        },
+        {
+          "text": "Heti pihenőnapra elrendelt rendkívüli munkaidőre legfeljebb ötven százalék pótlék jár, másik pihenőnap biztosítása nélkül is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 143. § (4) bekezdése szerint a heti pihenőnapra elrendelt rendkívüli munkaidőben száz százalék bérpótlék jár. A mérték csak akkor ötven százalék, ha a munkáltató másik heti pihenőnapot (heti pihenőidőt) biztosít. A másik pihenőnap nélküli ötven százalékos olvasat a főszabályt fordítja meg."
+        },
+        {
+          "text": "A beosztást meghaladó, a kereten felüli vagy az elszámolási időszakon felüli munkára ötven százalék bérpótlék vagy — szabály vagy megállapodás alapján — szabadidő jár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 143. § (2) bekezdése ötven százalékot vagy szabadidőt ad a beosztást meghaladó, a kereten felüli vagy az elszámolási időszakon felüli munkára. Az (1) bekezdés szerint ez az ellenérték a rendes munkaidőre járó munkabéren felül illeti meg a munkavállalót. A (3) bekezdés a szabadidőt legalább a rendkívüli tartamban szabja meg, és arra az alapbér arányos részét rendeli."
+        },
+        {
+          "text": "Heti pihenőnapra elrendelt rendkívüli munkaidőre száz százalék pótlék jár, ötven százalék, ha a munkáltató másik pihenőnapot biztosít; munkaszüneti napi rendkívüli munkaidőre száz százalék jár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 143. § (4) bekezdése a heti pihenőnapra (pihenőidőre) elrendelt rendkívüli munkaidőre száz százalékot ad, ötvenet, ha másik pihenőnapot biztosítanak. Az (5) bekezdés munkaszüneti napi rendkívüli munkaidőre száz százalékot ad. A (6)–(7) bekezdés a szabadidő kiadásának határidejét a következő hónaphoz, keretvéghez, illetve megállapodással a tárgyévet követő év december harmincegyedikéhez köti."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "c3e4d650dda3"
+    },
+    {
+      "question": "Milyen pótlék jár készenlétre és ügyeletre az Mt. 144. § szerint?",
+      "options": [
+        {
+          "text": "Készenlét és ügyelet esetén egyaránt ötven százalék pótlék jár, a munkavégzés pedig beleolvad ebbe az átalányba.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 144. § (1) bekezdése készenlétnél húsz, ügyeletnél negyven százalékot ad, nem egységesen ötvenet. A (2) bekezdés szerint munkavégzés esetén a 139–143. § szerinti pótlék külön jár, tehát nem olvad bele az (1) bekezdés mértékébe. Az ötven százalék csak a (3) bekezdés szerinti, nem mérhető munkavégzésű ügyeletre vonatkozik."
+        },
+        {
+          "text": "Ügyelet esetén, ha a munkavégzés tartama nem mérhető, az (1)–(2) bekezdéstől eltérően ötven százalék bérpótlék jár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 144. § (3) bekezdése az ügyeletet, ha a munkavégzés tartama nem mérhető, ötven százalékkal díjazza. Ez eltér az (1)–(2) bekezdés szerinti negyven százalékos ügyeleti pótléktól és a munkavégzésre járó külön pótléktól. A 151. § (4) bekezdése az ügyeleti és készenléti pótlékot a távolléti díjba csak akkor viszi, ha az irányadó időszakban átlagosan legalább havi kilencvenhat óra volt az elrendelés."
+        },
+        {
+          "text": "Az ügyeleti és készenléti pótlék minden esetben beleszámít a távolléti díjba, óraszámküszöb nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 151. § (4) bekezdése szerint az ügyelet és a készenlét tartamára kifizetett bérpótlékot csak akkor kell figyelembe venni, ha a munkáltató az irányadó időszakban átlagosan legalább havi kilencvenhat óra tartamú ügyeletet vagy készenlétet rendelt el. A küszöb nélküli beszámítás tehát tilos. A 144. § a pótlék mértékét adja, a 151. § a távolléti díjba emelés küszöbét."
+        },
+        {
+          "text": "Készenlét esetén húsz, ügyelet esetén negyven százalék bérpótlék jár; a rendelkezésre állás alatti munkavégzésre a 139–143. § szerinti pótlék külön jár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 144. § (1) bekezdése készenlétnél húsz, ügyeletnél negyven százalékot ad. A (2) bekezdés a rendelkezésre állás alatti munkavégzésre a 139–143. § szerinti pótlékot rendeli: a munkával töltött rész nem olvad bele az (1) bekezdés átalányába. A 145. § (2) bekezdés b) pontja a címekre havi átalányt enged."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "2e932b0c7bf9"
+    },
+    {
+      "question": "Mit enged az Mt. 145. § a pótlékok szerződéses egyszerűsítésére?",
+      "options": [
+        {
+          "text": "A felek a munkaszerződésben bérpótlék helyetti díjazást, illetve készenlét vagy ügyelet esetén a munkavégzés díját és a pótlékot magában foglaló havi átalányt állapíthatnak meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 145. § (2) bekezdése a) pontja bérpótlék helyetti díjazást, b) pontja készenlét vagy ügyelet esetén a munkavégzés díjazását és a bérpótlékot magában foglaló havi átalányt enged. A (3) bekezdés a pótlékátalány arányos részére a 136. § (3) bekezdését rendeli. A 148. § (1) bekezdés a) pontja az esedékességkor érvényes pótlékátalányt a távolléti díj állandó elemévé teszi."
+        },
+        {
+          "text": "A felek a 140–142. § szerinti pótlékot — vasárnapi, munkaszüneti, műszak- és éjszakai — is magában foglaló alapbért állapíthatnak meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 145. § (1) bekezdése a 140–142. § szerinti pótlékot is magában foglaló alapbért enged. A vasárnapi, munkaszüneti, műszak- és éjszakai pótlék tehát beépíthető. A 143–144. § szerinti címek — rendkívüli munkaidő, készenlét, ügyelet — e beépítés körén kívül maradnak."
+        },
+        {
+          "text": "A 143–144. § szerinti rendkívüli, készenléti és ügyeleti pótlék is beépíthető a 145. § (1) bekezdése szerinti alapbérbe.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 145. § (1) bekezdése csak a 140–142. § szerinti pótlékot engedi magában foglaló alapbérbe. A 143–144. § szerinti címek — rendkívüli munkaidő, készenlét, ügyelet — nem építhetők be így. A (2) bekezdés b) pontja készenlétre és ügyeletre külön havi átalányt enged, de ez nem az (1) bekezdés szerinti beépített alapbér."
+        },
+        {
+          "text": "A pótlékátalány soha nem válik a távolléti díj elemévé, csak a folyó bér része marad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 148. § (1) bekezdés a) pontja az esedékességkor érvényes alapbért és pótlékátalányt a távolléti díj állandó elemévé teszi. A 145. § (3) bekezdése a pótlékátalány arányos részére a 136. § (3) bekezdését rendeli. Az átalány tehát a távolléti díj számításába is beépül, nem csak a folyó bérbe."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "03cd0fb81911"
+    },
+    {
+      "question": "Mit szabályoz az Mt. 153. § a kötelező legkisebb munkabérről és a garantált bérminimumról?",
+      "options": [
+        {
+          "text": "A megállapításnál figyelembe kell venni különösen a munkaköri követelményeket, a nemzeti munkaerőpiacot, a nemzetgazdaság helyzetét, az ágazati és a földrajzi sajátosságokat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 153. § (3) bekezdése ezeket a szempontokat rendeli figyelembe venni. Az (5) bekezdés a konzultációs fórumot és annak rendjét külön rendeletre bízza. A 573/2022. (XII. 23.) Korm. rendelet a 153. § (1) bekezdése szerinti felhatalmazást tölti ki a konkrét összegekkel."
+        },
+        {
+          "text": "A kötelező legkisebb munkabér összegét nem kell naptári évenként felülvizsgálni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 153. § (4) bekezdése szerint a kötelező legkisebb munkabér és a garantált bérminimum összegét naptári évenként felül kell vizsgálni. Az (1) bekezdés a rendeletalkotás felhatalmazását, a (3) bekezdés a figyelembe veendő szempontokat adja. Az éves felülvizsgálat tehát kógens törvényi előírás."
+        },
+        {
+          "text": "A kötelező legkisebb munkabért a munkáltató egyoldalúan, konzultáció és rendelet nélkül is meghatározhatja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 153. § (1) bekezdése szerint a Kormány állapítja meg rendeletben a kötelező legkisebb munkabér és a garantált bérminimum összegét és hatályát, a Nemzeti Gazdasági és Társadalmi Tanácsban és a kijelölt fórumban folytatott konzultációt követően. A munkáltatói egyoldalú meghatározás e felhatalmazási rendet megkerüli. A 136. § (1) bekezdése az alapbér alsó határát e mértékre köti."
+        },
+        {
+          "text": "A Kormány a Nemzeti Gazdasági és Társadalmi Tanácsban és a kijelölt fórumban folytatott konzultációt követően rendeletben állapítja meg a kötelező legkisebb munkabér és a garantált bérminimum összegét és hatályát.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 153. § (1) bekezdése a Kormányt e konzultációt követően rendeletalkotásra hatalmazza. A (2) bekezdés a munkavállalók egyes csoportjaira eltérő összeget enged. A (4) bekezdés a naptári évenkénti felülvizsgálatot írja elő. A 136. § (1) bekezdése és a 138. § (5) bekezdése e mértékre hivatkozik."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "26f116b0a608"
+    },
+    {
+      "question": "Mit rögzít a 573/2022. (XII. 23.) Korm. rendelet a 2023. január 1-jétől irányadó bérminimumokról?",
+      "options": [
+        {
+          "text": "A rendeletet már a 2022. decemberre járó, 2023. januárban kifizetett bérre is alkalmazni kell.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 573/2022. (XII. 23.) Korm. rendelet 4. §-a szerint a rendelkezéseket első alkalommal a 2023. január hónapra járó munkabérek megállapításánál kell alkalmazni. A decemberre járó, januárban esedékes bérre a rendelet még nem vonatkozik. A hatálybalépés napja 2023. január 1., de a temporalitás a járó bér hónapjához igazodik a 4. § szerint. Az Mt. 136. § (1) bekezdése ettől a hónaptól méri a szerződéses alapbér alsó határát."
+        },
+        {
+          "text": "A rendelet rendelkezéseit első alkalommal a 2023. január hónapra járó munkabérek megállapításánál kell alkalmazni; a hatálybalépés napja 2023. január 1.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 573/2022. (XII. 23.) Korm. rendelet 3. §-a szerint a rendelet 2023. január 1-jén lép hatályba. Ugyanezen kormányrendelet szerint az összegeket első alkalommal a 2023. január hónapra járó munkabéreknél kell alkalmazni. Nem a januárban kifizetett, hanem a januárra járó bér a mérce. A decemberre járó, januárban esedékes bérre a rendelet még nem vonatkozik."
+        },
+        {
+          "text": "Teljes munkaidő teljesítése esetén a minimálbér havibérnél 232 000, a garantált bérminimum legalább középfokú végzettséget vagy szakképzettséget igénylő munkakörben 296 400 forint.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 573/2022. (XII. 23.) Korm. rendelet 2. § (1) bekezdése a minimálbért havibérnél 232 000, hetibérnél 53 340, napibérnél 10 670, órabérnél 1 334 forintban állapítja meg. A (2) bekezdés a garantált bérminimumot 296 400, 68 140, 13 630, illetve 1 704 forintban adja. A (3) bekezdés teljesítménybérezésnél ugyanezeket a havi küszöböket köti a százszázalékos teljesítménykövetelményhez."
+        },
+        {
+          "text": "A rendelet csak a költségvetési szervekre terjed ki, a magánmunkáltatókra nem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 573/2022. (XII. 23.) Korm. rendelet 1. § (1) bekezdése szerint a rendelet hatálya kiterjed minden munkáltatóra és munkavállalóra. A (2) bekezdés a közszféra illetményfogalmát igazítja az alapbérhez, de a tág (1) bekezdés a magánmunkáltatóra is kiterjed. A bérminimum tehát nem csak a költségvetési szervekre vonatkozik."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "897f20dd6901"
+    },
+    {
+      "question": "Milyen mértékű távolléti díj jár betegszabadságra, apasági és szülői szabadságra az Mt. 146. § szerint?",
+      "options": [
+        {
+          "text": "Az apasági szabadság öt munkanapjára teljes távolléti díj, a hatodik munkanaptól negyven százalék jár; a szülői szabadságra tíz százalék, csökkentve a GYED és a GYES összegével.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 146. § (4) bekezdése az apasági szabadság öt munkanapjára távolléti díjat, a hatodiktól a távolléti díj negyven százalékát adja. Az (5) bekezdés a szülői szabadságra a távolléti díj tíz százalékát rendeli, amelyet csökkenteni kell az Ebtv. 42/A. § (1) vagy 42/E. § (1) szerinti gyermekgondozási díj, illetve a családok támogatásáról szóló törvény szerinti GYES összegével. A (6) bekezdés a hozzájárulással adott mentesülésnél a megállapodás szerinti díjazást rendeli."
+        },
+        {
+          "text": "Az apasági szabadság teljes tartamára egységesen negyven százalék távolléti díj jár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 146. § (4) bekezdése az apasági szabadság első öt munkanapjára teljes távolléti díjat ad, és csak a hatodik munkanaptól csökken a mérték negyven százalékra. Az első szakasz tehát nem negyven százalékos. A (3) bekezdés hetven százaléka a betegszabadságra irányadó, nem az apasági szabadságra. Az (5) bekezdés a szülői szabadságra tíz százalékot rendel a GYED és a GYES levonásával."
+        },
+        {
+          "text": "Betegszabadság tartamára a távolléti díj hetven százaléka jár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 146. § (3) bekezdése szerint a munkavállaló a betegszabadság tartamára a távolléti díj hetven százalékára jogosult. Ez nem a teljes távolléti díj. A (2) bekezdés munkaszüneti napi keresőképtelenségnél szintén hetven százalékot ad, táppénz vagy baleseti táppénz mellett pedig semmit. Az (1) bekezdés a) pontja a rendes szabadságra teljes távolléti díjat rendel."
+        },
+        {
+          "text": "Betegszabadságra és szülői szabadságra egyaránt a távolléti díj száz százaléka jár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 146. § (3) bekezdése betegszabadságra csak hetven százalékot ad. Az (5) bekezdés a szülői szabadságra mindössze tíz százalékot rendel, ráadásul a GYED és a GYES összegével csökkentve. A teljes távolléti díj az (1) bekezdés a) pontja szerinti szabadságra és az apasági szabadság első öt napjára jellemző."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "d1f86d7123f8"
+    },
+    {
+      "question": "Miből áll a távolléti díj számításának szerkezete az Mt. 148. § szerint?",
+      "options": [
+        {
+          "text": "A távolléti díj mindig csak az esedékességkori alapbérrel egyenlő, pótlékátalány és hathavi átlag nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 148. § (1) bekezdése az alapbéren és pótlékátalányon túl a hathavi teljesítménybért és bérpótlékot is bevonja. A 149. § az a) pont szerinti rész technikai szabályát adja, a 150–151. § a teljesítménybér és a pótlékok sorsát rendezi. A távolléti díj tehát összetett átlag, nem pusztán az alapbér."
+        },
+        {
+          "text": "Végkielégítésnél az esedékesség mindig a kár bekövetkezésének időpontja.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 148. § (2) bekezdés b) pontja a végkielégítésnél a munkáltatói felmondás közlésének időpontját, illetve a 77. § (1) bekezdés b) és c) pontja esetén a munkaviszony megszűnésének időpontját jelöli meg. A kár bekövetkezése a (2) bekezdés c) pontja szerinti kártérítési felelősség esedékessége. A két jogcím esedékessége tehát nem cserélhető."
+        },
+        {
+          "text": "Az esedékesség időpontja a távollét kezdő időpontja; végkielégítésnél a felmondás közlése vagy a 77. § (1) bekezdés b)–c) pontja szerinti megszűnés; kártérítésnél a kár bekövetkezte vagy a korábbi megszűnés.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 148. § (2) bekezdése az esedékességet a távollét kezdetéhez, végkielégítésnél a munkáltatói felmondás közléséhez vagy a 77. § (1) bekezdés b) és c) pontja szerinti megszűnéshez, kártérítésnél a kár bekövetkeztéhez — ha a jogviszony korábban szűnt meg, a megszűnéshez — köti. A (3) bekezdés az (1) bekezdés a) pontja szerinti díjazás távollét alatti módosulását a módosítást követő tartamra viszi. Az irányadó időszak tehát az esedékességhez igazodik."
+        },
+        {
+          "text": "A távolléti díjat az esedékességkor érvényes alapbér és pótlékátalány, valamint az irányadó utolsó hat hónap teljesítménybére és bérpótléka figyelembevételével kell megállapítani.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 148. § (1) bekezdése szerint a távolléti díjat az esedékessége időpontjában érvényes alapbér (136. §) és pótlékátalány (145. §), valamint az esedékességet megelőző utolsó hat hónapra kifizetett teljesítménybér (150. §) és bérpótlék (151. §) figyelembevételével kell megállapítani. A (4) bekezdés ezeket az elemeket a 149–151. § szerint együttesen rendeli figyelembe venni. A távolléti díj tehát nem pusztán az alapbér, hanem összetett átlag."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "e11fd44b03ab"
+    },
+    {
+      "question": "Hogyan kell figyelembe venni az alapbért és a teljesítménybért a távolléti díjnál az Mt. 149–150. § szerint?",
+      "options": [
+        {
+          "text": "Teljesítménybérezésnél az alapbért és a teljesítménybért mindig együtt, kettős beszámítással kell a távolléti díjba vinni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 150. § (3) bekezdése szerint teljesítménybérezés esetén a távolléti díj számításánál az alapbért figyelmen kívül kell hagyni. A kettős beszámítás tilos. Az (5) bekezdés a vegyes idő- és teljesítménybér időbérrészét a 148. § (1) bekezdés a) pontja szerint viszi. A teljesítményrészt a 150. § saját szabályai szerint kell számításba venni."
+        },
+        {
+          "text": "Havi bér esetén a 148. § (1) bekezdés a) pont szerinti rész meghatározásakor a 136. § (3) bekezdését kell alkalmazni; e rész a havi- vagy órabér és pótlékátalány távollét alatti kifizetésével is teljesíthető.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 149. § (1) bekezdése havi bérnél a 136. § (3) bekezdését rendeli. A (2) bekezdés megengedi, hogy e rész a havi- vagy órabér és a pótlékátalány távollét tartamára történő kifizetésével teljesüljön és elszámolódjék. A hathavi átlag tehát nem minden elemre kötelező: az alapbér és az átalány folyó kifizetéssel is kiadható. A teljesítménybér és a 151. § szerinti pótlék továbbra is az irányadó időszakhoz kötött."
+        },
+        {
+          "text": "Teljesítménybérezés esetén a távolléti díj számításánál az alapbért figyelmen kívül kell hagyni; a teljesítménybért az irányadó időszakra jutó arányos részben kell figyelembe venni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 150. § (3) bekezdése szerint teljesítménybérezés esetén a távolléti díj számításánál az alapbért figyelmen kívül kell hagyni — a kettős beszámítás tilos. A (2) bekezdés a kifizetés időpontjától függetlenül az irányadó időszakra jutó arányos részt rendeli. Az (1) bekezdés a 137. § (3) bekezdése szerint kifizetett teljesítménybért viszi a számításba. A (4) bekezdés az egy órára járó díj osztószámát a teljesítménybérrel díjazott órákhoz köti."
+        },
+        {
+          "text": "A teljesítménybért mindig a kifizetés naptári hónapjában kell a távolléti díjba számítani, az irányadó időszaktól függetlenül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 150. § (2) bekezdése szerint a teljesítménybért — a kifizetés időpontjától függetlenül — az irányadó időszakra jutó arányos részben kell figyelembe venni. A kifizetés hónapja tehát nem írja felül az irányadó időszakot. A (4) bekezdés az egy órára járó díjnál az irányadó időszaki órák osztószámát köti ki."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "cf196bad40bb"
+    },
+    {
+      "question": "Mely küszöbök mellett kerülhet bérpótlék a távolléti díjba az Mt. 151. § szerint?",
+      "options": [
+        {
+          "text": "Az ügyeleti pótlék már havi tíz óra elrendelésnél is beleszámít a távolléti díjba.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 151. § (4) bekezdése szerint az ügyelet és a készenlét tartamára kifizetett bérpótlékot akkor kell figyelembe venni, ha a munkáltató az irányadó időszakban átlagosan legalább havi kilencvenhat óra tartamú ügyeletet vagy készenlétet rendelt el. A havi tíz óra messze e küszöb alatt van. A 144. § (1) bekezdése a pótlék mértékét adja, a távolléti díjba emelés külön feltétel."
+        },
+        {
+          "text": "A műszak- és éjszakai pótlékot a beosztás szerinti munkaidő legalább harminc százalékához, az ügyeletet vagy készenlétet átlagosan legalább havi kilencvenhat órához köti a törvény.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 151. § (3) bekezdése a műszak- és éjszakai pótlékot akkor viszi a számításba, ha az irányadó időszakban legalább a beosztás szerinti munkaidő harminc százalékának megfelelő tartamban pótlékra jogosító időszakban végzett munkát a munkavállaló. A (4) bekezdés az ügyeletet vagy készenlétet átlagosan legalább havi kilencvenhat órához köti. Az (5) bekezdés osztószáma a beosztás szerinti munkaidőben teljesített órák."
+        },
+        {
+          "text": "Minden kifizetett bérpótlék automatikusan beleszámít a távolléti díjba, küszöbvizsgálat nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 151. § (1)–(4) bekezdése küszöbökhöz köti a vasárnapi, műszak-, éjszakai, ügyeleti és készenléti pótlék távolléti díjba emelését. A vasárnapi pótléknál az egyharmados, a műszak- és éjszakainál a harminc százalékos, az ügyeletnél és készenlétnél a havi kilencvenhat órás küszöb a mérce. A 143. § szerinti rendkívüli pótlék a listában eleve nem szerepel."
+        },
+        {
+          "text": "A vasárnapi pótlékot akkor kell figyelembe venni, ha az irányadó időszakban a vasárnapok legalább egyharmadán beosztás szerinti munka volt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 151. § (2) bekezdése a vasárnapi pótlékot akkor viszi a távolléti díjba, ha a munkavállaló az irányadó időszakban legalább a vasárnapok egyharmadában beosztás szerinti munkaidejében munkát végzett. Az (1) bekezdés a vasárnapi, műszak-, éjszakai és a 144. § (1) bekezdése szerinti pótlékot a (2)–(5) bekezdéshez köti. A 143. § szerinti rendkívüli munkaidő pótléka a listában nem szerepel."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "5795972ade13"
+    },
+    {
+      "question": "Mi a szabály, ha az irányadó időszakban nincs bérkifizetés, vagy a munkaviszony hat hónapnál rövidebb az Mt. 152. § szerint?",
+      "options": [
+        {
+          "text": "Hat hónapnál rövidebb munkaviszonynál is mindig a teljes hat hónapos irányadó időszakot kell erőltetni, akár nulla hónappal.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 152. § (2) bekezdése a hat hónapnál rövidebb munkaviszonynál a naptári hónapokat vagy a hónapot rendeli irányadó időszakként. Teljes naptári hónap hiányában az alapbért vagy a havi átalányt kell figyelembe venni. A 148. § (1) bekezdés b) pontjának hat hónapja tehát e szabállyal rövidül, nem erőltethető üres időszakra."
+        },
+        {
+          "text": "Ha nincs bérkifizetés az irányadó időszakban, a távolléti díj nulla forint.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 152. § (1) bekezdése szerint ilyen esetben az alapbért kell figyelembe venni, nem a nulla átlagot. A (2) bekezdés a hat hónapnál rövidebb jogviszonynál is a naptári hónapokat, illetve teljes hónap hiányában az alapbért vagy a havi átalányt rendeli. A törvény tehát védi az új belépőt a nulla átlagtól."
+        },
+        {
+          "text": "Ha az irányadó időszakban munkabér-kifizetés nem történt, a távolléti díj kiszámításakor az alapbért kell figyelembe venni.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 152. § (1) bekezdése szerint, ha az irányadó időszakban munkabér-kifizetés nem történt, az alapbért kell figyelembe venni. Az új belépő tehát nem esik nulla átlagra. A 148. § (1) bekezdés b) pontja szerinti hat hónap e szabállyal az alapbérre vált. A (2) bekezdés a rövid munkaviszony további szabályát adja."
+        },
+        {
+          "text": "Hat hónapnál rövidebb munkaviszonynál irányadó időszakként a naptári hónapokat vagy a hónapot kell figyelembe venni; teljes naptári hónap hiányában az alapbért vagy a havi átalányt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 152. § (2) bekezdése szerint hat hónapnál rövidebb munkaviszony esetén irányadó időszakként a naptári hónapokat vagy hónapot kell figyelembe venni. Teljes naptári hónap hiányában az alapbért vagy a havi átalányt kell figyelembe venni. A 148. § (1) bekezdés b) pontja szerinti hat hónap tehát e szabállyal rövidül vagy az alapbérre vált. Az új belépő védelme a nulla átlag elkerülése."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "767f2b21c14b"
+    },
+    {
+      "question": "Mit zár el és mit enged a 165. § a XII. fejezet eltérési térképén?",
+      "options": [
+        {
+          "text": "Kollektív szerződés a 136. § (3) bekezdésétől és a 138. § (6) bekezdésétől csak a munkavállaló javára térhet el.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 165. § (2) bekezdés a) pontja a 136. § (3) bekezdésétől, a b) pont a 138. § (6) bekezdésétől a kollektív szerződésnek csak a munkavállaló javára enged eltérést. A havi alapbér órára vetítése és a garantált bér tehát relatív kógens. A munkavállaló terhére kötött eltérés a pontoknál sem megengedett. A (2) bekezdés c)–d) pontja a kamatot és a jogalap nélküli kifizetés visszakövetelését ugyanezen relatív kógencia alá vonja."
+        },
+        {
+          "text": "A 136. § (1)–(2) bekezdésétől a felek szabadon eltérhetnek, ha mindketten aláírják a munkaszerződést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 165. § (1) bekezdés a) pontja szerint a felek megállapodása vagy kollektív szerződés a 136. § (1) és (2) bekezdésétől nem térhet el. Az alapbér alsó határa és időbér jellege kógens. A munkaszerződés aláírása nem oldja fel ezt a tilalmat. A 137. § (3) bekezdése és a 139. § (1) bekezdése ugyanezen (1) bekezdés alatt szintén elzárt."
+        },
+        {
+          "text": "A 138. § (6) bekezdése szerinti garantált bértől a kollektív szerződés a munkavállaló terhére is eltérhet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 165. § (2) bekezdés b) pontja szerint kollektív szerződés a 138. § (6) bekezdésében foglaltaktól csak a munkavállaló javára térhet el. A munkavállaló terhére kötött eltérés tilos. A garantált bér legalább az alapbér felét elérő mértéke tehát lefelé nem gyengíthető. Az (1) bekezdés c) pontja a 138. § (1)–(5) bekezdésétől az eltérést egészen elzárja."
+        },
+        {
+          "text": "A felek megállapodása vagy kollektív szerződés nem térhet el többek között a 136. § (1)–(2) bekezdésétől, a 137. § (3) bekezdésétől, a 138. § (1)–(5) bekezdésétől és a 139. § (1) bekezdésétől.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 165. § (1) bekezdés a) pontja a 136. § (1) és (2) bekezdését, a b) pont a 137. § (3) bekezdését, a c) pont a 138. § (1)–(5) bekezdését, a d) pont a 139. § (1) bekezdését zárja el. Ez a tárgy kógens magja: alapbér alsó határa és időbér jellege, a kizárólagos teljesítménybér szerződéshez kötése, a teljesítménykövetelmény (1)–(5) bekezdése, a pótlék kiegészítő jellege. Egyoldalú munkáltatói vagy a munkavállaló terhére kötött eltérés a körben semmis."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "63519a52e5c4"
+    },
+    {
+      "question": "Mit rögzít az MK 23. számú állásfoglalás a munkavégzés alóli mentesülés díjazásáról?",
+      "options": [
+        {
+          "text": "Állampolgári kötelezettségét teljesítő munkavállalónak a kiesett munkaidőre munkabér akkor jár, ha e kötelezettségének munkaidőn kívül nem tehetett eleget.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az MK 23. számú állásfoglalás a) pontja szerint állampolgári kötelezettségét teljesítő munkavállalónak a kiesett munkaidőre munkabér akkor jár, ha e kötelezettségének munkaidőn kívül nem tehetett eleget. Elvárható, hogy — ha joghátrány nem éri — a kötelezettséget munkaidőn kívül teljesítse, és a kiesést a legkésőbb induló, még megfelelő menetrend szerinti járattal minimalizálja. Az ezen felüli távollét nem igazolt, s arra munkabér nem jár. A hatályos Mt. 146. § (1) bekezdés b) pontja az 55. § taxált mentesüléseire ad távolléti díjat, az MK 23. a) pontja pedig a „másként nem teljesíthető” ismérvét viszi e kör alá."
+        },
+        {
+          "text": "Állampolgári kötelezettség teljesítésekor a munkavállaló mindig teljes távolléti díjra jogosult, akkor is, ha munkaidőn kívül is eleget tehetett volna a kötelezettségnek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az MK 23. a) pontja szerint munkabér csak akkor jár, ha a kötelezettségnek munkaidőn kívül nem tehetett eleget. Ha munkaidőn kívül is teljesíthető lett volna, az ezen felüli távollét nem igazolt, s arra munkabér nem jár. A hatályos 146. § (1) bekezdés b) pontja az 55. § taxált mentesüléseire ad távolléti díjat, az MK 23. pedig a „csak ha másként nem teljesíthető” ismérvét viszi a taxáció alá."
+        },
+        {
+          "text": "A betegség miatti orvosi vizsgálat és a rendszeres kezelés is kötelező orvosi vizsgálat, ezért a munkáltatótól mindig jár a díjazás.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az MK 23. számú állásfoglalás b) pontja szerint a betegség miatti vizsgálat vagy rendszeres kezelés nem kötelező orvosi vizsgálat. A távolmaradás igazolt lehet, díjazás azonban a munkáltatótól nem jár. Ha a vizsgálatra a munkavállalót keresőképtelen állományba helyezik, betegszabadság vagy táppénz a cím az Mt. 146. § (3) bekezdése, illetve a táppénz szabályai szerint. A kötelező orvosi vizsgálat az MK 23. b) pontja szerint állapotfüggetlen, jogszabályi megjelenési kötelezettség."
+        },
+        {
+          "text": "A kötelező orvosi vizsgálat az, amelyen a munkavállaló egészségi állapotától függetlenül, jogszabály alapján köteles megjelenni; a betegség miatti vizsgálat vagy rendszeres kezelés nem ide tartozik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az MK 23. b) pontja a kötelező orvosi vizsgálatot állapotfüggetlen, jogszabályi megjelenési kötelezettségként határozza meg. A terhességgel összefüggő vizsgálat akkor tartozik ide, ha a megjelenésre csak munkaidőn belül van lehetőség. A betegség miatti vizsgálat vagy rendszeres kezelés nem kötelező orvosi vizsgálat: a távolmaradás igazolt lehet, díjazás azonban a munkáltatótól nem jár. A hatályos Mt. 146. § (1) bekezdés b) pontja az 55. § taxált eseteiben rendel távolléti díjat, az MK 23. pedig a „csak ha másként nem teljesíthető” ismérvét viszi alá."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "12b7fe8b9c7b"
+    },
+    {
+      "question": "Milyen eljárási és tartalmi követelmények kötik a teljesítménykövetelményt az Mt. 138. § szerint?",
+      "options": [
+        {
+          "text": "A teljesítménykövetelményt előzetes, objektív mérésen és számításon alapuló eljárás alapján kell meghatározni, a rendes munkaidőben történő százszázalékos teljesíthetőség vizsgálatával.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 138. § (1) bekezdése szerint a munkáltató olyan előzetes — objektív mérésen és számításon alapuló — eljárás alapján köteles a követelményt meghatározni, amely kiterjed a követelmény rendes munkaidőben történő száz százalékos teljesíthetőségének vizsgálatára. A (4) bekezdés a követelményt és a teljesítménybér-tényezőt alkalmazás előtt írásban közölteti. A vitában a 138. § (3) bekezdése a munkáltatóra rója a bizonyítási terhet."
+        },
+        {
+          "text": "A teljesítménykövetelmény utólag, szóbeli közléssel is meghatározható, bizonyítási teher nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 138. § (1) bekezdése előzetes, objektív eljárást követel. A (4) bekezdés az alkalmazás előtti írásbeli közlést írja elő. A teljesítménykövetelmény vitájában a bizonyítás a 138. § (3) bekezdése szerint a munkáltatót terheli. A belátás szerinti, utólagos szóbeli meghatározás a szabályokkal ellentétes."
+        },
+        {
+          "text": "Teljes munkaidő és százszázalékos teljesítés mellett a járó munkabérnek legalább a 153. § (1) bekezdése szerinti mértéket el kell érnie; kizárólagos teljesítménybérnél legalább az alapbér felét elérő garantált bér is kötelező.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 138. § (5) bekezdése a teljesítménybér-tényezőt úgy rendeli megállapítani, hogy százszázalékos teljesítés és teljes munkaidő mellett legalább a 153. § (1) bekezdése szerinti munkabér mértékét elérje. A (6) bekezdés a kizárólag teljesítménybérrel díjazottnál az alapbér felét elérő garantált bért teszi kötelezővé. A 165. § (1) bekezdés c) pontja az (1)–(5) bekezdéstől az eltérést elzárja, a (2) bekezdés b) pontja a (6) bekezdéstől csak a munkavállaló javára enged eltérést."
+        },
+        {
+          "text": "A teljesítménykövetelmény megállapításánál a munkáltató működési köre — munkavégzés, munkaszervezés, technológia — figyelmen kívül hagyható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 138. § (2) bekezdése szerint a teljesítménykövetelmény megállapítása vagy az azonos követelmény hatálya alá tartozó csoportok meghatározása során tekintettel kell lenni a munkáltató működési körébe tartozó feltételekre, így különösen a munkavégzésre, a munkaszervezésre és a technológiára. A (3) bekezdés az (1)–(2) bekezdés betartásának bizonyítását a munkáltatóra telepíti. A működési kör figyelmen kívül hagyása tehát tilos."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "66cb3de7b23f"
+    },
+    {
+      "question": "Mikor illeti meg a munkavállalót alapbér állásidő címén az Mt. 147. § szerint?",
+      "options": [
+        {
+          "text": "Ha a munkaidő-beosztás alapján bérpótlékra jogosult lenne a munkavállaló, az alapbéren felül a bérpótlék is megilleti állásidőben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 147. § (2) bekezdése szerint a munkavállalót, ha a munkaidő-beosztása alapján bérpótlékra jogosult, az (1) bekezdésben meghatározott díjazáson felül bérpótlék is megilleti. A műszak- vagy éjszakai sávba eső állásidő tehát nem veszíti el a pótlékot. A 146. § (1) bekezdés f) pontja akkor lép be, ha más szabály díjazást ír elő mérték nélkül; a 147. § saját mértéket ad."
+        },
+        {
+          "text": "Állásidőben a beosztás szerinti pótlék soha nem jár, csak az alapbér.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 147. § (2) bekezdése kifejezetten megadja a beosztás alapján járó bérpótlékot az alapbéren felül. A műszak- vagy éjszakai sávba eső állásidő megtartja a pótlékot. Az (1) bekezdés az alapbért és az elháríthatatlan külső ok kivételét rendezi, a (2) bekezdés a pótlék sorsát. A „csak alapbér” olvasat tehát hiányos."
+        },
+        {
+          "text": "Ha a munkáltató foglalkoztatási kötelezettségének nem tesz eleget, a munkavállalót — az elháríthatatlan külső okot kivéve — alapbér illeti meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 147. § (1) bekezdése szerint: „A munkavállalót, ha a munkáltató foglalkoztatási kötelezettségének nem tesz eleget (állásidő) – az elháríthatatlan külső okot kivéve – alapbér illeti meg.” Az állásidő a foglalkoztatási kötelezettség megszegésének díjazása. Számítási alapja az alapbér és a beosztás szerinti pótlék, nem a távolléti díj összetett átlaga. A 147. § (2) bekezdése a beosztás alapján járó pótlékot az alapbéren felül is megadja."
+        },
+        {
+          "text": "Állásidőnél mindig a 148. § szerinti távolléti díj jár, elháríthatatlan külső ok esetén is.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 147. § (1) bekezdése alapbért ad, nem a 148. § szerinti távolléti díjat, és az elháríthatatlan külső okot kivételként kezeli. Az állásidő nem távolléti díj. A (2) bekezdés a beosztás szerinti pótlékot az alapbéren felül rendeli. A 148–152. § az összetett távolléti átlag szabálya, más jogcímre."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "602316a37188"
+    },
+    {
+      "question": "Mi a különbség a munkaszüneti napi rendes munkavégzés és a munkaszüneti napi rendkívüli munkaidő pótléka között?",
+      "options": [
+        {
+          "text": "Munkaszüneti napi munkavégzésre mindig csak a 143. § (5) bekezdése irányadó, a 140. § (2) bekezdése soha nem alkalmazható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 140. § (2) bekezdése a munkaszüneti napon történő munkavégzés — tipikusan a rendes munkaidőben történő foglalkoztatás — pótlékát adja. A 143. § (5) bekezdése a munkaszüneti napra elrendelt rendkívüli munkaidő külön címe. A két szakasz tehát más tényállásra vonatkozik, nem egymást kizáróan „soha” / „mindig” viszonyban. A 145. § (1) bekezdése a 140. § szerinti pótlékot az alapbérbe építhetővé teszi, a 143. §-t nem."
+        },
+        {
+          "text": "Rendes munkaidőben történő munkaszüneti napi munkavégzésre a 140. § (2) bekezdése száz százalék bérpótlékot ad.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 140. § (2) bekezdése szerint a munkavállalót munkaszüneti napon történő munkavégzés esetén száz százalék bérpótlék illeti meg. A (3) bekezdés ugyanezt a mértéket rendeli húsvét- vagy pünkösdvasárnapra, illetve a vasárnapra eső munkaszüneti napra. Ez a cím a rendes munkaidőben történő munkaszüneti napi foglalkoztatás pótléka. A 139. § (1) bekezdése szerinti kiegészítő jelleg itt is irányadó."
+        },
+        {
+          "text": "Munkaszüneti napra elrendelt rendkívüli munkaidőre a 143. § (5) bekezdése szintén száz százalék bérpótlékot ad, a rendes munkabéren felül.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 143. § (5) bekezdése szerint munkaszüneti napra elrendelt rendkívüli munkaidőben történő munkavégzés esetén a munkavállalót száz százalék bérpótlék illeti meg. Az (1) bekezdés szerint ez az ellenérték a rendes munkaidőre járó munkabéren felül jár. A 140. § a rendes munkaidőben történő munkaszüneti napi munkát, a 143. § (5) bekezdése a rendkívüli munkaidő címét rendezi. A 151. § listájában a 143. § szerinti pótlék nem szerepel."
+        },
+        {
+          "text": "A 140. § (2) bekezdése szerinti munkaszüneti pótlék mértéke ötven százalék, a 143. § (5) bekezdése szerinti pedig nulla.",
+          "isCorrect": false,
+          "rationale": "HAMIS, mindkét cím száz százalékot ad: az Mt. 140. § (2) bekezdése a munkaszüneti napi munkavégzésre, a 143. § (5) bekezdése a munkaszüneti napra elrendelt rendkívüli munkaidőre. Az ötven százalék a 140. § (1) bekezdés szerinti vasárnapi pótlék, illetve a 143. § (2) bekezdés szerinti általános rendkívüli pótlék mértéke. A nullás olvasat egyik szakasznál sem áll."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "885d060dbc34"
+    },
+    {
+      "question": "Hogyan viszonyul az Mt. 12. § az EUMSZ 157. cikkhez és a C-624/19. ítélethez a díjazás egyenlőségénél?",
+      "options": [
+        {
+          "text": "A 12. § teljes egészében felváltja a 157. cikket, ezért a C-624/19. a magyar munkaviszonyokban irreleváns.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a C-624/19. a 157. cikk közvetlen hatályát a magánjogviszonyokra is megállapítja, és a 12. § (2)–(3) bekezdése nemzeti ismérvkészletként áll mellette, nem helyettesíti azt. Az uniós cikk és a hazai szakasz együtt olvasandó. Az egyenlő értékű munka alapján indított keresetekre a horizontális hatály kifejezetten kiterjed."
+        },
+        {
+          "text": "A 12. § (2)–(3) bekezdése nemzeti ismérvkészlet a munkabér tág fogalmára és az egyenlő értékre, a 157. cikk közvetlen hatálya mellett.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-624/19. a 157. cikk horizontális közvetlen hatályát az egyenlő értékű munkára viszi, miközben az Mt. 12. § (2) bekezdése a munkabér tág fogalmát, a (3) bekezdés az egyenlő érték nemzeti ismérveit adja. A két szint egymás mellett áll: az uniós cikk közvetlen hatálya és a hazai szakasz ismérvkészlete. A tényleges egyenlő érték megállapítása a nemzeti bíróság feladata, a munka jellegének minőségi vizsgálatával."
+        },
+        {
+          "text": "Ugyanazon munkáltató különböző telephelyein végzett, egyenlő értékű munka is összehasonlítható, ha a díjazási feltételek egyetlen forrásból erednek.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a C-624/19. szerint, ha a díjazási feltételek egyetlen forrásból — a munkáltatói minőségből — erednek, a különböző létesítmények nem zárják ki az összehasonlítást. A 12. § (3) bekezdése a minőségi mércét nemzeti ismérvekkel tölti ki. A Tesco-ügyben az üzletek és az elosztóközpontok összevetése éppen a horizontális hatályra épült. A 157. cikk szövege az egyenlő vagy egyenlő értékű munkáért járó egyenlő díjazást rögzíti."
+        },
+        {
+          "text": "A 157. cikk csak az „egyenlő munka” esetére hatályos, ezért a 12. § (3) bekezdése szerinti egyenlő érték vizsgálata uniós szinten kizárt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a C-624/19. szerint a 157. cikk közvetlen hatálya nem szűkíthető az „egyenlő munka” helyzetére; az egyenlő értékű munkára is kiterjed. Az Mt. 12. § (3) bekezdése nemzeti ismérvekkel tölti ki a minőségi mércét. A két szint tehát nem zárja ki egymást: a hazai lista az uniós elv mellett áll."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "0cb1d24f6380"
+    },
+    {
+      "question": "Hogyan jelenik meg a pótlékátalány a távolléti díj számításában az Mt. 145. § és 148–149. § szerint?",
+      "options": [
+        {
+          "text": "A pótlékátalány arányos részének meghatározásakor a 136. § (3) bekezdését megfelelően alkalmazni kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 145. § (3) bekezdése a pótlékátalány arányos részére a 136. § (3) bekezdését rendeli. A havi alapbér időarányos vetítési logikája tehát az átalányra is átszáll. A 148. § (3) bekezdése szerint, ha a távollét alatt az a) pont szerinti díjazás összege módosul, a módosítást követő tartamra a módosított összeget kell figyelembe venni. Az átalány tehát nem „befagyott” a távollét teljes tartamára, ha közben változik."
+        },
+        {
+          "text": "A pótlékátalány soha nem része a távolléti díjnak; csak a 151. § szerinti hathavi pótlékátlag számít.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 148. § (1) bekezdés a) pontja az esedékességkor érvényes pótlékátalányt kifejezetten a távolléti díj állandó elemévé teszi. A b) pont a hathavi teljesítménybért és bérpótlékot köti hozzá, a 151. § pedig a pótlékok küszöbös emelését rendezi. A két sík — állandó átalány és küszöbös pótlékátlag — párhuzamosan áll. A 149. § (2) bekezdése az a) pont szerinti rész folyó kifizetését is megengedi."
+        },
+        {
+          "text": "A 145. § (1) bekezdése a 143–144. § szerinti pótlékot is az alapbérbe építi, ezért ezek is automatikusan a 148. § a) pontja alá esnek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, az Mt. 145. § (1) bekezdése csak a 140–142. § szerinti pótlékot engedi az alapbérbe építeni; a 143–144. § szerinti címek ki vannak zárva. A (2) bekezdés b) pontja készenlét vagy ügyelet esetén külön havi átalányt enged, ami a 148. § (1) bekezdés a) pontja szerinti pótlékátalány lehet, de nem az (1) bekezdés szerinti magában foglaló alapbér. A 151. § (4) bekezdése az ügyeleti/készenléti pótlékot külön küszöbhöz köti."
+        },
+        {
+          "text": "Az esedékességkor érvényes pótlékátalány a 148. § (1) bekezdés a) pontja szerint a távolléti díj állandó eleme.",
+          "isCorrect": true,
+          "rationale": "IGAZ, az Mt. 148. § (1) bekezdés a) pontja az esedékességkor érvényes alapbért és pótlékátalányt (145. §) a távolléti díj állandó elemeként rendeli. A 145. § (2) bekezdése a munkaszerződésben pótlék helyetti díjazást, illetve készenlét vagy ügyelet esetén havi átalányt enged. A 149. § (2) bekezdése lehetővé teszi, hogy az a) pont szerinti rész a havi- vagy órabér és a pótlékátalány távollét tartamára történő kifizetésével is teljesüljön."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "234a8d2b7662"
+    }
+  ]
+}

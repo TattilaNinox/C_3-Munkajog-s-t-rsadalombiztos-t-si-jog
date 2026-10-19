@@ -1,0 +1,765 @@
+{
+  "id": "cO870KMpzQH2hw11HUam",
+  "sorszam": 44,
+  "cim": "A Kit. szerinti kormányzati szolgálati jogviszony megszűnésére és (...)",
+  "generationType": "fogalom",
+  "title": "44. A Kit. szerinti kormányzati szolgálati jogviszony megszűnésére és (...)",
+  "questions": [
+    {
+      "question": "A Kit. szerinti kormányzati szolgálati jogviszony megszűnése és megszüntetése elhatárolásáról mely állítások igazak?",
+      "options": [
+        {
+          "text": "A megszüntetés jognyilatkozattal jön létre: közös megegyezés, lemondás, felmentés, hivatalvesztés vagy próbaidő alatti azonnali hatály.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 105. § (1) bekezdése öt konstitutív jogcímet zár le. Ezeknél indokolási teher, védelem, végkielégítés és a jogellenesség kétcsatornás szankciórendje élhet. Az Mt. szerinti felmondás a kormányzati szolgálati jogviszonyra nem helyettesítő jogcím."
+        },
+        {
+          "text": "A megszűnésnél is mindig jár két hónap felmentési idő, mint a felmentésnél.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a megszűnésnél nincs felmentési idő és nincs felmentési védelem; a két hónapos felmentési idő a Kit. 111. § szerint a felmentéshez kötődik. A 104. § szerinti ex lege végnél a szerv deklaratív tényközlést ad, nem felmentő okmányt. A tévedés a megszüntetés szabályainak a megszűnésre való átvitele."
+        },
+        {
+          "text": "Az Alkotmánybíróság a kormányzati szolgálati jogviszony egyik alanya, és a közös megegyezés kötelező résztvevője.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felek a kormánytisztviselő és a kormányzati igazgatási szerv; az Alkotmánybíróság e jogviszonynak nem alanya. A közös megegyezés a Kit. 105. § (1) a) pontja szerint a felek egybehangzó akaratnyilatkozata, nem alkotmánybírósági aktus. A 3152/2017. (VI.14.) AB végzés is a tisztviselő–munkáltató viszonyt vizsgálja, harmadik félként nem lép be."
+        },
+        {
+          "text": "A megszűnés a törvényben meghatározott tényállás bekövetkeztével, a törvény erejénél fogva áll be; a szerv tényközlése deklaratív.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 104–117. § a megszűnést és a megszüntetést választja szét. Megszűnésnél a kormányzati igazgatási szervnek nincs konstitutív megszüntető aktusa: a tényközlés csak konstatál. Felmentési idő és felmentési védelem ilyenkor nem jár, a bírói felülvizsgálat a tényközlés jogszerűségére szűkül."
+        }
+      ],
+      "sourceKerdesSorszam": 1,
+      "sourceHash": "dcece71addef"
+    },
+    {
+      "question": "A Kit. 104. § (1) szerinti megszűnési tényállásokról mely állítások helytállóak?",
+      "options": [
+        {
+          "text": "A 104. § (1) j) pontja önálló, teljes megszűnési tényállást ad a törvény szövegében.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 104. § (1) j) pontja üres hely; a taxáció az a)–i) és a k)–m) pontokkal adja a megszűnési okokat. Az álláshelyállományi döntések a k)–m) pontokon jelennek meg, nem egy kitöltött j) tényálláson. Önálló j) jogcímre tehát nem lehet megszüntetési vagy megszűnési következtetést építeni."
+        },
+        {
+          "text": "Megszűnik a 70. életév betöltésével, valamint a kormányzati igazgatási szerv jogutód nélküli megszűnésével.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a hetvenedik életév és a jogutód nélküli szervi megszűnés a Kit. 104. § (1) c) és d) pontja szerinti ex lege ok. A 70. életév alól a miniszterelnök a (2) bekezdés szerint felmentést adhat, ha a kinevezés tartós külszolgálathoz kapcsolódó külképviselet-vezetői megbízáshoz szükséges. Jogutód nélküli megszűnésnél a (3) bekezdés a felmentési időre járó illetménnyel egyező összeget ír elő."
+        },
+        {
+          "text": "A megszűnés kizárólag a felek közös megegyezésével és a tisztviselő lemondásával történhet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közös megegyezés és a lemondás a Kit. 105. § (1) a)–b) pontja szerinti megszüntetési jogcímek, nem a 104. § taxációja. A megszűnés ex lege tényállásokkal – például határozott idő, halál, 70. életév, nyugdíjkorhatár – áll be. A két kategória összekeverése a konstitutív és a deklaratív út elhatárolását rombolja."
+        },
+        {
+          "text": "Megszűnik a jogviszony a kinevezésben foglalt határozott idő lejártával és a kormánytisztviselő halálával.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 104. § (1) a) és b) pontja taxatív megszűnési ok. Ezek a törvény erejénél fogva állnak be, konstitutív felmentő aktus nélkül. A határozott idő lejárta és a halál tehát nem a 105. § szerinti megszüntetési jogcímek közé tartozik."
+        }
+      ],
+      "sourceKerdesSorszam": 2,
+      "sourceHash": "178fd33efdec"
+    },
+    {
+      "question": "A Kit. 105. § szerinti megszüntetésről és a folyamatosságról mi igaz?",
+      "options": [
+        {
+          "text": "A megszüntetés helyett az Mt. szerinti felmondás alkalmazandó a kormányzati szolgálati jogviszonyra.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kormányzati szolgálati jogviszony a Kit. közszférás rendje; a 105. § taxációja a felmentést, lemondást és a többi Kit.-jogcímet nevezi meg. Az Mt. felmondása munkaviszonyra szól, ide nem helyettesítő. Felmondás és felmentés összekeverése tipikus elhatárolási hiba."
+        },
+        {
+          "text": "A jogviszony megszüntethető közös megegyezéssel, lemondással, felmentéssel, hivatalvesztés fegyelmi büntetéssel és próbaidő alatti azonnali hatállyal.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 105. § (1) a)–e) pontja öt jogcímet sorol fel. A megszüntetés mindegyik esetben jognyilatkozattal – nem puszta törvényi tény bekövetkeztével – hozza létre a jogviszony végét. Az Mt. felmondása ebbe a taxációba nem fér bele, és nem helyettesíti a Kit. jogcímeit."
+        },
+        {
+          "text": "A megszüntetést követő 30 napon belüli, első jogviszonyként történő újbóli létesítésnél a jogviszony folyamatosnak tekintendő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 105. § (2) bekezdése a megszüntetés utáni harminc napos ablakhoz fűzi a folyamatosság vélelmét. A 104. § (9)–(10) bekezdése a megszűnésnél párhuzamos szerkezetet ad, ideértve a Kttv. és a Küt. szerinti előzményt is. A folyamatosság különösen a végkielégítési idő számításánál számít."
+        },
+        {
+          "text": "A közös megegyezés a bíróság vagy az Alkotmánybíróság konstitutív aktusa.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a közös megegyezés a Kit. 105. § (1) a) pontja szerint a kormánytisztviselő és a szerv egybehangzó akaratnyilatkozata. Sem a bíróság, sem az Alkotmánybíróság nem alanya és nem kötelező résztvevője ennek a jogügyletnek. A bíróság a jogellenesség megállapításánál léphet be, nem a megegyezés megalkotásánál."
+        }
+      ],
+      "sourceKerdesSorszam": 3,
+      "sourceHash": "1c7dc0b6641d"
+    },
+    {
+      "question": "A Kit. szerinti lemondásról (106. §) mely állítások helyesek?",
+      "options": [
+        {
+          "text": "Lemondásnál a szerv köteles felmentési időt és végkielégítést fizetni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a lemondás a tisztviselő egyoldalú megszüntetése a 106. § alapján; a felmentési idő a 111. §, a végkielégítés főszabálya a 112. § a felmentéshez és meghatározott megszűnési esetekhez kötődik. Lemondásnál a szervnek nincs ilyen fizetési kötelezettsége. A tévedés a felmentés jogkövetkezményeinek átvitele."
+        },
+        {
+          "text": "A felek megállapodhatnak a két hónapnál rövidebb lemondási időben.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 106. § szerint a két hónapos lemondási idő törvényi mérték, a felek nem rövidíthetik. Határozott idejű jogviszonynál legfeljebb a kinevezés végéig tarthat, de ez sem a felek diszpozitív rövidítése. A rövidebb időre kötött megállapodás tehát nem felel meg a 106. § kógens keretének."
+        },
+        {
+          "text": "A lemondási idő két hónap; határozott idejű jogviszonynál nem terjedhet túl a kinevezésben meghatározott időtartamon.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 106. § (2) bekezdése szerint: „A kormánytisztviselő lemondási ideje két hónap.” A (3) bekezdés szerint határozott idejű jogviszonynál a lemondási idő nem terjedhet túl a kinevezésben meghatározott időtartamon. A felek a két hónapnál rövidebb lemondási időben nem állapodhatnak meg. A felmentési idő ehhez képest a 111. § szerint a felmentéshez, nem a lemondáshoz kötődik."
+        },
+        {
+          "text": "A kormánytisztviselő a kormányzati szolgálati jogviszonyról bármikor lemondhat; a lemondás indokoláshoz nem kötött.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 106. § (1) bekezdése szerint: „A kormánytisztviselő a kormányzati szolgálati jogviszonyról bármikor lemondhat.” A lemondás a 105. § (1) b) pontja szerinti egyoldalú megszüntetési jogcím, indokolás nélkül. A lemondási idő a 106. § (2) szerint két hónap. A 117. § (8) szerinti hároméves újraalkalmazási korlátozás egyik tényállása is a lemondás."
+        }
+      ],
+      "sourceKerdesSorszam": 4,
+      "sourceHash": "6795bd2b081b"
+    },
+    {
+      "question": "A Kit. 107. § szerinti felmentés diszkrecionális és kötelező ágáról mi igaz?",
+      "options": [
+        {
+          "text": "A 107. § (2) szerint a jogviszonyt felmentéssel meg kell szüntetni érdemtelenség, nem megfelelő munkavégzés, foglalkoztatást kizáró ok vagy egészségügyi alkalmatlanság esetén is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 107. § (2) a)–g) pontja a kötelező ág: érdemtelenség, nem megfelelő munkavégzés, foglalkoztatást kizáró ok, egészségügyi alkalmatlanság, a Tny. 18. § (2a) szerinti kérelem, a 82. § (7) esete és a tisztviselő 89. § (3) vagy 166. § (5) szerinti kérelme. Itt nincs diszkréció a megszüntetés elmaradására. A két ág összekeverése a jogkövetkezményeket is eltorzítja."
+        },
+        {
+          "text": "A 107. § (1) szerint a jogviszony felmentéssel akkor szüntethető meg, ha például létszámcsökkentést kell végrehajtani, vagy megszűnt az álláshelyen ellátott feladat.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 107. § (1) a)–h) pontja a „szüntethető meg” ág: létszámcsökkentés, feladat- vagy álláshely-megszűnés, hatékonyabb ellátás miatti csere, nyugdíjas minőség, valótlan nyilatkozat, engedély- vagy bejelentésmulasztás és a 82. § (7a) szerinti döntés. Itt a szervnek van mérlegelési tere, de a felmentést a (3) bekezdés szerint indokolni kell. Ez megszüntetés a 105. § (1) c) pontja szerint, nem a 104. § szerinti törvény erejénél fogva beálló megszűnés."
+        },
+        {
+          "text": "A felmentés mindig a 104. § szerinti törvény erejénél fogva beálló megszűnés egyik altípusa.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felmentés a Kit. 105. § (1) c) pontja szerinti megszüntetési jogcím, konstitutív jognyilatkozattal. A 104. § a megszűnés taxációja – ex lege tények –, a 107. § pedig a felmentés okait bontja ki. A felmentési idő, védelem és végkielégítés a megszüntetéshez, nem a puszta megszűnéshez kapcsolódik."
+        },
+        {
+          "text": "A 107. § (1) és (2) közötti különbség csak stilisztikai: mindkét ágon ugyanaz a szervi mérlegelés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 107. § (1) bekezdése „szüntethető meg”, a (2) bekezdés „meg kell szüntetni” formulája dogmatikailag eltérő. Az előbbi diszkrecionális okokat, az utóbbi kötelező felmentési okokat – például érdemtelenséget vagy foglalkoztatást kizáró okot – ad. Érdemtelenségnél vagy foglalkoztatást kizáró oknál a szerv nem tarthatja fenn a jogviszonyt mérlegeléssel."
+        }
+      ],
+      "sourceKerdesSorszam": 5,
+      "sourceHash": "0743f81dee0d"
+    },
+    {
+      "question": "A felmentés indokolásáról és a foglalkoztatást kizáró okról a Kit. 107. § szerint mi helytálló?",
+      "options": [
+        {
+          "text": "Foglalkoztatást kizáró oknál a szerv – a (7) bekezdés érvénytelenségi ágával – azonnali hatállyal szüntet meg; felmentési idő és végkielégítés nem jár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 107. § (6) és (8) bekezdése szerint a foglalkoztatást kizáró ok tudomásra jutásakor a megszüntetés azonnali hatályú, felmentési idő és végkielégítés nélkül. A (7) bekezdés a 75. § (1) szerinti érvénytelenségi ágat is rögzít meghatározott igazolási mulasztásoknál. Az okot és a jogkövetkezményeket közölni kell a tisztviselővel."
+        },
+        {
+          "text": "A felmentést indokolni kell; az oknak világosnak, valósnak és okszerűnek kell lennie, a bizonyítási teher főszabályként a szervé.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 107. § (3) bekezdése szerint a szerv köteles megindokolni a felmentést, és bizonyítania kell, hogy az indok valós és okszerű. A (4) bekezdés kivételként a nyugdíjasnak minősülő tisztviselő határozatlan idejű jogviszonyánál mentesít az indokolás alól. A bizonyítási teher tehát nem a tisztviselőé, kivéve e kivételt."
+        },
+        {
+          "text": "Foglalkoztatást kizáró oknál is mindig jár a két hónapos felmentési idő és a sávos végkielégítés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 107. § (8) bekezdése kifejezetten kizárja a felmentési időt és a végkielégítést a (6) bekezdés szerinti foglalkoztatást kizáró ok miatti megszüntetésnél. A 111. § (8) és a 112. § (10) ugyanezt erősíti. A főszabályos felmentési járandóságok ide nem vihetők át."
+        },
+        {
+          "text": "Nyugdíjasnak minősülő tisztviselő határozatlan idejű felmentésénél is mindig indokolni kell a felmentést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 107. § (4) bekezdése szerint a szerv a határozatlan időtartamú jogviszony felmentéssel történő megszüntetését nem köteles indokolni, ha a kormánytisztviselő nyugdíjasnak minősül. A (3) bekezdés általános indokolási kötelezettsége tehát e kivételnél nem érvényesül. A többi felmentési oknál az indokolás továbbra is kötelező."
+        }
+      ],
+      "sourceKerdesSorszam": 6,
+      "sourceHash": "9056f641ad92"
+    },
+    {
+      "question": "A Kit. 108. § szerinti, feladatok hatékonyabb ellátása miatti felmentésről mi igaz?",
+      "options": [
+        {
+          "text": "A szerv indokolás nélkül, azonnal felmenthet, ha úgy ítéli meg, hogy más tisztviselő hatékonyabb.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 108. § (5) bekezdése szerint az indokolásnak tartalmaznia kell az érdekköri okot és a hiányzó követelményt. A (2)–(3) bekezdés képzettségfelajánlást és álláshelyfelajánlást követel meg. Puszta hatékonysági értékítélet, felajánlás és indokolás nélkül nem felel meg a 108. §-nak."
+        },
+        {
+          "text": "Ha az álláshelyre szabott feladatokban a szerv érdekkörében olyan változás áll be, amelyre a tisztviselő képzettsége nem megfelelő, az álláshely más kormánytisztviselővel tölthető be.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 108. § (1) bekezdése operacionalizálja a 107. § (1) d) pontját. A változás a szerv érdekkörében felmerülő ok lehet, különösen jogszabályváltozás miatt. Önmagában a képzettséghiány nem elég: a szervnek képzettség- és álláshelyfelajánlási kötelezettsége is van."
+        },
+        {
+          "text": "A szerv köteles felajánlani, hogy a hiányzó végzettséget, szakképzettséget vagy szakképesítést az oktatási intézmény észszerű határidején belül megszerezze a tisztviselő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 108. § (2) bekezdése kötelező felajánlást ír elő a hiányzó képzettség megszerzésére. A (6) bekezdés szerint a felmentés nem alkalmazható, ha a tisztviselő vállalja a megszerzést, vagy a felajánlott, képzettségének megfelelő álláshelyet elfogadja. A (3) bekezdés szerint felmentés csak akkor jogszerű, ha nincs megfelelő betölthető álláshely, vagy azt elutasítják."
+        },
+        {
+          "text": "A felmentés akkor is jogszerű, ha a tisztviselő vállalta a hiányzó képzettség megszerzését a megadott határidőn belül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 108. § (6) a) pontja szerint a 107. § (1) d) pontja alapján történő felmentés nem alkalmazható, ha a tisztviselő kötelezettséget vállal a képzettség megszerzésére. Ugyanígy kizárt a felmentés, ha a felajánlott megfelelő álláshelyet elfogadja. A vállalás tehát gátolja, nem engedélyezi a felmentést."
+        }
+      ],
+      "sourceKerdesSorszam": 7,
+      "sourceHash": "08425b5ea9ee"
+    },
+    {
+      "question": "A Kit. 109. § szerinti érdemtelenségről mely állítások helyesek?",
+      "options": [
+        {
+          "text": "Az érdemtelenség megállapítható puszta bizalomvesztés vagy általános értékítélet alapján, bizonyítható tény nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 109. § (1) bekezdése kizárólag bizonyítható tényt enged indoknak; a puszta bizalomvesztés önmagában nem elég. A (2) bekezdés konkrét alakzatokat – munkahelyen kívüli súlyos hírnévrombolás vagy szakmai elhivatottság hiánya – követel meg. Az Mt. azonnali hatályú felmondásának „bizalomvesztés” mintája ide nem ültethető át."
+        },
+        {
+          "text": "Érdemtelenség miatti felmentésnél is jár a két hónapos felmentési idő és a végkielégítés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 111. § (8) bekezdése szerint felmentési idő nem illeti meg a 107. § (2) a) pontja szerinti érdemtelenség jogcímén. A 112. § (10) b) pontja a végkielégítést is kizárja érdemtelenségnél. Emellett a 117. § (6) hároméves újraalkalmazási tilalmat állít érdemtelenség miatti megszüntetés után."
+        },
+        {
+          "text": "A felmentési jog szubjektív harminc napos és objektív egyéves határidőhöz kötött; a döntés előtt főszabályként tizenöt napos védekezési jog jár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 109. § (3) a) pontja a tudomásszerzéstől számított harminc napot, legfeljebb a bekövetkezéstől egy évet ír elő; bűncselekménynél a büntethetőség elévüléséig gyakorolható a jog. A (4) bekezdés tizenöt napot ad a védekezés előadására és a bizonyítékok előterjesztésére, kivéve ha ez a szervtől nem várható el. Az érdemtelenség a 107. § (2) a) pontja szerinti kötelező felmentés, felmentési idő nélkül."
+        },
+        {
+          "text": "Az érdemtelenség indoka kizárólag a tisztviselő magatartásában vagy munkavégzésében megnyilvánuló, bizonyítható tény lehet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 109. § (1) bekezdése szerint: „Az érdemtelenség indoka kizárólag a kormánytisztviselő magatartásában, illetve a munkavégzésében megnyilvánuló és bizonyítható tény lehet.” Puszta értékítélet vagy „bizalomvesztés” önmagában nem elég. A 107. § (2) a) pontja szerinti kötelező felmentéshez a (2) bekezdés két alakzata – munkahelyen kívüli súlyos hírnévrombolás vagy szakmai elhivatottság hiánya – kell. A (3) bekezdés szerint a jog tudomásszerzéstől számított harminc napos és bekövetkezéstől számított egyéves határidőhöz kötött."
+        }
+      ],
+      "sourceKerdesSorszam": 8,
+      "sourceHash": "41b83bdb3c04"
+    },
+    {
+      "question": "A Kit. 110. § szerinti csoportos jellegű felmentési tájékoztatásról mi igaz?",
+      "options": [
+        {
+          "text": "A tájékoztatási kötelezettség feltétele, hogy a felmentés a 107. § (1) a)–c) pontján nyugodjon, és a harminc napon belüli létszám elérje a törvényi küszöböket.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 110. § (2) bekezdése a küszöböket a foglalkoztatottak számához igazítja: húsz fő alatt legalább öt, húsz–kilencvenkilenc között legalább tíz, száz–kétszázkilencvenkilenc között legalább tíz százalék, háromszáz főtől legalább harminc fő. A kötelezettség csak a 107. § (1) a)–c) pont szerinti felmentési okkal együtt él. A (3) bekezdés szerint a kormányzati szolgálati jogviszonyban és a munkaviszonyban állók létszámát össze kell számítani."
+        },
+        {
+          "text": "A szerv legkésőbb a felmentés közlésekor írásban tájékoztatja az állami foglalkoztatási szervet és a kormányzati személyügyi igazgatásra kijelölt szervet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 110. § (1) bekezdése a címzetteket és a tartalmat – személyes adatok, végzettség, szakképzettség, szakképesítés, illetmény – rögzíti. A tájékoztatás nem a tisztviselőt, hanem e szerveket címzi. A kötelezettség a (2) bekezdés szerinti küszöbök és a 107. § (1) a)–c) pont szerinti okok együttes fennállásakor él."
+        },
+        {
+          "text": "A 110. § szerinti tájékoztatás minden egyes egyéni felmentésnél kötelező, küszöb nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 110. § (2) bekezdése kettős feltételt állít: a 107. § (1) a)–c) pont szerinti ok és a létszámküszöb. Egyetlen felmentés önmagában, küszöb alatt nem váltja ki a csoportos tájékoztatást. A (3) bekezdés szerinti összeszámítás is a küszöb számításához, nem a kötelezettség eltörléséhez kell."
+        },
+        {
+          "text": "A tájékoztatás címzettje kizárólag a felmentett kormánytisztviselő, személyes indokolással.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 110. § (1) bekezdése az állami foglalkoztatási szervet és a kormányzati személyügyi igazgatásra kijelölt szervet címzi. A tisztviselő felé a felmentés indokolása a 107. § (3) rendje; a 110. § csoportos jellegű, hatósági tájékoztatás. A két címzetti kör összekeverése eljárási hibához vezet."
+        }
+      ],
+      "sourceKerdesSorszam": 9,
+      "sourceHash": "5638b68c14c2"
+    },
+    {
+      "question": "A Kit. 111. § szerinti felmentési időről mely állítások helytállóak?",
+      "options": [
+        {
+          "text": "Felmentési idő érdemtelenség, foglalkoztatást kizáró ok és valótlan nyilatkozat miatti felmentés esetén is jár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 111. § (8) bekezdése szerint felmentési idő nem illeti meg a 107. § (2) a) pontja szerinti érdemtelenség, a 107. § (6) szerinti foglalkoztatást kizáró ok és a 107. § (1) f) pontja szerinti valótlan nyilatkozat miatti felmentésnél. A két hónapos főszabály tehát e kivételeknél nem érvényesül. A 112. § (10) a végkielégítést is kizárja ugyanezen körben."
+        },
+        {
+          "text": "A tisztviselőt a felmentés időtartamának legalább a felére mentesíteni kell a munkavégzés alól; erre az időre illetmény jár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 111. § (4) bekezdése legalább felerészű mentesítést és illetményt ír elő, legfeljebb két részletben, a tisztviselő kérésének megfelelően. A mentesítettel szemben az összeférhetetlenségi szabályok nem alkalmazhatók. A (7) bekezdés szerint költségvetési szervvel létesített új jogviszony a hátralévő időre elvonja az illetményt."
+        },
+        {
+          "text": "A felmentési idő a 104. § szerinti megszűnésnél is mindig két hónap.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felmentési idő a Kit. 111. § szerint a felmentéshez – megszüntetéshez – kötődik; a 104. § szerinti megszűnésnél nincs felmentési idő. Jogutód nélküli megszűnésnél a 104. § (3) egyösszegű, a felmentési idő illetményével egyező kifizetést ír elő. Ez nem ugyanaz, mint a folyamatban lévő, két hónapos felmentési idő a 111. § szerint."
+        },
+        {
+          "text": "A felmentési idő két hónap; a felmentési okmányban megjelölt napon kezdődik, de legkorábban a közlést követő napon.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 111. § (1) bekezdése szerint: „A felmentési idő két hónap.” A (2) bekezdés szerint a felmentési idő a felmentési okmányban megjelölt napon kezdődik, legkorábban a közlést követő napon. Határozott idejű jogviszonynál a (3) bekezdés szerint a felmentési idő nem nyúlhat túl azon az időponton, amikor a jogviszony felmentés nélkül is megszűnt volna. A (4) bekezdés szerint a tisztviselőt a felmentés időtartamának legalább a felére mentesíteni kell a munkavégzés alól."
+        }
+      ],
+      "sourceKerdesSorszam": 10,
+      "sourceHash": "42035320a8c1"
+    },
+    {
+      "question": "A Kit. 112. § szerinti végkielégítés jogosultságáról és mértékéről mi igaz?",
+      "options": [
+        {
+          "text": "Érdemtelenség, nem megfelelő munkavégzés, foglalkoztatást kizáró ok vagy valótlan nyilatkozat miatti felmentésnél is jár a teljes végkielégítés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 112. § (10) b)–c) pontja kizárja a végkielégítést érdemtelenség, nem megfelelő munkavégzés, foglalkoztatást kizáró ok, a 166. § (5) szerinti kérelem és a 107. § (1) f) pontja szerinti valótlan nyilatkozat miatti felmentésnél. Nyugdíjasnak minősülő tisztviselő sem jogosult a (10) a) pont szerint. A főszabályos sávok ide nem alkalmazhatók."
+        },
+        {
+          "text": "A végkielégítés mértékénél mindig csak a magánmunkajogi Mt. szerinti munkaviszonyban töltött idő számít.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 112. § (4) bekezdése főszabályként a kormányzati szolgálati jogviszonyban eltöltött időt veszi figyelembe. A (6) bekezdés a jogelődöt, más közszolgálati és szolgálati időket is beszámíthat, ha azokra korábban nem fizettek végkielégítést. Az Mt. munkaviszonya önmagában nem a Kit. végkielégítési mértékének alapja."
+        },
+        {
+          "text": "Az öregségi nyugdíjra való jogosultság megszerzését megelőző öt éven belül a mérték négyhavi illetménnyel emelkedik, de az emelt összeg ugyanazon a jogcímen csak egyszer jár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 112. § (3) bekezdése a négyhavi emelést és az egyszeri igénybevétel tilalmát rögzíti. A kifizetett végkielégítést a foglalkoztatási igazoláson fel kell tüntetni. A (4) bekezdés főszabályként csak a kormányzati szolgálati időt engedi beszámítani, a (6) azonban a jogelődöt és más közszolgálati időket is, ha azokra korábban nem fizettek végkielégítést."
+        },
+        {
+          "text": "Végkielégítés főszabályként felmentésnél, a szerv jogutód nélküli megszűnésénél, valamint a 104. § (1) k)–m) pontja szerinti álláshelyállományi megszűnésnél jár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 112. § (1) a)–d) pontja e jogosultsági köröket nevezi meg, a (10) bekezdés kivételeivel. A mérték a (2) bekezdés szerint a kormányzati szolgálati időhöz igazodik: három évtől egyhavi, húsz évtől nyolchavi illetmény. Az összeg a felmentési idő kezdetekor vagy a jogutód nélküli megszűnéskor irányadó illetményen alapul."
+        }
+      ],
+      "sourceKerdesSorszam": 11,
+      "sourceHash": "6a1571327ac5"
+    },
+    {
+      "question": "A Kit. 113. § szerinti felmentési védelemről mely állítások helyesek?",
+      "options": [
+        {
+          "text": "A várandósságra és a reprodukciós kezelésre a tisztviselő csak akkor hivatkozhat, ha a szervet tájékoztatta; a közlés utáni tájékoztatásnál a felmentés legfeljebb tizenöt napon belül visszavonható.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 113. § (3) bekezdése a tájékoztatási feltételt és a legfeljebb tizenöt napos írásbeli visszavonhatóságot rögzíti, a jogviszony megszűnéséig. Az (1) bekezdés a) és f) pontjára – várandósság és reprodukciós kezelés – csak előzetes szervi tájékoztatás után lehet hivatkozni. Az (5) bekezdés a betegség miatti keresőképtelenségnél a felmentési idő legkorábbi kezdőnapját a keresőképtelenség, legfeljebb a betegszabadság lejártát követő egy év letelte utáni napra teszi."
+        },
+        {
+          "text": "Felmentési védelem érdemtelenség és foglalkoztatást kizáró ok jogcímén is teljeskörűen megilleti a tisztviselőt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 113. § (8) bekezdése szerint felmentési védelem nem illeti meg érdemtelenség, foglalkoztatást kizáró ok, a 107. § (1) f) vagy h) pontja, valamint a 107. § (2) f) pontja alapján történt felmentés esetén. A (6) bekezdés a nyugdíjasnál, a (7) a saját kérelemnél is elenyészti a védelmet. A várandósságra és a reprodukciós kezelésre való hivatkozás pedig a (3) bekezdés szerint csak előzetes tájékoztatás után él."
+        },
+        {
+          "text": "A 104. § szerinti megszűnésnél is mindig alkalmazandó a 113. § felmentési védelme.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 113. § a felmentéssel történő megszüntetésre – a szerv felmentő jognyilatkozatára – vonatkozik. A 104. § szerinti ex lege megszűnésnél nincs felmentési védelem, mert nincs felmentés. A két intézmény összekeverése a megszűnés–megszüntetés dogmatikáját sérti."
+        },
+        {
+          "text": "A szerv felmentéssel nem szüntetheti meg a jogviszonyt többek között a várandósság, a szülési szabadság és a gyermek hároméves koráig terjedő időszak alatt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 113. § (1) a)–c) pontja e védelmeket nevesíti, a gyermekgondozási fizetés nélküli szabadság mellett a gyermek hároméves koráig tartó időszakot is. A védelem szempontjából a (2) bekezdés szerint a felmentés közlésének időpontja az irányadó. További védett helyzetek: beteg gyermek ápolása, tartalékos szolgálat, reprodukciós kezelés legfeljebb hat hónapja."
+        }
+      ],
+      "sourceKerdesSorszam": 12,
+      "sourceHash": "4a0e5164c580"
+    },
+    {
+      "question": "A Kit. 104. § (1) h) pontja szerinti nyugdíjkorhatáros megszűnésről mi igaz?",
+      "options": [
+        {
+          "text": "Ha a szerv nem tartja fenn a jogviszonyt, a megszűnés napja a döntés kézhezvétele hónapjának vagy a későbbi korhatár-hónapnak az utolsó napja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 104. § (7) bekezdése ezt az időpontot rögzíti: a döntés kézhezvétele hónapjának vagy – ha későbbi – a korhatár-hónapnak az utolsó napja. Az (5)–(6) bekezdés szerint a szerv a Kormány véleményét kikéri, és a Kormány véleménye köti. A 3152/2017. (VI.14.) AB végzés ratio-ja szerint a bíróság a konstatáló értesítés jogszerűségét vizsgálhatja, a továbbfoglalkoztatást alanyi jogon nem kényszerítheti ki."
+        },
+        {
+          "text": "A nyugdíjkorhatáros vég mindig a szerv konstitutív felmentő aktusával, két hónapos felmentési idővel történik.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 104. § (1) h) pontja szerinti vég megszűnés: a törvény erejénél fogva áll be, nem a 107. § szerinti felmentés. Felmentési idő a 111. § szerint a felmentéshez kötődik, ide nem jár. A szerv aktusa a fenntartás Kormány-engedélyhez kötött kivétele, nem a megszűnés konstitutív előidézése."
+        },
+        {
+          "text": "A jogviszony megszűnik, ha a tisztviselő betöltötte az öregségi nyugdíjkorhatárt és megszerezte az öregségi teljes nyugdíjhoz szükséges szolgálati időt, meghatározott kivételekkel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 104. § (1) h) pontja az öregségi nyugdíjkorhatár betöltését és az öregségi teljes nyugdíjhoz szükséges szolgálati idő megszerzését köti a törvény erejénél fogva beálló megszűnéshez. Kivétel az egészségügyi dolgozónak minősülő kormánytisztviselő, valamint ha a Kormány engedélyezte és a szerv fenntartja a jogviszonyt. Ez a 104. § szerinti megszűnés, nem a 105. § (1) c) pontja szerinti felmentés, ezért felmentési idő sem jár."
+        },
+        {
+          "text": "A Kormány egyetértése nélkül is szabadon fenntartható a jogviszony a korhatár után.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 104. § (6) bekezdése szerint a szerv csak akkor tarthatja fenn a jogviszonyt, ha a Kormány egyetért azzal; a Kormány véleménye köti a szervet. Az (5) bekezdés a szerv egyetértése esetén is kötelezővé teszi a Kormány véleményének kikérését. Engedély nélküli fenntartás tehát nem felel meg a h) pont kivételének, és a (7) szerinti megszűnési nap beáll."
+        }
+      ],
+      "sourceKerdesSorszam": 13,
+      "sourceHash": "0980d129b86e"
+    },
+    {
+      "question": "A Kit. 104. § (8)–(10) bekezdése szerinti nemzetközi jogviszonyról és a folyamatosságról mi helytálló?",
+      "options": [
+        {
+          "text": "A folyamatosság csak akkor él, ha a felek erről külön közös megegyezésben rendelkeznek.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 104. § (9)–(10) és a 105. § (2)–(3) a folyamatosságot törvényi vélelemként fűzi a harminc napos, első jogviszonyként történő újbóli létesítéshez. Nincs szükség külön közös megegyezésre a folytonosság kimondásához. A közös megegyezés a 105. § (1) a) pontja szerinti megszüntetési jogcím, nem a folyamatosság feltétele."
+        },
+        {
+          "text": "A megszűnést követő 30 napon belüli, első jogviszonyként történő újbóli létesítésnél a jogviszony folyamatosnak tekintendő, ideértve a Kttv. és a Küt. szerinti előzményt is.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 104. § (9)–(10) bekezdése a harminc napos ablakhoz fűzi a folyamatosság vélelmét. A (10) a Kttv., a Küt. és más közszolgálati, szolgálati előzményeket is beszámít, ha az új kormányzati szolgálat első jogviszonyként, harminc napon belül jön létre. A folyamatosság különösen a végkielégítési időnél számít."
+        },
+        {
+          "text": "A nemzetközi szervnél létesített jogviszony csak a tisztviselő lemondásával szüntetheti meg a kormányzati szolgálatot.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 104. § (1) g) pontja és a (8) bekezdés szerint a nemzetközi vagy uniós jogviszony létesítése megszűnési tény, a kezdet előtti nappal. A 106. § szerinti lemondás nem feltétele ennek a végnek. A lemondás a 105. § (1) b) pontja szerinti megszüntetési jogcím, míg a g) pont a 104. § taxációjába tartozik."
+        },
+        {
+          "text": "Állam- vagy kormányközi nemzetközi szervezetnél, illetve az EU szerveinél létesített jogviszonynál a kormányzati szolgálati jogviszony a külföldi jogviszony kezdete előtti napon szűnik meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 104. § (8) bekezdése az (1) g) pont időbeli szabálya: a megszűnés a nemzetközi vagy uniós jogviszony kezdete előtti nap. Ez ex lege megszűnés a 104. § taxációjában, nem lemondás vagy felmentés. A g) pont önmagában a létesítést teszi megszűnési ténnyé, a (8) a konkrét napot rögzíti."
+        }
+      ],
+      "sourceKerdesSorszam": 14,
+      "sourceHash": "c21f7951392d"
+    },
+    {
+      "question": "A Kit. 114. § szerinti jogviszonyváltásról mely állítások igazak?",
+      "options": [
+        {
+          "text": "Ha az átvevő a Kjt. szerint nem létesíthet jogviszonyt az átadott tisztviselővel, a kormányzati szolgálati jogviszony a törvény erejénél fogva megszűnik, és végkielégítés jár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 114. § (3) bekezdése ex lege megszűnést állít az átadás időpontjában; ez a 104. § (1) i) pontjának utaló ténye. A megszűnésről írásban értesíteni kell, és a 112. § szerint megállapított végkielégítést kell fizetni. Összeférhetetlenségnél a (4) bekezdés ugyanezt az utat adja, kivéve ha harminc napon belül megszüntetik a kiváltó okot."
+        },
+        {
+          "text": "Az átalakult időt nem lehet az átvevőnél eltöltött időként figyelembe venni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 114. § (7) bekezdése szerint az átalakulással érintett szervnél elismert kormányzati szolgálati időt úgy kell tekinteni, mintha azt az átvevőnél töltötték volna el. Az (5) bekezdés negyvenöt napon belüli besorolást és illetmény-megállapítást ír elő. Az idő tehát nem vész el az átalakulással."
+        },
+        {
+          "text": "Jogviszonyváltáskor a jogviszony mindig a felek közös megegyezésével szűnik meg, végkielégítés nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 114. § (1) főszabálya átalakulás, nem megszüntetés; a (3) bekezdés szerinti alkalmatlanságnál pedig ex lege megszűnés végkielégítéssel. A közös megegyezés a 105. § (1) a) pontja, ide nem kötelező út. A 104. § (1) i) pont a (3) bekezdés esetét a megszűnés taxációjába emeli."
+        },
+        {
+          "text": "Ha a szerv egésze vagy egy része Kjt. hatálya alá kerül, a kormánytisztviselő jogviszonya főszabályként közalkalmazotti jogviszonnyá alakul.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 114. § (1) bekezdése a jogállásváltozás időpontjában történő átalakulást írja elő, és az álláshely a központosított álláshely-állományba kerül. Az átvevő a (2) bekezdés szerint harminc napon belül tájékoztat. A (6) bekezdés szerint a határozatlan és a teljes munkaidős jelleg főszabályként átszáll."
+        }
+      ],
+      "sourceKerdesSorszam": 15,
+      "sourceHash": "ff567f357275"
+    },
+    {
+      "question": "A Kit. 115. § szerinti elszámolásról a jogviszony végén mi helytálló?",
+      "options": [
+        {
+          "text": "A 115. § csak a felmentésnél alkalmazandó; megszűnésnél nincs elszámolási kötelezettség.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 115. § (1)–(2) kifejezetten a megszüntetésre és a megszűnésre is kiterjed. Az iratátadás, az elszámolás és a járandóságok kifizetése mindkét végnél kötelező. A megszűnés–megszüntetés elhatárolása a jogcímben van, nem az elszámolási záradék kihagyásában."
+        },
+        {
+          "text": "Az utolsó munkában töltött napon, de legkésőbb tizenöt napon belül ki kell fizetni az illetményt és az egyéb járandóságokat – a szabadságmegváltás kivételével –, és ki kell adni a foglalkoztatási igazolást.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 115. § (2) bekezdése ezt a határidőt és a szabadságmegváltás kivételét rögzíti; az igazolás elektronikus úton jár. A 112. § (3) szerinti kifizetett végkielégítést is fel kell tüntetni a foglalkoztatási igazoláson. A (3) bekezdés a Közszolgálati Személyügyi Szolgáltatási Keretrendszer igénybevételét is lehetővé teszi."
+        },
+        {
+          "text": "A tisztviselő köteles a feladataival kapcsolatos iratokat átadni és a szervvel elszámolni; az elektronikus átadás feltételeit a szerv biztosítja.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 115. § (1) bekezdése a megszűnésre és a megszüntetésre egyaránt vonatkozik. Az átadás-átvétel és az elszámolás elektronikus lebonyolításának feltételeit a szervnek kell biztosítania. Ez eljárási záradék, nem önálló megszüntetési jogcím."
+        },
+        {
+          "text": "A foglalkoztatási igazolást csak papíron, hatvan napon belül kell kiadni.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 115. § (2) bekezdése szerint az igazolást elektronikus úton kell kiadni, az utolsó munkában töltött napon, de legkésőbb tizenöt napon belül. Sem a hatvan napos határidő, sem a kizárólagos papíralapú forma nem felel meg a szakasznak. A járandóságok kifizetése ugyanerre a határidőre esik, a szabadságmegváltás kivételével."
+        }
+      ],
+      "sourceKerdesSorszam": 16,
+      "sourceHash": "d63e8d19cd48"
+    },
+    {
+      "question": "A Kit. 116. § szerinti jogellenes megszüntetésnél a visszahelyezésről mi igaz?",
+      "options": [
+        {
+          "text": "Az eredeti álláshelyen történő továbbfoglalkoztatás csak taxatív esetekben kérhető, például felmentési védelembe ütközés vagy egyenlő bánásmód sérelme esetén.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 116. § (1) a)–e) pontja a visszahelyezést kivétellé teszi: joggal való visszaélés vagy felmentési védelem, szakszervezeti illetve munkavédelmi védelem sérelme, aránytalan hivatalvesztés, egyenlő bánásmód sérelme, illetve sikeresen megtámadott közös megegyezés vagy saját jognyilatkozat. Nem általános alanyi jog minden jogellenességnél. A Közszolgálati Döntőbizottság vagy a bíróság állapítja meg a jogellenességet a visszahelyezés előtt."
+        },
+        {
+          "text": "A visszahelyezés a 104. § szerinti minden megszűnésnél is alanyi jog.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 116. § a szerv jogellenes megszüntetésére vonatkozik, nem a 104. § szerinti ex lege megszűnésre. A 3152/2017. (VI.14.) AB végzés szerint a törvény erejénél fogva beálló végnél a bíróság a továbbfoglalkoztatást nem kényszerítheti ki. A megszűnés és a jogellenes megszüntetés szankciórendje tehát elválik."
+        },
+        {
+          "text": "A szerv kérelmére a továbbfoglalkoztatás mellőzhető, ha az a szervtől nem várható el; ekkor is jár az elmaradt illetmény és a felmerült kár megtérítése az (1) bekezdéses esetben.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 116. § (2) bekezdése a mellőzést a szerv kérelméhez és a várhatóság hiányához köti. A (3) bekezdés az (1) bekezdéses esetben az elmaradt illetményt és a kárt rendeli megtéríteni, levonva a máshonnan megtérült vagy kellő gondossággal megtérülhető részt. A kárenyhítés elmulasztása különösen az állami foglalkoztatási szervvel való együttműködés hiánya."
+        },
+        {
+          "text": "Jogellenes megszüntetésnél a visszahelyezés mindig kötelező, a szerv kérelmére sem mellőzhető.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 116. § (1) csak taxatív esetekben engedi a visszahelyezés kérését, a (2) bekezdés pedig a szerv kérelmére mellőzést enged, ha a továbbfoglalkoztatás nem várható el. A (4) bekezdés szerint, ha nincs visszahelyezés, a jogviszony a döntés véglegessé válásakor vagy jogerőre emelkedésekor szűnik meg. Ekkor legalább két-, legfeljebb tizenkét havi átalánykártérítés is jár az (1) bekezdéses körben."
+        }
+      ],
+      "sourceKerdesSorszam": 17,
+      "sourceHash": "ae5a4c643454"
+    },
+    {
+      "question": "A Kit. 116. § szerinti átalánykártérítés kétcsatornás rendjéről mi helytálló?",
+      "options": [
+        {
+          "text": "A tisztviselő jogellenes kilépésénél semmilyen fizetési kötelezettsége nincs a szerv felé.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 116. § (7) bekezdése szerint, ha a tisztviselő nem az előírtak szerint szünteti meg a jogviszonyt, a lemondási időre járó illetménynek megfelelő összeget kell megfizetnie. Határozott időnél a (8) bekezdés szerint, ha a hátralévő idő rövidebb két hónapnál, csak a hátralévő idő illetménye követelhető. A (9) szerint a szerv többletkára is érvényesíthető, legfeljebb tizenkét havi illetményig együttesen."
+        },
+        {
+          "text": "Egyéb jogellenességnél a jogviszony a jognyilatkozat szerinti időpontban szűnik meg, és legalább két-, legfeljebb huszonnégy havi átalánykártérítés jár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 116. § (5) bekezdése a nem (1) bekezdéses jogellenességnél a huszonnégy havi felső határt adja. A két csatorna tehát elválik: az (1) bekezdéses körben tizenkettő, az egyéb körben huszonnégy a plafon. A (6) bekezdés a kárenyhítési kötelezettség teljesítését is beszámítja a mértékbe."
+        },
+        {
+          "text": "Ha az (1) bekezdéses jogellenességnél nincs visszahelyezés, legalább két-, legfeljebb tizenkét havi illetménynek megfelelő átalánykártérítés jár.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 116. § (4) bekezdése ezt a sávot rögzíti a döntőbizottsági határozat véglegessé válásához vagy a bírói ítélet jogerőre emelkedéséhez kötött megszűnés mellett. A (3) bekezdés szerinti elmaradt illetményen és káron felül jár az átalány. A mérlegelés a jogsértés és következményei súlyát veszi figyelembe."
+        },
+        {
+          "text": "Az átalánykártérítés minden jogellenességnél egységesen egyhavi illetmény.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 116. § (4)–(5) bekezdése kétcsatornás sávot ad: legalább két hónap, felső határként tizenkettő vagy huszonnégy havi illetmény. Egyhavi átalány nincs a törvényi keretben. A mérték a jogsértés súlyának mérlegelésén múlik, nem rögzített egyhavi tételen."
+        }
+      ],
+      "sourceKerdesSorszam": 18,
+      "sourceHash": "55de1340bb8a"
+    },
+    {
+      "question": "A Kit. 117. § szerinti elhelyezkedési és újraalkalmazási korlátozásról mi igaz?",
+      "options": [
+        {
+          "text": "Az elhelyezkedési korlátozás időtartama mindig öt év, függetlenül az álláshelyen eltöltött időtől.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 117. § (2) bekezdése szerint a korlátozás ideje a korlátozás alá eső álláshelyen eltöltött időnek felel meg, de legfeljebb két év. A (6) bekezdés érdemtelenségnél hároméves újraalkalmazási tilalmat, a (8) meghatározott megszüntetéseknél hároméves Kormány-engedélyes létesítést ír elő. Az elhelyezkedési korlátozás tehát nem ötéves általános tartam."
+        },
+        {
+          "text": "Jogellenes megszüntetésnél semmilyen ellenérték nem jár a tisztviselőnek a korlátozás alatt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 117. § (7) bekezdése szerint, ha a jogviszony jogellenesen került megszüntetésre, a tisztviselőnek a hasonló álláshelyen foglalkoztatottal azonos mértékű fizetett ellenérték jár. Az (5) bekezdés az elhelyezkedési korlátozást az illetmény megállapításánál is figyelembe vehetővé teszi. A jogellenesség tehát nem hagyja ellenérték nélkül a korlátozást."
+        },
+        {
+          "text": "A Kormány által kijelölt ágazatban és álláshelyen a tisztviselő a jogviszony vége után az ágazati főtevékenységet végző gazdasági társaságnál nem létesíthet munkavégzésre irányuló jogviszonyt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 117. § (1) bekezdése az elhelyezkedési korlátozást a Kormány által meghatározott ágazatokhoz és álláshelyekhez köti. A (2) bekezdés szerint a tartam a korlátozás alá eső álláshelyen eltöltött idő, de legfeljebb két év. A (3) szerint a szolgálat alatt szerzett információk e határidőn túl sem használhatók fel üzleti célra."
+        },
+        {
+          "text": "Érdemtelenség miatti megszüntetés után három évig nem létesíthető új kormányzati szolgálati jogviszony; lemondás és meghatározott felmentések után három évig csak Kormány-engedéllyel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 117. § (6) bekezdése az érdemtelenségnél abszolút hároméves tilalmat állít. A (8) bekezdés a lemondás, a létszámcsökkentés, a feladatmegszűnés, a hatékonyabb ellátás miatti felmentés és a 107. § (2) g) pontja szerinti kérelem esetén Kormány-engedélyhez köti az újabb létesítést három évig. A (4) a tilalomba ütköző szerződésre a Ptk. vagy az Mt. semmisségi szabályait rendeli."
+        }
+      ],
+      "sourceKerdesSorszam": 19,
+      "sourceHash": "82c1ec726fba"
+    },
+    {
+      "question": "A 3152/2017. (VI.14.) AB végzés és a Kit. nyugdíjkorhatáros megszűnésének kapcsolatáról mi helytálló?",
+      "options": [
+        {
+          "text": "A bírói felülvizsgálat a megszűnés megállapításának és az értesítésnek a jogszabályszerűségére terjedhet ki, a jogviszony fenntartására nem.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 3152/2017. (VI.14.) AB végzés ratio-ja szerint a konkrét aktus a törvény erejénél fogva történt megszűnést konstatálja. A továbbfoglalkoztatás alanyi jogon nem kényszeríthető ki, szemben a Kit. 116. § (1) szerinti taxatív visszahelyezési esetekkel. Ez illeszkedik ahhoz, hogy a Kit. 104. § szerinti megszűnésnél nincs felmentési védelem és nincs konstitutív megszüntető aktus."
+        },
+        {
+          "text": "Az Alkotmánybíróság a kormányzati szolgálati jogviszony harmadik fele, és a megszűnést konstitutív aktussal mondja ki.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 3152/2017. (VI.14.) AB végzés és a Kit. dogmatikája szerint az Alkotmánybíróság nem alanya a kormányzati szolgálati jogviszonynak, és nem mondja ki a megszűnést. A Kit. 104. § (1) h) pontja szerinti vég a törvény erejénél fogva áll be; a szerv deklaratív értesítést ad. A panaszt az Abtv. alapján vizsgálja az Alkotmánybíróság, nem harmadik félként lép be a jogviszonyba."
+        },
+        {
+          "text": "A végzés szerint a jogviszony nem a felek akaratnyilatkozata révén, hanem az öregségi nyugdíjkorhatár betöltésével, a törvény erejénél fogva szűnt meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a 3152/2017. (VI.14.) AB végzés a Kttv. nyugdíjkorhatáros, ex lege megszűnését vizsgálta, és e dogmatikát rögzítette. A felek a tisztviselő és a munkáltató; az Alkotmánybíróság e jogviszonynak nem alanya. A Kit. 104. § (1) h) pontja ugyanezt a szerkezetet viszi tovább a Kormány engedélyéhez kötött fenntartással."
+        },
+        {
+          "text": "A végzés szerint a nyugdíjkorhatáros vég az Mt. szerinti felmondással azonos felülvizsgálati rendet kap.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a végzés a törvény erejénél fogva beálló megszűnést választja el a felek megszüntető jognyilatkozatától. Az Mt. felmondása munkaviszonyra szól, és nem a Kit. 104. § (1) h) pontjának mintája. A felülvizsgálat a konstatáló értesítés jogszerűségére szűkül, nem a felmondás általános munkajogi kontrolljára."
+        }
+      ],
+      "sourceKerdesSorszam": 20,
+      "sourceHash": "5fd7416f2821"
+    },
+    {
+      "question": "A Kit. 104. § (1) e)–f) pontja szerinti politikai vezetői kinevezésről és az összeférhetetlenségről mi igaz?",
+      "options": [
+        {
+          "text": "Megszűnik a jogviszony, ha a tisztviselő az összeférhetetlenséget a felszólítás kézbesítésétől számított harminc napon belül nem szünteti meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 104. § (1) f) pontja a harminc napos határidő elmulasztásához fűzi az ex lege megszűnést. Ez nem a 107. § szerinti felmentés, és nem a 106. § szerinti lemondás. A felszólítás kézbesítése indítja a harminc napot; a meg nem szüntetés a törvényi tény."
+        },
+        {
+          "text": "Politikai vezetővé választáskor a jogviszony csak az Alkotmánybíróság jóváhagyásával szűnhet meg.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 104. § (1) e) pontja a választást vagy kinevezést önmagában megszűnési ténnyé teszi. Az Alkotmánybíróság nem alanya és nem jóváhagyója a kormányzati szolgálati jogviszonynak. Sem közös megegyezés, sem alkotmánybírósági aktus nem feltétele az e) pont szerinti végnek."
+        },
+        {
+          "text": "Megszűnik a jogviszony, ha a kormánytisztviselőt politikai felsővezetővé vagy politikai vezetővé választják, illetve nevezik ki.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 104. § (1) e) pontja e tényt a megszűnés taxációjába emeli. A vég a törvény erejénél fogva áll be, nem felmentéssel. A politikai (felső)vezetői státusz tehát nem a 105. § szerinti közös megegyezést igényli a kormányzati szolgálat lezárásához."
+        },
+        {
+          "text": "Az összeférhetetlenség meg nem szüntetése csak felmentéssel, két hónapos felmentési idővel orvosolható.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 104. § (1) f) pontja szerint a harminc nap eredménytelen eltelte megszűnést eredményez, nem a 107. § szerinti felmentést. Felmentési idő a 111. § szerint a felmentéshez kötődik, ide nem jár. A szerv deklaratív tényközlést ad, nem felmentő okmányt."
+        }
+      ],
+      "sourceKerdesSorszam": 21,
+      "sourceHash": "b555c259a5c5"
+    },
+    {
+      "question": "A Kit. 107. § (9) bekezdése szerinti egészségügyi alkalmatlansági felmentésről mi helytálló?",
+      "options": [
+        {
+          "text": "Egészségügyi alkalmatlanságnál a szerv indokolás és álláshelyfelajánlás nélkül, azonnal felmenthet.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 107. § (9) bekezdése a felmentést az álláshelyen belüli megfelelő feladat hiányához és az üres, képzettségnek is megfelelő álláshely hiányához vagy a hozzájárulás megtagadásához köti. A (3) bekezdés általános indokolási kötelezettsége is él. Az azonnali, felajánlás nélküli felmentés nem felel meg a (9) bekezdésnek."
+        },
+        {
+          "text": "Egészségügyi okból akkor menthető fel a tisztviselő, ha az álláshelyen nincs megfelelő feladat, és nincs megfelelő üres álláshely, vagy a másik álláshelyhez nem járul hozzá.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 107. § (9) a)–b) pontja e feltételeket konjunktív szerkezetben adja. A (2) d) pont szerinti kötelező felmentési ok tehát nem automatikus: előbb az álláshelyen belüli és a szervnél elérhető alternatívát kell vizsgálni. A hozzájárulás megtagadása a végkielégítés mértékét is érintheti."
+        },
+        {
+          "text": "Ha a tisztviselő a másik álláshelyen történő foglalkoztatáshoz alapos ok nélkül nem járul hozzá, a végkielégítés összegének felére jogosult.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 112. § (8) bekezdése a 107. § (9) b) pontja szerinti hozzájárulás hiányához köti a fél összeget, kivéve az alapos indokot. Alapos ok különösen a korábbi illetmény 80%-a alatti ajánlat, a határozatlan helyett felajánlott határozott idő, illetve a napi három – tíz éven aluli gyermeknél két – órát meghaladó tömegközlekedési utazás. A fél összeg tehát nem automatikus büntetés minden elutasításnál."
+        },
+        {
+          "text": "A másik álláshely elutasítása mindig teljes végkielégítés-vesztéssel jár, alapos ok vizsgálata nélkül.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 112. § (8) bekezdése fél összeget ír elő, és kifejezetten kivételezi az alapos indokú megtagadást. A 80% alatti illetmény, a határozott idejű ajánlat és a túlzott utazási idő alapos oknak minősülhet. Teljes elvesztés automatikusan nem következik az elutasításból."
+        }
+      ],
+      "sourceKerdesSorszam": 22,
+      "sourceHash": "b05db3bc3e68"
+    },
+    {
+      "question": "A Kit. 112. § (11)–(13) bekezdése szerinti végkielégítési visszafizetésről és a mentesítés alatti új jogviszonyról mi igaz?",
+      "options": [
+        {
+          "text": "A 180 napon belüli új jogviszonynál a teljes végkielégítés minden esetben véglegesen a tisztviselőnél marad.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 112. § (12) b) pontja szerint a kifizetett végkielégítésnek az arányos részen felüli összegét harminc napon belül vissza kell fizetni a korábbi szervnek. Kivétel a (13)–(13a) szerinti díjazás nélküli jogviszony és a számlálóbiztosi feladat. A teljes, végleges megtartás tehát nem a főszabály."
+        },
+        {
+          "text": "A megszűnést vagy megszüntetést követő 180 napon belüli, meghatározott állami többségi vagy közszolgálati új jogviszonynál arányosítás és visszafizetés kötelezhet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 112. § (12) bekezdése a 180 napos ablakban arányos végkielégítést, a többlet visszafizetését és az új jogviszonyban csökkentett időszámítást ír elő. A (13) és (13a) bekezdés kivétele a díjazás nélküli jogviszony és a népszámlálási számlálóbiztosi feladat. A (14) tájékoztatási kötelezettségeket, a (15)–(16) ellenőrzést rögzít."
+        },
+        {
+          "text": "A mentesítés alatti új költségvetési jogviszony nem érinti sem az illetményt, sem a végkielégítést.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 111. § (7) a hátralévő felmentési idő illetményét, a 112. § (11) a végkielégítést vonja el ilyen új jogviszonynál. A tisztviselőnek haladéktalanul be kell jelentenie a tényt. Az új jogviszonyban ugyanakkor a korábbi jogosító időt a végkielégítés számításánál figyelembe kell venni."
+        },
+        {
+          "text": "Ha a tisztviselő a munkavégzés alóli mentesítés ideje alatt költségvetési szervvel jogviszonyt létesít, végkielégítésre nem jogosult, de az időt az új jogviszonyban számítani kell.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 112. § (11) bekezdése a végkielégítést elvonja, ugyanakkor az új jogviszonyban a végkielégítésre jogosító idő számításánál a felmentett jogviszony idejét figyelembe kell venni. A 111. § (7) a hátralévő felmentési időre járó illetményt is elvonja ilyen új jogviszonynál. A tisztviselőnek a tényt haladéktalanul, írásban be kell jelentenie."
+        }
+      ],
+      "sourceKerdesSorszam": 23,
+      "sourceHash": "481cbaed8b1f"
+    },
+    {
+      "question": "A Kit. 107. § (1a) bekezdése szerinti valótlan nyilatkozat megállapításáról mi helytálló?",
+      "options": [
+        {
+          "text": "A szándékosság fennállását a munkáltatói jogkör gyakorlója állapítja meg.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 107. § (1a) b) pontja a szándékosságot a munkáltatói jogkör gyakorlójához rendeli. A két elem – objektív valótlanság vagy mellőzés és szándékosság – tehát szétválik az (1a) a) és b) pontja között. A felmentéshez mindkét elem szükséges a 107. § (1) f) pontja szerinti jogcímen."
+        },
+        {
+          "text": "Valótlan nyilatkozatnál is mindig jár felmentési idő és végkielégítés.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 111. § (8) és a 112. § (10) c) pontja szerint a 107. § (1) f) pontja alapján történt felmentésnél felmentési idő és végkielégítés nem jár. A 113. § (8) a felmentési védelmet is elvonja e jogcímen. A főszabályos járandóságok ide nem vihetők át."
+        },
+        {
+          "text": "A lényeges adat vagy tény valótlanságát vagy mellőzését az Integritás Hatóság állapítja meg a 29/B. § (9c) szerinti ellenőrzés során.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 107. § (1a) a) pontja az Integritás Hatóság hatáskörébe utalja a valótlanság vagy mellőzés megállapítását. Ez a 107. § (1) f) pontja szerinti felmentési ok egyik eleme. A szerv önmagában nem „helyettesítheti” ezt a megállapítást a szándékosság vizsgálatával."
+        },
+        {
+          "text": "A szándékosságot és a valótlanságot egyaránt kizárólag a bíróság állapíthatja meg a felmentés előtt.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 107. § (1a) az Integritás Hatósághoz rendeli a valótlanság/mellőzés, a munkáltatói jogkör gyakorlójához a szándékosság megállapítását. A bíróság a jogvita szakaszában vizsgálhat, de a felmentés előtti törvényi megosztás ez. A két hatáskör egy bírói előzetes aktusba nem sűríthető."
+        }
+      ],
+      "sourceKerdesSorszam": 24,
+      "sourceHash": "d48aa44ae5ef"
+    },
+    {
+      "question": "A Kit. 105. § (1) e) pontja szerinti próbaidő alatti azonnali hatályú megszüntetésről mi igaz?",
+      "options": [
+        {
+          "text": "A próbaidő alatti azonnali hatály az Mt. felmondási idejével és felmondási védelmével azonos rendet követ.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a kormányzati szolgálati jogviszonyra a Kit. 105. § (1) e) pontja irányadó, nem az Mt. felmondási rendszere. Felmondási idő és Mt.-s felmondási védelem nem ültethető át automatikusan. A közszférás jogcím és a magánmunkajogi felmondás összekeverése elhatárolási hiba."
+        },
+        {
+          "text": "A kormányzati szolgálati jogviszony megszüntethető azonnali hatállyal a próbaidő alatt.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 105. § (1) e) pontja önálló megszüntetési jogcímként nevezi meg a próbaidő alatti azonnali hatályt. Ez konstitutív jognyilatkozat, nem a 104. § szerinti ex lege megszűnés. Az Mt. szerinti felmondás ide nem helyettesítő, és nem is azonos a próbaidő alatti azonnali hatállyal."
+        },
+        {
+          "text": "A próbaidő alatt csak a 104. § szerinti megszűnési okokkal érhet véget a jogviszony.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 105. § (1) e) pontja kifejezetten lehetővé teszi a próbaidő alatti azonnali hatályú megszüntetést. Emellett a 104. § megszűnési okai is beállhatnak, de nem zárják ki a 105. § e) pontját. A próbaidő tehát nem „megszűnés-only” időszak."
+        },
+        {
+          "text": "A próbaidő alatti azonnali hatály a 105. § öt megszüntetési jogcímének egyike, a közös megegyezés, lemondás, felmentés és hivatalvesztés mellett.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 105. § (1) a)–e) pontja zárt taxációt ad. A próbaidő alatti azonnali hatály tehát nem „felmondás”, és nem is a 104. § taxációjának része. A megszüntetés–megszűnés elhatárolása itt is fennáll: jognyilatkozat kell, nem puszta törvényi tény."
+        }
+      ],
+      "sourceKerdesSorszam": 25,
+      "sourceHash": "3af5999ee760"
+    },
+    {
+      "question": "A Kit. 104. § (1) k)–m) pontja szerinti álláshelyállományi megszűnésről és a végkielégítésről mi helytálló?",
+      "options": [
+        {
+          "text": "Megszűnik a jogviszony, ha a Kormány döntése alapján a központosított álláshelyállományból származó álláshely visszakerül, központosított állományba kerül, vagy az alaplétszám részét képező álláshely megszűnik.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 104. § (1) k)–m) pontja e három álláshelyállományi tényt a megszűnés taxációjába emeli. A vég a törvény erejénél fogva áll be, nem felmentéssel. A j) pont üres; a k)–m) pontok adják a releváns tényállásokat."
+        },
+        {
+          "text": "Az álláshelyállományi döntés miatti vég mindig felmentés, két hónapos felmentési idővel.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 104. § (1) k)–m) pontja megszűnést állít, nem a 107. § szerinti felmentést. Felmentési idő a 111. § szerint a felmentéshez kötődik; a megszűnésnél nincs felmentési idő. A végkielégítés a 112. § (1) c)–d) pontja szerint járhat, ami nem teszi a jogcímet felmentéssé."
+        },
+        {
+          "text": "Álláshelyállományi megszűnésnél végkielégítés soha nem jár.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 112. § (1) c)–d) pontja kifejezetten a 104. § (1) k)–m) pontjához kapcsolódó megszűnésnél is végkielégítést ír elő, a k) pontnál feltételekkel. A (10) bekezdés kivételei szűkítik a kört – például ha a tisztviselő nyugdíjasnak minősül –, de nem törlik el általában a jogosultságot. Az l) és m) pont szerinti megszűnésnél a d) pont főszabályként járandóságot ad."
+        },
+        {
+          "text": "A 104. § (1) l) és m) pontja szerinti megszűnésnél a 112. § (1) szerint végkielégítés jár; a k) pontnál feltételesen.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 112. § (1) c) pontja a k) pont szerinti megszűnéshez feltételeket – korábbi visszakerülés vagy határozatlan betöltési engedély – köt, a d) pont az l) és m) pont szerinti megszűnésnél általánosabban írja elő a végkielégítést. A mérték a (2) bekezdés szerint a kormányzati szolgálati időhöz igazodik, három évtől egyhavi, húsz évtől nyolchavi illetmény. A (10) bekezdés kivételei – például nyugdíjas minőség – itt is alkalmazandók."
+        }
+      ],
+      "sourceKerdesSorszam": 26,
+      "sourceHash": "e845bcf24570"
+    },
+    {
+      "question": "A Kit. 107. § (5) bekezdése szerinti nem megfelelő munkavégzésről mi igaz?",
+      "options": [
+        {
+          "text": "A nem megfelelő munkavégzés a 107. § (2) szerinti kötelező felmentési ág része, indokolási teherrel.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 107. § (2) b) pontja a „meg kell szüntetni” ágban van, a (3) bekezdés szerinti indokolási és bizonyítási teherrel. Az (5) bekezdés az átlag alatti vagy elfogadhatatlan teljesítményszintet adja küszöbül. Érdemtelenségtől elválik: ott a 109. § bizonyítható magatartási-tény követelménye él, nem a teljesítményértékelési sáv."
+        },
+        {
+          "text": "Nem megfelelő munkavégzés jogcímén akkor kell felmenteni, ha a teljesítményértékelés eredményeként átlag alatti vagy elfogadhatatlan teljesítményszintet ér el a tisztviselő.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a Kit. 107. § (5) bekezdése a (2) b) pontot operacionalizálja: a teljesítményértékelés átlag alatti vagy elfogadhatatlan szintje a kötelező felmentés feltétele. Ez nem puszta szubjektív értékítélet, hanem a teljesítményértékelés eredményéhez kötött küszöb. A 112. § (10) b) pontja e jogcímen a végkielégítést is kizárja."
+        },
+        {
+          "text": "Átlag feletti teljesítménynél is kötelező a felmentés nem megfelelő munkavégzés jogcímén.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 107. § (5) bekezdése az átlag alatti vagy elfogadhatatlan teljesítményszinthez köti a felmentést. Átlag feletti eredménynél e jogcím nem áll meg. A szerv nem hivatkozhat a (2) b) pontra teljesítményértékelési küszöb nélkül."
+        },
+        {
+          "text": "Nem megfelelő munkavégzésnél mindig jár a teljes végkielégítés és a felmentési védelem.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a Kit. 112. § (10) b) pontja a nem megfelelő munkavégzés jogcímén kizárja a végkielégítést. A 113. § (8) bekezdése a felmentési védelmet az érdemtelenséghez, a foglalkoztatást kizáró okhoz és más nevesített pontokhoz köti, a nem megfelelő munkavégzést [(2) b)] azonban nem sorolja; a védelem tehát e jogcímnél más feltételektől függ, nem „mindig” jár. A „mindig jár a teljes végkielégítés és a felmentési védelem” állítás így mindkét ágon téves."
+        }
+      ],
+      "sourceKerdesSorszam": 27,
+      "sourceHash": "a5c291c27762"
+    },
+    {
+      "question": "A megszűnés és a megszüntetés bírói felülvizsgálatának terjedelméről a Kit. dogmatikája szerint mi helytálló?",
+      "options": [
+        {
+          "text": "Megszűnésnél a bíróság mindig visszahelyezi a tisztviselőt, ha a továbbfoglalkoztatást kéri.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a 116. § visszahelyezése a jogellenes megszüntetés taxatív eseteihez kötődik, nem a 104. § szerinti ex lege megszűnéshez. A 3152/2017. (VI.14.) AB végzés szerint a törvény erejénél fogva beálló végnél a fenntartás nem kényszeríthető ki. A visszahelyezés és a megszűnés felülvizsgálata tehát elválik."
+        },
+        {
+          "text": "Az Alkotmánybíróság minden megszűnésnél és megszüntetésnél kötelező jóváhagyó szerv.",
+          "isCorrect": false,
+          "rationale": "HAMIS, a felek a kormánytisztviselő és a kormányzati igazgatási szerv; az Alkotmánybíróság e jogviszonynak nem alanya. Sem a 104. §, sem a 105. § nem kíván alkotmánybírósági jóváhagyást. A 3152/2017. (VI.14.) AB végzés panaszt vizsgált, nem a jogviszony harmadik feleként lépett fel."
+        },
+        {
+          "text": "Megszűnésnél a bírói felülvizsgálat a tényközlés jogszerűségére szűkül, nem a jogviszony fenntartására irányul.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a forrás a 3152/2017. (VI.14.) AB végzés ratio-ját a Kit. 104. § ex lege megszűnésére is irányadónak tekinti. A szerv deklaratív értesítést ad; konstitutív megszüntető aktus nincs. A továbbfoglalkoztatás alanyi jogon nem kényszeríthető ki."
+        },
+        {
+          "text": "Megszüntetésnél – különösen felmentésnél – indokolási teher, védelem és a 116. § szerinti jogellenességi szankciórend élhet.",
+          "isCorrect": true,
+          "rationale": "IGAZ, a megszüntetés jognyilatkozattal jön létre, ezért a 107. § (3) indokolása, a 113. § védelme és a 116. § kétcsatornás átalánykártérítése kapcsolódhat. A megszűnéshez képest ez teljesebb bírói kontrollt enged a jognyilatkozat felett. Az Mt. felmondási rendje ide nem helyettesítő."
+        }
+      ],
+      "sourceKerdesSorszam": 28,
+      "sourceHash": "93bec0b73d5b"
+    }
+  ]
+}
