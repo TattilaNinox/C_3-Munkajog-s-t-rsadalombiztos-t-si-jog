@@ -276,14 +276,46 @@ def leltar(ns):
 
 # ---- kapu ----
 def ptk_parok():
+    """{forráskód: a korpuszban meglévő egységek (§ vagy cikk) halmaza} a kontroll.paragrafusForrasok forrásaira –
+    kódonként, nem a halmazok uniója (a Szabs. tv. §-át a Bv. tv. azonos számú §-a nem „igazolja”); a cikkre tagolt
+    forrás a cikkeit adja (nem üres halmazt)."""
     try:
         J = kozos.korpusz_jogszabalyok()
-        s = set()
-        for kod in kozos.beallitas()['kontroll']['paragrafusForrasok']:
-            s |= set(J.get(kod, ({}, []))[0])
-        return s
+        return {kod: set(J.get(kod, ({}, []))[0]) for kod in kozos.beallitas()['kontroll']['paragrafusForrasok']}
     except Exception:
         return None
+
+
+def _rov_minta(kod):
+    """A forrás rövidítéseinek mintája a dobozRovidites alapján (a korpusz-mező hivatkozásaihoz)."""
+    return '|'.join(r for r, k in kozos.DOBOZ_RÖVIDITES if k == kod) or re.escape(kod)
+
+
+def korpusz_hivatkozasok(k, ptk):
+    """A norma korpusz-mezőjének egységhivatkozásai: [(forráskód, egység, megnevezés)]. Kódonkénti minta: „Ptk. 6:24. §”,
+    „Ctv. 9. §”, „EUMSZ 288. cikk”, „Alaptörvény XXVIII. cikk”; a rövidítés nélküli „12. §” a fő kódexé (ha az a
+    paragrafusForrasok között van), különben az egyetlen paragrafusForrasé."""
+    ki, hasznalt = [], []
+    for kod in ptk:
+        e = kozos.egyseg(kod)
+        az = r'(\d+(?::\d+)?(?:/[A-Z])?)\.\s?§' if e == '§' else r'(\d+|[IVXLC]+|[A-Z]\))\.?\s?[Cc]ikk'
+        for m in re.finditer(r'(?:%s)\s*%s' % (_rov_minta(kod), az), k):
+            ki.append((kod, m.group(1), m.group(0)))
+            hasznalt.append(m.span())
+    # más forrás rövidítésével álló egység („Ptk. 3:1. §” a B/3-ban, „Kp. 12. §” az A/3-ban) nem a fő kódexé
+    for m in re.finditer(r'(?:%s|\b[A-ZÁÉÍÓÖŐÚÜŰ][\wáéíóöőúüű]*\.(?:\s?tv\.)?)\s*\d+(?::\d+)?(?:/[A-Z])?\.\s?§'
+                         % '|'.join(r for r, _ in kozos.DOBOZ_RÖVIDITES), k):
+        hasznalt.append(m.span())
+    maradek = ''.join(' ' if any(a <= i < b for a, b in hasznalt) else c for i, c in enumerate(k))
+    fo = kozos.beallitas()['foKodex']
+    alap = fo if fo in ptk else (next(iter(ptk)) if len(ptk) == 1 else None)
+    if alap:
+        rx = r'(?<![\d:/])(\d+(?::\d+)?(?:/[A-Z])?)\.\s?§' if kozos.egyseg(alap) == '§' else r'(?<![\w)])(\d+|[IVXLC]+|[A-Z]\))\.?\s?[Cc]ikk'
+        for m in re.finditer(rx, maradek):
+            if kozos.konyves(alap) and ':' not in m.group(1):
+                continue      # a könyves fő kódex (Ptk.) egysége csak „könyv:§” lehet; a puszta „12. §” nem az övé
+            ki.append((alap, m.group(1), m.group(0)))
+    return ki
 
 
 def nyilt_forras_hibak(b):
@@ -361,16 +393,12 @@ def hiba_bejegyzes(b, ptk, alap=None):
         if jz & KOTELEZO_TOBBLET:
             h.append('normának jelölve, de jelzője miatt többlet: ' + ', '.join(sorted(jz & KOTELEZO_TOBBLET)))
         k = b.get('korpusz') or ''
-        if '§' not in k:
-            h.append('normánál a korpusz-§ kötelező')
+        if not re.search(r'§|\b[Cc]ikk\b', k):
+            h.append('normánál a korpusz-§ (cikkre tagolt forrásnál a cikk) kötelező')
         elif ptk is not None:
-            _fo = kozos.beallitas()['foKodex']
-            _rx = r'(\d+:\d+(?:/[A-Z])?)\.\s?§' if kozos.konyves(_fo) else r'(\d+(?:/[A-Z])?)\.\s?§'
-            _forr = kozos.beallitas()['kontroll']['paragrafusForrasok']
-            _nev = _forr[0] if len(_forr) == 1 else _fo
-            for p in re.findall(_rx, k):
-                if p not in ptk:
-                    h.append(f'a {_nev}. {p}. § nincs a korpuszban')
+            for kod, p, nev in korpusz_hivatkozasok(k, ptk):
+                if p not in ptk[kod]:
+                    h.append(f'a {kod} {nev.strip()} nincs a korpuszban')
     if t == 'tobblet':
         ij = b.get('ijoten') or {}; ko = b.get('kommentar') or {}
         if ij.get('eredmeny') not in IJ or len(ij.get('hely', '')) < 5:

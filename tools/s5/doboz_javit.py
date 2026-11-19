@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""S3: a jogszabálydobozok újraépítése a korpuszból – teljes bekezdésekkel, betűre.
+"""S3: a jogszabálydobozok újraépítése a korpuszból – teljes bekezdésekkel, betűre. A §-os és a cikkre tagolt
+forrás dobozára is (a forrás egysége a beállításból: kozos.egyseg; a bekezdésszerkezet a korpuszfájl soraiból).
 Használat (a tárolóból): python3 tools/s5/doboz_javit.py [--sor] [--diff] [--ir] [tétel ...]
 A doboz által érintett bekezdéseket (és a szögletes címet, ha a dobozban volt) a korpusz
 sorrendjében, a korpusz soraiból írja újra; csak ott módosít, ahol a doboz eltér.
@@ -35,19 +36,19 @@ def paragrafus_sorok(kod):
     if kod in _CACHE:
         return _CACHE[kod]
     p = kozos.korpusz_fajl(F[kod]['korpusz'][0])
-    rx = re.compile(r'^(\d+:\d+(?:/[A-Z])?)\. §' if kozos.konyves(kod) else r'^(\d+(?:/[A-Z])?)\. §')
+    e = kozos.egyseg(kod)          # § vagy cikk, a beállításból; a fejsor szabálya: alapfelvetel.egyseg_sor
     d, cur = {}, None
     for l in open(p, encoding='utf-8').read().split('\n'):
         t = csillagtalan(l)
-        m = rx.match(t)
+        m = kozos.egyseg_sor(t, e)
         if m:
             cur = m.group(1)
             if cur in d:
                 cur = None; continue  # azonos számú második § (Itv.): az első számít
             d[cur] = []
-            rest = t[m.end():].strip()
-            if rest:
-                d[cur].append(rest)
+            rest = t[m.end():].strip().lstrip('-–* ').strip()
+            if rest and not (e != '§' and cimsor(rest)):
+                d[cur].append(rest)       # a cikkfej utáni cím („3. cikk - Általános joghatóság”) nem normaszöveg
         elif cur is not None and t:
             d[cur].append(t)
     _CACHE[kod] = d
@@ -107,11 +108,11 @@ def main():
         ut = os.path.join(kozos.GYOKER, f'{n:02d}.txt')
         txt = open(ut, encoding='utf-8').read()
         L = txt.split('\n')
-        H = [i for i, l in enumerate(L) if kozos.FEJLEC.match(l.strip())]
+        H = [i for i, l in enumerate(L) if kozos.doboz_fej(l)]
         cserek = []
         for (kod, par, fej, sorok), h in zip(kozos.dobozok(txt), H):
-            if kod not in JOG or par not in paragrafus_sorok(kod) or not sorok:
-                continue
+            if kod not in JOG or par not in paragrafus_sorok(kod) or not sorok or re.search(r'\)\s*pont$', fej):
+                continue      # a pontot idéző doboz („Szabs. tv. 27. § (2) bek. a) pont”) szándékosan részleges
             cs = csoportok(paragrafus_sorok(kod)[par])
             if not cs:
                 continue
@@ -161,7 +162,7 @@ def main():
                 idx.append(j); j += 1
             if len(idx) != len(sorok):
                 print(f'  !! {n}. {fej}: a dobozsorok nem találhatók'); continue
-            elotag = re.match(r'^\d+(?::\d+)?(?:/[A-Z])?\. §\s*', L[idx[0]].strip())
+            elotag = re.match(r'^(?:\d+(?::\d+)?(?:/[A-Z])?\. §|(?:\d+|[IVXLC]+)\. [Cc]ikk|[A-Z]\) [Cc]ikk)\s*', L[idx[0]].strip())
             uj_sorok = list(uj)
             if elotag:
                 uj_sorok[0] = elotag.group(0) + uj_sorok[0]

@@ -43,6 +43,13 @@ A tételszám 56: a kiírás 1–56. tétele és a `jegyzetek/manifest.json` sor
 - 50. tétel: a Kjt. teljes nevének és az 1992. évi XXIII. törvénynek (`Ktv`) a mintája választja el az AB-határozatok címében említett §-okat (különben az Mt.-hez kerültek volna). Emiatt a tétel Kjt. 30., 33., 37., 78., 87. §-a és Ktv. 17. §-a az AB-határozatok címéből származik, nem önálló előírás.
 - 52. tétel: a pont nélküli felsorolás (Kit, Kttv, Küt, Hjt, Hszt, Hajtv, Nav Szjtv.) mintát kapott; ezek „bevezető rendelkezései” egész fájlként kerülnek a tételhez.
 
+## A közös készlet KE-1 javítása után (2026-11-19, központi chat)
+
+- `alapfelvetel: tétel 56, feloldott 472, feloldatlan 2, hiba 0`
+- `dobozok: 915, eltérés: 7; hiányzó forrás: []; lefedettségi hiány: 104 elem 34 tételben`
+- `hiányos bekezdés: 17`
+- A korábbi „Központi teendő” pontok közül a hivatkozásfeloldás, a cikk-egység és a vegyes számozás javítva (admin-commit `d1c2925`). Az új feloldatlan sorok a maradékvizsgálatból jönnek (`jelentesek/alapfelvetel.md`): beállítást kérnek (`kiirasElirasok`), nem korpuszhiányt jelentenek.
+
 ## Attila teendői
 
 ## Központi teendő

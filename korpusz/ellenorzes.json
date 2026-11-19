@@ -2,34 +2,39 @@
  "korpusz": {
   "hianyzoForras": [],
   "forrashozNemKotottFajl": [
-   "137_B_1991. AB határozat a külföldiek magyarországi befektetéseiről.._.txt",
-   "1_2004. számú KPJE határozat _ Kúria.txt",
    "1_2009. (VI. 24.) PK-KK közös vélemény _ Kúria.txt",
-   "44_B_1993. AB határozat a köztisztviselők jogállásáról szóló 1992..._.txt",
-   "495_B_2001. AB határozat a közalkalmazottak jogállásáról szóló 1992.._.txt",
    "5_2023. (VI. 19.) IM rendelet a békéltető testületi elnöki és tagsági feladat ellátására vonatkozó kiválasztási eljárás szabályairól és a békéltető testületi elnökök és tagok díjaz.txt",
-   "600_B_2000.txt",
    "62002CJ0151_SUM A Bíróság 2003. szeptember 9-i ítélete. Landeshaupt.._.txt",
-   "62015CJ0518 A Bíróság ítélete (ötödik tanács), 2018. február 21. Vi.._.txt",
-   "62019CJ0624 A Bíróság ítélete (második tanács), 2021. június 3. K e.._.txt",
-   "62020CJ0214 A Bíróság ítélete (ötödik tanács), 2021. november 11. M.._.txt",
-   "826_B_1996. AB határozat a közalkalmazottak jogállásáról szóló 1992.._.txt",
-   "987_2009_EK rendelet a 883_2004_EK rendelet végrehajtásáról.txt",
-   "C-151_02 Jaeger ítélet.txt",
-   "C-266_14 Tyco ítélet.txt",
-   "C-303_98 SIMAP ítélet (EN).txt",
+   "62014CN0266 C-266_14. sz. ügy_ Az Audiencia Nacional (Spanyolország.._.txt",
    "C-303_98. számú ítéletének összefoglalása _ Kúria.txt",
    "C3_Munkajog_Tbj_beszerzesi_lista.txt",
    "C‑477_21. sz. MÁV-START ügyben 2023. március 2-án hozott ítélet _ Kúria.txt",
    "Kiküldetési Irányelv (EU) - 31996L0071 Az Európai Parlament És a Ta.._.txt",
-   "Koordinációs Rendelet (EU) - 32004R0883 Az Európai Parlament és a T.._.txt",
    "mtvsz_kodex.txt"
   ],
   "duplikalt": []
  },
  "dobozok": {
-  "osszes": 695,
+  "osszes": 915,
   "elteres": [
+   {
+    "tetel": 2,
+    "fejlec": "Ptk. 2:9. §",
+    "hiba": "eltér a korpusztól",
+    "sor": "(2) A cselekvőképtelen állapotban tett jognyilatkozat – a végintézkedés kivételével – a cselekvőképtelenség miatt nem semmis, ha tartalmából és megtételének körülményeiből arra lehet következtetni, ho"
+   },
+   {
+    "tetel": 2,
+    "fejlec": "Ptk. 2:18. §",
+    "hiba": "eltér a korpusztól",
+    "sor": "(3) Ha a bíróság kiskorút helyez a cselekvőképességet teljesen korlátozó gondnokság alá, a gondnokság hatálya a nagykorúság elérésével áll be, de a kiskorú már az ítélet jogerőre emelkedésével cselekv"
+   },
+   {
+    "tetel": 2,
+    "fejlec": "Ptk. 2:24. §",
+    "hiba": "eltér a korpusztól",
+    "sor": "A cselekvőképesség részleges korlátozásán és a cselekvőképtelenségen alapuló semmisségre annak érdekében lehet hivatkozni, aki a cselekvőképességében részlegesen korlátozott vagy cselekvőképtelen. A G"
+   },
    {
     "tetel": 29,
     "fejlec": "Mt. 188. §",
@@ -61,73 +66,8 @@
    "hiany": [
     {
      "forras": "Mt",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Mt",
      "elem": "11/A",
      "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "Alaptv",
-     "elem": "M)–M)",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Alaptv",
-     "elem": "Q)–Q)",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Alaptv",
-     "elem": "R)–R)",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Alaptv",
-     "elem": "T)–T)",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Alaptv",
-     "elem": "II–II",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Alaptv",
-     "elem": "III–III",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Alaptv",
-     "elem": "IV–IV",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Alaptv",
-     "elem": "XIII–XIII",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Alaptv",
-     "elem": "XV–XV",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Alaptv",
-     "elem": "XVIII–XVIII",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Alaptv",
-     "elem": "XX–XX",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Alaptv",
-     "elem": "28–28",
-     "ok": "a tartomány határa nincs a korpuszban"
     },
     {
      "forras": "Ebktv",
@@ -148,108 +88,26 @@
      "forras": "Infotv",
      "elem": "3",
      "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "56/1994. (XI. 10.) AB határozat",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "2000/78/EK",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "(EU) 2016/679",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
     }
    ],
-   "info": []
+   "info": [
+    {
+     "forras": "Mt",
+     "megjegyzes": "teljes fájl előírva; a tétel 34 egységét említi a 299 hatályosból"
+    }
+   ]
   },
   "2": {
-   "hiany": [
-    {
-     "forras": "Ptk",
-     "elem": "6:116–6:117",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Ptk",
-     "elem": "2:8–2:41",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Ptk",
-     "elem": "6:4–6:4",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Ptk",
-     "elem": "6:5–6:5",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Ptk",
-     "elem": "6:8–6:8",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Ptk",
-     "elem": "6:11–6:11",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Ptk",
-     "elem": "6:13–6:13",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Ptk",
-     "elem": "6:62–6:62",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Ptk",
-     "elem": "6:63–6:63",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
+   "hiany": [],
+   "info": [
     {
      "forras": "335/2012. (XII. 4.) Korm. rendelet",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 0 egységét említi a 38 hatályosból"
     }
-   ],
-   "info": []
+   ]
   },
   "3": {
-   "hiany": [
-    {
-     "forras": "Mt",
-     "elem": "20",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "Mt",
-     "elem": "22",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "Mt",
-     "elem": "287",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "Ptk",
-     "elem": "6:102–6:102",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Ptk",
-     "elem": "6:107–6:107",
-     "ok": "a tartomány határa nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "4": {
@@ -258,36 +116,6 @@
      "forras": "Mt",
      "elem": "213",
      "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "Alaptv",
-     "elem": "XV–XV",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Ptk",
-     "elem": "2:1–2:1",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Ptk",
-     "elem": "3:1–3:1",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Ptk",
-     "elem": "2:11–2:11",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Ptk",
-     "elem": "2:13–2:13",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Ptk",
-     "elem": "2:19–2:19",
-     "ok": "a tartomány határa nincs a korpuszban"
     },
     {
      "forras": "Fhr",
@@ -303,53 +131,25 @@
      "forras": "Fhr",
      "elem": "18",
      "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "Alaptv",
-     "elem": "XVIII–XVIII",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
+    }
+   ],
+   "info": [
     {
      "forras": "ILO138",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 0 egységét említi a 3 hatályosból"
     },
     {
      "forras": "ILO182",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 0 egységét említi a 3 hatályosból"
     },
     {
      "forras": "7/2001. (X. 4.) ISM rendelet",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 0 egységét említi a 2 hatályosból"
     }
-   ],
-   "info": []
+   ]
   },
   "5": {
-   "hiany": [
-    {
-     "forras": "Mt",
-     "elem": "228",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "Mt",
-     "elem": "229",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "4/2013. (IX. 23.) KMK vélemény",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "2001/23/EK",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "6": {
@@ -360,75 +160,15 @@
      "ok": "nincs dobozban és nincs hivatkozva"
     },
     {
-     "forras": "Ptk",
-     "elem": "6:73–6:73",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Ptk",
-     "elem": "6:77–6:77",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Ptk",
-     "elem": "6:78–6:78",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Ptk",
-     "elem": "6:80–6:80",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Ptk",
-     "elem": "6:81–6:81",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Ptk",
-     "elem": "6:86–6:86",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Ptk",
-     "elem": "6:87–6:87",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
      "forras": "Fhr",
      "elem": "3",
      "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "96/71/EK",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "2019/1152 irányelv",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
     }
    ],
    "info": []
   },
   "7": {
    "hiany": [
-    {
-     "forras": "Mt",
-     "elem": "45",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "Mt",
-     "elem": "50",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "Mt",
-     "elem": "192",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    },
     {
      "forras": "Mt",
      "elem": "213",
@@ -442,11 +182,6 @@
     {
      "forras": "Mt",
      "elem": "57",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "Mt",
-     "elem": "294",
      "ok": "nincs dobozban és nincs hivatkozva"
     },
     {
@@ -473,16 +208,6 @@
      "forras": "NMr33",
      "elem": "13",
      "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "KK 25.",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "MK 122.",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
     }
    ],
    "info": []
@@ -503,28 +228,11 @@
    "info": []
   },
   "10": {
-   "hiany": [
-    {
-     "forras": "Mt",
-     "elem": "57",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "11": {
-   "hiany": [
-    {
-     "forras": "97/81/EK",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "1999/70/EK",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "12": {
@@ -538,43 +246,12 @@
      "forras": "Mt",
      "elem": "85",
      "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "MK 13.",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "MK 95.",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
     }
    ],
    "info": []
   },
   "13": {
-   "hiany": [
-    {
-     "forras": "Mt",
-     "elem": "85",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "Mt",
-     "elem": "294",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "17/2014. (V. 30.) AB határozat",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "MK 9.",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "14": {
@@ -593,18 +270,7 @@
    "info": []
   },
   "15": {
-   "hiany": [
-    {
-     "forras": "Mt",
-     "elem": "85",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "98/59/EK",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "16": {
@@ -618,23 +284,11 @@
    "info": []
   },
   "17": {
-   "hiany": [
-    {
-     "forras": "Mt",
-     "elem": "85",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "18": {
-   "hiany": [
-    {
-     "forras": "Mt",
-     "elem": "85",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "19": {
@@ -643,37 +297,12 @@
      "forras": "Mt",
      "elem": "85",
      "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "Mt",
-     "elem": "294",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "3/2014. (III. 31.) KMK vélemény",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "6/2016.(XI.28) KMK vélemény",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "MK 78.",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
     }
    ],
    "info": []
   },
   "20": {
    "hiany": [
-    {
-     "forras": "Alaptv",
-     "elem": "XVII–XVII",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
     {
      "forras": "Mt",
      "elem": "294",
@@ -688,39 +317,18 @@
      "forras": "Vmtv",
      "elem": "56",
      "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "18/2021. (V. 27.) AB határozat",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
     }
    ],
    "info": []
   },
   "21": {
-   "hiany": [
-    {
-     "forras": "Mt",
-     "elem": "135",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "3082/2018. (III. 5.) AB végzés",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "3081/2018. (III. 5.) AB végzés",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
+   "hiany": [],
+   "info": [
     {
      "forras": "15/2023. (VII. 13.) GFM rendelet",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 0 egységét említi a 4 hatályosból"
     }
-   ],
-   "info": []
+   ]
   },
   "22": {
    "hiany": [
@@ -728,26 +336,6 @@
      "forras": "Mt",
      "elem": "135",
      "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "Mt",
-     "elem": "209",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "Mt",
-     "elem": "203",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "2003/88/EK",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-477/21",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
     }
    ],
    "info": []
@@ -758,16 +346,6 @@
      "forras": "Mt",
      "elem": "135",
      "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "18/2021. (V. 27.) AB határozat",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "C-266/14",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
     }
    ],
    "info": []
@@ -793,54 +371,14 @@
      "forras": "Mt",
      "elem": "294",
      "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "535/2022. (XII. 21.) Korm. rendelet",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "74/2006. (XII. 15.) AB határozat",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "MK 19.",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "MK 18.",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "MK 120.",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "MK 100.",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "2000. évi LXVI. törvény",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "2003/88/EK",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "(EU) 2019/1158",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
     }
    ],
-   "info": []
+   "info": [
+    {
+     "forras": "535/2022. (XII. 21.) Korm. rendelet",
+     "megjegyzes": "teljes fájl előírva; a tétel 0 egységét említi a 7 hatályosból"
+    }
+   ]
   },
   "25": {
    "hiany": [
@@ -861,11 +399,6 @@
     },
     {
      "forras": "Mt",
-     "elem": "146",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "Mt",
      "elem": "294",
      "ok": "nincs dobozban és nincs hivatkozva"
     },
@@ -883,24 +416,18 @@
      "forras": "Mt",
      "elem": "294",
      "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "Cst",
-     "elem": "7",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    },
+    }
+   ],
+   "info": [
     {
      "forras": "294/2011. (XII. 22.) Korm. rendelet",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 0 egységét említi a 4 hatályosból"
     },
     {
      "forras": "102/1995. (VIII. 25.) Korm. rendelet",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 0 egységét említi a 16 hatályosból"
     }
-   ],
-   "info": []
+   ]
   },
   "26": {
    "hiany": [
@@ -908,19 +435,14 @@
      "forras": "Mt",
      "elem": "165",
      "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "573/2022. (XII. 23.) Korm. rendelet",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "MK 23.",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
     }
    ],
-   "info": []
+   "info": [
+    {
+     "forras": "573/2022. (XII. 23.) Korm. rendelet",
+     "megjegyzes": "teljes fájl előírva; a tétel 0 egységét említi a 5 hatályosból"
+    }
+   ]
   },
   "27": {
    "hiany": [
@@ -933,93 +455,16 @@
      "forras": "Mt",
      "elem": "165",
      "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "Ptk",
-     "elem": "6:26–6:26",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Ptk",
-     "elem": "6:27–6:27",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Ptk",
-     "elem": "6:42–6:42",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "1991. évi XXIX. törvény",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "2000. évi LIV. törvény",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
     }
    ],
    "info": []
   },
   "28": {
-   "hiany": [
-    {
-     "forras": "Ptk",
-     "elem": "6:587–6:587",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "1/2018. (VI.25.) KMK vélemény",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "3/2018. (IX.17.) KMK vélemény",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "MK 112.",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "MK 93.",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "29": {
-   "hiany": [
-    {
-     "forras": "Ptk",
-     "elem": "6:587–6:587",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "MK 26.",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "MK 25.",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "MK 113.",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "MK 35.",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "30": {
@@ -1028,44 +473,26 @@
      "forras": "Mt",
      "elem": "213",
      "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "1999/70/EK",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
     }
    ],
    "info": []
   },
   "31": {
-   "hiany": [
-    {
-     "forras": "Mvt",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "32": {
-   "hiany": [
+   "hiany": [],
+   "info": [
     {
      "forras": "Efotv",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 15 egységét említi a 24 hatályosból"
     },
     {
      "forras": "Efotv",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Mt",
-     "elem": "155",
-     "ok": "nincs dobozban és nincs hivatkozva"
+     "megjegyzes": "teljes fájl előírva; a tétel 15 egységét említi a 24 hatályosból"
     }
-   ],
-   "info": []
+   ]
   },
   "33": {
    "hiany": [
@@ -1083,22 +510,16 @@
    "info": []
   },
   "34": {
-   "hiany": [
+   "hiany": [],
+   "info": [
     {
      "forras": "573/2022. (XII. 23.) Korm. rendelet",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 0 egységét említi a 5 hatályosból"
     }
-   ],
-   "info": []
+   ]
   },
   "35": {
    "hiany": [
-    {
-     "forras": "Mt",
-     "elem": "295",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    },
     {
      "forras": "Fhr",
      "elem": "5",
@@ -1108,43 +529,17 @@
      "forras": "Fhr",
      "elem": "18",
      "ok": "nincs dobozban és nincs hivatkozva"
-    },
+    }
+   ],
+   "info": [
     {
      "forras": "118/2001. (VI. 30.) Korm. rendelet",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "67/2009. (VI.19.) AB határozat",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "2008/104/EK",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 0 egységét említi a 23 hatályosból"
     }
-   ],
-   "info": []
+   ]
   },
   "36": {
-   "hiany": [
-    {
-     "forras": "Mt",
-     "elem": "15",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "Mt",
-     "elem": "55",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "1/2019. (V.20.) KMK vélemény",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "37": {
@@ -1153,36 +548,6 @@
      "forras": "Mt",
      "elem": "22",
      "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "Mt",
-     "elem": "209",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "Alaptv",
-     "elem": "XVII–XVII",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Mt",
-     "elem": "27",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "Mt",
-     "elem": "3",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "Mt",
-     "elem": "3",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "2001/23/EK",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
     }
    ],
    "info": []
@@ -1191,21 +556,6 @@
    "hiany": [
     {
      "forras": "Mt",
-     "elem": "22",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "Mt",
-     "elem": "6",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "Mt",
-     "elem": "81",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "Mt",
      "elem": "85",
      "ok": "nincs dobozban és nincs hivatkozva"
     },
@@ -1213,107 +563,21 @@
      "forras": "Mt",
      "elem": "85",
      "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "Alaptv",
-     "elem": "XXVIII–XXVIII",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Ptk",
-     "elem": "6:22–6:25",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "4/2013. (IX. 23.) KMK vélemény",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "4/2017.(XI.28.) KMK vélemény",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "5/2017.(XI.28.) KMK vélemény",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "1/2001. Munkaügyi jogegységi határozat",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "4/2003. Polgári jogegységi határozat",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "73/2009. (XII. 22.) IRM rendelet",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "MK 160.",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "MK 132.",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "MK 71.",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "MK 35.",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "MK 93.",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
     }
    ],
-   "info": []
+   "info": [
+    {
+     "forras": "73/2009. (XII. 22.) IRM rendelet",
+     "megjegyzes": "teljes fájl előírva; a tétel 0 egységét említi a 7 hatályosból"
+    }
+   ]
   },
   "39": {
    "hiany": [],
    "info": []
   },
   "40": {
-   "hiany": [
-    {
-     "forras": "Alaptv",
-     "elem": "XVII–XVII",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "1/2013. (IV. 8.) KMK vélemény",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "30/2012. (VI. 27.) AB határozat",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "2/1999. Munkaügyi jogegységi határozat",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "1989. évi VII. törvény",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "41": {
@@ -1340,46 +604,40 @@
    "hiany": [
     {
      "forras": "Kit",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "Kit",
      "elem": "1/A",
      "ok": "nincs dobozban és nincs hivatkozva"
     }
    ],
-   "info": []
+   "info": [
+    {
+     "forras": "Kit",
+     "megjegyzes": "teljes fájl előírva; a tétel 13 egységét említi a 338 hatályosból"
+    }
+   ]
   },
   "43": {
    "hiany": [
-    {
-     "forras": "Kit",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
     {
      "forras": "Kit",
      "elem": "89/A",
      "ok": "nincs dobozban és nincs hivatkozva"
     }
    ],
-   "info": []
-  },
-  "44": {
-   "hiany": [
+   "info": [
     {
      "forras": "Kit",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "3152/2017. (VI.14.) AB végzés",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 13 egységét említi a 338 hatályosból"
     }
-   ],
-   "info": []
+   ]
+  },
+  "44": {
+   "hiany": [],
+   "info": [
+    {
+     "forras": "Kit",
+     "megjegyzes": "teljes fájl előírva; a tétel 14 egységét említi a 338 hatályosból"
+    }
+   ]
   },
   "45": {
    "hiany": [
@@ -1387,11 +645,6 @@
      "forras": "Kit",
      "elem": "97/A",
      "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "3/2016. (III. 21.) KMK vélemény",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
     }
    ],
    "info": []
@@ -1415,91 +668,68 @@
    "hiany": [
     {
      "forras": "Kttv",
-     "elem": "76",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "Kttv",
      "elem": "155/A",
      "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "Kp",
-     "elem": "5",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "31/2012. (III. 7.) Korm. rendelet",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "3/2016. (III. 21.) KMK vélemény",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
     }
    ],
-   "info": []
+   "info": [
+    {
+     "forras": "31/2012. (III. 7.) Korm. rendelet",
+     "megjegyzes": "teljes fájl előírva; a tétel 0 egységét említi a 11 hatályosból"
+    }
+   ]
   },
   "48": {
    "hiany": [
     {
      "forras": "Kit",
-     "elem": "107",
+     "elem": "99",
      "ok": "nincs dobozban és nincs hivatkozva"
     },
     {
      "forras": "Kit",
-     "elem": "111",
+     "elem": "100",
      "ok": "nincs dobozban és nincs hivatkozva"
     },
     {
      "forras": "Kit",
-     "elem": "112",
+     "elem": "101",
      "ok": "nincs dobozban és nincs hivatkozva"
     },
     {
      "forras": "Kit",
-     "elem": "113",
+     "elem": "102",
      "ok": "nincs dobozban és nincs hivatkozva"
     },
     {
      "forras": "Kit",
-     "elem": "148",
+     "elem": "103",
      "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "Kit",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
+    }
+   ],
+   "info": [
     {
      "forras": "69/2019. (IV. 4.) Korm. rendelet",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 0 egységét említi a 29 hatályosból"
     },
     {
      "forras": "88/2019. (IV. 23.) Korm. rendelet",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 0 egységét említi a 116 hatályosból"
     }
-   ],
-   "info": []
+   ]
   },
   "49": {
-   "hiany": [
+   "hiany": [],
+   "info": [
     {
      "forras": "Kttv",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 5 egységét említi a 264 hatályosból"
     },
     {
      "forras": "Kttv",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 5 egységét említi a 264 hatályosból"
     }
-   ],
-   "info": []
+   ]
   },
   "50": {
    "hiany": [
@@ -1602,24 +832,14 @@
      "forras": "Kjt",
      "elem": "37/A",
      "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "Mt",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "3001/2017. (I. 5.) AB határozat",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    },
-    {
-     "forras": "2012. évi I. törvény",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
     }
    ],
-   "info": []
+   "info": [
+    {
+     "forras": "Mt",
+     "megjegyzes": "teljes fájl előírva; a tétel 0 egységét említi a 299 hatályosból"
+    }
+   ]
   },
   "51": {
    "hiany": [],
@@ -1631,72 +851,45 @@
      "forras": "Kp",
      "elem": "4",
      "ok": "nincs dobozban és nincs hivatkozva"
-    },
-    {
-     "forras": "Kp",
-     "elem": "5",
-     "ok": "nincs dobozban és nincs hivatkozva"
-    },
+    }
+   ],
+   "info": [
     {
      "forras": "Kit",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 5 egységét említi a 338 hatályosból"
     },
     {
      "forras": "Kttv",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 0 egységét említi a 264 hatályosból"
     },
     {
      "forras": "Kut",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 0 egységét említi a 109 hatályosból"
     },
     {
      "forras": "Hjt",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 1 egységét említi a 67 hatályosból"
     },
     {
      "forras": "Hszt",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 0 egységét említi a 535 hatályosból"
     },
     {
      "forras": "Hajtv",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 0 egységét említi a 138 hatályosból"
     },
     {
      "forras": "NAVSzjtv",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
-    {
-     "forras": "1/2022 (VI. 8.) KK vélemény",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
+     "megjegyzes": "teljes fájl előírva; a tétel 0 egységét említi a 273 hatályosból"
     }
-   ],
-   "info": []
+   ]
   },
   "53": {
-   "hiany": [
-    {
-     "forras": "KK 24.",
-     "elem": "None–None",
-     "ok": "a jogszabály nincs a korpuszban"
-    }
-   ],
+   "hiany": [],
    "info": []
   },
   "54": {
    "hiany": [
-    {
-     "forras": "Ebtv",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
     {
      "forras": "Tny",
      "elem": "6/A",
@@ -1748,7 +941,12 @@
      "ok": "nincs dobozban és nincs hivatkozva"
     }
    ],
-   "info": []
+   "info": [
+    {
+     "forras": "Ebtv",
+     "megjegyzes": "teljes fájl előírva; a tétel 14 egységét említi a 154 hatályosból"
+    }
+   ]
   },
   "55": {
    "hiany": [
@@ -1762,11 +960,6 @@
   },
   "56": {
    "hiany": [
-    {
-     "forras": "Art",
-     "elem": "None–None",
-     "ok": "a tartomány határa nincs a korpuszban"
-    },
     {
      "forras": "Ebtv",
      "elem": "68/A",
@@ -1793,7 +986,12 @@
      "ok": "nincs dobozban és nincs hivatkozva"
     }
    ],
-   "info": []
+   "info": [
+    {
+     "forras": "Art",
+     "megjegyzes": "teljes fájl előírva; a tétel 2 egységét említi a 321 hatályosból"
+    }
+   ]
   }
  }
 }

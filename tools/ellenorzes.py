@@ -30,6 +30,20 @@ def biro_minta(kod):
     return {'XXV. PED': r'XXV\.\s*(?:számú\s*)?(?:Polgári Elvi Döntés|PED)', 'IHRA': r'IHRA|antiszemitizmus'}[kod]
 
 
+def emlites_minta(kod):
+    """A teljes fájlként előírt forrás említésének mintája a tétel szövegében: a beállítás emlites kulcsa, különben a
+    megnevezés lényege („8/2016.”, „C-106/89”, „PK 152.”, „EBH 2017.B.5”) rugalmas szóközzel."""
+    if EMLITES.get(kod):
+        return EMLITES[kod]
+    m = re.match(r'^(\d+(?:/[A-Z])?)/(\d{4})', kod)
+    if m:
+        return r'(?<![\d/])%s/%s' % (re.escape(m.group(1)), m.group(2))
+    m = re.match(r'^([CT])-\s?(\d+)/(\d+)', kod)
+    if m:
+        return r'\b%s-\s?%s/(?:\d\d)?%s' % (m.group(1), m.group(2), m.group(3)[-2:])
+    return r'\s*'.join(re.escape(x) for x in kod.split())
+
+
 def hatalyos(szoveg):
     s = szoveg.strip()
     return bool(s) and not re.match(r'^(?:\(\d+\)\s*)?Hatályon kívül helyezve', s)
@@ -43,6 +57,21 @@ def emlitett_paragrafusok(txt, kod):
             out.add(m.group(1))
             if m.group(2):
                 out.add(('tartomany', m.group(1), m.group(2)))
+        return out
+    if kozos.egyseg(kod) != '§':
+        # cikkre tagolt forrás („EUMSZ 288. cikk”, „Alaptörvény XXVIII. cikk”, „E) cikk”, „235–243. cikk”): a sort a
+        # beállítás emlites mintája vagy a forrás dobozfejléc-rövidítése választja ki
+        rx = EMLITES.get(kod) or '|'.join(r for r, k in kozos.DOBOZ_RÖVIDITES if k == kod)
+        if not rx:
+            return out
+        az = r'(\d+|[IVXLC]+|[A-Z]\))'
+        for sor in txt.split('\n'):
+            if not re.search(rx, sor):
+                continue
+            for m in re.finditer(r'(?<![\w)/])' + az + r'\.?\s*(?:[Cc]ikk\s*)?(?:[–-]\s*' + az + r'\.?\s*)?[Cc]ikk', sor):
+                out.add(m.group(1))
+                if m.group(2):
+                    out.add(('tartomany', m.group(1), m.group(2)))
         return out
     rx = EMLITES.get(kod)
     if not rx:
@@ -110,6 +139,18 @@ def main():
         hiany, info = [], []
         for e in t['eloirasok']:
             kod = e['forras']
+            if e.get('csoport'):
+                continue      # a tételcsoport közös előírása (mint az átfogó ismeret): tételenként nem kérhető számon
+            if 'tol' in e and e['tol'] is None:
+                # az alapfelvetel.py a teljes fájlként előírt forrást (EUB-ügy, rendelet, AB határozat, teljes törvény)
+                # "tol": None-nal írja: ez a „teljes” ág, nem tartomány
+                if kod in JOG:
+                    eml = {x for x in emlitett_paragrafusok(txt, kod) if not isinstance(x, tuple)}
+                    db = len([p for p in JOG[kod][1] if hatalyos(JOG[kod][0].get(p, ''))])
+                    info.append({'forras': kod, 'megjegyzes': f'teljes fájl előírva; a tétel {len(eml | {p for k, p in dob_par if k == kod})} egységét említi a {db} hatályosból'})
+                elif not re.search(emlites_minta(kod), txt):
+                    hiany.append({'forras': kod, 'elem': 'teljes', 'ok': 'a tétel nem említi'})
+                continue
             if 'tol' in e:
                 if kod not in JOG:
                     hiany.append({'forras': kod, 'elem': f"{e['tol']}–{e['ig']}", 'ok': 'a jogszabály nincs a korpuszban'}); continue

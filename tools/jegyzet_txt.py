@@ -215,10 +215,23 @@ def ellenor(n, megf):
     return hibak
 
 
+def kizart_sorszamok():
+    """A kiírásban nem szereplő jegyzet-sorszámok (tetelsor/beallitas.json: kizartJegyzetSorszam, nem kötelező)."""
+    ut = os.path.join(GY, 'tetelsor', 'beallitas.json')
+    if not os.path.exists(ut):
+        return set()
+    return {int(x) for x in (json.load(open(ut, encoding='utf-8')).get('kizartJegyzetSorszam') or [])}
+
+
 def main():
     csak_ellenor = '--ellenor' in sys.argv
     szuk = {int(a) for a in sys.argv[1:] if a.isdigit()}
     reszek = tetelek_reszei()
+    kizart = kizart_sorszamok() & set(reszek)
+    for n in sorted(kizart):
+        reszek.pop(n)
+        van = os.path.exists(os.path.join(GY, '%02d.txt' % n))
+        print('kiíráson kívüli, kizárt jegyzet: %d – NN.txt nem készül%s' % (n, ('; a meglévő %02d.txt megmarad (nem törlöm)' % n) if van else ''))
     mut = os.path.join(GY, 'tetelsor', 'jegyzet_megfeleltetes.json')
     regi = json.load(open(mut, encoding='utf-8')) if os.path.exists(mut) else {'sema': 1, 'tetelek': {}}
     hibak, db, kar = [], 0, 0

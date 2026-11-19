@@ -54,7 +54,7 @@ def szakaszok(txt):
 def doboz_helyek(txt):
     """A dobozok fejlécének sorindexe, a kozos.dobozok sorrendjében."""
     L = [l.strip() for l in txt.split('\n')]
-    return [i for i, l in enumerate(L) if kozos.FEJLEC.match(l)]
+    return [i for i, l in enumerate(L) if kozos.doboz_fej(l)]
 
 
 def tiszta(s):

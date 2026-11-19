@@ -40,7 +40,7 @@ def szerkezet(n):
     """A tétel elemei sorrendben: ('F', főcím) | ('A', alcím) | ('D', dobozfejléc) | ('M', sorszám, mondat)."""
     txt = kozos.tetel_szoveg(n); L = [l.strip() for l in txt.split('\n')]
     doboz = set(); fej = {}
-    H = [i for i, l in enumerate(L) if kozos.FEJLEC.match(l)]
+    H = [i for i, l in enumerate(L) if kozos.doboz_fej(l)]
     for (kod, par, f, sorok), h in zip(kozos.dobozok(txt), H):
         doboz.add(h); fej[h] = f; x = h + 1; k = 0
         while x < len(L) and k < len(sorok):

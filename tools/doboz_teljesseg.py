@@ -2,7 +2,10 @@
 """A jogszabálydobozok teljessége: a dobozban idézett bekezdés (vagy bekezdés nélküli §) szövegéből
 maradt-e ki rész a korpuszhoz képest (csonka felsorolás, levágott mondat).
 Használat: python3 tools/doboz_teljesseg.py [tétel]
-A szerkezeti címek (CÍM, Fejezet, alcím) és a hatályon kívül helyezett részek nem számítanak hiánynak.
+A szerkezeti címek (CÍM, Fejezet, alcím) és a hatályon kívül helyezett részek nem számítanak hiánynak. A § (cikk) sorait
+a korpuszfájl sortöréseiből veszi (kozos.jogszabaly_sorok); a § végén álló, záró írásjel nélküli címsorok (a következő
+szerkezeti egység címe) nem a § részei; a bekezdéshatár a „(n)”-nel kezdődő sor (a puszta „(3)” is). A cikkre tagolt
+forrás dobozát is vizsgálja (kozos.FEJLEC, a forrás egysége a beállításból).
 """
 import os, re, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -10,6 +13,7 @@ import kozos
 
 
 def bekezdesek(szov):
+    """Visszafelé kompatibilis: a normalizált §-szöveg bekezdései (csak ott, ahol a korpusz sorai nem érhetők el)."""
     s = re.sub(r'^\[[^\]]*\]\s*', '', szov)
     parts = re.split(r'(?:^|(?<=[.;:\]] ))\((\d+[a-z]?)\) ', s)
     if len(parts) == 1:
@@ -22,11 +26,58 @@ def bekezdesek(szov):
     return d
 
 
+def cimsor(l):
+    """Szerkezeti címsor-e a § végén álló sor (a következő szerkezeti egység címe): záró írásjel nélküli sor – nagybetűs
+    „FEJEZET”, számozott („157. Elektronikus kapcsolattartás”, „7/A. …”) vagy csillagos alcím, „202-204. §” maradék,
+    a hatályon kívül helyezett puszta „(3)”, „(3)-(4) Mérsékelt illeték”."""
+    t = kozos.norm(l).strip()
+    return bool(t) and not re.search(r'[.;:!?”"…]$|\.\)$', t)
+
+
+def bekezdesek_sorokbol(sorok):
+    """A § bekezdései a korpuszfájl sortöréseiből: {'(n)' kulcs nélkül: normalizált szöveg}. A bekezdés határa a „(n)”-nel
+    kezdődő sor (a hatályon kívül helyezett puszta „(3)” is határ); a § végéről a záró írásjel nélküli címsorok lekerülnek;
+    az első sor szögletes zárójeles címe („[A bíróság]”) nem bekezdésszöveg."""
+    sorok = [l for l in sorok if l.strip()]
+    while sorok and cimsor(sorok[-1]):
+        sorok.pop()
+    # a § elején álló cím („[A bíróság]”); a cikkfej utáni címet („3. cikk - Általános joghatóság”) a
+    # kozos.jogszabaly_sorok már elhagyta (a cikk további sorai tördelt normaszöveg lehetnek: azokat nem vágjuk)
+    if len(sorok) > 1 and re.fullmatch(r'\[[^\]]*\]', sorok[0].strip()):
+        sorok = sorok[1:]
+    d, cur = {}, ''
+    for l in sorok:
+        m = re.match(r'^\((\d+[a-z]?)\)\s*(.*)$', l.strip())
+        if m:
+            cur = m.group(1)
+            if cur in d:
+                cur = cur + '#'          # azonos számú második bekezdés: nem írja felül az elsőt
+            d[cur] = [m.group(2)]
+        else:
+            d.setdefault(cur, []).append(l)
+    return {k: kozos.norm(re.sub(r'^\[[^\]]*\]\s*', '', ' '.join(v))) for k, v in d.items()}
+
+
+_SOROK = {}
+
+
+def korpusz_sorok(kod):
+    """{egység: [sorok]} a forrás korpuszfájljából (kozos.jogszabaly_sorok), vagy None (beágyazott kódex, nincs fájl)."""
+    if kod not in _SOROK:
+        _SOROK[kod] = None
+        f = kozos.forrasok().get(kod) or {}
+        p = kozos.korpusz_fajl(f['korpusz'][0]) if f.get('korpusz') and kod not in kozos.BEAGYAZOTT else None
+        if p:
+            _SOROK[kod] = kozos.jogszabaly_sorok(kod, p)[0]
+    return _SOROK[kod]
+
+
 def cim_e(m):
     """Szerkezeti cím vagy zárójeles utalás maradéka-e (nem normaszöveg)."""
     m = re.sub(r'\([^)]*§[^)]*\)', ' ', m)
-    m = re.sub(r'\b[IVXLC]+\. (CÍM|Fejezet)\b|\b[A-ZÁÉÍÓÖŐÚÜŰ]+ (RÉSZ|KÖNYV)\b', ' ', m)
-    m = re.sub(r'\b\d+\. (?=[A-ZÁÉÍÓÖŐÚÜŰ])', ' ', m).strip()
+    m = re.sub(r'\b[IVXLC]+(?:/[A-Z])?\.\s*\*?\s*(CÍM|Fejezet|FEJEZET)\b|\b[A-ZÁÉÍÓÖŐÚÜŰ]+ (RÉSZ|KÖNYV)\b', ' ', m)
+    m = re.sub(r'\b\d+(?:/[A-Z])?\. (?=[A-ZÁÉÍÓÖŐÚÜŰ])', ' ', m)
+    m = re.sub(r'\b\d+(?:/[A-Z])?(?:\s*[-–]\s*\d+(?:/[A-Z])?)?\.\s*§', ' ', m).strip(' -–*')
     if not m:
         return True
     return not re.search(r'[.;:,]$', m) and not re.search(r'(^| )[a-z]{1,2}\) ', m) and (m.upper() == m or len(m) < 90 and m[0].isupper() and not re.search(r'\b(ha|hogy|kell|lehet|köteles|jogosult|nem)\b', m))
@@ -35,7 +86,7 @@ def cim_e(m):
 def hianyok(n, J):
     out = []
     txt = kozos.tetel_szoveg(n); L = [l.strip() for l in txt.split('\n')]
-    H = [i for i, l in enumerate(L) if kozos.FEJLEC.match(l)]
+    H = [i for i, l in enumerate(L) if kozos.doboz_fej(l)]
     for (kod, par, fej, sorok), h in zip(kozos.dobozok(txt), H):
         # a doboz utáni legfeljebb három nem üres sor: ha a korpusz szerint a bekezdés folytatása
         # (a felsorolás záró szövege), a tételben megvan, csak a dobozfelismerő nem sorolja a dobozhoz
@@ -48,11 +99,14 @@ def hianyok(n, J):
                     utana.append(L[x])
             x += 1
         szov = J.get(kod, ({}, []))[0].get(par)
-        if not szov or not sorok:
-            continue
-        B = bekezdesek(szov); cur = None; D = {}
+        if not szov or not sorok or re.search(r'\)\s*pont$', fej):
+            continue          # a pontot idéző doboz („Mt. 294. § (1) bek. i) pont”) szándékosan részleges
+        ks = korpusz_sorok(kod)
+        B = bekezdesek_sorokbol(ks[par]) if ks and par in ks else bekezdesek(szov)
+        cur = None; D = {}
         for s in sorok:
-            if s.startswith('['):
+            s = re.sub(r'^\[[^\]]*\]\s*', '', s)      # „[cím] szöveg” egysoros doboz: a cím után a szöveg számít
+            if not s:
                 continue
             m = re.match(r'^\((\d+[a-z]?)\)\s*(.*)$', s)
             if m:

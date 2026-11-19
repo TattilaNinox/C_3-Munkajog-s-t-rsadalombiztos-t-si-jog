@@ -17,7 +17,11 @@ import vazlat_gyart as v
 KI = os.path.join(kozos.GYOKER, 'termekek', 'elhatarolasok')
 CIM = re.compile(r'^(?:(?:[IVX]+|\d+)\. )?(?:KAPCSOLÓDÓ JOGINTÉZMÉNYEK ÉS )?ELHATÁROLÁSOK$')
 FOCIM = re.compile(r'^(?:[IVX]+\. )?[A-ZÁÉÍÓÖŐÚÜŰ0-9 ,:().–\-/„”§]+$')
-PAR = re.compile(kozos.beallitas()['elhatarolasPar'])
+# elhatarolasPar: egy minta (régi alak) vagy kódonkénti minták listája / objektuma ({"Bvtv": "Bv\\. tv\\. \\d+…§",
+# "EUMSZ": "EUMSZ \\d+\\. cikk"}); a minták csoport nélküliek (a findall a teljes találatot adja)
+_EP = kozos.beallitas()['elhatarolasPar']
+_EP = list(_EP.values()) if isinstance(_EP, dict) else _EP if isinstance(_EP, list) else [_EP]
+PAR = re.compile('|'.join('(?:%s)' % x for x in _EP))
 
 
 def fogalmak(cim):
@@ -36,7 +40,7 @@ def fogalmak(cim):
 def doboz_sorok(txt, L):
     """A jogszabálydobozok sorainak indexei (fejléc és normasorok), a tetel_blokk.blokkok() szerint."""
     doboz = set()
-    H = [i for i, l in enumerate(L) if kozos.FEJLEC.match(l)]
+    H = [i for i, l in enumerate(L) if kozos.doboz_fej(l)]
     for (kod, par, f, sorok), h in zip(kozos.dobozok(txt), H):
         doboz.add(h); x = h + 1; k = 0
         while x < len(L) and k < len(sorok):

@@ -6,6 +6,7 @@
 - Minden műveletet ellenőriz (létező sorok, át nem fedő tartományok, doboz csak egyben törölhető); a hibás művelet
   kimarad, és a jelentésbe kerül.
 - Az „@DOBOZ …” elem helyére a doboz a korpuszból épül (fejléc + a kért teljes bekezdések); a modell jogszabályszöveget nem ír.
+  §-os és cikkre tagolt forrásra is („@DOBOZ EUMSZ 288. cikk”, „@DOBOZ Alaptörvény XXVIII. cikk (1)”).
 - A tiltott szavakat és a gyanús hivatkozásokat (határozatszám, amely a tétel előírt anyagában nincs) jelzi, nem javítja.
 - --ir nélkül próbafutás. Kimenet: jelentesek/api/atiras_alkalmazas.md és .json; utolsó sor az összesítő.
 """
@@ -39,14 +40,14 @@ JOG = None
 def doboz_epit(elem):
     """„@DOBOZ Pp. 427. § (1)-(2)” -> a doboz sorai (fejléc + szöveg) a korpuszból, vagy (None, ok)."""
     fej = elem[len('@DOBOZ'):].strip()
-    m = kozos.FEJLEC.match(fej)
+    m = kozos.doboz_fej(fej)
     if not m:
-        return None, 'a fejléc nem értelmezhető: ' + fej
-    kod, par = kozos.rovid_kod(m.group(1)), m.group(2)
+        return None, 'a fejléc nem értelmezhető (vagy az egysége nem a forrásé): ' + fej
+    kod, par = kozos.fejlec_kod(m)
     if kod not in JOG or par not in dj.paragrafus_sorok(kod):
-        return None, 'nincs ilyen § a korpuszban: ' + fej
+        return None, 'nincs ilyen %s a korpuszban: %s' % ('§' if kozos.egyseg(kod) == '§' else 'cikk', fej)
     cs = dj.csoportok(dj.paragrafus_sorok(kod)[par])
-    maradek = fej[fej.index('§') + 1:]
+    maradek = fej[m.end(3):]
     kert = set()
     for a, b in re.findall(r'\((\d+[a-z]?)\)(?:\s*[–-]\s*\((\d+[a-z]?)\))?', maradek):
         if b:
@@ -120,7 +121,7 @@ def tetel(n):
                     if sorok is None:
                         hiba = ok; break
                     uj.extend(sorok)
-                elif e.startswith('[D') or kozos.FEJLEC.match(e):
+                elif e.startswith('[D') or kozos.doboz_fej(e):
                     hiba = 'kézzel írt doboz: ' + e[:60]; break
                 else:
                     uj.append(e)

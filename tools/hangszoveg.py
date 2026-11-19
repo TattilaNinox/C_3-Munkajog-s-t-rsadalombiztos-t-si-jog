@@ -496,7 +496,7 @@ def dobozfej(b):
     """A blokk jogszabálydoboz feje-e. Egyetlen forrás: a kozos.FEJLEC, amellyel a kozos.dobozok is dolgozik – így a
     bekezdéses fej („Th. tv. 10. § (1)–(5) bekezdés”, „Ptk. 6:216. § (4)”) és az évszámos törvénynév
     („2016. évi LXXVII. törvény 29. §”) is fej."""
-    return kozos.FEJLEC.match(b.strip())
+    return kozos.doboz_fej(b)
 
 
 def fej_hang(b):

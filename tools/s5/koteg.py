@@ -40,7 +40,7 @@ JEL = '⟦%d⟧ '          # ⟦n⟧ – a sor száma az NN.txt-ben (1-től)
 def doboz_sorok(txt):
     """A dobozok sorai az NN.txt-ben: [(fejléc sorindexe, [a doboz sorainak indexei])], 0-tól."""
     L = txt.split('\n')
-    H = [i for i, l in enumerate(L) if kozos.FEJLEC.match(l.strip())]
+    H = [i for i, l in enumerate(L) if kozos.doboz_fej(l)]
     out = []
     for (kod, par, fej, sorok), h in zip(kozos.dobozok(txt), H):
         idx, j = [], h + 1
@@ -85,14 +85,18 @@ def lelet(n):
 
 
 def _roviditesek():
-    """A §-okra tagolt források dobozfejléc-rövidítései a beállításból („Pp.”, „Btk.”)."""
+    """A §-okra és cikkekre tagolt források dobozfejléc-rövidítései a beállításból, egységgel és mintával:
+    „Pp. (§: @DOBOZ Pp. 8. §)”, „EUMSZ (cikk: @DOBOZ EUMSZ 288. cikk)”, „Alaptörvény (cikk: @DOBOZ Alaptörvény XXVIII. cikk)”.
+    Csak a beállítás forrasok tömbjében egységgel szereplő forrás kap rövidítést (a teljes fájlként előírt határozat nem)."""
     B = af.beallitas()
-    par = {f['kod'] for f in B['forrasok'] if f.get('egyseg') == '§'}
-    ki = []
+    egys = {f['kod']: f.get('egyseg') for f in B['forrasok'] if f.get('egyseg') in ('§', 'cikk', 'romaiCikk')}
+    pelda = {'§': '%s 8. §', 'cikk': '%s 5. cikk', 'romaiCikk': '%s XXVIII. cikk'}
+    ki, latott = [], set()
     for minta, kod in B.get('dobozRovidites', []):
         nev = re.sub(r'\\(.)', r'\1', minta)
-        if kod in par and re.fullmatch(r'[\w. ]{2,14}', nev) and nev not in ki:
-            ki.append(nev)
+        if kod in egys and re.fullmatch(r'[\w./() ]{2,40}', nev) and nev not in latott:
+            latott.add(nev)
+            ki.append('%s (%s: @DOBOZ %s)' % (nev, '§' if egys[kod] == '§' else 'cikk', pelda[egys[kod]] % nev))
     return ', '.join(ki)
 
 
@@ -141,8 +145,9 @@ akkor említesz, ha a kapott anyagban szerepel. Ami nem igazolható, az nem ker�
 („ebben a tételben…”), és nem hivatkozik leletre, kiírásra, forrásfájlra.
 - Dobozt NEM írsz ki szövegesen. Új dobozt így kérsz, külön elemként: „@DOBOZ Pp. 427. § (1)” vagy „@DOBOZ Vht. 92. §” vagy \
 „@DOBOZ Pp. 500. § (2)-(3)” – a program a hatályos szöveget teszi a helyére. Csak teljes §-t vagy teljes bekezdés(eke)t \
-kérhetsz, és csak olyat, amely a (2) részben szerepel. Használható rövidítések: """ + ROVIDITESEK + """ Más forrásból (uniós \
-rendelet, Alaptörvény, bírósági iránymutatás, rendelet) új dobozt ne kérj; a meglévő dobozaik maradhatnak.
+kérhetsz, és csak olyat, amely a (2) részben szerepel. A cikkre tagolt forrásnál a fejléc „cikk” (pl. „@DOBOZ EUMSZ 288. cikk \
+(2)”). Használható rövidítések (egységgel): """ + ROVIDITESEK + """. Más forrásból (bírósági iránymutatás, teljes \
+fájlként előírt határozat vagy rendelet) új dobozt ne kérj; a meglévő dobozaik maradhatnak.
 - Meglévő doboz sorait ([DOBOZ-FEJ], [D]) csak egyben törölheted (a fejléctől az utolsó [D] sorig); átírni nem lehet. \
 Csonka idézés helyett kérj @DOBOZ-t, és töröld a régit.
 - Egy bekezdés egy elem az „uj” tömbben; a bekezdésen belül nincs sortörés. Felsorolás helyett folyó szöveg, kivéve a \

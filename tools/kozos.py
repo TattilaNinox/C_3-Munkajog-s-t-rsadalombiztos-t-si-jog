@@ -8,7 +8,7 @@ import json, os, re, sys, unicodedata
 GYOKER = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 KORPUSZ = os.path.join(GYOKER, 'korpusz')
 
-BEKEZDES = r'(?:\s*\(\d+\)(?:\s*[–-]\s*\(\d+\))?(?:,\s*\(\d+\)(?:\s*[–-]\s*\(\d+\))?)*(?:\s*bekezdés)?)?'
+BEKEZDES = r'(?:\s*\(\d+\)(?:\s*[–-]\s*\(\d+\))?(?:,\s*\(\d+\)(?:\s*[–-]\s*\(\d+\))?)*(?:\s*(?:bekezdés|bek\.?))?(?:\s*[a-z]{1,2}\)\s*pont)?)?'
 
 _BEALLITAS = None
 _KOTELEZO = (
@@ -58,22 +58,98 @@ def beallitas():
     return d
 
 
+_EGYSEG = {}
+
+
+def egyseg(kod):
+    """A forrás egysége a beállításból (forrasok[].egyseg, tetelForras): '§', 'cikk', 'romaiCikk'. A beállításban nem
+    szereplő forrásé (az általános feloldás rekordja, pl. „(EU) 2016/679”) a korpuszfájlból: a „N. cikk” és a „N. §”
+    fejsorok közül a gyakoribb; ha egyik sincs: '§'."""
+    for f in beallitas()['forrasok']:
+        if f.get('kod') == kod:
+            return f.get('egyseg') or '§'
+    for lista in (beallitas().get('tetelForras') or {}).values():
+        for f in lista:
+            if f.get('kod') == kod and f.get('egyseg'):
+                return f['egyseg']
+    if kod not in _EGYSEG:
+        _EGYSEG[kod] = '§'
+        try:
+            f = forrasok().get(kod) or {}
+            p = korpusz_fajl(f['korpusz'][0]) if f.get('korpusz') else None
+            if p:
+                t = open(p, encoding='utf-8').read()
+                c = len(re.findall(r'(?mi)^\s*\d+\. cikk\b', t)); par = len(re.findall(r'(?m)^\s*\d+(?::\d+)?(?:/[A-Z])?\. §', t))
+                _EGYSEG[kod] = 'cikk' if c > par else '§'
+        except (OSError, ValueError, KeyError):
+            pass
+    return _EGYSEG[kod]
+
+
 def konyves(kod):
-    """Igaz, ha a parMinta könyves (§ 5:44) és a kod a fő kódex (A/1-en: kod == 'Ptk')."""
+    """Igaz, ha a forrás §-számozása könyves (Ptk. 6:105. §). Forrásonként: a forrás saját parMinta kulcsa
+    (forrasok[].parMinta: 'konyv' | 'egyszeru') dönt; ha nincs, az alapérték: a beállítás parMinta kulcsa a fő kódexre
+    (A/1: kod == 'Ptk'), illetve a korpuszfájl maga (van-e benne „N:M. §” sor)."""
     B = beallitas()
-    return B['parMinta'] == 'konyv' and kod == B['foKodex']
+    f = next((x for x in B['forrasok'] if x.get('kod') == kod), {})
+    if f.get('parMinta'):
+        return f['parMinta'] == 'konyv'
+    if B['parMinta'] == 'konyv' and kod == B['foKodex']:
+        return True
+    return _konyves_korpusz(kod)
+
+
+_KONYVES = {}
+
+
+def _konyves_korpusz(kod):
+    if kod not in _KONYVES:
+        _KONYVES[kod] = False
+        try:
+            f = forrasok().get(kod) or {}
+            p = korpusz_fajl(f['korpusz'][0]) if f.get('korpusz') else None
+            if p:
+                _KONYVES[kod] = bool(re.search(r'(?m)^\s*\d+:\d+(?:/[A-Z])?\. §', open(p, encoding='utf-8').read()))
+        except (OSError, ValueError, KeyError):
+            pass
+    return _KONYVES[kod]
 
 
 # A tételek jogszabálydobozainak fejlécében használt rövidítések -> forráskód (tetelsor/forrasok.json).
-# Tárgyanként a beállítás dobozRovidites tömbje (A/1: Ptk., Ptké., …).
+# Tárgyanként a beállítás dobozRovidites tömbje (A/1: Ptk., Ptké., …). A fejléc egysége forrásonként a beállításból
+# jön (forrasok[].egyseg): „Pp. 8. §”, „Ptk. 6:518. §” (könyves számozás bármely §-os forrásnál), „EUMSZ 223. cikk”,
+# „GDPR 5. cikk (1) bekezdés”, „Alaptörvény XXVIII. cikk”, „Alaptörvény T) cikk”, „Alaptörvény 25. cikk”.
+# A csoportok: 1 = rövidítés, 2 = az egység azonosítója, 3 = az egység jele (§ / cikk). Az egység és a forrás
+# összeillését a dobozok() ellenőrzi (fejlec_kod).
 _B = beallitas()
 DOBOZ_RÖVIDITES = [(minta, kod) for minta, kod in _B['dobozRovidites']]
 BEAGYAZOTT = {kod: tuple(par) for kod, par in _B['beagyazott'].items()}
-if _B['parMinta'] == 'konyv':
-    PAR = r'(\d+(?::\d+)?(?:/[A-Z])?)'
-else:
-    PAR = r'(\d+(?:/[A-Z])?)'
-FEJLEC = re.compile(r'^(' + '|'.join(r for r, _ in DOBOZ_RÖVIDITES) + r')\s*' + PAR + r'\.\s?§' + BEKEZDES + r'$')
+PAR = r'(\d+(?::\d+)?(?:/[A-Z])?|[IVXLC]+|[A-Z]\))'
+FEJLEC = re.compile(r'^(' + '|'.join(r for r, _ in DOBOZ_RÖVIDITES) + r')\s*' + PAR + r'(?:\.|(?<=\)))\s?(§|[Cc]ikk)' + BEKEZDES + r'$')
+
+
+def doboz_fej(sor):
+    """A sor jogszabálydoboz feje-e: a FEJLEC-találat, ha az egysége a forráséval egyezik, különben None. A dobozok()
+    pontosan ezeket a sorokat veszi fejnek – a fejsorok indexét ezzel kell képezni (zip a dobozok()-kal)."""
+    m = FEJLEC.match(sor.strip())
+    return m if m and fejlec_kod(m)[0] is not None else None
+
+
+def fejlec_kod(m):
+    """A FEJLEC-találat forráskódja és egységazonosítója, ha a fejléc egysége a forráséval egyezik: (kod, azonosító),
+    különben (None, None). „Pp. 8. §” -> ('Pp', '8'); „EUMSZ 223. cikk” -> ('EUMSZ', '223'); „Alaptörvény T) cikk” ->
+    ('Alaptv', 'T)')."""
+    kod = rovid_kod(m.group(1))
+    e = egyseg(kod)
+    jel = m.group(3).lower()
+    azon = m.group(2)
+    if e == '§':
+        ok = jel == '§' and re.fullmatch(r'\d+(?::\d+)?(?:/[A-Z])?', azon)
+    elif e == 'cikk':
+        ok = jel == 'cikk' and azon.isdigit()
+    else:
+        ok = jel == 'cikk'
+    return (kod, azon) if ok else (None, None)
 
 
 def nfc(s):
@@ -148,15 +224,45 @@ def beagyazott_paragrafusok(fajl, tol, ig):
     return {k: re.sub(r'"$', '', norm(' '.join(v))).strip() for k, v in d.items()}, sorrend
 
 
-def jogszabaly_paragrafusok(kod, fajl):
-    """{§-szám: normalizált szöveg} és a §-ok sorrendje a korpusz-fájlban."""
-    if kod in BEAGYAZOTT:
-        return beagyazott_paragrafusok(fajl, *BEAGYAZOTT[kod])
-    ptk = konyves(kod)
-    rx = re.compile(r'^(\d+:\d+(?:/[A-Z])?)\. §' if ptk else r'^(\d+(?:/[A-Z])?)\. §')
+def egyseg_sor(s, e):
+    """A korpuszsor egységfeje (match) – az alapfelvetel.egyseg_sor szabálya (egy helyen megírva)."""
+    import alapfelvetel
+    return alapfelvetel.egyseg_sor(s, e)
+
+
+def jogszabaly_sorok(kod, fajl):
+    """{egység: [a korpuszfájl nyers (csak szélein szóköztelenített) sorai a fej utáni szövegtől]} és a sorrend.
+    Az egység a forrás egysége (§, cikk, romaiCikk); a fej sorának maradéka az első sor."""
+    e = egyseg(kod)
     d, sorrend, cur = {}, [], None
     for l in open(fajl, encoding='utf-8').read().split('\n'):
-        m = rx.match(l.strip())
+        t = l.strip()
+        m = egyseg_sor(t, e)
+        if m:
+            cur = m.group(1)
+            if cur in d:
+                cur = None; continue      # azonos számú második egység (Itv.): az első számít
+            d[cur] = []; sorrend.append(cur)
+            rest = t[m.end():].strip()
+            if e != '§':
+                rest = rest.lstrip('-–* ').strip()
+                if not re.search(r'[.;:!?”"…)]$', rest):
+                    rest = ''             # a cikkfej utáni cím („3. cikk - Általános joghatóság”) nem normaszöveg
+            if rest:
+                d[cur].append(rest)
+        elif cur is not None:
+            d[cur].append(t)
+    return d, sorrend
+
+
+def jogszabaly_paragrafusok(kod, fajl):
+    """{egység (§ vagy cikk): normalizált szöveg} és az egységek sorrendje a korpusz-fájlban."""
+    if kod in BEAGYAZOTT:
+        return beagyazott_paragrafusok(fajl, *BEAGYAZOTT[kod])
+    e = egyseg(kod)
+    d, sorrend, cur = {}, [], None
+    for l in open(fajl, encoding='utf-8').read().split('\n'):
+        m = egyseg_sor(l.strip(), e)
         if m:
             cur = m.group(1)
             if cur not in d:
@@ -170,12 +276,15 @@ def jogszabaly_paragrafusok(kod, fajl):
 
 
 def korpusz_jogszabalyok():
-    """Forráskód -> ({§: szöveg}, sorrend) azokra a jogszabályokra, amelyek §-okra tagolódnak."""
+    """Forráskód -> ({egység: szöveg}, sorrend) azokra a jogszabályokra, amelyek §-okra vagy cikkekre tagolódnak."""
     out = {}
+    egysegesek = {f['kod'] for f in beallitas()['forrasok'] if f.get('egyseg') in ('§', 'cikk', 'romaiCikk')}
+    egysegesek |= {kod for _, kod in DOBOZ_RÖVIDITES}      # amire dobozfejléc utal, az tagolt jogszabály
     for kod, f in forrasok().items():
         # A típus nélküli, de korpuszfájllal bíró forrás is jogszabály (új tételsor, ahol a beállítás
         # nem ad tipust). Az A/1 minden forrása tipust ad, ezért ott a feltétel a régivel azonos.
-        if f.get('tipus') not in ('törvény', 'rendelet', None) or not f.get('korpusz'):
+        # A beállításban egységgel (§, cikk, romaiCikk) megadott forrás a típusától függetlenül tagolt jogszabály.
+        if (f.get('tipus') not in ('törvény', 'rendelet', None) and kod not in egysegesek) or not f.get('korpusz'):
             continue
         p = korpusz_fajl(f['korpusz'][0])
         if p:
@@ -214,9 +323,9 @@ def dobozok(txt):
     out, i = [], 0
     while i < len(L):
         m = FEJLEC.match(L[i])
-        if not m:
+        if not m or fejlec_kod(m)[0] is None:
             i += 1; continue
-        kod = rovid_kod(m.group(1)); par = m.group(2); j = i + 1; sorok = []
+        kod, par = fejlec_kod(m); j = i + 1; sorok = []
         while j < len(L):
             s = L[j]
             if not s:
@@ -226,7 +335,7 @@ def dobozok(txt):
             if not sorok:
                 if not normasor(s) and re.match(r'^([IVX]+|\d+)\. [A-ZÁÉÍÓÖŐÚÜŰ]', s):
                     break
-                sorok.append(re.sub(r'^\d+(?::\d+)?(?:/[A-Z])?\. §\s*', '', s)); j += 1; continue
+                sorok.append(re.sub(r'^(?:\d+(?::\d+)?(?:/[A-Z])?\. §|(?:\d+|[IVXLC]+)\. [Cc]ikk|[A-Z]\) [Cc]ikk)\s*', '', s)); j += 1; continue
             if not normasor(s):
                 if len(sorok) == 1 and sorok[0].startswith('[') and sorok[0].endswith(']'):
                     # szögletes zárójeles cím után a bekezdésszám nélküli normaszöveg következik
