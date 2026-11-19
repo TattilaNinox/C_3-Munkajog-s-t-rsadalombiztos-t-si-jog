@@ -1,14 +1,14 @@
 # S1 – alapfelvétel: C/3 – Munkajog és társadalombiztosítási jog
 
 - kiírás: 56 tétel (tetelsor/kiiras_2026.txt); jegyzet: 201 rész 56 tételben
-- feloldott hivatkozás: 472; feloldatlan: 0; a kiírás által nem hivatkozott korpusz-fájl: 9
+- feloldott hivatkozás: 466; feloldatlan: 1; a kiírás által nem hivatkozott korpusz-fájl: 9
 - alapfelvételi hiba: 0
 - tételcsoport-előírás: A KÖZSZFÉRA MUNKAJOGA (4 hivatkozás); TÁRSADALOMBIZTOSÍTÁSI JOG (3 hivatkozás)
 
 
 ## Feloldatlan hivatkozások (hiánylista a korpuszhoz)
 
-- nincs
+- 39. tétel: fel nem ismert hivatkozás: Eljárási és Magatartási Kódexe I- III. rész
 
 ## Átfogó ismeret (a kiírás elején)
 
@@ -30,8 +30,8 @@
 
 | # | Cím | Jegyzetrész | Jegyzet (karakter) | Előírt joganyag (karakter) | Feloldatlan |
 |---|---|---|---|---|---|
-| 1 | Az Mt. bevezető rendelkezései és jelentőségük. | 1 | 219831 | 742699 | 0 |
-| 2 | A munkaviszonnyal kapcsolatos jognyilatkozatok, a jognyilatkozatok meg | 5 | 160869 | 118923 | 0 |
+| 1 | Az Mt. bevezető rendelkezései és jelentőségük. | 1 | 219831 | 503510 | 0 |
+| 2 | A munkaviszonnyal kapcsolatos jognyilatkozatok, a jognyilatkozatok meg | 5 | 160869 | 118961 | 0 |
 | 3 | Az érvénytelenség. | 2 | 28077 | 10022 | 0 |
 | 4 | A munkaviszony alanyai. A cselekvőképtelen munkavállaló. | 2 | 71699 | 50672 | 0 |
 | 5 | A munkáltató személyében bekövetkező változás. | 4 | 65697 | 174926 | 0 |
@@ -54,35 +54,35 @@
 | 22 | A napi és a heti pihenőidőre, illetve a heti pihenőnapra vonatkozó sza | 3 | 60687 | 73314 | 0 |
 | 23 | A rendkívüli munkaidő fogalma, elrendelése és elrendelésének korlátai, | 8 | 403547 | 357508 | 0 |
 | 24 | A szabadság (alap- és pótszabadság) mértéke, kiadása, az apasági szaba | 9 | 106473 | 164372 | 0 |
-| 25 | A betegszabadság, a szülési szabadság és a fizetés nélküli szabadság,  | 3 | 78683 | 72948 | 0 |
+| 25 | A betegszabadság, a szülési szabadság és a fizetés nélküli szabadság,  | 3 | 78683 | 83695 | 0 |
 | 26 | A munka díjazása, díjazás munkavégzés hiányában, a távolléti díj számí | 4 | 70766 | 45886 | 0 |
-| 27 | A munkabér védelme, a munkabérből való levonás szabályai, a jogalap né | 4 | 102891 | 46914 | 0 |
+| 27 | A munkabér védelme, a munkabérből való levonás szabályai, a jogalap né | 4 | 102891 | 47003 | 0 |
 | 28 | A munkáltató kártérítési felelőssége. | 6 | 107534 | 107111 | 0 |
 | 29 | A munkavállaló kártérítési felelőssége, a megőrzési felelősség, a lelt | 7 | 67870 | 24014 | 0 |
 | 30 | A határozott idejű munkaviszonyra vonatkozó különös szabályok, munkavé | 2 | 25215 | 27042 | 0 |
 | 31 | A munkakör megosztása, több munkáltató által létesített munkaviszony,  | 1 | 22279 | 5960 | 0 |
-| 32 | A bedolgozói jogviszony és az egyszerűsített foglalkoztatásra vagy alk | 3 | 59372 | 59345 | 0 |
+| 32 | A bedolgozói jogviszony és az egyszerűsített foglalkoztatásra vagy alk | 3 | 59372 | 59989 | 0 |
 | 33 | A köztulajdonban álló munkáltatóval fennálló munkaviszonyra vonatkozó  | 2 | 29709 | 14222 | 0 |
 | 34 | A vezető állású munkavállalóra vonatkozó rendelkezések. | 2 | 20316 | 6338 | 0 |
-| 35 | A munkaerő-kölcsönzésre vonatkozó legfontosabb rendelkezések. | 5 | 246536 | 226873 | 0 |
-| 36 | A munkaviszonyhoz kapcsolódó egyes megállapodások: a versenytilalmi me | 3 | 43911 | 81366 | 0 |
+| 35 | A munkaerő-kölcsönzésre vonatkozó legfontosabb rendelkezések. | 5 | 246536 | 229434 | 0 |
+| 36 | A munkaviszonyhoz kapcsolódó egyes megállapodások: a versenytilalmi me | 3 | 43911 | 81392 | 0 |
 | 37 | A kollektív szerződés megkötése és tartalma, hatálya, megszűnése. | 3 | 54392 | 45086 | 0 |
 | 38 | A munkajogi igény érvényesítésének szabályai. | 15 | 211270 | 590072 | 0 |
-| 39 | Kollektív munkaügyi vita. | 2 | 34754 | 2570 | 0 |
+| 39 | Kollektív munkaügyi vita. | 2 | 34754 | 2570 | 1 |
 | 40 | A sztrájkhoz való jog a sztrájkról szóló 1989. évi VII. törvény rendel | 5 | 122819 | 112573 | 0 |
 | 41 | A rendezett munkaügyi kapcsolatok követelménye | 2 | 22764 | 8370 | 0 |
-| 42 | A Kit. hatálya, a központosított álláshelyállomány és az álláshely fog | 3 | 49847 | 1979421 | 0 |
-| 43 | A Kit. szerinti kormányzati szolgálati jogviszony és annak alanyai, lé | 2 | 50734 | 1991773 | 0 |
-| 44 | A Kit. szerinti kormányzati szolgálati jogviszony megszűnésére és megs | 4 | 86432 | 2013423 | 0 |
-| 45 | A kormányzati szolgálati jogviszony tartalma, jogok és kötelezettségek | 4 | 51083 | 1412650 | 0 |
-| 46 | A Magyar Kormánytisztviselői Kar jogköre és az érdekegyeztetés | 3 | 39852 | 1400696 | 0 |
-| 47 | A bizalomvesztés, a méltatlanság és a fegyelmi eljárás, a kártérítés ( | 4 | 91051 | 1438993 | 0 |
-| 48 | Az érdemtelenség és a fegyelmi eljárás, a Közszolgálati Döntőbizottság | 4 | 103319 | 1568911 | 0 |
-| 49 | A Kttv. hatálya. a Kttv. szerinti kormányzati szolgálati jogviszony al | 1 | 16335 | 2142649 | 0 |
-| 50 | A közalkalmazotti jogviszonyra vonatkozó szabályok, a közalkalmazotti  | 9 | 213634 | 1839609 | 0 |
-| 51 | A kártérítési felelősségre vonatkozó főbb rendelkezések a közalkalmazo | 1 | 7229 | 1380428 | 0 |
-| 52 | A közszolgálati jog fogalma, annak a magánmunkajogtól való elhatárolás | 3 | 50615 | 4137230 | 0 |
+| 42 | A Kit. hatálya, a központosított álláshelyállomány és az álláshely fog | 3 | 49847 | 1411007 | 0 |
+| 43 | A Kit. szerinti kormányzati szolgálati jogviszony és annak alanyai, lé | 2 | 50734 | 1423359 | 0 |
+| 44 | A Kit. szerinti kormányzati szolgálati jogviszony megszűnésére és megs | 4 | 86432 | 1445009 | 0 |
+| 45 | A kormányzati szolgálati jogviszony tartalma, jogok és kötelezettségek | 4 | 51083 | 1418528 | 0 |
+| 46 | A Magyar Kormánytisztviselői Kar jogköre és az érdekegyeztetés | 3 | 39852 | 1406574 | 0 |
+| 47 | A bizalomvesztés, a méltatlanság és a fegyelmi eljárás, a kártérítés ( | 4 | 91051 | 1445128 | 0 |
+| 48 | Az érdemtelenség és a fegyelmi eljárás, a Közszolgálati Döntőbizottság | 4 | 103319 | 1577591 | 0 |
+| 49 | A Kttv. hatálya. a Kttv. szerinti kormányzati szolgálati jogviszony al | 1 | 16335 | 1389283 | 0 |
+| 50 | A közalkalmazotti jogviszonyra vonatkozó szabályok, a közalkalmazotti  | 9 | 213634 | 1845488 | 0 |
+| 51 | A kártérítési felelősségre vonatkozó főbb rendelkezések a közalkalmazo | 1 | 7229 | 1386306 | 0 |
+| 52 | A közszolgálati jog fogalma, annak a magánmunkajogtól való elhatárolás | 3 | 50615 | 4142883 | 0 |
 | 53 | A törvény célja, alapelvek, fontosabb fogalmak és értelmező rendelkezé | 3 | 36582 | 660700 | 0 |
-| 54 | A társadalombiztosítás ellátásai és az ellátásra jogosultak. | 5 | 159379 | 1035685 | 0 |
+| 54 | A társadalombiztosítás ellátásai és az ellátásra jogosultak. | 5 | 159379 | 1035678 | 0 |
 | 55 | A járulékfizetésre vonatkozó általános szabályok, megállapodás társada | 3 | 87893 | 693514 | 0 |
 | 56 | Késedelem, mulasztás következményei, valamint az ellátásokhoz kapcsoló | 3 | 59995 | 1255480 | 0 |

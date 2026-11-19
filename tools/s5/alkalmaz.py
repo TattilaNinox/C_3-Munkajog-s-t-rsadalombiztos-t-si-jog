@@ -7,7 +7,9 @@
   kimarad, és a jelentésbe kerül.
 - Az „@DOBOZ …” elem helyére a doboz a korpuszból épül (fejléc + a kért teljes bekezdések); a modell jogszabályszöveget nem ír.
   §-os és cikkre tagolt forrásra is („@DOBOZ EUMSZ 288. cikk”, „@DOBOZ Alaptörvény XXVIII. cikk (1)”).
-- A tiltott szavakat és a gyanús hivatkozásokat (határozatszám, amely a tétel előírt anyagában nincs) jelzi, nem javítja.
+- A tiltott szavakat és a gyanús hivatkozásokat (határozatszám, amely a tétel előírt hivatkozásai között nincs) jelzi, nem
+  javítja. Az összevetés kulcs szerinti (korpusz_felmeres.hivatkozasok): „16/2014. (V. 22.) AB határozat” = „16/2014. AB”,
+  „EBH 2017.B.17” = „EBH2017.B.17”.
 - --ir nélkül próbafutás. Kimenet: jelentesek/api/atiras_alkalmazas.md és .json; utolsó sor az összesítő.
 """
 import json, os, re, sys
@@ -27,6 +29,7 @@ sys.path.insert(0, os.path.join(GY, 'tools'))
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import kozos
 import alapfelvetel as af
+import korpusz_felmeres as kf
 import doboz_javit as dj
 import koteg
 
@@ -37,6 +40,36 @@ HATAROZAT = re.compile(r'\b(?:BH|EBH|BDT|ÍH|Pfv|Gfv|Mfv|Kfv)\.?\s?[IVX\d][\w./]
 JOG = None
 
 
+def hatarozat_kulcsok(szoveg):
+    """A szövegben álló határozat-hivatkozások kulcsai (korpusz_felmeres.hivatkozasok): „16/2014. (V. 22.) AB határozat”
+    és „16/2014. AB” ugyanaz a kulcs, „EBH 2017.B.17” és „EBH2017.B.17” is."""
+    s = kf.lapit(szoveg)
+    s = re.sub(r'(\bAB)(?!\s*(?:határozat|végzés|hat\.))', r'\1 határozat', s)     # „16/2014. AB” – a felmérés mintája a szót is kéri
+    return {k for k, _ in kf.hivatkozasok(s)}
+
+
+def eloirt_kulcsok(t):
+    """A tétel előírt hivatkozásainak kulcshalmaza: a kiírás tételszövege, az előírt (és a csoportszintű) források
+    megnevezése és korpuszfájlja alapján."""
+    k = hatarozat_kulcsok(t.get('szoveg') or '') | hatarozat_kulcsok(t.get('eloirasSzoveg') or '')
+    for h in (t.get('hivatkozasok') or []) + (t.get('eloirasok') or []):
+        k |= hatarozat_kulcsok(h.get('forras') or '')
+        if h.get('fajl'):
+            k |= set(kf.fajl_kulcsok(re.sub(r'\.txt$', '', kf.nfc(h['fajl']))))
+    return k
+
+
+def nem_eloirt(e, eloirt, tetel_txt_kulcsok):
+    """Az elem határozat-hivatkozásai közül azok, amelyek kulcsa sem a tétel előírásai, sem a tétel mostani szövege
+    között nincs: [(a szövegbeli alak)]. Ami kulcsot nem ad, az nem jelzés."""
+    out = []
+    for hm in HATAROZAT.finditer(e):
+        ks = hatarozat_kulcsok(hm.group(0))
+        if ks and not ks & (eloirt | tetel_txt_kulcsok):
+            out.append(hm.group(0))
+    return out
+
+
 def doboz_epit(elem):
     """„@DOBOZ Pp. 427. § (1)-(2)” -> a doboz sorai (fejléc + szöveg) a korpuszból, vagy (None, ok)."""
     fej = elem[len('@DOBOZ'):].strip()
@@ -44,6 +77,8 @@ def doboz_epit(elem):
     if not m:
         return None, 'a fejléc nem értelmezhető (vagy az egysége nem a forrásé): ' + fej
     kod, par = kozos.fejlec_kod(m)
+    if par == kozos.PREAMBULUM:
+        return None, 'preambulumbekezdés doboza a korpuszból nem építhető (a bekezdéshatár nem állapítható meg): ' + fej
     if kod not in JOG or par not in dj.paragrafus_sorok(kod):
         return None, 'nincs ilyen %s a korpuszban: %s' % ('§' if kozos.egyseg(kod) == '§' else 'cikk', fej)
     cs = dj.csoportok(dj.paragrafus_sorok(kod)[par])
@@ -82,7 +117,8 @@ def tetel(n):
     jel = {'tetel': n, 'muvelet': len(d.get('muveletek', [])), 'alkalmazva': 0, 'elvetve': [], 'figyelmeztetes': [],
            'nyitott': len(d.get('nyitott', [])), 'elotte': len(txt)}
     ervenyes, foglalt = [], set()
-    eloirt = af.eloirt_szoveg(next(t for t in json.loads(af.be('tetelsor/tetelsor.json'))['tetelek'] if t['sorszam'] == n)) or ''
+    eloirt = eloirt_kulcsok(next(t for t in json.loads(af.be('tetelsor/tetelsor.json'))['tetelek'] if t['sorszam'] == n))
+    txt_kulcsok = hatarozat_kulcsok(txt)
     for i, mu in enumerate(d.get('muveletek', [])):
         tip = mu.get('tipus')
         try:
@@ -127,9 +163,8 @@ def tetel(n):
                     uj.append(e)
                     if TILTOTT.search(e):
                         jel['figyelmeztetes'].append('tiltott szó: ' + TILTOTT.search(e).group(0) + ' – ' + e[:80])
-                    for hm in HATAROZAT.finditer(e):
-                        if kozos.norm(hm.group(0)) not in kozos.norm(eloirt) and hm.group(0) not in txt:
-                            jel['figyelmeztetes'].append('nem előírt határozat: ' + hm.group(0) + ' – ' + e[:80])
+                    for h in nem_eloirt(e, eloirt, txt_kulcsok):
+                        jel['figyelmeztetes'].append('nem előírt határozat: ' + h + ' – ' + e[:80])
             if hiba:
                 jel['elvetve'].append({'i': i, 'ok': hiba}); continue
             if not uj:

@@ -8,7 +8,8 @@ import json, os, re, sys, unicodedata
 GYOKER = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 KORPUSZ = os.path.join(GYOKER, 'korpusz')
 
-BEKEZDES = r'(?:\s*\(\d+\)(?:\s*[–-]\s*\(\d+\))?(?:,\s*\(\d+\)(?:\s*[–-]\s*\(\d+\))?)*(?:\s*(?:bekezdés|bek\.?))?(?:\s*[a-z]{1,2}\)\s*pont)?)?'
+# A bekezdésszám betűs is lehet: „Btk. 29. § (1a)”, „Btk. 459. § (1a)–(2)”.
+BEKEZDES = r'(?:\s*\(\d+[a-z]?\)(?:\s*[–-]\s*\(\d+[a-z]?\))?(?:,\s*\(\d+[a-z]?\)(?:\s*[–-]\s*\(\d+[a-z]?\))?)*(?:\s*(?:bekezdés|bek\.?))?(?:\s*[a-z]{1,2}\)\s*pont)?)?'
 
 _BEALLITAS = None
 _KOTELEZO = (
@@ -125,7 +126,11 @@ _B = beallitas()
 DOBOZ_RÖVIDITES = [(minta, kod) for minta, kod in _B['dobozRovidites']]
 BEAGYAZOTT = {kod: tuple(par) for kod, par in _B['beagyazott'].items()}
 PAR = r'(\d+(?::\d+)?(?:/[A-Z])?|[IVXLC]+|[A-Z]\))'
-FEJLEC = re.compile(r'^(' + '|'.join(r for r, _ in DOBOZ_RÖVIDITES) + r')\s*' + PAR + r'(?:\.|(?<=\)))\s?(§|[Cc]ikk)' + BEKEZDES + r'$')
+# Az uniós jogi aktus preambulumbekezdése is doboz: „2005/36/EK irányelv (1) preambulumbekezdés” – a 4. csoport a
+# preambulumbekezdés száma, az egység azonosítója 'preambulum' (a korpuszban az első cikk előtti szöveg).
+FEJLEC = re.compile(r'^(' + '|'.join(r for r, _ in DOBOZ_RÖVIDITES) + r')\s*(?:' + PAR + r'(?:\.|(?<=\)))\s?(§|[Cc]ikk)' + BEKEZDES
+                    + r'|\((\d+)\)(?:\s*[–-]\s*\(\d+\))?\s*preambulumbekezdés)$')
+PREAMBULUM = 'preambulum'
 
 
 def doboz_fej(sor):
@@ -141,6 +146,9 @@ def fejlec_kod(m):
     ('Alaptv', 'T)')."""
     kod = rovid_kod(m.group(1))
     e = egyseg(kod)
+    if m.group(4):
+        # preambulumbekezdés: csak cikkre tagolt (uniós) forrásnál
+        return (kod, PREAMBULUM) if e == 'cikk' else (None, None)
     jel = m.group(3).lower()
     azon = m.group(2)
     if e == '§':
@@ -250,6 +258,8 @@ def jogszabaly_sorok(kod, fajl):
                     rest = ''             # a cikkfej utáni cím („3. cikk - Általános joghatóság”) nem normaszöveg
             if rest:
                 d[cur].append(rest)
+        elif cur is not None and re.sub(r'\s*\*$', '', t).isupper() and len(t) > 3 and not re.search(r'[.;:,]\s*\*?$', t):
+            cur = None        # nagybetűs szerkezeti cím („ZÁRÓ ÉS VEGYES RENDELKEZÉSEK *”): az egység itt véget ér
         elif cur is not None:
             d[cur].append(t)
     return d, sorrend
@@ -260,7 +270,7 @@ def jogszabaly_paragrafusok(kod, fajl):
     if kod in BEAGYAZOTT:
         return beagyazott_paragrafusok(fajl, *BEAGYAZOTT[kod])
     e = egyseg(kod)
-    d, sorrend, cur = {}, [], None
+    d, sorrend, cur, elotte = {}, [], None, []
     for l in open(fajl, encoding='utf-8').read().split('\n'):
         m = egyseg_sor(l.strip(), e)
         if m:
@@ -272,7 +282,15 @@ def jogszabaly_paragrafusok(kod, fajl):
                 d[cur].append(rest)
         elif cur:
             d[cur].append(l)
-    return {k: norm(' '.join(v)) for k, v in d.items()}, sorrend
+        elif e == 'cikk':
+            elotte.append(l)
+    ki = {k: norm(' '.join(v)) for k, v in d.items()}
+    if e == 'cikk' and elotte:
+        # a preambulum (az első cikk előtti szöveg): a „… (1) preambulumbekezdés” doboz ezzel vethető össze; a sorrendben
+        # nem szerepel (nem egység a lefedettség számára). A kétoszlopos PDF-ből vett preambulumban a bekezdések sorai
+        # összefésülődhetnek, ezért a doboz sorait az egész preambulum szövegében keressük.
+        ki[PREAMBULUM] = norm(' '.join(elotte))
+    return ki, sorrend
 
 
 def korpusz_jogszabalyok():
@@ -302,6 +320,20 @@ def SZAMOZOTT_CIM(s):
     return bool(t) and t.upper() == t and bool(re.search(r'[A-ZÁÉÍÓÖŐÚÜŰ]', t))
 
 
+_JOG = None
+
+
+def cikk_szoveg(kod, par):
+    """A cikkre tagolt forrás (egység: cikk, romaiCikk) cikkének normalizált szövege a korpuszból, vagy ''. A dobozok()
+    ezzel ismeri fel a számozatlan bekezdést (az uniós cikk második, harmadik bekezdését) a doboz részeként."""
+    global _JOG
+    if egyseg(kod) == '§':
+        return ''
+    if _JOG is None:
+        _JOG = korpusz_jogszabalyok()
+    return (_JOG.get(kod) or ({}, []))[0].get(par) or ''
+
+
 def dobozok(txt):
     """A tétel jogszabálydobozai: [(forráskód, §, fejléc, [sorok])].
 
@@ -318,6 +350,8 @@ def dobozok(txt):
             return False  # alcím, nem pont
         if re.match(r'^\d{1,3}(?:\.\d{1,2})*\.(?:\s|$)', s):
             return not SZAMOZOTT_CIM(s)  # számozott pont (értelmező rendelkezés), nem címsor
+        if re.match(r'^(?:i|ii|iii|iv|v|vi|vii|viii|ix|x)\. \S', s):
+            return True   # római alpont („i. legkésőbb …”, „v. annak a tagállamnak …”) – uniós rendeletek pontjain belül
         return bool(s.startswith('[') or re.match(r'^\(\d+[a-z]?\)', s) or re.match(r'^[a-z]{1,2}\)', s))
 
     out, i = [], 0
@@ -337,8 +371,10 @@ def dobozok(txt):
                     break
                 sorok.append(re.sub(r'^(?:\d+(?::\d+)?(?:/[A-Z])?\. §|(?:\d+|[IVXLC]+)\. [Cc]ikk|[A-Z]\) [Cc]ikk)\s*', '', s)); j += 1; continue
             if not normasor(s):
-                if len(sorok) == 1 and sorok[0].startswith('[') and sorok[0].endswith(']'):
-                    # szögletes zárójeles cím után a bekezdésszám nélküli normaszöveg következik
+                if len(sorok) == 1 and (sorok[0].startswith('[') and sorok[0].endswith(']')
+                                        or re.fullmatch(r'\((?!\d+[a-z]?\))[^\n]*\)', sorok[0])):
+                    # szögletes zárójeles cím, illetve a cikk elején álló zárójeles megjegyzés („(az EKSz. korábbi
+                    # 13. cikke)”) után a bekezdésszám nélküli normaszöveg következik
                     sorok.append(s); j += 1; continue
                 # számozatlan sor, amely után a soron következő bekezdés jön: a doboz része
                 kov = next((x for x in L[j + 1:] if x), '')
@@ -352,6 +388,11 @@ def dobozok(txt):
                     sorok.append(s); j += 1; continue
                 if re.match(r'^[–-] ', s) and re.match(r'^([a-z]{1,2}\)|[–-]) ', sorok[-1]):
                     # a ponton belüli gondolatjeles alfelsorolás
+                    sorok.append(s); j += 1; continue
+                ns = norm(s)
+                if len(ns) >= 20 and re.match(r'^[A-ZÁÉÍÓÖŐÚÜŰ]', s) and ns in cikk_szoveg(kod, par):
+                    # cikkre tagolt forrás számozatlan bekezdése („A rendelet általános hatállyal bír. …” az EUMSZ 288.
+                    # cikkében): a doboz része, ha a cikk korpuszszövegében betűre megvan
                     sorok.append(s); j += 1; continue
                 if re.match(r'^[a-z]{1,2}\) ', sorok[-1]) and re.match(r'^[a-záéíóöőúüű]', s):
                     # a felsorolást lezáró szöveg („esetén.”, „kérheti.”), utána a doboz folytatódhat. Hosszkorlát nincs

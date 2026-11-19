@@ -15,8 +15,9 @@ A beállítás nem kötelező kulcsai: kiirasElirasok.kihagy (megnevezések, ame
 kiirasElirasok.megfeleltet (megnevezés -> fájl), kiirasElirasok.nemHivatkozas (szövegrészek, amelyek nem hivatkozások:
 a maradékvizsgálat hamis jelzése ellen), kizartJegyzetSorszam (a kiírásban nem szereplő jegyzet-sorszámok),
 tetelForras (tételszintű forrásmegfeleltetés). A tételcsoport bevezetőjének forrásai a tetelsor.json csoportEloiras
-kulcsába és a csoport tételeinek hivatkozásai közé („csoport”: true) kerülnek; az eloirt_szoveg a csoport teljes
-fájlként előírt forrását – mint az átfogó ismeretet – nem teszi a kérésbe.
+kulcsába és a csoport tételeinek hivatkozásai közé („csoport”: true) kerülnek; az eloirt_szoveg a teljes fájlként
+előírt forrást (a csoportszintűt is) legfeljebb 120 000 karakterig szó szerint, e fölött csak megnevezéssel teszi a
+kérésbe; az átfogó ismeretet (atfogo) teljes fájlként soha.
 """
 import json, os, re, sys, unicodedata
 
@@ -398,7 +399,10 @@ def hatarozatok_altalanos(szoveg, fajlok):
 # ---------- maradékvizsgálat ----------
 # A feloldás által fel nem használt szövegrészben ezek az elemek hivatkozásgyanúsak (szám, évszám, §, cikk, ügyszám,
 # névvel jelölt ügy); a kulcsszó (határozat, rendelet …) csak „… szóló” után, a címen és a zárójeles leíráson kívül.
-GYANUS = re.compile(r'\d|§|\b[Cc]ikk|\b[CT]-\s?\d|\b[A-ZÁÉÍÓÖŐÚÜŰ][\w]+[- ]ügy(?:ek)?\b')
+# A római számú szerkezeti hivatkozás („Kódexe I- III. rész”, „II. fejezet”, „IV. cím”) is gyanús: ha nem forrás-
+# jelölő után áll (szerkezet_tartomany), feloldatlanként jelenik meg, nem marad ki némán.
+GYANUS = re.compile(r'\d|§|\b[Cc]ikk|\b[CT]-\s?\d|\b[A-ZÁÉÍÓÖŐÚÜŰ][\w]+[- ]ügy(?:ek)?\b'
+                    r'|(?<![\w.])[IVXLC]+\.?\s*(?:[-–]\s*[IVXLC]+\.?\s*)?(?:[Rr]ész|RÉSZ|[Ff]ejezet|FEJEZET|[Cc]ím|CÍM)')
 GYANUS_SZO = re.compile(r'\bszóló\s+(?:\w+\s+){0,2}(?:törvény|rendelet|irányelv|határozat|vélemény|ítélet|végzés|egyezmény)\w*', re.I)
 # a hivatkozás minősítői (önmagukban nem hivatkozások): bekezdés, pont, alpont, mondat, indokolási pont, dátum
 _HONAP = r'(?:január|február|március|április|május|június|július|augusztus|szeptember|október|november|december)'
@@ -496,16 +500,23 @@ def felold(t, B, fajlok):
     elirasok = B.get('kiirasElirasok', {}) or {}
     kihagy = set(elirasok.get('kihagy', []))
     nem_hiv = list(elirasok.get('nemHivatkozas', []))
+    # A nemHivatkozas szövegrészei a feloldás ELŐTT kikerülnek (hossztartó kitöltéssel): a bennük álló forrásjelölő és
+    # egység sem oldódik fel (C/1 14. tétel: a 43/2012. AB határozat címében említett „Csvt. 7. és 8. §”). A cím az
+    # eredeti szövegből készül; a kitöltő jel (¤) se nem betű, se nem szóköz, így a helyek nem tolódnak el.
+    szf = sz
+    for x in nem_hiv:
+        if x:
+            szf = szf.replace(x, '¤' * len(x))
     jelolok = []
     for f in B['forrasok']:
         for minta in f['mintak']:
-            for m in re.finditer(minta, sz):
+            for m in re.finditer(minta, szf):
                 jelolok.append((m.start(), m.end(), f))
     jelolok.sort(key=lambda x: x[0])
     # a cím az első olyan forrásmegnevezésig tart, amelyet szerkezeti egység követ („Be. 1. §”), vagy az első felismert
     # határozat-, ügy- vagy jogszabályszámig; a mondatban álló megnevezés („A Be. szerkezeti felépítése”) a cím része
-    hivatkozo = [j[0] for j in jelolok if re.match(r'\s*(?:\d|[IVXLC]+\s*[.\-–]|[A-Z]\)|Nemzeti|Alapvetés|Szabadság|Az állam)', sz[j[1]:j[1] + 14])]
-    talalatok = [(k, n, a, b) for k, n, a, b in kf.hivatkozasok_hely(kf.lapit(sz)) if k[0] != 'nev' and n not in kihagy]
+    hivatkozo = [j[0] for j in jelolok if re.match(r'\s*(?:\d|[IVXLC]+\s*[.\-–]|[A-Z]\)|Nemzeti|Alapvetés|Szabadság|Az állam)', szf[j[1]:j[1] + 14])]
+    talalatok = [(k, n, a, b) for k, n, a, b in kf.hivatkozasok_hely(kf.lapit(szf)) if k[0] != 'nev' and n not in kihagy]
     # a határozat-, ügy- és uniós jogiaktus-szám is címhatár (a törvény teljes neve nem: az a címben leíró is lehet);
     # a jelölőn belüli találat helyett a jelölő eleje; a forráslistát nyitó „[” is címhatár
     def jelolo_eleje(x):
@@ -516,7 +527,7 @@ def felold(t, B, fajlok):
                           + [m.start() for m in re.finditer(r'\((?:PK|MK|\d+/\d{4})', sz)]))
     if not jeloltek:
         # egység nélküli forrásmegnevezés, amely nem a mondat része (utána nem kisbetűs folytatás áll): címhatár
-        jeloltek = [j[0] for j in jelolok if not re.match(r'\s*[a-záéíóöőúüű]', sz[j[1]:j[1] + 3])]
+        jeloltek = [j[0] for j in jelolok if not re.match(r'\s*[a-záéíóöőúüű]', szf[j[1]:j[1] + 3])]
     t['cim'] = sz.strip(' ;,')
     for elso in jeloltek:
         cim = cim_kepez(sz, elso)
@@ -528,8 +539,8 @@ def felold(t, B, fajlok):
     hiv, gond = [], []
     for i, (a, b, f) in enumerate(jelolok):
         hasznalt.append((a, b))
-        vege = jelolok[i + 1][0] if i + 1 < len(jelolok) else len(sz)
-        szakasz = sz[b:vege] if vege > b else ''
+        vege = jelolok[i + 1][0] if i + 1 < len(jelolok) else len(szf)
+        szakasz = szf[b:vege] if vege > b else ''
         fajl = f.get('fajl') or fajl_keres(f['fajlKezdet'], fajlok)
         if not fajl or nfc(fajl) not in fajlok:
             gond.append('%s: a korpuszban nincs fájl' % f['kod'])
@@ -547,7 +558,9 @@ def felold(t, B, fajlok):
                 continue
             hiv.append({'forras': f['kod'], 'fajl': fajl, 'egyseg': f['egyseg'], 'tol': tol, 'ig': ig, 'karakter': len(szov), 'kiirasSzerint': nev})
         if not tart and not any(x[2] for x in szerk):
-            hiv.append({'forras': f['kod'], 'fajl': fajl, 'egyseg': f['egyseg'], 'tol': None, 'ig': None, 'karakter': len(be('korpusz/' + fajl))})
+            # egység nélküli jelölő: teljes fájl – de csak ha ugyanez a forrás a tételben máshol nem áll egységgel
+            # (jelölőből vagy tetelForras-ból); ezt a tetelForras feldolgozása után döntjük el (_feltetel)
+            hiv.append({'forras': f['kod'], 'fajl': fajl, 'egyseg': f['egyseg'], 'tol': None, 'ig': None, 'karakter': len(be('korpusz/' + fajl)), '_feltetel': True})
             continue
         for tol, ig in tart:
             szov = tartomany_szoveg(fajl, f['egyseg'], tol, ig)
@@ -575,7 +588,7 @@ def felold(t, B, fajlok):
     if B.get('hatarozatMod') == 'altalanos':
         kotott = {nfc(f.get('fajl') or fajl_keres(f.get('fajlKezdet', '\x00'), fajlok) or '') for f in B['forrasok']}
         hl = []
-        for nev, kulcs, fajl, jeloltek, ka, kb, jel in hatarozatok_altalanos(sz, fajlok):
+        for nev, kulcs, fajl, jeloltek, ka, kb, jel in hatarozatok_altalanos(szf, fajlok):
             if jel == 'ismetles':
                 hasznalt.append((ka, kb))
                 continue          # ugyanaz a fájl más megnevezéssel (pl. „3/2025. JEH (Jpe.III.60.053/2024/12.)”) már felvéve
@@ -589,10 +602,10 @@ def felold(t, B, fajlok):
             fajl = elirasok.get('megfeleltet', {}).get(nev, fajl)
             hl.append((nev, fajl))
             if fajl:
-                hasznalt += utana_egysegek(sz, kb, [j[0] for j in jelolok] + [a for _, _, a, _ in talalatok])
+                hasznalt += utana_egysegek(szf, kb, [j[0] for j in jelolok] + [a for _, _, a, _ in talalatok])
     else:
         helyek = []
-        hl = hatarozatok(sz, fajlok, helyek)
+        hl = hatarozatok(szf, fajlok, helyek)
         hasznalt += helyek
     for nev, fajl in hl:
         if fajl:
@@ -617,6 +630,12 @@ def felold(t, B, fajlok):
             hiv.append({'forras': f['kod'], 'fajl': fajl, 'egyseg': 'egesz', 'tol': None, 'ig': None, 'karakter': len(be('korpusz/' + fajl))})
         gond = [g for g in gond if 'a korpuszban nincs fájl' not in g]
         t['forrasMegfeleltetes'] = f.get('indok', '')
+    # az egység nélküli jelölő teljes-fájl hivatkozása elmarad, ha ugyanez a forrás a tételben egységgel is szerepel
+    # (B/2 52. tétel: „Be. 348-355, Be. 358-368. §” – a § jel nélküli „Be.” nem adja a teljes Be.-t a tetelForras mellett)
+    egysegben = {h['forras'] for h in hiv if h.get('tol') is not None}
+    hiv = [h for h in hiv if not (h.get('_feltetel') and h['forras'] in egysegben)]
+    for h in hiv:
+        h.pop('_feltetel', None)
     # maradékvizsgálat: ami hivatkozásnak látszik, de a feloldás nem használta fel
     gond += maradek(sz, hasznalt, len(t['cim']), sorted(kihagy) + nem_hiv)
     if not hiv and not gond and 'sorszam' in t:
@@ -681,16 +700,36 @@ def egyseg_fej(kod, tol, ig, egyseg, nev):
     return '### %s %s%s. %s%s' % (kod, tol, ('–' + ig) if ig != tol else '', jel, (' — ' + nev) if nev else '')
 
 
+TELJES_KORLAT = 120000      # a teljes fájlként előírt forrás eddig a terjedelemig kerül a kérésbe szó szerint
+
+
+def atfogo_kodok():
+    return {f['kod'] for f in beallitas()['forrasok'] if f.get('atfogo')}
+
+
 def eloirt_szoveg(t):
-    """A tétel előírt joganyaga egy szövegben (az API-kötegek és az ellenőrzés számára)."""
+    """A tétel előírt joganyaga egy szövegben (az API-kötegek és az ellenőrzés számára).
+    - A §-/cikk-tartomány szövege mindig bekerül (a csoportszintű előírásé is).
+    - A teljes fájlként előírt forrás (a csoportszintű is, „csoport”: true) szó szerint bekerül, ha legfeljebb
+      TELJES_KORLAT (120 000) karakter; e fölött csak a megnevezése és a „teljes szöveg terjedelmi okból nem szerepel”
+      megjegyzés.
+    - Az átfogó ismeret (beállítás: atfogo) teljes fájlként soha nem kerül be (csak a megnevezése)."""
     reszek = []
     nevek = forras_nevek()
+    atfogo = atfogo_kodok()
     for h in t['hivatkozasok']:
-        if h.get('csoport') and h['tol'] is None:
-            continue      # a tételcsoport teljes jogszabályként előírt forrása – mint az átfogó ismeret – nem kerül a kérésbe
         if h['egyseg'] == 'egesz' or h['tol'] is None:
+            nev = (' — ' + nevek[h['forras']]) if nevek.get(h['forras']) else ''
+            csop = ' (tételcsoport-előírás)' if h.get('csoport') else ''
+            if h['forras'] in atfogo:
+                reszek.append('### %s%s%s\n(átfogó ismeret: a teljes szöveg nem szerepel)' % (h['forras'], csop, nev))
+                continue
             szov = be('korpusz/' + h['fajl']).strip()
-            fej = '### %s (teljes szöveg: %s)%s' % (h['forras'], h['fajl'], (' — ' + nevek[h['forras']]) if nevek.get(h['forras']) else '')
+            if len(szov) > TELJES_KORLAT:
+                reszek.append('### %s%s (%s)%s\n(a teljes szöveg terjedelmi okból nem szerepel: %d karakter)'
+                              % (h['forras'], csop, h['fajl'], nev, len(szov)))
+                continue
+            fej = '### %s%s (teljes szöveg: %s)%s' % (h['forras'], csop, h['fajl'], nev)
         else:
             szov = tartomany_szoveg(h['fajl'], h['egyseg'], h['tol'], h['ig'])
             fej = egyseg_fej(h['forras'], h['tol'], h['ig'], h['egyseg'], nevek.get(h['forras'], ''))

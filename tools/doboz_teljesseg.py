@@ -31,6 +31,8 @@ def cimsor(l):
     „FEJEZET”, számozott („157. Elektronikus kapcsolattartás”, „7/A. …”) vagy csillagos alcím, „202-204. §” maradék,
     a hatályon kívül helyezett puszta „(3)”, „(3)-(4) Mérsékelt illeték”."""
     t = kozos.norm(l).strip()
+    if re.fullmatch(r'\d+(?::\d+)?(?:/[A-Z])?\.', t):
+        return True      # a következő alcím puszta sorszáma („133/C. *”)
     return bool(t) and not re.search(r'[.;:!?”"…]$|\.\)$', t)
 
 
@@ -45,12 +47,15 @@ def bekezdesek_sorokbol(sorok):
     # kozos.jogszabaly_sorok már elhagyta (a cikk további sorai tördelt normaszöveg lehetnek: azokat nem vágjuk)
     if len(sorok) > 1 and re.fullmatch(r'\[[^\]]*\]', sorok[0].strip()):
         sorok = sorok[1:]
-    d, cur = {}, ''
+    d, cur, elozo = {}, '', ''
     for l in sorok:
         m = re.match(r'^\((\d+[a-z]?)\)\s*(.*)$', l.strip())
+        if m and re.match(r'^[a-záéíóöőúüű]', m.group(2)) and elozo and not re.search(r'[.;:!?…,\]]["”’)]*$', elozo):
+            m = None             # tördelt sor: „… 20. cikke” / „(2) bekezdésében …” – nem új bekezdés
+        elozo = l.strip() or elozo
         if m:
             cur = m.group(1)
-            if cur in d:
+            while cur in d:
                 cur = cur + '#'          # azonos számú második bekezdés: nem írja felül az elsőt
             d[cur] = [m.group(2)]
         else:
@@ -99,18 +104,25 @@ def hianyok(n, J):
                     utana.append(L[x])
             x += 1
         szov = J.get(kod, ({}, []))[0].get(par)
-        if not szov or not sorok or re.search(r'\)\s*pont$', fej):
-            continue          # a pontot idéző doboz („Mt. 294. § (1) bek. i) pont”) szándékosan részleges
+        if not szov or not sorok or re.search(r'\)\s*pont$', fej) or par == kozos.PREAMBULUM:
+            continue          # a pontot idéző doboz („Mt. 294. § (1) bek. i) pont”) szándékosan részleges; a preambulum-
+                              # bekezdés határa a kétoszlopos korpuszban nem állapítható meg (az ellenorzes.py betűre veti össze)
         ks = korpusz_sorok(kod)
         B = bekezdesek_sorokbol(ks[par]) if ks and par in ks else bekezdesek(szov)
         cur = None; D = {}
-        for s in sorok:
-            s = re.sub(r'^\[[^\]]*\]\s*', '', s)      # „[cím] szöveg” egysoros doboz: a cím után a szöveg számít
+        for i, s in enumerate(sorok):
+            if i == 0:
+                # „[cím] szöveg” egysoros doboz: a cím után a szöveg számít. Csak a doboz ELSŐ sorában álló szögletes
+                # zárójeles rész cím; máshol a „[…]” a normaszöveg része (Kjnp. 27/N. § (2): „[az a)–e) pontban …].”)
+                s = re.sub(r'^\[[^\]]*\]\s*', '', s)
             if not s:
                 continue
             m = re.match(r'^\((\d+[a-z]?)\)\s*(.*)$', s)
             if m:
-                cur = m.group(1); D[cur] = [m.group(2)]
+                cur = m.group(1)
+                while cur in D:
+                    cur += '#'           # azonos számú második bekezdés (mint a korpusz oldalán): nem írja felül az elsőt
+                D[cur] = [m.group(2)]
             else:
                 if cur is None:
                     cur = ''; D[cur] = []
@@ -120,7 +132,8 @@ def hianyok(n, J):
                 continue
             mar = B[b]
             for l in ls + utana:
-                x = kozos.norm(l); p = mar.find(x) if len(x) > 12 else -1
+                # a rövid sor csak pontjellel együtt („b) ipar,”) keresendő: a puszta rövid szó máshol is előfordulhat
+                x = kozos.norm(l); p = mar.find(x) if len(x) > 12 or re.match(r'^(?:\(\d+[a-z]?\)|[a-z]{1,2}\)) \S', x) else -1
                 if p >= 0:
                     mar = mar[:p] + ' ¦ ' + mar[p + len(x):]
             reszek = [r.strip() for r in mar.split('¦') if len(r.strip()) > 12]

@@ -62,3 +62,13 @@ A tételszám 56: a kiírás 1–56. tétele és a `jegyzetek/manifest.json` sor
 - **`alapfelvetel.py` `egysegek()`:** (1) könyves tartomány rövidített végponttal („6:15-17. §”) → feloldatlan; javaslat: a végpont örökölje a kezdőpont könyvszámát; (2) római tartomány pont nélküli kezdőponttal („I-II. cikk”, „V-XIII. cikk”, „XVII-XVIII. cikk”, 1. tétel) → csak a végpont kerül be (II, XIII, XVIII), az I., V–XII., XVII. cikk némán kimarad; (3) „Ebtv. 42./G. §” (25. tétel) → a 42/G. § kimarad; „Tbj. 5; 6-22.§” (54. tétel) → az 5. § kimarad.
 - **`felold()` cím:** a gondolatjeles kiírásban a cím végén „ -” marad (a `strip(' ;,')` nem veszi le); a 41. tétel címébe a forrásmegnevezés eleje is bekerül („… követelménye - a foglalkoztatás-felügyeleti hatóság tevékenységéről szóló”). A jegyzetek manifestjének címe tiszta.
 - **`kozos.py` `FEJLEC`:** `parMinta: egyszeru` mellett a „Ptk. 6:518. §” dobozfejléc nem illeszkedik (egyszerű számozásnál a `PAR` nem enged kettőspontot); a 153 Ptk-doboz így nem kötődik forráshoz.
+
+## S2 – korpuszcsere a letöltött jogszabályokból (2026-11-19, központi chat)
+
+- **Cserélve és ellenőrizve (19):** a C3 mappa 20 fájljából 19; a Pp., a Vht. és a Ptk. az A/2 ellenőrzött fájljára cserélve.
+- **Még cserélendő (1) – a letöltött fájl a 2027.01.01-i időállapot:** Art. (hatályos: 2026.10.01–2026.12.31.). A korpuszban a régi fájl maradt.
+- **Módszer:** Attila letöltése (net.jogtar.hu, mentett oldal) → átalakítás a korpusz szokása szerint → szakaszonkénti (20-as csoportokban mért) ujjlenyomat-összevetés a 2026.12.09-én hatályos időállapottal; csak az került a korpuszba, ahol az eltérő csoportok száma 0. A `korpusz/manifest.json` érintett sorai: új méret és sha256, `idoallapot`, `hatalyossag.jogallapot: 2026-12-09`. **A cserélt fájlok a Storage-ba még feltöltendők (S8).**
+- **Közös készlet KE-2** (admin-commit `0cb4b3b`) szinkronizálva; a dobozok a cserélt korpuszból újraépítve (`doboz_javit.py --sor --ir`), a második futás: `módosítandó doboz: 0`.
+- `alapfelvetel: tétel 56, feloldott 466, feloldatlan 1, hiba 0` (39. tétel: „Eljárási és Magatartási Kódexe I–III. rész” – forrás-beállítás kell)
+- `dobozok: 915, eltérés: 1; hiányzó forrás: []; lefedettségi hiány: 103 elem 34 tételben`
+- `hiányos bekezdés: 1` (32. tétel, Efo. tv. 25. § – a doboz a jogharmonizációs záradékot idézi, tartalmi kérdés)
