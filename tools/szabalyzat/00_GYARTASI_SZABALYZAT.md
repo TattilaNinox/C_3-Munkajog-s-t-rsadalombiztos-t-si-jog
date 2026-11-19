@@ -61,7 +61,7 @@
    ```
    cd "$R" && git fetch origin && git status --short          # üres kell legyen
    python3 tools/eszkoz_ellenor.py | tail -1                   # „eltérés 0”
-   python3 tools/kontroll.py kapu | head -1                    # az ÁLLAPOT-sor (az 1-es kilépési kód a várt, amíg nincs minden lezárva)
+   python3 tools/kontroll.py kapu | grep -m1 '^ÁLLAPOT:'       # az ÁLLAPOT-sor (az 1-es kilépési kód a várt, amíg nincs minden lezárva)
    ```
 2. **Minden üzenet és jelentés első sora a `kontroll.py kapu` ÁLLAPOT-sora, szó szerint.** (S0–S2 alatt, amíg nincs tétel a kapuban: az éppen futó szakasz zárókapujának utolsó sora.)
 3. **Indulási üzenet legfeljebb három sor:** állapotsor; egy mondat arról, mi indult el; és csak akadály, eltérés vagy Attilától várt teendő esetén több. Közbenső üzenetben csak a változás és a teendő áll; ami a várt értéket adja, nem kell felsorolni.
