@@ -85,4 +85,4 @@
 | 53 | A törvény célja, alapelvek, fontosabb fogalmak és értelmező rendelkezé | 3 | 36582 | 660700 | 0 |
 | 54 | A társadalombiztosítás ellátásai és az ellátásra jogosultak. | 5 | 159379 | 1035678 | 0 |
 | 55 | A járulékfizetésre vonatkozó általános szabályok, megállapodás társada | 3 | 87893 | 693514 | 0 |
-| 56 | Késedelem, mulasztás következményei, valamint az ellátásokhoz kapcsoló | 3 | 59995 | 1255480 | 0 |
+| 56 | Késedelem, mulasztás következményei, valamint az ellátásokhoz kapcsoló | 3 | 59995 | 1254734 | 0 |

@@ -54,7 +54,7 @@ III. FEJEZET - ÉRTELMEZŐ RENDELKEZÉSEK
 
 7. § [Értelmező rendelkezések]
 E törvény és – ha törvény másként nem rendelkezik – az adóról és az adóigazgatási eljárásról szóló jogszabályok alkalmazásában
-1. adatbejelentés: az adózónak a kivetéssel történő helyi adó, települési adó, gépjárműadó megállapításához szükséges adatokról szóló bejelentése,
+1. * adatbejelentés: az adózónak a kivetéssel történő helyi adó, gépjárműadó megállapításához szükséges adatokról szóló bejelentése,
 2. adóazonosító szám: az adószám, a csoportazonosító szám, a közösségi adószám, a természetes személy adóazonosító jele,
 3. adóév: az a naptári év, amelyre az adókötelezettség vonatkozik, továbbá a számvitelről szóló 2000. évi C. törvényben (a továbbiakban Számv. tv.) meghatározott beszámoló adataira épülő adó és adó jellegű kötelezettségek tekintetében a Számv. tv. szerinti üzleti év,
 4. * adókülönbözet: a bevallott, bejelentett, bevallani, bejelenteni elmulasztott vagy az adatbejelentés, bevallás alapján kivetett, illetve kivethető és az adóhatóság által utólag megállapított adó, költségvetési támogatás különbözete, ide nem értve a következő időszakra átvihető követelés különbözetét,
@@ -803,7 +803,7 @@ a) az adózó tulajdonát képező – nyilvántartásában szereplő – valame
 b) az adózó földművesként való nyilvántartásba vételéről, és
 c) a földhasználati nyilvántartás részletes szabályairól szóló 356/2007. (XII. 23.) Korm. rendelet 4. és 5. §-ában meghatározott adatokról.
 (1b) * A földmérési és térinformatikai államigazgatási szerv a számítógépes ingatlan-nyilvántartási rendszerben elektronikus úton közvetlen hozzáférést biztosít az adóhatóságnak az (1a) bekezdés szerinti adatokhoz.
-(2) Az ingatlanügyi hatóság az önkormányzati adóhatóság megkeresésére évente egy alkalommal – kizárólag az építményadó, a telekadó, a természetes személy kommunális adója, a települési adó bevezetése, továbbá megállapítása (kivetése), ellenőrzése céljából –, térítésmentesen, elektronikusan feldolgozható formában, a megkeresés beérkezését követő harminc munkanapon belül adatot szolgáltat az önkormányzati adóhatóság illetékességi területén található, a nyilvántartásában szereplő valamennyi ingatlannak a megkeresés szerinti év január 1-jén hatályos adatairól. A megkeresésben meg kell jelölni a kért adatok felhasználásnak célját. A kapott adatok kizárólag a megjelölt célra használhatóak fel. Ha az önkormányzat adóbevezetés céljából kért adatot, de az adó bevezetéséről szóló önkormányzati rendelet legkésőbb a megkeresést követő év első napjáig nem lépett hatályba, akkor az adatszolgáltatásért egyébként járó díjat a megkeresést követő év január 31. napjáig meg kell fizetnie. Az adatszolgáltatás tartalmazza az önkormányzat illetékességi területén lévő, az ingatlan-nyilvántartásban önálló ingatlanként nyilvántartott ingatlan esetén
+(2) * Az ingatlanügyi hatóság az önkormányzati adóhatóság megkeresésére évente egy alkalommal – kizárólag az építményadó, a telekadó, a természetes személy kommunális adója bevezetése, továbbá megállapítása (kivetése), ellenőrzése céljából –, térítésmentesen, elektronikusan feldolgozható formában, a megkeresés beérkezését követő harminc munkanapon belül adatot szolgáltat az önkormányzati adóhatóság illetékességi területén található, a nyilvántartásában szereplő valamennyi ingatlannak a megkeresés szerinti év január 1-jén hatályos adatairól. A megkeresésben meg kell jelölni a kért adatok felhasználásnak célját. A kapott adatok kizárólag a megjelölt célra használhatóak fel. Ha az önkormányzat adóbevezetés céljából kért adatot, de az adó bevezetéséről szóló önkormányzati rendelet legkésőbb a megkeresést követő év első napjáig nem lépett hatályba, akkor az adatszolgáltatásért egyébként járó díjat a megkeresést követő év január 31. napjáig meg kell fizetnie. Az adatszolgáltatás tartalmazza az önkormányzat illetékességi területén lévő, az ingatlan-nyilvántartásban önálló ingatlanként nyilvántartott ingatlan esetén
 a) * az ingatlan-nyilvántartásról szóló törvény végrehajtásáról szóló kormányrendelet szerinti, az ingatlanról nyilvántartott valamennyi adatot (így különösen az ingatlan címét, helyrajzi számát és terület nagyságát),
 b) az ingatlan tulajdonosát és természetes személy tulajdonos esetén a tulajdonos természetes személy azonosító adatait, lakcímét, értesítési címét, jogi személy tulajdonos esetén a tulajdonos nevét, székhelyét és értesítési címét, több tulajdonos esetén a tulajdonosok tulajdoni hányadát,
 c) * az ingatlan-nyilvántartásba bejegyzett valamennyi jogot, ideértve azok jogosultjait, több jogosult esetén a jogosultak jogosultsági hányadát, a természetes személy jogosult esetén a jogosult azonosító adatait, lakcímét, jogi személy jogosult esetén székhelyét és értesítési címét,
@@ -1184,7 +1184,9 @@ teljesítéséért.
 114/F. § [Csoportos társasági adóalany pénzforgalmi számlája]
 A csoportos társasági adóalany Tao tv. szerinti adófizetési kötelezettsége, illetve a Tao tv. szerint őt megillető adóvisszatérítés teljesítésére a csoportképviselő által az állami adó- és vámhatósághoz bejelentett pénzforgalmi számlája szolgál.
 
-XIII. FEJEZET * - 115–122. § *
+XIII. FEJEZET *
+
+115–122. § *
 
 HARMADIK RÉSZ - ADATNYILVÁNTARTÁS, HATÓSÁGI BIZONYÍTVÁNY, ADÓTITOK, ADÓHATÓSÁGI ADATSZOLGÁLTATÁS
 
@@ -1476,7 +1478,7 @@ a) a regisztrációs adót,
 b) az Áfa tv.-ben meghatározott esetekben az általános forgalmi adót,
 c) a Jöt.-ben meghatározott esetekben a jövedéki adót,
 d) * a belföldi gépjárművek adóját.
-(2) * Az önkormányzati adóhatóság kivetéssel állapítja meg az építményadót, a telekadót, a magánszemély kommunális adóját, továbbá – ha az önkormányzati rendelet másként nem rendelkezik – a települési adót.
+(2) * Az önkormányzati adóhatóság kivetéssel állapítja meg az építményadót, a telekadót, a magánszemély kommunális adóját.
 (3) A vagyonszerzési illetéket, továbbá az illetékekről szóló törvény szerint kiszabás alapján fizetendő eljárási illetéket az állami adó- és vámhatóság állapítja meg (kiszabás). A vagyonszerzési illeték kiszabására irányuló eljárás esetén a határozat meghozatalára nyitva álló határidő hatvan nap.
 (4) Az adókivetés, adókiszabás az adózó (adat)bejelentése, bevallása, illetve adatszolgáltatás alapján történik.
 (5) * Az adóhatóság a fizetendő adóról, az adófizetés módjáról és idejéről, továbbá – ha törvény előírja – az adóalapról, az adómentességről vagy adókedvezményről az adatbejelentés, bevallás adatai alapján határoz.
@@ -2465,9 +2467,6 @@ Az állami adó- és vámhatóság a bevallási adatok alapján, a bevallási ha
 (1) Az állami adó- és vámhatóság negyedévenként – a negyedévet követő harminc napon belül – honlapján a nagy összegű adótartozással rendelkező adózók közzétételi listáján közzéteszi annak a vállalkozási tevékenységet végző természetes személynek, a csőd- vagy felszámolási eljárás vagy kényszertörlés alatt nem álló, vállalkozási tevékenységet végző jogi személynek vagy egyéb szervezetnek a nevét, elnevezését, székhelyét, telephelyét, adószámát, amelynek száznyolcvan napon keresztül folyamatosan fennálló, az állami adó- és vámhatóságnál nyilvántartott túlfizetéssel csökkentett adótartozása összességében számítva a százmillió forintot meghaladja.
 (2) Az állami adó- és vámhatóság nyolc napon belül kérelemre törli az adózót az e § szerinti közzétételi listáról, ha az adózó a kérelem benyújtásának időpontjában fennálló, az állami adó- és vámhatóságnál nyilvántartott adótartozását hiánytalanul megfizeti.
 
-264/A. § [Lekérdező felület biztosítása nagy összegű adóhiánnyal és nagy összegű adótartozással rendelkező adózók adataihoz]
-Az állami adó- és vámhatóság a honlapján lekérdezési lehetőséget biztosít a 263. § és 264. § szerinti, 2014. december 31-ét követően és 2021. június 10-ét megelőzően keletkezett adatokra vonatkozóan. A lekérdezési lehetőség biztosítása nem érinti a 263. § és 264. § szerinti közzétételi kötelezettséget.
-
 265. § [Be nem jelentett foglalkoztatottat foglalkoztatók közzététele]
 (1) Az állami adó- és vámhatóság a honlapján a be nem jelentett foglalkoztatottat foglalkoztató adózók közzétételi listáján folyamatosan nyilvánosságra hozza azoknak az adózóknak a nevét, székhelyét, adószámát (adószámmal nem rendelkező természetes személy foglalkoztató nevét, lakcímét, adóazonosító jelét), akik vagy amelyek tekintetében végleges közigazgatási vagy jogerős bírósági határozat megállapította, hogy nem tettek eleget a munkaviszony létesítésével összefüggő bejelentési kötelezettségüknek. Az e bekezdés szerinti adatok mellett az állami adó- és vámhatóság a honlapján a jogsértést megállapító határozat keltét, véglegessé válásának napját, közigazgatási per esetén a bírósági határozat jogerőssé válásának napját is nyilvánosságra hozza. Ha az adóhatóság határozata ellen a közigazgatási bíróság előtt pert indítottak, az adatok közzétételére a bíróság jogerős és végrehajtható határozata alapján kerül sor. Az adóhatóság a honlapján közzétett adózók adatait – feltéve, hogy a közzététel alapjául szolgáló jogsértést az adózó ismételten nem követte el – a közzétételtől számított két év elteltével törli. E bekezdés nem alkalmazható azon adózók esetében, amelyek vonatkozásában az állami adó- és vámhatóság a mulasztási bírság kiszabását a 225. § (4) bekezdése alapján mellőzte.
 (2) Az állami adó- és vámhatóság a munkaügyi kapcsolatok rendezettsége törvényi feltételeinek más szervek eljárásában történő felhasználása céljából az (1) bekezdés szerinti közzététellel egyidejűleg nyilvánosságra hozza, hogy a be nem jelentett foglalkoztatottat foglalkoztató adózók közzétételi listáján szereplő adózók közül a foglalkoztatás-felügyeleti hatóság tevékenységéről szóló 115/2021. (III. 10.) Korm. rendelet szerint mely adózók nem felelnek meg a rendezett munkaügyi kapcsolatok követelményének.
@@ -2764,185 +2763,95 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 Az állami adó- és vámhatósághoz bejelentendő adatok
 
 1. Az állami adó- és vámhatósághoz be kell jelenteni az adózó
-
 1.1. nevét (elnevezését), rövidített cégnevét,
-
 1.2. * természetes személy adóazonosító jelét, a Tbj. 4. § 2.1. pontja szerinti egyéni vállalkozó bejelentkezése esetén adóazonosító jelét és TAJ számát,
-
 1.3. * külföldi vállalkozás esetén az illetősége szerinti állam hatósága által megállapított adóazonosító számát, és a közös hozzáadottértékadó-rendszerről szóló, 2006. november 28-i 2006/112/EK tanácsi irányelv 284. cikk (3) bekezdésének megfelelően megállapított egyedi azonosítószámát, ha ilyennel rendelkezik,
-
 1.4. címét, székhelyét, a cég székhelyétől különböző központi ügyintézés helyét, telephelyét vagy telephelyeit,
-
 1.5. – a cég honlapján való közzététel esetén – cég elektronikus elérhetőségét, honlapját,
-
 1.6. – több államban illetőséggel rendelkező gazdasági társaság esetén – tényleges üzletvezetés helyét,
-
 1.7. – székhelyszolgáltatás igénybevétele esetén – a székhelyszolgáltató elnevezését, székhelyét, adószámát, e jogviszony keletkezésének – és határozott idejű jogviszony esetén – megszűnésének időpontját;
-
 1.8. létesítő okiratának (alapító okirat, társasági-társulati szerződés, alapszabály) keltét, számát, a rá vonatkozó jogszabály szerinti képviselőjének, könyvvizsgálójának nevét, elnevezését, lakóhelyét, székhelyét, e jogviszony keletkezésének – és határozott idejű jogviszony esetén – megszűnésének időpontját, a képviselő adóazonosító számát, könyvvizsgáló szervezet esetén annak a személynek a nevét és lakóhelyét is, aki a könyvvizsgálatért személyében felelős;
-
 1.9. gazdálkodási formáját, tevékenységének felsorolását,
-
 1.9.1. cégek esetén a főtevékenységet és a ténylegesen végzett tevékenységi köröket a mindenkor hatályos TEÁOR-nómenklatúrája szerint,
-
 1.9.2. egyéni vállalkozók esetén ÖVTJ szerinti ÖVTJ-kódok szerint,
-
 1.9.3. az egyéni vállalkozó tevékenységének szünetelése esetén a szünetelés kezdő- és zárónapját,
-
 1.10. a statisztikai számjelet;
-
 1.11. a közkereseti társaság, a betéti társaság, a korlátolt felelősségű társaság, az egyesülés, valamint a közös vállalat tulajdonosának, tulajdonosainak cégnevét, nevét, székhelyét (telephelyeit, lakóhelyét), adóazonosító számát, a zártkörűen működő részvénytársaság 50 százalékot meghaladó mértékű szavazati joggal, vagy minősített többségű befolyással rendelkező részvényesének cégnevét, nevét, székhelyét, telephelyeit, lakóhelyét, adóazonosító számát, továbbá a korlátolt felelősségű társaság és a zártkörűen működő részvénytársaság esetében azt a tényt, ha a tag, részvényes szavazati jogának mértéke az 50 százalékot meghaladja, vagy a tag, részvényes minősített többségű befolyással rendelkezik;
-
 1.12. a természetes személy adózó levelezési címét – ha az nem azonos székhelyével, telephelyével –, továbbá a Magyarországon lakóhellyel nem rendelkező külföldi személy esetében magyarországi kézbesítési meghatalmazottjának nevét és lakóhelyét, székhelyét;
-
 1.13. iratai, elektronikus alapon rendelkezésre álló bizonylatai és nyilvántartásai őrzésének helyét, ha az nem azonos az adózó székhelyével vagy lakóhelyével, valamint ha bizonylatot, könyvet, nyilvántartást online hozzáférést biztosítva, elektronikusan őrzi meg, ezt a tényt;
-
 1.14. jogelődjét és jogelődjének adóazonosító számát;
-
 1.15. az önálló tevékenységet folytató természetes személy tevékenysége gyakorlását, körülményét (fő-, mellékfoglalkozás, nyugdíj melletti kiegészítő tevékenység, korhatár előtti ellátás, szolgálati járandóság, táncművészeti életjáradék vagy átmeneti bányászjáradék mellett folytatott tevékenység);
-
 1.16. az általános forgalmi adóalanya részére előírt nyilatkozatot;
-
 1.17. átalányadó választását;
-
 1.18. választása szerint a naptári évtől eltérő üzleti év mérlegforduló napját;
-
 1.19. közhasznú szervezetként történő nyilvántartásba vételét;
-
 1.20. a 17.2. pont szerint bejelentkező adózók jegyzett tőkéjének összegét;
-
 1.21. külföldi vállalkozás magyarországi fióktelepe esetén a külföldi vállalkozás megnevezését, székhelyét, cégjegyzék számát, nyilvántartási számát;
-
 1.22. * magyarországi tényleges üzletvezetési helyét, ha magyar adóügyi illetőségét a tényleges üzletvezetési hely alapozza meg, valamint magyarországi fióktelepe nevét és adószámát;
-
 1.23. bíróság által nyilvántartandó jogi személy esetében a bírósági nyilvántartási számát, a főtevékenységet és a ténylegesen végzett tevékenységet;
-
 1.24. * a 17.2. pont szerint bejelentkező gazdasági társaság adózó külföldi pénzintézetnél vezetett valamennyi érvényes pénzforgalmi számlaszámát, a pénzforgalmi számlát vezető külföldi pénzintézet nevét, valamint a pénzforgalmi számla megnyitásának és lezárásának napját.
-
 2. Az 1. ponttól eltérően a kezelt vagyon esetében kizárólag az 1.4.–1.8., 1.13. és 1.18. pontok szerinti adatokat kell bejelenteni az állami adó- és vámhatósághoz.
-
 3. * A munkáltató és a kifizető (ideértve a kiegészítő tevékenységet folytatónak nem minősülő, a Tbj. 4. § 2. pontja szerinti egyéni vállalkozót és a biztosított mezőgazdasági őstermelőt, és a Tbj. 87. §-a szerinti kötelezettet is), valamint a Tbj. 68. § (2) és (3) bekezdése és a Tbj. 85. § alapján eljáró szerv – a munkáltató, kifizető adóazonosító számának, nevének, elnevezésének, székhelyének, telephelyének, lakóhelyének, továbbá jogelődje nevének és adószámának közlésével – az állami adó- és vámhatóságnak elektronikus úton vagy az erre a célra rendszeresített nyomtatványon bejelenti az általa foglalkoztatott biztosított családi és utónevét, adóazonosító jelét, születési idejét, biztosítási jogviszonyának kezdetét, kódját, megszűnését, a biztosítás szünetelésének időtartamát, a heti munkaidejét, a FEOR-számát, a TAJ számát. Ha a biztosított nem rendelkezik adóazonosító jellel, a születési családi és utónevét, születési helyét, anyja születési családi és utónevét és a biztosított állampolgárságát is kötelező bejelenteni. A bejelentést
-
 3.1. a biztosítás kezdetére vonatkozóan legkésőbb a biztosítási jogviszony első napján, a foglalkoztatás megkezdése előtt, álláskeresési támogatás esetén a támogatást megállapító határozat jogerőre emelkedését követő tíz napon belül, illetve ha a biztosítás elbírálására utólag kerül sor, legkésőbb a biztosítási kötelezettség megállapítását követő napon kell teljesíteni,
-
 3.2. * a jogviszony megszűnését, a szünetelés kezdetét és befejezését, a biztosítás megszűnését követően folyósított ellátás kezdő és befejező időpontját követő 8 napon belül kell teljesíteni, kivéve, ha a munkáltató az 50. § szerinti havi adó- és járulékbevallásban feltünteti a biztosítási jogviszony megszűnésének időpontját. Ez utóbbi esetben a havi adó- és járulékbevallás beérkezését követően az állami adó- és vámhatóság az adózó által közölt bevallási adatok alapján a biztosítási jogviszony megszűnéséről szóló bejelentést hivatalból e pontban foglaltaknak megfelelően elvégzi, amelyet a 6. pont alapján továbbít az egészségbiztosítás biztosítotti nyilvántartásának, és erről a foglalkoztatottat valamint a foglalkoztatót értesíti. Az állami adó- és vámhatóság a biztosítási jogviszony megszűnésének bejelentését nem pótolhatja, ha a foglalkoztatottnak a foglalkoztatóval egyidejűleg több biztosítási jogviszonya áll fenn,
-
 3.3. * ha a foglalkoztató személyében jogutódlás következik be, a jogutód munkáltató, kifizető köteles a jogutódlással érintett, a Tbj. 6. § (1) bekezdés a)–c), f)–g) és l) pontja, valamint (2) bekezdése szerinti biztosított személyre vonatkozóan teljesíteni; a bejelentési határidőkre a 3.1. és 3.2. pontot, a bejelentendő adatok körére e bekezdést kell alkalmazni, azzal, hogy a bejelentésben fel kell tüntetni a jogelőd nevét, elnevezését és adószámát, a jogutódlás tényét és napját, továbbá a jogutód nevét, elnevezését, adószámát és a jogutód megalakulása napját is.
-
 3.4. * Ha a munkáltató, kifizető a 3.2. pont szerinti bejelentési kötelezettségét nem teljesítette, és az adózóról nyilvántartást vezető szerv – ideértve különösen a cégnyilvántartást, egyéni vállalkozói nyilvántartást, civil szervezetek névjegyzékét vezető szervet – által nyilvántartott adatok alapján jogutód nélkül megszűnt, az elmulasztott bejelentési kötelezettséget az állami adó-és vámhatóság hivatalból pótolja a jogutód nélküli megszűnés időpontjáról való tudomásszerzéstől számított tizenöt napon belül, amelyről elektronikus úton adatot szolgáltat az egészségbiztosítás biztosítotti nyilvántartása részére.
-
 3.5. * A 3.4. pont szerinti esetben a biztosítási jogviszony megszűnésének vélelmezett időpontja a munkáltató, kifizető megszűnésének időpontja.
-
 3.6. * Az állami adó- és vámhatóság a biztosítási jogviszony lezárásáról a természetes személyt értesíti.
-
 3.7. * A 3.4. pontban foglalt rendelkezés az egyéni vállalkozó halála vagy gondnokság alá helyezése esetén akkor alkalmazható, ha az egyéni vállalkozó özvegye, örököse vagy törvényes képviselője nem jelenti be törvényi határidőn belül a tevékenység folytatását.
-
 3.8. * Határozott idejű foglalkoztatás esetén a bejelentést egyidejűleg a biztosítás kezdetére és a jogviszony megszűnésére vonatkozóan is teljesíteni kell legkésőbb a biztosítási jogviszony első napján, de még a foglalkoztatás megkezdése előtt. A jogviszony megszűnése időpontjának módosulása vagy a határozott időtartam határozatlan időtartamra változása esetén e törvény változás-bejelentésre vonatkozó szabályai az irányadók.
-
 3.9. * Ha a munkáltató végelszámolás, felszámolás, illetve kényszertörlési eljárás alatt áll, akkor a 3.2. alpont szerinti foglalkoztatottak biztosítási jogviszonya megszűnésének bejelentésére a végelszámoló, felszámoló, valamint a Bérgarancia biztos kötelezett.
-
 3.10. * A 3.1. ponttól eltérően az állami adó- és vámhatóság a Tbj. 4. § 2.1. pontja szerinti egyéni vállalkozó helyett hivatalból teljesíti az egyéni vállalkozóra e minőségében vonatkozó biztosítotti bejelentést az 1. pont szerinti bejelentés, valamint az egyéni vállalkozók nyilvántartásának adatai alapján.
-
 4. Ha a munkáltató az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvényben (a továbbiakban: Efo. tv.) meghatározott korlátok túllépése miatt az Szja tv. és a Tbj. általános adózási és járulékfizetési szabályait köteles alkalmazni, az egyszerűsített foglalkoztatottként bejelentett személy(eke)t a jogsértés feltárásától számított nyolc napon belül – a 3. pontban előírt módon biztosítottként – jelenti be. Ettől eltérően nem kell a 3. pont szabályai szerint biztosítottként bejelenteni azt a természetes személyt, akit a munkáltató egyszerűsített foglalkoztatottként bejelentett, de a munkát nem vette fel és munkavégzés hiányában jövedelem kifizetésére nem került sor.
-
 5. A több munkáltató által létesített munkaviszony esetén a 3. pont szerinti bejelentésben a kijelölt munkáltató bejelenti az ugyanazon munkaviszony tekintetében a további foglalkoztató (e § alkalmazásában a továbbiakban: további foglalkoztató) adóazonosító számát, nevét, elnevezését, székhelyének címét, valamint a több munkáltató által létesített munkaviszonyban való részvétele kezdetét és a munkaviszonyból való kilépésének idejét. A bejelentés határidejére a 3.1. és 3.2. pontja megfelelően alkalmazandó.
-
 6. * Az állami adó- és vámhatóság a 3. és 5. pontban meghatározott, munkáltató vagy kifizető, valamint a Tbj. 68. § (2) és (3) bekezdése alapján eljáró szerv által elektronikusan bejelentett adatokat azok beérkezését követően elektronikus úton haladéktalanul megküldi az egészségbiztosítás biztosítotti nyilvántartásának. A nyomtatványon teljesített munkáltatói, kifizetői bejelentéseket az állami adó- és vámhatóság soron kívül feldolgozza és elektronikus dokumentum formájában továbbítja az egészségbiztosítás biztosítotti nyilvántartása részére.
-
 6/A. * A Nemzeti Egészségbiztosítási Alap Kezelője az állami adó- és vámhatóság részére folyamatosan, elektronikus dokumentum formájában megküldi az egészségbiztosítás biztosítotti nyilvántartás azon adatait, melyek nem az állami adó- és vámhatóság 6. pont szerinti adatszolgáltatása során kerültek bejegyzésre.
-
 7. * Az állami adó- és vámhatóság a 3. és 5. pontban meghatározott, a munkáltató vagy a kifizető, valamint a Tbj. 68. § (2) és (3) bekezdése alapján eljáró szerv által elektronikusan bejelentett adatok közül a foglalkoztatott biztosított családi és utónevét, adóazonosító jelét, születési idejét, biztosítási jogviszonyának kezdetét, kódját, megszűnését, a biztosítás szünetelésének időtartamát, a heti munkaidejét, a FEOR-számát, azok beérkezését követően elektronikus úton haladéktalanul megküldi az állami szakképzési és felnőttképzési szerv pályakövetési rendszert működtető nyilvántartása részére. A nyomtatványon teljesített munkáltatói, kifizetői bejelentéseket az állami adó- és vámhatóság soron kívül feldolgozza és elektronikus dokumentum formájában továbbítja az állami szakképzési és felnőttképzési szerv pályakövetési rendszert működtető nyilvántartásának.
-
 8. * Az állami adó- és vámhatóság a 3. és 5. pontban meghatározott, munkáltató vagy kifizető, valamint a Tbj. 68. § (2) és (3) bekezdése alapján eljáró szerv által bejelentett adatok közül a munkáltató, több munkáltató által létesített munkaviszony esetén az e törvény szerint munkáltatónak nem minősülő, Mt. szerinti munkáltató azonosítására szolgáló adatokat, a több munkáltató által létesített munkaviszonyban való részvétele kezdetét és a munkaviszonyból való kilépésének idejét, továbbá a kifizető azonosítására szolgáló adatokat, a biztosított személyi adatait, állampolgárságát, a biztosítási jogviszonyának kezdetét, kódját, megszűnését, a biztosítás szünetelésének időtartamát, a heti munkaidőt és a FEOR-számot, valamint ezek bejelentése időpontját, illetve az adózó valamennyi általa ismert pénzforgalmi jelzőszámát, továbbá a 14. pontban foglalt adatokat haladéktalanul, illetve a 6. pont szerinti feldolgozást követően elektronikus úton közli a foglalkoztatás-felügyeleti hatósággal. Az állami adó- és vámhatóság az országos, illetve ágazati érdekegyeztetésben történő részvétel megállapítása céljából, a megállapításra törvényben feljogosított hatóság igénylése alapján tizenöt napon belül elektronikus úton megküldi az 1. pontban meghatározott adatok közül a munkáltató fő tevékenységének a mindenkor hatályos TEÁOR-nómenklatúra, egyéni vállalkozók esetén a mindenkor hatályos ÖVTJ-kódok szerinti besorolását, ezenkívül az ágazati érdekegyeztetésben történő részvétel megállapítása céljából a munkáltató bevallásában szereplő, a tárgyévet megelőző második évi éves nettó árbevételére vonatkozó adatokat. Az állami adó- és vámhatóság az egyszerűsített foglalkoztatásról szóló törvényben meghatározott, munkáltató által bejelentett adatokat a feldolgozást követően haladéktalanul – elektronikus úton – megküldi a foglalkoztatás-felügyeleti hatóságnak, az állami foglalkoztatási szervnek, valamint az egészségbiztosítás biztosítotti nyilvántartásának.
-
 9. Az állami adó- és vámhatóság a közfoglalkoztatásról szóló törvény szerinti közfoglalkoztatási jogviszony megszüntetése esetén a bejelentést haladéktalanul továbbítja az állami foglalkoztatási szervnek.
-
 10. A 3. pontban meghatározott bejelentést az államháztartásról szóló törvény szerint a kincstári körbe, valamint a helyi önkormányzatok nettó finanszírozása, továbbá az államháztartásról szóló törvény végrehajtási rendeletének hatálya alá tartozó munkáltatóknak és kifizetőknek a központosított illetményszámfejtés szabályairól szóló kormányrendeletben meghatározottak szerint kell teljesíteni.
-
 11. * Nem terheli a 3. pont szerinti bejelentési kötelezettség azt a kifizetőt, aki (amely) természetes személynek alkalomszerűen teljesít megbízási jogviszony keretében adó- vagy társadalombiztosítási jogviszonyt eredményező kifizetést, feltéve, hogy a természetes személy a kifizetéskor igazolja, hogy e megbízási jogviszonyával egyidejűleg a Tbj. 6. §-ában meghatározott más jogviszonya, jogállása alapján rá a társadalombiztosítási jogviszony kiterjed.
-
 12. Az előtársaság a cégbejegyzési kérelme benyújtása napjáig tartó időszakában a 3. pontban meghatározott bejelentési kötelezettségének papíralapon az adószám feltüntetése nélkül tesz eleget. Az előtársaság az adószám megszerzésétől számított nyolc napon belül – az adószámot és a korábban teljesített bejelentés adóhatósági iktatószámát is feltüntetve – ismételten bejelenti a cégbejegyzési kérelem benyújtását megelőzően az általa biztosítottként foglalkoztatott 3. pont szerinti adatait.
-
 13. Az előtársaság a cégbejegyzési kérelme benyújtása napjáig tartó időszakában az Efo. tv.-ben meghatározott bejelentési kötelezettségének elektronikus úton adószám feltüntetése nélkül tesz eleget. Az előtársaság az adószám megszerzésétől számított nyolc napon belül – az adószámot és a korábban teljesített bejelentés adóhatósági iktatószámát is feltüntetve – ismételten bejelenti a cégbejegyzési kérelem benyújtását megelőzően az Efo. tv. keretében általa foglalkoztatott természetes személy Efo. tv. 11. § (3) bekezdése szerinti adatait.
-
 14. * Az iskolaszövetkezetnek, a közérdekű nyugdíjas szövetkezetnek, illetve a kisgyermekkel otthon lévők szövetkezetének a Tbj. 6. § (1) bekezdés b) pontja alapján biztosítottnak nem minősülő, a szövetkezetekről szóló törvény szerinti tagsági megállapodás alapján személyesen közreműködő tagja esetében – a 3. pontban foglaltaktól eltérően – az iskolaszövetkezet, illetve a közérdekű nyugdíjas szövetkezet, továbbá a kisgyermekkel otthon lévők szövetkezete az állami adó- és vámhatóság felé köteles a külső szolgáltatásra vonatkozó tagsági megállapodás megkötésének napján bejelenteni
-
 14.1. az iskolaszövetkezet, a közérdekű nyugdíjas szövetkezet, illetve a kisgyermekkel otthon lévők szövetkezetének adószámát,
-
 14.2. * az iskolaszövetkezeti, a közérdekű nyugdíjas szövetkezeti tag, illetve a kisgyermekkel otthon lévők szövetkezete tagja adóazonosító jelét és társadalombiztosítási azonosító jelét, továbbá iskolaszövetkezeti tag esetén diákigazolványa számát, közérdekű nyugdíjas szövetkezeti tag esetén nyugdíjfolyósítási törzsszámát, illetve kisgyermekkel otthon lévők szövetkezetének tagja esetén azt, hogy részesül-e csecsemőgondozási díjban, gyermekek otthongondozási díjában, gyermeknevelési támogatásban, örökbefogadói díjban, nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban.
-
 15. * Az iskolaszövetkezet, a közérdekű nyugdíjas szövetkezet, továbbá a kisgyermekkel otthon lévők szövetkezete köteles az állami adó- és vámhatósághoz bejelenteni a jogviszony megszűnését követő nyolc napon belül az iskolaszövetkezeti, illetve közérdekű nyugdíjas szövetkezeti tag, továbbá a kisgyermekkel otthon lévők szövetkezete tagjának jogviszonya megszűnésének napját. Jogutódlás esetén a 3.3. pontjában foglaltakat megfelelően alkalmazni kell.
-
 16. * Az iskolaszövetkezet, a közérdekű nyugdíjas szövetkezet, továbbá a kisgyermekkel otthon lévők szövetkezete bejelentési kötelezettségét az egyszerűsített foglalkoztatás bejelentésével azonos módon
-
 16.1. elektronikus úton – a tárhelyen keresztül – vagy
-
 16.2. telefonos ügyfélszolgálaton keresztül telefonon
-
 teljesíti.
-
 17. Az adózó,
-
 17.1. * ha adókötelezettsége, adóköteles tevékenysége az egyéni vállalkozóról szóló törvény szerinti egyéni vállalkozói tevékenység, az egyéni vállalkozói tevékenység bejelentésével egyidejűleg kéri az adószám megállapítását is az állami adóhatóságtól;
-
 17.2. ha üzletszerű gazdasági tevékenységet csak a cégbejegyzése iránti kérelem benyújtását követően folytathat, a cégbírósághoz intézett bejegyzés iránti kérelem (kitöltött nyomtatvány) és mellékletei benyújtásával kéri az adószám megállapítását, amellyel az adózó teljesíti az állami adó- és vámhatósághoz történő bejelentkezési kötelezettségét;
-
 17.3. ha bíróság által nyilvántartandó jogi személy, vagy ilyen szervezet önálló jogi személyiséggel rendelkező szervezeti egységének minősül, adószámának megállapítását a bírósághoz benyújtott kérelem és mellékletei benyújtásával kéri, amellyel teljesíti az állami adó- és vámhatósághoz történő bejelentkezési kötelezettségét;
-
 17.4. ha adókötelezettsége, adóköteles bevételszerző tevékenysége nem tartozik a 17.1–17.3. pont hatálya alá, a tevékenység megkezdését megelőzően az állami adó- és vámhatóságnál az e célra szolgáló nyomtatványon, írásban teljesíti bejelentkezési kötelezettségét. Ha az adózó bejelentkezési kötelezettségét – jogszabálysértő módon – a tevékenység megkezdését követően teljesíti, a bejelentkezés során a tevékenység kezdő időpontját is köteles az állami adó- és vámhatósághoz írásban bejelenteni.
-
 18. * A cégbíróság, az egyéni vállalkozók nyilvántartását vezető szerv, valamint bíróság által nyilvántartandó jogi személy esetében a bíróság az erre a célra szolgáló számítógépes rendszer útján közli az állami adó- és vámhatósággal azokat az 1. pontban meghatározott adatokat, amelyek a cégbejegyzés, bíróság által nyilvántartandó jogi személy nyilvántartásba vétele során, valamint az egyéni vállalkozói tevékenység megkezdésének bejelentésére űrlapon rendelkezésre állnak, ideértve az 1.16 és 1.17 pontban meghatározott nyilatkozat, valamint az adózó főtevékenységéről szóló nyilatkozat adatait is. Az állami adó- és vámhatóság az adószám megállapításához szükséges, az adóköteles tevékenységet folytatni kívánó adózó neve (elnevezése), címe (székhelye), cégjegyzék vagy egyéni vállalkozói nyilvántartási száma, valamint bíróság által nyilvántartandó jogi személy esetében azok bírósági nyilvántartási száma, illetve az 1.16. pont szerinti nyilatkozat alapján számítógépes rendszer útján közli a cégbírósággal, bíróság által nyilvántartandó jogi személy esetében a bírósággal, valamint az egyéni vállalkozók nyilvántartását vezető szervvel az adózó adóazonosító számát, illetve az ok megjelölésével értesíti a megkereső szervet az adószám megállapításának akadályáról. Az állami adó- és vámhatóság az adószám megállapításának megtagadásáról szóló véglegessé vált határozat egy példányának megküldésével értesíti a cégbíróságot, bíróság által nyilvántartandó jogi személy esetében a bíróságot, valamint az egyéni vállalkozók nyilvántartását vezető szervet.
-
 19. A 17.2. pont szerint bejelentkező adózó vonatkozásában nem tekinthető véglegesnek az adóhatóság adószám megállapításának megtagadásáról hozott határozata, ha a bírósági felülvizsgálat megindítására nyitva álló határidő még nem telt el, illetve az adózó által kezdeményezett, a határozat felülvizsgálatára irányuló bírósági eljárás jogerősen nem zárult le. A 18. pont alkalmazásában nem tekinthető véglegesnek az állami adó- és vámhatóság adószám megállapításának megtagadásáról hozott határozata akkor sem, ha a 20. § (1) bekezdés szerint előterjesztett kimentési kérelmet elutasító határozat bírósági felülvizsgálatának megindítására nyitva álló határidő még nem telt el, illetve az adózó által kezdeményezett, a határozat felülvizsgálatára irányuló bírósági eljárás jogerősen nem zárult le.
-
 20. A 17.1. pontban megjelölt adózó a bejelentkezéssel egyidejűleg, a 17.2. pontban megjelölt adózó a bejelentkezés napjától számított tizenöt napon belül az 1. pontban felsorolt adatok közül az állami adó- és vámhatósághoz írásban bejelenti:
-
 20.1. iratai, elektronikus alapon rendelkezésre álló bizonylatai és nyilvántartásai őrzésének helyét, ha az nem azonos az adózó székhelyével vagy lakóhelyével, valamint ha az adózó bizonylatot, könyvet, nyilvántartást online hozzáférést biztosítva, elektronikusan őrzi meg, ezt a tényt;
-
 20.2. jogelődjének adóazonosító számát;
-
 20.3. a közös vállalat tulajdonosának, tulajdonosainak adóazonosító számát, a közkereseti társaság, a betéti társaság, a korlátolt felelősségű társaság, az egyesülés, a közös vállalat adóazonosító jellel nem rendelkező tulajdonosa esetén az adóazonosító jel közlése végett e törvényben meghatározott adatokat;
-
 20.4. a természetes személy adózó levelezési címét, ha az nem azonos székhelyével, telephelyével;
-
 20.5. a cégbírósághoz be nem jelentett, az e törvény 7. § 47. pontjában foglaltaknak megfelelő telephelyét;
-
 20.6. székhelyszolgáltatás igénybevétele esetén a székhelyszolgáltató elnevezését, székhelyét, adószámát, e jogviszony keletkezésének és – határozott idejű jogviszony esetén – megszűnésének időpontját.
-
 21. * A bíróság által nyilvántartandó jogi személy a bejelentkezés napjától számított tizenöt napon belül az 1. pontban felsorolt adatok közül az állami adó- és vámhatósághoz írásban bejelenti az 1.1.–1.3., 1.8. és 1.12. pont szerinti adatait.
-
 22. A 17.2. pont szerint bejelentkező gazdasági társaság adózó a bejelentkezés napjától számított tizenöt napon belül az állami adó- és vámhatósághoz írásban bejelenti az 1.24. pontban megjelölt adatokat.
-
 23. Ha az adóköteles (bevételszerző) tevékenység folytatásához engedély, jóváhagyás, záradék szükséges, ennek megszerzését – a 17.1. pontban megjelölt adózók kivételével – a véglegessé vált engedély, jóváhagyás, záradék közlésétől számított tizenöt napon belül az adóhatóságnak be kell jelenteni.
-
 24. Az elektronikus kapcsolattartásra köteles adózó – az Air. 36. § (4) bekezdés d) pontja szerinti adózók kivételével – az adószám megszerzését követően nyolc napon belül köteles elektronikus azonosítási szolgáltatás létesítését kezdeményezni, és erről a létesítést követő nyolc napon belül bejelentést tesz az állami adó- és vámhatósághoz. Amennyiben az adózó az adószám megszerzését megelőzően már létesített elektronikus azonosítási szolgáltatást, úgy a nyolcnapos bejelentési határidőt az adószám megszerzésétől kell számítani. Ha az adózó állandó meghatalmazással vagy megbízással rendelkező képviselője útján elektronikus úton teljesíti adóbevallási és adatszolgáltatási kötelezettségét, az állandó meghatalmazott vagy megbízott a megbízást követő nyolc napon belül köteles az adóhatósághoz bejelenteni a képviselt adózó nevét, elnevezését és adóazonosító számát.
-
 25. A természetes személyként adószám birtokában adóköteles tevékenységet végző adózó tevékenységi köreit az ÖVTJ-kód szerint jelenti be az állami adó- és vámhatósághoz.
-
 26. Az állami adó- és vámhatóság az e célra fenntartott számítógépes rendszeren keresztül értesíti a bíróság által nyilvántartandó jogi személy esetében – annak adatai közlésével – az adószám megállapításáról a nyilvántartásba vételt elrendelő bíróságot.
-
 27. Az adózó évente augusztus harmincegyedikéig bejelenti, hogy a Tao tv. szerint ingatlannal rendelkező társaságnak minősül, illetve azt, hogy e minősége megszűnt. Az ingatlannal rendelkező társaság bejelentésében – a benyújtás időpontját megelőző naptári év vonatkozásában – nyilatkozik a társaság külföldi tagjai általi részesedés elidegenítéséről, az elidegenítés időpontjáról, a részesedés névértékéről, illetve a tag illetőségéről.
-
 28. Az adóköteles tevékenységet folytató költségvetési szerv, a költségvetési szervek gazdálkodására vonatkozó szabályokat alkalmazó, illetve törvény alapján a kincstár által nyilvántartandó egyéb jogi személy (a továbbiakban együtt: törzskönyvi jogi személy) esetében az 1. pontban meghatározott adatokon túl az állami adó- és vámhatósághoz be kell jelenteni a törzskönyvi jogi személy
-
 28.1. alapítójának, illetve az alapítói jogok gyakorlójának, fenntartójának nevét, címét, székhelyét, székhely hiányában a központi ügyintézés helyét (a továbbiakban együtt: székhely), amennyiben az alapítói jog gyakorlója rendelkezik adóazonosító számmal, akkor annak adóazonosító számát is,
-
 28.2. irányító vagy felügyeleti szervének nevét, székhelyét, amennyiben rendelkezik adóazonosító számmal, adóazonosító számát is,
-
 28.3. átalakítása, illetve átalakulása, egyesülése, szétválása esetén annak tényét, időpontját,
-
 28.4. jogutódjának, jogutódainak nevét, székhelyét, amennyiben a jogutód rendelkezik adóazonosító számmal, akkor adóazonosító számát,
-
 28.5. adókötelezettséget eredményező tevékenysége megkezdésének, illetve befejezésének időpontját,
-
 28.6. elszámolásának, finanszírozásának módját (nettó, bruttó), valamint az illetményszámfejtés módját, helyét (a törzskönyvi jogi személy központosított illetményszámfejtést alkalmaz-e).
-
 29. * A helyi iparűzési adó alanya az állami adó- és vámhatósághoz bejelentheti
-
 29.1. a helyi adókról szóló 1990. évi C. törvény szerinti telephelyének címét, *
-
 29.2. az önkormányzati adóhatóság előtt helyi iparűzési adóügyben eljárni jogosult állandó meghatalmazottját.
-
 30. * A társasági adó alanya az állami adó- és vámhatósághoz bejelenti, ha a társasági adó-fizetési kötelezettségének devizában tesz eleget.
 
 2. melléklet az adózás rendjéről szóló 2017. évi CL. törvényhez
@@ -2952,125 +2861,69 @@ I. AZ ÁLLAMI ADÓ- ÉS VÁMHATÓSÁGHOZ BENYÚJTANDÓ ADÓBEVALLÁS IDŐPONTJA 
 A) Általános rendelkezések
 
 1. * Az adózónak a bevallás adatait – az 50. § (2) bekezdésében meghatározott bevallást, a természetes személynek a jövedelemadójáról, a különadójáról, az egyszerűsített közteherviselési hozzájárulásáról, a járulékáról, a cégautó-adójáról benyújtott adóbevallását kivéve – ezer forintra kerekítve, ezer forintban kell feltüntetni. Az 50. § (2) bekezdése szerinti bevallás adatait az adónemenként meghatározott összesített sorokban ezer forintra kerekítve, ezer forintban kell feltüntetni kivéve az egyszerűsített foglalkoztatásban foglalkoztatott munkavállaló után fizetendő összeget, amelyet kerekítés nélkül forintban kell bevallani. A kerekítésből származó különbözetet az adózó csak az adóéven belül, a következő adómegállapítási időszak ugyanazon adó vagy költségvetési támogatás összegénél a kerekítést megelőzően korrekciós tételként veszi figyelembe. Ha a megállapított adó, költségvetési támogatás összege az ezer forintot nem éri el, akkor az adózó az év elejétől vagy az előző megállapítási időszaktól számított halmozott összeget a következő bevallásában annak a megállapítási időszaknak a kötelezettségeként tünteti fel, amelyben az ezer forintot elérte. A természetes személynek a jövedelemadójáról, a különadójáról, az egyszerűsített közteherviselési hozzájárulásáról, a járulékáról benyújtott adóbevallásában az adatokat forintban kell feltüntetnie. Az adózónak – személyétől függetlenül – a cégautó-adójáról benyújtott adóbevallásában az adatokat forintban kell feltüntetnie.
-
 2. A havi vagy évközi adóbevallásra nem kötelezett adózó valamennyi adóról a megállapításra előírt időszakonkénti részletezésben éves bevallást tesz.
-
 3. * Az adózó valamennyi adóról – az általános forgalmi adó, a jövedéki adó, a társasági adó (adóelőleg), globális minimum-adószintet biztosító kiegészítő adók és az 50. § (2) bekezdése szerinti bevallás kivételével –, ha az adóévet megelőző második évben a nettó módon számított elszámolandó általános forgalmi adója vagy a nettó módon számított jövedéki adója vagy a természetes személyektől általa levont jövedelemadó-előleg vagy a természetes személyektől általa levont jövedelemadó-előleg és jövedelemadó együttes összege
-
 3.1. a tízmillió forintot elérte havonta,
-
 3.2. a négymillió forintot elérte negyedévenként
-
 bevallást tesz.
-
 4. A 3. pont szerint kell bevallást tennie annak az adózónak is, amely az adóévet megelőző második év utolsó napját követően szervezeti változással (átalakulással, kiválással, szétválással, egyesüléssel, beolvadással) jött létre, és az a szervezet, amelyből átalakult, kivált, vagy szétválás útján létrejött, illetve amellyel egyesült, vagy amelybe beolvadt, a szervezeti változást megelőzően az adóévet megelőző második évben a 3. pontban meghatározott feltételeknek megfelelt.
-
 5. A 3. pont alkalmazásánál az általános forgalmi adó fizetésére kötelezett természetes személy esetében figyelmen kívül kell hagyni az adóévet megelőző második évben – nettó módon – számított elszámolandó általános forgalmi adóját.
-
 6. A tárgyévben végzett, valamely korábbi adóbevallási időszakot érintő önellenőrzés, a határidőt követően benyújtott bevallás, illetve az utólagos adómegállapítás nem érinti a tárgyévi adóbevallás gyakoriságát.
-
 7. A szociálpolitikai menetdíj-támogatásról szolgáltatáscsoportonkénti részletességgel éves összesítő, a havi vagy évközi bevallás benyújtására kötelezett adózónak negyedéves összesítő bevallást kell benyújtania.
-
 8. Az adózó adójáról és költségvetési támogatásáról a B) pontban meghatározott határidő utolsó napja előtt is benyújthatja bevallását. Ebben az esetben a bevallást csak önellenőrzéssel lehet helyesbíteni, az önellenőrzési pótlékot azonban a bevallás benyújtására előírt határidőt követő első naptól kell felszámítani.
 
 B) Az egyes adóbevallások határideje
 
 1. A havi és évközi bevallás határidői
-
 1.1. A havi adóbevallást a tárgyhónapot követő hó huszadik napjáig, az évközi bevallást a negyedévet követő hó huszadik napjáig kell az adóhatósághoz benyújtani.
-
 1.2. Ha az általános forgalmi adó fizetésére kötelezett adóalany az Áfa tv. 135. § (2) bekezdésében előírt kötelezettségét az adóév utolsó bevallásában nem teljesítette, ezt önellenőrzési pótlékmentesen az adóévet követő február tizenötödikéig elvégzett önellenőrzéssel korrigálhatja.
-
 2. Az éves adóbevallás határidői
-
 2.1. A havi, illetve évközi adóbevallásra nem kötelezett adózónak – a 2.2.–2.4. pontban meghatározott kivételekkel – az adóévet követő év február huszonötödikéig,
-
 2.2. * a természetes személyek jövedelemadójáról az adóév utolsó napján vállalkozási tevékenységet nem folytató természetes személynek, a vállalkozási tevékenységet folytató természetes személynek, a mezőgazdasági őstermelőnek és az általános forgalmi adó fizetésére kötelezett természetes személynek – ideértve a vállalkozási tevékenységét az adóév utolsó napján szüneteltető természetes személyt is – az adóévet követő év május huszadikáig,
-
 2.3. *
-
 2.4. a társasági adóról az adóévet követő ötödik hónap utolsó napjáig
-
 kell bevallást benyújtani.
-
 3. Az adóbevallás benyújtására vonatkozó különös rendelkezések
-
 3.1. Az általános forgalmi adóról az adófizetésre kötelezett adózónak
-
 3.1.1. az e mellékletben foglalt kivételekkel negyedévenként kell adóbevallást benyújtania,
-
 3.1.2. havonként kell adóbevallást benyújtania, ha a tárgyévet megelőző második év adómegállapítási időszak(ai)ban fizetendő adó együttes összegének és az ugyanezen vagy korábbi adómegállapítási időszakokban keletkezett – de a tárgyévet megelőző második év adómegállapítási időszak(ai)ban érvényesített – levonható, előzetesen felszámított adó különbözetének (a továbbiakban: elszámolandó adó) éves szinten összesített – vagy annak időarányosan éves szintre átszámított – összege pozitív előjelű, és az egymillió forintot elérte, valamint a 3.1.9., 3.1.10., 3.1.11. és 3.1.13. pontban meghatározott adózónak;
-
 3.1.3. évente kell adóbevallást benyújtania, ha a tárgyévet megelőző második évben
-
 3.1.3.1. az elszámolandó adójának éves szinten összesített – vagy annak időarányos éves szintre átszámított – összege előjelétől függetlenül nem érte el a kettőszázötvenezer forintot és
-
 3.1.3.2. az Áfa tv. szerinti termékértékesítése, szolgáltatásnyújtása ellenértékének adó nélküli éves szinten összesített összege nem haladja meg az ötvenmillió forintot, feltéve, hogy nem rendelkezik közösségi adószámmal,
-
 3.1.4. az éves bevallásról negyedéves bevallásra kell áttérnie, ha a tárgyévben az év elejétől – előjel helyesen – összesített fizetendő és levonható előzetesen felszámított adó különbözete a 3.1.3.1. pontban meghatározott értékhatárt elérte, vagy az Áfa tv. szerinti termékértékesítése, szolgáltatásnyújtása ellenértékének adó nélküli összege a 3.1.3.2. pontban meghatározott értékhatárt meghaladta, vagy az adóév közben az adóhatóság számára közösségi adószámot állapított meg. A tárgyévi első bevallását a tárgyév első napjától azon negyedév utolsó napjáig terjedő időszakról kell – a negyedéves bevallás benyújtására előírt időpontig – benyújtania, amelyben az értékhatárt elérte, illetve amelyben az adóhatóság közösségi adószámot állapított meg,
-
 3.1.5. a negyedéves bevallásról havi bevallásra kell áttérnie, ha az év elejétől összesített elszámolandó adója pozitív előjelű és az egymillió forintot elérte. Az első havi bevallást arról a hónapról kell benyújtani, amelyet megelőző bevallással lezárt negyedévben az adózó az értékhatárt elérte,
-
 3.1.6. az éves bevallásról havi bevallásra kell áttérnie, ha a tárgyévben az év elejétől – előjel helyesen – összesített fizetendő és levonható előzetesen felszámított adó különbözete pozitív előjelű és az 1 millió forintot elérte. A tárgyévi első bevallást a tárgyév első napjától azon negyedév utolsó napjáig tartó időszakról kell benyújtani, amelyben az előzőekben meghatározott különbözet a 3.1.2. pontban szereplő összeget elérte, majd ezt a negyedévet követő hónaptól az adózó havi bevallásra köteles áttérni,
-
 3.1.7. az adót, ha
-
 3.1.7.1. havi adóbevallásra kötelezett, a tárgyhónap első napjától a tárgyhónap utolsó napjáig,
-
 3.1.7.2. negyedéves adóbevallásra kötelezett, a tárgynegyedév első napjától a tárgynegyedév utolsó napjáig,
-
 3.1.7.3. éves adóbevallásra kötelezett, a tárgyév első napjától a tárgyév utolsó napjáig terjedő időszakra kell megállapítania (adómegállapítási időszak),
-
 3.1.8. a tárgyév valamely adóbevallására vonatkozó önellenőrzése, illetve az utólagos adómegállapítás nem érinti a tárgyévi adóbevallási gyakoriságát,
-
 3.1.9. havonként kell adóbevallást benyújtania abban az esetben, ha a csoportos általános forgalmi adózást választotta,
-
 3.1.10. havonként kell adóbevallást benyújtania abban az esetben, ha az Áfa tv. 96. §-ában meghatározott közvetett vámjogi képviselőnek vagy az Áfa tv. 89/A. §-ában meghatározott adóraktár üzemeltetőjének minősül,
-
 3.1.11. havonként kell adóbevallást benyújtania abban az esetben, ha az Áfa tv. szerinti adómentes termékimportot megalapozó közösségi termékértékesítésen kívül adóalanyiságot keletkeztető termékértékesítést, szolgáltatásnyújtást belföldön nem végez azzal, hogy nem kell adóbevallást benyújtani arról a hónapról, melyben az adózó az e pontban meghatározott termékértékesítést sem végzett,
-
 3.1.12. * a 3.1.10., illetve a 3.1.11. alpont szerinti havi bevallást első alkalommal arról a hónapról kell benyújtani, amelyben az adózó az Áfa tv.-ben meghatározott nyilatkozat vagy a termék vámjogi szabad forgalomba bocsátására irányuló árunyilatkozat tételére köteles. A havi elszámolásra való évközi áttérés esetén az áttérést megelőző, bevallással le nem fedett időszakról az adózó az első alkalommal benyújtandó havi bevallással egyidejűleg tesz bevallást és az adót a bevallással egyidejűleg fizeti meg, illetve ettől az időponttól igényelheti vissza,
-
 3.1.13. ha jogelőd nélkül alakult, havonként kell adóbevallást benyújtania a bejelentkezés évének, valamint az azt követő évnek az általános forgalmi adó kötelezettségéről.
-
 3.1.14. * ha az általánosforgalmiadó-fizetési kötelezettségével összefüggő bejelentési, változásbejelentési kötelezettségét visszamenőleges hatállyal teljesítette, a bejelentés, változásbejelentés napját megelőző, általánosforgalmiadó-fizetési kötelezettséggel érintett, bevallással le nem fedett időszakra vonatkozóan havonkénti adóbevallást kell benyújtania.
-
 3.2. Az átalakulással, az egyesüléssel, a szétválással létrejövő adózó általános forgalmiadó-bevallási kötelezettségének ugyanolyan gyakorisággal tesz eleget, mint az a szervezet, amelyből átalakult, egyesült vagy szétválás útján létrejött. Az átalakulással, egyesüléssel vagy szétválással létrejövő adózó a gyakoribb bevallásra kötelezett jogelőd bevallási gyakoriságának megfelelően tesz eleget általános forgalmiadó-bevallási kötelezettségének.
-
 3.3. * Az új közlekedési eszköznek az Európai Unió más tagállamából történő beszerzése esetén önadózással megállapítandó fizetendő általános forgalmi adót az általános forgalmiadó-alanynak nem minősülő természetes személy, illetve egyéb szervezet, az általános forgalmiadó-alanynak nem minősülő adófizetésre kötelezett jogi személy, a kizárólag adólevonásra nem jogosító tevékenységet folytató adóalany, az alanyi adómentességet választó adóalany, a kizárólag mezőgazdasági tevékenységet folytató, különleges jogállású adóalany vevő az adófizetési kötelezettség keletkezését követő hó huszadik napjáig vallja be és fizeti meg az állami adó- és vámhatósághoz.
-
 3.4. Az alanyi adómentességet választó adóalany, kizárólag adólevonásra nem jogosító tevékenységet folytató adóalany, valamint a kizárólag mezőgazdasági tevékenységet folytató különleges jogállású adóalany az általános forgalmi adó bevallási kötelezettségének minden esetben havi gyakorisággal tesz eleget.
-
 3.5. * A közösségi adószámmal rendelkező, általános forgalmiadó-alanynak nem minősülő jogi személy a közösségi kereskedelemmel kapcsolatos ügyletet az adófizetési kötelezettség keletkezését követő hó huszadik napjáig vallja be, és az ügylethez kapcsolódó általános forgalmi adófizetési kötelezettségének a bevallás benyújtásával egyidejűleg tesz eleget. Nem kell bevallást tenni arról az időszakról, amelyben az adózó közösségi kereskedelmet nem folytatott. A közösségi adószámmal rendelkező, általános forgalmiadó-alanynak nem minősülő jogi személy azt a Közösségen kívül letelepedett adóalanytól igénybevett szolgáltatást, amely után az adófizetési kötelezettség őt terheli, az adófizetési kötelezettség keletkezését követő hó huszadik napjáig vallja be, és az ügylethez kapcsolódó általános forgalmi adófizetési kötelezettségének a bevallás benyújtásával egyidejűleg tesz eleget.
-
 3.6. Az egyéni vállalkozó adózó általános forgalmiadó-bevallási gyakoriságának meghatározásánál a beépített ingatlan, ingatlanrész és ehhez tartozó földrészlet, illetve építési telek, telekrész természetes személyként, sorozat jelleggel történő értékesítését terhelő általános forgalmi adót figyelmen kívül kell hagyni.
-
 3.7. *
-
 4. A költségvetési támogatás bevallása
-
 4.1. A költségvetési támogatást a tárgyhónap első napjától a tárgyhónap utolsó napjáig terjedő időszakra kell megállapítani.
-
 4.2. Az adózó a feltétel teljesítéséhez kötött költségvetési támogatást a 4.1 ponttól eltérően a támogatást megállapító jogszabály rendelkezései szerint állapíthatja meg. A feltétel teljesítésének igazolását az igényléshez mellékelni kell.
-
 4.3. Az adózó kérelmére az adóhatóság a költségvetési támogatás gyakoribb (öt-tíz-tizenöt naponkénti) igénybevételét engedélyezheti. A költségvetési támogatás gyakoribb igénybevételére jogosult adózó a költségvetési támogatást havonta állapítja meg, és arról a tárgyhót követő hó huszadik napjáig bevallást tesz.
-
 5. Külön fel nem sorolt adók bevallása
-
 Az e mellékletben nem szabályozott adóbevallási kötelezettséget a fizetési kötelezettséget előíró törvény rendelkezései szerint kell teljesíteni. Ha adókötelezettséget megállapító törvény a kötelezettség teljesítését az éves vagy az éves összesítő bevallásban, illetve azzal egyidejűleg rendeli teljesíteni, ilyen bevallás hiányában azt az adózó az adóévet követő év február huszonötödikéig teljesíti.
-
 6. A jövedéki adóval kapcsolatban benyújtandó adóbevallás
-
 A jövedéki adófizetésre kötelezett adóalany – függetlenül attól, hogy adóbevallási kötelezettségét a törvény egyébként milyen időszakonként állapítja meg – a jövedéki adót havonta, a tárgyhót követő hó huszadikáig vallja be.
 
 I/A. * BELFÖLDI GÉPJÁRMŰVEK ADÓJÁVAL KAPCSOLATBAN BENYÚJTANDÓ ADATBEJELENTÉS
 
 1. Az adóalany adatbejelentési kötelezettségének a közúti közlekedési nyilvántartásba való bejegyzés alapjául szolgáló bejelentési kötelezettség teljesítésével tesz eleget. E kötelezettség elmulasztása az adatbejelentés benyújtásának elmulasztásával esik egy tekintet alá.
-
 2. Az adóalanynak az állami adóhatósághoz az erre rendszeresített nyomtatványon adatbejelentést kell benyújtania,
-
 2.1 ha a gépjárműadóról szóló 1991. évi LXXXII. törvény 4. § (4) bekezdése szerinti adófizetési kötelezettség szünetelésének feltétele beáll vagy megszűnt, a változást követő hónap tizenötödik napjáig,
-
 2.2 * a gépjárműadóról szóló 1991. évi LXXXII. törvény 5. § b)–c), e)–f), h), j)–k) pontjában, valamint 13. §-ában írt mentesség fennállásáról és megszűnéséről.
 
 II. AZ ÖNKORMÁNYZATI ADÓHATÓSÁGHOZ BENYÚJTANDÓ ADATBEJELENTÉS, ADÓBEVALLÁS IDŐPONTJA
@@ -3078,19 +2931,12 @@ II. AZ ÖNKORMÁNYZATI ADÓHATÓSÁGHOZ BENYÚJTANDÓ ADATBEJELENTÉS, ADÓBEVAL
 A) Helyi adók
 
 1. Az adózónak az állandó jellegű helyi iparűzési tevékenysége után – ha törvény másként nem rendelkezik –
-
 a) az adóról az adóévet követő év ötödik hónap utolsó napjáig,
-
 b) *
-
 kell az adóbevallást benyújtani.
-
 2. *
-
 3. Az adóbeszedésre kötelezettnek az idegenforgalmi adóról a tárgyhónapot követő hónap tizenötödik napjáig kell adóbevallást benyújtani.
-
 4. * Az adózónak az építményadóról, a telekadóról és a magánszemély kommunális adójáról az adókötelezettség keletkezését, illetve változását követő tizenöt napon belül kell adatbejelentését teljesítenie. Nem kell újabb adatbejelentést benyújtani mindaddig, ameddig az adóalany körülményeiben, az adó tárgyában nem következik be adókötelezettséget érintő változás. Az önkormányzat rendeletében mentesítheti az építményadó, a telekadó, a magánszemély kommunális adójának – vállalkozónak nem minősülő – alanyát az adatbejelentési kötelezettség alól, feltéve, ha az adóalanyt adófizetési kötelezettség az adott adónem vonatkozásában nem terheli.
-
 5. Ha az építményadó, a telekadó alanya külföldön bejegyzett szervezet, egyéb szervezet, az adóalany az építményadóról, telekadóról szóló adatbejelentés kiegészítő lapján feltünteti – az adóév első napjának megfelelő állapot szerint – a szervezet, egyéb szervezet tagjainak (részvényeseinek) nevét (elnevezését), lakóhelyét (székhelyét), és az egyes tagokat megillető tulajdoni részesedés arányát.
 
 B) *
@@ -3104,115 +2950,62 @@ I. AZ ÁLLAMI ADÓ- ÉS VÁMHATÓSÁGHOZ TELJESÍTENDŐ BEFIZETÉSEK
 Általános rendelkezések
 
 1. * Az adókat e melléklet szerinti határidőig kell megfizetni, illetve a költségvetési támogatásokat e melléklet szerinti időponttól lehet kiutalni. Az 52. § (1) bekezdés a)–c) és e) pontjában és az 52. § (5) bekezdésében meghatározott esetben az adózónak az adóbevallás benyújtásával egyidejűleg az adót is meg kell fizetnie.
-
 2. A felszámolás kezdő időpontját megelőzően keletkezett fizetési kötelezettséget e mellékletben foglaltaktól eltérően a Csőd tv. rendelkezéseinek megfelelően kell teljesíteni. A felszámolás alatt álló adózó az 53. § (1) bekezdése szerint a tevékenységet lezáró adóbevallással egyidejűleg benyújtott adóbevallás után a tevékenységet lezáró adóbevallásra vonatkozó rendelkezések szerint, a felszámolást lezáró adóbevallással egyidejűleg benyújtott adóbevallás után a felszámolást lezáró adóbevallásra vonatkozó rendelkezések szerint teljesíti adófizetési kötelezettségét. A végelszámolás alatt álló adózó adófizetési kötelezettségét a tevékenységét lezáró bevallás és a záró adóbevallás benyújtásával egyidejűleg, illetve a két bevallás közötti időszakról eltérő rendelkezés hiányában az általános szabályok szerint benyújtandó bevallásokra irányadó szabályok szerint köteles teljesíteni. A végelszámolás alatt álló adózó az 53. § (1) bekezdése szerint a tevékenységet lezáró adóbevallással, illetve a végelszámolást lezáró adóbevallással egyidejűleg benyújtott adóbevallás benyújtásával egyidejűleg az adót is köteles megfizetni.
-
 3. Az adózó az 53. § (3) bekezdésében meghatározott bevallási kötelezettség teljesítésének határidejéig az adót is köteles megfizetni.
-
 4. * Az állami adó- és vámhatóságnál nyilvántartott adót, vagy egyéb fizetési kötelezettséget – a természetes személy által fizetett jövedelemadót, különadót, egyszerűsített közteherviselési hozzájárulást, szociális hozzájárulási adót járulékot, egészségügyi szolgáltatási járulékot, az illetéket, a cégautóadót, a belföldi gépjárművek adóját, az egyszerűsített foglalkoztatással összefüggésben fizetendő összeget, valamint a vámhatóság által kiszabott vámokat és a vámmal együtt kiszabott nem közösségi adókat és díjakat kivéve –, és a költségvetési támogatást ezer forintra kerekítve kell megfizetni. Az adózónak – személyétől függetlenül – a cégautóadót és a belföldi gépjárművek adóját, az állami adó- és vámhatóságnál az adószámlán nyilvántartott adó, vagy egyéb fizetési kötelezettség, illetve jogosulatlanul igénybe vett költségvetési támogatás után felszámított késedelmi pótlékot kerekítés nélkül forintban kell megfizetnie. A Tbj. és az Efo tv. alapján fizetendő közterhek kivételével az adózónak az ezer forintot el nem érő adóját nem kell megfizetnie, és az adóhatóság az ezer forintot el nem érő adó-visszatérítést, -visszaigénylést nem utalja ki és nem tartja nyilván.
 
 Határidők
 
 1. A személyi jövedelemadó
-
 1.1. A személyi jövedelemadó-előleg
-
 1.1.1. A munkáltató az általa levont személyi jövedelemadó-előleget az elszámolt hónapot követő hó tizenkettedik napjáig,
-
 1.1.2. a kifizető az általa levont személyi jövedelemadó-előleget a kifizetés hónapját követő hó tizenkettedik napjáig,
-
 1.1.3. a természetes személy, ha nem kifizetőtől származó jövedelmet szerzett, vagy a kifizető bármely ok miatt nem vonta le az adóelőlegét, az egyéni vállalkozó, valamint a mezőgazdasági őstermelő az adóelőleget negyedévenként, a negyedévet követő hó tizenkettedik napjáig fizeti meg.
-
 1.2. A személyi jövedelemadó
-
 1.2.1. * A munkáltató a levonást követő hó tizenkettedik napjától igényelheti vissza az adókülönbözetet, ha az elszámolásból adódóan az adott hónapban az adó-visszatérítési kötelezettség nagyobb, mint az adott hónapban levont személyi jövedelemadó és adóelőleg együttes összege.
-
 1.2.2. A kifizető az általa levont személyi jövedelemadót a levonást követő hó tizenkettedik napjáig,
-
 1.2.3. a vállalkozási tevékenységet nem folytató természetes személy a személyi jövedelemadót az adóévet követő év május huszadikáig,
-
 1.2.4. * a vállalkozási tevékenységet folytató természetes személy a személyi jövedelemadót az adóévet követő év május huszadikáig
-
 fizeti meg.
-
 2. Az általános forgalmi adó
-
 2.1. Az általános forgalmi adó fizetésére kötelezett adóalany az általános forgalmi adó nettó, elszámolandó összegét,
-
 2.1.1. ha havonta tesz adóbevallást a tárgyhót követő hó huszadik napjáig,
-
 2.1.2. ha negyedévente tesz adóbevallást a negyedévet követő hó huszadik napjáig,
-
 2.1.3. ha évente tesz adóbevallást az adóévet követő év február huszonötödikéig
-
 fizeti meg, illetve ettől az időponttól igényelheti vissza.
-
 2.2. * Az éves bevallásra kötelezett adózó év közben negyedévenkénti, a negyedévenként bevallásra kötelezett adózó a havonkénti elszámolás és bevallás engedélyezését kérheti. Az adóhatóság a gyakoribb elszámolást – az adóév végéig – különösen abban az esetben engedélyezheti, ha az adózó beszerzéseit terhelő levonható előzetesen felszámított forgalmiadó-kulcs magasabb az áthárított forgalmiadó-kulcsnál, illetve az adózó beruházást valósít meg. Az adóhatóság megtagadja az engedély kiadását, ha
-
 2.2.1. az adózó adószámát törölték, ha a törlés hatálya a kérelem benyújtásának napján fennáll,
-
 2.2.2. az adóhatóság az adózót – számla-, nyugtakibocsátási kötelezettség elmulasztása, be nem jelentett foglalkoztatott foglalkoztatása miatt – a kérelem benyújtását megelőző két éven belül véglegessé vált határozatban mulasztási bírsággal sújtotta,
-
 2.2.3. az adózó a kérelem benyújtását megelőző két éven belül szerepel(t) a 263. § vagy a 264. § alapján közzéteendő adózói listán,
-
 2.2.4. az adózó ellen huszonötmillió forintot elérő vagy azt meghaladó összegű adótartozás miatt a kérelem benyújtását megelőző két éven belül végrehajtási eljárás folyt vagy folyik,
-
 2.2.5. az adózóval szemben csőd-, végelszámolási, kényszertörlési vagy felszámolási eljárás indult, amely a kérelem benyújtásának napján folyamatban van.
-
 2.3. A gyakorított elszámolás évközi engedélyezése esetén az engedély szerinti bevallási kötelezettségre áttérést megelőző, bevallással le nem zárt időszakra vonatkozó adókötelezettséget meg kell állapítani, be kell vallani, meg kell fizetni.
-
 2.4. Az eljáró adóhatóság vezetője az engedélyt a kizáró ok fennállása ellenére különös méltányosságból megadhatja, ha az engedély megadását kizáró ok nincs arányban az adózó gyakoribb elszámoláshoz fűződő méltányolható érdekével.
-
 3. A társasági adó
-
 3.1. A társasági adó előlege
-
 3.1.1. * Az adózó, ha a Tao tv. szerint havonta fizet adóelőleget, akkor az adóelőleget minden hónap huszadik napjáig, ha a Tao tv. szerint negyedévenként fizet adóelőleget, akkor az adóév első három negyedévére jutó adóelőleget a negyedévet követő hó huszadik napjáig, az adóév utolsó negyedévére jutó adóelőleget a negyedév harmadik hónapjának huszadik napjáig fizeti meg.
-
 3.1.2. *
-
 3.2. A társasági adó
-
 3.2.1. * Az adózó a társasági adót, a megfizetett adóelőleg és az adóévre megállapított társasági adó különbözetét az adóévet követő év ötödik hónap utolsó napjáig fizeti meg, illetve ettől az időponttól igényelheti vissza.
-
 3.2.2. Az év közben átalakuló, illetve szétválás, egyesülés, beolvadás miatt vagy egyéb okból felszámolás nélkül megszűnő jogi személynek vagy egyéb szervezetnek az adóévben megfizetett adóelőleg és az átalakulás, illetve megszűnés időpontjáig számított tényleges társasági adó különbözetét az átalakulásról, illetve a megszűnésről benyújtott adóbevallásával egyidejűleg kell megfizetnie, illetve ettől az időponttól kezdődően igényelheti vissza.
-
 3.2.3. A Számv. tv.-ben meghatározottak szerint a mérlegben megadott adatoknál forintról devizára, devizáról más devizanemre, illetve devizáról forintra áttérő vállalkozó az adóévben megfizetett adóelőleg és az áttérés napjáig számított tényleges társasági adó különbözetét az áttérésről benyújtott adóbevallással egyidejűleg fizeti meg, illetve ettől az időponttól kezdődően igényelheti vissza.
-
 4. * Járulékok
-
 4.1. Társadalombiztosítási járulék, nyugdíjjárulék
-
 4.1.1. A munkáltató az általa levont társadalombiztosítási járulékot az elszámolt hónapot követő hó tizenkettedik napjáig,
-
 4.1.2. a kifizető az általa levont járulékot a kifizetés hónapját követő hó tizenkettedik napjáig,
-
 4.1.3. * a Tbj. 4. § 2. pontja szerinti egyéni vállalkozó a társadalombiztosítási járulékot negyedévente a tárgynegyedévet követő hónap tizenkettedik napjáig
-
 fizeti meg.
-
 4.2. A Tbj. 43. §-a alapján fizetendő egészségügyi szolgáltatási járulék
-
 A természetes személy a Tbj. 43. § (1) bekezdése alapján előírt járulékfizetési kötelezettségét a tárgyhót követő hónap 12. napjáig vagy az állami adó és vámhatóság által meghatározott időpontig teljesíti.
-
 5. Játékadó
-
 5.1. Az adózó – az 5.2. alpontban foglalt kivétellel – a játékadót a tárgyhót követő hó huszadik napjáig, a nem folyamatosan szervezett sorsolásos játék esetén a sorsolás napját követő hó huszadik napjáig vallja be és fizeti meg.
-
 5.2. A játékautomata éves adóját az adózó az erre vonatkozó bevallás benyújtásával egyidejűleg fizeti meg.
-
 6. Rehabilitációs hozzájárulás
-
 6.1. Az adózó a rehabilitációs célú hozzájárulásra a jogszabályban előírt módon számított előleget az I–III. negyedévben a negyedévet követő hó huszadik napjáig fizeti meg.
-
 6.2. A befizetett előlegek és az éves hozzájárulás különbözetét az adóévet követő év február huszonötödik napjáig kell megfizetni.
-
 7. Külön fel nem sorolt befizetések
-
 Az előzőekben fel nem sorolt adókat a jogszabályban megállapított módon és határidőben kell megfizetni. Ennek hiányában, ha törvény előlegfizetést ír elő, azt a tárgyhó huszonnyolcadik napjáig, az adót a tárgyhót követő hó huszadik napjáig, az adóévre megállapított adót az éves adóbevallással egyidejűleg kell megfizetni. A hatályon kívül helyezett jogszabályok alapján teljesítendő önellenőrzés során feltárt, helyesbített, illetve az adóhatóság által megállapított adót egyéb befizetés címén kell megfizetni, a költségvetési támogatást egyéb támogatás címén lehet visszaigényelni.
-
 8. * Belföldi gépjárművek adója
-
 Az adózó – az évközi adókötelezettség keletkezésének (változásának) kivételével – az adót a naptári évben egy alkalommal – végrehajtható okirat alapján – április hónap tizenötödik napjáig fizeti meg.
 
 II. * AZ ÖNKORMÁNYZATI ADÓHATÓSÁGHOZ TELJESÍTENDŐ BEFIZETÉSEK
@@ -3220,43 +3013,30 @@ II. * AZ ÖNKORMÁNYZATI ADÓHATÓSÁGHOZ TELJESÍTENDŐ BEFIZETÉSEK
 Általános rendelkezések
 
 Ha a helyi adóban az esedékes adó összege az ezer forintot nem éri el, akkor azt az adózónak kizárólag akkor kell megfizetnie, amikor a meg nem fizetett és a jövőben esedékessé váló adó együttes összege az ezer forintot eléri. Az ezer forintot el nem érő, korábban esedékessé vált adó után – az adónemben ezer forintot elérő adófizetési kötelezettség esedékességéig – késedelmi pótlék nem számítható fel.
-
 Az önkormányzati adóhatóság az adónemben túlfizetésként fennálló, ezer forintot el nem érő adót nem téríti vissza, azt a jövőben esedékes – az önkormányzati adóhatóságnál nyilvántartott – adóra, egyéb közteherre számolja el.
 
+A) Helyi adók
+
 1. Az adózó az állandó jellegű helyi iparűzési tevékenység utáni adóban
-
 a) az adóelőlegét az adóév harmadik hónapjának tizenötödik napjáig, valamint kilencedik hónapjának tizenötödik napjáig fizeti meg;
-
 b) *
-
 c) * a megfizetett adóelőleg, valamint az adóévre megállapított adó pozitív különbözetét az adóévet követő év ötödik hónapjának utolsó napjáig fizeti meg, illetve a túlfizetést ettől az időponttól igényelheti vissza.
-
 2. *
-
 3. Az adóbeszedésre kötelezett az általa beszedett, vagy beszedni elmulasztott idegenforgalmi adót az adóbevallás benyújtására nyitva álló határnapig fizeti meg.
-
 4. Az adózó – az adóról szóló önkormányzati rendelet évközi hatálybalépése esetét kivéve – az építményadót, telekadót, magánszemély kommunális adóját a naptári évben félévente, két egyenlő részletben – végrehajtható okirat alapján – március hónap tizenötödik napjáig, valamint szeptember hónap tizenötödik napjáig fizeti meg.
+
+B) *
 
 III. KÖLTSÉGVETÉSI TÁMOGATÁSOK
 
 1. Az állami adó- és vámhatóságtól a költségvetési támogatást az adózó ezer forintra kerekítve igényelheti.
-
 2. Ha a támogatást megállapító jogszabály eltérően nem rendelkezik,
-
 2.1. a havonta megállapított költségvetési támogatást az adózó havonta a tárgyhót követő hó huszadik napjától,
-
 2.2. a feltétel bekövetkeztéhez kötött költségvetési támogatást az előírt mellékletekkel ellátott bevallás benyújtása időpontjától
-
 igényelheti.
-
 3. Gyakoribb igénybevétel, egyszeri támogatási előleg
-
 3.1. Az adóhatóság az adózó igénylésére a költségvetési támogatásokat kiutalja, kérelemre azt indokolt esetben gyakrabban folyósítja, illetve a költségvetési támogatásra egyszeri támogatási előleg kiutalását engedélyezi.
-
 3.2. Ha az adóhatóság az adózó kérelmére gyakoribb (öt-tíz-tizenöt naponkénti) igénybevételt engedélyez, a hó közben igénybe vett előleg és a tárgyhónapra igényelhető tényleges támogatás különbözetét a tárgyhót követő hó huszadik napjától lehet igényelni, vagy eddig kell megfizetni. Az adóhatóság a gyakoribb igénybevételt engedélyező határozatát visszavonja, ha a határozat alapján igényelt előleg összege rendszeresen – egymást követő hat hónapon belül legalább három hónapban – legalább tíz százalékkal meghaladja a ténylegesen járó támogatás összegét.
-
 3.3. Egyszeri előleg igénybevételének engedélyezése esetén az igénybevétel lehetősége a tárgynegyedév első hónapjának huszadik napjától nyílik meg, és azt a tárgynegyedévet követő hónap huszadik napjáig kell visszafizetni.
-
 4. Adó-visszaigénylés, adó-visszatérítés
-
 A visszaigényelt általános forgalmi adó kiutalása az igény benyújtását követő hó utolsó napján esedékes, ha az adózó az általános forgalmi adónak nem alanya, de a beszerzéseit terhelő általános forgalmi adót visszaigényelheti, és nem kérte az Áfa tv. szerinti visszaigénylést. Egyebekben az adó visszaigénylésének, illetve visszatérítésének határidejére a 64. § (1)–(2) bekezdését kell alkalmazni.

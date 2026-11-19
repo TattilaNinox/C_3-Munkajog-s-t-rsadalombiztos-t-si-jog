@@ -66,7 +66,7 @@ A tételszám 56: a kiírás 1–56. tétele és a `jegyzetek/manifest.json` sor
 ## S2 – korpuszcsere a letöltött jogszabályokból (2026-11-19, központi chat)
 
 - **Cserélve és ellenőrizve (19):** a C3 mappa 20 fájljából 19; a Pp., a Vht. és a Ptk. az A/2 ellenőrzött fájljára cserélve.
-- **Még cserélendő (1) – a letöltött fájl a 2027.01.01-i időállapot:** Art. (hatályos: 2026.10.01–2026.12.31.). A korpuszban a régi fájl maradt.
+- **Jövőbeli időállapottal cserélve (Attila döntése, 2026-11-19 18:00; szakaszonként ellenőrizve):** Art. (2027.01.01-i időállapot).
 - **Módszer:** Attila letöltése (net.jogtar.hu, mentett oldal) → átalakítás a korpusz szokása szerint → szakaszonkénti (20-as csoportokban mért) ujjlenyomat-összevetés a 2026.12.09-én hatályos időállapottal; csak az került a korpuszba, ahol az eltérő csoportok száma 0. A `korpusz/manifest.json` érintett sorai: új méret és sha256, `idoallapot`, `hatalyossag.jogallapot: 2026-12-09`. **A cserélt fájlok a Storage-ba még feltöltendők (S8).**
 - **Közös készlet KE-2** (admin-commit `0cb4b3b`) szinkronizálva; a dobozok a cserélt korpuszból újraépítve (`doboz_javit.py --sor --ir`), a második futás: `módosítandó doboz: 0`.
 - `alapfelvetel: tétel 56, feloldott 466, feloldatlan 1, hiba 0` (39. tétel: „Eljárási és Magatartási Kódexe I–III. rész” – forrás-beállítás kell)
