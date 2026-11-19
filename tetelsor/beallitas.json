@@ -1,0 +1,529 @@
+{
+ "sema": 1,
+ "azon": "c3",
+ "cim": "C/3 – Munkajog és társadalombiztosítási jog",
+ "kategoria": "C/3 Munkajog és társadalombiztosítási jog",
+ "tetelDb": 56,
+ "foKodex": "Mt",
+ "kiiras": {
+  "fajl": "tetelsor/kiiras_2026.txt",
+  "pdf": "tetelsor/C3_kiiras_2026.pdf",
+  "ev": 2026
+ },
+ "jogallapot": "2026-12-09",
+ "apiKeretUsd": 60,
+ "megjegyzes": "S0/S1 beállítás (2026-11-19). A forrasok a kiírás §-os és cikkes hivatkozásait a korpusz fájljaihoz kötik ('mintak': a kiírásban használt megnevezések regexei; a kiírás a törvényeket többnyire 'ÉÉÉÉ. évi N. törvény a …ról' alakban nevezi meg, a zárójeles rövidítést a teljes név mintája fogja át, ezért a rövidítésminta (?<![\\w(]) előtaggal kezdődik). Az 52. tétel pont nélküli rövidítései (Kit, Kttv, Küt, Hjt, Hszt, Hajtv, Nav Szjtv.) miatt a Kit/Kttv/Küt minta a pontot, ennek hiányában a vesszőt várja. Átfogó: csak az Mt. (a kiírás bevezetője); a fejezeti bevezetők (közszféra: Kit., Kttv., Kjt., Küt.; tb: Tbj., 883/2004/EK, 987/2009/EK) fejezetszintű átfogó előírását a beállítás nem tudja kifejezni (ALLAPOT.md, Központi teendő). A határozatokat, rendeleteket, uniós aktusokat és EUB-ügyeket a hatarozatMod 'altalanos' a fájlnévből oldja fel. Ami a C/3-ban még nem ismert (kiejtes, kommentar, mintaTetelek, rt2Alap, hangAlapAgak, emlites), üres vagy null. A két rendelet (115/2021. Korm. r., 33/1998. NM r.) azért szerepel a forrasok között, mert a kiírás §-sal hivatkozik rájuk, és nélkülük §-aik a megelőző törvényhez (Fszftv., Mvt.) kerülnének. A 4. tétel két ILO-egyezményét a kiírás 'kihirdetve … törvénnyel' alakban nevezi meg, amelyet az általános mód nem ismer fel, ezért forrasok-minta köti őket. Az 50. tételben a Kjt. teljes nevének és az 1992. évi XXIII. törvénynek (Ktv.) a mintája választja el az AB-határozatok címében említett §-okat, hogy ne az Mt.-hez kerüljenek.",
+ "hatarozatMod": "altalanos",
+ "forrasok": [
+  {
+   "kod": "Mt",
+   "nev": "2012. évi I. törvény a munka törvénykönyvéről",
+   "mintak": [
+    "(?<![\\w(])Mt\\.",
+    "2012\\. évi I\\. törvény(?: \\(Mt\\.\\))?"
+   ],
+   "fajlKezdet": "Mt. (új) - 2012. évi I. törvény",
+   "egyseg": "§",
+   "atfogo": true
+  },
+  {
+   "kod": "Alaptv",
+   "nev": "Magyarország Alaptörvénye",
+   "mintak": [
+    "Alaptörvény"
+   ],
+   "fajlKezdet": "Alaptörvény",
+   "egyseg": "romaiCikk"
+  },
+  {
+   "kod": "ILO138",
+   "nev": "2000. évi LXIX. törvény a foglalkoztatás alsó korhatáráról szóló 138. számú ILO-egyezmény kihirdetéséről",
+   "mintak": [
+    "2000\\. évi LXIX\\. törvén(?:y|nyel)"
+   ],
+   "fajlKezdet": "2000. évi LXIX. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "ILO182",
+   "nev": "2001. évi XXVII. törvény a gyermekmunka legrosszabb formáiról szóló 182. számú ILO-egyezmény kihirdetéséről",
+   "mintak": [
+    "2001\\. évi XXVII\\. törvén(?:y|nyel)"
+   ],
+   "fajlKezdet": "2001. évi XXVII. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Ebktv",
+   "nev": "2003. évi CXXV. törvény az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról",
+   "mintak": [
+    "2003\\. évi CXXV\\. törvény"
+   ],
+   "fajlKezdet": "Ebktv. - 2003. évi CXXV. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Fot",
+   "nev": "1998. évi XXVI. törvény a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról",
+   "mintak": [
+    "1998\\. évi XXVI\\. törvény"
+   ],
+   "fajlKezdet": "Fot. - 1998. évi XXVI. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Ptk",
+   "nev": "2013. évi V. törvény a Polgári Törvénykönyvről",
+   "mintak": [
+    "2013\\. évi V\\. törvény"
+   ],
+   "fajlKezdet": "Ptk. (új) - 2013. évi V. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Infotv",
+   "nev": "2011. évi CXII. törvény az információs önrendelkezési jogról és az információszabadságról",
+   "mintak": [
+    "2011\\. évi CXII\\. törvény"
+   ],
+   "fajlKezdet": "Info tv. - 2011. évi CXII. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Pp",
+   "nev": "2016. évi CXXX. törvény a polgári perrendtartásról",
+   "mintak": [
+    "2016\\. évi CXXX\\. törvény"
+   ],
+   "fajlKezdet": "Pp. (új) - 2016. évi CXXX. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Fszftv",
+   "nev": "2020. évi CXXXV. törvény a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről",
+   "mintak": [
+    "2020\\. évi CXXXV\\. törvény"
+   ],
+   "fajlKezdet": "2020. évi CXXXV. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Cstv",
+   "nev": "1991. évi XLIX. törvény a csődeljárásról és a felszámolási eljárásról",
+   "mintak": [
+    "1991\\. évi XLIX\\. törvény"
+   ],
+   "fajlKezdet": "Csődtv. - 1991. évi XLIX. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Art",
+   "nev": "2017. évi CL. törvény az adózás rendjéről",
+   "mintak": [
+    "2017\\. évi CL\\. törvény"
+   ],
+   "fajlKezdet": "Art. (új) - 2017. évi CL. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Mvt",
+   "nev": "1993. évi XCIII. törvény a munkavédelemről",
+   "mintak": [
+    "1993\\. évi XCIII\\. törvény"
+   ],
+   "fajlKezdet": "Munkavéd. tv. - 1993. évi XCIII. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Csvt",
+   "nev": "2011. évi CCXI. törvény a családok védelméről",
+   "mintak": [
+    "2011\\. évi CCXI\\. törvény"
+   ],
+   "fajlKezdet": "Csvt. - 2011. évi CCXI. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Taktv",
+   "nev": "2009. évi CXXII. törvény a köztulajdonban álló gazdasági társaságok takarékosabb működéséről",
+   "mintak": [
+    "2009\\. évi CXXII\\. törvény"
+   ],
+   "fajlKezdet": "2009. évi CXXII. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Apbtv",
+   "nev": "2009. évi LXXIV. törvény az ágazati párbeszéd bizottságokról és a középszintű szociális párbeszéd egyes kérdéseiről",
+   "mintak": [
+    "2009\\. évi LXXIV\\. törvény"
+   ],
+   "fajlKezdet": "2009. évi LXXIV. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Vmtv",
+   "nev": "2020. évi LVIII. törvény a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről",
+   "mintak": [
+    "2020\\. évi LVIII\\. törvény"
+   ],
+   "fajlKezdet": "2020. évi LVIII. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Ebtv",
+   "nev": "1997. évi LXXXIII. törvény a kötelező egészségbiztosítás ellátásairól",
+   "mintak": [
+    "(?<![\\w(])Ebtv\\.",
+    "1997\\. évi LXXXIII\\. törvény"
+   ],
+   "fajlKezdet": "Ebtv. - 1997. évi LXXXIII. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Cst",
+   "nev": "1998. évi LXXXIV. törvény a családok támogatásáról",
+   "mintak": [
+    "1998\\. évi LXXXIV\\. törvény"
+   ],
+   "fajlKezdet": "Cst. - 1998. évi LXXXIV. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Hjt",
+   "nev": "2012. évi CCV. törvény a honvédek jogállásáról",
+   "mintak": [
+    "2012\\. évi CCV\\. törvény",
+    "\\bHjt\\b"
+   ],
+   "fajlKezdet": "2012. évi CCV. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Vht",
+   "nev": "1994. évi LIII. törvény a bírósági végrehajtásról",
+   "mintak": [
+    "1994\\. évi LIII\\. törvény"
+   ],
+   "fajlKezdet": "Vht. - 1994. évi LIII. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Kozvtv",
+   "nev": "2002. évi LV. törvény a közvetítői tevékenységről",
+   "mintak": [
+    "2002\\. évi LV\\. törvény"
+   ],
+   "fajlKezdet": "Közvetítői tv. - 2002. évi LV. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Vbt",
+   "nev": "2017. évi LX. törvény a választottbíráskodásról",
+   "mintak": [
+    "2017\\. évi LX\\. törvény"
+   ],
+   "fajlKezdet": "Vbt. (új) - 2017. évi LX. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Aht",
+   "nev": "2011. évi CXCV. törvény az államháztartásról",
+   "mintak": [
+    "2011\\. évi CXCV\\. törvény"
+   ],
+   "fajlKezdet": "Áht. - 2011. évi CXCV. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Efotv",
+   "nev": "2010. évi LXXV. törvény az egyszerűsített foglalkoztatásról",
+   "mintak": [
+    "2010\\. évi LXXV\\. törvény"
+   ],
+   "fajlKezdet": "Efo. tv. - 2010. évi LXXV. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Kit",
+   "nev": "2018. évi CXXV. törvény a kormányzati igazgatásról",
+   "mintak": [
+    "(?<![\\w(])Kit(?:\\.|(?=,))",
+    "2018\\. évi CXXV\\. törvény"
+   ],
+   "fajlKezdet": "Kit. - 2018. évi CXXV. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Kttv",
+   "nev": "2011. évi CXCIX. törvény a közszolgálati tisztviselőkről",
+   "mintak": [
+    "(?<![\\w(])Kttv(?:\\.|(?=,))",
+    "2011\\. évi CXCIX\\. törvény"
+   ],
+   "fajlKezdet": "Kttv. - 2011. évi CXCIX. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Kjt",
+   "nev": "1992. évi XXXIII. törvény a közalkalmazottak jogállásáról",
+   "mintak": [
+    "(?<![\\w(])Kjt\\.",
+    "1992\\. évi XXXIII\\. törvény"
+   ],
+   "fajlKezdet": "Kjt. - 1992. évi XXXIII. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Ktv",
+   "nev": "1992. évi XXIII. törvény a köztisztviselők jogállásáról",
+   "mintak": [
+    "1992\\. évi XXIII\\. törvény"
+   ],
+   "fajlKezdet": "1992. évi XXIII. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Kut",
+   "nev": "2019. évi CVII. törvény a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról",
+   "mintak": [
+    "(?<![\\w(])Küt(?:\\.|(?=,))",
+    "2019\\. évi CVII\\. törvény"
+   ],
+   "fajlKezdet": "Küt. - 2019. évi CVII. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Kp",
+   "nev": "2017. évi I. törvény a közigazgatási perrendtartásról",
+   "mintak": [
+    "(?<![\\w(])Kp\\."
+   ],
+   "fajlKezdet": "Kp. - 2017. évi I. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Hszt",
+   "nev": "2015. évi XLII. törvény a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról",
+   "mintak": [
+    "\\bHszt\\b"
+   ],
+   "fajlKezdet": "Hszt. (új) - 2015. évi XLII. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Hajtv",
+   "nev": "2018. évi CXIV. törvény a honvédelmi alkalmazottak jogállásáról",
+   "mintak": [
+    "\\bHajtv\\b"
+   ],
+   "fajlKezdet": "Haj. tv. - 2018. évi CXIV. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "NAVSzjtv",
+   "nev": "2020. évi CXXX. törvény a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról",
+   "mintak": [
+    "Nav Szjtv\\."
+   ],
+   "fajlKezdet": "2020. évi CXXX. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Tbj",
+   "nev": "2019. évi CXXII. törvény a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről",
+   "mintak": [
+    "(?<![\\w(])Tbj\\.",
+    "2019\\. évi CXXII\\. törvény"
+   ],
+   "fajlKezdet": "Tbj. (új) - 2019. évi CXXII. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Tny",
+   "nev": "1997. évi LXXXI. törvény a társadalombiztosítási nyugellátásról",
+   "mintak": [
+    "(?<![\\w(])Tny\\.",
+    "1997\\. évi LXXXI\\. törvény"
+   ],
+   "fajlKezdet": "Tny. - 1997. évi LXXXI. törvény",
+   "egyseg": "§"
+  },
+  {
+   "kod": "Fhr",
+   "nev": "115/2021. (III. 10.) Korm. rendelet a foglalkoztatás-felügyeleti hatóság tevékenységéről",
+   "mintak": [
+    "115/2021\\. \\(III\\. 10\\.\\) Korm\\. rendelet"
+   ],
+   "fajlKezdet": "115_2021. (III. 10.) Korm. rendelet",
+   "egyseg": "§"
+  },
+  {
+   "kod": "NMr33",
+   "nev": "33/1998. (VI. 24.) NM rendelet a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről",
+   "mintak": [
+    "33/1998\\. \\(VI\\. 24\\.\\) NM rendelet"
+   ],
+   "fajlKezdet": "33_1998. (VI. 24.) NM rendelet",
+   "egyseg": "§"
+  }
+ ],
+ "targyKod": "szakvizsga_c3",
+ "celag": "termekek-c3",
+ "parMinta": "egyszeru",
+ "dobozRovidites": [
+  [
+   "Mt\\.",
+   "Mt"
+  ],
+  [
+   "Ptk\\.",
+   "Ptk"
+  ],
+  [
+   "Kit\\.",
+   "Kit"
+  ],
+  [
+   "Tbj\\.",
+   "Tbj"
+  ],
+  [
+   "Tny\\.",
+   "Tny"
+  ],
+  [
+   "Kttv\\.",
+   "Kttv"
+  ],
+  [
+   "Pp\\.",
+   "Pp"
+  ],
+  [
+   "Ebtv\\.",
+   "Ebtv"
+  ],
+  [
+   "Kjt\\.",
+   "Kjt"
+  ],
+  [
+   "Ebktv\\.",
+   "Ebktv"
+  ],
+  [
+   "Efo\\. tv\\.",
+   "Efotv"
+  ],
+  [
+   "Közvetítői tv\\.",
+   "Kozvtv"
+  ],
+  [
+   "Csvt\\.",
+   "Csvt"
+  ],
+  [
+   "Vht\\.",
+   "Vht"
+  ],
+  [
+   "Mvt\\.",
+   "Mvt"
+  ],
+  [
+   "Info tv\\.",
+   "Infotv"
+  ],
+  [
+   "Fszftv\\.",
+   "Fszftv"
+  ],
+  [
+   "Ápbtv\\.",
+   "Apbtv"
+  ],
+  [
+   "Kp\\.",
+   "Kp"
+  ],
+  [
+   "Art\\.",
+   "Art"
+  ],
+  [
+   "Cst\\.",
+   "Cst"
+  ],
+  [
+   "Fot\\.",
+   "Fot"
+  ],
+  [
+   "Hjt\\.",
+   "Hjt"
+  ],
+  [
+   "Cstv\\.",
+   "Cstv"
+  ],
+  [
+   "Áht\\.",
+   "Aht"
+  ],
+  [
+   "Vbt\\.",
+   "Vbt"
+  ],
+  [
+   "2009\\. évi CXXII\\. törvény",
+   "Taktv"
+  ],
+  [
+   "2020\\. évi CXXXV\\. törvény",
+   "Fszftv"
+  ],
+  [
+   "Ktv\\.",
+   "Ktv"
+  ],
+  [
+   "At\\. Alaptörvény",
+   "Alaptv"
+  ],
+  [
+   "Alaptörvény",
+   "Alaptv"
+  ]
+ ],
+ "beagyazott": {},
+ "kiejtes": {},
+ "mondatRovidites": [],
+ "jogszabalyRovidites": [],
+ "kontroll": {
+  "jelzok": {},
+  "iranymutatasRx": "(?!)",
+  "paragrafusForrasok": [
+   "Mt"
+  ]
+ },
+ "kiirasRovidites": {},
+ "biroRx": "(?!)",
+ "kommentar": null,
+ "mintaTetelek": null,
+ "rt2Alap": null,
+ "hangAlapAgak": [],
+ "emlites": {},
+ "elhatarolasPar": "Mt\\. \\d+(?:/[A-Z])?\\. §",
+ "rt2PontKivetel": [],
+ "regiAuditFoMinta": "",
+ "regiAuditKod": [],
+ "kiirasElirasok": {
+  "kihagy": [
+   "95/46/EK",
+   "2010/18/EU"
+  ],
+  "megfeleltet": {}
+ }
+}

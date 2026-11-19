@@ -1,0 +1,7 @@
+<!DOCTYPE html><html><body><iframe id="f" src="/szakvizsga/termekek.html" style="width:900px;height:700px"></iframe>
+<script>
+window.uzenetek=[];
+window.addEventListener('message',function(ev){ if(ev.origin!==location.origin||!ev.data||ev.data.source!=='szakvizsga-termekek')return; window.uzenetek.push(ev.data);
+ if(ev.data.type==='hang-keres'){ document.getElementById('f').contentWindow.postMessage({source:'szakvizsga-termekek-szulo',type: /^audio\/.+\.mp3$/.test(ev.data.path)?'hang-url':'hang-hiba',kerelem:ev.data.kerelem,url:location.origin+'/proba.mp3'},location.origin); }
+ if(ev.data.type==='kesz'){ fetch('/csomag.json').then(r=>r.json()).then(a=>document.getElementById('f').contentWindow.postMessage({source:'szakvizsga-termekek-szulo',type:'csomag',adat:a,mod:'admin',nezet:{tetel:38,ful:'fa'}},location.origin)); }});
+</script></body></html>
