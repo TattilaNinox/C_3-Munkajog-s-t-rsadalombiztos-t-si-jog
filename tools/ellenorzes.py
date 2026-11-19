@@ -64,7 +64,7 @@ def emlitett_paragrafusok(txt, kod):
         rx = EMLITES.get(kod) or '|'.join(r for r, k in kozos.DOBOZ_RÖVIDITES if k == kod)
         if not rx:
             return out
-        az = r'(\d+|[IVXLC]+|[A-Z]\))'
+        az = r'(\d+[a-z]?|[IVXLC]+|[A-Z]\))'      # a betűs cikkszám („4a. cikk”) is önálló cikk (KE-3/3)
         for sor in txt.split('\n'):
             if not re.search(rx, sor):
                 continue

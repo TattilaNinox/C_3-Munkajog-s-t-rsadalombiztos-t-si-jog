@@ -15,13 +15,16 @@ import kozos
 import vazlat_gyart as v
 
 
-def blokkok(n):
-    return blokkok_sorral(n)[0]
+def blokkok(n, kihagyott=None):
+    return blokkok_sorral(n, kihagyott)[0]
 
 
-def blokkok_sorral(n):
+def blokkok_sorral(n, kihagyott=None):
     """(blokkok, sorindexek): a blokkok mellett mindegyik kezdősorának indexe a tétel szövegének soraiban
-    (a jegyzet-HTML a blokkokat ezen át rendeli a hangdokumentumok darabjaihoz: tools/jegyzet_html.py)."""
+    (a jegyzet-HTML a blokkokat ezen át rendeli a hangdokumentumok darabjaihoz: tools/jegyzet_html.py).
+    kihagyott (KE-3/6): ha a hívó listát ad át, a még le nem gyártott termék (termekek/paragrafus_jegyzek/NN.json,
+    termekek/hangos_vazlat/NN.json) elleni ellenőrzés kimarad, és a hiányzó fájl útja a listába kerül; lista nélkül
+    (alapérték) a hiányzó termék hiba, mint eddig."""
     txt = kozos.tetel_szoveg(n); L = [l.strip() for l in txt.split('\n')]
     doboz = set(); fej = {}
     H = [i for i, l in enumerate(L) if kozos.doboz_fej(l)]
@@ -54,14 +57,22 @@ def blokkok_sorral(n):
         if re.match(r'^[a-z]\) [' + NAGY + ']', l) and not re.search(r'[.;,:]$', l) and len(l) < 120:
             out.append(['a', l]); continue
         out.append(['p', re.sub(r'^[-–•]\s+', '', l)])
-    pj = json.load(open(os.path.join(kozos.GYOKER, 'termekek', 'paragrafus_jegyzek', f'{n:02d}.json'), encoding='utf-8'))['elemek']
-    if di != len(pj):
-        raise SystemExit(f'{n}. tétel: a dobozok száma ({di}) eltér a §-jegyzéktől ({len(pj)})')
+    pj_ut = os.path.join(kozos.GYOKER, 'termekek', 'paragrafus_jegyzek', f'{n:02d}.json')
+    if kihagyott is not None and not os.path.isfile(pj_ut):
+        kihagyott.append(os.path.relpath(pj_ut, kozos.GYOKER))
+    else:
+        pj = json.load(open(pj_ut, encoding='utf-8'))['elemek']
+        if di != len(pj):
+            raise SystemExit(f'{n}. tétel: a dobozok száma ({di}) eltér a §-jegyzéktől ({len(pj)})')
     if fedett != sum(1 for l in L if l):
         raise SystemExit(f'{n}. tétel: a blokkok nem fedik le a teljes szöveget')
     # a főcímek egyeznek a hangos vázlat főpontjainak címével
     fc = [b[1] for b in out if b[0] == 'f']
-    vf = [f['cim'] for f in json.load(open(os.path.join(kozos.GYOKER, 'termekek', 'hangos_vazlat', f'{n:02d}.json'), encoding='utf-8'))['fopontok'] if f.get('cim')]
+    hv_ut = os.path.join(kozos.GYOKER, 'termekek', 'hangos_vazlat', f'{n:02d}.json')
+    if kihagyott is not None and not os.path.isfile(hv_ut):
+        kihagyott.append(os.path.relpath(hv_ut, kozos.GYOKER))
+        return out, ix
+    vf = [f['cim'] for f in json.load(open(hv_ut, encoding='utf-8'))['fopontok'] if f.get('cim')]
     if any(c not in fc for c in vf):
         raise SystemExit(f'{n}. tétel: a vázlat főpontcíme nincs a tétel főcímei között')
     return out, ix

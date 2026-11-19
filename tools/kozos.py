@@ -80,7 +80,7 @@ def egyseg(kod):
             p = korpusz_fajl(f['korpusz'][0]) if f.get('korpusz') else None
             if p:
                 t = open(p, encoding='utf-8').read()
-                c = len(re.findall(r'(?mi)^\s*\d+\. cikk\b', t)); par = len(re.findall(r'(?m)^\s*\d+(?::\d+)?(?:/[A-Z])?\. §', t))
+                c = len(re.findall(r'(?mi)^\s*\d+(?-i:[a-z])?\. cikk\b', t)); par = len(re.findall(r'(?m)^\s*\d+(?::\d+)?(?:/[A-Z])?\. §', t))
                 _EGYSEG[kod] = 'cikk' if c > par else '§'
         except (OSError, ValueError, KeyError):
             pass
@@ -125,7 +125,7 @@ def _konyves_korpusz(kod):
 _B = beallitas()
 DOBOZ_RÖVIDITES = [(minta, kod) for minta, kod in _B['dobozRovidites']]
 BEAGYAZOTT = {kod: tuple(par) for kod, par in _B['beagyazott'].items()}
-PAR = r'(\d+(?::\d+)?(?:/[A-Z])?|[IVXLC]+|[A-Z]\))'
+PAR = r'(\d+(?::\d+)?(?:/[A-Z])?|\d+[a-z](?=\.)|[IVXLC]+|[A-Z]\))'     # „4a. cikk”: betűs cikkszám (KE-3/3)
 # Az uniós jogi aktus preambulumbekezdése is doboz: „2005/36/EK irányelv (1) preambulumbekezdés” – a 4. csoport a
 # preambulumbekezdés száma, az egység azonosítója 'preambulum' (a korpuszban az első cikk előtti szöveg).
 FEJLEC = re.compile(r'^(' + '|'.join(r for r, _ in DOBOZ_RÖVIDITES) + r')\s*(?:' + PAR + r'(?:\.|(?<=\)))\s?(§|[Cc]ikk)' + BEKEZDES
@@ -154,7 +154,7 @@ def fejlec_kod(m):
     if e == '§':
         ok = jel == '§' and re.fullmatch(r'\d+(?::\d+)?(?:/[A-Z])?', azon)
     elif e == 'cikk':
-        ok = jel == 'cikk' and azon.isdigit()
+        ok = jel == 'cikk' and re.fullmatch(r'\d+[a-z]?', azon)       # „4a. cikk” is (KE-3/3)
     else:
         ok = jel == 'cikk'
     return (kod, azon) if ok else (None, None)
@@ -236,6 +236,26 @@ def egyseg_sor(s, e):
     """A korpuszsor egységfeje (match) – az alapfelvetel.egyseg_sor szabálya (egy helyen megírva)."""
     import alapfelvetel
     return alapfelvetel.egyseg_sor(s, e)
+
+
+def zaro_cimek_le(sorok, cimsor):
+    """A § (cikk) sorai a végén álló szerkezeti címsorok nélkül (a következő egység címe: „II. FEJEZET”, „A bíróság
+    hatásköre”, puszta „133/C.”, hatályon kívül helyezett puszta „c)”, oldalláb-URL). A cimsor() a hívó szabálya (záró írásjel
+    nélküli sor). KE-3/2: a pont nélkül végződő utolsó bekezdés tördelt folytatósora NEM cím – ha a sor kisbetűvel kezdődik,
+    és az előtte álló sor nem zárul mondatzáró írásjellel (vesszővel, szóval végződik), a sor a bekezdés része, és a vágás
+    itt megáll (EUMSZ 125. cikk (2) bekezdés: „… konzultációt” / „követően …” / „… fogalmakat”); a „Kelt …” záróformula
+    utáni aláírássor („a Tanács részéről”, „az elnök”) nem folytatósor. Egy helyen megírva: az
+    s5/doboz_javit.csoportok és a doboz_teljesseg.bekezdesek_sorokbol is ezt használja."""
+    sorok = list(sorok)
+    alairas = any(re.match(r'^Kelt \S', x.strip()) for x in sorok)     # az uniós aktus záróformulája után aláírás áll
+    while sorok and cimsor(sorok[-1]):
+        l = sorok[-1].strip()
+        elozo = sorok[-2].strip() if len(sorok) > 1 else ''
+        if (re.match(r'^[a-záéíóöőúüű]', l) and not re.match(r'^[a-z]{1,2}\)', l) and not re.match(r'^https?://', l)
+                and not alairas and elozo and not re.search(r'[.;:!?…\]]["”’)]*\s*\*?$|\bs\.\s?k\.,?$', elozo)):
+            break
+        sorok.pop()
+    return sorok
 
 
 def jogszabaly_sorok(kod, fajl):
@@ -369,7 +389,7 @@ def dobozok(txt):
             if not sorok:
                 if not normasor(s) and re.match(r'^([IVX]+|\d+)\. [A-ZÁÉÍÓÖŐÚÜŰ]', s):
                     break
-                sorok.append(re.sub(r'^(?:\d+(?::\d+)?(?:/[A-Z])?\. §|(?:\d+|[IVXLC]+)\. [Cc]ikk|[A-Z]\) [Cc]ikk)\s*', '', s)); j += 1; continue
+                sorok.append(re.sub(r'^(?:\d+(?::\d+)?(?:/[A-Z])?\. §|(?:\d+[a-z]?|[IVXLC]+)\. [Cc]ikk|[A-Z]\) [Cc]ikk)\s*', '', s)); j += 1; continue
             if not normasor(s):
                 if len(sorok) == 1 and (sorok[0].startswith('[') and sorok[0].endswith(']')
                                         or re.fullmatch(r'\((?!\d+[a-z]?\))[^\n]*\)', sorok[0])):

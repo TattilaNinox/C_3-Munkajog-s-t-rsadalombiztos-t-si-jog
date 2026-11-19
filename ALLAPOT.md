@@ -81,3 +81,9 @@ A tételszám 56: a kiírás 1–56. tétele és a `jegyzetek/manifest.json` sor
 - 25., 52. tétel: 2012. évi CCV. tv. – Hjt. (hatálytalan 2024.07.01., 2024. évi XX. tv. 31. §) → **137/2024. (VI. 28.) Korm. r.** a honvédek jogállásáról (Hjkr.).
 - 50. tétel: az 1992. évi XXIII. tv. (Ktv.) csak egy AB-határozat címében szerepel – nincs teendő.
 - A három új rendelet a korpuszban (net.jogtar.hu, szakaszonként ellenőrizve: eltérés 0). **A `beallitas.json` megfeleltetése (`tetelForras`) a KE-3 készletjavítás után következik** (központi chat).
+
+## Közös készlet KE-3 (2026-11-19, központi chat)
+
+- Szinkronizálva (admin-commit `9ceab3a`): új `tools/s5/doboz_beszur.py` (doboz beszúrása a korpuszból), a `kontroll.py` minden forrás §/cikk-hivatkozását ellenőrzi és termékek nélkül is fut, betűs cikkszám, táblasor nem cikkfej, kihagyott megnevezés, záró sor levágása javítva.
+- `alapfelvetel: tétel 56, feloldott 467, feloldatlan 1, hiba 0` | `dobozok: 915, eltérés: 1; hiányzó forrás: []; lefedettségi hiány: 104 elem 34 tételben` | `hiányos bekezdés: 1`
+- A 21., 25., 26., 34., 52. tétel a kiírás hatályon kívül helyezett jogszabálya helyett a hatályosra épül (`tetelForras`: 10/2025. NGM r., 426/2025. Korm. r., 137/2024. Korm. r.; Attila döntése 2026-11-19 18:44).

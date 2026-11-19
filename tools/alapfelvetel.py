@@ -90,13 +90,30 @@ def egyseg_sor(s, egyseg):
     """A korpuszsor egységfeje-e (match, group(1) = az egység azonosítója), vagy None. EGYETLEN szabály: az alapfelvétel
     indexe, a kozos.jogszabaly_paragrafusok (ellenorzes, doboz_teljesseg, kontroll) és az s5/doboz_javit is ezt használja.
     - '§': egyszerű („36/D”) és könyv:§ („6:105”) számozás – forrásonként, nem tételsoronként;
-    - 'cikk': „12. cikk”, „6. Cikk – …” (kis- és nagybetű);
+    - 'cikk': „12. cikk”, „6. Cikk – …” (kis- és nagybetű), a betűs cikkszám is („4a. cikk”, „12b. cikk”: KE-3/3);
+      nem cikkfej a táblázatsor („| 2. cikk | 4. cikk”) és a megfelelési tábla sora („288. cikk 340. cikk”, „4. cikk
+      (áthelyezve) 119. cikk”, „3. cikk, (2) bekezdés 8. cikk”): KE-3/4;
     - 'romaiCikk': az Alaptörvény betűs (A)–U)), római és arab számú cikkei (a sor csak a cikkfej)."""
+    if s[:1] == '|' or s.lstrip()[:2] == '| ':
+        return None
     if egyseg == '§':
         return re.match(r'^(\d+(?::\d+)?(?:/[A-Z])?)\. §', s)
     if egyseg == 'cikk':
-        return re.match(r'^(\d+)\. cikk\b', s, re.I)
+        m = re.match(r'^(\d+(?-i:[a-z])?)\. cikk\b', s, re.I)
+        return None if m and megfelelesi_sor(s[m.end():]) else m
     return re.match(r'^([IVXLC]+)\. cikk\s*\*?\s*$', s) or re.match(r'^(\d+)\. cikk\s*\*?\s*$', s) or re.match(r'^([A-Z]\))\s*cikk\s*\*?\s*$', s)
+
+
+_MEGF_SZO = r'(?:bekezdés|albekezdés|pont|alpont|mondat|bevezető|szöveg|első|második|harmadik|negyedik|ötödik|és|\d+[a-z]?\.|[a-z]{1,2}\)|[–-]|,)'
+
+
+def megfelelesi_sor(maradek):
+    """A cikkfej utáni maradék a megfelelési tábla második oszlopa-e: a zárójeles megjegyzések („(áthelyezve)”,
+    „(felváltva) (32)”) és a bekezdés-, pontmegjelölés után újabb cikkmegjelölés áll („288. cikk 340. cikk”). A cikkfej
+    utáni cím vagy szöveg, amely más cikket említ („48. cikk (korábbi 49. cikk) – Az EKB …”, „10. cikk Az Alaptörvény
+    4. cikk (3) bekezdés …”), nem ilyen."""
+    r = re.sub(r'\([^)]*\)', ' ', maradek)
+    return re.match(r'^\s*(?:' + _MEGF_SZO + r'\s*)*\d+[a-z]?(?:\s*[–-]\s*\d+[a-z]?)?\.\s*cikk\b', r, re.I) is not None
 
 
 def egyseg_index(fajl, egyseg):
@@ -355,13 +372,14 @@ _FK = None
 _ELSO = {}
 
 
-def hatarozatok_altalanos(szoveg, fajlok):
+def hatarozatok_altalanos(szoveg, fajlok, kihagy=()):
     """Általános feloldás (beallitas.json: "hatarozatMod": "altalanos"): a kiírás minden nem §-os forrása
     (AB határozat, jogegységi határozat, kollégiumi vélemény, közzétett eseti döntés, rendelet, uniós jogi aktus,
     EUB-ügy és -vélemény, kúriai ügyszám, törvény teljes megnevezéssel) a korpuszfájlok nevéből és első sorából képzett
     kulcsokhoz kötve (korpusz_felmeres.py). Vissza: [(megnevezés, kulcs, fájl vagy None, [minden jelölt fájl], kezdet, vég)]
     – a hely a szöveg kf.lapit() alakjában értendő (ez a tétel szövegével azonos hosszú). A beállítás "forrasok" mintái
-    által lefedett fájlokat a hívó kiszűri (ha bármelyik jelölt ilyen)."""
+    által lefedett fájlokat a hívó kiszűri (ha bármelyik jelölt ilyen). A kihagy megnevezései (kiirasElirasok.kihagy)
+    'kihagyva' jellel, fájl nélkül jönnek vissza, és a fájlt nem foglalják le (KE-3/1)."""
     global _FK
     import korpusz_felmeres as kf
     if _FK is None:
@@ -370,7 +388,7 @@ def hatarozatok_altalanos(szoveg, fajlok):
             elso = next((l for l in be('korpusz/' + f)[:3000].split('\n') if l.strip()), '')[:300]
             _ELSO[f] = elso
             nev = re.sub(r'\.txt$', '', f)
-            _FK[f] = kf.fajl_kulcsok(nev) | kf.fajl_kulcsok(elso) | {k for k, _ in kf.hivatkozasok(kf.lapit(nev.replace('_', '/')))} | {k for k, _ in kf.hivatkozasok(kf.lapit(elso))}
+            _FK[f] = kf.fajl_kulcsok(nev) | kf.fajl_kulcsok(elso) | {k for k, _ in kf.hivatkozasok(kf.lapit(nev.replace('_', '/')))} | kf.elso_sor_kulcsok(elso)
     # azonos megnevezés és hely több kulccsal (tartományos EUB-ügyszám): egy hivatkozás, a jelöltek uniójával
     csop = {}
     for kulcs, nev, a, b in kf.hivatkozasok_hely(kf.lapit(szoveg)):
@@ -379,6 +397,9 @@ def hatarozatok_altalanos(szoveg, fajlok):
         csop.setdefault((nev, a, b), []).append(kulcs)
     ki, latott = [], set()
     for (nev, a, b), kulcsok in sorted(csop.items(), key=lambda x: x[0][1]):
+        if nev in kihagy:
+            ki.append((nev, kulcsok[0], None, [], a, b, 'kihagyva'))
+            continue
         talalt = []
         for kulcs in kulcsok:
             t = [fn for fn, ks in _FK.items() if kulcs in ks]
@@ -588,10 +609,13 @@ def felold(t, B, fajlok):
     if B.get('hatarozatMod') == 'altalanos':
         kotott = {nfc(f.get('fajl') or fajl_keres(f.get('fajlKezdet', '\x00'), fajlok) or '') for f in B['forrasok']}
         hl = []
-        for nev, kulcs, fajl, jeloltek, ka, kb, jel in hatarozatok_altalanos(szf, fajlok):
+        for nev, kulcs, fajl, jeloltek, ka, kb, jel in hatarozatok_altalanos(szf, fajlok, kihagy):
             if jel == 'ismetles':
                 hasznalt.append((ka, kb))
                 continue          # ugyanaz a fájl más megnevezéssel (pl. „3/2025. JEH (Jpe.III.60.053/2024/12.)”) már felvéve
+            if jel == 'kihagyva':
+                hasznalt.append((ka, kb))
+                continue          # név szerint kihagyott hivatkozás: akkor is, ha a korpuszban fájl tartozna hozzá
             if fajl is None and kulcs[0] == 'tv' and nev not in kihagy:
                 continue          # törvény, amely nincs a korpuszban és a forrasok sem köti: a maradékvizsgálat jelzi
             hasznalt.append((ka, kb))

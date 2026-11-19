@@ -192,12 +192,10 @@
   {
    "kod": "Hjt",
    "nev": "2012. évi CCV. törvény a honvédek jogállásáról",
-   "mintak": [
-    "2012\\. évi CCV\\. törvény",
-    "\\bHjt\\b"
-   ],
+   "mintak": [],
    "fajlKezdet": "2012. évi CCV. törvény",
-   "egyseg": "§"
+   "egyseg": "§",
+   "megjegyzes": "hatályon kívül (2024.07.01.); a 25. és 52. tételben a tetelForras (Hjkr.) – Attila döntése, 2026-11-19 18:44"
   },
   {
    "kod": "Vht",
@@ -522,12 +520,66 @@
  "kiirasElirasok": {
   "kihagy": [
    "95/46/EK",
-   "2010/18/EU"
+   "2010/18/EU",
+   "15/2023. (VII. 13.) GFM rendelet",
+   "573/2022. (XII. 23.) Korm. rendelet"
   ],
   "megfeleltet": {},
   "nemHivatkozas": [
    "a Nemzetközi Munkaügyi Konferencia 1949. évi 32. ülésszakán elfogadott 95. számú Egyezmény kihirdetéséről",
    "cikk (3) bekezdés"
+  ]
+ },
+ "tetelForras": {
+  "21": [
+   {
+    "kod": "NGM10_2025",
+    "nev": "10/2025. (IV. 30.) NGM rendelet a 2026. évi munkaszüneti napok körüli munkarendről",
+    "tipus": "rendelet",
+    "fajl": "10_2025. (IV. 30.) NGM rendelet a 2026. évi munkaszüneti napok körüli munkarendről - Hatályos Jogszabályok Gyűjteménye.txt",
+    "egyseg": "§",
+    "indok": "a kiírás a 15/2023. (VII. 13.) GFM rendeletet (a 2024. évi munkarend; hatálytalan 2025.01.01.) nevezi meg; Attila döntése (2026-11-19, 18:44): a tétel a helyébe lépett hatályos jogszabály szerint készül, és egy mondatban jelzi, hogy a kiírás a hatályon kívül helyezettet nevezi meg"
+   }
+  ],
+  "26": [
+   {
+    "kod": "Korm426_2025",
+    "nev": "426/2025. (XII. 23.) Korm. rendelet a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról",
+    "tipus": "rendelet",
+    "fajl": "426_2025. (XII. 23.) Korm. rendelet a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról - Hatályos Jogszabályok Gyűjteménye.txt",
+    "egyseg": "§",
+    "indok": "a kiírás az 573/2022. (XII. 23.) Korm. rendeletet (hatálytalan 2023.12.01.) nevezi meg; Attila döntése (2026-11-19, 18:44): a tétel a helyébe lépett hatályos jogszabály szerint készül, és egy mondatban jelzi, hogy a kiírás a hatályon kívül helyezettet nevezi meg"
+   }
+  ],
+  "34": [
+   {
+    "kod": "Korm426_2025",
+    "nev": "426/2025. (XII. 23.) Korm. rendelet a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról",
+    "tipus": "rendelet",
+    "fajl": "426_2025. (XII. 23.) Korm. rendelet a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról - Hatályos Jogszabályok Gyűjteménye.txt",
+    "egyseg": "§",
+    "indok": "a kiírás az 573/2022. (XII. 23.) Korm. rendeletet (hatálytalan 2023.12.01.) nevezi meg; Attila döntése (2026-11-19, 18:44): a tétel a helyébe lépett hatályos jogszabály szerint készül, és egy mondatban jelzi, hogy a kiírás a hatályon kívül helyezettet nevezi meg"
+   }
+  ],
+  "25": [
+   {
+    "kod": "Hjkr",
+    "nev": "137/2024. (VI. 28.) Korm. rendelet a honvédek jogállásáról",
+    "tipus": "rendelet",
+    "fajl": "137_2024. (VI. 28.) Korm. rendelet a honvédek jogállásáról - Hatályos Jogszabályok Gyűjteménye.txt",
+    "egyseg": "§",
+    "indok": "a kiírás a 2012. évi CCV. törvényt (Hjt.; hatálytalan 2024.07.01., 2024. évi XX. tv. 31. §) nevezi meg; Attila döntése (2026-11-19, 18:44): a tétel a helyébe lépett hatályos jogszabály szerint készül, és egy mondatban jelzi, hogy a kiírás a hatályon kívül helyezettet nevezi meg"
+   }
+  ],
+  "52": [
+   {
+    "kod": "Hjkr",
+    "nev": "137/2024. (VI. 28.) Korm. rendelet a honvédek jogállásáról",
+    "tipus": "rendelet",
+    "fajl": "137_2024. (VI. 28.) Korm. rendelet a honvédek jogállásáról - Hatályos Jogszabályok Gyűjteménye.txt",
+    "egyseg": "§",
+    "indok": "a kiírás a 2012. évi CCV. törvényt (Hjt.; hatálytalan 2024.07.01., 2024. évi XX. tv. 31. §) nevezi meg; Attila döntése (2026-11-19, 18:44): a tétel a helyébe lépett hatályos jogszabály szerint készül, és egy mondatban jelzi, hogy a kiírás a hatályon kívül helyezettet nevezi meg"
+   }
   ]
  }
 }

@@ -41,8 +41,7 @@ def bekezdesek_sorokbol(sorok):
     kezdődő sor (a hatályon kívül helyezett puszta „(3)” is határ); a § végéről a záró írásjel nélküli címsorok lekerülnek;
     az első sor szögletes zárójeles címe („[A bíróság]”) nem bekezdésszöveg."""
     sorok = [l for l in sorok if l.strip()]
-    while sorok and cimsor(sorok[-1]):
-        sorok.pop()
+    sorok = kozos.zaro_cimek_le(sorok, cimsor)      # a pont nélkül végződő utolsó bekezdés folytatósora marad (KE-3/2)
     # a § elején álló cím („[A bíróság]”); a cikkfej utáni címet („3. cikk - Általános joghatóság”) a
     # kozos.jogszabaly_sorok már elhagyta (a cikk további sorai tördelt normaszöveg lehetnek: azokat nem vágjuk)
     if len(sorok) > 1 and re.fullmatch(r'\[[^\]]*\]', sorok[0].strip()):
@@ -134,6 +133,8 @@ def hianyok(n, J):
             for l in ls + utana:
                 # a rövid sor csak pontjellel együtt („b) ipar,”) keresendő: a puszta rövid szó máshol is előfordulhat
                 x = kozos.norm(l); p = mar.find(x) if len(x) > 12 or re.match(r'^(?:\(\d+[a-z]?\)|[a-z]{1,2}\)) \S', x) else -1
+                if p < 0 and len(x) > 12 and re.search(r'[.;]$', x) and mar.rstrip().endswith(x[:-1]):
+                    x = x[:-1]; p = mar.rstrip().rfind(x)   # a korpuszból hiányzó záró írásjel („… ellen”): nem hiány
                 if p >= 0:
                     mar = mar[:p] + ' ¦ ' + mar[p + len(x):]
             reszek = [r.strip() for r in mar.split('¦') if len(r.strip()) > 12]

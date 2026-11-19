@@ -73,9 +73,7 @@ def paragrafus_sorok(kod):
 def csoportok(sorok):
     """[(kulcs, [sorok])] a korpusz sorrendjében; címsorok és üres hatályon kívüli egységek nélkül."""
     out, cur = [], None
-    sorok = list(sorok)
-    while sorok and cimsor(sorok[-1]):
-        sorok.pop()  # a következő § előtti szerkezeti címek
+    sorok = kozos.zaro_cimek_le(sorok, cimsor)  # a következő § előtti szerkezeti címek (a folytatósor marad: KE-3/2)
     for l in sorok:
         if re.fullmatch(CSUPASZ, l):
             m = re.match(r'^\((\d+[a-z]?)\)', l)
@@ -158,6 +156,68 @@ def tordel(fej, jeloltek, minta=()):
     return res
 
 
+def epit(fej, cs, kell, minta=()):
+    """A doboz sorai a korpuszból: a kért bekezdések (kell: a csoportok() kulcsai) a korpusz sorrendjében, a köztük álló
+    hatályon kívül helyezett bekezdésekkel, a dobozfelismerő szabálya szerint tördelve (tordel). EGYETLEN dobozépítő
+    (KE-3/5): a doboz_javit újraépítése, az s5/alkalmaz.py @DOBOZ eleme és az s5/doboz_beszur.py is ezt használja.
+    Vissza: (sorok, a ténylegesen felvett kulcsok halmaza)."""
+    kell = set(kell)
+    sor_k = [k for k, _ in cs]
+    hely = [i for i, k in enumerate(sor_k) if k in kell and k != 'cim']
+    if hely:
+        kell |= {k for i, k in enumerate(sor_k) if k.startswith('hk') and hely[0] < i < hely[-1]}
+    uj = [l for k, ls in cs if k in kell for l in ls]
+    uj2 = []
+    for i, x in enumerate(uj):
+        if i and x.startswith('[') and uj2 and not uj2[-1].startswith('['):
+            uj2[-1] += ' ' + x  # a felsorolást lezáró, szögletes zárójellel kezdődő szöveg a pont sorában marad
+        else:
+            uj2.append(x)
+    return tordel(fej, uj2, minta), kell
+
+
+_JOG = None
+
+
+def doboz_epit(fej):
+    """„Pp. 427. § (1)-(2)”, „EUMSZ 288. cikk” (dobozfejléc) -> ([fejléc] + a doboz sorai a korpuszból, None), vagy
+    (None, ok). A bekezdés nélküli fejléc a teljes egységet (a szögletes cím nélkül) kéri."""
+    global _JOG
+    fej = fej.strip()
+    m = kozos.doboz_fej(fej)
+    if not m:
+        return None, 'a fejléc nem értelmezhető (vagy az egysége nem a forrásé): ' + fej
+    kod, par = kozos.fejlec_kod(m)
+    if par == kozos.PREAMBULUM:
+        return None, 'preambulumbekezdés doboza a korpuszból nem építhető (a bekezdéshatár nem állapítható meg): ' + fej
+    if _JOG is None:
+        _JOG = kozos.korpusz_jogszabalyok()
+    if kod not in _JOG or kod not in F or par not in paragrafus_sorok(kod):
+        return None, 'nincs ilyen %s a korpuszban: %s' % ('§' if kozos.egyseg(kod) == '§' else 'cikk', fej)
+    cs = csoportok(paragrafus_sorok(kod)[par])
+    maradek = fej[m.end(3):]
+    kert = set()
+    for a, b in re.findall(r'\((\d+[a-z]?)\)(?:\s*[–-]\s*\((\d+[a-z]?)\))?', maradek):
+        if b:
+            kulcsok = [k for k, _ in cs if not k.startswith('hk') and k != 'cim']
+            if a in kulcsok and b in kulcsok and kulcsok.index(a) <= kulcsok.index(b):
+                kert.update(kulcsok[kulcsok.index(a):kulcsok.index(b) + 1])
+            else:
+                return None, 'nincs ilyen bekezdés: ' + fej
+        else:
+            kert.add(a)
+    if kert:
+        hianyzik = [k for k in kert if k not in [x for x, _ in cs]]
+        if hianyzik:
+            return None, 'nincs ilyen bekezdés: %s (%s)' % (fej, ', '.join(hianyzik))
+    else:
+        kert = {k for k, _ in cs if k != 'cim'}
+    sorok, _ = epit(fej, cs, kert)
+    if not sorok:
+        return None, 'üres doboz: ' + fej
+    return [fej] + sorok, None
+
+
 def folytatas(L, j, par_szov, par_sorok):
     """A doboz utáni sorok (j-től), amelyek a korpusz szerint ugyanannak a §-nak (cikknek) a szövegét folytatják (a
     dobozfelismerő a tördelt szöveg folytatósoránál lezárta a dobozt): [(index, sor)]. Csak a § szövegében betűre
@@ -236,18 +296,10 @@ def main():
                     kell.add(k)
             if not any(x.startswith('[') for x in sorok):
                 kell.discard('cim')
-            sor_k = [k for k, _ in cs]
-            hely = [i for i, k in enumerate(sor_k) if k in kell and k != 'cim']
-            if hely:
-                kell |= {k for i, k in enumerate(sor_k) if k.startswith('hk') and hely[0] < i < hely[-1]}
-            uj = [l for k, ls in cs if k in kell for l in ls]
-            uj2 = []
-            for i, x in enumerate(uj):
-                if i and x.startswith('[') and uj2 and not uj2[-1].startswith('['):
-                    uj2[-1] += ' ' + x  # a felsorolást lezáró, szögletes zárójellel kezdődő szöveg a pont sorában marad
-                else:
-                    uj2.append(x)
-            uj = tordel(fej, uj2, sorok)
+            uj, kell = epit(fej, cs, kell, sorok)
+            if uj and sorok and not re.search(r'[.;:!?…]["”’)]*$', uj[-1]) and kozos.norm(sorok[-1]) in (
+                    kozos.norm(uj[-1]) + '.', kozos.norm(uj[-1]) + ';'):
+                uj[-1] += sorok[-1][-1]   # a korpuszból hiányzó záró írásjel (EUMSZ 10. cikk „… ellen”): a doboz írásjele marad
             hk = r'^\(?\d*[a-z]?\)?\s*Hatályon kívül helyezve\.?$|^[a-z]{1,2}\)\s*Hatályon kívül helyezve\.?$'
             tiszta = [s for s in sorok if not re.match(hk, s) and not re.fullmatch(CSUPASZ, s)]
             ujt = [s for s in uj if not re.fullmatch(CSUPASZ, s)]
@@ -267,7 +319,7 @@ def main():
                 for o, i1, i2, j1, j2 in difflib.SequenceMatcher(None, a, b, autojunk=False).get_opcodes():
                     if o != 'equal':
                         print('      ', o, '| tétel:', ' '.join(a[i1:i2])[:150], '| korpusz:', ' '.join(b[j1:j2])[:150])
-            elotag = re.match(r'^(?:\d+(?::\d+)?(?:/[A-Z])?\. §|(?:\d+|[IVXLC]+)\. [Cc]ikk|[A-Z]\) [Cc]ikk)\s*', L[idx[0]].strip())
+            elotag = re.match(r'^(?:\d+(?::\d+)?(?:/[A-Z])?\. §|(?:\d+[a-z]?|[IVXLC]+)\. [Cc]ikk|[A-Z]\) [Cc]ikk)\s*', L[idx[0]].strip())
             uj_sorok = list(uj)
             if elotag:
                 uj_sorok[0] = elotag.group(0) + uj_sorok[0]

@@ -1,7 +1,7 @@
 # S1 – alapfelvétel: C/3 – Munkajog és társadalombiztosítási jog
 
 - kiírás: 56 tétel (tetelsor/kiiras_2026.txt); jegyzet: 201 rész 56 tételben
-- feloldott hivatkozás: 466; feloldatlan: 1; a kiírás által nem hivatkozott korpusz-fájl: 9
+- feloldott hivatkozás: 467; feloldatlan: 1; a kiírás által nem hivatkozott korpusz-fájl: 12
 - alapfelvételi hiba: 0
 - tételcsoport-előírás: A KÖZSZFÉRA MUNKAJOGA (4 hivatkozás); TÁRSADALOMBIZTOSÍTÁSI JOG (3 hivatkozás)
 
@@ -16,7 +16,10 @@
 
 ## A kiírás által nem hivatkozott korpusz-fájlok (tájékoztató)
 
+- 15_2023. (VII. 13.) GFM rendelet a 2024. évi munkaszüneti napok kör.._.txt
 - 1_2009. (VI. 24.) PK-KK közös vélemény _ Kúria.txt
+- 2012. évi CCV. törvény a honvédek jogállásáról - Törvények és országgyűlési határozatok.txt
+- 573_2022. (XII. 23.) Korm. rendelet a kötelező legkisebb munkabér (.._.txt
 - 5_2023. (VI. 19.) IM rendelet a békéltető testületi elnöki és tagsági feladat ellátására vonatkozó kiválasztási eljárás szabályairól és a békéltető testületi elnökök és tagok díjaz.txt
 - 62002CJ0151_SUM A Bíróság 2003. szeptember 9-i ítélete. Landeshaupt.._.txt
 - 62014CN0266 C-266_14. sz. ügy_ Az Audiencia Nacional (Spanyolország.._.txt
@@ -50,12 +53,12 @@
 | 18 | Eljárás a munkaviszony megszüntetése (megszűnése) esetén. | 1 | 15681 | 1540 | 0 |
 | 19 | A munkaviszony jogellenes megszüntetése és jogkövetkezményei. | 5 | 54125 | 294651 | 0 |
 | 20 | A munka- és pihenőidő fogalmai, a napi munkaidőre, a munkaidőkeretre é | 4 | 193729 | 161157 | 0 |
-| 21 | A munkaidő vasárnapra vagy munkaszüneti napra történő beosztása. A mun | 4 | 72178 | 48998 | 0 |
+| 21 | A munkaidő vasárnapra vagy munkaszüneti napra történő beosztása. A mun | 4 | 72178 | 48704 | 0 |
 | 22 | A napi és a heti pihenőidőre, illetve a heti pihenőnapra vonatkozó sza | 3 | 60687 | 73314 | 0 |
 | 23 | A rendkívüli munkaidő fogalma, elrendelése és elrendelésének korlátai, | 8 | 403547 | 357508 | 0 |
 | 24 | A szabadság (alap- és pótszabadság) mértéke, kiadása, az apasági szaba | 9 | 106473 | 164372 | 0 |
-| 25 | A betegszabadság, a szülési szabadság és a fizetés nélküli szabadság,  | 3 | 78683 | 83695 | 0 |
-| 26 | A munka díjazása, díjazás munkavégzés hiányában, a távolléti díj számí | 4 | 70766 | 45886 | 0 |
+| 25 | A betegszabadság, a szülési szabadság és a fizetés nélküli szabadság,  | 3 | 78683 | 169745 | 0 |
+| 26 | A munka díjazása, díjazás munkavégzés hiányában, a távolléti díj számí | 4 | 70766 | 45848 | 0 |
 | 27 | A munkabér védelme, a munkabérből való levonás szabályai, a jogalap né | 4 | 102891 | 47003 | 0 |
 | 28 | A munkáltató kártérítési felelőssége. | 6 | 107534 | 107111 | 0 |
 | 29 | A munkavállaló kártérítési felelőssége, a megőrzési felelősség, a lelt | 7 | 67870 | 24014 | 0 |
@@ -63,7 +66,7 @@
 | 31 | A munkakör megosztása, több munkáltató által létesített munkaviszony,  | 1 | 22279 | 5960 | 0 |
 | 32 | A bedolgozói jogviszony és az egyszerűsített foglalkoztatásra vagy alk | 3 | 59372 | 59989 | 0 |
 | 33 | A köztulajdonban álló munkáltatóval fennálló munkaviszonyra vonatkozó  | 2 | 29709 | 14222 | 0 |
-| 34 | A vezető állású munkavállalóra vonatkozó rendelkezések. | 2 | 20316 | 6338 | 0 |
+| 34 | A vezető állású munkavállalóra vonatkozó rendelkezések. | 2 | 20316 | 6300 | 0 |
 | 35 | A munkaerő-kölcsönzésre vonatkozó legfontosabb rendelkezések. | 5 | 246536 | 229434 | 0 |
 | 36 | A munkaviszonyhoz kapcsolódó egyes megállapodások: a versenytilalmi me | 3 | 43911 | 81392 | 0 |
 | 37 | A kollektív szerződés megkötése és tartalma, hatálya, megszűnése. | 3 | 54392 | 45086 | 0 |
@@ -81,7 +84,7 @@
 | 49 | A Kttv. hatálya. a Kttv. szerinti kormányzati szolgálati jogviszony al | 1 | 16335 | 1389283 | 0 |
 | 50 | A közalkalmazotti jogviszonyra vonatkozó szabályok, a közalkalmazotti  | 9 | 213634 | 1845488 | 0 |
 | 51 | A kártérítési felelősségre vonatkozó főbb rendelkezések a közalkalmazo | 1 | 7229 | 1386306 | 0 |
-| 52 | A közszolgálati jog fogalma, annak a magánmunkajogtól való elhatárolás | 3 | 50615 | 4142883 | 0 |
+| 52 | A közszolgálati jog fogalma, annak a magánmunkajogtól való elhatárolás | 3 | 50615 | 4154502 | 0 |
 | 53 | A törvény célja, alapelvek, fontosabb fogalmak és értelmező rendelkezé | 3 | 36582 | 660700 | 0 |
 | 54 | A társadalombiztosítás ellátásai és az ellátásra jogosultak. | 5 | 159379 | 1035678 | 0 |
 | 55 | A járulékfizetésre vonatkozó általános szabályok, megállapodás társada | 3 | 87893 | 693514 | 0 |

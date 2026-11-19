@@ -129,10 +129,20 @@ def lenyomat(s):
     return hashlib.sha1(kozos.norm(s).encode('utf-8')).hexdigest()[:12]
 
 
+KIHAGYOTT_TERMEK = []   # a még le nem gyártott termékek (tetel_blokk): az ellenőrzésük kimarad, figyelmeztetéssel (KE-3/6)
+
+
 def bekezdesek(n):
-    """[(id, szakasz, szöveg)] a tétel magyarázó bekezdéseire; azonos szövegnél sorszám-utótag."""
+    """[(id, szakasz, szöveg)] a tétel magyarázó bekezdéseire; azonos szövegnél sorszám-utótag. Ha a tétel terméke
+    (termekek/paragrafus_jegyzek, termekek/hangos_vazlat) még nincs legyártva, a termékre vonatkozó ellenőrzés kimarad
+    (KIHAGYOTT_TERMEK; a kapu és a leltar figyelmeztet); a bekezdések és a szakmai kontroll ettől függetlenek."""
     out, lat, fo = [], {}, ''
-    for b in tetel_blokk.blokkok(n):
+    kih = []
+    blokk = tetel_blokk.blokkok(n, kih)
+    for k in kih:
+        if k not in KIHAGYOTT_TERMEK:
+            KIHAGYOTT_TERMEK.append(k)
+    for b in blokk:
         if b[0] == 'f':
             fo = b[1]
         if b[0] != 'p':
@@ -246,6 +256,18 @@ def tenyleges(b, alap):
     return t
 
 
+def termek_figyelmeztetes():
+    """„termék nincs legyártva – kihagyva” (stderr), ha a tetel_blokk termék-ellenőrzése valamely tételnél kimaradt; a
+    sor a kimenet ÁLLAPOT-sorát nem érinti. Vissza: a figyelmeztetés szövege vagy ''."""
+    if not KIHAGYOTT_TERMEK:
+        return ''
+    mappak = sorted({os.path.dirname(k) for k in KIHAGYOTT_TERMEK})
+    db = len({os.path.basename(k) for k in KIHAGYOTT_TERMEK})
+    s = 'figyelmeztetés: termék nincs legyártva – kihagyva (%s; %d tétel): a termékre vonatkozó ellenőrzés kimaradt, a szakmai kontroll állapota ettől független' % (', '.join(m + '/' for m in mappak), db)
+    sys.stderr.write(s + '\n')
+    return s
+
+
 def leltar(ns):
     lt = lista_tetelek(); uj_db = el_db = gepi_db = 0
     for n in ns:
@@ -271,17 +293,25 @@ def leltar(ns):
             if x['allitas'] not in meglevo:
                 d['lista'].append({**x, 'bekezdesek': []})
         ment(n, d)
+    termek_figyelmeztetes()
     print(f'leltár: {len(ns)} tétel; új bejegyzés: {uj_db}; elavult: {el_db} (ebből gépi lezárás: {gepi_db})')
 
 
 # ---- kapu ----
 def ptk_parok():
-    """{forráskód: a korpuszban meglévő egységek (§ vagy cikk) halmaza} a kontroll.paragrafusForrasok forrásaira –
+    """{forráskód: a korpuszban meglévő egységek (§ vagy cikk) halmaza} MINDEN tagolt forrásra, amelynek korpuszfájlja
+    van (kozos.forrasok() / kozos.korpusz_jogszabalyok(); KE-3/6), nem csak a kontroll.paragrafusForrasok forrásaira –
     kódonként, nem a halmazok uniója (a Szabs. tv. §-át a Bv. tv. azonos számú §-a nem „igazolja”); a cikkre tagolt
-    forrás a cikkeit adja (nem üres halmazt)."""
+    forrás a cikkeit adja (nem üres halmazt). A paragrafusForrasok forrása elöl áll (a rövidítés nélküli „12. §” gazdája
+    közülük kerül ki)."""
     try:
         J = kozos.korpusz_jogszabalyok()
-        return {kod: set(J.get(kod, ({}, []))[0]) for kod in kozos.beallitas()['kontroll']['paragrafusForrasok']}
+        pf = list(kozos.beallitas()['kontroll']['paragrafusForrasok'])
+        ki = {kod: set(J.get(kod, ({}, []))[0]) for kod in pf}
+        for kod, (d, _) in J.items():
+            if kod not in ki:
+                ki[kod] = set(d)
+        return ki
     except Exception:
         return None
 
@@ -291,15 +321,26 @@ def _rov_minta(kod):
     return '|'.join(r for r, k in kozos.DOBOZ_RÖVIDITES if k == kod) or re.escape(kod)
 
 
+def _egyseg_minta(kod):
+    """A forrás egységének mintája a saját számozása szerint: könyves § („3:123. §”), egyszerű § („12. §”, „36/D. §”),
+    cikk („288. cikk”, „4a. cikk”), római vagy betűs cikk („XXVIII. cikk”, „T) cikk”)."""
+    if kozos.egyseg(kod) == '§':
+        return r'(\d+(?::\d+)?(?:/[A-Z])?)\.\s?§'
+    return r'(\d+[a-z]?|[IVXLC]+|[A-Z]\))\.?\s?[Cc]ikk'
+
+
 def korpusz_hivatkozasok(k, ptk):
-    """A norma korpusz-mezőjének egységhivatkozásai: [(forráskód, egység, megnevezés)]. Kódonkénti minta: „Ptk. 6:24. §”,
-    „Ctv. 9. §”, „EUMSZ 288. cikk”, „Alaptörvény XXVIII. cikk”; a rövidítés nélküli „12. §” a fő kódexé (ha az a
-    paragrafusForrasok között van), különben az egyetlen paragrafusForrasé."""
+    """A norma korpusz-mezőjének egységhivatkozásai: [(forráskód, egység, megnevezés)]. Kódonkénti minta, a hivatkozott
+    forrás saját egysége és számozása szerint (KE-3/6): „Ptk. 6:24. §”, „Ctv. 9. §”, „EUMSZ 288. cikk”, „Alaptörvény
+    XXVIII. cikk”, „GDPR 5. cikk”; a rövidítés nélküli „12. §” a fő kódexé (ha az a paragrafusForrasok között van),
+    különben az egyetlen paragrafusForrasé. A hosszabb rövidítés előbb illeszkedik („Módosított Ptk.” a „Ptk.” előtt)."""
     ki, hasznalt = [], []
-    for kod in ptk:
-        e = kozos.egyseg(kod)
-        az = r'(\d+(?::\d+)?(?:/[A-Z])?)\.\s?§' if e == '§' else r'(\d+|[IVXLC]+|[A-Z]\))\.?\s?[Cc]ikk'
-        for m in re.finditer(r'(?:%s)\s*%s' % (_rov_minta(kod), az), k):
+    rov = sorted(((len(r), r, kod) for r, kod in kozos.DOBOZ_RÖVIDITES if kod in ptk), reverse=True)
+    rov += [(len(kod), re.escape(kod), kod) for kod in ptk if not any(k2 == kod for _, _, k2 in rov)]
+    for _, r, kod in rov:
+        for m in re.finditer(r'(?<![\w.])(?:%s)\s*%s' % (r, _egyseg_minta(kod)), k):
+            if any(a <= m.start() < b for a, b in hasznalt):
+                continue      # a hosszabb rövidítés már lefedte („Módosított Ptk. 6:550. §”)
             ki.append((kod, m.group(1), m.group(0)))
             hasznalt.append(m.span())
     # más forrás rövidítésével álló egység („Ptk. 3:1. §” a B/3-ban, „Kp. 12. §” az A/3-ban) nem a fő kódexé
@@ -308,9 +349,10 @@ def korpusz_hivatkozasok(k, ptk):
         hasznalt.append(m.span())
     maradek = ''.join(' ' if any(a <= i < b for a, b in hasznalt) else c for i, c in enumerate(k))
     fo = kozos.beallitas()['foKodex']
-    alap = fo if fo in ptk else (next(iter(ptk)) if len(ptk) == 1 else None)
+    pf = kozos.beallitas()['kontroll']['paragrafusForrasok']
+    alap = fo if fo in ptk and fo in pf else (pf[0] if len(pf) == 1 and pf[0] in ptk else None)
     if alap:
-        rx = r'(?<![\d:/])(\d+(?::\d+)?(?:/[A-Z])?)\.\s?§' if kozos.egyseg(alap) == '§' else r'(?<![\w)])(\d+|[IVXLC]+|[A-Z]\))\.?\s?[Cc]ikk'
+        rx = r'(?<![\d:/])(\d+(?::\d+)?(?:/[A-Z])?)\.\s?§' if kozos.egyseg(alap) == '§' else r'(?<![\w)])(\d+[a-z]?|[IVXLC]+|[A-Z]\))\.?\s?[Cc]ikk'
         for m in re.finditer(rx, maradek):
             if kozos.konyves(alap) and ':' not in m.group(1):
                 continue      # a könyves fő kódex (Ptk.) egysége csak „könyv:§” lehet; a puszta „12. §” nem az övé
@@ -510,6 +552,9 @@ def kapu(ns, ir=True):
         '| Tétel | Állapot | Kész bekezdés | Norma / többlet | Kontroll-lista | Nyitott pont |',
         '|---|---|---|---|---|---|',
     ]
+    figy_termek = termek_figyelmeztetes()
+    if figy_termek:
+        fej[6:6] = [figy_termek, '']
     if ir and len(ns) == len(kozos.tetelsor()['tetelek']):
         with open(os.path.join(JEL, 'kontroll_allapot.md'), 'w', encoding='utf-8') as f:
             f.write('\n'.join(fej + sorok) + '\n\n## Nyitott pontok\n\n' + ('\n\n'.join(reszlet) or 'nincs') + '\n')

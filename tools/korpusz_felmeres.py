@@ -222,6 +222,17 @@ def hivatkozasok_hely(szoveg):
     return ki
 
 
+def elso_sor_kulcsok(elso):
+    """A korpuszfájl első sorából (címéből) képzett hivatkozáskulcsok: csak a sor ELSŐ hivatkozásáé (a fájl saját
+    aktusáé). A címben később említett MÁSIK aktus („… valamint a 95/46/EK irányelv hatályon kívül helyezéséről”,
+    „… a Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével …”) nem azonosítja a fájlt (KE-3/1)."""
+    h = hivatkozasok_hely(lapit(elso))
+    if not h:
+        return set()
+    a = min(x[2] for x in h)
+    return {x[0] for x in h if x[2] == a}
+
+
 def hivatkozasok(szoveg):
     """[(kulcs, megnevezés)] – a kulcs alapján kötjük a korpuszfájlhoz."""
     return [(k, n) for k, n, _, _ in hivatkozasok_hely(szoveg)]
@@ -285,7 +296,7 @@ def main():
         elso = next((l for l in open(os.path.join(korpusz, f), encoding='utf-8', errors='replace').read(3000).split('\n') if l.strip()), '')[:300]
         ELSO[f] = elso
         nev = re.sub(r'\.txt$', '', f)
-        FK[f] = fajl_kulcsok(nev) | fajl_kulcsok(elso) | {k for k, _ in hivatkozasok(lapit(nev.replace('_', '/')))} | {k for k, _ in hivatkozasok(lapit(elso))}
+        FK[f] = fajl_kulcsok(nev) | fajl_kulcsok(elso) | {k for k, _ in hivatkozasok(lapit(nev.replace('_', '/')))} | elso_sor_kulcsok(elso)
     # rövidítések: a kiírás saját meghatározásai + a korpuszfájlok előtagjai
     rov_tv = {}
     for m in ROVID_DEF.finditer(egesz):

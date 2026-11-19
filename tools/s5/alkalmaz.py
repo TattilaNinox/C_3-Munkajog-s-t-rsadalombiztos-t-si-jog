@@ -71,38 +71,9 @@ def nem_eloirt(e, eloirt, tetel_txt_kulcsok):
 
 
 def doboz_epit(elem):
-    """„@DOBOZ Pp. 427. § (1)-(2)” -> a doboz sorai (fejléc + szöveg) a korpuszból, vagy (None, ok)."""
-    fej = elem[len('@DOBOZ'):].strip()
-    m = kozos.doboz_fej(fej)
-    if not m:
-        return None, 'a fejléc nem értelmezhető (vagy az egysége nem a forrásé): ' + fej
-    kod, par = kozos.fejlec_kod(m)
-    if par == kozos.PREAMBULUM:
-        return None, 'preambulumbekezdés doboza a korpuszból nem építhető (a bekezdéshatár nem állapítható meg): ' + fej
-    if kod not in JOG or par not in dj.paragrafus_sorok(kod):
-        return None, 'nincs ilyen %s a korpuszban: %s' % ('§' if kozos.egyseg(kod) == '§' else 'cikk', fej)
-    cs = dj.csoportok(dj.paragrafus_sorok(kod)[par])
-    maradek = fej[m.end(3):]
-    kert = set()
-    for a, b in re.findall(r'\((\d+[a-z]?)\)(?:\s*[–-]\s*\((\d+[a-z]?)\))?', maradek):
-        if b:
-            kulcsok = [k for k, _ in cs if not k.startswith('hk') and k != 'cim']
-            if a in kulcsok and b in kulcsok:
-                kert.update(kulcsok[kulcsok.index(a):kulcsok.index(b) + 1])
-            else:
-                return None, 'nincs ilyen bekezdés: ' + fej
-        else:
-            kert.add(a)
-    if kert:
-        hianyzik = [k for k in kert if k not in [x for x, _ in cs]]
-        if hianyzik:
-            return None, 'nincs ilyen bekezdés: %s (%s)' % (fej, ', '.join(hianyzik))
-        sorok = [l for k, ls in cs if k in kert for l in ls]
-    else:
-        sorok = [l for k, ls in cs if k != 'cim' for l in ls]
-    if not sorok:
-        return None, 'üres doboz: ' + fej
-    return [fej] + sorok, None
+    """„@DOBOZ Pp. 427. § (1)-(2)” -> a doboz sorai (fejléc + szöveg) a korpuszból, vagy (None, ok). A dobozépítő közös:
+    s5/doboz_javit.doboz_epit (ugyanaz építi újra a dobozt, és szúrja be az s5/doboz_beszur.py)."""
+    return dj.doboz_epit(elem[len('@DOBOZ'):].strip())
 
 
 def tetel(n):
@@ -202,6 +173,7 @@ def tetel(n):
 def main():
     global JOG
     JOG = kozos.korpusz_jogszabalyok()
+    dj._JOG = JOG
     ki = []
     for t in kozos.tetelsor()['tetelek']:
         n = t['sorszam']
