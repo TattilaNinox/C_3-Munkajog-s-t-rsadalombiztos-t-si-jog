@@ -72,3 +72,12 @@ A tételszám 56: a kiírás 1–56. tétele és a `jegyzetek/manifest.json` sor
 - `alapfelvetel: tétel 56, feloldott 466, feloldatlan 1, hiba 0` (39. tétel: „Eljárási és Magatartási Kódexe I–III. rész” – forrás-beállítás kell)
 - `dobozok: 915, eltérés: 1; hiányzó forrás: []; lefedettségi hiány: 103 elem 34 tételben`
 - `hiányos bekezdés: 1` (32. tétel, Efo. tv. 25. § – a doboz a jogharmonizációs záradékot idézi, tartalmi kérdés)
+
+## Hatályon kívül helyezett jogszabályok a kiírásban (2026-11-19, Attila döntése 18:44)
+
+- **Döntés:** ahol a kiírás hatályon kívül helyezett jogszabályt nevez meg, a tétel a helyébe lépett hatályos jogszabályra épül, és egy mondatban jelzi, hogy a kiírás a régit nevezi meg; a régi korpuszfájl tájékoztatásként marad.
+- 21. tétel: 15/2023. (VII. 13.) GFM r. (hatálytalan 2025.01.01.) → **10/2025. (IV. 30.) NGM r.** a 2026. évi munkaszüneti napok körüli munkarendről.
+- 26., 34. tétel: 573/2022. (XII. 23.) Korm. r. (hatálytalan 2023.12.01.) → **426/2025. (XII. 23.) Korm. r.** (minimálbér, garantált bérminimum 2026).
+- 25., 52. tétel: 2012. évi CCV. tv. – Hjt. (hatálytalan 2024.07.01., 2024. évi XX. tv. 31. §) → **137/2024. (VI. 28.) Korm. r.** a honvédek jogállásáról (Hjkr.).
+- 50. tétel: az 1992. évi XXIII. tv. (Ktv.) csak egy AB-határozat címében szerepel – nincs teendő.
+- A három új rendelet a korpuszban (net.jogtar.hu, szakaszonként ellenőrizve: eltérés 0). **A `beallitas.json` megfeleltetése (`tetelForras`) a KE-3 készletjavítás után következik** (központi chat).
