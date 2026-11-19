@@ -71,23 +71,61 @@ def kapcsolo(elemek):
     return m.group(1) if m else ''
 
 
-def felsorolasok(sorok, kovetkezo_sor):
+def kihagyott_ures(utolso, jel, sz, szov):
+    """A dobozból kihagyott üres (hatályon kívül helyezett) pontok: ha a korpusz §-szövegében (szov) az utolso) és a
+    jel) pont között csak üres pontjelek állnak („l) [m)] n) …”), azok listája; különben None."""
+    if not szov or len(jel) != 1 or utolso is None or len(utolso) != 1 or not (utolso < jel):
+        return None
+    kozte = [chr(c) for c in range(ord(utolso) + 1, ord(jel))]
+    if not kozte or len(kozte) > 3:
+        return None
+    if kozos.norm(' '.join(x + ')' for x in kozte) + f' {jel}) {sz}') in szov:
+        return kozte
+    return None
+
+
+def felsorolasok(sorok, kovetkezo_sor, szov=None):
     """A doboz soraiból a felsorolások: [(bekezdés, bevezető, [elem], záró)].
-    Elem: {'jel','szoveg','alpontok':[{'jel','szoveg'}]}. Csak a legalább háromelemű, hézagtalan a), b), c)… sor számít."""
+    Elem: {'jel','szoveg','alpontok':[{'jel','szoveg'}]}. Csak a legalább háromelemű, hézagtalan a), b), c)… sor számít.
+    Hézagnak nem számít (kozos.pont_kovetkezo): a hatályon kívül helyezett, üres pont (a sor csak „j)”; kimarad, a
+    következő pont jele megmarad), a jelölésből kihagyható betű (p) → r), w) → z)), a z) utáni zs); a korpuszban egy
+    sorba tördelt két pont („g) …; h) …”) két elem, a ponttal egy sorba tördelt első alpont („zs) … zsa) …”) alpont; ha a korpusz §-szövegét (szov) is megkapja: a dobozból kihagyott üres
+    pont (kihagyott_ures) sem hézag."""
     out = []; i = 0
     while i < len(sorok):
         s = sorok[i]
         if re.match(r'^[a-z]{1,2}\)\s', s) or s.startswith('['):
             i += 1; continue
-        j = i + 1; elemek = []
+        j = i + 1; elemek = []; utolso = None   # utolso: az utolsó pont jele (az üres, kimaradó pont is)
         while j < len(sorok):
-            m = re.match(r'^([a-z]{1,2})\)\s+(.*)$', sorok[j])
+            m = re.match(r'^([a-z]{1,2}|zs[a-z])\)(?:\s+(.*))?$', sorok[j])
             if not m:
                 break
             jel, sz = m.group(1), m.group(2)
-            if len(jel) == 1 and ord(jel) == ord('a') + len(elemek):
-                elemek.append({'jel': jel, 'szoveg': sz, 'alpontok': []})
-            elif len(jel) == 2 and elemek and jel[0] == elemek[-1]['jel']:
+            fo = (len(jel) == 1 or (jel == 'zs' and not (elemek and elemek[-1]['alpontok']))) and jel in kozos.pont_kovetkezo(utolso)
+            if not fo and sz and elemek and kihagyott_ures(utolso, jel, sz, szov):
+                fo = True
+            al = (not fo and elemek and utolso == elemek[-1]['jel'] and len(jel) == len(utolso) + 1 and jel.startswith(utolso))
+            if not sz:
+                if fo:
+                    utolso = jel
+                elif not al:
+                    break
+            elif fo:
+                elemek.append({'jel': jel, 'szoveg': sz, 'alpontok': []}); utolso = jel
+                while True:   # egy sorba tördelt következő pont („…; h) …”) vagy első alpont („… zsa) …”)
+                    e = elemek[-1]; sz0 = e['szoveg']
+                    t = next((x for x in re.finditer(r';\s+([a-z])\)\s+', sz0) if x.group(1) in kozos.pont_kovetkezo(e['jel'])), None)
+                    ta = None if e['alpontok'] else re.search(r'\s(' + e['jel'] + r'a)\)\s+', sz0)
+                    if ta and (not t or ta.start() < t.start()):
+                        e['szoveg'] = sz0[:ta.start()]
+                        e['alpontok'].append({'jel': ta.group(1), 'szoveg': sz0[ta.end():]})
+                        break
+                    if not t:
+                        break
+                    e['szoveg'] = sz0[:t.start() + 1]
+                    elemek.append({'jel': t.group(1), 'szoveg': sz0[t.end():], 'alpontok': []}); utolso = t.group(1)
+            elif al:
                 elemek[-1]['alpontok'].append({'jel': jel, 'szoveg': sz})
             else:
                 break
@@ -95,9 +133,9 @@ def felsorolasok(sorok, kovetkezo_sor):
         if len(elemek) >= 3:
             bek = re.match(r'^\((\d+[a-z]?)\)\s*(.*)$', s)
             zaro = ''
-            if j < len(sorok) and sorok[j][0].islower() and not re.match(r'^[a-z]{1,2}\)', sorok[j]):
+            if j < len(sorok) and sorok[j][0].islower() and not re.match(r'^(?:[a-z]{1,2}|zs[a-z])\)', sorok[j]):
                 zaro = sorok[j]; j += 1
-            elif j >= len(sorok) and kovetkezo_sor and kovetkezo_sor[0].islower() and not re.match(r'^[a-z]{1,2}\)', kovetkezo_sor):
+            elif j >= len(sorok) and kovetkezo_sor and kovetkezo_sor[0].islower() and not re.match(r'^(?:[a-z]{1,2}|zs[a-z])\)', kovetkezo_sor):
                 zaro = kovetkezo_sor
             out.append((bek.group(1) if bek else '', bek.group(2) if bek else s, elemek, zaro))
             i = j
@@ -107,7 +145,7 @@ def felsorolasok(sorok, kovetkezo_sor):
 
 
 def main():
-    F = kozos.forrasok(); T = kozos.tetelsor()
+    F = kozos.forrasok(); T = kozos.tetelsor(); J = kozos.korpusz_jogszabalyok()
     CIM = {}
     for kod, f in F.items():
         if f.get('korpusz'):
@@ -141,7 +179,7 @@ def main():
                     else:
                         kov = L[x]; break
                 x += 1
-            for bek, bev, elemek, zaro in felsorolasok(sorok, kov):
+            for bek, bev, elemek, zaro in felsorolasok(sorok, kov, J.get(kod, ({}, []))[0].get(par)):
                 az = f'{kod}-{par}' + (f'-{bek}' if bek else '')
                 e = {'id': az, 'forras': kod, 'par': par, 'bek': bek, 'fejlec': fejlec, 'cim': cim, 'focim': fo, 'alcim': al,
                      'bevezeto': bev, 'elemek': [dict(x, tiszta=tiszta(x['szoveg'])) for x in elemek],

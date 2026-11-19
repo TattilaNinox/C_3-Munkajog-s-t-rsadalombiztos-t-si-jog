@@ -10,6 +10,8 @@ helyhez kötött, ezért újra kell generálni), modositott (ezen a helyen az al
 darabja nincs). Élesítéskor az alap a friss élő export ága (elo-…), mert a hang állapota az élő adatban a mérvadó. A betöltő: orlomed_admin_web/functions/scripts/hangpotlas_betolt.js.
 """
 import glob, hashlib, json, os, re, subprocess, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import kozos
 
 GYOKER = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sha = lambda s: hashlib.sha256(s.encode('utf-8')).hexdigest()
@@ -64,9 +66,14 @@ def main():
             uj.append(e)
         if all(e['muvelet'] == 'valtozatlan' for e in uj) and len(uj) == len(regi_fajlok):
             continue
-        n = re.search(r'> (\d+)\. ', m['tagPath'] + ' ') or re.match(r'(\d+)\. ', m['title'])
+        jt = kozos.jegyzet_tetel()      # új szerkezet: a tétel a noteId-ből (a tagPath tételcsoportot is tartalmaz)
+        if jt is not None:
+            tn = jt.get(m.get('noteId'))
+        else:
+            n = re.search(r'> (\d+)\. ', m['tagPath'] + ' ') or re.match(r'(\d+)\. ', m['title'])
+            tn = int(n.group(1)) if n else None
         terv['dokumentumok'].append({
-            'ttsId': m['ttsId'], 'noteId': m.get('noteId'), 'tetel': int(n.group(1)) if n else None, 'cim': m['title'],
+            'ttsId': m['ttsId'], 'noteId': m.get('noteId'), 'tetel': tn, 'cim': m['title'],
             'regi': [{'index': regi_hely[f], 'sha256': sha(regi_szoveg[f]), 'charCount': len(regi_szoveg[f])} for f in regi_fajlok],
             'uj': uj})
     terv['osszesites'] = {'dokumentum': len(terv['dokumentumok']), 'generalando_karakter': sum(ossz.values()),

@@ -3,7 +3,8 @@
 
 §-jegyzék: minden sor szó szerint megvan a megjelölt § korpusz-szövegében.
 Felsorolás: a bevezető, minden elem, alpont és a záró szöveg szó szerint megvan a §-ban, a korpuszbeli
-sorrendben; a lista teljes (a korpuszban az utolsó elem után nem következik további pont).
+sorrendben; a lista teljes (a korpuszban az utolsó elem után nem következik további pont). A hatályon kívül
+helyezett, üres pont („j) k) …”) és a jelölésből kihagyható betű (p) → r), w) → z)) nem hézag (kozos.pont_kovetkezo).
 Kilépési kód: 0, ha nincs eltérés.
 """
 import glob, json, os, re, sys
@@ -37,25 +38,48 @@ def main():
             if poz < 0:
                 hibak.append((d['tetel'], l['id'], 'bevezető nincs a korpuszban')); continue
             poz += len(kozos.norm(l['bevezeto']))
+            utolso = None   # az utolsó pont jele (a hatályon kívül helyezett, üres pont is: kozos.pont_kovetkezo)
             for i, e in enumerate(l['elemek']):
                 ne += 1
-                assert e['jel'] == chr(ord('a') + i)
-                for jel, sz in [(e['jel'], e['szoveg'])] + [(a['jel'], a['szoveg']) for a in e['alpontok']]:
+                for k, (jel, sz) in enumerate([(e['jel'], e['szoveg'])] + [(a['jel'], a['szoveg']) for a in e['alpontok']]):
                     minta = kozos.norm(f'{jel}) {sz}')
                     p = szov.find(minta, poz)
-                    if p < 0 or szov[poz:p].strip():
+                    kozte = szov[poz:p].strip() if p >= 0 else ''
+                    jo = p >= 0 and not kozte
+                    if p >= 0 and kozte and re.fullmatch(r'(?:[a-z]{1,2}\)\s*)+', kozte):   # üres (hatályon kívül helyezett) pontok
+                        u = utolso; jo = True
+                        for x in re.findall(r'([a-z]{1,2})\)', kozte):
+                            if k == 0 and x in kozos.pont_kovetkezo(u):
+                                u = x
+                            elif not (k > 0 and len(x) == 2 and x[0] == e['jel']):
+                                jo = False
+                        if k == 0:
+                            utolso = u
+                    if k == 0 and jo and jel not in kozos.pont_kovetkezo(utolso):
+                        hibak.append((d['tetel'], l['id'], f'{jel}) pont jele nem a következő pont jele')); break
+                    if not jo:
                         hibak.append((d['tetel'], l['id'], f'{jel}) pont nem következik szó szerint: ' + sz[:50])); break
+                    if k == 0:
+                        utolso = jel
                     poz = p + len(minta)
                 if kozos.norm(e['tiszta']) not in kozos.norm(e['szoveg']):
                     hibak.append((d['tetel'], l['id'], 'a tisztított elem eltér'))
             maradek = szov[poz:].strip()
+            while True:   # a lista végén álló üres (hatályon kívül helyezett) pontok
+                m = re.match(r'^([a-z]{1,2})\) ?', maradek)
+                if not (m and m.group(1) in kozos.pont_kovetkezo(utolso)):
+                    break
+                tovabb = maradek[m.end():]
+                if tovabb and not re.match(r'[a-z]{1,2}\) |\(\d', tovabb):
+                    break
+                utolso = m.group(1); maradek = tovabb.strip()
             if l['zaro']:
                 z = kozos.norm(l['zaro'])
                 if not maradek.startswith(z):
                     hibak.append((d['tetel'], l['id'], 'záró szöveg nem következik szó szerint'))
                 maradek = maradek[len(z):].strip()
-            kov = chr(ord('a') + len(l['elemek']))
-            if re.match(rf'^{kov}[a-z]?\) ', maradek) or (not l['zaro'] and maradek and maradek[0].islower()):
+            kov = '|'.join(kozos.pont_kovetkezo(utolso)) or '(?!)'
+            if re.match(rf'^(?:{kov})[a-z]?\) ', maradek) or (not l['zaro'] and maradek and maradek[0].islower()):
                 hibak.append((d['tetel'], l['id'], 'a lista a korpuszban folytatódik: ' + maradek[:50]))
     print(f'§-jegyzék: {nd} doboz; felsorolás: {nl} lista, {ne} elem; eltérés: {len(hibak)}')
     for h in hibak:

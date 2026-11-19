@@ -9,6 +9,13 @@ Részek. Egy rész = egy jegyzet (`notes`, type=text, audioSource = a hangdokume
 jegyzetazonosítók maradnak. A részek a bázis `egyeb/notes/NN/` jegyzetei (a hangpotlas-2-2026-11-12 ág állapota, a
 munkafában változatlan), partIndex szerint; a jegyzet hangdokumentumait a `tts/*/_meta.json` `noteId` mezője köti hozzá.
 Ha egy rész jegyzetazonosítója nem állapítható meg egyértelműen, a program megáll és listáz.
+Új tételsor-szerkezet (a tárolóban nincs `egyeb/notes/`; kozos.jegyzet_megfeleltetes): a részek a
+`tetelsor/jegyzet_megfeleltetes.json` sorrendjében (noteId, cim), a rész hangdokumentuma az a `tts/*/_meta.json`, amelynek
+noteId-je a részé és `via: audioSource`. Hangdokumentum nélküli rész nem megálló: hang nélkül készül el (ttsId: null,
+a kimeneten „hang nélküli rész” sor); a kezdőblokkja az első olyan címsor, amely a rész címével kezdődik vagy az
+iránymutatás-azonosítóját tartalmazza (horgony); ha nincs ilyen, a rész tartalom nélküli (blokkok: null, html: ""). A
+hanggal bíró részek határa a horgonyok közötti szakaszban a lent leírt módszerrel dől el.
+Az `egyeb/notes/` szerkezetében (A/1) a kódút változatlan.
 
 Részhatár. A tétel blokkjait (tools/tetel_blokk.py) a hangdokumentumok darabjai osztják részekre, a
 `tools/hangszoveg.py lefedettseg` módszerével: a bekezdésből (a szöveg `\\n\\n`-nel elválasztott egysége) vett ötszavas
@@ -62,6 +69,9 @@ def tts_meta():
 
 def reszek(n):
     """A tétel részei partIndex szerint: [{noteId, ttsId, title, partIndex, partCount, docs:[ttsId…]}]."""
+    jm = kozos.jegyzet_megfeleltetes()
+    if jm is not None:
+        return reszek_megfeleltetes(n, jm)
     hibak = []
     jegyzet = []
     for f in sorted(glob.glob(os.path.join(GY, 'egyeb', 'notes', f'{n:02d}', '*.json'))):
@@ -97,6 +107,100 @@ def reszek(n):
     if hibak:
         raise Megall(f'{n}. tétel: a részek jegyzetazonosítója nem egyértelmű:\n  ' + '\n  '.join(hibak))
     return out
+
+
+def reszek_megfeleltetes(n, jm):
+    """Az új tételsor-szerkezet részei (tetelsor/jegyzet_megfeleltetes.json): a sorrend a megfeleltetésé, a rész
+    hangdokumentuma a noteId-jéhez `via: audioSource`-szal kötött tts/*/_meta.json; ha nincs ilyen, ttsId: None
+    (hang nélküli rész, nem megálló)."""
+    lista = jm.get(n) or []
+    if not lista:
+        raise Megall(f'{n}. tétel: nincs jegyzet a tetelsor/jegyzet_megfeleltetes.json-ban')
+    meta = tts_meta()
+    hibak = []
+    ids = [r['noteId'] for r in lista]
+    if len(set(ids)) != len(ids):
+        hibak.append('ismétlődő jegyzetazonosító: ' + ', '.join(sorted({x for x in ids if ids.count(x) > 1})))
+    out = []
+    for i, r in enumerate(lista, 1):
+        docs = [t for t, (m, _) in meta.items() if m.get('noteId') == r['noteId']]
+        fo = [t for t in docs if meta[t][0].get('via') == 'audioSource']
+        if len(fo) > 1:
+            hibak.append(f"{r['noteId']}: több audioSource-hangdokumentum: {', '.join(sorted(fo))}"); continue
+        tid = fo[0] if fo else None
+        out.append({'noteId': r['noteId'], 'ttsId': tid, 'title': r['cim'], 'partIndex': i, 'partCount': len(lista),
+                    'docs': sorted(docs, key=lambda t: (t != tid, t))})
+    sajat = {t for r in out for t in r['docs']}
+    for tid, _, _ in hs.tetel_hang(n):
+        if tid not in sajat:
+            hibak.append(f'{tid}: a tétel hangdokumentuma, de jegyzete ({meta[tid][0]["noteId"]}) nem része a tételnek')
+    if hibak:
+        raise Megall(f'{n}. tétel: a részek jegyzetazonosítója nem egyértelmű:\n  ' + '\n  '.join(hibak))
+    return out
+
+
+_CIM_ELO = re.compile(r'^(?:\d+\)?\.\)?\s*)?(?:\([IVXL]+(?:-[IVXL]+)?\.\)\s*)?')
+
+
+def _azonosito(s):
+    """A rész címének iránymutatás-azonosítója regexként: „1/2019.” → számjel/év, „PK 13”, „PK-GK 2”, „MK 35”."""
+    m = re.search(r'(?<![\d/])(\d+/\d{4})(?!\d)', s)
+    if m:
+        return r'(?<![\d/])' + re.escape(m.group(1)) + r'(?!\d)'
+    m = re.search(r'\b(PK-GK|PK|GK|MK)\.?\s*(\d+)(?!\d)', s)
+    if m:
+        return r'(?<![\w-])' + re.escape(m.group(1)) + r'\.?\s*' + m.group(2) + r'(?!\d)'
+    return None
+
+
+def horgony(blokk, cim, tol):
+    """A hang nélküli rész kezdőblokkja a tol. blokktól: az első címsor (főcím, alcím), amely a rész címével kezdődik (a
+    cím sorszám- és tartomány-előtagja nélkül, kisbetűsítve; „PK 133” → „PK 133. SZÁM”); ha ilyen nincs, az első címsor,
+    amely a cím iránymutatás-azonosítóját tartalmazza („1/2019. PJE” → „MELLÉKLET: AZ 1/2019. …”); None, ha egyik sincs."""
+    c = kozos.norm(_CIM_ELO.sub('', cim)).casefold().rstrip('.')
+    if c:
+        for u in range(tol, len(blokk)):
+            if blokk[u][0] in 'fa' and kozos.norm(ELOTAG.sub('', blokk[u][1])).casefold().startswith(c):
+                return u
+    rx = _azonosito(cim)
+    if rx:
+        for u in range(tol, len(blokk)):
+            if blokk[u][0] in 'fa' and re.search(rx, kozos.norm(blokk[u][1]), re.I):
+                return u
+    return None
+
+
+def felosztas_reszek(n, rr, blokk, ix, txt):
+    """A felosztás, ha van hang nélküli rész (az új szerkezetben): a hang nélküli rész a horgony()-nyal talált címsornál
+    kezdődik; ha a tételben nincs ilyen címsor, a rész tartalom nélküli (a tétel szövege nem tartalmazza; blokkot nem
+    kap, a kimenet jelzi). A horgonyok közötti szakaszok hanggal bíró részeit a felosztas() osztja el. Ha minden résznek
+    van hangja: felosztas(). Visszatér: ([részindex blokkonként], [bizonytalan blokkok]); a részindex az rr indexe."""
+    if all(r['ttsId'] for r in rr):
+        return felosztas(n, rr, blokk, ix, txt)
+    U = len(blokk); m = len(rr)
+    kezd = {0: 0}; ures = set(); utolso = 0
+    for k in range(1, m):
+        if not rr[k]['ttsId']:
+            u = horgony(blokk, rr[k]['title'], utolso + 1)
+            if u is None:
+                ures.add(k); continue
+            kezd[k] = utolso = u
+    aktiv = [k for k in range(m) if k not in ures]
+    L = txt.split('\n')
+    hoz = [0] * U; bizonytalan = []
+    horg = [i for i, k in enumerate(aktiv) if k in kezd]
+    for j, i0 in enumerate(horg):
+        i1 = horg[j + 1] if j + 1 < len(horg) else len(aktiv)
+        resz = aktiv[i0:i1]
+        a = kezd[aktiv[i0]]; b = kezd[aktiv[i1]] if i1 < len(aktiv) else U
+        if b - a < len(resz):
+            raise Megall(f'{n}. tétel: több rész, mint blokk ({", ".join(str(k + 1) for k in resz)}. rész)')
+        h, bz = felosztas(n, [rr[k] for k in resz], blokk[a:b], ix[a:b], txt, vege=(ix[b] if b < U else len(L)))
+        for u, x in enumerate(h):
+            hoz[a + u] = resz[x]
+        for x in bz:
+            bizonytalan.append(dict(x, blokk=x['blokk'] + a, resz=resz[x['resz'] - 1] + 1))
+    return hoz, bizonytalan
 
 
 # ---------- blokk → rész ----------
@@ -143,8 +247,9 @@ def bekezdes_pont(n, rr):
     return pont
 
 
-def felosztas(n, rr, blokk, ix, txt):
-    """[részindex blokkonként], [bizonytalan blokkok]."""
+def felosztas(n, rr, blokk, ix, txt, vege=None):
+    """[részindex blokkonként], [bizonytalan blokkok]. vege: az utolsó blokk utáni sorindex (a tétel egy szakaszának
+    felosztásakor, felosztas_reszek); alapértéke a tétel vége."""
     m = len(rr)
     if m == 1:
         return [0] * len(blokk), []
@@ -153,7 +258,7 @@ def felosztas(n, rr, blokk, ix, txt):
         raise Megall(f'{n}. tétel: a bekezdés-indexelés eltér a hangszoveg.blokkok indexelésétől')
     bp = bekezdes_pont(n, rr)
     # a blokk sorai: a kezdősorától a következő blokk kezdősoráig
-    hatar = ix[1:] + [len(L)]
+    hatar = ix[1:] + [len(L) if vege is None else vege]
     pont = []
     for u in range(len(blokk)):
         beks = sorted({sor2bek[x] for x in range(ix[u], hatar[u]) if x in sor2bek})
@@ -242,13 +347,18 @@ def tetel_html(n):
             raise Megall(f'{n}. tétel: a(z) {fej} doboz eltér a §-jegyzéktől')
     dsor = doboz_sorok(n, txt, blokk, ix, dob)
     rr = reszek(n)
-    hoz, bizonytalan = felosztas(n, rr, blokk, ix, txt)
+    hoz, bizonytalan = felosztas_reszek(n, rr, blokk, ix, txt)
     cim = next(t['cim'] for t in kozos.tetelsor()['tetelek'] if t['sorszam'] == n)
     terv = reszcim_terv()
     nagybetus = []
     out = []
     for ri, r in enumerate(rr):
         us = [u for u in range(len(blokk)) if hoz[u] == ri]
+        if not us:      # tartalom nélküli (hang nélküli) rész az új szerkezetben: a tétel szövege nem tartalmazza
+            out.append({'partIndex': r['partIndex'], 'partCount': r['partCount'], 'noteId': r['noteId'], 'ttsId': r['ttsId'],
+                        'title': terv.get(r['noteId'], r['title']), 'blokkok': None, 'html': '',
+                        'sha256': hashlib.sha256(b'').hexdigest()})
+            continue
         h = []
         if len(rr) == 1:
             h.append(f'<h1>{e(cim)}</h1>')
@@ -305,7 +415,10 @@ def doboz_sorok(n, txt, blokk, ix, dob):
 
 
 def reszcim_terv():
-    d = json.load(open(os.path.join(GY, 'tts', '_reszcim_terv.json'), encoding='utf-8'))
+    f = os.path.join(GY, 'tts', '_reszcim_terv.json')
+    if not os.path.exists(f):
+        return {}      # új tételsor: még nincs részcím-terv, a rész címe a jegyzeté
+    d = json.load(open(f, encoding='utf-8'))
     return {m['noteId']: m['uj_cim'] for m in d['modositasok']}
 
 
@@ -319,11 +432,13 @@ def reszcim_meres(n):
     txt = kozos.tetel_szoveg(n)
     blokk, ix = tetel_blokk.blokkok_sorral(n)
     rr = reszek(n)
-    hoz, biz = felosztas(n, rr, blokk, ix, txt)
+    hoz, biz = felosztas_reszek(n, rr, blokk, ix, txt)
     aktualis = None
     out = []
     for ri, r in enumerate(rr):
         us = [u for u in range(len(blokk)) if hoz[u] == ri]
+        if not us:
+            continue
         fok = []
         for u in range(us[-1] + 1):
             if blokk[u][0] == 'f':
@@ -589,10 +704,15 @@ def main():
             print(f"nagybetűs marad (a törzsszövegben nincs, rövidítés-gyanús): {d['tetel']}. tétel: {', '.join(d['nagybetus'])}")
         for b in d['bizonytalan']:
             print(f"bizonytalan: {d['tetel']}. tétel {b['blokk']}. blokk → {b['resz']}. rész ({b['ok']}): {b['szoveg']}")
+        for r in d['reszek']:
+            if not r['ttsId']:
+                print(f"hang nélküli rész: {d['tetel']}. tétel {r['partIndex']}. rész ({r['noteId']}, {r['title']}): "
+                      + (f"blokk {r['blokkok'][0]}–{r['blokkok'][1]}" if r['blokkok'] else 'TARTALOM NÉLKÜL (a tételben nincs a címével egyező címsor; HTML nem készült)'))
     idx = index_ir()
     o = idx['osszesites']
+    hn = sum(1 for d in kesz for r in d['reszek'] if not r['ttsId'])
     print(f"jegyzet_html: {len(kesz)} tétel kiírva; összesen {o['tetel']} tétel, {o['resz']} rész, {o['karakter']} karakter; "
-          f"bizonytalan blokk: {sum(len(d['bizonytalan']) for d in kesz)}")
+          f"bizonytalan blokk: {sum(len(d['bizonytalan']) for d in kesz)}" + (f"; hang nélküli rész: {hn}" if hn else ''))
 
 
 if __name__ == '__main__':

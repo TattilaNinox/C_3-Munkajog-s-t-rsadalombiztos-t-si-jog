@@ -381,12 +381,19 @@ def tokenek(s):
 
 
 def tetel_hang(n):
-    """A tétel hangdokumentumai: [(ttsId, meta, [(fájl, szöveg)])]."""
+    """A tétel hangdokumentumai: [(ttsId, meta, [(fájl, szöveg)])]. A tétel a tagPath első „> NN. ” tagjából; az új
+    tételsor-szerkezetben (nincs egyeb/notes/, van tetelsor/jegyzet_megfeleltetes.json) a meta noteId-jéből, mert ott a
+    tagPath tételcsoportot is tartalmaz („A/2 … > 14. A Bírósági Végrehajtás > 79. …”)."""
     out = []
+    jt = kozos.jegyzet_tetel()
     for f in sorted(glob.glob(os.path.join(GYOKER, 'tts', '*', '_meta.json'))):
         m = json.load(open(f, encoding='utf-8'))
-        mm = re.search(r'> (\d+)\. ', m['tagPath'] + ' ') or re.match(r'(\d+)\. ', m['title'])
-        if mm and int(mm.group(1)) == n:
+        if jt is not None:
+            talalt = jt.get(m.get('noteId')) == n
+        else:
+            mm = re.search(r'> (\d+)\. ', m['tagPath'] + ' ') or re.match(r'(\d+)\. ', m['title'])
+            talalt = bool(mm and int(mm.group(1)) == n)
+        if talalt:
             d = os.path.dirname(f)
             out.append((m['ttsId'], m, [(c['file'], open(os.path.join(d, c['file']), encoding='utf-8').read()) for c in m['chunks']]))
     return out

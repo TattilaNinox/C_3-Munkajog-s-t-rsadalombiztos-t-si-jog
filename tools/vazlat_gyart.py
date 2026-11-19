@@ -15,7 +15,7 @@ import kozos
 
 KI = os.path.join(kozos.GYOKER, 'termekek', 'hangos_vazlat')
 SEMA = 1
-ROV = r'(?:' + '|'.join(kozos.beallitas()['mondatRovidites']) + ')'
+ROV = r'(?:' + ('|'.join(kozos.beallitas()['mondatRovidites']) or '(?!)') + ')'   # üres lista: semmi sem rövidítés (különben minden szóvég az lenne)
 NAGY = 'A-ZÁÉÍÓÖŐÚÜŰ'
 
 
@@ -28,7 +28,7 @@ def mondatok(bek):
         elotte = bek[kezd:m.start()]
         if re.search(r'(?:\b' + ROV + r'|\b(?:[IVXLC]+|\d+)(?:/[A-Z])?|\([^)]*)\.$', elotte) and not re.search(r'\)\.$', elotte):
             # rövidítés, szám vagy lezáratlan zárójel után nem vágunk
-            jogszabaly = re.search(r'\b(?:' + '|'.join(kozos.beallitas()['jogszabalyRovidites']) + r')\.$', elotte) and re.match(r'(?:A|Az) ', bek[m.end():])
+            jogszabaly = re.search(r'\b(?:' + ('|'.join(kozos.beallitas()['jogszabalyRovidites']) or '(?!)') + r')\.$', elotte) and re.match(r'(?:A|Az) ', bek[m.end():])
             if not re.search(r'\bstb\.$', elotte) and not jogszabaly:
                 continue
         out.append(elotte.strip()); kezd = m.end()
@@ -152,6 +152,8 @@ def main():
                   open(os.path.join(KI, f'{n:02d}.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     a = sum(s[1] for s in stat); b = sum(s[2] for s in stat); c = sum(s[3] for s in stat); d = sum(s[4] for s in stat)
     print(f'kézzel véglegesítve: {sum(1 for x in stat if x[5])} tétel')
+    if not b:      # minden tétel gyártásra vár (új tételsor megnyitása): nincs mit összesíteni
+        print('0 tétel: nincs gyártott vázlat (minden tétel gyártásra vár, vagy nincs magyarázó mondat)'); return
     print(f'{len(stat)} tétel: {a} kulcsmondat a {b} magyarázó mondatból ({100*a//b}%), {c} karakter a {d}-ből ({100*c//d}%)')
     if len(stat) > 1:
         print('legkisebb arány:', sorted((100 * s[1] // s[2], s[0]) for s in stat)[:5], 'legnagyobb:', sorted((100 * s[1] // s[2], s[0]) for s in stat)[-5:])

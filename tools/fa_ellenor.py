@@ -146,6 +146,7 @@ def main():
         if h:
             hibas += 1; print(f'HIBA {os.path.basename(f)}'); [print('   ', x) for x in h]
         index.append({'id': d.get('id'), 'cim': d.get('cim'), 'tetel': d.get('tetel'), 'csomopont': len(d.get('csomopontok', {})), 'pelda': len(d.get('peldak', []))})
+    os.makedirs(KI, exist_ok=True)   # új tételsor: a mappa és az üres index.json kiinduló állapot
     json.dump({'sema': 1, 'termek': 'dontesi_fa', 'fak': index}, open(os.path.join(KI, 'index.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     print(f'döntési fák: {len(index)}, csomópont: {cs}, példa: {pe}, hibás fa: {hibas}')
     sys.exit(1 if hibas else 0)

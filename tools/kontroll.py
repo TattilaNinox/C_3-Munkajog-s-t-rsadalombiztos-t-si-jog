@@ -402,13 +402,19 @@ def nyilt_hiany(b, nyilt_ok):
 
 def korpusz_levezetes(b):
     """Korpuszból levezetett elhatárolás (Attila döntése, 2026-11-16, 10:12): "levezetes": "korpusz", legalább két
-    megnevezett korpusz-§, legalább 40 karakteres megjegyzés, és a bekezdés nem utal gyakorlatra, szakirodalomra,
+    megnevezett korpusz-§ (cikkre tagolt forrásnál cikk – KE-5), legalább 40 karakteres megjegyzés, és a bekezdés nem utal gyakorlatra, szakirodalomra,
     történetre, külföldi jogra vagy idegen megjelölésre. A „forras” és a „tortenet” jelző nem akadály, ha legalább
     40 karakteres "jelzo_indok" megmondja, hogy a jelzőt a normaszöveg saját fogalma váltja ki (2026-11-16, 12:25)."""
-    return (b.get('levezetes') == 'korpusz' and len(re.findall(r'§', str(b.get('korpusz') or ''))) >= 2
+    return (b.get('levezetes') == 'korpusz' and len(re.findall(r'§|\b[Cc]ikk\b', str(b.get('korpusz') or ''))) >= 2
             and len(str(b.get('megjegyzes') or '')) >= 40
             and not (set(b.get('jelzok', [])) & ({'kulfold', 'idegen'} if len(str(b.get('jelzo_indok') or '')) >= 40
                                                  else {'forras', 'tortenet', 'kulfold', 'idegen'})))
+
+
+def korpusz_megjeloles(k):
+    """Igaz, ha a korpusz-mező korpuszbeli forráshelyet nevez meg: §-t, cikket, vagy a korpuszban lévő előírt
+    iránymutatást (kontroll.iranymutatasRx) – az iránymutatás a forrássorrend (1) rangjába tartozik (KE-5)."""
+    return bool(re.search(r'§|\b[Cc]ikk\b', k) or re.search(IRANYMUTATAS_RX, k))
 
 
 def hiany_lista():
@@ -435,8 +441,9 @@ def hiba_bejegyzes(b, ptk, alap=None):
         if jz & KOTELEZO_TOBBLET:
             h.append('normának jelölve, de jelzője miatt többlet: ' + ', '.join(sorted(jz & KOTELEZO_TOBBLET)))
         k = b.get('korpusz') or ''
-        if not re.search(r'§|\b[Cc]ikk\b', k):
-            h.append('normánál a korpusz-§ (cikkre tagolt forrásnál a cikk) kötelező')
+        if not re.search(r'§|\b[Cc]ikk\b', k) and not re.search(IRANYMUTATAS_RX, k):
+            h.append('normánál a korpusz-§ (cikkre tagolt forrásnál a cikk; a korpuszban lévő előírt iránymutatás '
+                     'szövegénél az iránymutatás megjelölése) kötelező')
         elif ptk is not None:
             for kod, p, nev in korpusz_hivatkozasok(k, ptk):
                 if p not in ptk[kod]:
@@ -461,7 +468,7 @@ def hiba_bejegyzes(b, ptk, alap=None):
             h.append('eltérésnél a megjegyzés kötelező (miért marad így)')
         nh, nyilt_ok = nyilt_forras_hibak(b)
         h += nh
-        if ij.get('eredmeny') in ('nem_targyalja', 'nincs_szocikk', None) and ko.get('eredmeny') == 'nem_targyalja' and '§' not in (b.get('korpusz') or '') and not nyilt_ok:
+        if ij.get('eredmeny') in ('nem_targyalja', 'nincs_szocikk', None) and ko.get('eredmeny') == 'nem_targyalja' and not korpusz_megjeloles(b.get('korpusz') or '') and not nyilt_ok:
             h.append('nem igazolt állítás: sem IJOTEN, sem kommentár, sem korpusz-§, sem érvényes nyílt forrás – javítani vagy törölni kell')
         if nyilt_hiany(b, nyilt_ok) and str(b.get('datum') or '') >= NYILT_KOTELEZO_DATUM:
             h.append('a kommentár a tárgyat nem tárgyalja: érvényes nyílt forrás kötelező (vagy a korpusz-mezőben előírt '

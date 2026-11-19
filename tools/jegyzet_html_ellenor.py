@@ -9,7 +9,8 @@ Tételenként:
     egyeznek a tétel dobozával (a fejléc utáni sorok a következő blokkig; ezek eleje a kozos.dobozok sorai – ha a
     tetel_blokk még egy lezáró sort a dobozhoz számít, amelyet a kozos.dobozok nem, az FIGYELEM, nem hiba); a blokkok együtt a tétel minden nem üres sorát adják (a cím kivételével);
   - a részek blokktartománya folytonos, a partIndex 1-től folytonos, a partCount egyezik;
-  - minden jegyzetazonosító létezik a bázisban (egyeb/notes), egyedi, a ttsId a jegyzet audioSource-a;
+  - minden jegyzetazonosító létezik a bázisban (egyeb/notes; új szerkezetben: tetelsor/jegyzet_megfeleltetes.json és a
+    jegyzetek/NN/<noteId>.html), egyedi, a ttsId a jegyzet audioSource-a (hang nélküli részé: null);
   - a htmlContent = a részek HTML-jének összefűzése; a lenyomatok és az index.json egyeznek.
 Az utolsó sor: „jegyzet_html_ellenor: … hibás: N”; hibánál a kilépési kód 1.
 """
@@ -130,10 +131,30 @@ def bont(x):
 
 
 def bazis_jegyzetek():
+    jm = kozos.jegyzet_megfeleltetes()
+    if jm is not None:
+        return bazis_megfeleltetes(jm)
     out = {}
     for f in glob.glob(os.path.join(GY, 'egyeb', 'notes', '*', '*.json')):
         d = json.load(open(f, encoding='utf-8'))
         out[d['id']] = (int(os.path.basename(os.path.dirname(f))), d)
+    return out
+
+
+def bazis_megfeleltetes(jm):
+    """Az új tételsor-szerkezet bázisa (nincs egyeb/notes/): a tetelsor/jegyzet_megfeleltetes.json részei, amelyek
+    jegyzetfájlja (jegyzetek/NN/<noteId>.html) megvan; a hangforrás a noteId-hez `via: audioSource`-szal kötött
+    tts/*/_meta.json ttsId-je (ha nincs: None – hang nélküli rész)."""
+    hang = {}
+    for f in glob.glob(os.path.join(GY, 'tts', '*', '_meta.json')):
+        m = json.load(open(f, encoding='utf-8'))
+        if m.get('via') == 'audioSource':
+            hang[m['noteId']] = m['ttsId']
+    out = {}
+    for n, lista in jm.items():
+        for i, r in enumerate(lista, 1):
+            if os.path.isfile(os.path.join(GY, r['fajl'])):
+                out[r['noteId']] = (n, {'type': 'text', 'audioSource': hang.get(r['noteId']), 'partIndex': i, 'partCount': len(lista)})
     return out
 
 
@@ -177,9 +198,18 @@ def main():
         if len(sorok) != len(L) or elt:
             H(n, f'a blokkok nem a tétel sorai ({len(sorok)}/{len(L)} sor; eltérés: {elt[:3]})')
         reszek = d['reszek']
-        if [r['partIndex'] for r in reszek] != list(range(1, len(reszek) + 1)):
+        if kozos.jegyzet_megfeleltetes() is not None:
+            # új szerkezet: a tartalom nélküli, hang nélküli rész (a tétel szövege nem tartalmazza) nem kap blokkot – figyelmeztetés
+            for r in reszek:
+                if r.get('blokkok') is None and not r['html'] and not r['ttsId']:
+                    figyelem.append(f'{n}. tétel {r["partIndex"]}. rész ({r["noteId"]}): tartalom nélküli, hang nélküli rész – HTML nem készült')
+            teljes = reszek
+            reszek = [r for r in reszek if not (r.get('blokkok') is None and not r['html'] and not r['ttsId'])]
+        else:
+            teljes = reszek
+        if [r['partIndex'] for r in teljes] != list(range(1, len(teljes) + 1)):
             H(n, 'a partIndex nem 1-től folytonos')
-        if any(r['partCount'] != len(reszek) for r in reszek):
+        if any(r['partCount'] != len(teljes) for r in teljes):
             H(n, 'a partCount nem egyezik a részek számával')
         # blokktartomány folytonossága
         kov = 0
@@ -201,7 +231,7 @@ def main():
             bn, bd = bazis[nid]
             if bn != n or bd.get('type') != 'text' or bd.get('audioSource') != r['ttsId']:
                 H(n, f'{nid}: a bázisban más tételé, nem szöveges, vagy a hangforrása ({bd.get("audioSource")}) nem {r["ttsId"]}')
-            if len(reszek) > 1 and (bd.get('partIndex'), bd.get('partCount')) != (r['partIndex'], r['partCount']):
+            if len(teljes) > 1 and (bd.get('partIndex'), bd.get('partCount')) != (r['partIndex'], r['partCount']):
                 H(n, f'{nid}: a partIndex/partCount eltér a bázistól')
             if hashlib.sha256(r['html'].encode('utf-8')).hexdigest() != r['sha256']:
                 H(n, f'{nid}: a lenyomat nem a HTML-é')
@@ -229,7 +259,7 @@ def main():
             el, hb = bont(x)
             for h in hb:
                 H(n, f'{r["partIndex"]}. rész: {h}')
-            if len(reszek) == 1:
+            if len(teljes) == 1:
                 if not el or el[0] != ('h1', t['cim']):
                     H(n, 'az egyrészes tétel nem a tétel címével (<h1>) kezdődik')
                 el = el[1:]
@@ -254,10 +284,10 @@ def main():
             H(n, 'a normalizált szöveg eltér')
         # index
         it = idx_t.get(n)
-        if not it or it['sha256'] != hashlib.sha256(d['htmlContent'].encode('utf-8')).hexdigest() or it['reszek'] != len(reszek) \
-                or it['karakter'] != len(d['htmlContent']) or [x['sha256'] for x in it['reszLista']] != [r['sha256'] for r in reszek]:
+        if not it or it['sha256'] != hashlib.sha256(d['htmlContent'].encode('utf-8')).hexdigest() or it['reszek'] != len(teljes) \
+                or it['karakter'] != len(d['htmlContent']) or [x['sha256'] for x in it['reszLista']] != [r['sha256'] for r in teljes]:
             H(n, 'az index.json nem egyezik')
-        db_resz += len(reszek); db_blokk += len(blokk)
+        db_resz += len(teljes); db_blokk += len(blokk)
     o = idx['osszesites']
     if o['tetel'] != len(ts) or o['resz'] != db_resz:
         hibak.append(f'index.json összesítés: {o}')

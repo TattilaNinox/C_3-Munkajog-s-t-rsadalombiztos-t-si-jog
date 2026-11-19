@@ -85,6 +85,12 @@ def main():
         os.makedirs(os.path.dirname(dst), exist_ok=True)
         shutil.copy2(src, dst)
         hashes[rel] = sha256(dst)
+    # új tételsor: a helyi mátrixleírás üres váza (meglévőt nem ír felül; a TG-gyártás a végére írja az mx(…) sorokat)
+    ma = os.path.join(cel_tools, 'matrix_adat.py')
+    if not os.path.exists(ma):
+        open(ma, 'w', encoding='utf-8').write(
+            '"""A fogalommátrixok leírása; a tools/matrix_ir.py tölti be. Minden cella forrása a tétel egy teljes mondata."""\n'
+            'from matrix_ir import mx  # noqa: F401\n')
     kit = set(kozos)
     helyi = set(HELYI)
     for rel in rel_fajlok(cel_tools):

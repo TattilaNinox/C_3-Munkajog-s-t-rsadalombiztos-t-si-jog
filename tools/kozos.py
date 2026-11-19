@@ -173,6 +173,52 @@ def norm(s):
     return re.sub(r'\s+', ' ', s).strip()
 
 
+PONT_KIHAGYHATO = 'qxy'   # a jogszabályi pontjelölésben kimaradhat: p) után r), w) után z) (Itv. 57. § (1), 62. § (1))
+
+
+def pont_kovetkezo(jel):
+    """A felsorolás jel) pontja után következő pont lehetséges jelei (None: az első pont előtt → 'a').
+    Az ábécé következő betűje; a q, x, y kimaradhat (p) → q) vagy r), w) → x), y) vagy z)); z) után zs)."""
+    if jel is None:
+        return ('a',)
+    if jel == 'z':
+        return ('zs',)
+    if len(jel) != 1:
+        return ()
+    ki = []; c = ord(jel) + 1
+    while c <= ord('z'):
+        ki.append(chr(c))
+        if chr(c) not in PONT_KIHAGYHATO:
+            break
+        c += 1
+    return tuple(ki)
+
+
+_JM = []
+
+
+def jegyzet_megfeleltetes():
+    """A tétel–jegyzet megfeleltetés az új tételsor-szerkezetben: {tételszám: [{noteId, fajl, cim, …}, …]} a
+    tetelsor/jegyzet_megfeleltetes.json-ból, részsorrendben. None, ha a tárolóban van egyeb/notes/ (az A/1 szerkezete: a
+    részek az élő export jegyzeteiből jönnek, a kódút változatlan), vagy ha a megfeleltetés fájlja hiányzik."""
+    if not _JM:
+        f = os.path.join(GYOKER, 'tetelsor', 'jegyzet_megfeleltetes.json')
+        if os.path.isdir(os.path.join(GYOKER, 'egyeb', 'notes')) or not os.path.isfile(f):
+            _JM.append(None)
+        else:
+            d = json.load(open(f, encoding='utf-8'))
+            _JM.append({int(k): v for k, v in d['tetelek'].items()})
+    return _JM[0]
+
+
+def jegyzet_tetel():
+    """{noteId: tételszám} a jegyzet_megfeleltetes() szerint; None az A/1 szerkezetében (egyeb/notes/)."""
+    jm = jegyzet_megfeleltetes()
+    if jm is None:
+        return None
+    return {r['noteId']: n for n, lista in jm.items() for r in lista}
+
+
 def forrasok():
     d = json.load(open(os.path.join(GYOKER, 'tetelsor', 'forrasok.json'), encoding='utf-8'))
     return {f['kod']: f for f in d['forrasok']}

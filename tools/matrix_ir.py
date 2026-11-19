@@ -57,6 +57,7 @@ def mx(az, n, cim, bev, sorcimke, sorok, oszlopok, cellak, ossz=None):
 
 def main():
     import re
+    os.makedirs(KI, exist_ok=True)   # új tételsor: üres mappa
     for f in os.listdir(KI):
         m = re.match(re.escape(kozos.beallitas()['azon']) + r'_(\d+)_', f)
         if f.endswith('.json') and m and irando(int(m.group(1))):

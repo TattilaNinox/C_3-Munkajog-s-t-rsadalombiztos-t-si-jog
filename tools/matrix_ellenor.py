@@ -93,6 +93,7 @@ def main():
             hibas += 1; print('HIBA', os.path.basename(f)); [print('   ', x) for x in h]
         cella += len(d['cellak'])
         index.append({'id': d['id'], 'title': d['title'], 'tetelek': d['tetelek'], 'sor': len(d['sorok']), 'oszlop': len(d['oszlopok'])})
+    os.makedirs(KI, exist_ok=True)   # új tételsor: a mappa és az üres index.json kiinduló állapot
     json.dump({'sema': 1, 'termek': 'fogalommatrix', 'matrixok': index}, open(os.path.join(KI, 'index.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     print(f'fogalommátrixok: {len(index)}, cella: {cella}, hibás: {hibas}; gyártásra vár (elavult): {varo}')
     sys.exit(1 if hibas else 0)

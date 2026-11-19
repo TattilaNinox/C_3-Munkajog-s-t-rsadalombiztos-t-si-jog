@@ -31,10 +31,14 @@ def tetel_forrasai():
             KIHAGYOTT.append({'ttsId': d['ttsId'], 'via': d.get('via'), 'title': d['title']})
             continue
         n = None
-        for x in d['tagPath'].split(' > ')[1:] + [d['title']]:
-            g = re.match(r'\s*(\d+)\.\s', x)
-            if g:
-                n = int(g.group(1)); break
+        jt = kozos.jegyzet_tetel()     # új szerkezet: a tétel a noteId-ből (a tagPath tételcsoportot is tartalmaz)
+        if jt is not None:
+            n = jt.get(d.get('noteId'))
+        else:
+            for x in d['tagPath'].split(' > ')[1:] + [d['title']]:
+                g = re.match(r'\s*(\d+)\.\s', x)
+                if g:
+                    n = int(g.group(1)); break
         if n is None:
             raise SystemExit(f'Nem állapítható meg a tétel: {d["ttsId"]} | {d["tagPath"]} | {d["title"][:60]}')
         m.setdefault(n, []).append(d)
@@ -87,7 +91,8 @@ def main():
     for f in sorted(glob.glob(os.path.join(HANG, '*', '*.txt'))):
         lenyomat.update(os.path.relpath(f, kozos.GYOKER).replace(os.sep, '/').encode('utf-8') + b'\0')
         lenyomat.update(open(f, 'rb').read() + b'\0')
-    terv = {'sema': 1, 'termek': 'hangos_vazlat_tts', 'tetelsorId': json.load(open(os.path.join(kozos.GYOKER, 'EXPORT.json'), encoding='utf-8'))['tetelsorId'],
+    ex = os.path.join(kozos.GYOKER, 'EXPORT.json')   # új tételsoron (nincs élő export a tárolóban) a tetelsorId: null
+    terv = {'sema': 1, 'termek': 'hangos_vazlat_tts', 'tetelsorId': json.load(open(ex, encoding='utf-8'))['tetelsorId'] if os.path.exists(ex) else None,
             'hangHash': lenyomat.hexdigest(),
             'kihagyottHangdokumentum': KIHAGYOTT,
             'osszesites': {'dokumentum': len(dok), 'darab': sum(len(d['chunks']) for d in dok),

@@ -1,6 +1,6 @@
 # C/3 Munkajog és társadalombiztosítási jog – állapot
 
-**A rend: `tools/szabalyzat/00_GYARTASI_SZABALYZAT.md`** (a végleges gyártási szabályzat, a közös készlet zárolt másolata – készlet `b7d80b0`; a dolgozó beszélgetés ezt és ezt az állapotfájlt olvassa). A központi chat vezeti (Attila döntése, 2026-11-19, `01_dontesek.md`).
+**A rend: `tools/szabalyzat/00_GYARTASI_SZABALYZAT.md`** (a végleges gyártási szabályzat, a közös készlet zárolt másolata – készlet `732c88b`; a dolgozó beszélgetés ezt és ezt az állapotfájlt olvassa). A központi chat vezeti (Attila döntése, 2026-11-19, `01_dontesek.md`).
 
 ## 2026-11-19 – előkészítés indul (ág: `elokeszites-2026-11-19`)
 

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """A termékek egyetlen csomagfájlba fűzése a megjelenítő (admin előnézet, később kliens) számára.
 
-    python3 tools/csomag_gyart.py                          # ki/a1_termekcsomag.json (a teljes tételsor)
+    python3 tools/csomag_gyart.py                          # ki/<azon>_termekcsomag.json (a teljes tételsor)
     python3 tools/csomag_gyart.py --tetelek 12,38,64 --ki <fájl>   # szűkített minta (tesztadat)
 
 A csomag csak a termekek/ mappa ellenőrzött fájljaiból áll; futás előtt a program lefuttatja a kapukat
@@ -15,7 +15,9 @@ Szerkezet (sema 1):
   dontesi_fa{id: fa}, szamolo{id: számoló}, fogalommatrix{id: mátrix},
   tetelszoveg{"NN": [blokk]} (a tétel teljes szövege a „Teljes tétel” panelhez: tools/tetel_blokk.py),
   tetelhang{"NN": [{cim, path}]} (a tétel élő felolvasása részenként, olvasási sorrendben: a hangos vázlat terve szerinti
-  jegyzetek hangjának Storage-útvonala az élő exportból, egyeb/notes/; az aláírt címet lejátszáskor a szülő adja),
+  jegyzetek hangjának Storage-útvonala az élő exportból, egyeb/notes/; új tételsor-szerkezetben a
+  tetelsor/jegyzet_megfeleltetes.json és a tts/*/_meta.json alapján audio/notes/<ttsId>.mp3; az aláírt címet lejátszáskor
+  a szülő adja),
   osszesites{…darabszámok…}, sha256 (a csomag tartalmának lenyomata az `sha256` mező nélkül, kanonikus JSON-ból)
 """
 import argparse, glob, hashlib, json, os, re, subprocess, sys
@@ -89,12 +91,29 @@ def main():
         if any(kell(n) for n in d['tetelek']):
             cs['fogalommatrix'][d['id']] = d
     terv = {d['sorszam']: d for d in json.load(open(os.path.join(T, 'hangos_vazlat', 'tts_terv.json'), encoding='utf-8'))['dokumentumok']}
+    jm = kozos.jegyzet_megfeleltetes()
+    hangforras = {}
+    if jm is not None:
+        for f in glob.glob(os.path.join(kozos.GYOKER, 'tts', '*', '_meta.json')):
+            m = json.load(open(f, encoding='utf-8'))
+            if m.get('via') == 'audioSource':
+                hangforras[m['noteId']] = m['ttsId']
     for t in ts['tetelek']:
         n = t['sorszam']
         if not kell(n):
             continue
         reszek = []
-        for nid in terv[n]['jegyzet']:
+        if jm is not None:
+            # új tételsor-szerkezet (nincs egyeb/notes/): a részek sorrendje és címe a tetelsor/jegyzet_megfeleltetes.json-é,
+            # a hang Storage-útvonala a rész audioSource-hangdokumentumáé: audio/notes/<ttsId>.mp3 (az élő jegyzetek
+            # audioPath-mintája; az A/1 152 jegyzetén kivétel nélkül ez); hang nélküli rész nem kerül a felolvasásba
+            for i, r in enumerate(jm.get(n) or [], 1):
+                tid = hangforras.get(r['noteId'])
+                if r['noteId'] not in terv[n]['jegyzet'] or not tid:
+                    continue
+                m = re.match(r'^(\d+)(?:\)\.?|\.\))\s*(.*)$', r['cim'])
+                reszek.append((i, m.group(2) if m else r['cim'], f'audio/notes/{tid}.mp3'))
+        for nid in ([] if jm is not None else terv[n]['jegyzet']):
             j = json.load(open(os.path.join(kozos.GYOKER, 'egyeb', 'notes', f'{n:02d}', nid + '.json'), encoding='utf-8'))
             # A hang Storage-útvonala (audio/…): lejátszáskor a szülő kér hozzá aláírt címet (a nyilvános elérés megszűnik).
             ut = (j.get('audioPath') or '').strip().lstrip('/').split('?')[0]
