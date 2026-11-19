@@ -1,15 +1,14 @@
 # S1 – alapfelvétel: C/3 – Munkajog és társadalombiztosítási jog
 
 - kiírás: 56 tétel (tetelsor/kiiras_2026.txt); jegyzet: 201 rész 56 tételben
-- feloldott hivatkozás: 472; feloldatlan: 2; a kiírás által nem hivatkozott korpusz-fájl: 9
+- feloldott hivatkozás: 472; feloldatlan: 0; a kiírás által nem hivatkozott korpusz-fájl: 9
 - alapfelvételi hiba: 0
 - tételcsoport-előírás: A KÖZSZFÉRA MUNKAJOGA (4 hivatkozás); TÁRSADALOMBIZTOSÍTÁSI JOG (3 hivatkozás)
 
 
 ## Feloldatlan hivatkozások (hiánylista a korpuszhoz)
 
-- 27. tétel: fel nem ismert hivatkozás: a Nemzetközi Munkaügyi Konferencia 1949. évi 32. ülésszakán elfogadott 95. számú Egyezmény kihirdetéséről
-- 37. tétel: fel nem ismert hivatkozás: cikk
+- nincs
 
 ## Átfogó ismeret (a kiírás elején)
 
@@ -57,7 +56,7 @@
 | 24 | A szabadság (alap- és pótszabadság) mértéke, kiadása, az apasági szaba | 9 | 106473 | 164372 | 0 |
 | 25 | A betegszabadság, a szülési szabadság és a fizetés nélküli szabadság,  | 3 | 78683 | 72948 | 0 |
 | 26 | A munka díjazása, díjazás munkavégzés hiányában, a távolléti díj számí | 4 | 70766 | 45886 | 0 |
-| 27 | A munkabér védelme, a munkabérből való levonás szabályai, a jogalap né | 4 | 102891 | 46914 | 1 |
+| 27 | A munkabér védelme, a munkabérből való levonás szabályai, a jogalap né | 4 | 102891 | 46914 | 0 |
 | 28 | A munkáltató kártérítési felelőssége. | 6 | 107534 | 107111 | 0 |
 | 29 | A munkavállaló kártérítési felelőssége, a megőrzési felelősség, a lelt | 7 | 67870 | 24014 | 0 |
 | 30 | A határozott idejű munkaviszonyra vonatkozó különös szabályok, munkavé | 2 | 25215 | 27042 | 0 |
@@ -67,7 +66,7 @@
 | 34 | A vezető állású munkavállalóra vonatkozó rendelkezések. | 2 | 20316 | 6338 | 0 |
 | 35 | A munkaerő-kölcsönzésre vonatkozó legfontosabb rendelkezések. | 5 | 246536 | 226873 | 0 |
 | 36 | A munkaviszonyhoz kapcsolódó egyes megállapodások: a versenytilalmi me | 3 | 43911 | 81366 | 0 |
-| 37 | A kollektív szerződés megkötése és tartalma, hatálya, megszűnése. | 3 | 54392 | 45086 | 1 |
+| 37 | A kollektív szerződés megkötése és tartalma, hatálya, megszűnése. | 3 | 54392 | 45086 | 0 |
 | 38 | A munkajogi igény érvényesítésének szabályai. | 15 | 211270 | 590072 | 0 |
 | 39 | Kollektív munkaügyi vita. | 2 | 34754 | 2570 | 0 |
 | 40 | A sztrájkhoz való jog a sztrájkról szóló 1989. évi VII. törvény rendel | 5 | 122819 | 112573 | 0 |

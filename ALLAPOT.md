@@ -34,6 +34,8 @@ A tételszám 56: a kiírás 1–56. tétele és a `jegyzetek/manifest.json` sor
 - `kihagy: 95/46/EK` – az 1. tételben csak a GDPR címében áll („…valamint a 95/46/EK irányelv hatályon kívül helyezéséről”); hatályon kívül helyezett irányelv, nem önálló előírás.
 - `kihagy: 2010/18/EU` – a 24. tételben csak a (EU) 2019/1158 irányelv címében áll („…és a 2010/18/EU tanácsi irányelv hatályon kívül helyezéséről”); hatályon kívül helyezett irányelv, nem önálló előírás.
 - `megfeleltet`: üres.
+- `nemHivatkozas: a Nemzetközi Munkaügyi Konferencia 1949. évi 32. ülésszakán elfogadott 95. számú Egyezmény kihirdetéséről` (2026-11-19) – a 27. tételben a 2000. évi LIV. törvény (az ILO 95. sz. egyezmény kihirdetése) címének folytatása; a törvény a tétel feloldott hivatkozásai között van (teljes fájl), a szövegrész nem önálló forrás.
+- `nemHivatkozas: cikk (3) bekezdés` (2026-11-19) – a 37. tételben a kiírás elírása („2001/23/EK irányelve … 3. § cikk (3) bekezdés”): a „3. §” feloldott hivatkozásként felhasználódik, az irányelv a tétel feloldott hivatkozása (teljes fájl, így a 3. cikke is), a maradék „cikk (3) bekezdés” nem önálló hivatkozás. Utána: `alapfelvetel: tétel 56, feloldott 472, feloldatlan 0, hiba 0`.
 
 ### A beállítás döntései
 
