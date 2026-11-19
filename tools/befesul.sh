@@ -10,7 +10,7 @@
 #    2. git fetch origin;
 #    3. git checkout <ág> && git pull --ff-only origin <ág>; a helyi ág csúcsa = origin/<ág> (csak a feltöltött,
 #       auditált állapot fésülhető be);
-#    4. audit-jel: az utolsó commit üzenete „Audit (központi chat):” kezdetű, és az ALLAPOT.md valamely „## 2026” kezdetű
+#    4. audit-jel: az utolsó commit üzenete „Audit (központi chat):” vagy „Audit (tételsor-chat):” kezdetű, és az ALLAPOT.md valamely „## 2026” kezdetű
 #       szakaszcíme tartalmazza az ág nevét (önálló szóként) és az „auditálva, befésülhető” szöveget;
 #    5. git checkout <célág> && git pull --ff-only origin <célág>; a helyi célág csúcsa = origin/<célág> (helyi, fel nem
 #       töltött commit a célágon nem lehet);
@@ -77,8 +77,8 @@ git pull --ff-only origin "$AG" || allj 3 "a git pull --ff-only origin $AG nem s
 lepes "4. Audit-jel"
 UTOLSO=$(git log -1 --format=%s)
 case "$UTOLSO" in
-  "Audit (központi chat):"*) : ;;
-  *) allj 4 "az utolsó commit nem audit-commit (az üzenete nem „Audit (központi chat):” kezdetű): „$UTOLSO”. Az ág nincs auditálva." ;;
+  "Audit (központi chat):"*|"Audit (tételsor-chat):"*) : ;;
+  *) allj 4 "az utolsó commit nem audit-commit (az üzenete nem „Audit (központi chat):” vagy „Audit (tételsor-chat):” kezdetű): „$UTOLSO”. Az ág nincs auditálva." ;;
 esac
 [ -f ALLAPOT.md ] || allj 4 "nincs ALLAPOT.md a munkaágon."
 AGRX=$(printf '%s' "$AG" | sed 's/[.]/\\./g')

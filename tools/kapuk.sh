@@ -22,6 +22,10 @@
 # a --tetel módban viszont a `kontroll.py kapu NN…` 1-es kódja hiba (a megadott tétel nincs lezárva).
 # Egyébként 1. Ha egy érték nem olvasható ki a kimenetből, az is hiba (1).
 #
+# Termék nélküli tételsor (a termekek/paragrafus_jegyzek mappában nincs .json – még egyetlen termék sincs legyártva):
+# a teljes futás a három tételkaput futtatja (kontroll.py kapu, ellenorzes.py, doboz_teljesseg.py), a termékkapuk
+# kimaradnak, erről külön sor szól, a zárósor: `KAPUK: 3 futott (termék nincs legyártva – a 9 termékkapu kihagyva); …`.
+#
 # macOS-en is fut: bash 3.2, BSD eszközök (nincs mapfile, grep -P, GNU sed -i/date); a szövegvágás python3-mal.
 
 cd "$(dirname "$0")/.." || { echo "HIBA: a tároló gyökere nem érhető el" >&2; exit 1; }
@@ -78,6 +82,10 @@ PY
 OSSZEOMLOTT=0
 SOROK="$TMP/sorok.txt"; : > "$SOROK"
 
+# termék nélküli tételsor: nincs legyártott §-jegyzék (a gépi gyártás első terméke)
+TERMEK_NINCS=0
+if ! ls termekek/paragrafus_jegyzek/*.json > /dev/null 2>&1; then TERMEK_NINCS=1; fi
+
 python3 tools/eszkoz_ellenor.py > "$TMP/eszkoz_ellenor.txt" 2>&1
 ERC=$?
 if [ "$ERC" != 0 ]; then
@@ -118,6 +126,9 @@ else
   futtat "kontroll.py kapu" "0 1" python3 tools/kontroll.py kapu
   futtat "ellenorzes.py" "0" python3 tools/ellenorzes.py
   futtat "doboz_teljesseg.py" "0 1" python3 tools/doboz_teljesseg.py
+  if [ "$TERMEK_NINCS" = 1 ]; then
+    printf '%s | %s | %s\n' "termékkapuk" "–" "kihagyva: termék nincs legyártva (a termekek/paragrafus_jegyzek üres vagy hiányzik)" >> "$SOROK"
+  else
   futtat "termek_ellenor.py" "0" python3 tools/termek_ellenor.py
   futtat "fa_ellenor.py" "0" python3 tools/fa_ellenor.py
   futtat "szamolo_ellenor.py" "0" python3 tools/szamolo_ellenor.py
@@ -127,6 +138,7 @@ else
   futtat "hangszoveg.py lefed" "0" python3 tools/hangszoveg.py lefed
   futtat "csomag_gyart.py" "0" python3 tools/csomag_gyart.py
   futtat "jegyzet_html_ellenor.py" "0" python3 tools/jegyzet_html_ellenor.py
+  fi
   KONTROLL_KI="$TMP/kontroll_py_kapu.txt"
 fi
 
@@ -143,7 +155,9 @@ ertek() {  # ertek <kapu kimenetfájl> <regex> <név>
   if [ -z "$v" ]; then NEM_OLVASHATO="$NEM_OLVASHATO $3"; else OSSZEG=$((OSSZEG + v)); fi
 }
 ertek "$TMP/ellenorzes_py.txt" 'eltérés: (\d+)' "ellenorzes.py"
-if [ "$TETEL_MOD" = 0 ]; then
+if [ "$TETEL_MOD" = 0 ] && [ "$TERMEK_NINCS" = 1 ]; then
+  DB="3 futott (termék nincs legyártva – a 9 termékkapu kihagyva)"
+elif [ "$TETEL_MOD" = 0 ]; then
   ertek "$TMP/termek_ellenor_py.txt" 'eltérés: (\d+)' "termek_ellenor.py"
   ertek "$TMP/fa_ellenor_py.txt" 'hibás fa: (\d+)' "fa_ellenor.py"
   ertek "$TMP/szamolo_ellenor_py.txt" 'hibás: (\d+)' "szamolo_ellenor.py"
@@ -152,14 +166,14 @@ if [ "$TETEL_MOD" = 0 ]; then
   SHA=$(szam "$TMP/csomag_gyart_py.txt" '^sha256 ([0-9a-f]{64})')
   [ -z "$SHA" ] && { SHA="(nem olvasható)"; OSSZEOMLOTT=1; }
   echo "csomag sha256: $SHA"
-  DB=12
+  DB="12 futott"
 else
-  DB=2
+  DB="2 futott"
 fi
 if [ -n "$NEM_OLVASHATO" ]; then
-  echo "KAPUK: $DB futott; eltérés/hibás: $OSSZEG; NEM OLVASHATÓ ÉRTÉK:$NEM_OLVASHATO"
+  echo "KAPUK: $DB; eltérés/hibás: $OSSZEG; NEM OLVASHATÓ ÉRTÉK:$NEM_OLVASHATO"
 else
-  echo "KAPUK: $DB futott; eltérés/hibás: $OSSZEG"
+  echo "KAPUK: $DB; eltérés/hibás: $OSSZEG"
 fi
 
 # az időbélyeges jelentésfájlok visszaállítása
