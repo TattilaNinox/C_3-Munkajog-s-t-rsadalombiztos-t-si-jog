@@ -36,10 +36,19 @@ def romai_token(x):
     return bool(re.fullmatch(r'[ivxl]+', x)) or (len(x) >= 3 and bool(x) and bool(_ROMAI.fullmatch(x)))
 
 def szam(n):
-    """Tőszámnév betűvel (0–999 999)."""
+    """Tőszámnév betűvel; egymillió fölött „hárommillió-kétszázezer”, „egymilliárd-kétszázmillió” (KE-13)."""
     n = int(n)
     if n == 0:
         return 'nulla'
+    if n >= 1000000:
+        tagok = []
+        for ertek, nev in ((1000000000, 'milliárd'), (1000000, 'millió')):
+            k, n = divmod(n, ertek)
+            if k:
+                tagok.append(('egy' if k == 1 else 'két' if k == 2 else szam(k)) + nev)
+        if n:
+            tagok.append(szam(n))
+        return '-'.join(tagok)
     def szaz_alatt(k, elol=False):
         t, e = divmod(k, 10)
         if t == 1 and e:
@@ -136,6 +145,7 @@ _K = kozos.beallitas().get('kiejtes') or {}
 TORVENY = [tuple(x) for x in (_K.get('torveny') or [])]  # (minta, névelő nélküli alak); A/1: Ptk. → Polgári Törvénykönyv
 ROVID = [tuple(x) for x in (_K.get('rovid') or [])]
 LATIN = [tuple(x) for x in (_K.get('latin') or [])]
+KIHAGY = re.compile(_K['kihagyRx']) if _K.get('kihagyRx') else None   # fel nem olvasott blokk (pl. a csatolt határozat forrássora)
 PER = lambda b: ' per ' + pontbetu(b) if b else ''
 PAR = r'(\d+)(?::(\d+))?(?:/([A-Z]))?'
 PARX = r'\d+(?::\d+)?(?:/[A-Z])?'                                  # ugyanaz csoport nélkül (felsoroláshoz)
@@ -184,8 +194,9 @@ def bekezdesek(s):
 PAR_BEK = re.compile(r'(paragrafus(?:-?[a-záéíóöőúüű]+)?) (\(\d+[a-z]?\)(?:' + KOTO + r'\(\d+[a-z]?\))*)(?!' + KOTO + r'\(\d+[a-z]?\))(?!\s*bekezd)')
 # a § vagy bekezdés után álló, „pont” szó nélküli pontbetű: „§ b)” → „bé pont”, „(1) d), e)” → „dé, e.: pont”
 BEK_PONT = re.compile(r'\b(paragrafus|bekezdés) ((?:[a-z]{1,2}\)' + KOTO + r'(?=[a-z]{1,2}\)))*[a-z]{1,2}\))(?!' + KOTO + r'[a-z]{1,2}\))(?!\s*(?:pont|alpont))')
+BEK_PONT_TOVABB = re.compile(r'(\bpont' + KOTO + r')\((\d+[a-z]?)\) ((?:[a-z]{1,2}\)' + KOTO + r'(?=[a-z]{1,2}\)))*[a-z]{1,2}\))(?!' + KOTO + r'[a-z]{1,2}\))(\s*(?:pont|alpont))?')
 # névelő a betűvel kiírt szám, betűjel előtt: a kiejtett alak első hangja dönt
-SZAM_MGH = r'(?:egy|első|öt|ezer|a\.:|e\.:|i\.:|o\.:|el|em|en|ef|er|es|iksz|ipszilon)'
+SZAM_MGH = r'(?:egy|első|öt|ezer|a\.:|e\.:|i\.:|o\.:|u\.:|el|em|en|ef|er|es|iksz|ipszilon)'
 SZAM_MSH = (r'(?:kettes|kettedik|hármas|harmadik|négyes|negyedik|hatos|hatodik|hetes|hetedik|nyolcas|nyolcadik|kilences|kilencedik|'
             r'tízes|tizedik|húszas|huszadik|második|bé|cé|dé|gé|há|jé|ká|pé|té|vé|zé)')
 SZAM_MSH_TO = r'(?:tizen|huszon|harminc|negyven|hatvan|hetven|nyolcvan|kilencven|száz|kétszáz|háromszáz|négyszáz|hatszáz|hétszáz|nyolcszáz|kilencszáz|kétezer|háromezer)'
@@ -212,6 +223,13 @@ def hangra(szoveg, doboz=False):
     s = re.sub(r'\bJpe\.(' + RSZ + r')\.(\d+)\.(0*)(\d+)/(\d{4})/(\d+)\.?',
                lambda m: f'jé-pé-e {es(romai(m.group(1)))} {szam(m.group(2))} pont ' + 'nulla ' * len(m.group(3))
                + f'{szam(m.group(4))} per {szam(m.group(5))} per {sorszam(m.group(6))}', s)
+    # pont és kétbetűs alpontja láncban, „pont” szó nélkül: „(2) b) ba)” → „bé pont bé, a.: alpont” (KE-16)
+    s = re.sub(r'\b([a-z])\)\s+(\1[a-z])\)', lambda m: pontbetu(m.group(1)) + ' pont ' + pontbetu(m.group(2)) + ' alpont', s)
+    # szögletes zárójelben álló csupasz betűjel: „[a)]”, „[cb)]” → „(a.: pont)”, „(cé, bé pont)” (KE-14)
+    s = re.sub(r'\[([a-z]{1,2})\)\]', lambda m: '(' + pontbetu(m.group(1)) + ' pont)', s)
+    # a preambulum szögletes zárójeles pontja: „[preambulum [3]; 4. § (1)]” → „(preambulum hármas pont; …)” (KE-13)
+    s = re.sub(r'\bpreambulum \[(\d+)\](?:\s*[–-]\s*\[(\d+)\])?',
+               lambda m: 'preambulum ' + es(m.group(1)) + ('–' + es(m.group(2)) if m.group(2) else '') + ' pont', s)
     # sor eleji bekezdés- és pontjelek (dobozban)
     s = re.sub(r'(?m)^\((\d+)([a-z])\)[^\S\n]+', lambda m: f'{szam(m.group(1)).capitalize()} {pontbetu(m.group(2))} bekezdés. ', s)
     s = re.sub(r'(?m)^\((\d+)\)[^\S\n]+', lambda m: es(m.group(1)).capitalize() + '. ', s)
@@ -220,6 +238,8 @@ def hangra(szoveg, doboz=False):
     s = re.sub(r'(?m)^\((\d+)\)$', lambda m: es(m.group(1)).capitalize() + '.', s)
     s = re.sub(r'(?m)^([a-z]{1,2})\)$', lambda m: sor_pontbetu(m.group(1)).rstrip(), s)
     s = re.sub(r'(?m)^([A-Z])\)[^\S\n]+(?=[' + NAGYBETU + r']{2})', lambda m: sor_pontbetu(m.group(1)), s)   # „A) SZERZŐDÉS…” címsor
+    # a számozott pont első betűs alpontja ugyanabban a sorban: „1. a) ha …” → „első pont: a.: ha …” (KE-12)
+    s = re.sub(r'(?m)^(\d+)\.[^\S\n]+([a-z]{1,2})\)[^\S\n]+', lambda m: sorszam(m.group(1)) + ' pont: ' + sor_pontbetu(m.group(2)), s)
     s = re.sub(r'(?m)^(\d+)\.[^\S\n]+(?=[a-záéíóöőúüű])', lambda m: sorszam(m.group(1)) + ' pont: ', s)
     # címsorok
     s = re.sub(r'(?m)^(' + RSZ + r')\.[^\S\n]+(?=[A-ZÁÉÍÓÖŐÚÜŰ])', lambda m: sorszam(romai(m.group(1))).capitalize() + '. ' if m.group(1) else m.group(0), s)
@@ -233,20 +253,31 @@ def hangra(szoveg, doboz=False):
             koz = ' számú'
         return f'{szam(szam_)} per {szam(ev)}{koz} ' + {'PK vélemény': 'pé-ká vélemény', 'PJE': 'Polgári jogegységi határozat',
                'KPJE': 'Közigazgatási-polgári jogegységi határozat',
+               'KMPJE': 'Közigazgatási-munkaügyi-polgári jogegységi határozat',
                'BKMPJE': 'büntető-közigazgatási-munkaügyi-polgári jogegységi határozat'}[faj]
-    s = re.sub(r'(\d+)/(\d{4})\.(?:\s*\(([IVX]+)\.\s*(\d+)\.\))?\s*(PK vélemény|PJE|KPJE|BKMPJE)(?: határozat)?', iranymutatas, s)
-    PKGK = {'PK': 'pé-ká', 'GK': 'gé-ká'}
+    # a nagybetűs határozatcímben is: „4/2003. SZÁMÚ PJE HATÁROZAT” (KE-16)
+    s = re.sub(r'(\d+)/(\d{4})\.(?:\s*\(([IVX]+)\.\s*(\d+)\.\))?(?:\s*(?:számú|SZÁMÚ))?\s*(PK vélemény|PJE|KPJE|KMPJE|BKMPJE)(?: határozat| HATÁROZAT)?', iranymutatas, s)
+    PKGK = {'PK': 'pé-ká', 'GK': 'gé-ká', 'MK': 'em-ká'}      # MK: KE-16
     RAG_HATSO = {'et': 't', 'at': 't', 't': 't', 'ben': 'ban', 'ban': 'ban', 'nek': 'nak', 'nak': 'nak', 're': 'ra', 'ra': 'ra',
                  'hez': 'hoz', 'hoz': 'hoz', 'ből': 'ból', 'ból': 'ból', 'től': 'tól', 'tól': 'tól', 'ről': 'ról', 'ról': 'ról',
                  'vel': 'sal', 'val': 'sal', 'ig': 'ig'}
     # toldalékos alak: „PK 40.-et” → „pé-ká negyvenes számú állásfoglalást”
-    s = re.sub(r'\b(PK|GK)\s*(\d+)\.-([a-záéíóöőúüű]+)\b',
+    s = re.sub(r'\b(PK|GK|MK)\s*(\d+)\.-([a-záéíóöőúüű]+)\b',
                lambda m: f'{PKGK[m.group(1)]} {es(m.group(2))} számú állásfoglalás' + RAG_HATSO.get(m.group(3), m.group(3)), s)
     # mondatvég: „GK 54. A Gazdasági Kollégium …” – a szám utáni nagybetűs folytatás új mondat
-    s = re.sub(r'\b(PK|GK)\s*(\d+)\.(?=\s+[' + NAGYBETU + r'](?:\s|[' + KISBETU + r']))',
+    s = re.sub(r'\b(PK|GK|MK)\s*(\d+)\.(?=\s+[' + NAGYBETU + r'](?:\s|[' + KISBETU + r']))',
                lambda m: f'{PKGK[m.group(1)]} {es(m.group(2))} számú állásfoglalás.', s)
-    s = re.sub(r'\b(PK|GK)\s*(\d+)\.(?:\s*(?:számú|SZÁMÚ))?', lambda m: PKGK[m.group(1)] + ' ' + es(m.group(2)) + ' számú', s)
+    # önálló sorban (alcímként) álló jelzet: „PK 166.” → „pé-ká százhatvanhatos számú állásfoglalás” (KE-16)
+    s = re.sub(r'(?m)^(PK|GK|MK)\s*(\d+)\.[^\S\n]*$', lambda m: f'{PKGK[m.group(1)]} {es(m.group(2))} számú állásfoglalás', s)
+    s = re.sub(r'\b(PK|GK|MK)\s*(\d+)\.(?:\s*(?:számú|SZÁMÚ))?', lambda m: PKGK[m.group(1)] + ' ' + es(m.group(2)) + ' számú', s)
     s = re.sub(r'\b([IVX]+)\.\s*számú Polgári Elvi Döntés', lambda m: es(romai(m.group(1))) + ' számú Polgári Elvi Döntés', s)
+    # elvi bírósági döntés: „EBD2012.K. 6.” → „e-bé-dé kétezer-tizenkettő ká hat” (a betű a betűjel-szabály szerint)
+    s = re.sub(r'\bEBD(\d{4})\.([A-Z])\.\s*(\d+)\.?(?=\s|[,;)\]]|$)', lambda m: f'e-bé-dé {szam(m.group(1))} {pontbetu(m.group(2))} {szam(m.group(3))}', s)
+    # tizedes tört: „1,5” → „egy egész öt tized”, „0,05” → „nulla egész öt század”, „1,5%-a” → „… százaléka”
+    # (a felsorolás „1, 5” a vessző utáni szóköz miatt nem illeszkedik)
+    s = re.sub(r'(?<![\d.,])(\d+),(\d{1,3})(?![\d])(?!,\d)(?:(\s?%)(?:-([a-záéíóöőúüű]+))?)?',
+               lambda m: f'{szam(m.group(1))} egész {szam(m.group(2))} ' + ('tized', 'század', 'ezred')[len(m.group(2)) - 1]
+               + (' százalék' + (m.group(4) or '') if m.group(3) else ''), s)
     # dátumok (a §-felsorolás előtt: „2014. március 15., 8:4. §”)
     HN = '|'.join(HONAP)
     def nap(m):
@@ -263,9 +294,15 @@ def hangra(szoveg, doboz=False):
                 'jei': 'i', 'ával': 'val', 'ével': 'val', 'a': '', 'e': '', 'je': '', '': '', 'ára': 'ra', 'ére': 'ra', 'jére': 'ra'}.get(rag)
         if oszt is None:
             return m.group(0)
-        return (szam(ev) + ' ' if ev else '') + ho + ' ' + to + kul[oszt][0 if mely else 1]
+        # mondatvégi dátum („… február 8. Az időbeli …”): a mondatzáró pont megmarad (KE-13)
+        veg = '.' if m.group(0).endswith('.') and re.match(r'\s+(?:Az?|Ez|Ezt|Ha|Ezért|Ettől)\s', m.string[m.end():]) else ''
+        return (szam(ev) + ' ' if ev else '') + ho + ' ' + to + kul[oszt][0 if mely else 1] + veg
     s = re.sub(r'(?:(\d{4})\. )?(' + HN + r') (\d{1,2})\.?(?:-([a-záéíóöőúüű]+))?', nap, s)
     # jogszabályhelyek
+    # a bekezdés rövidített jele a bekezdésszám után: „(1) bek.” → „(1) bekezdés”, „(3)-(5) bek.” → „(3)–(5) bekezdés”
+    s = re.sub(r'\((\d+[a-z]?)\)\s*-\s*\((\d+[a-z]?)\)(?=\s*bek\.)', r'(\1)–(\2)', s)
+    s = re.sub(r'(?<=\))(\s*)bek\.(?=\s+[' + NAGYBETU + r']|\s*$)', r'\1bekezdés.', s)
+    s = re.sub(r'(?<=\))(\s*)bek\.', r'\1bekezdés', s)
     def tartomany(m):
         a1, b1, c1, a2, b2, c2 = m.groups()
         if b1 is not None:
@@ -285,9 +322,22 @@ def hangra(szoveg, doboz=False):
     s = PAR_BEK.sub(lambda m: m.group(1) + ' ' + re.sub(r'\((\d+[a-z]?)\)', lambda x: bek_szam(x.group(1)), m.group(2)) + ' bekezdés', s)
     s = re.sub(r'\((\d+)\)(?=\s*(?:[–-]|és|,)\s*\(?\d*\)?\s*bekezd)', lambda m: es(m.group(1)), s)
     s = BEK_PONT.sub(lambda m: m.group(1) + ' ' + re.sub(r'\b([a-z]{1,2})\)', lambda x: pontbetu(x.group(1)), m.group(2)) + ' pont', s)
+    # a pont után felsorolt további bekezdés a pontjával: „§ (1) d), (5) a)” → „… egyes bekezdés dé pont, ötös bekezdés a.: pont”
+    while True:
+        u = BEK_PONT_TOVABB.sub(lambda m: m.group(1) + bek_szam(m.group(2)) + ' bekezdés ' + re.sub(r'\b([a-z]{1,2})\)', lambda x: pontbetu(x.group(1)), m.group(3))
+                               + (m.group(4) or ' pont'), s)
+        if u == s:
+            break
+        s = u
+    # a § számozott pontjának betűs alpontja: „§ 2. d)” → „… paragrafus második pont dé alpont”
+    s = re.sub(r'\bparagrafus (\d+)\. ([a-z]{1,2})\)(?!\s*(?:pont|alpont))', lambda m: f'paragrafus {sorszam(m.group(1))} pont {pontbetu(m.group(2))} alpont', s)
+    # kétbetűs alpontok tartománya: „ca)–cf)” → „cé, a.:–cé, ef” (KE-12; az egybetűs tartomány alakja változatlan)
+    s = re.sub(r'\b([a-z]{1,2})\)[–-]([a-z]{2})\)', lambda m: pontbetu(m.group(1)) + '–' + pontbetu(m.group(2)), s)
     s = re.sub(r'\b([a-z]{1,2})\)(?=\s*(?:pont|alpont|[–-])|,?\s+(?:(?:és|vagy|illetve|valamint)\s+)?(?:az? )?[a-z]{1,2}\))', lambda m: pontbetu(m.group(1)), s)
     s = re.sub(r'\b([a-z])\)[–-]([a-z])\)', lambda m: pontbetu(m.group(1)) + '–' + pontbetu(m.group(2)), s)
     s = re.sub(r'\b(' + RSZ + r')/(\d+)\.(?=\s|[,;)])', lambda m: sorszam(romai(m.group(1))) + ' per ' + sorszam(m.group(2)) if m.group(1) else m.group(0), s)
+    # a cikk zárójeles számú pontja: „az (1) pont szerint”, „8. cikk (3) pontja” → „egyes pont”, „hármas pontja” (KE-12)
+    s = re.sub(r'\((\d+)\)(?=\s*pont)', lambda m: es(m.group(1)), s)
     s = re.sub(r'\b(\d+)[–-](\d+)\.\s*(?=pont)', lambda m: sorszam(m.group(1)) + '–' + sorszam(m.group(2)) + ' ', s)
     s = re.sub(r'\b(\d+)\.\s*(?=pont)', lambda m: sorszam(m.group(1)) + ' ', s)
     # római szám: tagolási egység előtt, a mondat belsejében (kisbetűs folytatás, vessző, pontosvessző, zárójel előtt) is
@@ -329,10 +379,16 @@ def hangra(szoveg, doboz=False):
     s = re.sub(r'(\d+)/(\d{4})\.(?=\s+(?:számú|\())', lambda m: f'{szam(m.group(1))} per {szam(m.group(2))}', s)
     s = re.sub(r'(\d+)/(\d+)(?:-([a-záéíóöőúüű]+))?', lambda m: f'{szam(m.group(1))} per {szam(m.group(2))}' + (m.group(3) or ''), s)
     # százalék, számok (a dátum a jogszabályhelyek előtt)
-    s = re.sub(r'(\d{4})-(ben|ban|től|tól|ig|es|as|ös|ra|re)\b', lambda m: szam(m.group(1)) + m.group(2), s)
+    s = re.sub(r'(\d{4})-(?:es|as|ös)\b', lambda m: es(m.group(1)), s)          # „1952-es” → „…ötvenkettes” (KE-12)
+    s = re.sub(r'(\d{4})-(ben|ban|től|tól|ig|ra|re)\b', lambda m: szam(m.group(1)) + m.group(2), s)
     s = re.sub(r'(\d{4})\.(?= évi| év\b| ÉVI)', lambda m: szam(m.group(1)), s)
     s = re.sub(r'(\d+)\s?%(?:-([a-záéíóöőúüű]+))?', lambda m: szam(m.group(1)) + ' százalék' + (m.group(2) or ''), s)
-    s = re.sub(r'(\d{1,3})[  ](\d{3})\b', r'\1\2', s)
+    # ezres tagolás: szóközzel („3 200 000”) és ponttal („300.001”, „3.000.000”) – minden csoport összevonva (KE-13)
+    s = re.sub(r'(?<![\d.,/:])(\d{1,3})((?:[  ]\d{3})+)(?!\d)', lambda m: m.group(1) + re.sub(r'[  ]', '', m.group(2)), s)
+    s = re.sub(r'(?<![\d.,/:])(\d{1,3})((?:\.\d{3})+)(?![\d]|\.\d|/)', lambda m: m.group(1) + m.group(2).replace('.', ''), s)
+    # műveleti jel számok között: „3 200 000 + 1 000 000 = 4 200 000”
+    s = re.sub(r'(?<=\d)(\s?(?:Ft|forint))?\s\+\s(?=\d)', lambda m: (m.group(1) or '') + ' plusz ', s)
+    s = re.sub(r'(?<=\d)(\s?(?:Ft|forint))?\s=\s(?=\d)', lambda m: (m.group(1) or '') + ' egyenlő ', s)
     # sorszámnév: tartomány és egyes szám kisbetűs folytatás, vessző, pontosvessző, zárójel előtt („a 69., a 70. és”, „a 76.)”, „82–83.”)
     s = re.sub(r'\b(\d+)[–-](\d+)\.(?=\s+[' + KISBETU + r']|[,;)])', lambda m: sorszam(m.group(1)) + '–' + sorszam(m.group(2)), s)
     s = re.sub(r'\b(\d+):(\d+)(?:/([A-Z]))?\.(?=\s+[' + KISBETU + r']|[,;)])', lambda m: par_szoveg(*m.groups())[:-len(' paragrafus')], s)
@@ -340,6 +396,7 @@ def hangra(szoveg, doboz=False):
     s = re.sub(r'\b(\d+)\.(?=\s+[' + KISBETU + r']|[,;)])', lambda m: sorszam(m.group(1)), s)
     s = re.sub(r'\b(\d+)-(es|as|ös)\b', lambda m: es(m.group(1)), s)
     s = re.sub(r'\b(\d+)(?:-([a-záéíóöőúüű]+))?', lambda m: szam(m.group(1)) + (m.group(2) or ''), s)
+    s = re.sub(r'kettő(?= (?:millió|milliárd)\b)', 'két', s)               # „12 millió” → „tizenkét millió” (KE-13)
     for rx, v in ROVID:
         s = re.sub(rx, v, s)
     for a, b in LATIN:
@@ -418,6 +475,16 @@ def lefedettseg(n):
             if any(x.isdigit() or x in KIZART or len(x) < 2 or romai_token(x) for x in w):
                 continue
             ablakok.append(' ' + ' '.join(w) + ' ')
+        if kihagyott(b):
+            ablakok = []
+        elif ablakok:
+            # a felolvasott alak ablakai is: a betűjel („ca)” → „cé, a.:”) és a kiejtési tábla („Ia” → „egy á”) miatt a nyers
+            # ablak nem mindig található meg a darabban (KE-12)
+            try:
+                th = [t for t in tokenek(re.sub(r'\[[a-z ]+\]', ' ', blokk_hang(b))) if not t.isdigit()]
+            except SystemExit:
+                th = []
+            hang_ablakok = [' ' + ' '.join(th[j:j + 5]) + ' ' for j in range(0, max(len(th) - 4, 0))]
         if not ablakok or i == 0:      # tételcím, rövid címsor, dobozfejléc: a szomszédok döntenek
             eredm.append((i, b, 'rovid'))
             continue
@@ -429,6 +496,13 @@ def lefedettseg(n):
             if k > db:
                 legjobb, db = (tid, fajl), k
         kuszob = max(min(2, len(minta)), (len(minta) + 1) // 2)
+        if db < kuszob and hang_ablakok:
+            hminta = hang_ablakok[::max(1, len(hang_ablakok) // 6)]
+            hk = max(min(2, len(hminta)), (len(hminta) + 1) // 2)
+            for tid, fajl, sz in darabok:
+                if sum(1 for a in hminta if a in sz) >= hk:
+                    legjobb, db = (tid, fajl), kuszob
+                    break
         if db < kuszob and '\n' in b.strip() and len(b) > 4000:
             # hosszú doboz, amelyet a darabol több darabra vágott: a mintaablakok a hangdokumentum darabjaiban együtt
             # vannak meg; a találat az a darab, amelyben a doboz kezdődik (az első megtalált ablak darabja)
@@ -507,25 +581,35 @@ def dobozfej(b):
 
 
 def fej_hang(b):
-    """A dobozfej felolvasott alakja: „A … paragrafusa...”; bekezdéses fejnél „A … paragrafusának egyes–ötös bekezdése...”."""
-    b = b.strip(); k = b.index('§') + 1
+    """A dobozfej felolvasott alakja: „A … paragrafusa...”; bekezdéses fejnél „A … paragrafusának egyes–ötös bekezdése...”.
+    Cikkre tagolt forrás fejénél (kozos.FEJLEC: „Alaptörvény XXVIII. cikk (1)”, „Brüsszel Ia 8. cikk”) a vágópont a „cikk”
+    szó, a toldalék „cikke...”, illetve „cikkének … bekezdése...” (KE-9)."""
+    b = b.strip(); vp = re.search(r'§|[Cc]ikk', b); k = vp.end(); cikk = vp.group(0) != '§'
     s = hangra(b[:k]).rstrip('.')
     bek = [es(m.group(1)) + ('–' + es(m.group(2)) if m.group(2) else '')
            for m in re.finditer(r'\((\d+)\)(?:\s*[–-]\s*\((\d+)\))?', b[k:])]
     if bek:
-        s += 'ának ' + (', '.join(bek[:-1]) + ' és ' + bek[-1] if len(bek) > 1 else bek[0]) + ' bekezdése...'
+        s += ('ének ' if cikk else 'ának ') + (', '.join(bek[:-1]) + ' és ' + bek[-1] if len(bek) > 1 else bek[0]) + ' bekezdése...'
     else:
-        s += 'a...'
+        s += 'e...' if cikk else 'a...'
     return ('Az ' if s[0].lower() in 'aáeéiíoóöőuúüű' else 'A ') + s
+
+
+def kihagyott(b):
+    """A blokkot a felolvasó kihagyja-e (a beállítás kiejtes.kihagyRx mintája; KE-12)."""
+    return bool(KIHAGY and KIHAGY.search(b.strip()))
 
 
 def blokk_hang(b):
     kiejtes_kell()
     b = b.strip()
+    if kihagyott(b):
+        return ''
     if dobozfej(b):
         s = fej_hang(b)
     elif re.fullmatch(r'\[[^\]\n]+\]', b):
-        s = b[1:-1] + '...'
+        # a sort kitöltő szögletes zárójeles betoldás; ha jogszabályhelyet (számot, §-t) tartalmaz, az is felolvasandó alakra kerül
+        s = (re.sub(r'\.*$', '', hangra(b[1:-1])) if re.search(r'[\d§]', b) else b[1:-1]) + '...'
     else:
         s = hangra(b)
         # címsor (nagybetűs, mondatvégi írásjel nélkül): a végére szünet kerül; a zárójeles betoldás (pl. „(Ptk. 6:550. §)”,
@@ -644,13 +728,17 @@ def _h_tipus(s):
 def hangulat(egysegek, alap='calm', kezdo=None, szunet=True, tipusok=None):
     """Az egységek (hangszöveg-bekezdések) elejére hangulatcímkét tesz, ahol a hangulat változik. A pontok („a.: …”), a
     doboz feje utáni normasorok és (ha a hívó a típust megadja: tipusok) az alcímek címkét nem kapnak. Idempotens: a korábbi hangulatcímkét előbb leveszi."""
-    ki = []; akt = kezdo; szakasz = None; fej_utan = False
+    ki = []; akt = kezdo; szakasz = None; fej_utan = False; pont_utan = False
     for sorsz, nyers in enumerate(egysegek):
         s = nyers
         while HANGULAT.match(s):
             s = s[HANGULAT.match(s).end():]
         t = (tipusok[sorsz] if tipusok else None) or _h_tipus(s)
-        if not s.strip() or re.fullmatch(r'\s*\[[a-z ]+\]\s*', s) or PONTJEL.match(s) or t == 'alcim' or (fej_utan and BEKEZDESJEL.match(s)):
+        # a pont után kisbetűvel kezdődő egység a felsorolást lezáró sor („… végzése” / „ellen...”): a pont folytatása, címke nélkül
+        folytatas = pont_utan and re.match('[' + KISBETU + ']', s) and not re.match(r'[^.\n]{0,24}\.: ', s)
+        if s.strip():
+            pont_utan = bool(PONTJEL.match(s) or folytatas)
+        if not s.strip() or re.fullmatch(r'\s*\[[a-z ]+\]\s*', s) or PONTJEL.match(s) or folytatas or t == 'alcim' or (fej_utan and BEKEZDESJEL.match(s)):
             ki.append(s); fej_utan = False if s.strip() else fej_utan
             continue
         fej_utan = False

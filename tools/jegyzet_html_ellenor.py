@@ -193,7 +193,9 @@ def main():
         sorok = []
         for b in blokk:
             sorok += ([dob[b[1]][2]] + dsor[b[1]]) if b[0] == 'd' else [b[1]]
-        L = [l.strip() for l in txt.split('\n') if l.strip()][1:]
+        L = [l.strip() for l in txt.split('\n') if l.strip()]
+        if L and kozos.elso_sor_cim(L[0]):
+            L = L[1:]                      # a tétel címe nem blokk; a rögtön főcímmel kezdődő tétel első sora az (KE-14)
         elt = [i for i, (x, l) in enumerate(zip(sorok, L)) if x != l and x != FELSOROLASJEL.sub('', l)]
         if len(sorok) != len(L) or elt:
             H(n, f'a blokkok nem a tétel sorai ({len(sorok)}/{len(L)} sor; eltérés: {elt[:3]})')

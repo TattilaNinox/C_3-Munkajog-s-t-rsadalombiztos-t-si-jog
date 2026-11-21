@@ -87,3 +87,17 @@ A tételszám 56: a kiírás 1–56. tétele és a `jegyzetek/manifest.json` sor
 - Szinkronizálva (admin-commit `9ceab3a`): új `tools/s5/doboz_beszur.py` (doboz beszúrása a korpuszból), a `kontroll.py` minden forrás §/cikk-hivatkozását ellenőrzi és termékek nélkül is fut, betűs cikkszám, táblasor nem cikkfej, kihagyott megnevezés, záró sor levágása javítva.
 - `alapfelvetel: tétel 56, feloldott 467, feloldatlan 1, hiba 0` | `dobozok: 915, eltérés: 1; hiányzó forrás: []; lefedettségi hiány: 104 elem 34 tételben` | `hiányos bekezdés: 1`
 - A 21., 25., 26., 34., 52. tétel a kiírás hatályon kívül helyezett jogszabálya helyett a hatályosra épül (`tetelForras`: 10/2025. NGM r., 426/2025. Korm. r., 137/2024. Korm. r.; Attila döntése 2026-11-19 18:44).
+
+## Élő export átvéve (2026-11-21)
+
+- **Élő ág:** `elo-2026-11-21-0836` (a „C/3_2” tételsor-példány, `4QLpe9ylvwQL0S8SAgsf`; Attila döntése szerint ez az érvényes). Közös készlet szinkronizálva (adminCommit `bb48fe6`), `eszkoz_ellenor`: eltérés 0.
+- **Átvétel (`elo_atvesz.py --ir`, commit `ac8864a`):** jegyzék 201, élő szöveges jegyzet 201; változott jegyzet **0** (azonos 201); az élőből hiányzó jegyzékelem 0, jegyzéken kívüli élő szöveges jegyzet 0 → **megálló nincs**. (Az élőből kimaradt 14 piszkozat és 1 törölt jegyzet nem jegyzékelem; a tájékoztató „202” a `manifest.json`-nal együtt számolt fájlszám volt.) tts: +1047 fájl (138 hangdokumentum); kvíz 113 módosul; tanulókártya 1 módosul, 14 törlődik (az élőben nincs); hézagpótló 1, memóriaútvonal 1 módosul; `EXPORT.json` bekerült.
+- **Beállítás (commit `f357e3f`):** `hangAlapAgak` = `["origin/elo-2026-11-21-0836"]`, `rt2Alap` = `ac8864a…` (az átvétel commitja).
+- **S1 újra (S1/5 első eset – API-kör és tételátdolgozás még nem volt):** az NN.txt-k története csak gépi (`8ea6536` generálás, `b12f73b` dobozépítés; a dobozokon kívüli eltérés csak dobozba olvadt normasor) – kézi/API-nyom nincs. `alapfelvetel.py` → `jegyzet_txt.py --felulir`: `jegyzet_txt: tétel 56, rész 201, karakter 4177520, eltérés 0`; az újragyártott szöveg betűre azonos a `8ea6536`-belivel. `tetelForras` érvényben: 21. → NGM10_2025; 26., 34. → Korm426_2025; 25., 52. → Hjkr (feloldatlan nélkül).
+- **S3 újra:** `doboz_javit.py --sor --ir` (200 doboz), második futás: `módosítandó doboz: 0`; kihagyott doboz nincs. Az eredmény betűre azonos a korábban commitolt NN.txt-kkel (nettó változás 0).
+- **Kapusorok előtte → utána (változatlan):**
+  - `alapfelvetel: tétel 56, feloldott 467, feloldatlan 1, hiba 0` → ugyanaz (39. tétel: „Eljárási és Magatartási Kódexe I–III. rész”)
+  - `dobozok: 915, eltérés: 1; hiányzó forrás: []; lefedettségi hiány: 104 elem 34 tételben` → ugyanaz
+  - `hiányos bekezdés: 1` → ugyanaz (32. tétel, Efo. tv. 25. §)
+- **Megfigyelés:** a 25. tétel „Hjt. 2. §” doboza a hatályon kívül helyezett 2012. évi CCV. törvény teljes 2. §-a (12 200 kar.), noha a tétel forrása a `tetelForras` szerint a Hjkr. – a tételmunkában kezelendő.
+- **Következő lépés:** S4 – API-körök (első olvasás, átírás, ellenőrzés) az élő állapotra épülő munkaszövegen; a nyitott S3-kapu (eltérés 1, hiányos bekezdés 1: Efo. tv. 25. §) és a 39. tétel feloldatlan sora a korábbi Központi teendők szerint.

@@ -38,7 +38,7 @@ const var_ = (felt, uz) => { ell++; if (!felt) { hibak.push(uz); if (hibak.lengt
   // zárható szakaszok
   await p.evaluate(k => window.SzakvizsgaTermekek.tetel(k), M.paragrafus); await p.click('#fulek [data-ful="paragrafus"]');
   var_(await p.locator('details.szakasz').count() > 1 && await p.locator('details.szakasz:not([open])').count() > 0, 'a §-jegyzék szakaszai zárhatók, nem mind nyitott');
-  await p.fill('#lap input[type="search"]', '5:44'); var_(await p.locator('details.szakasz[open] details.norma:not([hidden])').count() > 0, 'keresésnél a találat szakasza kinyílik');
+  await p.fill('#lap input[type="search"]', M.parKereses || '5:44'); var_(await p.locator('details.szakasz[open] details.norma:not([hidden])').count() > 0, 'keresésnél a találat szakasza kinyílik');
   await p.fill('#lap input[type="search"]', '');
   await p.click('#fulek [data-ful="vazlat"]'); var_(await p.locator('details.szakasz').count() > 1, 'a vázlat főpontjai zárhatók');
   var_(await p.locator('#lap .cimke').count() === 0, 'a vázlatban nincs §-címkesor');
@@ -50,7 +50,7 @@ const var_ = (felt, uz) => { ell++; if (!felt) { hibak.push(uz); if (hibak.lengt
   var_(await p.locator('#tetellista .tcsop').count() === new Set(A.tetelek.map(t => t.csoport)).size, 'a tételválasztó csoportfejei');
   await p.fill('#tetelkereso', M.kereses); var_(await p.locator('#tetellista .titem').count() === 1, 'számra keresés');
   await p.press('#tetelkereso', 'Enter'); var_(await p.locator('#lap').getAttribute('data-tetel') === M.kereses && await p.locator('#tetelpanel').isHidden(), 'Enterre a találat nyílik meg');
-  await p.click('#tetelgomb'); await p.fill('#tetelkereso', 'zalog'); var_(await p.locator('#tetellista .titem').count() >= 3, 'címrészletre keresés ékezet nélkül');
+  await p.click('#tetelgomb'); await p.fill('#tetelkereso', M.cimKereses || 'zalog'); var_(await p.locator('#tetellista .titem').count() >= 3, 'címrészletre keresés ékezet nélkül');
   await p.keyboard.press('Escape'); var_(await p.locator('#tetelpanel').isHidden(), 'Esc bezárja a tételválasztót');
   await p.click('#tetelgomb'); await p.click('#tetelzar'); var_(await p.locator('#tetelpanel').isHidden(), 'a ✕ gomb bezárja a tételválasztót');
   // a tétel teljes szövege: becsúszó panel, a vázlat nyitott főpontjánál
@@ -58,14 +58,14 @@ const var_ = (felt, uz) => { ell++; if (!felt) { hibak.push(uz); if (hibak.lengt
   const masodik = p.locator('#lap details.szakasz:not(.alszakasz) > summary').nth(2); const mcim = await p.locator('#lap details.szakasz:not(.alszakasz)').nth(2).getAttribute('data-cim'); await masodik.click();
   await p.click('#teljesgomb'); await p.waitForTimeout(400);
   var_(await p.locator('#olvaso').isVisible(), 'a teljes tétel panel megnyílik');
-  var_(await p.locator('#olvasotorzs details.norma').count() === A.paragrafus_jegyzek[M.olvaso].length, 'a panelben minden §-doboz');
+  var_(await p.locator('#olvasotorzs details.norma').count() === A.paragrafus_jegyzek[String(M.olvaso).padStart(2, "0")].length, 'a panelben minden §-doboz');
   var_(await p.locator('#olvasotorzs details.norma[open]').count() === 0, 'a panelben a §-dobozok zárva nyílnak');
   var_(await p.locator('#olvasohang .lgomb').count() === 5 && await p.locator('#olvasohang .lseb').count() === 1 && !(await p.locator('#olvasohang .lgomb.lfo').isDisabled()), 'a panelben a kliens lejátszója (5 ikongomb + sebesség, a lejátszás elérhető)');
-  var_((await p.locator('#olvasohang .lreszszam').textContent()) === '1 / ' + A.tetelhang[M.olvaso].length, 'a lejátszó részléptetője');
-  var_(await p.locator('#olvasotorzs details.szakasz').count() === A.tetelszoveg[M.olvaso].filter(b => b[0] === 'f').length, 'a teljes tétel főcímenként zárható');
+  var_((await p.locator('#olvasohang .lreszszam').textContent()) === '1 / ' + A.tetelhang[String(M.olvaso).padStart(2, "0")].length, 'a lejátszó részléptetője');
+  var_(await p.locator('#olvasotorzs details.szakasz').count() === A.tetelszoveg[String(M.olvaso).padStart(2, "0")].filter(b => b[0] === 'f').length, 'a teljes tétel főcímenként zárható');
   var_(await p.locator('#olvasotorzs details.szakasz[open]').count() === 0, 'a teljes tétel szakaszai zárva nyílnak');
   await p.click('#olvasohang .lseb'); var_((await p.locator('#olvasohang .lseb').textContent()) === '1.25x', 'sebességváltás (0,75 / 1,0 / 1,25)');
-  var_(JSON.stringify(await p.locator('#olvasotorzs .szbelso > p, #olvasotorzs > p').allTextContents()) === JSON.stringify(A.tetelszoveg[M.olvaso].filter(b => b[0] === 'p').map(b => b[1])), 'a panel szövege betűre a tétel');
+  var_(JSON.stringify(await p.locator('#olvasotorzs .szbelso > p, #olvasotorzs > p').allTextContents()) === JSON.stringify(A.tetelszoveg[String(M.olvaso).padStart(2, "0")].filter(b => b[0] === 'p').map(b => b[1])), 'a panel szövege betűre a tétel');
   var_(await p.evaluate(c => { const t = document.getElementById('olvasotorzs'), h = t.querySelector(`details.szakasz[data-cim="${CSS.escape(c)}"]`); if (!h) return false; const a = t.getBoundingClientRect(), b = h.getBoundingClientRect(); return b.top >= a.top - 1 && b.top < a.bottom - 20; }, mcim), 'a panel a vázlat nyitott főpontjánál nyílik');
   await p.keyboard.press('Escape'); await p.waitForTimeout(400); var_(await p.locator('#olvaso').isHidden(), 'Esc bezárja a panelt');
   // 2. minden tétel, minden fül

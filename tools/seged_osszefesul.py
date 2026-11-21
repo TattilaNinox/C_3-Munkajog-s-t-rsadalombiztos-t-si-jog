@@ -5,6 +5,10 @@ _bovites.json (tétel + forrás szerint). Meglévő kulcsot nem ír felül: a §
 KE-3/7: a hiányzó _bovites.json üres listával jön létre; a kommentar_terkep „kotet” kulcsa is összefésülődik (a meglévő,
 nem üres mező nem íródik felül); az IJOTEN-jegyzék „nincs_megirva” csoportjának kulcsa a tételsor beállításából jön
 (tetelsor/beallitas.json: cim), de ha a régi (A/1-es) kulcs már szerepel a fájlban, azt használja tovább.
+KE-7 (megosztott olvasás, két olvasó segédfájljai): a „reszek” lista is lehet ([név, hely] párok vagy {nev|cim|resz, hely|tartomany}
+objektumok), és állhat a fájl felső szintjén is; a „nincs_megirva” állhat a felső szinten is, és objektum is lehet (az értékei
+fésülődnek); a „bovites” elemeiből hiányzó tételszámot a fájl „tetel” kulcsa vagy a fájlnév eleji szám (NN_…) adja. Amit a
+program nem tud értelmezni, azt nem dobja el csendben: a „kihagyva” listában kiírja.
 """
 import json, os, sys
 GY = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -35,7 +39,18 @@ for p, v in k.get('paragrafusok', {}).items():
             r['megj'] = ((r.get('megj') or '') + ' | ' + v['megj']).strip(' |'); sz['kihagyva'].append('§ ' + p + ' (megjegyzés bővítve)')
     else:
         t['paragrafusok'][p] = v; sz['par'] += 1
-for n, v in k.get('reszek', {}).items():
+def reszek_szotar(r):
+    """A „reszek” szótárként: {név: hely}. Lista esetén [név, hely] párokból vagy {nev|cim|resz, hely|tartomany} objektumokból."""
+    if isinstance(r, dict): return r
+    out = {}
+    for x in (r or []):
+        if isinstance(x, (list, tuple)) and len(x) >= 2: out[str(x[0])] = x[1]
+        elif isinstance(x, dict) and (x.get('nev') or x.get('cim') or x.get('resz')):
+            out[str(x.get('nev') or x.get('cim') or x.get('resz'))] = x.get('hely') or x.get('tartomany') or ''
+        else: sz['kihagyva'].append('rész (nem értelmezhető elem): ' + json.dumps(x, ensure_ascii=False)[:80])
+    return out
+reszek = reszek_szotar(k.get('reszek', {})); reszek.update({n: v for n, v in reszek_szotar(s.get('reszek', {})).items() if n not in reszek})
+for n, v in reszek.items():
     if n in t['reszek']: sz['kihagyva'].append('rész: ' + n)
     else: t['reszek'][n] = v; sz['resz'] += 1
 for x in k.get('technika', []):
@@ -63,7 +78,10 @@ for x in i.get('kesz_szocikkek', []):
         r = next(y for y in j['kesz_szocikkek'] if y.get('cim') == x['cim'])
         if x.get('targy') and x['targy'] not in (r.get('targy') or ''): r['targy'] = ((r.get('targy') or '') + '; ' + x['targy']).strip('; ')
     else: j['kesz_szocikkek'].append(x); sz['ij'] += 1
-nm = i.get('nincs_megirva', [])
+def lista(x):
+    if isinstance(x, dict): return [e for v in x.values() for e in (v if isinstance(v, list) else [v])]
+    return list(x or [])
+nm = lista(i.get('nincs_megirva', [])) + [e for e in lista(s.get('nincs_megirva', [])) if e not in lista(i.get('nincs_megirva', []))]
 if nm:
     kulcs = RÉGI_KULCS if isinstance(j['nincs_megirva'], dict) and RÉGI_KULCS in j['nincs_megirva'] else tetelsor_kulcs()
     if isinstance(j['nincs_megirva'], dict):
@@ -73,7 +91,14 @@ if nm:
         if x not in l: l.append(x); sz['nincs'] += 1
 ki('_ijoten_jegyzek.json', j)
 b = be('_bovites.json', []); van = {(x['tetel'], x['forras']) for x in b}
+import re
+fn = re.match(r'^(\d+)', os.path.basename(sys.argv[1]))
+alap_tetel = s.get('tetel') if isinstance(s.get('tetel'), int) else (int(fn.group(1)) if fn else None)
 for x in s.get('bovites', []):
-    if (x['tetel'], x['forras']) not in van: b.append(x); sz['bov'] += 1
+    if 'forras' not in x: sz['kihagyva'].append('bővítés (nincs forrás): ' + json.dumps(x, ensure_ascii=False)[:80]); continue
+    if x.get('tetel') is None:
+        if alap_tetel is None: sz['kihagyva'].append('bővítés (nincs tételszám): ' + str(x['forras'])[:60]); continue
+        x = dict({'tetel': alap_tetel}, **x)
+    if (x['tetel'], x['forras']) not in van: b.append(x); van.add((x['tetel'], x['forras'])); sz['bov'] += 1
 ki('_bovites.json', b)
 print(json.dumps(sz, ensure_ascii=False))

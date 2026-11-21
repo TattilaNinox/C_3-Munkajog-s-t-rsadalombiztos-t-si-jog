@@ -5,7 +5,7 @@ Gépi kimenet: `korpusz/ellenorzes.json`. Újragenerálás: `python3 tools/ellen
 ## 1. Korpusz
 
 - Hiányzó előírt forrás: nincs
-- Forráshoz nem kötött korpusz-fájl: 1_2009. (VI. 24.) PK-KK közös vélemény _ Kúria.txt, 5_2023. (VI. 19.) IM rendelet a békéltető testületi elnöki és tagsági feladat ellátására vonatkozó kiválasztási eljárás szabályairól és a békéltető testületi elnökök és tagok díjaz.txt, 62002CJ0151_SUM A Bíróság 2003. szeptember 9-i ítélete. Landeshaupt.._.txt, 62014CN0266 C-266_14. sz. ügy_ Az Audiencia Nacional (Spanyolország.._.txt, C-303_98. számú ítéletének összefoglalása _ Kúria.txt, C3_Munkajog_Tbj_beszerzesi_lista.txt, C‑477_21. sz. MÁV-START ügyben 2023. március 2-án hozott ítélet _ Kúria.txt, Kiküldetési Irányelv (EU) - 31996L0071 Az Európai Parlament És a Ta.._.txt, mtvsz_kodex.txt
+- Forráshoz nem kötött korpusz-fájl: 15_2023. (VII. 13.) GFM rendelet a 2024. évi munkaszüneti napok kör.._.txt, 1_2009. (VI. 24.) PK-KK közös vélemény _ Kúria.txt, 573_2022. (XII. 23.) Korm. rendelet a kötelező legkisebb munkabér (.._.txt, 5_2023. (VI. 19.) IM rendelet a békéltető testületi elnöki és tagsági feladat ellátására vonatkozó kiválasztási eljárás szabályairól és a békéltető testületi elnökök és tagok díjaz.txt, 62002CJ0151_SUM A Bíróság 2003. szeptember 9-i ítélete. Landeshaupt.._.txt, 62014CN0266 C-266_14. sz. ügy_ Az Audiencia Nacional (Spanyolország.._.txt, C-303_98. számú ítéletének összefoglalása _ Kúria.txt, C3_Munkajog_Tbj_beszerzesi_lista.txt, C‑477_21. sz. MÁV-START ügyben 2023. március 2-án hozott ítélet _ Kúria.txt, Kiküldetési Irányelv (EU) - 31996L0071 Az Európai Parlament És a Ta.._.txt, mtvsz_kodex.txt
 - Több fájlban szereplő forrás: nincs
 
 ## 2. Dobozok (915 doboz, 1 eltérés)
@@ -28,7 +28,7 @@ Gépi kimenet: `korpusz/ellenorzes.json`. Újragenerálás: `python3 tools/ellen
 - **22. tétel:** Mt 135 (nincs dobozban és nincs hivatkozva)
 - **23. tétel:** Mt 135 (nincs dobozban és nincs hivatkozva)
 - **24. tétel:** Mt 135 (nincs dobozban és nincs hivatkozva); Mt 135 (nincs dobozban és nincs hivatkozva); Mt 146 (nincs dobozban és nincs hivatkozva); Mt 294 (nincs dobozban és nincs hivatkozva)
-- **25. tétel:** Mt 55 (nincs dobozban és nincs hivatkozva); Mt 115 (nincs dobozban és nincs hivatkozva); Mt 135 (nincs dobozban és nincs hivatkozva); Mt 294 (nincs dobozban és nincs hivatkozva); Mt 55 (nincs dobozban és nincs hivatkozva); Mt 55 (nincs dobozban és nincs hivatkozva); Mt 294 (nincs dobozban és nincs hivatkozva)
+- **25. tétel:** Mt 55 (nincs dobozban és nincs hivatkozva); Mt 115 (nincs dobozban és nincs hivatkozva); Mt 135 (nincs dobozban és nincs hivatkozva); Mt 294 (nincs dobozban és nincs hivatkozva); Mt 55 (nincs dobozban és nincs hivatkozva); Mt 55 (nincs dobozban és nincs hivatkozva); Mt 294 (nincs dobozban és nincs hivatkozva); Cst 2 (nincs dobozban és nincs hivatkozva)
 - **26. tétel:** Mt 165 (nincs dobozban és nincs hivatkozva)
 - **27. tétel:** Mt 165 (nincs dobozban és nincs hivatkozva); Mt 165 (nincs dobozban és nincs hivatkozva)
 - **30. tétel:** Mt 213 (nincs dobozban és nincs hivatkozva)

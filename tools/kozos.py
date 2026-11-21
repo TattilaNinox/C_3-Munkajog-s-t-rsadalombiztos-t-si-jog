@@ -380,6 +380,27 @@ def tetel_szoveg(n):
     return nfc(open(os.path.join(GYOKER, f'{n:02d}.txt'), encoding='utf-8').read())
 
 
+_DOBOZ_SZOVEG = {}
+
+
+def doboz_szoveg(n):
+    """A tétel dobozainak normalizált szövege §-onként: {(forráskód, §): szöveg}. A fa és a számoló jogalapja csak
+    a doboz szövegében álló idézet lehet – a részlegesen dobozolt § más bekezdése nem (KE-15)."""
+    if n not in _DOBOZ_SZOVEG:
+        d = {}
+        for k, p, _, sorok in dobozok(tetel_szoveg(n)):
+            d[(k, p)] = d.get((k, p), '') + ' ' + norm(' '.join(sorok))
+        _DOBOZ_SZOVEG[n] = d
+    return _DOBOZ_SZOVEG[n]
+
+
+def elso_sor_cim(l):
+    """A tétel első nem üres sora a tétel címe-e. Nem az, ha a szöveg rögtön főcímmel kezdődik („I. BEVEZETÉS …”,
+    csupa nagybetűvel): ilyenkor a tételnek nincs címsora (a címet a tetelsor.json adja), és az első sor főcím (KE-14)."""
+    l = l.strip()
+    return not (re.match(r'^[IVX]+\. \S', l) and l.upper() == l)
+
+
 def SZAMOZOTT_CIM(s):
     """Számozott címsor-e a sor („2. A TÁRSASHÁZ ALAPÍTÁSA”): a szám után csupa nagybetűs szöveg áll."""
     t = re.sub(r'^\d+(?:\.\d+)*\.\s*', '', s)

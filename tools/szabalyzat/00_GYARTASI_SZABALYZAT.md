@@ -95,10 +95,12 @@ Szakaszt átugrani nem lehet. Egy szakasz akkor zárul, ha a zárókapuja teljes
 
 ### S1 – Alapfelvétel
 
-1. Bemenet: `jegyzetek/` + `manifest.json`; a hivatalos kiírás PDF-je és szövege (`tetelsor/kiiras_<év>.txt`) – Attila adja.
+0. **A kiindulás a MAI élő állapot, nem a tároló `main` ága.** A `main` korábbi exportot őriz; a publikált jegyzeteket azóta javíthatták (a javítások másik ágon – pl. `tartalom-javitas` – és élesben vannak). Ezért S1 előtt kötelező: (a) friss élő export a Cursorral (admin `docs/szakvizsga_program/utasitasok/EX-1_elo_export.md`) → `elo-…` ág; (b) `python3 tools/elo_atvesz.py --alap=origin/<elo-ág>` (próbafutás), majd `--ir`: a `jegyzetek/`, a `tts/` és a régi termékek mappái az élő állapotra kerülnek, az `EXPORT.json` bekerül; (c) a `beallitas.json` `hangAlapAgak` = `["origin/<elo-ág>"]`, az `rt2Alap` = az átvétel commitja. Az élőben meglévő, a jegyzékben nem szereplő jegyzet és az élőből hiányzó jegyzékelem: megálló.
+1. Bemenet: `jegyzetek/` + `manifest.json` (az élő állapot szerint); a hivatalos kiírás PDF-je és szövege (`tetelsor/kiiras_<év>.txt`) – Attila adja.
 2. `python3 tools/korpusz_felmeres.py --kiiras=tetelsor/kiiras_<év>.txt` (első felmérés) → `python3 tools/alapfelvetel.py` (`tetelsor/tetelsor.json`, `forrasok.json`) → `python3 tools/jegyzet_txt.py` (`NN.txt`, betűhű zárókapuval).
 3. A `feloldatlan` minden sorát egyenként kell megvizsgálni: hiányzó minta → pótlás a beállításban; névhiba → `kiirasElirasok.megfeleltet`; valódi hiány → marad, és felkerül a hiánylistára. **Hiányt eltüntetni tilos.**
 4. A kiírás tételszáma = a jegyzetmappák száma; minden jegyzetrész pontosan egy tételhez tartozik. Eltérés: megálló.
+5. **Ahol az előkészítés már korábbi (nem élő) állapotból készült:** ha a tétel szövege még nem lett átdolgozva, az S1 a 0. lépéssel újra lefut; ha már átdolgozott, lezárt tételek vannak, a tételmunka nem ismétlődik, hanem kötelező a regressziós ellenőrzés a korábbi javítási naplók ellen: `python3 tools/javitas_regresszio.py --alap=origin/<a javítások ága>` → `jelentesek/javitas_regresszio.md`; minden találatot a korpuszból kell elbírálni és szükség szerint javítani.
 
 ### S2 – Korpusz és hatályosság
 
@@ -137,7 +139,7 @@ A részletes menet a 6. pontban.
 
 ### S6 – Termékek, hangszöveg, régi termékek
 
-0. **Megnyitás (tételsoronként egyszer, a központi chat végzi, mielőtt az első termékköteg indul):** a `beallitas.json` termékkulcsai kitöltve (`kiejtes`, `mintaTetelek`, `hangAlapAgak`, `rt2Alap`); a gépi termékek első legyártása a teljes tételsorra és a `termekek/_gyartasra_var.json` feltöltése a még le nem zárt tételekkel; `bash tools/kapuk.sh --visszaallit` → 12 kapu, eltérés/hibás 0; „Audit (központi chat):” commit, Attila befésüli. Amíg ez nincs meg, a kapusor a termékkapukat kihagyja („termék nincs legyártva”), és termékköteg nem indítható.
+0. **Megnyitás (tételsoronként egyszer, a központi chat végzi, mielőtt az első termékköteg indul; legkorábban akkor, amikor a tételmunka futó mentőága be van fésülve – a megnyitás után a tételszöveg változásához a 6.7/5. lépés kell):** a `beallitas.json` termékkulcsai kitöltve (`kiejtes`, `mintaTetelek`, `hangAlapAgak`, `rt2Alap`); a gépi termékek első legyártása a teljes tételsorra (`termek_gyart.py`, `elhatarolas_gyart.py`, tételenként `vazlat_gyart.py NN`, `jegyzet_html.py --mind`, `vazlat_hang.py`, `vazlat_tts_terv.py`, `csomag_gyart.py`), a `termekek/_gyartasra_var.json` feltöltése minden tétellel és a `termekek/_elesites_elott.json` váza; a hang viszonyítási alapja (friss élő export: admin `docs/szakvizsga_program/utasitasok/EX-1_elo_export.md`); `bash tools/kapuk.sh --visszaallit` → 12 kapu, eltérés/hibás 0; „Audit (központi chat):” commit, Attila befésüli. Amíg ez nincs meg, a kapusor a termékkapukat kihagyja („termék nincs legyártva”), és termékköteg nem indítható.
 1. **Új termékek** (§-jegyzék, felsorolás, hangos vázlat, döntési fa, számoló, fogalommátrix), felolvasószöveg hangulatcímkékkel, jegyzet-HTML: a Cursor-ügynök gyártja a `TG_termekgyartas.md` szerint, **legfeljebb 6 lezárt tétel egy kötegben**, `tg1-<tételek>` munkaágon; a munkaágra maga tölt fel (a tiltott fájlok ellenőrzése után). A Cursor feladata egy sor: „Olvasd el a `tools/szabalyzat/TG_termekgyartas.md` fájlt, és aszerint gyártsd le a(z) … tételek termékeit.”
 2. **A munkaág auditja:** audit-alügynök a `TG_ag_audit.md` szerint; 4 tételnél nagyobb kötegnél két audit-alügynök (fák és számolók; mátrixok, vázlat, felolvasószöveg). A vezető beszélgetés a leletet és a javítások diffjét nézi át, és „Audit (központi chat):” kezdetű commitban teszi a munkaágra az `ALLAPOT.md`-vel együtt (a szakaszcímben az ág neve és az „auditálva, befésülhető” szöveg). Audit nélkül munkaág nem fésülhető be.
 3. **Megjelenítő-próba:** `bash tools/megjelenito_teszt/futtat.sh <admin klón>` – a központi chat futtatja, termékkötegenként egyszer; újra csak akkor, ha a csomag vagy a megjelenítő változott.
@@ -177,7 +179,7 @@ A részletes menet a 6. pontban.
 
 ### 6.2 Ág és munkapéldányok
 
-A tételmunka mentőágra kerül, a célágra soha közvetlenül. A mentőág neve `kp2-<azon>-<sorszám>` (01, 02, …); az első a célág távoli csúcsáról nyílik, minden további az előző mentőág csúcsáról. Minden lezárt tétel a futó mentőágra kerül, tételenkénti commitban. **A mentőágat a tételsor-chat zárja le befésülésre** (6.7/10), legfeljebb naponta egyszer; utána új mentőágat nyit, és megállás nélkül dolgozik tovább.
+A tételmunka mentőágra kerül, a célágra soha közvetlenül. A mentőág neve `kp2-<azon>-<sorszám>` (01, 02, …); az első a célág távoli csúcsáról nyílik, minden további az előző mentőág csúcsáról. Minden lezárt tétel a futó mentőágra kerül, tételenkénti commitban. **A mentőágat a tételsor-chat zárja le befésülésre** (6.7/11), legfeljebb naponta egyszer; utána új mentőágat nyit, és megállás nélkül dolgozik tovább.
 ```
 cd "$R" && git fetch origin
 AG=kp2-<azon>-<sorszám>
@@ -225,14 +227,20 @@ JOGI HIBA · PONTATLAN · TÚLTERJESZKEDÉS (a forrás nem igazolja: „csak”,
 2. `python3 tools/seged_osszefesul.py "$ATADO/NN_seged.json"` és `… "$ATADO/NN_seged_olvaso.json"` (kommentár-térkép, IJOTEN-jegyzék, bővítési lista). Kommentárszöveg itt sem kerülhet fájlba.
 3. **Új doboz kizárólag programmal** (az író jelentése alapján): `python3 tools/s5/doboz_beszur.py NN "<forráskód> <egység> [(bek.)]" --utan "<a tételfájl sorának pontos kezdete>"` (előbb `--ir` nélkül, utána `--ir`). Ha a program hibával lép ki: Központi teendő, a mérce-naplóban a 6. elem „függőben (doboz-igény)”.
 4. `python3 tools/s5/doboz_javit.py --sor --ir NN | tail -2` → „módosítandó doboz: 0”.
-5. `bash tools/kapuk.sh --tetel NN` → kilépési kód 0, a tétel lezárva. A kapu termékek nélkül is fut; termék-előfuttatás nem kell.
-6. `jelentesek/KP-2_merce.md`: a tétel szakasza – szakaszonként a hét elem (megvan / mélyítve / függőben / –) és egy mondat arról, mi változott; források (korpusz-§-ok, IJOTEN-szócikkek lezárási dátummal, a kommentár tartománya); hatályossági megjegyzés; ami nem került a tételbe.
-7. Commit tételenként, csak fájlnévvel:
+5. **Ha a tárolóban már vannak termékek** (a `termekek/paragrafus_jegyzek/` nem üres – a termékkör meg van nyitva): a tételszöveg minden változása után, a kapu előtt a gépi termékeket újra kell gyártani, különben a kapu megáll („a dobozok száma eltér a §-jegyzéktől”, „a vázlat főpontcíme nincs a tétel főcímei között”):
+   ```
+   python3 tools/termek_gyart.py && python3 tools/elhatarolas_gyart.py && python3 tools/vazlat_gyart.py NN \
+     && python3 tools/jegyzet_html.py --mind && python3 tools/vazlat_hang.py && python3 tools/vazlat_tts_terv.py
+   ```
+   A megváltozott termékfájlok a tétel commitjába kerülnek (fájlnév szerint). Ha a tételnek már van kézi terméke (döntési fa, számoló, mátrix, kézi vázlatkijelölés, felolvasószöveg), a tétel visszakerül a `termekek/_gyartasra_var.json` listára, és a következő termékköteg újragyártja. Amíg a tárolóban nincs termék, ez a lépés kimarad.
+6. `bash tools/kapuk.sh --tetel NN` → kilépési kód 0, a tétel lezárva. A kapu termékek nélkül is fut.
+7. `jelentesek/KP-2_merce.md`: a tétel szakasza – szakaszonként a hét elem (megvan / mélyítve / függőben / –) és egy mondat arról, mi változott; források (korpusz-§-ok, IJOTEN-szócikkek lezárási dátummal, a kommentár tartománya); hatályossági megjegyzés; ami nem került a tételbe.
+8. Commit tételenként, csak fájlnévvel:
    ```
    git add NN.txt kontroll/NN.json
    git commit -m "KP-2 <azon>: NN. tétel – kommentárkör (író: Opus, olvasó-auditor: Opus; lelet és diff: tételsor-chat)"
    ```
-8. Minden lezárt köteg után a segédfájlok, a napló és az állapot egy commitban, és feltöltés **csak a mentőágra**:
+9. Minden lezárt köteg után a segédfájlok, a napló és az állapot egy commitban, és feltöltés **csak a mentőágra**:
    ```
    git add kontroll/_kommentar_terkep.json kontroll/_ijoten_jegyzek.json kontroll/_bovites.json \
            jelentesek/KP-2_merce.md jelentesek/koltseg_naplo.csv jelentesek/kontroll_allapot.md \
@@ -241,9 +249,9 @@ JOGI HIBA · PONTATLAN · TÚLTERJESZKEDÉS (a forrás nem igazolja: „csak”,
    git -c push.negotiate=true push -u origin "$AG"
    git worktree remove "$M/<NN>"        # tételenként, a push után
    ```
-9. **`ALLAPOT.md`:** új legfelső szakasz: `## <dátum> – KP-2 kommentárkör, <T1>–<T3>. tétel (ág: <mentőág>)`, első sora a kapu ÁLLAPOT-sora szó szerint; utána tömören: lezárt tételek, commitok, visszaadások, doboz-igények, a megadott `levezetes` jelek (azonosító, §-ok), a bővítési lista új tételei, a böngészőhívások száma tételenként.
-10. **A mentőág lezárása befésülésre** (legfeljebb naponta egyszer, amikor van lezárt tétel rajta): `bash tools/kapuk.sh --visszaallit` → kilépési kód 0; az `ALLAPOT.md` legfelső szakaszának címe tartalmazza a mentőág nevét és az „auditálva, befésülhető” szöveget, első sora a kapu ÁLLAPOT-sora; a záró commit üzenete „Audit (tételsor-chat):” kezdetű, benne az `ALLAPOT.md`; push. Attila parancsa (az üzenetben, kódblokkban): `cd <helyi klón> && bash tools/befesul.sh <mentőág>`. A lezárt mentőágra több commit nem kerül; a munka az új mentőágon megy tovább, a befésülésre várni nem kell. A termékgyártás (S6) a célágra befésült tételeken indul.
-11. **Üzenet Attilának hullámonként egy** (4. pont formájában); ha van befésülendő ág, a parancs ebben áll.
+10. **`ALLAPOT.md`:** új legfelső szakasz: `## <dátum> – KP-2 kommentárkör, <T1>–<T3>. tétel (ág: <mentőág>)`, első sora a kapu ÁLLAPOT-sora szó szerint; utána tömören: lezárt tételek, commitok, visszaadások, doboz-igények, a megadott `levezetes` jelek (azonosító, §-ok), a bővítési lista új tételei, a böngészőhívások száma tételenként.
+11. **A mentőág lezárása befésülésre** (legfeljebb naponta egyszer, amikor van lezárt tétel rajta): `bash tools/kapuk.sh --visszaallit` → kilépési kód 0; az `ALLAPOT.md` legfelső szakaszának címe tartalmazza a mentőág nevét és az „auditálva, befésülhető” szöveget, első sora a kapu ÁLLAPOT-sora; a záró commit üzenete „Audit (tételsor-chat):” kezdetű, benne az `ALLAPOT.md`; push. Attila parancsa (az üzenetben, kódblokkban): `cd <helyi klón> && bash tools/befesul.sh <mentőág>`. A lezárt mentőágra több commit nem kerül; a munka az új mentőágon megy tovább, a befésülésre várni nem kell. A termékgyártás (S6) a célágra befésült tételeken indul.
+12. **Üzenet Attilának hullámonként egy** (4. pont formájában); ha van befésülendő ág, a parancs ebben áll.
 
 ## 7. Ágrend
 
@@ -296,7 +304,7 @@ A megálló üzenetének első mondata maga az akadály; utána egy mondat arró
 
 ## 11. Eszközjegyzék (a tároló `tools/` mappájában; ami itt és a szerep-szabályzatokban nincs megnevezve, azt a munka nem használja)
 
-`eszkoz_ellenor.py` · `korpusz_felmeres.py` · `alapfelvetel.py` · `jegyzet_txt.py` · `hatalyossag.py` (`ujjlenyomat`, `jelentes`, `kapu`) + `hatalyossag/osszevet.js` · `ellenorzes.py` · `doboz_teljesseg.py` · `s5/doboz_javit.py` · `s5/doboz_beszur.py` · `api_koteg.py` (`keszit`, `kuld --plafon`, `allapot`, `letolt`, `fokonyv`) · `s5/koteg.py` (`atiras`, `ellenorzo`) · `s5/ment.py` · `s5/alkalmaz.py` · `s5/osszesito.py` · `kontroll.py` (`leltar`, `kapu`, `minta-audit`) · `kapuk.sh` (`--tetel NN`, `--visszaallit`) · `par.py` · `kiiras_lefed.py` · `egyezes_elokeszit.py` + `kommentar/betolto.js`, `kommentar/egyezes.js` · `seged_osszefesul.py` · a termékgyártás eszközei (`TG_termekgyartas.md`) · `rt2_ellenor.py` · `lefedettseg_audit.py` · `csomag_gyart.py` · `megjelenito_teszt/futtat.sh` · `elesites_kapu.py` · `hang_koltseg.py` · `befesul.sh` (csak Attila).
+`eszkoz_ellenor.py` · `elo_atvesz.py` · `javitas_regresszio.py` · `korpusz_felmeres.py` · `alapfelvetel.py` · `jegyzet_txt.py` · `hatalyossag.py` (`ujjlenyomat`, `jelentes`, `kapu`) + `hatalyossag/osszevet.js` · `ellenorzes.py` · `doboz_teljesseg.py` · `s5/doboz_javit.py` · `s5/doboz_beszur.py` · `api_koteg.py` (`keszit`, `kuld --plafon`, `allapot`, `letolt`, `fokonyv`) · `s5/koteg.py` (`atiras`, `ellenorzo`) · `s5/ment.py` · `s5/alkalmaz.py` · `s5/osszesito.py` · `kontroll.py` (`leltar`, `kapu`, `minta-audit`) · `kapuk.sh` (`--tetel NN`, `--visszaallit`) · `par.py` · `kiiras_lefed.py` · `egyezes_elokeszit.py` + `kommentar/betolto.js`, `kommentar/egyezes.js` · `seged_osszefesul.py` · a termékgyártás eszközei (`TG_termekgyartas.md`) · `rt2_ellenor.py` · `lefedettseg_audit.py` · `csomag_gyart.py` · `megjelenito_teszt/futtat.sh` · `elesites_kapu.py` · `hang_koltseg.py` · `befesul.sh` (csak Attila).
 
 ## 12. Indító szöveg új beszélgetésnek (ezt kapja a dolgozó ügynök – mást nem)
 

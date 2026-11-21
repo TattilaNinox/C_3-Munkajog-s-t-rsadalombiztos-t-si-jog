@@ -21,7 +21,9 @@
  *        jelzi a haladást. Időtúllépés nincs: néhány másodpercenként kérdezd.
  *   5. window.__kb.olvas(kezdoIndex, keret) – karakterkeret szerinti olvasás (keret alapérték 20000, legfeljebb 26000):
  *        a válasz első sora „KÖVETKEZŐ: <index> / <elemszám>” (ha kész: „KÖVETKEZŐ: VÉGE / …”), utána elemenként
- *        „[s123] szöveg”. Az első még nem betöltött elemnél megáll és jelzi („HIÁNYZIK: s… – várd meg a betöltőt”).
+ *        „[s123] szöveg”. Az első még nem betöltött elemnél megáll és jelzi („HIÁNYZIK: s… – várd meg a betöltőt”);
+ *        ha a betöltő már végzett (allapot().done), a tartósan üres elválasztó elemet „[s123] (üres elem)” sorral átlépi
+ *        (a betöltő futása közben ugyanez: {atlep: true}).
  *        Opció: window.__kb.olvas(k, keret, {rovidit: true}) – a szó szerinti normaszöveg-elemek (P.rt osztály, „(n)” vagy
  *        „a)” kezdetű szöveg) helyén csak az eleje és a hossza áll (a szabályzat szerint ezt nem kell kiolvasni); a nem
  *        „(n)”/„a)” kezdetű rt-elemet teljes hosszban adja (magyarázó szöveg is lehet rt osztályú).
@@ -162,7 +164,12 @@
     var rov = opt && opt.rovidit, out = [], n = 0, i = k;
     for (; i < ids.length; i++) {
       var s = W.__t[ids[i]];
-      if (!s) { out.push('HIÁNYZIK: ' + ids[i] + ' – várd meg a betöltőt (allapot), majd olvass innen'); break; }
+      if (!s) {
+        // üres elem: ha a betöltő már végzett (vagy {atlep: true}), tartósan üres elválasztó elem – átlépjük, jelölve;
+        // amíg a betöltő fut, hiányzó (még be nem töltött) elemnek számít, és az olvasás itt megáll
+        if (W.__done || (opt && opt.atlep)) { out.push('[' + ids[i] + '] (üres elem)'); n += ids[i].length + 15; continue; }
+        out.push('HIÁNYZIK: ' + ids[i] + ' – várd meg a betöltőt (allapot), majd olvass innen'); break;
+      }
       var sor = '[' + ids[i] + '] ' + (rov && normaElem(ids[i], s) ? s.slice(0, 60) + ' … [normaszöveg, ' + s.length + ' karakter]' : s);
       if (n + sor.length + 1 > keret && out.length) break;
       out.push(sor); n += sor.length + 1;

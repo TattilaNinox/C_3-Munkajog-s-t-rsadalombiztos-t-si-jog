@@ -44,7 +44,9 @@ def blokkok_sorral(n, kihagyott=None):
         if not l:
             continue
         if elso:
-            elso = False; fedett += 1; continue
+            elso = False
+            if kozos.elso_sor_cim(l):
+                fedett += 1; continue
         if x in fej:
             out.append(['d', di]); ix.append(x); di += 1; fedett += 1; continue
         if x in doboz:

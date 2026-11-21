@@ -99,6 +99,8 @@ def ellenoriz(d, J, DOBOZ):
                 h.append(f'{sz["id"]}: az idézetben kötőjel áll a korpusz gondolatjele helyett ({a["par"]}): {a["idezet"][:50]}')
             if (a['forras'], a['par']) not in tetel_par:
                 h.append(f'{sz["id"]}: a § nincs a tétel(ek) dobozai között: {a["forras"]} {a["par"]}')
+            elif not any(kozos.norm(a['idezet']) in kozos.doboz_szoveg(n).get((a['forras'], a['par']), '') for n in d['tetel']):
+                h.append(f'{sz["id"]}: az idézet nincs a tétel dobozának szövegében (a doboz a § más részét tartalmazza): {a["forras"]} {a["par"]}: {a["idezet"][:50]}')
     volt = set()
     for i, p in enumerate(d['peldak'], 1):
         t = szamol(d, p['bemenet'])

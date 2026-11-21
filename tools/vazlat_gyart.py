@@ -57,7 +57,9 @@ def szerkezet(n):
         if not l:
             continue
         if elso:
-            elso = False; continue          # a tétel címe
+            elso = False
+            if kozos.elso_sor_cim(l):
+                continue                    # a tétel címe (ha a szöveg rögtön főcímmel kezdődik, az főcím: KE-14)
         if x in fej:
             out.append(('D', fej[x])); continue
         if x in doboz:

@@ -23,7 +23,7 @@ KIHAGYOTT = []
 
 def tetel_forrasai():
     m = {}
-    for f in glob.glob(os.path.join(kozos.GYOKER, 'tts', '*', '_meta.json')):
+    for f in sorted(glob.glob(os.path.join(kozos.GYOKER, 'tts', '*', '_meta.json'))):
         d = json.load(open(f, encoding='utf-8'))
         if d.get('via') != 'audioSource':
             # Csak az a hangdokumentum hangforrás, amelyet a jegyzet ténylegesen lejátszik (a jegyzet audioSource-a).

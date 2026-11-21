@@ -34,7 +34,26 @@ def egysegek(B, a, b):
             out.append((f'{i}–{i + 1}', h.blokk_hang(B[i]) + '\n\n' + h.blokk_hang(B[i + 1]))); i += 2
         else:
             out.append((str(i), h.blokk_hang(B[i]))); i += 1
-    return out
+    return [(k, t) for k, t in out if t.strip()]          # a felolvasó által kihagyott blokk (kiejtes.kihagyRx) nem egység
+
+
+_ELO = {}
+
+
+def elo_darabok(tid):
+    """A hangdokumentum darabfájljainak neve az élő hangágakban (a beállítás hangAlapAgak listája); None, ha egyik ág sem olvasható."""
+    if not h.kozos.beallitas().get('folytatodarabCsakElo'):
+        return None                      # a beállítás nem kéri (az A/1 kész darabjai így változatlanok)
+    if tid not in _ELO:
+        import subprocess
+        nevek, volt = set(), False
+        for ag in h.kozos.beallitas().get('hangAlapAgak', []):
+            r = subprocess.run(['git', '-C', h.GYOKER, 'ls-tree', '--name-only', ag, f'tts/{tid}/'], capture_output=True, text=True)
+            if r.returncode == 0:
+                volt = True
+                nevek |= {os.path.basename(x) for x in r.stdout.split('\n') if x}
+        _ELO[tid] = nevek if volt else None
+    return _ELO[tid]
 
 
 def main():
@@ -83,7 +102,11 @@ def main():
             dar = ism(dar)
             # régi folytatódarab nem válhat fölöslegessé: ha az új tagolás kevesebb darabot adna, mint ahány darabfájl van,
             # a program a darabhatárt (nem a doboz vágási határát) lépésenként csökkenti, amíg a darabszám el nem éri a régit
-            regi_db = max([1] + [int(re.search(r'_(\d+)\.txt$', x).group(1)) for x in glob.glob(os.path.join(mappa, fajl + '_*.txt'))])
+            # csak az élő hangágban (hangAlapAgak) meglévő folytatódarab számít megtartandónak; a gyártás közben keletkezett,
+            # az élő ágban nem szereplő folytatódarab fölöslegessé válhat, azt a program --ir módban törli (KE-17)
+            elo = elo_darabok(d['ttsId'])
+            megtart = [x for x in glob.glob(os.path.join(mappa, fajl + '_*.txt')) if elo is None or os.path.basename(x) in elo]
+            regi_db = max([1] + [int(re.search(r'_(\d+)\.txt$', x).group(1)) for x in megtart])
             if len(dar) < regi_db:
                 for mx in range(h_MAX - 50, 1000, -50):
                     dar = ism(h.darabol(egy, cimke=cimke, max_kar=mx, doboz_max=h_MAX))
@@ -92,6 +115,11 @@ def main():
                 szukitve.append(f'{d["ttsId"]}/{fajl}: {regi_db} régi darabfájl, a darabhatár {mx} karakter')
             nevek = [fajl + '.txt'] + [f'{fajl}_{j}.txt' for j in range(2, len(dar) + 1)]
             folos = sorted(set(os.path.basename(x) for x in glob.glob(os.path.join(mappa, fajl + '_*.txt'))) - set(nevek))
+            for x in [x for x in folos if elo is not None and x not in elo]:
+                folos.remove(x); valtozott += 1
+                print(f'{n}. tétel {d["ttsId"]}: fölös, az élő hangágban nem szereplő folytatódarab {"törölve" if ir else "törlendő"}: {x}')
+                if ir:
+                    os.remove(os.path.join(mappa, x))
             if folos:
                 sys.exit(f'HIBA: fölöslegessé vált régi folytatódarab: {d["ttsId"]}/{", ".join(folos)} – a tervet a központi chat igazítja')
             allapot = []
