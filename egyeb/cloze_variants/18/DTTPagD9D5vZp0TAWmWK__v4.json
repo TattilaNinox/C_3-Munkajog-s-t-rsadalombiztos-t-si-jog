@@ -1,0 +1,82 @@
+{
+  "id": "4",
+  "parentId": "DTTPagD9D5vZp0TAWmWK",
+  "variantIndex": 4,
+  "items": [
+    {
+      "id": "s1",
+      "cimke": "Mt. 80. §",
+      "text": "(1) A munkavállaló munkaviszonya megszüntetésekor (megszűnésekor) munkakörét az előírt rendben köteles átadni és a munkáltatóval elszámolni. A munkakörátadás és az elszámolás feltételeit a munkáltató köteles biztosítani. (2) A munkaviszony __[b1]__ történő megszüntetésekor legkésőbb az __[b2]__, egyébként legkésőbb a munkaviszony megszűnésétől számított __[b3]__ a munkavállaló részére __[b4]__ a __[b5]__, __[b6]__, valamint __[b7]__ a munkaviszonyra vonatkozó szabályban és egyéb jogszabályokban __[b8]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "felmondással"
+        },
+        {
+          "id": "b2",
+          "answer": "utolsó munkában töltött naptól"
+        },
+        {
+          "id": "b3",
+          "answer": "ötödik munkanapon"
+        },
+        {
+          "id": "b4",
+          "answer": "ki kell fizetni"
+        },
+        {
+          "id": "b5",
+          "answer": "munkabérét"
+        },
+        {
+          "id": "b6",
+          "answer": "egyéb járandóságait"
+        },
+        {
+          "id": "b7",
+          "answer": "ki kell adni"
+        },
+        {
+          "id": "b8",
+          "answer": "előírt igazolásokat"
+        }
+      ],
+      "distractors": [
+        "próbaidővel",
+        "első munkában töltött naptól",
+        "tizedik munkanapon",
+        "meg kell téríteni",
+        "költségtérítését",
+        "egyéb előlegeit",
+        "ki kell küldeni",
+        "előírt igazolványokat"
+      ]
+    },
+    {
+      "id": "s2",
+      "cimke": "Mt. 81. §",
+      "text": "(1) A munkáltató a munkavállaló kérelmére, ha a munkaviszony legalább egy évig fennállt, a munkaviszony megszüntetésekor (megszűnésekor) vagy legfeljebb az ezt követő egy éven belül a munkavállaló munkájáról írásban értékelést ad. (2) Az __[b1]__ __[b2]__ a munkavállaló __[b3]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "értékelés valótlan ténymegállapításainak"
+        },
+        {
+          "id": "b2",
+          "answer": "megsemmisítését vagy módosítását"
+        },
+        {
+          "id": "b3",
+          "answer": "bíróságtól kérheti"
+        }
+      ],
+      "distractors": [
+        "értékelés valótlan értékítéleteinek",
+        "megerősítését vagy kiegészítését",
+        "hatóságtól kérheti"
+      ]
+    }
+  ],
+  "itemCount": 2,
+  "createdAt": "2026-10-09T06:20:26.140Z"
+}

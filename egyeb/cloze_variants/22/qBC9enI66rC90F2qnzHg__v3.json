@@ -1,0 +1,477 @@
+{
+  "id": "3",
+  "parentId": "qBC9enI66rC90F2qnzHg",
+  "variantIndex": 3,
+  "items": [
+    {
+      "id": "s1",
+      "cimke": "Mt. 104. §",
+      "text": "(1) A __[b1]__ és a következő __[b2]__ között legalább __[b3]__ egybefüggő pihenőidőt (a továbbiakban: napi pihenőidő) kell biztosítani. (2) A napi pihenőidő időtartama legalább nyolc óra a) az osztott munkaidőben, b) a __[b4]__, c) a __[b5]__ vagy d) az __[b6]__ tevékenység keretében __[b7]__ esetében. (3) A napi pihenőidő, ha az a __[b8]__ kezdetének időpontjára esik, __[b9]__, a (2) bekezdés alkalmazásakor __[b10]__. (4) A (2) vagy a (3) __[b11]__ a két __[b12]__ napi pihenőidők __[b13]__ __[b14]__. (5) __[b15]__, ha a munkáltató a munka befejezését __[b16]__ __[b17]__, vagy rendkívüli munkaidőt __[b18]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "napi munka befejezése"
+        },
+        {
+          "id": "b2",
+          "answer": "munkanapi munkakezdés"
+        },
+        {
+          "id": "b3",
+          "answer": "tizenegy óra"
+        },
+        {
+          "id": "b4",
+          "answer": "megszakítás nélküli"
+        },
+        {
+          "id": "b5",
+          "answer": "több műszakos"
+        },
+        {
+          "id": "b6",
+          "answer": "idényjellegű"
+        },
+        {
+          "id": "b7",
+          "answer": "foglalkoztatott munkavállaló"
+        },
+        {
+          "id": "b8",
+          "answer": "nyári időszámítás"
+        },
+        {
+          "id": "b9",
+          "answer": "legalább tíz"
+        },
+        {
+          "id": "b10",
+          "answer": "legalább hét óra"
+        },
+        {
+          "id": "b11",
+          "answer": "bekezdés alkalmazása esetén"
+        },
+        {
+          "id": "b12",
+          "answer": "egymást követően beosztott"
+        },
+        {
+          "id": "b13",
+          "answer": "együttes tartama"
+        },
+        {
+          "id": "b14",
+          "answer": "legalább huszonkét óra"
+        },
+        {
+          "id": "b15",
+          "answer": "Nem kell napi pihenőidőt beosztani"
+        },
+        {
+          "id": "b16",
+          "answer": "közvetlenül követő napra"
+        },
+        {
+          "id": "b17",
+          "answer": "munkaidőt nem oszt be"
+        },
+        {
+          "id": "b18",
+          "answer": "nem rendel el"
+        }
+      ],
+      "distractors": [
+        "heti munka befejezése",
+        "munkanapi munkavégzés",
+        "négy óra",
+        "szünetelő",
+        "hajnali műszakos",
+        "ünnepi jellegű",
+        "kirendelt közreműködő",
+        "téli időszámítás",
+        "legalább tizenkettő",
+        "legalább három óra",
+        "bekezdés mellőzése esetén",
+        "egymástól elválasztott",
+        "külön-külön tartama",
+        "legalább tizenhat óra",
+        "Kötelező napi pihenőidőt beosztani",
+        "közvetlenül megelőző napra",
+        "munkaidőt köteles beosztani",
+        "köteles elrendelni"
+      ]
+    },
+    {
+      "id": "s2",
+      "cimke": "Mt. 105. §",
+      "text": "(1) __[b1]__ (__[b2]__) __[b3]__. A __[b4]__ egyenlőtlenül is beoszthatók. (2) Egyenlőtlen munkaidő-beosztás esetén hat egybefüggő munkanapot követően __[b5]__ be kell osztani. (3) Egyenlőtlen munkaidő-beosztás esetén a) a __[b6]__, b) a __[b7]__, c) az idényjellegű __[b8]__ foglalkoztatott munkavállaló számára havonta legalább egy heti pihenőnapot be kell osztani. (4) Havonta legalább egy heti pihenőnapot – a 101. § (1) bekezdés f) pont kivételével – __[b9]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Hetenként két pihenőnapot"
+        },
+        {
+          "id": "b2",
+          "answer": "heti pihenőnap"
+        },
+        {
+          "id": "b3",
+          "answer": "kell beosztani"
+        },
+        {
+          "id": "b4",
+          "answer": "heti pihenőnapok"
+        },
+        {
+          "id": "b5",
+          "answer": "legalább egy heti pihenőnapot"
+        },
+        {
+          "id": "b6",
+          "answer": "megszakítás nélküli"
+        },
+        {
+          "id": "b7",
+          "answer": "több műszakos"
+        },
+        {
+          "id": "b8",
+          "answer": "tevékenység keretében"
+        },
+        {
+          "id": "b9",
+          "answer": "vasárnapra kell beosztani"
+        }
+      ],
+      "distractors": [
+        "Havonként két pihenőidőt",
+        "heti pihenőidő",
+        "lehet beosztani",
+        "heti pihenőidők",
+        "legalább két heti pihenőidőt",
+        "szakaszos",
+        "nappali műszakos",
+        "munkakör keretében",
+        "munkaszüneti napra kell beosztani"
+      ]
+    },
+    {
+      "id": "s3",
+      "cimke": "Mt. 106. §",
+      "text": "(1) A __[b1]__ – a heti pihenőnapok helyett – __[b2]__ kitevő, __[b3]__ __[b4]__. (2) A __[b5]__ a __[b6]__ – a 101. § (1) bekezdés f) pont kivételével – havonta legalább egy alkalommal vasárnapra kell beosztani. (3) Egyenlőtlen munkaidő-beosztás esetén a) a megszakítás nélküli, b) a __[b7]__, c) az idényjellegű tevékenység keretében __[b8]__ számára havonta legalább negyven órát kitevő és egy naptári napot magába foglaló megszakítás nélküli heti pihenőidő is __[b9]__. Ebben az esetben a __[b10]__ vagy az __[b11]__ __[b12]__ legalább heti negyvennyolc óra heti pihenőidőt kell beosztani.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "munkavállalót"
+        },
+        {
+          "id": "b2",
+          "answer": "hetenként legalább negyvennyolc órát"
+        },
+        {
+          "id": "b3",
+          "answer": "megszakítás nélküli heti pihenőidő"
+        },
+        {
+          "id": "b4",
+          "answer": "illeti meg"
+        },
+        {
+          "id": "b5",
+          "answer": "munkavállaló számára"
+        },
+        {
+          "id": "b6",
+          "answer": "heti pihenőidőt"
+        },
+        {
+          "id": "b7",
+          "answer": "több műszakos"
+        },
+        {
+          "id": "b8",
+          "answer": "foglalkoztatott munkavállaló"
+        },
+        {
+          "id": "b9",
+          "answer": "beosztható"
+        },
+        {
+          "id": "b10",
+          "answer": "munkaidőkeret"
+        },
+        {
+          "id": "b11",
+          "answer": "elszámolási időszak"
+        },
+        {
+          "id": "b12",
+          "answer": "átlagában"
+        }
+      ],
+      "distractors": [
+        "megbízottat",
+        "havonként legalább huszonnégy órát",
+        "szünetelő napi pihenőidő",
+        "terheli őt",
+        "megbízott számára",
+        "napi pihenőidőt",
+        "délelőtti műszakos",
+        "megbízott vállalkozó",
+        "kötelező",
+        "beosztási keret",
+        "időkeret",
+        "összegében"
+      ]
+    },
+    {
+      "id": "s4",
+      "cimke": "Mt. 96. §",
+      "text": "(1) A munkaidő-beosztás szabályait (__[b1]__) a munkáltató állapítja meg, és erről a __[b2]__ __[b3]__ a __[b4]__. (2) A munkáltató a munkaidő beosztásának jogát – a munkavégzés önálló megszervezésére tekintettel – a munkavállaló számára írásban átengedheti (__[b5]__). A munkarend kötetlen jellegét nem érinti, ha a munkavállaló a munkaköri feladatok egy részét __[b6]__ __[b7]__ vagy __[b8]__ teljesítheti. (3) __[b9]__ a) a __[b10]__, valamint b) a __[b11]__ a)–b) pontban foglaltakat – e bekezdés kivételével – __[b12]__. (4) A munkavállalóra az __[b13]__ esetén a __[b14]__ munkarend az __[b15]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "munkarend"
+        },
+        {
+          "id": "b2",
+          "answer": "18. § szerint"
+        },
+        {
+          "id": "b3",
+          "answer": "tájékoztatja"
+        },
+        {
+          "id": "b4",
+          "answer": "munkavállalót"
+        },
+        {
+          "id": "b5",
+          "answer": "kötetlen munkarend"
+        },
+        {
+          "id": "b6",
+          "answer": "sajátos jellegüknél fogva"
+        },
+        {
+          "id": "b7",
+          "answer": "meghatározott időpontban"
+        },
+        {
+          "id": "b8",
+          "answer": "időszakban"
+        },
+        {
+          "id": "b9",
+          "answer": "Kötetlen munkarend esetén"
+        },
+        {
+          "id": "b10",
+          "answer": "93–112. §-ban"
+        },
+        {
+          "id": "b11",
+          "answer": "134. (1) bekezdés"
+        },
+        {
+          "id": "b12",
+          "answer": "nem kell alkalmazni"
+        },
+        {
+          "id": "b13",
+          "answer": "53. § szerinti foglalkoztatás"
+        },
+        {
+          "id": "b14",
+          "answer": "munkavégzés helye szerinti"
+        },
+        {
+          "id": "b15",
+          "answer": "irányadó"
+        }
+      ],
+      "distractors": [
+        "ügyeleti rend",
+        "16. § szerint",
+        "értesíti",
+        "megbízottat",
+        "kötött munkarend",
+        "rendes jellegüknél fogva",
+        "tetszőleges időpontban",
+        "határidőben",
+        "Kötött munkarend esetén",
+        "80–92. §-ban",
+        "135. (2) bekezdés",
+        "kötelező alkalmazni",
+        "52. § szerinti foglalkoztatás",
+        "lakóhely szerinti",
+        "alkalmazandó"
+      ]
+    },
+    {
+      "id": "s5",
+      "cimke": "Mt. 134. §",
+      "text": "(1) A __[b1]__ nyilvántartja a) a rendes és a rendkívüli munkaidő, b) __[b2]__, c) a __[b3]__, d) a 109. § (2) bekezdés, valamint a 135. § (3) bekezdés szerinti megállapodás alapján __[b4]__, __[b5]__. (2) A __[b6]__ __[b7]__ kell lennie a __[b8]__ és rendkívüli munkaidő, valamint a készenlét kezdő és befejező időpontjának is. (3) Az (1) bekezdés a) pont szerinti nyilvántartás – a (2) bekezdésben foglaltaktól __[b9]__ – az írásban közölt munkaidő-beosztás __[b10]__ történő __[b11]__ és a változás naprakész feltüntetésével is __[b12]__. (4) A munkáltató nyilvántartja a) a __[b13]__, b) a __[b14]__, c) a 109. § (2) bekezdés, d) a 135. § (3)–(4) bekezdés szerinti __[b15]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "munkáltató"
+        },
+        {
+          "id": "b2",
+          "answer": "a készenlét"
+        },
+        {
+          "id": "b3",
+          "answer": "szabadság"
+        },
+        {
+          "id": "b4",
+          "answer": "teljesített rendkívüli munkaidő"
+        },
+        {
+          "id": "b5",
+          "answer": "tartamát"
+        },
+        {
+          "id": "b6",
+          "answer": "nyilvántartásból"
+        },
+        {
+          "id": "b7",
+          "answer": "naprakészen megállapíthatónak"
+        },
+        {
+          "id": "b8",
+          "answer": "teljesített rendes"
+        },
+        {
+          "id": "b9",
+          "answer": "eltérően"
+        },
+        {
+          "id": "b10",
+          "answer": "hónap végén"
+        },
+        {
+          "id": "b11",
+          "answer": "igazolásával"
+        },
+        {
+          "id": "b12",
+          "answer": "vezethető"
+        },
+        {
+          "id": "b13",
+          "answer": "92. § (2) bekezdés"
+        },
+        {
+          "id": "b14",
+          "answer": "99. § (3) bekezdés"
+        },
+        {
+          "id": "b15",
+          "answer": "megállapodásokat"
+        }
+      ],
+      "distractors": [
+        "munkavállaló",
+        "az ügyelet",
+        "betegszabadság",
+        "elmaradt rendkívüli munkaidő",
+        "mértékét",
+        "kimutatásból",
+        "utólag megállapíthatónak",
+        "ledolgozott rendes",
+        "azonosan",
+        "hét végén",
+        "jóváhagyásával",
+        "mellőzhető",
+        "91. § (1) bekezdés",
+        "98. § (2) bekezdés",
+        "utasításokat"
+      ]
+    },
+    {
+      "id": "s6",
+      "cimke": "Mt. 135. § (1) bek. h) pont és (2) bek. g) pont",
+      "text": "(1) A __[b1]__ __[b2]__ vagy kollektív szerződés h) a 134. §-ban __[b3]__ __[b4]__. (2) Kollektív szerződés g) a __[b5]__,",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "felek"
+        },
+        {
+          "id": "b2",
+          "answer": "megállapodása"
+        },
+        {
+          "id": "b3",
+          "answer": "foglaltaktól"
+        },
+        {
+          "id": "b4",
+          "answer": "nem térhet el"
+        },
+        {
+          "id": "b5",
+          "answer": "101–108. §-ban"
+        }
+      ],
+      "distractors": [
+        "szervek",
+        "utasítása",
+        "előírtaktól",
+        "el kell térnie",
+        "93–100. §-ban"
+      ]
+    },
+    {
+      "id": "s7",
+      "cimke": "Mt. 203. § (4) bek.",
+      "text": "(4) __[b1]__ a __[b2]__ és a __[b3]__ foglaltakat, __[b4]__ a __[b5]__ kötöttek __[b6]__ vagy __[b7]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Nem kell alkalmazni"
+        },
+        {
+          "id": "b2",
+          "answer": "134. §-ban"
+        },
+        {
+          "id": "b3",
+          "answer": "155. § (2) bekezdésében"
+        },
+        {
+          "id": "b4",
+          "answer": "ha a felek"
+        },
+        {
+          "id": "b5",
+          "answer": "minta-munkaszerződés alkalmazásával"
+        },
+        {
+          "id": "b6",
+          "answer": "egyszerűsített foglakoztatásra"
+        },
+        {
+          "id": "b7",
+          "answer": "alkalmi munkára irányuló munkaszerződést"
+        }
+      ],
+      "distractors": [
+        "Kötelező alkalmazni",
+        "135. §-ban",
+        "156. § (1) bekezdésében",
+        "ha a szervek",
+        "sablon-munkaszerződés mellőzésével",
+        "határozatlan foglalkoztatásra",
+        "állandó munkára szóló megbízási szerződést"
+      ]
+    }
+  ],
+  "itemCount": 7,
+  "createdAt": "2026-10-09T06:20:36.383Z"
+}

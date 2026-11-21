@@ -1,0 +1,35 @@
+{
+  "kategoria": "C/3 Munkajog és társadalombiztosítási jog",
+  "tetelsorId": "4QLpe9ylvwQL0S8SAgsf",
+  "exportIdeje": "2026-11-21T08:36:38+01:00",
+  "ag": "elo-2026-11-21-0836",
+  "eloSzuro": {
+    "tetelsorok/tetelek": "a sor minden sorszama; ures txtContent nincs",
+    "notes deck": "status=Published es deletedAt ures; a gyujtemenybe tett pakli is, mert a kliens a gyujtemenyben megnyitja",
+    "notes cloze": "status=Published es deletedAt ures",
+    "notes egyeb": "status=Published es deletedAt ures; type nem deck es nem cloze",
+    "cloze_variants": "a publikalt cloze alkollekcioja, sajat allapotmezo nelkul",
+    "question_banks": "deletedAt ures, corpusGateLive nem false; status mezo nincs, vagy Published",
+    "memoriapalota_allomasok": "status=Published es deletedAt ures",
+    "tts_documents": "status=Published, vagy nincs status mezo, vagy publikalt jegyzet hangforrasa",
+    "jogeset_items": "status=Published vagy Public, deletedAt ures",
+    "dialogus_fajlok": "status=Published es deletedAt ures",
+    "deck_collections": "status=Published es a pakli-azonosito vagy a cimke koti a sorhoz",
+    "korpusz": "a Storage prefix minden fajlja"
+  },
+  "darab": {
+    "szovegek": 56,
+    "tanulokartyak": 100,
+    "kviz": 114,
+    "hezagpotlok": 54,
+    "memoriautvonal": 56,
+    "korpusz": 134,
+    "tts": 138,
+    "egyeb/tetel_html": 56,
+    "egyeb/notes": 251,
+    "egyeb/cloze_variants": 216,
+    "egyeb/deck_collections": 50,
+    "jogesetek": 0,
+    "dialogusok": 0
+  }
+}

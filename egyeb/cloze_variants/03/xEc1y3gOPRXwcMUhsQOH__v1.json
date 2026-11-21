@@ -1,0 +1,775 @@
+{
+  "id": "1",
+  "parentId": "xEc1y3gOPRXwcMUhsQOH",
+  "variantIndex": 1,
+  "items": [
+    {
+      "id": "s1",
+      "cimke": "Mt. 20. § (3) bek.",
+      "text": "(3) Ha a __[b1]__ nem az __[b2]__ (szerv, testület) gyakorolta, __[b3]__, __[b4]__, ha a __[b5]__ a __[b6]__. __[b7]__ __[b8]__, ha a __[b9]__ a __[b10]__ __[b11]__ az __[b12]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "munkáltatói jogkört"
+        },
+        {
+          "id": "b2",
+          "answer": "arra jogosított személy"
+        },
+        {
+          "id": "b3",
+          "answer": "eljárása érvénytelen"
+        },
+        {
+          "id": "b4",
+          "answer": "kivéve"
+        },
+        {
+          "id": "b5",
+          "answer": "jogkör gyakorlója"
+        },
+        {
+          "id": "b6",
+          "answer": "jognyilatkozatot jóváhagyta"
+        },
+        {
+          "id": "b7",
+          "answer": "Jóváhagyás hiányában is"
+        },
+        {
+          "id": "b8",
+          "answer": "érvényes a jognyilatkozat"
+        },
+        {
+          "id": "b9",
+          "answer": "munkavállaló"
+        },
+        {
+          "id": "b10",
+          "answer": "körülményekből alappal"
+        },
+        {
+          "id": "b11",
+          "answer": "következtethetett"
+        },
+        {
+          "id": "b12",
+          "answer": "eljáró jogosultságára"
+        }
+      ],
+      "distractors": [
+        "munkavállalói jogkört",
+        "arra felkért megbízott",
+        "eljárása hatályos",
+        "ideértve",
+        "képviselő",
+        "jognyilatkozatot megtámadta",
+        "Jóváhagyás esetén is",
+        "érvénytelen a jognyilatkozat",
+        "megbízott",
+        "vélelem alapján",
+        "tévesen tulajdonított",
+        "eljáró kötelezettségére"
+      ]
+    },
+    {
+      "id": "s2",
+      "cimke": "Mt. 22. § (4) bek.",
+      "text": "(4) __[b1]__ tett jognyilatkozat – ha e __[b2]__ __[b3]__ – __[b4]__. __[b5]__ __[b6]__, __[b7]__ __[b8]__ __[b9]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Az alaki kötöttség megsértésével"
+        },
+        {
+          "id": "b2",
+          "answer": "törvény"
+        },
+        {
+          "id": "b3",
+          "answer": "eltérően nem rendelkezik"
+        },
+        {
+          "id": "b4",
+          "answer": "érvénytelen"
+        },
+        {
+          "id": "b5",
+          "answer": "Az érvénytelenség jogkövetkezménye"
+        },
+        {
+          "id": "b6",
+          "answer": "nem alkalmazható"
+        },
+        {
+          "id": "b7",
+          "answer": "ha a jognyilatkozat"
+        },
+        {
+          "id": "b8",
+          "answer": "a felek egyező akaratából"
+        },
+        {
+          "id": "b9",
+          "answer": "teljesedésbe ment"
+        }
+      ],
+      "distractors": [
+        "A szóbeli kötöttség megsértésével",
+        "rendelet",
+        "másként nem tiltja",
+        "hatálytalan",
+        "A semmisség jogkövetkezménye",
+        "kötelezően alkalmazandó",
+        "ha a szerződés",
+        "az egyoldalú akaratból",
+        "meghiúsult"
+      ]
+    },
+    {
+      "id": "s3",
+      "cimke": "Mt. 27. §",
+      "text": "(1) __[b1]__ az a megállapodás, amely __[b2]__, vagy __[b3]__ megkerülésével __[b4]__ vagy __[b5]__. (2) A __[b6]__ semmis, ha pedig __[b7]__, azt a __[b8]__ __[b9]__. (3) A __[b10]__, __[b11]__, ha ahhoz a __[b12]__ munkaviszonyra vonatkozó szabály __[b13]__. A __[b14]__ __[b15]__ __[b16]__, a megállapodás __[b17]__ a __[b18]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Semmis"
+        },
+        {
+          "id": "b2",
+          "answer": "munkaviszonyra vonatkozó szabályba ütközik"
+        },
+        {
+          "id": "b3",
+          "answer": "munkaviszonyra vonatkozó szabály"
+        },
+        {
+          "id": "b4",
+          "answer": "jött létre"
+        },
+        {
+          "id": "b5",
+          "answer": "nyilvánvalóan a jóerkölcsbe ütközik"
+        },
+        {
+          "id": "b6",
+          "answer": "színlelt megállapodás"
+        },
+        {
+          "id": "b7",
+          "answer": "más megállapodást leplez"
+        },
+        {
+          "id": "b8",
+          "answer": "leplezett megállapodás alapján"
+        },
+        {
+          "id": "b9",
+          "answer": "kell megítélni"
+        },
+        {
+          "id": "b10",
+          "answer": "semmis megállapodás érvénytelen"
+        },
+        {
+          "id": "b11",
+          "answer": "kivéve"
+        },
+        {
+          "id": "b12",
+          "answer": "rendelkezést megállapító"
+        },
+        {
+          "id": "b13",
+          "answer": "más jogkövetkezményt fűz"
+        },
+        {
+          "id": "b14",
+          "answer": "semmisségre"
+        },
+        {
+          "id": "b15",
+          "answer": "az érdekelt"
+        },
+        {
+          "id": "b16",
+          "answer": "határidő nélkül hivatkozhat"
+        },
+        {
+          "id": "b17",
+          "answer": "semmisségét"
+        },
+        {
+          "id": "b18",
+          "answer": "bíróság hivatalból észleli"
+        }
+      ],
+      "distractors": [
+        "Megtámadható",
+        "polgári jogba ütközik",
+        "polgári jogi szabály",
+        "szűnt meg",
+        "nyilvánvalóan a szokásba ütközik",
+        "leplezett megállapodás",
+        "más megállapodást pótol",
+        "színlelt megállapodás alapján",
+        "kell mellőzni",
+        "megtámadott megállapodás hatályos",
+        "ideértve",
+        "rendelkezést mellőző",
+        "ugyanazt a jogkövetkezményt fűzi",
+        "megtámadhatóságra",
+        "a hatóság",
+        "határidőn belül hivatkozhat",
+        "megtámadhatóságát",
+        "bíróság kérelemre észleli"
+      ]
+    },
+    {
+      "id": "s4",
+      "cimke": "Mt. 28. §",
+      "text": "(1) A megállapodás megtámadható, ha annak megkötésekor a fél valamely lényeges körülmény tekintetében tévedésben volt, feltéve, ha tévedését a másik fél okozta vagy felismerhette. A megállapodást bármelyik fél megtámadhatja, ha a __[b1]__ __[b2]__ __[b3]__ a __[b4]__ voltak. Lényeges körülményre vonatkozik a tévedés akkor, ha annak ismeretében a fél nem vagy __[b5]__ __[b6]__ a szerződést. (2) __[b7]__ a szerződést az, aki a tévedését felismerhette vagy a tévedés __[b8]__. (3) A __[b9]__ kötött megállapodást megtámadhatja, akit a másik fél __[b10]__ __[b11]__ vagy __[b12]__. (4) A megállapodást megtámadhatja, akit a másik fél __[b13]__ __[b14]__ a megállapodás megkötésére. (5) A (3) és a (4) bekezdésben foglalt szabályokat kell alkalmazni, ha a megtévesztés vagy jogellenes fenyegetés __[b15]__ történt és erről a másik fél __[b16]__. (6) A fél __[b17]__ vagy __[b18]__ a megállapodás __[b19]__. (7) A __[b20]__ __[b21]__, amely a tévedés __[b22]__ vagy a jogellenes fenyegetés __[b23]__. A megtámadási határidőre __[b24]__ megfelelően irányadók azzal, hogy __[b25]__ a megtámadás joga nem gyakorolható. (8) A megtámadásra irányuló jognyilatkozatot a (7) bekezdésben meghatározott határidőn belül írásban kell a másik féllel közölni. (9) A sikeresen megtámadott megállapodás érvénytelen.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "szerződéskötéskor"
+        },
+        {
+          "id": "b2",
+          "answer": "lényeges körülményben"
+        },
+        {
+          "id": "b3",
+          "answer": "ugyanabban"
+        },
+        {
+          "id": "b4",
+          "answer": "téves feltevésben"
+        },
+        {
+          "id": "b5",
+          "answer": "más tartalommal"
+        },
+        {
+          "id": "b6",
+          "answer": "kötötte volna meg"
+        },
+        {
+          "id": "b7",
+          "answer": "Nem támadhatja meg"
+        },
+        {
+          "id": "b8",
+          "answer": "kockázatát vállalta"
+        },
+        {
+          "id": "b9",
+          "answer": "megtévesztés hatására"
+        },
+        {
+          "id": "b10",
+          "answer": "szándékos magatartásával"
+        },
+        {
+          "id": "b11",
+          "answer": "tévedésbe ejt"
+        },
+        {
+          "id": "b12",
+          "answer": "tévedésben tart"
+        },
+        {
+          "id": "b13",
+          "answer": "jogellenes fenyegetéssel"
+        },
+        {
+          "id": "b14",
+          "answer": "vett rá"
+        },
+        {
+          "id": "b15",
+          "answer": "harmadik személy részéről"
+        },
+        {
+          "id": "b16",
+          "answer": "tudott vagy tudnia kellett"
+        },
+        {
+          "id": "b17",
+          "answer": "titkos fenntartása"
+        },
+        {
+          "id": "b18",
+          "answer": "rejtett indoka"
+        },
+        {
+          "id": "b19",
+          "answer": "érvényességét nem érinti"
+        },
+        {
+          "id": "b20",
+          "answer": "megtámadás határideje"
+        },
+        {
+          "id": "b21",
+          "answer": "harminc nap"
+        },
+        {
+          "id": "b22",
+          "answer": "felismerésétől"
+        },
+        {
+          "id": "b23",
+          "answer": "megszűnésétől kezdődik"
+        },
+        {
+          "id": "b24",
+          "answer": "az elévülés szabályai"
+        },
+        {
+          "id": "b25",
+          "answer": "hat hónap elteltével"
+        }
+      ],
+      "distractors": [
+        "teljesítéskor",
+        "járulékos körülményben",
+        "eltérőben",
+        "helyes feltevésben",
+        "azonos tartalommal",
+        "megtagadta volna",
+        "Meg kell támadnia",
+        "kockázatát áthárította",
+        "tévedés hatására",
+        "gondatlan magatartásával",
+        "tévedésben hagy",
+        "tévedésbe visz",
+        "jogszerű felszólítással",
+        "kért fel",
+        "hatóság részéről",
+        "nem tudhatott",
+        "nyílt fenntartása",
+        "kimondott indoka",
+        "érvényességét megszünteti",
+        "semmisség határideje",
+        "tizenöt nap",
+        "bekövetkezésétől",
+        "beálltától kezdődik",
+        "a nyugvás szabályai",
+        "egy év elteltével"
+      ]
+    },
+    {
+      "id": "s5",
+      "cimke": "Mt. 287. § (3) bek.",
+      "text": "(3) A __[b1]__ vonatkozó __[b2]__ __[b3]__ a __[b4]__ a megtámadás __[b5]__ számított __[b6]__ __[b7]__ __[b8]__. A __[b9]__, __[b10]__ annak __[b11]__ __[b12]__, vagy azt __[b13]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "munkaviszony megszüntetésére"
+        },
+        {
+          "id": "b2",
+          "answer": "megállapodás vagy egyoldalú jognyilatkozat"
+        },
+        {
+          "id": "b3",
+          "answer": "megtámadása esetén"
+        },
+        {
+          "id": "b4",
+          "answer": "keresetlevelet"
+        },
+        {
+          "id": "b5",
+          "answer": "eredménytelenségének megállapításától"
+        },
+        {
+          "id": "b6",
+          "answer": "harminc napon belül"
+        },
+        {
+          "id": "b7",
+          "answer": "lehet"
+        },
+        {
+          "id": "b8",
+          "answer": "előterjeszteni"
+        },
+        {
+          "id": "b9",
+          "answer": "megtámadás eredménytelen"
+        },
+        {
+          "id": "b10",
+          "answer": "ha a másik fél"
+        },
+        {
+          "id": "b11",
+          "answer": "közlésétől számított"
+        },
+        {
+          "id": "b12",
+          "answer": "tizenöt napon belül nem válaszol"
+        },
+        {
+          "id": "b13",
+          "answer": "nem fogadja el"
+        }
+      ],
+      "distractors": [
+        "munkaviszony módosítására",
+        "kizárólag bírósági ítélet",
+        "semmissége esetén",
+        "fizetési meghagyást",
+        "eredményességének megállapításától",
+        "tizenöt napon belül",
+        "kötelező",
+        "visszavonni",
+        "megtámadás eredményes",
+        "ha a bíróság",
+        "megtételétől számított",
+        "harminc napon belül nem válaszol",
+        "elfogadja"
+      ]
+    },
+    {
+      "id": "s6",
+      "cimke": "Mt. 29. §",
+      "text": "(1) __[b1]__ alapján létrejött jogviszonyból származó jogokat és kötelezettségeket úgy kell tekinteni, mintha azok érvényes megállapodás alapján állnának fenn. Az érvénytelen megállapodás alapján létrejött jogviszonyt – ha e törvény eltérően nem rendelkezik – a __[b2]__ __[b3]__, __[b4]__, __[b5]__, hogy __[b6]__ a felek __[b7]__. (2) A munkáltató köteles a __[b8]__ __[b9]__ __[b10]__, amennyi a munkáltató __[b11]__, továbbá __[b12]__ kell a __[b13]__ is, ha a __[b14]__ a __[b15]__ érvénytelen és azt az (1) bekezdés alapján __[b16]__. (3) Ha a megállapodás __[b17]__, __[b18]__ a __[b19]__ kell alkalmazni, kivéve, ha a felek az __[b20]__ __[b21]__. (4) __[b22]__ esetén e jognyilatkozatból __[b23]__. (5) A munkaviszony __[b24]__ jognyilatkozat érvénytelensége esetén – a munkáltató __[b25]__ kivéve – a 82–84. §-ban foglalt rendelkezéseket kell megfelelően alkalmazni.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Az érvénytelen megállapodás"
+        },
+        {
+          "id": "b2",
+          "answer": "munkáltató köteles"
+        },
+        {
+          "id": "b3",
+          "answer": "haladéktalanul"
+        },
+        {
+          "id": "b4",
+          "answer": "azonnali hatállyal megszüntetni"
+        },
+        {
+          "id": "b5",
+          "answer": "feltéve"
+        },
+        {
+          "id": "b6",
+          "answer": "az érvénytelenség okát"
+        },
+        {
+          "id": "b7",
+          "answer": "nem hárítják el"
+        },
+        {
+          "id": "b8",
+          "answer": "munkavállalónak"
+        },
+        {
+          "id": "b9",
+          "answer": "annyi időre járó"
+        },
+        {
+          "id": "b10",
+          "answer": "távolléti díjat megfizetni"
+        },
+        {
+          "id": "b11",
+          "answer": "felmondása esetén járna"
+        },
+        {
+          "id": "b12",
+          "answer": "megfelelően alkalmazni"
+        },
+        {
+          "id": "b13",
+          "answer": "végkielégítés szabályait"
+        },
+        {
+          "id": "b14",
+          "answer": "munkaszerződés"
+        },
+        {
+          "id": "b15",
+          "answer": "munkáltató oldalán felmerült okból"
+        },
+        {
+          "id": "b16",
+          "answer": "meg kell szüntetni"
+        },
+        {
+          "id": "b17",
+          "answer": "valamely része érvénytelen"
+        },
+        {
+          "id": "b18",
+          "answer": "helyette"
+        },
+        {
+          "id": "b19",
+          "answer": "munkaviszonyra vonatkozó szabályt"
+        },
+        {
+          "id": "b20",
+          "answer": "érvénytelen rész nélkül"
+        },
+        {
+          "id": "b21",
+          "answer": "nem állapodtak volna meg"
+        },
+        {
+          "id": "b22",
+          "answer": "Az egyoldalú jognyilatkozat érvénytelensége"
+        },
+        {
+          "id": "b23",
+          "answer": "jogok és kötelezettségek nem származnak"
+        },
+        {
+          "id": "b24",
+          "answer": "megszüntetésére irányuló"
+        },
+        {
+          "id": "b25",
+          "answer": "saját jognyilatkozatának sikeres megtámadását"
+        }
+      ],
+      "distractors": [
+        "A hatályos megállapodás",
+        "munkavállaló köteles",
+        "ésszerű határidőn belül",
+        "rendes felmondással megszüntetni",
+        "kivéve",
+        "a semmisség okát",
+        "elhárítják",
+        "megbízottnak",
+        "átalányban járó",
+        "alapbért megfizetni",
+        "azonnali hatályú felmondása esetén járna",
+        "mellőzni",
+        "kártérítés szabályait",
+        "megbízási szerződés",
+        "munkavállaló oldalán felmerült okból",
+        "fenn kell tartani",
+        "egésze érvénytelen",
+        "mellett",
+        "polgári jogi szabályt",
+        "érvénytelen résszel",
+        "megállapodtak volna",
+        "A megállapodás érvénytelensége",
+        "jogok és kötelezettségek származnak",
+        "módosítására irányuló",
+        "saját jognyilatkozatának sikertelen megtámadását"
+      ]
+    },
+    {
+      "id": "s7",
+      "cimke": "Mt. 30. §",
+      "text": "A megállapodás __[b1]__ kár megtérítésére __[b2]__ kell __[b3]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "érvénytelenségéből származó"
+        },
+        {
+          "id": "b2",
+          "answer": "e törvény szabályait"
+        },
+        {
+          "id": "b3",
+          "answer": "alkalmazni"
+        }
+      ],
+      "distractors": [
+        "hatálytalanságából származó",
+        "e rendelet szabályait",
+        "mellőzni"
+      ]
+    },
+    {
+      "id": "s8",
+      "cimke": "Ptk. 6:102. §",
+      "text": "(1) __[b1]__ az az __[b2]__, amely a __[b3]__ és __[b4]__ a jóhiszeműség és tisztesség követelményének megsértésével egyoldalúan és indokolatlanul a szerződési feltétel alkalmazójával __[b5]__ __[b6]__. (2) Az általános szerződési feltétel __[b7]__ __[b8]__ a __[b9]__ __[b10]__, amely a __[b11]__, a __[b12]__, továbbá az érintett feltételnek a __[b13]__ vagy más szerződésekkel való __[b14]__. (3) A tisztességtelen általános szerződési feltételekre vonatkozó rendelkezések __[b15]__ a __[b16]__ vagy a szolgáltatás és __[b17]__ meghatározó szerződési feltételekre, __[b18]__ __[b19]__. (4) __[b20]__ az általános szerződési feltétel, ha azt __[b21]__, vagy __[b22]__ __[b23]__. (5) Az általános szerződési feltételként a __[b24]__ __[b25]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Tisztességtelen"
+        },
+        {
+          "id": "b2",
+          "answer": "általános szerződési feltétel"
+        },
+        {
+          "id": "b3",
+          "answer": "szerződésből eredő jogokat"
+        },
+        {
+          "id": "b4",
+          "answer": "kötelezettségeket"
+        },
+        {
+          "id": "b5",
+          "answer": "szerződő fél hátrányára"
+        },
+        {
+          "id": "b6",
+          "answer": "állapítja meg"
+        },
+        {
+          "id": "b7",
+          "answer": "tisztességtelen voltának megállapításakor"
+        },
+        {
+          "id": "b8",
+          "answer": "vizsgálni kell"
+        },
+        {
+          "id": "b9",
+          "answer": "szerződéskötéskor fennálló"
+        },
+        {
+          "id": "b10",
+          "answer": "minden olyan körülményt"
+        },
+        {
+          "id": "b11",
+          "answer": "szerződés megkötésére vezetett"
+        },
+        {
+          "id": "b12",
+          "answer": "kikötött szolgáltatás rendeltetését"
+        },
+        {
+          "id": "b13",
+          "answer": "szerződés más feltételeivel"
+        },
+        {
+          "id": "b14",
+          "answer": "kapcsolatát"
+        },
+        {
+          "id": "b15",
+          "answer": "nem alkalmazhatók"
+        },
+        {
+          "id": "b16",
+          "answer": "főszolgáltatást megállapító"
+        },
+        {
+          "id": "b17",
+          "answer": "az ellenszolgáltatás arányát"
+        },
+        {
+          "id": "b18",
+          "answer": "ha azok"
+        },
+        {
+          "id": "b19",
+          "answer": "világosak és érthetőek"
+        },
+        {
+          "id": "b20",
+          "answer": "Nem minősül tisztességtelennek"
+        },
+        {
+          "id": "b21",
+          "answer": "jogszabály állapítja meg"
+        },
+        {
+          "id": "b22",
+          "answer": "jogszabály előírásának megfelelően"
+        },
+        {
+          "id": "b23",
+          "answer": "határozzák meg"
+        },
+        {
+          "id": "b24",
+          "answer": "szerződés részévé vált tisztességtelen szerződési feltételt"
+        },
+        {
+          "id": "b25",
+          "answer": "a sérelmet szenvedett fél megtámadhatja"
+        }
+      ],
+      "distractors": [
+        "Tisztességes",
+        "egyedileg megtárgyalt feltétel",
+        "törvényből eredő jogokat",
+        "jogosultságokat",
+        "szerződő fél előnyére",
+        "mellőzi",
+        "érvénytelenségének megállapításakor",
+        "mellőzni kell",
+        "teljesítéskor fennálló",
+        "kizárólag az írásbeli kikötést",
+        "szerződés megszüntetésére vezetett",
+        "kikötött ellenszolgáltatás mértékét",
+        "más szerződésekkel",
+        "ellentétét",
+        "alkalmazandók",
+        "mellékszolgáltatást megállapító",
+        "a kárátalány arányát",
+        "kivéve ha azok",
+        "rejtettek és értelmezhetetlenek",
+        "Tisztességtelennek minősül",
+        "felek állapítják meg",
+        "szokásnak megfelelően",
+        "mellőzik",
+        "szerződésen kívül maradt érvénytelen kikötést",
+        "az alkalmazó fél hivatalból érvénytelenítheti"
+      ]
+    },
+    {
+      "id": "s9",
+      "cimke": "Ptk. 6:107. §",
+      "text": "(1) A __[b1]__ semmis. A __[b2]__, mert a __[b3]__ __[b4]__ __[b5]__. (2) __[b6]__ vagy az __[b7]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "lehetetlen szolgáltatásra irányuló szerződés"
+        },
+        {
+          "id": "b2",
+          "answer": "szolgáltatás nem lehetetlen azért"
+        },
+        {
+          "id": "b3",
+          "answer": "kötelezett a szerződés megkötésekor"
+        },
+        {
+          "id": "b4",
+          "answer": "nem rendelkezik"
+        },
+        {
+          "id": "b5",
+          "answer": "a szolgáltatás tárgyával"
+        },
+        {
+          "id": "b6",
+          "answer": "Az érthetetlen kikötés"
+        },
+        {
+          "id": "b7",
+          "answer": "egymásnak ellentmondó kikötések semmisek"
+        }
+      ],
+      "distractors": [
+        "lehetséges szolgáltatásra irányuló megállapodás",
+        "szolgáltatás lehetetlen azért",
+        "jogosult a szerződés teljesítésekor",
+        "rendelkezik",
+        "az ellenszolgáltatás tárgyával",
+        "A világos kikötés",
+        "egymást kiegészítő kikötések hatályosak"
+      ]
+    }
+  ],
+  "itemCount": 9,
+  "createdAt": "2026-10-09T06:20:38.631Z"
+}

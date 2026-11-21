@@ -1,0 +1,762 @@
+{
+  "id": "4",
+  "parentId": "qf9aO1Ilsqg5GaRVW8Qx",
+  "variantIndex": 4,
+  "items": [
+    {
+      "id": "s1",
+      "cimke": "Mt. 194. §",
+      "text": "(1) A __[b1]__ munkavállaló a __[b2]__ __[b3]__ __[b4]__ __[b5]__. __[b6]__ __[b7]__ esetén a szerződést kötő __[b8]__ __[b9]__ a __[b10]__ __[b11]__ __[b12]__. (2) A __[b13]__ beosztására a kötetlen munkarendre vonatkozó szabályokat kell megfelelően alkalmazni. (3) A __[b14]__ a munkavállalókat – eltérő megállapodás hiányában – egyenlő __[b15]__. (4) A munkaviszony megszűnik, ha a munkavállalók száma __[b16]__. Ebben az esetben a munkáltató köteles __[b17]__ távolléti díjat __[b18]__ __[b19]__, amennyi a munkáltató __[b20]__ __[b21]__, továbbá megfelelően alkalmazni kell a __[b22]__ __[b23]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "munkáltató és több"
+        },
+        {
+          "id": "b2",
+          "answer": "munkaszerződésben"
+        },
+        {
+          "id": "b3",
+          "answer": "egy munkakörbe tartozó"
+        },
+        {
+          "id": "b4",
+          "answer": "feladatok közös ellátásában"
+        },
+        {
+          "id": "b5",
+          "answer": "állapodhatnak meg"
+        },
+        {
+          "id": "b6",
+          "answer": "Valamely munkavállaló"
+        },
+        {
+          "id": "b7",
+          "answer": "akadályoztatása"
+        },
+        {
+          "id": "b8",
+          "answer": "más munkavállaló"
+        },
+        {
+          "id": "b9",
+          "answer": "köteles"
+        },
+        {
+          "id": "b10",
+          "answer": "munkaviszonyból származó"
+        },
+        {
+          "id": "b11",
+          "answer": "kötelezettségek"
+        },
+        {
+          "id": "b12",
+          "answer": "teljesítésére"
+        },
+        {
+          "id": "b13",
+          "answer": "munkaidő"
+        },
+        {
+          "id": "b14",
+          "answer": "munkabér"
+        },
+        {
+          "id": "b15",
+          "answer": "arányban illeti meg"
+        },
+        {
+          "id": "b16",
+          "answer": "egy főre csökken"
+        },
+        {
+          "id": "b17",
+          "answer": "annyi időre járó"
+        },
+        {
+          "id": "b18",
+          "answer": "a munkavállalónak"
+        },
+        {
+          "id": "b19",
+          "answer": "megfizetni"
+        },
+        {
+          "id": "b20",
+          "answer": "felmondása esetén"
+        },
+        {
+          "id": "b21",
+          "answer": "járna"
+        },
+        {
+          "id": "b22",
+          "answer": "végkielégítés"
+        },
+        {
+          "id": "b23",
+          "answer": "szabályait is"
+        }
+      ],
+      "distractors": [
+        "munkáltató vagy több",
+        "kollektív szerződésben",
+        "több munkakörbe tartozó",
+        "feladatok egyéni ellátásában",
+        "kötelesek megállapodni",
+        "Bármely munkavállaló",
+        "felmondása",
+        "egyik munkavállaló",
+        "jogosult",
+        "munkaszerződésből eredő",
+        "jogosultságok",
+        "felfüggesztésére",
+        "pihenőidő",
+        "bérpótlék",
+        "különböző arányban illeti meg",
+        "két főre csökken",
+        "meghatározott időre járó",
+        "a munkáltatónak",
+        "átadni",
+        "közös megegyezés esetén",
+        "fizetendő lenne",
+        "kártérítés",
+        "elvárásait is"
+      ]
+    },
+    {
+      "id": "s2",
+      "cimke": "Mt. 195. §",
+      "text": "(1) Több munkáltató és a __[b1]__ __[b2]__ __[b3]__ __[b4]__ __[b5]__. (2) A munkaszerződésben __[b6]__, hogy a __[b7]__ __[b8]__ __[b9]__. (3) __[b10]__ __[b11]__ __[b12]__ __[b13]__. (4) __[b14]__ – __[b15]__ – __[b16]__ __[b17]__ __[b18]__ __[b19]__. (5) A munkaviszony – eltérő megállapodás hiányában – a 63. § (1) bekezdés b) pontban meghatározott okból megszűnik, ha a munkáltatók száma egyre csökken.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "munkavállaló"
+        },
+        {
+          "id": "b2",
+          "answer": "a munkaszerződésben"
+        },
+        {
+          "id": "b3",
+          "answer": "egy munkakörbe tartozó feladatok"
+        },
+        {
+          "id": "b4",
+          "answer": "ellátásában"
+        },
+        {
+          "id": "b5",
+          "answer": "állapodhatnak meg"
+        },
+        {
+          "id": "b6",
+          "answer": "meg kell határozni"
+        },
+        {
+          "id": "b7",
+          "answer": "munkabér-fizetési kötelezettséget"
+        },
+        {
+          "id": "b8",
+          "answer": "melyik munkáltató"
+        },
+        {
+          "id": "b9",
+          "answer": "teljesíti"
+        },
+        {
+          "id": "b10",
+          "answer": "A munkáltatók"
+        },
+        {
+          "id": "b11",
+          "answer": "a munkavállaló munkajogi igényével"
+        },
+        {
+          "id": "b12",
+          "answer": "kapcsolatban"
+        },
+        {
+          "id": "b13",
+          "answer": "egyetemlegesen felelnek"
+        },
+        {
+          "id": "b14",
+          "answer": "A munkaviszonyt"
+        },
+        {
+          "id": "b15",
+          "answer": "eltérő megállapodás hiányában"
+        },
+        {
+          "id": "b16",
+          "answer": "bármely munkáltató"
+        },
+        {
+          "id": "b17",
+          "answer": "vagy a munkavállaló"
+        },
+        {
+          "id": "b18",
+          "answer": "jognyilatkozata"
+        },
+        {
+          "id": "b19",
+          "answer": "megszünteti"
+        }
+      ],
+      "distractors": [
+        "munkáltató",
+        "a kollektív szerződésben",
+        "több munkakörbe tartozó feladatok",
+        "felfüggesztésében",
+        "kötelesek megállapodni",
+        "meg lehet határozni",
+        "kártérítési kötelezettséget",
+        "valamennyi munkáltató",
+        "felfüggeszti",
+        "A munkavállalók",
+        "a munkáltató munkajogi igényével",
+        "tekintettel",
+        "önállóan felelnek",
+        "A munkaszerződést",
+        "külön megállapodás alapján",
+        "egyik munkáltató sem",
+        "és a munkavállaló",
+        "egyoldalú intézkedése"
+      ]
+    },
+    {
+      "id": "s3",
+      "cimke": "Mt. 196. §",
+      "text": "(1) __[b1]__ __[b2]__ __[b3]__ a __[b4]__ a __[b5]__ __[b6]__. (2) __[b7]__ __[b8]__ a munkavállaló __[b9]__ történő foglalkoztatásában. (3) Eltérő megállapodás hiányában a távmunkavégzés során a) a munkáltató utasítási joga a munkavállaló által ellátandó feladatok __[b10]__, b) a munkáltató __[b11]__ __[b12]__ __[b13]__, c) a munkavállaló a munkáltató telephelyén a tárgyévben __[b14]__ végez munkát, és d) a munkáltató biztosítja, hogy a munkavállaló a területére beléphessen és más munkavállalóval kapcsolatot tartson. (4) __[b15]__ az ellenőrzés jogát a __[b16]__ gyakorolja, akkor az ellenőrzés __[b17]__ __[b18]__ a távmunkavégzés helyeként szolgáló __[b19]__ __[b20]__ aránytalan terhet. (5) __[b21]__ __[b22]__ __[b23]__ __[b24]__, __[b25]__ biztosít.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Távmunkavégzés esetén"
+        },
+        {
+          "id": "b2",
+          "answer": "a munkavállaló"
+        },
+        {
+          "id": "b3",
+          "answer": "a munkát"
+        },
+        {
+          "id": "b4",
+          "answer": "munkaidő egy részében vagy egészében"
+        },
+        {
+          "id": "b5",
+          "answer": "munkáltató telephelyétől"
+        },
+        {
+          "id": "b6",
+          "answer": "elkülönült helyen végzi"
+        },
+        {
+          "id": "b7",
+          "answer": "A munkaszerződésben"
+        },
+        {
+          "id": "b8",
+          "answer": "meg kell állapodni"
+        },
+        {
+          "id": "b9",
+          "answer": "távmunkavégzés keretében"
+        },
+        {
+          "id": "b10",
+          "answer": "meghatározására terjed ki"
+        },
+        {
+          "id": "b11",
+          "answer": "az ellenőrzési jogát"
+        },
+        {
+          "id": "b12",
+          "answer": "távolról számítástechnikai eszköz alkalmazásával"
+        },
+        {
+          "id": "b13",
+          "answer": "gyakorolja"
+        },
+        {
+          "id": "b14",
+          "answer": "legfeljebb a munkanapok egyharmada esetén"
+        },
+        {
+          "id": "b15",
+          "answer": "Ha a munkáltató"
+        },
+        {
+          "id": "b16",
+          "answer": "távmunkavégzés helyén"
+        },
+        {
+          "id": "b17",
+          "answer": "nem jelenthet"
+        },
+        {
+          "id": "b18",
+          "answer": "a munkavállaló, valamint"
+        },
+        {
+          "id": "b19",
+          "answer": "ingatlant használó más személy"
+        },
+        {
+          "id": "b20",
+          "answer": "számára"
+        },
+        {
+          "id": "b21",
+          "answer": "A munkáltató"
+        },
+        {
+          "id": "b22",
+          "answer": "a távmunkát végző munkavállalónak"
+        },
+        {
+          "id": "b23",
+          "answer": "minden olyan tájékoztatást"
+        },
+        {
+          "id": "b24",
+          "answer": "köteles megadni"
+        },
+        {
+          "id": "b25",
+          "answer": "amelyet más munkavállalónak"
+        }
+      ],
+      "distractors": [
+        "Helyszíni munkavégzés esetén",
+        "a feladatot",
+        "munkaidő teljes egészében",
+        "munkavállaló lakhelyétől",
+        "kijelölt helyen végzi",
+        "A kollektív szerződésben",
+        "meg lehet állapodni",
+        "részmunkaidős foglalkoztatás keretében",
+        "módosítására terjed ki",
+        "az utasítási jogát",
+        "helyszínen személyes ellenőrzéssel",
+        "felfüggeszti",
+        "legalább a munkanapok egyharmada esetén",
+        "Amennyiben a munkáltató",
+        "telephelyén",
+        "jelenthet",
+        "a munkáltató, vagy",
+        "ingatlantulajdonos",
+        "részére",
+        "a telephelyi munkavállalónak",
+        "bizonyos tájékoztatást",
+        "jogosult megadni",
+        "amelyet a munkáltatónak"
+      ]
+    },
+    {
+      "id": "s4",
+      "cimke": "Mt. 213. §",
+      "text": "__[b1]__ vagy __[b2]__ a) __[b3]__, b) __[b4]__, c) __[b5]__, d) e) __[b6]__, f) __[b7]__, g) __[b8]__ foglaltaktól __[b9]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "A felek megállapodása"
+        },
+        {
+          "id": "b2",
+          "answer": "kollektív szerződés"
+        },
+        {
+          "id": "b3",
+          "answer": "a 192. §-ban"
+        },
+        {
+          "id": "b4",
+          "answer": "a 195. § (2)–(3) bekezdésében"
+        },
+        {
+          "id": "b5",
+          "answer": "a 196. §-ban"
+        },
+        {
+          "id": "b6",
+          "answer": "a 198. §-ban"
+        },
+        {
+          "id": "b7",
+          "answer": "a 200–207. §-ban"
+        },
+        {
+          "id": "b8",
+          "answer": "a 212. §-ban"
+        },
+        {
+          "id": "b9",
+          "answer": "nem térhet el"
+        }
+      ],
+      "distractors": [
+        "A felek egyezsége",
+        "egyedi megállapodás",
+        "a 193. §-ban",
+        "a 195. § (1)–(2) bekezdésében",
+        "a 197. §-ban",
+        "a 199. §-ban",
+        "a 200–205. §-ban",
+        "a 211. §-ban",
+        "eltérhet"
+      ]
+    },
+    {
+      "id": "s5",
+      "cimke": "Mvt. 86/A. §",
+      "text": "(1) __[b1]__ __[b2]__ __[b3]__ __[b4]__. (2) A távmunkavégzés – __[b5]__ – __[b6]__ is történhet. Az ilyen munkaeszköz esetén a munkáltató a kockázatértékelés elvégzése során __[b7]__ __[b8]__ __[b9]__ __[b10]__. A munkaeszköz egészséget nem veszélyeztető és biztonságos __[b11]__ fenntartásáról __[b12]__ __[b13]__. (3) A munkáltató __[b14]__ __[b15]__ __[b16]__ meghatározott munkahelyi munkavédelmi tanácskozási és __[b17]__ __[b18]__, __[b19]__ __[b20]__ __[b21]__, __[b22]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "A távmunkavégzésre"
+        },
+        {
+          "id": "b2",
+          "answer": "e törvény szabályait"
+        },
+        {
+          "id": "b3",
+          "answer": "a jelen fejezetben foglalt"
+        },
+        {
+          "id": "b4",
+          "answer": "eltérésekkel kell alkalmazni"
+        },
+        {
+          "id": "b5",
+          "answer": "a munkáltatóval kötött megállapodás alapján"
+        },
+        {
+          "id": "b6",
+          "answer": "a munkavállaló által biztosított munkaeszközzel"
+        },
+        {
+          "id": "b7",
+          "answer": "győződik meg"
+        },
+        {
+          "id": "b8",
+          "answer": "a munkaeszköz"
+        },
+        {
+          "id": "b9",
+          "answer": "egészséget nem veszélyeztető"
+        },
+        {
+          "id": "b10",
+          "answer": "és biztonságos állapotáról"
+        },
+        {
+          "id": "b11",
+          "answer": "állapotának"
+        },
+        {
+          "id": "b12",
+          "answer": "ebben az esetben"
+        },
+        {
+          "id": "b13",
+          "answer": "a munkavállaló gondoskodik"
+        },
+        {
+          "id": "b14",
+          "answer": "a munkavállalót"
+        },
+        {
+          "id": "b15",
+          "answer": "tájékoztatja"
+        },
+        {
+          "id": "b16",
+          "answer": "a VI. Fejezetben"
+        },
+        {
+          "id": "b17",
+          "answer": "érdekképviseleti lehetőségekről"
+        },
+        {
+          "id": "b18",
+          "answer": "és gyakorlatról"
+        },
+        {
+          "id": "b19",
+          "answer": "továbbá az ezzel összefüggő"
+        },
+        {
+          "id": "b20",
+          "answer": "feladatot ellátó"
+        },
+        {
+          "id": "b21",
+          "answer": "felelős személyekről"
+        },
+        {
+          "id": "b22",
+          "answer": "elérhetőségük adatairól"
+        }
+      ],
+      "distractors": [
+        "A helyszíni munkavégzésre",
+        "más törvény szabályait",
+        "a korábbi fejezetben foglalt",
+        "eltérések nélkül kell alkalmazni",
+        "a munkavállalóval kötött megállapodás alapján",
+        "a munkáltató által biztosított munkaeszközzel",
+        "feltételezi",
+        "a munkavégzés helye",
+        "egészséget veszélyeztető",
+        "vagy biztonságos állapotáról",
+        "működésének",
+        "más esetben",
+        "a munkáltató gondoskodik",
+        "a munkáltatót",
+        "engedélyezi",
+        "az V. Fejezetben",
+        "munkajogi lehetőségekről",
+        "vagy eljárásról",
+        "valamint az ehhez kapcsolódó",
+        "feladatot végrehajtó",
+        "kijelölt személyekről",
+        "személyes adataikról"
+      ]
+    },
+    {
+      "id": "s6",
+      "cimke": "Mvt. 86/B. §",
+      "text": "__[b1]__ __[b2]__, __[b3]__ __[b4]__ __[b5]__ a) __[b6]__ __[b7]__ __[b8]__ __[b9]__, __[b10]__ __[b11]__ __[b12]__, b) __[b13]__ __[b14]__ az a) pont szerinti __[b15]__ választja meg, c) a munkáltató a munkavédelmi szabályok megtartását – eltérő megállapodás hiányában – számítástechnikai eszköz alkalmazásával __[b16]__.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "Az információtechnológiai"
+        },
+        {
+          "id": "b2",
+          "answer": "vagy számítástechnikai eszközzel"
+        },
+        {
+          "id": "b3",
+          "answer": "rendszerrel"
+        },
+        {
+          "id": "b4",
+          "answer": "(a továbbiakban együtt: számítástechnikai eszköz)"
+        },
+        {
+          "id": "b5",
+          "answer": "végzett távmunka esetén"
+        },
+        {
+          "id": "b6",
+          "answer": "a munkáltató"
+        },
+        {
+          "id": "b7",
+          "answer": "írásban tájékoztatja"
+        },
+        {
+          "id": "b8",
+          "answer": "a munkavállalót"
+        },
+        {
+          "id": "b9",
+          "answer": "a munkavégzéshez szükséges"
+        },
+        {
+          "id": "b10",
+          "answer": "egészséget nem veszélyeztető"
+        },
+        {
+          "id": "b11",
+          "answer": "és biztonságos munkakörülmények"
+        },
+        {
+          "id": "b12",
+          "answer": "szabályairól"
+        },
+        {
+          "id": "b13",
+          "answer": "a munkavállaló"
+        },
+        {
+          "id": "b14",
+          "answer": "a munkavégzés helyét"
+        },
+        {
+          "id": "b15",
+          "answer": "munkakörülmények teljesülésére figyelemmel"
+        },
+        {
+          "id": "b16",
+          "answer": "távolról ellenőrizheti"
+        }
+      ],
+      "distractors": [
+        "A hagyományos technológiai",
+        "és számítástechnikai eszközzel",
+        "alkalmazással",
+        "(a továbbiakban: eszköz)",
+        "végzett helyszíni munka esetén",
+        "szóban tájékoztatja",
+        "a munkáltatót",
+        "a munkavégzéshez javasolt",
+        "egészséget veszélyeztető",
+        "vagy biztonságos munkakörülmények",
+        "elveiről",
+        "a munkavégzés idejét",
+        "munkakörülmények hiányára figyelemmel",
+        "helyszínen ellenőrizheti"
+      ]
+    },
+    {
+      "id": "s7",
+      "cimke": "Mvt. 86/C. §",
+      "text": "(1) __[b1]__ végzett távmunka esetén __[b2]__ a munkavégzés helyéről __[b3]__. (2) Az (1) bekezdés szerinti távmunkavégzés csak a munkáltató által __[b4]__ távmunkavégzési helyen __[b5]__. (3) A távmunkavégzési helyen a munkavállaló __[b6]__ __[b7]__ __[b8]__. (4) A munkáltató vagy megbízottja __[b9]__ arról, hogy a távmunkavégzési helyen a munkakörülmények __[b10]__, __[b11]__ __[b12]__ __[b13]__. (5) A __[b14]__ ellenőrzésen túl a munkáltató vagy megbízottja – így különösen a 8. §-ban, valamint az 57. és 58. §-ban megjelölt személy – a __[b15]__, __[b16]__, valamint a __[b17]__ __[b18]__ a távmunkavégzési helyként szolgáló __[b19]__. (6) A távmunkavégzési helyként szolgáló ingatlan területére a __[b20]__ __[b21]__ léphet be és tartózkodhat. (7) A 81. § (4) bekezdésében meghatározott __[b22]__ a távmunkavégzés helyeként szolgáló ingatlant használó más személy számára __[b23]__. A munkavédelmi hatóság a munkáltatót és a munkavállalót az ellenőrzés megkezdése előtt __[b24]__ tájékoztatja. A munkáltató az ilyen céllal a távmunkavégzés helyeként szolgáló ingatlan területére történő belépéshez szükséges hozzájárulást a munkavállalótól __[b25]__ beszerzi.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "A nem számítástechnikai eszközzel"
+        },
+        {
+          "id": "b2",
+          "answer": "a felek írásban megállapodnak"
+        },
+        {
+          "id": "b3",
+          "answer": "(a továbbiakban: távmunkavégzési hely)"
+        },
+        {
+          "id": "b4",
+          "answer": "munkavédelmi szempontból előzetesen megfelelőnek minősített"
+        },
+        {
+          "id": "b5",
+          "answer": "folytatható"
+        },
+        {
+          "id": "b6",
+          "answer": "a munkáltató hozzájárulása nélkül"
+        },
+        {
+          "id": "b7",
+          "answer": "nem változtathatja meg"
+        },
+        {
+          "id": "b8",
+          "answer": "a munkakörülményeket"
+        },
+        {
+          "id": "b9",
+          "answer": "rendszeresen köteles meggyőződni"
+        },
+        {
+          "id": "b10",
+          "answer": "megfelelnek-e a követelményeknek"
+        },
+        {
+          "id": "b11",
+          "answer": "a munkavállalók"
+        },
+        {
+          "id": "b12",
+          "answer": "ismerik, illetve megtartják-e"
+        },
+        {
+          "id": "b13",
+          "answer": "a rájuk vonatkozó rendelkezéseket"
+        },
+        {
+          "id": "b14",
+          "answer": "(4) bekezdésben meghatározott"
+        },
+        {
+          "id": "b15",
+          "answer": "kockázatértékelés elvégzése"
+        },
+        {
+          "id": "b16",
+          "answer": "balesetvizsgálat lefolytatása"
+        },
+        {
+          "id": "b17",
+          "answer": "munkakörülmények ellenőrzése céljából"
+        },
+        {
+          "id": "b18",
+          "answer": "léphet be és tartózkodhat"
+        },
+        {
+          "id": "b19",
+          "answer": "ingatlan területén"
+        },
+        {
+          "id": "b20",
+          "answer": "munkavédelmi képviselő"
+        },
+        {
+          "id": "b21",
+          "answer": "a munkavállaló beleegyezésével"
+        },
+        {
+          "id": "b22",
+          "answer": "hatósági ellenőrzés"
+        },
+        {
+          "id": "b23",
+          "answer": "aránytalan terhet nem jelenthet"
+        },
+        {
+          "id": "b24",
+          "answer": "legalább 3 munkanappal"
+        },
+        {
+          "id": "b25",
+          "answer": "legkésőbb az ellenőrzés megkezdéséig"
+        }
+      ],
+      "distractors": [
+        "A számítástechnikai eszközzel",
+        "a felek szóban megállapodnak",
+        "(a továbbiakban: munkavégzési hely)",
+        "munkavédelmi szempontból utólagosan megfelelőnek minősített",
+        "felfüggeszthető",
+        "a munkáltató hozzájárulásával",
+        "változtathatja meg",
+        "a munkarendet",
+        "alkalomszerűen köteles meggyőződni",
+        "megfelelnek-e az elvárásoknak",
+        "a munkáltatók",
+        "ismerik, de nem tartják-e",
+        "az általános rendelkezéseket",
+        "(3) bekezdésben meghatározott",
+        "kockázatelemzés elvégzése",
+        "balesetmegelőzés végrehajtása",
+        "munkakörülmények javítása céljából",
+        "nem léphet be és tartózkodhat",
+        "telephely területén",
+        "üzemi tanács tagja",
+        "a munkavállaló tudta nélkül",
+        "munkáltatói ellenőrzés",
+        "aránytalan terhet jelenthet",
+        "legfeljebb 3 munkanappal",
+        "az ellenőrzés megkezdése előtt"
+      ]
+    }
+  ],
+  "itemCount": 7,
+  "createdAt": "2026-08-28T13:25:45.318Z"
+}

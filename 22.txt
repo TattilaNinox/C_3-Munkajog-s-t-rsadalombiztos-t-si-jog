@@ -1,0 +1,251 @@
+A napi és a heti pihenőidőre, illetve a heti pihenőnapra vonatkozó szabályok, a munka- és pihenőidő nyilvántartása.
+
+I. Bevezetés / fogalom
+
+A munka- és pihenőidő rendjében négy, egymástól elválasztandó intézmény áll: a napi pihenőidő, a heti pihenőnap, a heti pihenőidő és a munka- és pihenőidő nyilvántartása. Az első a munkanapok közötti, egybefüggő regeneráció; a második a hét naptári vagy beosztási egységére eső két pihenőnap; a harmadik a pihenőnapok helyett járó, órában mért, megszakítás nélküli heti blokk. A nyilvántartás nem önálló pihenőjog, hanem a pihenőjogok és a munkaidő-plafonok érvényesülésének bizonyítási rendje. A 18/2021. (V. 27.) AB határozat a napi és heti munka-, illetve pihenőidőt, annak nyilvántartását, a munkaidőkeretet, a munkarendet és a szabadságot egyetlen, az egészség megőrzését szolgáló fejezetrendbe helyezi.
+
+Az Európai Parlament és a Tanács 2003. november 4-i 2003/88/EK irányelve a munkaidő-szervezés egyes szempontjairól a minimális biztonsági és egészségvédelmi követelményeket állapítja meg. A 2. cikk a munkaidőt a munkavállaló dolgozásának, a munkáltató rendelkezésére állásának és a feladatvégzésnek a tartamaként, a pihenőidőt pedig mint az időtartamot, amely nem minősül munkaidőnek, határozza meg: uniós szinten bináris a viszony. A preambulum (4) bekezdése szerint a munkavállalók biztonságának, higiénéjének és egészségének javítása nem rendelhető alá pusztán gazdasági megfontolásoknak; az (5) bekezdés minden munkavállalónak megfelelő tartamú pihenőidőt ír, napokban, órákban vagy ezek részeiben. A 3. cikk huszonnégy órás időtartamonként tizenegy összefüggő óra minimális napi pihenőidőt, az 5. cikk hétnaponként huszonnégy óra megszakítás nélküli heti pihenőidőt, továbbá a 3. cikk szerinti tizenegy órás napi pihenőidőt kíván. A 16. cikk a) pontja a heti pihenőidő referencia-időszakát tizennégy napban zárja.
+
+A C-477/21. sz. MÁV-START Vasúti Személyszállító Zrt. ügyben a Bíróság 2023. március 2-i ítélete a 2003/88/EK irányelv 3. és 5. cikkét az Alapjogi Charta 31. cikk (2) bekezdésével összefüggésben értelmezi. Az irányelv a napi és heti pihenőidőhöz való jogot e chartabeli alapvető jog pontosításaként biztosítja, ezért nem értelmezhető megszorítóan a munkavállalót megillető jogok kárára. A napi és a heti pihenőidő két önálló alanyi jog: a napi pihenőidő a munkát közvetlenül követő, összefüggő eltávolodást, a heti pihenőidő a hétnapos időszakon belüli kipihenést szolgálja. E dualitás a magyar 104–106. § olvasatának is a mércéje.
+
+II. Hatályos szabályozás
+
+1. A napi pihenőidő
+
+A napi pihenőidő a napi munka befejezése és a következő munkanapi munkakezdés közötti, egybefüggő tartam. A főszabály legalább tizenegy óra: ez a 2003/88/EK irányelv 3. cikkének magyar megfelelője, és a 18/2021. (V. 27.) AB határozat is e mértéket idézi. Négy foglalkoztatási körben — osztott munkaidő, megszakítás nélküli, több műszakos vagy idényjellegű tevékenység — a tartam legalább nyolc órára csökken; a nyári időszámítás kezdete a tizenegy órát legalább tízre, a nyolcat legalább hétre viszi. A csökkentett pihenők nem halmozhatók korlátlanul: két egymást követően beosztott napi pihenőidő együttes tartama legalább huszonkét óra. Az (5) bekezdés a beosztási kötelezettséget oldja, ha a munka befejezését közvetlenül követő napra a munkáltató munkaidőt nem oszt be, vagy rendkívüli munkaidőt nem rendel el; e fordulatot a C-477/21. ítélet ratioja mellett kell olvasni.
+
+  Mt. 104. §
+
+  (1) A napi munka befejezése és a következő munkanapi munkakezdés között legalább tizenegy óra egybefüggő pihenőidőt (a továbbiakban: napi pihenőidő) kell biztosítani.
+
+  (2) A napi pihenőidő időtartama legalább nyolc óra a) az osztott munkaidőben, b) a megszakítás nélküli, c) a több műszakos vagy d) az idényjellegű tevékenység keretében foglalkoztatott munkavállaló esetében.
+
+  (3) A napi pihenőidő, ha az a nyári időszámítás kezdetének időpontjára esik, legalább tíz, a (2) bekezdés alkalmazásakor legalább hét óra.
+
+  (4) A
+
+  (2) vagy a (3) bekezdés alkalmazása esetén a két egymást követően beosztott napi pihenőidők együttes tartama legalább huszonkét óra.
+
+  (5) Nem kell napi pihenőidőt beosztani, ha a munkáltató a munka befejezését közvetlenül követő napra munkaidőt nem oszt be, vagy rendkívüli munkaidőt nem rendel el.
+
+Az (1) bekezdés biztosítani rendel, az (5) bekezdés beosztani nem rendel: a két ige nem azonos. A beosztás elmaradása a következő, munkaidő nélküli napra nem szünteti meg azt a kötelezettséget, hogy a munka befejezését tizenegy (vagy a (2)–(3) bekezdés szerinti rövidebb) egybefüggő óra kövesse. A (4) bekezdés a (2) vagy a (3) bekezdés szerinti csökkentést kiegyenlíti: a két egymást követő napi pihenőidő együttesen legalább huszonkét óra, ezért a (2) bekezdés szerinti nyolc plusz nyolc órás kettős csökkentés tilos, mert tizenhat óra a huszonkét órás együttes minimum alatt marad; a tíz plusz tizenkettő a (3) bekezdés utáni, huszonkét órára kiegészítő pár, nem kettős csökkentés. A nyári időszámítás egyórás „vesztesége” a (3) bekezdésben kifejezetten le van írva; a téli átállítás e szakaszban nem jelenik meg.
+
+2. A heti pihenőnap
+
+A heti pihenőnap a hétre eső, napban mért pihenés: hetenként két pihenőnapot kell beosztani. A két nap egyenlőtlenül is beosztható, tehát nem kell feltétlenül szombat–vasárnapra esnie, és nem kell egymást követnie. Egyenlőtlen munkaidő-beosztásnál a törvény két, egymástól különböző minimumot állít: általános esetben hat egybefüggő munkanap után legalább egy heti pihenőnap jár, a megszakítás nélküli, a több műszakos és az idényjellegű tevékenységnél havonta legalább egy. Havonta legalább egy heti pihenőnapot vasárnapra kell beosztani, a 101. § (1) bekezdés f) pontja szerinti, kizárólag szombaton és vasárnap részmunkaidőben foglalkoztatott kivételével. A 18/2021. (V. 27.) AB határozat e rendet úgy foglalja össze, hogy a két pihenőnap egyenlőtlenül is beosztható, de — a munkarendtől függetlenül — havonta legalább egynek vasárnapra kell esnie; a törvényi kivétel az f) pont.
+
+  Mt. 105. §
+
+  (1) Hetenként két pihenőnapot (heti pihenőnap) kell beosztani. A heti pihenőnapok egyenlőtlenül is beoszthatók.
+
+  (2) Egyenlőtlen munkaidő-beosztás esetén hat egybefüggő munkanapot követően legalább egy heti pihenőnapot be kell osztani.
+
+  (3) Egyenlőtlen munkaidő-beosztás esetén a) a megszakítás nélküli, b) a több műszakos, c) az idényjellegű tevékenység keretében foglalkoztatott munkavállaló számára havonta legalább egy heti pihenőnapot be kell osztani.
+
+  (4) Havonta legalább egy heti pihenőnapot – a 101. § (1) bekezdés f) pont kivételével – vasárnapra kell beosztani.
+
+A (2) és a (3) bekezdés nem ugyanazt a kört oldja. A hat egybefüggő munkanap utáni egy pihenőnap az egyenlőtlen beosztás általános zárja; a (3) bekezdés a megszakítás nélküli, a több műszakos és az idényjellegű foglalkoztatásnál a havi egy pihenőnapot teszi minimummá, tehát a hatnapos zár e körben nem a (2) bekezdés szerint érvényesül. A (4) bekezdés vasárnapi minimuma a 101. § (1) bekezdés f) pontja alól esik ki: a kizárólag hétvégi részmunkaidőnél a vasárnap eleve munkanap lehet. A heti két pihenőnap és a 106. § szerinti heti pihenőidő nem halmozható: a 106. § (1) bekezdése a pihenőnapok helyett járó intézmény.
+
+3. A heti pihenőidő
+
+A heti pihenőidő a pihenőnapok alternatívája: a munkavállalót hetenként legalább negyvennyolc órát kitevő, megszakítás nélküli heti pihenőidő illeti meg. Ez a 2003/88/EK irányelv 5. cikkének huszonnégy órás uniós minimumánál kedvezőbb nemzeti mérték; a 15. cikk éppen az ilyen, a biztonság és az egészség védelme szempontjából kedvezőbb tagállami vagy kollektív szabályokat engedi. Havonta legalább egy alkalommal a heti pihenőidőt is vasárnapra kell beosztani, ismét a 101. § (1) bekezdés f) pontja kivételével. Egyenlőtlen beosztásnál a megszakítás nélküli, a több műszakos és az idényjellegű körben havonta legalább negyven óra, egy naptári napot magába foglaló megszakítás nélküli heti pihenőidő is beosztható, a munkaidőkeret vagy az elszámolási időszak átlagában azonban legalább heti negyvennyolc órát kell tartani. A C-477/21. ítélet szerint a negyvenkettő vagy negyvennyolc órás heti blokk nem nyeli el a napi pihenőidőt.
+
+  Mt. 106. §
+
+  (1) A munkavállalót – a heti pihenőnapok helyett – hetenként legalább negyvennyolc órát kitevő, megszakítás nélküli heti pihenőidő illeti meg.
+
+  (2) A munkavállaló számára a heti pihenőidőt – a 101. § (1) bekezdés f) pont kivételével – havonta legalább egy alkalommal vasárnapra kell beosztani.
+
+  (3) Egyenlőtlen munkaidő-beosztás esetén a) a megszakítás nélküli, b) a több műszakos, c) az idényjellegű tevékenység keretében foglalkoztatott munkavállaló számára havonta legalább negyven órát kitevő és egy naptári napot magába foglaló megszakítás nélküli heti pihenőidő is beosztható. Ebben az esetben a munkaidőkeret vagy az elszámolási időszak átlagában legalább heti negyvennyolc óra heti pihenőidőt kell beosztani.
+
+A (3) bekezdés a negyvenórás, naptári napot magába foglaló blokkot havonta engedi, nem hetenként a negyvennyolc óra helyett korlátlanul: az átlagolás a keret vagy az elszámolási időszak egészére a heti negyvennyolc órát visszaállítja. A „egy naptári napot magába foglaló” fordulat azt zárja ki, hogy a negyven óra két naptári napra essen anélkül, hogy legalább egy teljes naptári nap a blokkban legyen. A (2) bekezdés vasárnapi szabálya a 105. § (4) bekezdésének tükörképe: akár pihenőnapot, akár pihenőidőt oszt a munkáltató, a havi vasárnapi minimum — az f) pont kivételével — áll. A 135. § (2) bekezdés g) pontja a 101–108. §-tól, tehát a 106. §-tól is, a kollektív szerződésnek csak a munkavállaló javára enged eltérést.
+
+III. Részletes szabályok / esetkörök
+
+1. A 2003/88/EK irányelv pihenőidő-minimumai
+
+A 2003/88/EK irányelv 1. cikk (2) bekezdése a hatályt egyebek mellett a napi és a heti pihenőidő minimális időtartamára, a szünetekre és a maximális heti munkaidőre vonja. A 3. cikk a napi pihenőidőt huszonnégy órás időtartamonként tizenegy összefüggő órában, az 5. cikk a heti pihenőidőt hétnaponként huszonnégy óra megszakítás nélküli tartamban, továbbá a 3. cikk szerinti tizenegy órás napi pihenőidőben határozza meg. Az 5. cikk második mondata objektív, műszaki vagy munkaszervezési feltételek esetén a minimális huszonnégy órás pihenőidő alkalmazását engedi. A 16. cikk a) pontja a heti pihenőidő referencia-időszakát tizennégy napban zárja: a heti minimum tehát nem feltétlenül minden naptári hétre, hanem legfeljebb kéthetes átlagban is mérhető, ha a tagállam e referencia-időszakot megállapítja.
+
+A 4. cikk a hat óránál hosszabb munkanaphoz pihenőszünetet rendel; ez a munkaközi szünet, nem a napi pihenőidő. A 6. cikk a hétnapos időtartamokban, a túlórát is beleértve, a negyvennyolc órás átlagos heti munkaidőt zárja. A 15. cikk a kedvezőbb tagállami és kollektív szabályokat fenntartja. A 17. cikk a 3–6., a 8. és a 16. cikktől a tevékenység sajátos jellege miatt — ha a munkaidő tartamát nem mérik vagy a munkavállalók maguk sem tudják meghatározni, különösen ügyvezetők, családtag munkavállalók és vallási szertartáson közreműködők esetében — eltérést enged, más eltéréseknél pedig egyenértékű kompenzáló pihenőidőt, vagy kivételesen megfelelő védelmet kíván. Az Mt. 209. § (4) bekezdése szerinti kötetlen vezetői munkarend e kivételi logikához kapcsolható, de a magyar szabály a 96. § (3) bekezdésének kivezetésével, nem az irányelv 17. cikkének közvetlen átültetéseként érvényesül.
+
+A C-477/21. ítélet 24. pontja rögzíti: a magyar nyelvi változat „továbbá” szava az angol „plus”, a német „zuzüglich” és a francia „s’ajoutent” megfelelője. A Bíróság szerint ez nem egyetlen, legalább harmincöt órás heti blokkot hoz létre, hanem a huszonnégy órás heti pihenőidőhöz hozzáadódó, attól elkülönülő napi pihenőidőt. A magyar 106. § negyvennyolc (illetve a (3) bekezdés szerint átmenetileg negyven) órája a 15. cikk szerinti kedvezőbb mérték; a 104. § tizenegy órája a 3. cikk átültetése. A két jogot a kedvezőbb heti mérték sem olvaszthatja össze.
+
+2. A C-477/21. MÁV-START ítélet
+
+A Miskolci Törvényszék előzetes döntéshozatali kérelme az IH mozdonyvezető és a MÁV-START Vasúti Személyszállító Zrt. közötti jogvitából indult. A kollektív szerződés a mozdonyvezetőnek tizenkét órás lakóhelyi napi pihenőidőt (plusz kétszer harminc perc utazási normaidő) és heti két pihenőnapot, illetve ezek helyett legalább negyvenkét órás megszakítás nélküli heti pihenőidőt, a keret átlagában negyvennyolc órát biztosított. A munkáltató a heti pihenőidő, illetve a szabadság kiadásakor napi pihenőidőt és utazási normaidőt nem adott: álláspontja szerint napi pihenőidő csak két, huszonnégy órán belül egymást követő munkavégzés között jár, és a hosszabb heti pihenőidő a napi pihenőidőt helyettesíti. A kérdést előterjesztő bíróság egyebek mellett azt kérdezte, hogy a napi pihenőidő a heti pihenőidő része-e, hogy a heti minimum-e a harmincöt egybefüggő óra, és hogy a negyvenkét órás heti blokk mellett is ki kell-e adni a tizenkét órás napi pihenőidőt.
+
+A Bíróság első rendelkező pontja: a 2003/88/EK irányelv 5. cikkét a Charta 31. cikk (2) bekezdésével úgy kell értelmezni, hogy a 3. cikk szerinti napi pihenőidő nem képezi a heti pihenőidő részét, hanem ahhoz hozzáadódik. A 3. és az 5. cikk két különböző rendelkezés, eltérő céllal: a napi pihenőidő a munkát közvetlenül követő eltávolodás, a heti a hétnapos időszakon belüli kipihenés. Az az olvasat, amely a napi pihenőidőt a heti részévé tenné, megfosztaná lényegétől a 3. cikk szerinti jogot, mert a heti pihenőidővel élő munkavállaló elesne a napi pihenőidő tényleges igénybevételétől. Az 5. cikk első bekezdése nem csupán a heti minimumot adja meg, hanem kimondja, hogy e tartamhoz hozzáadódik a napi pihenőidő.
+
+A második rendelkező pont: ha a nemzeti szabályozás harmincöt óra egybefüggő időtartamot meghaladó heti pihenőidőt ír elő, a munkavállaló számára ezen időtartamon felül a 3. cikk szerinti napi pihenőidőt is ki kell adni. A „heti pihenőidő” uniós jogi fogalom, a tagállami elnevezés nem határozza meg az 5. cikk tartalmát. A 15. cikk szerinti kedvezőbb heti mérték — az alapügyben a kollektív szerződés szerinti legalább negyvenkét óra — a minimum felett a nemzeti jog tárgya, de nem foszthatja meg a munkavállalót az irányelv más jogaitól, különösen a napi pihenőidőtől. A napi pihenőidőt a nemzeti heti pihenőidő tartamától függetlenül kell biztosítani.
+
+A harmadik rendelkező pont: amikor a munkavállaló számára heti pihenőidőt adnak ki, jogosult arra is, hogy az említett heti pihenőidőt megelőzően napi pihenőidőben részesüljön. Minden munkavállalónak közvetlenül a munkaidőt követően kell napi pihenőidőben részesülnie, függetlenül attól, hogy e pihenőidőt követi-e munkaidő. Ha a napi és a heti pihenőidőt egybefüggően nyújtják, a heti pihenőidő csak akkor kezdődhet, amikor a munkavállaló már részesült a napi pihenőidőben. E ratio a 104. § (5) bekezdésének olvasatát is köti: a következő napra eső munkaidő hiánya nem jelenti azt, hogy a munka befejezését azonnal a heti pihenőidő „fogyaszthatja”. A heti blokk az (1) bekezdés szerinti napi pihenőidő letelte után indul.
+
+A Bíróság a C-55/18. CCOO-ítéletre is utal: a tagállamok kötelesek gondoskodni arról, hogy a munkavállalók ténylegesen részesüljenek a minimális napi és heti pihenőidőben, a végrehajtási részletszabályok nem foszthatják meg e jogokat lényegüktől, a munkavállaló a munkaviszonyban a gyengébb fél. A nyilvántartás (134. §) e tényleges érvényesülés eszköze: a kezdő és befejező időpont naprakész megállapíthatósága nélkül a 104–106. § betartása nem ellenőrizhető. A C-477/21. tényállásban a heti pihenőidő és a szabadság melletti napi pihenőidő elmaradása éppen e ténylegesség hiányát jelentette.
+
+IV. Kapcsolódó jogintézmények
+
+1. Munkarend és kötetlen munkarend
+
+A munkaidő-beosztás szabályait (munkarend) a munkáltató állapítja meg, és a 18. § szerint tájékoztatja a munkavállalót. A beosztás joga — a munkavégzés önálló megszervezésére tekintettel — írásban a munkavállalóra ruházható: ez a kötetlen munkarend. A kötetlen jelleget nem szünteti meg, ha a munkaköri feladatok egy része sajátos jellegénél fogva meghatározott időponthoz vagy időszakhoz kötött. Kötetlen munkarendnél a 93–112. §-t és a 134. § (1) bekezdés a)–b) pontját — e kivezető bekezdés kivételével — nem kell alkalmazni: kiesik tehát a 104–106. § szerinti pihenőbeosztás és a rendes, rendkívüli munkaidő, valamint a készenlét tartamának nyilvántartása. A 135. § (1) bekezdés b) pontja a 96. § (2) bekezdésétől eltérést nem enged; a 135. § (2) bekezdés d) pontja a 96. § (3) bekezdésétől a kollektív szerződésnek csak a munkavállaló javára enged eltérést.
+
+  Mt. 96. §
+
+  (1) A munkaidő-beosztás szabályait (munkarend) a munkáltató állapítja meg, és erről a 18. § szerint tájékoztatja a munkavállalót.
+
+  (2) A munkáltató a munkaidő beosztásának jogát – a munkavégzés önálló megszervezésére tekintettel – a munkavállaló számára írásban átengedheti (kötetlen munkarend). A munkarend kötetlen jellegét nem érinti, ha a munkavállaló a munkaköri feladatok egy részét sajátos jellegüknél fogva meghatározott időpontban vagy időszakban teljesítheti.
+
+  (3) Kötetlen munkarend esetén a) a 93–112. §-ban, valamint b) a 134. (1) bekezdés a)–b) pontban foglaltakat – e bekezdés kivételével – nem kell alkalmazni.
+
+  (4) A munkavállalóra az 53. § szerinti foglalkoztatás esetén a munkavégzés helye szerinti munkarend az irányadó.
+
+A (3) bekezdés a 93–112. §-t és a 134. § (1) bekezdés a)–b) pontját emeli ki, a szabadság nyilvántartását (134. § (1) bekezdés c) pont) és a (4) bekezdés szerinti megállapodás-nyilvántartást nem. A kötetlen munkarend tehát nem a teljes 134. § alóli felmentés. A (4) bekezdés szerint az 53. § szerinti foglalkoztatásnál a munkavégzés helye szerinti munkarend az irányadó: a 104–106. § alkalmazása vagy kivezetése a munkavégzés helyén irányadó munkarendhez igazodik. A (2) bekezdés írásbelisége kógens: a beosztási jog szóbeli átengedése nem hoz létre kötetlen munkarendet, és a 135. § (1) bekezdés b) pontja e feltételt sem a felek, sem a kollektív szerződés útján nem oldhatja.
+
+2. A vezető kötetlen munkarendje
+
+A vezető munkaszerződése a Második Rész rendelkezéseitől — a (2) és a (3) bekezdés kivételével — eltérhet. A (2) bekezdés taxációja a pihenőidő 104–106. §-át nem zárja kógenssé: a vezetőre e szakaszok nem a (2) bekezdés, hanem a (4) bekezdés és a 96. § (3) bekezdése útján nem irányadók. A vezetőre a kollektív szerződés hatálya nem terjed ki, ezért a 135. § (2) bekezdés g) pontjának munkavállaló javára szóló pihenőidő-eltérése a vezetőre kollektív úton nem hat. A (4) bekezdés a vezető munkarendjét kötetlennek minősíti: a 96. § (3) bekezdése ekkor a 104–106. §-t és a 134. § (1) bekezdés a)–b) pontját kivezeti. A (5) és a (6) bekezdés a gondatlan károkozás teljes kárfelelősségét és a jogellenes megszüntetés tizenkét havi távolléti díját rendeli; e felelősségi és megszüntetési szabályok a pihenőidőrendtől elválnak.
+
+  Mt. 209. § (4) bek.
+
+  (1) A vezető munkaszerződése e törvény Második Részében foglalt rendelkezésektől – a (2) és (3) bekezdésben meghatározott kivétellel – eltérhet.
+
+  (2) A vezető munkaszerződése a) az 55. § (1) bekezdés b), c), e), j), k) és l) pontjában, b) a 65. § (3) bekezdés a)–d) és g) pontjában, c) a 113. § (5) bekezdésében, d) a 118. § (4) bekezdésében, e) a 118/A. §-ban és f) a 127–128. §-ban foglaltaktól nem térhet el.
+
+  (3) A vezetőre a kollektív szerződés hatálya nem terjed ki.
+
+  (4) A vezető munkarendje kötetlen.
+
+  (5) A vezető gondatlan károkozás esetén a teljes kárért felel.
+
+  (6) A vezető munkaviszonyának jogellenes megszüntetése esetén – a 84. § (1) és (2) bekezdésében foglaltaktól eltérően – tizenkét havi távolléti díjnak megfelelő összeget köteles megfizetni.
+
+A kötetlen minősítés itt nem a 96. § (2) bekezdése szerinti, írásbeli átengedés eredménye, hanem a törvény erejénél fogva áll: a vezető nem „kaphat” kötetlen rendet, hanem kötetlen a munkarendje. Ebből következik, hogy a 104. § tizenegy órás napi pihenőidője és a 105–106. § heti rendje a vezetőre főszabályként nem alkalmazandó. A 2003/88/EK irányelv 17. cikk (1) bekezdés a) pontja az ügyvezetők és az önálló döntéshozatali jogkörrel rendelkező személyek tekintetében a 3–6. cikktől eltérést enged; a magyar (4) bekezdés e kört a vezetőre a kötetlen munkarenddel oldja meg. A (2) bekezdés f) pontja a 127–128. §-tól eltérést nem enged, tehát a vezető kötetlensége nem a teljes Második Rész kiüresítése.
+
+3. A munka- és pihenőidő nyilvántartása
+
+A nyilvántartás a 104–106. § és a munkaidő-plafonok ellenőrizhetőségének eszköze. A munkáltató nyilvántartja a rendes és a rendkívüli munkaidő, a készenlét, a szabadság, valamint a 109. § (2) bekezdése és a 135. § (3) bekezdése szerinti megállapodáson alapuló rendkívüli munkaidő tartamát. A nyilvántartásból naprakészen meg kell állapítani a teljesített rendes és rendkívüli munkaidő, valamint a készenlét kezdő és befejező időpontját: a 104. § tizenegy órája éppen e két időpont között mérhető. A (3) bekezdés az (1) bekezdés a) pontja szerinti rendes és rendkívüli munkaidő tartamának nyilvántartását — a (2) bekezdésben foglaltaktól eltérően — az írásban közölt munkaidő-beosztás hónap végi igazolásával és a változás naprakész feltüntetésével is megengedi. A munkáltató emellett nyilvántartja a 92. § (2) bekezdése, a 99. § (3) bekezdése, a 109. § (2) bekezdése és a 135. § (3)–(4) bekezdése szerinti megállapodásokat.
+
+  Mt. 134. §
+
+  (1) A munkáltató nyilvántartja a) a rendes és a rendkívüli munkaidő, b) a készenlét, c) a szabadság, d) a 109. § (2) bekezdés, valamint a 135. § (3) bekezdés szerinti megállapodás alapján teljesített rendkívüli munkaidő, tartamát.
+
+  (2) A nyilvántartásból naprakészen megállapíthatónak kell lennie a teljesített rendes és rendkívüli munkaidő, valamint a készenlét kezdő és befejező időpontjának is.
+
+  (3) Az (1) bekezdés a) pont szerinti nyilvántartás – a (2) bekezdésben foglaltaktól eltérően – az írásban közölt munkaidő-beosztás hónap végén történő igazolásával és a változás naprakész feltüntetésével is vezethető.
+
+  (4) A munkáltató nyilvántartja a) a 92. § (2) bekezdés, b) a 99. § (3) bekezdés, c) a 109. § (2) bekezdés, d) a 135. § (3)–(4) bekezdés szerinti megállapodásokat.
+
+A (3) bekezdés csak az (1) bekezdés a) pontja — a rendes és a rendkívüli munkaidő tartama — alól enged beosztás-igazolásos vezetést; a készenlét és a szabadság, valamint a (2) bekezdés szerinti kezdő–befejező időpont e kedvezményen kívül marad, ha a munkáltató a (3) bekezdést választja, a (3) bekezdés éppen a (2) bekezdéstől tér el a rendes/rendkívüli tartamra. A (4) bekezdés a hosszabb teljes napi munkaidő, a huszonnégy/hetvenkét órás beosztási megállapodás, az önként vállalt túlmunka és a 135. § (3)–(4) bekezdése szerinti megállapodások megőrzését rendeli: ezek a pihenőidő-rendet is érintő eltérések dokumentumai. A 135. § (1) bekezdés h) pontja a 134. §-tól a felek megállapodásának és a kollektív szerződésnek eltérést nem enged. A 96. § (3) bekezdése és a 203. § (4) bekezdése nem szerződéses eltérés, hanem törvényi kivezetés.
+
+4. Az eltérés rendje — a 134. § kógense és a 101–108. § relatív kógense
+
+A 135. § a munka- és pihenőidő fejezet eltérési térképe. Az (1) bekezdés a felek megállapodását és a kollektív szerződést egyaránt elzárja egyebek mellett a 96. § (2) bekezdésétől és a 134. §-tól: a kötetlen munkarend írásbeli átengedése és a nyilvántartás kógens. A (2) bekezdés g) pontja a 101–108. §-tól — ideértve a 104. § napi pihenőidőt, a 105. § heti pihenőnapot és a 106. § heti pihenőidőt — a kollektív szerződésnek csak a munkavállaló javára enged eltérést; a C-477/21. ügy tizenkét órás napi pihenője e záradék és a 104. § javára eltérés, a negyvenkét órás heti blokk a 106. § (3) bekezdése szerinti negyven órás, átlagban negyvennyolc órás rend és — vasúti utazónál — a 135. § (4) bekezdés d) pontja, nem a (2) bekezdés g) pontjának „javára” záradéka. A (4) bekezdés a polgári repülés, a közúti és vasúti személyszállítás és árufuvarozás, a helyi-helyközi menetrend és a kikötő taxált munkaköreiben a 99. § (2) bekezdésétől a felek írásbeli megállapodásának, a 101–109. §-tól a kollektív szerződésnek külön eltérést ad. A (3) bekezdés a rendkívüli munkaidő éves keretét kollektív szerződéssel háromszáz óráig, plusz írásbeli megállapodással további száz óráig (önként vállalt túlmunka) emeli; a (5) bekezdés a (4) bekezdés szerinti megállapodás feltételét nyitja meg.
+
+  Mt. 135. § (1) bek. h) pont és (2) bek. g) pont (1)–(2) bekezdés
+
+  135. § (1) A felek megállapodása vagy kollektív szerződés
+
+  a) a 87. §-ban,
+
+  b) a 96. § (2) bekezdésében,
+
+  c) a 122. § (5) bekezdésében,
+
+  d) a 124. §-ban,
+
+  e) a 125. §-ban,
+
+  f) a 126. § (4) bekezdésében,
+
+  g) a 127. § (1), (2) és (4) bekezdésében,
+
+  h) a 134. §-ban foglaltaktól nem térhet el.
+
+  (2) Kollektív szerződés
+
+  a) a 86-ban,
+
+  b) a 88–93. §-ban,
+
+  c) a 95. §-ban,
+
+  d) a 96. § (3) bekezdésében,
+
+  e) a 97. § (1) bekezdésében,
+
+  f) a 99. §-ban,
+
+  g) a 101–108. §-ban,
+
+  h) a 109. § (2)–(3) bekezdésében,
+
+  i) a 111. §-ban,
+
+  j) a 113–121. §-ban,
+
+  k) a 122. § (3) bekezdésében,
+
+  l) a 123. § (5)–(6) bekezdésében,
+
+  m)
+
+  n)
+
+  o) a 126. § (1)–(3) és (5) bekezdésében,
+
+  p) a 127. § (5) bekezdésében,
+
+  r) a 128–133. §-ban
+
+  s) a 135. § (3) bekezdés második fordulatában foglaltaktól csak a munkavállaló javára térhet el.
+
+  (3) Kollektív szerződés rendelkezése alapján legfeljebb évi háromszáz óra rendkívüli munkaidő rendelhető el. Ezt meghaladóan a munkáltató és a munkavállaló írásbeli megállapodása alapján naptári évenként legfeljebb száz óra rendkívüli munkaidő rendelhető el (önként vállalt túlmunka). A munkavállaló a megállapodást a naptári év végére mondhatja fel.
+
+  (4) A felek írásbeli megállapodása a 99. § (2) bekezdésében foglaltaktól, kollektív szerződés a 101–109. §-ban foglaltaktól
+
+  a) a polgári repülésben hajózó, légiutas-kísérő, repülőgépes műszaki, továbbá a légi utasok és járművek földi kiszolgálását végző, valamint a légi navigációs szolgáltatások biztosításában közreműködő vagy azt közvetlenül támogató,
+
+  b) a belföldi és nemzetközi közúti személyszállítás és árufuvarozás körében forgalmi utazó,
+
+  c) a közúti közlekedésben a menetrend szerinti helyi, valamint az ötven kilométert meg nem haladó útszakaszon végzett helyközi menetrend szerinti személyszállítást végző és a zavartalan közlekedést biztosító,
+
+  d) a vasúti személyszállítás, valamint a vasúti árufuvarozás körében utazó vagy a zavartalan közlekedést biztosító munkakörben,
+
+  e) a kikötőben foglalkoztatott munkavállaló tekintetében eltérhet.
+
+  (5) A (4) bekezdés szerinti megállapodás feltétele, hogy
+
+  a) a beosztás szerinti munkaidő a 99. § (2) bekezdésben előírt tartamot legfeljebb tizenkét órával haladhatja meg,
+
+  b) a megállapodást a munkavállaló a naptári hónap utolsó napjára, munkaidőkeret elrendelése esetén a munkaidőkeret utolsó napjára tizenöt napos határidővel felmondhatja.
+
+  (6) Kollektív szerződés a (4) bekezdés szerint foglalkoztatott munkavállaló esetében osztott munkaidőt állapíthat meg.
+
+  (7) Kollektív szerződés rendelkezése alapján a 97. § (4) bekezdés szerint közölt munkaidő-beosztás a beosztás szerinti napi munkaidő kezdetét megelőzően legkésőbb negyvennyolc órával módosítható.
+
+  (8) Kollektív szerződés a 99. § (3a) bekezdésben foglaltnál hosszabb, legfeljebb harmincnapos felmondási időt is megállapíthat.
+
+Az (1) bekezdés h) pontja a nyilvántartást a diszpozitív alkun kívül helyezi: a felek nem „megállapodhatnak” abban, hogy a 134. §-t nem alkalmazzák. Az (2) bekezdés g) pontja a pihenőidő-minimumokat relatív kógenssé teszi: a kollektív szerződés a tizenegy órát emelheti (a MÁV-START-ügyben tizenkettőre), a heti negyvennyolcat a 106. § (3) bekezdése szerinti keretek között árnyalhatja, de a munkavállaló terhére nem rövidítheti. A (4) bekezdés d) pontja éppen a vasúti utazó vagy a zavartalan közlekedést biztosító munkakört nevezi meg: a C-477/21. mozdonyvezető e körbe eshet, a kollektív eltérés azonban a 101–109. §-tól a (4) bekezdés szerint is csak a törvényi felhatalmazás keretében, az irányelv 3. és 5. cikkének a Bíróság szerinti tartalmát nem sértheti. A (2) bekezdés m) és n) pontja a szövegben jelölten áll, tartalom nélkül; a (5) bekezdés a (4) bekezdés szerinti megállapodás feltételének kimondását indítja.
+
+5. Az egyszerűsített foglalkoztatás és a nyilvántartás
+
+Az egyszerűsített foglalkoztatásra vagy alkalmi munkára irányuló munkaviszony a 203. § szerinti különös rend. Az (1) bekezdés taxációja egyebek mellett a 91. §-t, a 92. § (2) bekezdését, a 97. § (4) és (5) bekezdését, a 101. §-t, a 122–124. §-t, a 126–133. §-t, valamint a 208–211. §-t kivezeti. A (3) bekezdés a napi munkaidő egyenlőtlen beosztását munkaidőkeret vagy elszámolási időszak hiányában is megengedi. A (4) bekezdés a 134. §-t és a 155. § (2) bekezdését nem rendeli alkalmazni, ha a felek a minta-munkaszerződéssel kötöttek egyszerűsített foglalkoztatásra vagy alkalmi munkára irányuló munkaszerződést. Ez törvényi kivezetés, nem a 135. § (1) bekezdés h) pontjába ütköző szerződéses eltérés.
+
+  Mt. 203. § (4) bek.
+
+  (1) A munkaviszonyra a) a 49. § (2) bekezdésében, b) az 53. §-ban, c) az 56. §-ban, d) az 59. §-ban, e) a 61. §-ban, f) a 81. §-ban, g) a 91. §-ban, h) a 92. § (2) bekezdésében, i) a 97. § (4) és (5) bekezdésében, j) a 101. §-ban, k) a 122–124. §-ban, l) a 126–133. §-ban, m) a 192. § (4) bekezdésében, valamint n) a 208–211. §-ban foglaltak nem alkalmazhatók.
+
+  (2)
+
+  (3) A napi munkaidő – munkaidőkeret vagy elszámolási időszak hiányában is – beosztható egyenlőtlenül.
+
+  (4) Nem kell alkalmazni a 134. §-ban és a 155. § (2) bekezdésében foglaltakat, ha a felek a minta-munkaszerződés alkalmazásával kötöttek egyszerűsített foglakoztatásra vagy alkalmi munkára irányuló munkaszerződést.
+
+A (4) bekezdés két feltételt köt össze: a minta-munkaszerződés alkalmazását és az egyszerűsített vagy alkalmi minőséget. A 134. § kivezetése a munka- és pihenőidő tartamának és a (4) bekezdés szerinti megállapodásoknak a nyilvántartását egyaránt érinti e körben. A 104–106. § nincs az (1) bekezdés taxációjában: a napi és heti pihenőidő, illetve a heti pihenőnap főszabálya az egyszerűsített foglalkoztatásra is irányadó, a (3) bekezdés csak az egyenlőtlen napi beosztást nyitja keret nélkül. A 134. §-t a 155. § (2) bekezdésével együtt a minta-szerződéses egyszerűsített vagy alkalmi viszonyban nem kell alkalmazni.
+
+V. Összefoglalás
+
+A napi pihenőidő a napi munka befejezése és a következő munkanapi kezdés között legalább tizenegy óra egybefüggő tartam; osztott, megszakítás nélküli, több műszakos vagy idényjellegű foglalkoztatásnál legalább nyolc óra, nyári időszámításnál legalább tíz, illetve hét óra, két egymást követő csökkentett pihenő együttesen legalább huszonkét óra. A heti pihenőnap hetenként kettő, egyenlőtlenül is beosztható; egyenlőtlen beosztásnál hat egybefüggő munkanap után legalább egy jár, a megszakítás nélküli, több műszakos és idényjellegű körben havonta legalább egy, és — a 101. § (1) bekezdés f) pontja kivételével — havonta legalább egy vasárnapra esik. A heti pihenőidő a pihenőnapok helyett legalább negyvennyolc óra megszakítás nélküli blokk, havonta legalább egyszer vasárnappal; a (3) bekezdés szerinti körben havonta negyven óra, naptári nappal, a keret vagy az elszámolási időszak átlagában negyvennyolc órával.
+
+A 2003/88/EK irányelv 3. cikke tizenegy, az 5. cikke huszonnégy plusz tizenegy órát ír; a 2. cikk a pihenőidőt a nem-munkaidőként határozza meg. A C-477/21. 2023. március 2-i MÁV-START ítélet szerint a napi pihenőidő nem része a heti pihenőidőnek, hanem ahhoz hozzáadódik; a harmincöt órát meghaladó nemzeti heti mérték mellett is ki kell adni a napi pihenőidőt; a heti pihenőidő kiadásakor a munkavállaló a heti blokkot megelőzően napi pihenőidőre jogosult, és az egybefüggő kiadásnál a heti pihenőidő csak a napi letelte után kezdődik. A 104. § (5) bekezdésének beosztást oldó fordulata e sorrendet nem írhatja felül.
+
+Kötetlen munkarendnél — a 96. § (3) bekezdése és a vezetőnél a 209. § (4) bekezdése szerint — a 104–106. § és a 134. § (1) bekezdés a)–b) pontja nem alkalmazandó. A 134. § a rendes és rendkívüli munkaidő, a készenlét, a szabadság és a meghatározott megállapodásos túlmunka tartamát, a kezdő–befejező időpontot és a felsorolt megállapodásokat rendeli nyilvántartani; a 135. § (1) bekezdés h) pontja e rendtől eltérést nem enged. A 135. § (2) bekezdés g) pontja a 101–108. §-tól, így a 104–106. §-tól is, a kollektív szerződésnek csak a munkavállaló javára enged eltérést. Minta-munkaszerződéses egyszerűsített vagy alkalmi foglalkoztatásnál a 203. § (4) bekezdése a 134. §-t törvényileg kivezeti; a 104–106. § e taxációban nem szerepel.

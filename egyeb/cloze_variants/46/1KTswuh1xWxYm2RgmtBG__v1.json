@@ -1,0 +1,813 @@
+{
+  "id": "1",
+  "parentId": "1KTswuh1xWxYm2RgmtBG",
+  "variantIndex": 1,
+  "items": [
+    {
+      "id": "s1",
+      "cimke": "Kit. 76. §",
+      "text": "(1) A Magyar Kormánytisztviselői Kar (a továbbiakban: MKK) a __[b1]__ önkormányzattal rendelkező, közigazgatási szakmai köztestülete. (2) Az MKK jogi személy. (3) Az MKK kötelező tagsági jogviszony alapján __[b2]__. A kormánytisztviselő a kinevezéssel válik az MKK __[b3]__. (4) A __[b4]__ nem zár ki más kamarai tagsági viszonyt. (5) Az MKK __[b5]__ __[b6]__ testületekből, valamint tisztségviselőkből és __[b7]__ áll. (6) Az MKK __[b8]__, döntéshozó szerve az Országos Küldöttgyűlés. (6a) Az MKK legfőbb képviseleti szerve tagjainak és az MKK __[b9]__ általános választását nem lehet az országgyűlési képviselők __[b10]__ kitűzni. (7) Az MKK __[b11]__ az Országos Elnökség (a továbbiakban: Elnökség). (8) Az Elnökség tagjai: a) az elnök, az __[b12]__; b) tanácskozási joggal a Felügyelő Bizottság elnöke; c) az Országos Etikai Bizottság elnöke. (9) Az elnök az MKK __[b13]__ önállóan gyakorolja, __[b14]__ az Alapszabályban meghatározott módon átruházhatja. Az elnök munkáját az Országos Küldöttgyűlés által __[b15]__ legfeljebb __[b16]__ segíti. Az elnök e __[b17]__ államtitkári illetményre és __[b18]__. Az elnök __[b19]__ mentesül a __[b20]__ és a rendelkezésreállási kötelezettsége alól, erre tekintettel e jogviszonyában illetményre és egyéb juttatásra __[b21]__. (10) Az elnök __[b22]__ az MKK __[b23]__ (a továbbiakban: Országos Iroda) és az __[b24]__ főtitkár __[b25]__. (11)",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "kormánytisztviselők"
+        },
+        {
+          "id": "b2",
+          "answer": "működik"
+        },
+        {
+          "id": "b3",
+          "answer": "tagjává"
+        },
+        {
+          "id": "b4",
+          "answer": "tagság"
+        },
+        {
+          "id": "b5",
+          "answer": "szervezete"
+        },
+        {
+          "id": "b6",
+          "answer": "képviseleti, ügyintézői"
+        },
+        {
+          "id": "b7",
+          "answer": "ügyintézői szervből"
+        },
+        {
+          "id": "b8",
+          "answer": "legfőbb képviseleti"
+        },
+        {
+          "id": "b9",
+          "answer": "tisztségviselőinek"
+        },
+        {
+          "id": "b10",
+          "answer": "általános választásának évére"
+        },
+        {
+          "id": "b11",
+          "answer": "legfőbb ügyintézői testülete"
+        },
+        {
+          "id": "b12",
+          "answer": "alelnökök"
+        },
+        {
+          "id": "b13",
+          "answer": "képviseletét"
+        },
+        {
+          "id": "b14",
+          "answer": "jogkörét"
+        },
+        {
+          "id": "b15",
+          "answer": "megválasztott"
+        },
+        {
+          "id": "b16",
+          "answer": "öt alelnök"
+        },
+        {
+          "id": "b17",
+          "answer": "tisztségében"
+        },
+        {
+          "id": "b18",
+          "answer": "juttatásra jogosult"
+        },
+        {
+          "id": "b19",
+          "answer": "kormányzati szolgálati jogviszonyában"
+        },
+        {
+          "id": "b20",
+          "answer": "munkavégzési"
+        },
+        {
+          "id": "b21",
+          "answer": "nem jogosult"
+        },
+        {
+          "id": "b22",
+          "answer": "irányítja"
+        },
+        {
+          "id": "b23",
+          "answer": "Országos Irodáját"
+        },
+        {
+          "id": "b24",
+          "answer": "Országos Irodát vezető"
+        },
+        {
+          "id": "b25",
+          "answer": "tevékenységét"
+        }
+      ],
+      "distractors": [
+        "köztisztviselők",
+        "szünetel",
+        "tagjává nyilvánítva",
+        "tagsági díj",
+        "hivatala",
+        "felügyeleti, végrehajtó",
+        "ügyintézői hivatalból",
+        "legfőbb felügyeleti",
+        "megbízottainak",
+        "időközi választásának évére",
+        "legfőbb felügyeleti testülete",
+        "a titkárok",
+        "ellenőrzését",
+        "hatáskörét",
+        "kinevezett",
+        "három alelnök",
+        "megbízatásában",
+        "juttatásra nem jogosult",
+        "közszolgálati jogviszonyában",
+        "rendelkezésre állási",
+        "köteles",
+        "felügyeli",
+        "Területi Irodáját",
+        "a Területi Irodát vezető",
+        "ellenőrzését is"
+      ]
+    },
+    {
+      "id": "s2",
+      "cimke": "Kit. 77. § (1), (3)–(8) bekezdés",
+      "text": "(1) Az MKK a feladatait az __[b1]__, valamint a fővárosban és a megyékben (a továbbiakban együtt: területi szint) működő szervezete útján látja el. (3) Az MKK a) védi a Kormánytisztviselői Kar __[b2]__, testületeinek és tagjainak érdekeit, valamint a __[b3]__; b) megalkotja a hivatásetikai részletszabályokat, kialakítja az etikai eljárás rendszerét, valamint __[b4]__ az etikai eljárásokat; c) a kormánytisztviselő __[b5]__ etikai igazolást bocsát ki az MKK tagjai számára, amellyel igazolja, hogy az adott tag ellen etikai eljárás __[b6]__, valamint etikai büntetés hatálya alatt nem áll; d) konzultációs joggal közreműködik a kormánytisztviselők __[b7]__ és hivatásgyakorlásának feltételeit befolyásoló, a kormánytisztviselő számára előírt __[b8]__ kapcsolatos, valamint az MKK-t érintő jogszabályok megalkotásában; e) véleményét ki kell kérni ea) a __[b9]__ összefüggő kérdésekben, eb) a központi és a társadalombiztosítási költségvetésnek a kormányzati szolgálati jogviszonyban állókat érintő rendelkezéseivel összefüggésben, valamint ec) az igazgatási állománnyal és __[b10]__ való gazdálkodás elvi kérdéseiben; f) __[b11]__ a Kormánynál a kormánytisztviselők __[b12]__, valamint foglalkoztatási feltételeit és a hivatás gyakorlását érintő jogszabályok megalkotását, illetve módosítását; g) a feladat- és hatáskörét érintő bármely kérdésben felterjesztési jogot gyakorol; h) kezdeményezheti az igazságügyért felelős miniszternél a kormányzati szolgálati jogviszonnyal kapcsolatos jogszabálysértő gyakorlat megváltoztatását; i) megalkotja __[b13]__; j) tagjairól és szerveiről nyilvántartást vezet; k) a kiváló munka elismeréseként __[b14]__ és adományozhat; l) a Kormánynál, a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszternél, illetve az illetékes szerv vezetőjénél kezdeményezheti – kormányrendeletben meghatározott – __[b15]__ vagy más elismerés adományozását; m) szakmai konferenciákat, tudományos tanácskozásokat, felkészítő továbbképzéseket szervezhet; n) pályázatokat írhat ki és bírálhat el, illetve kiadványokat jelentethet meg a közigazgatás fejlesztésére, gyakorlatának egységesítésére, a közigazgatási példaadó munkamódszerek megismertetésére, hagyományainak ápolására; o) tagjai számára jóléti, szociális és egyéb kedvezményes szolgáltatásokat nyújthat; p) megfigyelőként részt vesz a kormánytisztviselők vizsgáztatásában és továbbképzésében, indokolt esetben törvényességi és egyéb intézkedést kezdeményez; q) tagot delegál a Közigazgatási Továbbképzési Kollégiumba; r) megalkotja __[b16]__, elfogadja az éves költségvetés végrehajtásáról szóló, a __[b17]__ szerinti beszámolót; s) ellátja mindazokat a feladatokat, amelyeket törvény vagy __[b18]__ az MKK számára meghatároz. (4) A fővárosi, megyei illetékességű kormányzati igazgatási szerv vezetője köteles kikérni a területi szinten működő MKK véleményét a kormánytisztviselők munkavégzésére, munka- és pihenőidejére, jutalmazására, valamint __[b19]__ vonatkozó, a kormányzati igazgatási szerv vezetőjének hatáskörébe utalt szabályozásról. A területi szinten működő MKK jogosult véleményezni a kormánytisztviselők csoportját érintő fővárosi, megyei illetékességű kormányzati igazgatási szerv által hozott munkáltatói intézkedést vagy annak tervezetét, ezzel összefüggésben konzultációt kezdeményezni. (5) A kormányzati igazgatási szerv __[b20]__ __[b21]__ vagy konzultációt folytatni, ha ez olyan tény, információ, megoldás vagy adat __[b22]__ kerülésével járhat, amely a közszolgálat érdekeit, illetve működését vagy a kormányzati igazgatási szerv jogos érdekeit, illetve működését __[b23]__. (6) Az MKK tagja olyan tényt, információt, megoldást vagy adatot, amelyet a kormányzati igazgatási szerv jogos érdekei, illetve működése, valamint a közszolgálat érdekei, illetve működése védelmében kifejezetten __[b24]__ vagy minősített adatként való kezelésre történő utalással hozott tudomására, semmilyen módon nem hozhatja nyilvánosságra és azt az e törvényben meghatározott célok elérésén kívüli tevékenységben semmilyen módon nem használhatja fel. (7) Az MKK tagja a tevékenysége során tudomására jutott információkat csak a kormányzati igazgatási szerv jogos érdekeinek, illetve működésének, valamint a közszolgálat érdekeinek, illetve működésének veszélyeztetése, valamint a személyiségi jogok megsértése nélkül hozhatja nyilvánosságra. (8) Az MKK tagnyilvántartását – a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság által üzemeltetett __[b25]__ – az Országos Iroda vezeti.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "országos"
+        },
+        {
+          "id": "b2",
+          "answer": "tekintélyét"
+        },
+        {
+          "id": "b3",
+          "answer": "kormánytisztviselő jogait"
+        },
+        {
+          "id": "b4",
+          "answer": "lefolytatja"
+        },
+        {
+          "id": "b5",
+          "answer": "kérelmére"
+        },
+        {
+          "id": "b6",
+          "answer": "nincs folyamatban"
+        },
+        {
+          "id": "b7",
+          "answer": "foglalkoztatását"
+        },
+        {
+          "id": "b8",
+          "answer": "szakmai vizsgákkal"
+        },
+        {
+          "id": "b9",
+          "answer": "kormányzati szolgálati jogviszonnyal"
+        },
+        {
+          "id": "b10",
+          "answer": "személyi juttatásokkal"
+        },
+        {
+          "id": "b11",
+          "answer": "kezdeményezheti"
+        },
+        {
+          "id": "b12",
+          "answer": "élet- és munkakörülményeit"
+        },
+        {
+          "id": "b13",
+          "answer": "működési szabályait"
+        },
+        {
+          "id": "b14",
+          "answer": "díjakat alapíthat"
+        },
+        {
+          "id": "b15",
+          "answer": "kitüntetés"
+        },
+        {
+          "id": "b16",
+          "answer": "éves költségvetését"
+        },
+        {
+          "id": "b17",
+          "answer": "számviteli törvény"
+        },
+        {
+          "id": "b18",
+          "answer": "kormányrendelet"
+        },
+        {
+          "id": "b19",
+          "answer": "juttatásaira"
+        },
+        {
+          "id": "b20",
+          "answer": "nem köteles"
+        },
+        {
+          "id": "b21",
+          "answer": "tájékoztatást adni"
+        },
+        {
+          "id": "b22",
+          "answer": "nyilvánosságra"
+        },
+        {
+          "id": "b23",
+          "answer": "veszélyeztetné"
+        },
+        {
+          "id": "b24",
+          "answer": "bizalmasan"
+        },
+        {
+          "id": "b25",
+          "answer": "informatikai rendszerben"
+        }
+      ],
+      "distractors": [
+        "a helyi",
+        "autonómiáját",
+        "kormánytisztviselő kötelezettségeit",
+        "elrendeli",
+        "hivatalból",
+        "folyamatban van",
+        "áthelyezését",
+        "nyelvvizsgákkal",
+        "munkaviszonnyal",
+        "dologi juttatásokkal",
+        "elrendelheti",
+        "illetményét és jutalmát",
+        "szervezeti szabályait",
+        "címeket alapíthat",
+        "kitüntetést",
+        "éves beszámolóját",
+        "az adójogi törvény",
+        "miniszteri rendelet",
+        "juttatásairól",
+        "jogosult",
+        "tájékoztatást kérni",
+        "iratbetekintésre",
+        "sértené",
+        "nyilvánosan",
+        "papíralapú irattárban"
+      ]
+    },
+    {
+      "id": "s3",
+      "cimke": "Kit. 78. §",
+      "text": "(1) A __[b1]__ a __[b2]__ létesítéséről és megszűnéséről a (6) bekezdésben meghatározott módon __[b3]__ az MKK kijelölt szervét. (2) Az __[b4]__ a nyilvántartásba vétel, annak elmulasztása, illetve a nyilvántartásból való törlés ellen a __[b5]__ fellebbezéssel élhet. A nyilvántartással kapcsolatos __[b6]__, illetve mulasztással szembeni jogorvoslatra az Ákr. __[b7]__. (3) Az MKK a __[b8]__ meghatározott etikai eljárások eredményéről __[b9]__. (4) Az MKK __[b10]__ a tagnyilvántartási adatok körében az MKK __[b11]__ meghatározott __[b12]__ kezeli a __[b13]__ szerinti közszolgálati alapnyilvántartás adatköréből a 3. melléklet __[b14]__ 1–4., 9–11., I/B. 1–2., II.1., III.1., V.7. pontjában és kizárólag a korábban fennálló kormányzati szolgálati és közszolgálati jogviszony tekintetében a 3. melléklet III.6., a IV.1., az V.1–2., 5. és 8. pontjában foglalt, valamint a __[b15]__ jogokkal és __[b16]__ összefüggésben keletkezett adatokat. Az MKK által __[b17]__ a kormányzati igazgatási szerv a (6) bekezdésben meghatározott módon __[b18]__ az MKK részére. A kezelt adatokat a __[b19]__ követő öt év elteltével törölni kell. (5) Az (1) és a (4) bekezdésben meghatározott adatokról és az azokban __[b20]__ a kormányzati igazgatási szerv minden hónap __[b21]__, a Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvényben meghatározott informatikai rendszer útján – a __[b22]__ meghatározott rendben – közvetlenül nyújt adatszolgáltatást az MKK részére. (6) Az MKK __[b23]__ a kormánytisztviselő kezelt adatait az (5) bekezdés szerinti informatikai rendszerben __[b24]__ és az (5) bekezdés szerinti informatikai rendszerből __[b25]__ technikai azonosítóval kell azonosítani.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "kormányzati igazgatási szerv"
+        },
+        {
+          "id": "b2",
+          "answer": "kormányzati szolgálati jogviszony"
+        },
+        {
+          "id": "b3",
+          "answer": "tájékoztatja"
+        },
+        {
+          "id": "b4",
+          "answer": "MKK tagja"
+        },
+        {
+          "id": "b5",
+          "answer": "kijelölt szervhez"
+        },
+        {
+          "id": "b6",
+          "answer": "döntésekkel"
+        },
+        {
+          "id": "b7",
+          "answer": "rendelkezéseit kell alkalmazni"
+        },
+        {
+          "id": "b8",
+          "answer": "77. § (3) bekezdés b) pontjában"
+        },
+        {
+          "id": "b9",
+          "answer": "nyilvántartást vezet"
+        },
+        {
+          "id": "b10",
+          "answer": "kijelölt szerve"
+        },
+        {
+          "id": "b11",
+          "answer": "77. § (3) bekezdésében"
+        },
+        {
+          "id": "b12",
+          "answer": "feladatainak ellátása céljából"
+        },
+        {
+          "id": "b13",
+          "answer": "3. melléklet"
+        },
+        {
+          "id": "b14",
+          "answer": "I/A."
+        },
+        {
+          "id": "b15",
+          "answer": "tagsági viszonyból eredő"
+        },
+        {
+          "id": "b16",
+          "answer": "kötelezettségekkel"
+        },
+        {
+          "id": "b17",
+          "answer": "kezelt adatokat"
+        },
+        {
+          "id": "b18",
+          "answer": "adja át"
+        },
+        {
+          "id": "b19",
+          "answer": "tagsági viszony megszűnését"
+        },
+        {
+          "id": "b20",
+          "answer": "bekövetkezett változásokról"
+        },
+        {
+          "id": "b21",
+          "answer": "ötödik napjáig"
+        },
+        {
+          "id": "b22",
+          "answer": "Kormány rendeletében"
+        },
+        {
+          "id": "b23",
+          "answer": "tagnyilvántartásában"
+        },
+        {
+          "id": "b24",
+          "answer": "képzett"
+        },
+        {
+          "id": "b25",
+          "answer": "átadott"
+        }
+      ],
+      "distractors": [
+        "központi hivatal",
+        "közszolgálati jogviszony",
+        "értesíti",
+        "MKK elnöke",
+        "felügyeleti szervhez",
+        "határozatokkal",
+        "rendelkezéseit kell figyelembe venni",
+        "77. § (3) bekezdés c) pontjában",
+        "jegyzőkönyvet vezet",
+        "kijelölt bizottsága",
+        "77. § (4) bekezdésében",
+        "ellenőrzési feladatainak ellátása céljából",
+        "4. melléklet",
+        "I/B.",
+        "tagsági viszonyból következő",
+        "jogosultságokkal",
+        "nyilvános adatokat",
+        "továbbítja",
+        "tagsági viszony keletkezését",
+        "bekövetkezett módosításokról",
+        "tizedik napjáig",
+        "miniszter rendeletében",
+        "tagdíjnyilvántartásában",
+        "generált",
+        "megküldött"
+      ]
+    },
+    {
+      "id": "s4",
+      "cimke": "Kit. 170. §",
+      "text": "(1) A kormánytisztviselők szociális és gazdasági érdekeinek védelme, továbbá a munkabéke fenntartása érdekében e törvény szabályozza a szakszervezet és a kormányzati igazgatási szerv, illetve érdekképviseleti szervezeteik __[b1]__. Ennek keretében biztosítja a kormánytisztviselők __[b2]__ a munkafeltételek alakításában, meghatározza a munkaügyi konfliktusok __[b3]__, __[b4]__ irányuló eljárást. (2) A kormánytisztviselőknek, illetve a kormányzati igazgatási szerveknek joga, hogy – törvényben meghatározott feltételek szerint – gazdasági és __[b5]__ előmozdítása, védelme érdekében, __[b6]__ nélkül, másokkal együtt érdekképviseleti szervezetet alakítsanak, illetve az általuk __[b7]__ – kizárólag az adott __[b8]__ – belépjenek, vagy az ilyen jellegű szervezetektől távol maradjanak. (3) Az érdekképviseleti szervezetek jogosultak szövetségeket létesíteni, illetve ilyenekhez __[b9]__, ideértve a nemzetközi szövetségeket is. (4) A kormánytisztviselők jogosultak a kormányzati igazgatási szervnél szakszervezet létrehozására. A szakszervezet __[b10]__, ezek működésébe __[b11]__. (5) A kormányzati igazgatási szerv, illetve a szakszervezet köteles egymást írásban tájékoztatni a __[b12]__, valamint a __[b13]__. (6) A kormányzati igazgatási szerv nem köteles tájékoztatást adni vagy __[b14]__, ha ez olyan tény, információ, megoldás vagy adat nyilvánosságra kerülésével járhat, amely a __[b15]__, illetve működését vagy a kormányzati igazgatási szerv __[b16]__, illetve működését veszélyeztetné. (7) A szakszervezet __[b17]__ eljáró személy olyan tényt, információt, megoldást vagy adatot, amelyet a kormányzati igazgatási szerv jogos érdekei, illetve működése, valamint a közszolgálat érdekei, illetve működése védelmében kifejezetten bizalmasan vagy minősített adatként való kezelésre történő utalással hozott tudomására, semmilyen módon __[b18]__ és azt az e törvényben meghatározott célok elérésén kívüli tevékenységben semmilyen módon __[b19]__. (8) A szakszervezet nevében vagy érdekében eljáró személy a tevékenysége során tudomására jutott információkat csak a kormányzati igazgatási szerv jogos érdekeinek, illetve működésének, valamint a közszolgálat érdekeinek, illetve működésének veszélyeztetése, valamint a személyiségi jogok megsértése nélkül hozhatja nyilvánosságra. (9) Az e törvényben a szakszervezet számára biztosított jogok a kormányzati igazgatási szervnél __[b20]__ helyi szakszervezetet illetik meg. (10) A kormányzati igazgatási szerv nem követelheti, hogy a kormánytisztviselő __[b21]__ nyilatkozzék. (11) A kormánytisztviselő alkalmazását nem lehet attól függővé tenni, hogy tagja-e valamely szakszervezetnek, illetve megszünteti-e __[b22]__, vagy vállalja-e a szakszervezetbe történő belépést. (12) Szakszervezethez való tartozása vagy __[b23]__ miatt tilos a kormánytisztviselő kormányzati szolgálati jogviszonyát megszüntetni vagy a kormánytisztviselőt más módon megkülönböztetni. (13) Nem lehet __[b24]__ valamely szakszervezethez való tartozástól vagy az attól való távolmaradástól függővé tenni. (14) (15) A munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről szóló 1991. évi XXIX. törvénytől eltérően a kormányzati igazgatási szerv a kormánytisztviselők __[b25]__ szakszervezeti vagy egyéb érdekképviseleti tagdíjat nem vonhat le és nem utalhat tovább.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "kapcsolatrendszerét"
+        },
+        {
+          "id": "b2",
+          "answer": "részvételét"
+        },
+        {
+          "id": "b3",
+          "answer": "megelőzésére"
+        },
+        {
+          "id": "b4",
+          "answer": "feloldására"
+        },
+        {
+          "id": "b5",
+          "answer": "társadalmi érdekeik"
+        },
+        {
+          "id": "b6",
+          "answer": "mindennemű megkülönböztetés"
+        },
+        {
+          "id": "b7",
+          "answer": "választott szervezetbe"
+        },
+        {
+          "id": "b8",
+          "answer": "szervezet szabályaitól függően"
+        },
+        {
+          "id": "b9",
+          "answer": "csatlakozni"
+        },
+        {
+          "id": "b10",
+          "answer": "szerveket működtethet"
+        },
+        {
+          "id": "b11",
+          "answer": "tagjait bevonhatja"
+        },
+        {
+          "id": "b12",
+          "answer": "képviseletére jogosult"
+        },
+        {
+          "id": "b13",
+          "answer": "tisztségviselő személyéről"
+        },
+        {
+          "id": "b14",
+          "answer": "konzultációt folytatni"
+        },
+        {
+          "id": "b15",
+          "answer": "közszolgálat érdekeit"
+        },
+        {
+          "id": "b16",
+          "answer": "jogos érdekeit"
+        },
+        {
+          "id": "b17",
+          "answer": "nevében vagy érdekében"
+        },
+        {
+          "id": "b18",
+          "answer": "nem hozhatja nyilvánosságra"
+        },
+        {
+          "id": "b19",
+          "answer": "nem használhatja fel"
+        },
+        {
+          "id": "b20",
+          "answer": "képviselettel rendelkező"
+        },
+        {
+          "id": "b21",
+          "answer": "szakszervezethez való tartozásáról"
+        },
+        {
+          "id": "b22",
+          "answer": "korábbi szakszervezeti tagságát"
+        },
+        {
+          "id": "b23",
+          "answer": "szakszervezeti tevékenysége"
+        },
+        {
+          "id": "b24",
+          "answer": "jogosultságot vagy juttatást"
+        },
+        {
+          "id": "b25",
+          "answer": "illetményéből"
+        }
+      ],
+      "distractors": [
+        "hatáskörrendszerét",
+        "ellenjegyzését",
+        "kivizsgálására",
+        "elutasítására",
+        "politikai érdekeik",
+        "ésszerű megkülönböztetés",
+        "kijelölt szervezetbe",
+        "szerv utasításaitól függően",
+        "kilépni",
+        "bizottságokat működtethet",
+        "tagjait kizárhatja",
+        "képviseletére kijelölt",
+        "tisztségviselő illetményéről",
+        "tárgyalást folytatni",
+        "közszolgálat előnyeit",
+        "személyes érdekeit",
+        "megbízásából",
+        "nem hozhatja tudomására",
+        "nem továbbíthatja",
+        "tagsággal rendelkező",
+        "szakszervezethez való viszonyáról",
+        "korábbi kamarai tagságát",
+        "kamarai tevékenysége",
+        "jogosultságot vagy címet",
+        "jutalmából"
+      ]
+    },
+    {
+      "id": "s5",
+      "cimke": "Kit. 171. §",
+      "text": "(1) A __[b1]__, valamint a __[b2]__ érdekeinek egyeztetése, a vitás kérdések __[b3]__, valamint a __[b4]__ megállapodások kialakítása céljából a __[b5]__, az országos önkormányzati érdekképviseleti szervezetek, valamint a kormánytisztviselők és a __[b6]__ __[b7]__ érdekképviseleti szervezeteinek tárgyalócsoportja __[b8]__ Közszolgálati Érdekegyeztető Fórum (a továbbiakban: __[b9]__) __[b10]__. (2) A KÉF hatáskörébe a __[b11]__ kormánytisztviselők és köztisztviselők élet- és munkakörülményeire, foglalkoztatási feltételeire vonatkozó __[b12]__. (3) A KÉF __[b13]__ ki kell kérni a (2) bekezdés szerinti __[b14]__ kapcsolatban az igazgatási munkaerővel és személyi juttatásokkal való __[b15]__. (4) A KÉF tájékoztatáskérésre, illetve javaslattételre jogosult a (2) bekezdés szerinti hatáskörébe tartozó __[b16]__ kapcsolatban. (5) A KÉF __[b17]__ szabályait a Kormány __[b18]__ közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter és az __[b19]__ közötti __[b20]__. Titkársági feladatait a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter __[b21]__. (6) A közalkalmazottak jogállásáról szóló törvényben, a rendvédelmi feladatokat ellátó szervek hivatásos állományának __[b22]__ szóló törvényben __[b23]__ Országos Közszolgálati Érdekegyeztető Tanács az __[b24]__ hatálya alá tartozó __[b25]__ fóruma is.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "kormányzati igazgatási szervek"
+        },
+        {
+          "id": "b2",
+          "answer": "kormánytisztviselők"
+        },
+        {
+          "id": "b3",
+          "answer": "tárgyalásos rendezése"
+        },
+        {
+          "id": "b4",
+          "answer": "megfelelő"
+        },
+        {
+          "id": "b5",
+          "answer": "Kormány"
+        },
+        {
+          "id": "b6",
+          "answer": "köztisztviselők"
+        },
+        {
+          "id": "b7",
+          "answer": "országos munkavállalói"
+        },
+        {
+          "id": "b8",
+          "answer": "részvételével"
+        },
+        {
+          "id": "b9",
+          "answer": "KÉF"
+        },
+        {
+          "id": "b10",
+          "answer": "működik"
+        },
+        {
+          "id": "b11",
+          "answer": "közigazgatásban foglalkoztatott"
+        },
+        {
+          "id": "b12",
+          "answer": "tárgykörök tartoznak"
+        },
+        {
+          "id": "b13",
+          "answer": "véleményét"
+        },
+        {
+          "id": "b14",
+          "answer": "hatáskörébe tartozó ügyekkel"
+        },
+        {
+          "id": "b15",
+          "answer": "gazdálkodás kérdéseiben"
+        },
+        {
+          "id": "b16",
+          "answer": "egyéb ügyekkel"
+        },
+        {
+          "id": "b17",
+          "answer": "szervezetének és működésének"
+        },
+        {
+          "id": "b18",
+          "answer": "nevében eljáró"
+        },
+        {
+          "id": "b19",
+          "answer": "érdekegyeztetésben résztvevő felek"
+        },
+        {
+          "id": "b20",
+          "answer": "megállapodás tartalmazza"
+        },
+        {
+          "id": "b21",
+          "answer": "látja el"
+        },
+        {
+          "id": "b22",
+          "answer": "szolgálati jogviszonyáról"
+        },
+        {
+          "id": "b23",
+          "answer": "szabályozott"
+        },
+        {
+          "id": "b24",
+          "answer": "e törvény"
+        },
+        {
+          "id": "b25",
+          "answer": "kormánytisztviselők érdekegyeztető"
+        }
+      ],
+      "distractors": [
+        "az önkormányzati igazgatási szervek",
+        "közalkalmazottak",
+        "bírósági rendezése",
+        "az ideiglenes",
+        "az Országgyűlés",
+        "munkavállalók",
+        "helyi munkavállalói",
+        "ellenjegyzésével",
+        "KÉT",
+        "szünetel",
+        "közszolgálatban foglalkoztatott",
+        "hatáskörök tartoznak",
+        "álláspontját",
+        "illetékességébe tartozó ügyekkel",
+        "beszámolás kérdéseiben",
+        "kiemelt ügyekkel",
+        "szervezetének és hatáskörének",
+        "megbízásából eljáró",
+        "érdekegyeztetésben részt vevő szervek",
+        "rendelet tartalmazza",
+        "felügyeli",
+        "munkaviszonyáról",
+        "említett",
+        "a Kttv.",
+        "kormánytisztviselők döntő"
+      ]
+    },
+    {
+      "id": "s6",
+      "cimke": "Kit. 172. §",
+      "text": "(1) A munkahelyi kormányzati szolgálati kérdések rendezésére a munkahelyi kormánytisztviselői érdekegyeztetés szolgál. A munkahelyi kormánytisztviselői érdekegyeztetésben a __[b1]__ és a szakszervezet választott tisztségviselője vesz részt. A tárgyalópartnerek a vitás kérdések egyeztetésébe szakértőket is bevonhatnak. (2) A kormányzati igazgatási szerv vezetője köteles kikérni a szakszervezet véleményét a kormánytisztviselők __[b2]__, munka- és pihenőidejére, jutalmazására, valamint __[b3]__ vonatkozó, a munkáltatói jogkör gyakorlójának __[b4]__. (3) A (2) bekezdésben foglaltakon kívül a szakszervezet jogosult a kormánytisztviselők __[b5]__ __[b6]__ (döntéssel) vagy annak __[b7]__ kapcsolatos véleményét a kormányzati igazgatási szervvel közölni, ezzel összefüggésben konzultációt kezdeményezni. (4) A szakszervezet tájékoztatást kérhet a kormányzati igazgatási szervtől a kormánytisztviselők kormányzati szolgálati jogviszonyával összefüggő __[b8]__ kapcsolatban, így különösen: a) a (2) bekezdésben felsorolt tárgykörökben készült tervezetek, statisztikai __[b9]__, számítások, elemzések és irányelvek megismerése érdekében; b) a __[b10]__ végrehajtásáról; c) a __[b11]__; d) legalább félévente a részmunkaidős és a határozott időre szóló foglalkoztatás helyzetének alakulásáról. (5) A szakszervezet javaslatot tehet: a) a kormányzati igazgatási szerv részére a kormánytisztviselőket érintő intézkedésekre, b) a kormánytisztviselőket érintő helyi szabályozás __[b12]__, valamint c) a kormánytisztviselőket érintő __[b13]__. (6) A szakszervezet jogosult a kormánytisztviselőket a __[b14]__ vagy a munkaviszonnyal összefüggő kérdésekben tájékoztatni. (7) A kormányzati igazgatási szerv – a szakszervezettel egyeztetve – biztosítja annak lehetőségét, hogy a szakszervezet a tevékenységével kapcsolatos tájékoztatást a kormányzati igazgatási szervnél __[b15]__. (8) A szakszervezet joga, hogy a kormánytisztviselőket a kormányzati igazgatási szervvel vagy ennek érdekképviseleti szervezetével szemben anyagi, szociális, valamint élet- és munkakörülményeiket érintő jogaikkal és kötelezettségeikkel kapcsolatban __[b16]__. (9) A szakszervezet jogosult a tagját – __[b17]__ – gazdasági és szociális érdekeinek védelme céljából bíróság, a Közszolgálati Döntőbizottság, hatóság és egyéb szervek előtt képviselni. (10) A __[b18]__ egyetértése szükséges a szakszervezetnél választott tisztséget betöltő és a szakszervezet által __[b19]__ kormányzati szolgálati jogviszonyának a kormányzati igazgatási szerv által felmentéssel történő megszüntetéséhez. (11) A szakszervezet a (10) bekezdésben foglaltak alkalmazása során legfeljebb egy kormánytisztviselőt jogosult megjelölni. Amennyiben a kormányzati igazgatási szervnek több telephelye van, a szakszervezet telephelyenként jogosult legfeljebb egy kormánytisztviselőt megjelölni. (12) A szakszervezet akkor jogosult a (11) bekezdés szerinti védelemre jogosult kormánytisztviselő helyett másik kormánytisztviselőt megjelölni, ha a kormánytisztviselő kormányzati szolgálati jogviszonya vagy tisztsége megszűnt. (13) A szakszervezet a (11) bekezdésben foglaltak szerinti munkáltatói intézkedéssel kapcsolatos álláspontját a kormányzati igazgatási szerv írásbeli tájékoztatásának átvételétől számított nyolc napon belül __[b20]__. Ha a tervezett intézkedéssel a szakszervezet nem ért egyet, a tájékoztatásnak az __[b21]__ tartalmaznia kell. Az indokolás akkor alapos, ha a tervezett intézkedés végrehajtása a szakszervezet érdekképviseleti tevékenységében történő közreműködés miatti hátrányos megkülönböztetést eredményezne. Ha a szakszervezet véleményét a fenti határidőn belül nem közli a kormányzati igazgatási szervvel, úgy kell tekinteni, hogy a tervezett intézkedéssel egyetért. (14) Feladata ellátása érdekében a kormányzati igazgatási szerv kormánytisztviselői közül legalább 10%-ának – de legalább harminc fő kormánytisztviselőnek – a tagságával rendelkező szakszervezetnél választott tisztséget betöltő és a szakszervezet által a (10) bekezdés szerint megjelölt kormánytisztviselőt a beosztás szerinti havi munkaideje __[b22]__ megfelelő munkaidő-kedvezmény illeti meg. Ezen túlmenően a __[b23]__ mentesül a munkavégzési kötelezettség alól. A munkaidő-kedvezmény nem vonható össze. A munkaidő-kedvezmény igénybevételét legalább __[b24]__ be kell jelenteni. Ha a kedvezmény igénybevételét megalapozó indok a kormánytisztviselő önhibáján kívüli okból ennél később jut a tudomására, a tudomásszerzést követően köteles haladéktalanul bejelenteni a munkaidő-kedvezmény igénybevételére vonatkozó szándékát. A kormányzati igazgatási szerv különösen indokolt esetben tagadhatja meg a munkaidő-kedvezmény igénybevételét. (15) A munkaidő-kedvezmény tartamára illetmény jár. A munkaidő-kedvezményt megváltani nem lehet. (16) A szakszervezet képviseletében eljáró, kormányzati szolgálati jogviszonyban nem álló személy, ha a szakszervezetnek a kormányzati igazgatási szervvel kormányzati szolgálati jogviszonyban álló tagja van, a kormányzati igazgatási szerv területére beléphet. A belépés és a munkahelyen való tartózkodás során a kormányzati igazgatási szerv __[b25]__ vonatkozó szabályokat meg kell tartani.",
+      "blanks": [
+        {
+          "id": "b1",
+          "answer": "kormányzati igazgatási szerv vezetője"
+        },
+        {
+          "id": "b2",
+          "answer": "munkavégzésére"
+        },
+        {
+          "id": "b3",
+          "answer": "juttatásaira"
+        },
+        {
+          "id": "b4",
+          "answer": "hatáskörébe utalt szabályozásról"
+        },
+        {
+          "id": "b5",
+          "answer": "csoportját érintő"
+        },
+        {
+          "id": "b6",
+          "answer": "munkáltatói intézkedéssel"
+        },
+        {
+          "id": "b7",
+          "answer": "tervezetével"
+        },
+        {
+          "id": "b8",
+          "answer": "gazdasági és szociális érdekeivel"
+        },
+        {
+          "id": "b9",
+          "answer": "létszám- és illetményadatok"
+        },
+        {
+          "id": "b10",
+          "answer": "kormányzati szolgálati jogszabályok"
+        },
+        {
+          "id": "b11",
+          "answer": "helyi megállapodások betartásáról"
+        },
+        {
+          "id": "b12",
+          "answer": "egységes értelmezésére"
+        },
+        {
+          "id": "b13",
+          "answer": "helyi szabályozási tárgykörökre"
+        },
+        {
+          "id": "b14",
+          "answer": "munkaügyi kapcsolatokkal"
+        },
+        {
+          "id": "b15",
+          "answer": "közzétegye"
+        },
+        {
+          "id": "b16",
+          "answer": "képviselje"
+        },
+        {
+          "id": "b17",
+          "answer": "meghatalmazás alapján"
+        },
+        {
+          "id": "b18",
+          "answer": "közvetlen felsőbb szakszervezeti szerv"
+        },
+        {
+          "id": "b19",
+          "answer": "megjelölt kormánytisztviselő"
+        },
+        {
+          "id": "b20",
+          "answer": "írásban közli"
+        },
+        {
+          "id": "b21",
+          "answer": "egyet nem értés indokait"
+        },
+        {
+          "id": "b22",
+          "answer": "tíz százalékának"
+        },
+        {
+          "id": "b23",
+          "answer": "konzultáció időtartamára"
+        },
+        {
+          "id": "b24",
+          "answer": "tíz nappal korábban"
+        },
+        {
+          "id": "b25",
+          "answer": "működési rendjére"
+        }
+      ],
+      "distractors": [
+        "kormányzati igazgatási szerv elnöke",
+        "áthelyezésére",
+        "juttatásairól",
+        "hatáskörébe utalt utasításról",
+        "személyét érintő",
+        "fegyelmi intézkedéssel",
+        "végrehajtásával",
+        "politikai és kulturális érdekeivel",
+        "létszám- és jutalomadatok",
+        "munkaügyi jogszabályok",
+        "az országos megállapodások betartásáról",
+        "kiterjesztő értelmezésére",
+        "országos szabályozási tárgykörökre",
+        "szolgálati kapcsolatokkal",
+        "megküldje",
+        "helyettesítse",
+        "meghatalmazás nélkül",
+        "közvetlen alsóbb szakszervezeti szerv",
+        "kijelölt kormánytisztviselő",
+        "szóban közli",
+        "egyetértés indokait",
+        "húsz százalékának",
+        "tárgyalás időtartamára",
+        "öt nappal korábban",
+        "házirendjére"
+      ]
+    }
+  ],
+  "itemCount": 6,
+  "createdAt": "2026-10-09T06:20:17.979Z"
+}

@@ -28,9 +28,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a 179. § (3) bekezdése szerint a kártérítés mértéke nem haladhatja meg a munkavállaló négyhavi távolléti díját. Az egyhavi alapbér a 189. § (2) bekezdésének biztosítéki plafonja, nem a gondatlan kárfelelősségé. Szándékos vagy súlyosan gondatlan károkozásnál a négyhavi plafon leomlik, és a teljes kár jár."
         }
-      ],
-      "sourceKerdesSorszam": 1,
-      "sourceHash": "1143b7d89bdc"
+      ]
     },
     {
       "question": "Mikor kell a munkavállalónak a teljes kárt megtérítenie a 179. § (3) bekezdése szerint, és mit mond az MK 25. a szándékosságról?",
@@ -55,9 +53,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, az MK 113. a megőrzési átvétel jegyzékének és elismervényének alakiságát értelmezi, nem a szándékosságot. Az MK 25. a szándékosságot a kívánás és a belenyugvás kettőseként rögzíti a Mt. 179. § (3) bekezdésének „szándéko” fordulatához. A két állásfoglalás felcserélése összemossa a vétkességi plafonlebontást a Mt. 180. § (3) bekezdésének átvételi alakiságával."
         }
-      ],
-      "sourceKerdesSorszam": 2,
-      "sourceHash": "ac13a9e62893"
+      ]
     },
     {
       "question": "Mi határolja el a megőrzési felelősséget (Mt. 180. §) a 179. § vétkességi alakzatától?",
@@ -82,9 +78,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a 180. § (6) bekezdése a rongálódást visszautalja a 179. §-ra, fordított mentesülési bizonyítással. A dolog meglétének hiánya tehát objektív (180. §), a dolog megléte mellett bekövetkezett sérülés pedig vétkességi. A pénz- és értékkezelő (4) bekezdés szerinti kivétele sem teszi a rongálódást objektívvá."
         }
-      ],
-      "sourceKerdesSorszam": 3,
-      "sourceHash": "13d02981bf4b"
+      ]
     },
     {
       "question": "Mit kíván meg a 180. § (3) bekezdése az átvétel alakiságáról, és mit fűz ehhez az MK 113.?",
@@ -109,9 +103,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a 180. § (3) bekezdése az objektív hiányfelelősség előfeltételeként az aláírt jegyzéket vagy elismervényt írja elő. Több átvevőnél valamennyiük aláírása kell, vagy az átvevő meghatalmazása. A munkáltató bizonyítja az (1) és a (3) bekezdés feltételeit és a kárt; a mentesülés az elháríthatatlan okot a munkavállaló igazolja."
         }
-      ],
-      "sourceKerdesSorszam": 4,
-      "sourceHash": "c003ce0eb07f"
+      ]
     },
     {
       "question": "Hogyan oszlik meg a kár több munkavállaló között a Mt. 181. § szerint, és mikor van egyetemlegesség?",
@@ -136,9 +128,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, az MK 35. szerint ha a kártérítésre kötelezett munkavállaló megtérítési követelést támaszt társával szemben, az ebből eredő vita nem munkaügyi jogvita. A helyes szabály: a Mt. 181. § (4) bekezdése szerinti egyetemlegesség a munkáltatóval szemben áll; a belső, felróhatósági vagy közrehatási arány szerinti regressz a munkavállalók egymás közötti polgári jogi viszonya. A munkaügyi per a munkáltató és a munkavállaló kárigényét viseli, nem a társregresszt."
         }
-      ],
-      "sourceKerdesSorszam": 5,
-      "sourceHash": "f8b86ac1ee3d"
+      ]
     },
     {
       "question": "Mik a leltárhiányért való felelősség konjunktív feltételei a Mt. 182. § szerint?",
@@ -163,9 +153,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a Mt. 182. § (1) bekezdése szerint a leltárhiányért a munkavállaló vétkességére tekintet nélkül felel. Ez nem a 179. § és nem a 180. § egyszerű ismétlése, hanem írásbeli megállapodáshoz és leltározási rendre kötött objektív alakzat. A szándékos készleteltulajdonítás nem leltárhiány, hanem a 179. § és a büntetőjog útja."
         }
-      ],
-      "sourceKerdesSorszam": 6,
-      "sourceHash": "525277374dfe"
+      ]
     },
     {
       "question": "Mit jelent a leltárhiány fogalma a Mt. 183. § szerint?",
@@ -190,9 +178,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a Mt. 183. § (2) bekezdése a leltáridőszakot így határozza meg. Ez a leltárfelelősségi megállapodás időbeli hatályának és a 182. § (2) bekezdés d) pontja szerinti félidő számításának alapja. A felmondás a 184. § (5) bekezdése szerint a leltáridőszak utolsó napjára szólhat."
         }
-      ],
-      "sourceKerdesSorszam": 7,
-      "sourceHash": "3224aff8b77a"
+      ]
     },
     {
       "question": "Mit kell tudni a leltárfelelősségi megállapodásról a Mt. 184. § alapján?",
@@ -217,9 +203,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a Mt. 184. § (5) bekezdése a felmondást a leltáridőszak utolsó napjára szabja, indokolás nélkül, írásban. Ez nem azonnali hatályú kilépés a készlet mellől az időszak közepén. Csoportos alakzatnál a többiek megállapodása fennmarad; a felmondó kikerül a felelősök közül."
         }
-      ],
-      "sourceKerdesSorszam": 8,
-      "sourceHash": "5902baf46b4b"
+      ]
     },
     {
       "question": "Milyen garanciákat ad a Mt. 185. § a leltározási rendre és az eljárásra?",
@@ -244,9 +228,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a Mt. 185. § (1) bekezdés a)–e) pontja a leltárfelelősség infrastrukturális előfeltételeit a munkáltatóra telepíti. A munkavállalót ezekről a megállapodás megkötését vagy a leltáridőszak kezdetét megelőzően írásban tájékoztatni kell (185. § (2) bekezdés). Utólagos, a hiány felfedezésekor közölt rend nem alapja a 182. § objektív felelősségének."
         }
-      ],
-      "sourceKerdesSorszam": 9,
-      "sourceHash": "c396280564bc"
+      ]
     },
     {
       "question": "Hogyan alakul a leltárhiányért való helytállás mértéke a Mt. 186. § szerint?",
@@ -271,9 +253,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a Mt. 186. § (2) bekezdése szerint a munkavállaló legfeljebb hathavi távolléti díja mértékéig felel, ha a leltári készletet a leltárhiányért nem felelős munkavállaló is kezeli. A vegyes kezelés a kockázatot megosztja; a plafon a szociális korlát. A teljes helytállás az egyedüli kezelő (1) bekezdésénél van, megállapodás eltérő rendelkezése hiányában."
         }
-      ],
-      "sourceKerdesSorszam": 10,
-      "sourceHash": "0b9b49fe5f61"
+      ]
     },
     {
       "question": "Mit mond a Mt. 187. § és a 188. § a leltári mérték kalibrálásáról és az igényérvényesítésről?",
@@ -298,9 +278,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a Mt. 187. § a körülmények mérlegelését rendeli: a formálisan megállapított hiány nem automatikus teljes marasztalás. Figyelembe veendő a biztonságos őrzés munkáltatói kötelezettségeinek teljesítése és a távollét tartama is. A 187. § nem mentesülési klauzula a 182. § helyett, hanem a mérték és a felelősség kalibrálása a 186. § plafonjain belül."
         }
-      ],
-      "sourceKerdesSorszam": 11,
-      "sourceHash": "47b07e85389a"
+      ]
     },
     {
       "question": "Mi a munkavállalói biztosíték a Mt. 189. § szerint, és miben különbözik a kártérítéstől?",
@@ -325,9 +303,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a Mt. 189. § (1) bekezdése a biztosítékot munkaköri pénz- és értékmozgáshoz — vagy annak közvetlen ellenőrzéséhez — köti. A biztosíték nem kártérítés és nem kötbér, hanem óvadékszerű fedezet. A „közvetlen ellenőrzé” nem a távoli munkaügyi felügyelet; a típikus kör a pénzkezelő, házi pénztáros, jegypénztáros, készpénzes értékesítő."
         }
-      ],
-      "sourceKerdesSorszam": 12,
-      "sourceHash": "d0b13877ca88"
+      ]
     },
     {
       "question": "Mely károkat nem kell megtéríteni a Mt. 179. § (4) bekezdése szerint?",
@@ -352,9 +328,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a Mt. 179. § (4) bekezdése három kimentést és levonást ad a munkáltató rovására. Az előreláthatóság a Ptk. 6:521. §-ával, a kárenyhítés a Ptk. 6:525. §-ával párhuzamos, de itt a munkáltató — mint károsult — mulasztása a munkavállaló terhét csökkenti. Ezek nem a felróhatóságot rontják le, hanem a megtérítendő kár körét szűkítik, akkor is, ha a 179. § (1) tényállása egyébként megvalósult."
         }
-      ],
-      "sourceKerdesSorszam": 13,
-      "sourceHash": "213fc5c32900"
+      ]
     },
     {
       "question": "Mit ad az MK 26. a kármegelőzés elvárhatóságáról a 179. § (1) bekezdéséhez?",
@@ -379,9 +353,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, az MK 26. éppen azt mondja: a puszta jelentés nem automatikus mentesülés. A váratlanul előálló, halasztást nem tűrő, anyagi erőt meg nem haladó beszerzés és a kisebb munkák elvégzése is elvárható lehet. A Mt. 179. § (1) bekezdésének mércéje tehát a jelentésen túlnyúlhat, de nem teszi a saját zsebből előlegezést feltétlen paranccsá."
         }
-      ],
-      "sourceKerdesSorszam": 14,
-      "sourceHash": "cedc03ac7e6c"
+      ]
     },
     {
       "question": "Mit mond a Mt. 190. § a rendkívüli méltányosságról, és miben különbözik a 187. §-tól?",
@@ -406,9 +378,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a Mt. 190. § a már megállapított kártérítés alóli részbeni mentesítést adja. A szakasz a 179–186. § bármely alakzatánál alkalmazható, ideértve a szándékos károkozás teljes kárát is. A „részbe” azonban kizárja a teljes elengedést; a Ptk. 6:522. § (4) bekezdésének munkajogi tükre."
         }
-      ],
-      "sourceKerdesSorszam": 15,
-      "sourceHash": "dbc06191af87"
+      ]
     },
     {
       "question": "Hogyan térhet el a kollektív szerződés a XIV. fejezet rendelkezéseitől a Mt. 191. § szerint?",
@@ -433,9 +403,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a Mt. 191. § (2) bekezdése kifejezetten a kollektív szerződést nevezi meg a plafonemeléshez. Egyedi munkaszerződés e plafont nem emelheti. A gondatlan főszabály törvényi plafonja egyébként négyhavi távolléti díj (Mt. 179. § (3) bekezdés), amíg a kollektív szerződés fel nem emeli."
         }
-      ],
-      "sourceKerdesSorszam": 16,
-      "sourceHash": "3ec786ac9884"
+      ]
     },
     {
       "question": "Hogyan viszonyul a Ptk. 6:519. § deliktuális alapszabálya a Mt. 179. § felróhatósági alakzatához?",
@@ -460,9 +428,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a Ptk. 6:519. § mentesülési mondata a Mt. 179. § (1) felróhatósági elemére marad. A Mt. 180. § (2) szerinti elháríthatatlan ok a megőrzési objektív alakzat saját mentesülése; ott a felróhatóság eleve nem tényállási elem. A saját enyhe gondatlanság tehát nem mentesít a megőrzési hiány alól, noha a Ptk. 6:519. szerint a nem felróható magatartás mentesítene."
         }
-      ],
-      "sourceKerdesSorszam": 17,
-      "sourceHash": "64bdc1ba3998"
+      ]
     },
     {
       "question": "Mit mond a Ptk. 6:524. § a többek károkozásáról, és hogyan szűkít ehhez képest a Mt. 181. §?",
@@ -487,9 +453,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a Mt. 179. § (4) bekezdése a munkáltató kárenyhítési mulasztását és vétkes magatartását a munkavállaló kártérítéséből kiveszi: a károsult itt a munkáltató. A Ptk. 6:525. § munkajogi, egyirányú megfogalmazása tehát a munkáltató mulasztását méri. Az MK 26. a munkavállaló megelőzési terhét a 179. § (1) elvárhatóságába emeli, nem a 6:525. § károsulti oldalába."
         }
-      ],
-      "sourceKerdesSorszam": 18,
-      "sourceHash": "9e41bdb387bf"
+      ]
     },
     {
       "question": "Mi az utaló magatartás (Ptk. 6:587. §), és hogyan viszonyul a XIV. fejezet zárt alakzataihoz?",
@@ -514,9 +478,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a Ptk. 6:587. § szerint a bíróság a kárnak egészben vagy részben való megtérítésére kötelezheti azt, akinek szándékos magatartása más jóhiszemű személyt alapos okkal olyan magatartásra indított, amelyből őt önhibáján kívül károsodás érte. Nincs automatikus kártérítési kötelem: kell a szándékosság, a jóhiszeműség, az alapos ok, az önhiba hiánya és a bírói mérlegelés. Ez a szakasz nem a Mt. 177. § által felhívott Ptk. 6:518–534. § között áll, hanem önálló kártelepítési alakzat."
         }
-      ],
-      "sourceKerdesSorszam": 19,
-      "sourceHash": "5bf4e2b30802"
+      ]
     },
     {
       "question": "Mi a különbség a négy felelősségi sík között a Mt. XIV. fejezetében?",
@@ -541,9 +503,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a Mt. 180. § (2) az elháríthatatlan okot adja; a Mt. 182. § (2) négy konjunktív feltételt, a 186. § pedig a mérték fokozatait. A csoportos leltárnál egyetemlegességnek nincs helye (186. § (3)); a megőrzési hiánynál több átvevőnél bérarányos helytállás van (181. § (3)). A két objektív alakzat tehát a mentesülésben és a mértékben is elválik."
         }
-      ],
-      "sourceKerdesSorszam": 20,
-      "sourceHash": "a363689bf324"
+      ]
     },
     {
       "question": "Mit mond a Ptk. 6:521–522. § az előreláthatóságról és a teljes kár fogalmáról a munkavállalói kárfelelősség mögött?",
@@ -568,9 +528,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a plafon a megtérítendő összeget korlátozza, de a kár fogalmi elemeit a Ptk. 6:522. § továbbra is kitölti a Mt. 177. § / 179. § (5) útján. A négyhavi távolléti díj a gondatlan ág szociális védőkorlátja. Szándékos vagy súlyosan gondatlan károkozásnál a plafon leomlik, és a teljes kár jár."
         }
-      ],
-      "sourceKerdesSorszam": 21,
-      "sourceHash": "004bdb4aafbf"
+      ]
     },
     {
       "question": "Mit mond a Ptk. 6:526–527. § a felelősségkorlátozás semmisségéről és a kártérítés módjáról?",
@@ -595,9 +553,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a Ptk. 6:527. § (3) bekezdése szerint a bíróság a kártérítés módjának meghatározásánál nincs kötve a károsult kérelméhez. Azt a módot nem alkalmazhatja, amely ellen valamennyi fél tiltakozik. A „valamennyi fé” a peres feleket jelenti, nem az MK állásfoglalást."
         }
-      ],
-      "sourceKerdesSorszam": 22,
-      "sourceHash": "8913efee6614"
+      ]
     },
     {
       "question": "Mit mond a Ptk. 6:532–533. § az esedékességről és az elévülésről a munkavállalói kárnál?",
@@ -622,9 +578,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a Ptk. 6:534. § (2) bekezdése szerint a felróhatóan késlekedő károsult maga viseli az ár- és értékviszonyok változásának kockázatát. A Mt. 179. §-nál a munkáltató késedelmes perelése tehát az inflációs kockázatot rátelepítheti. A 188. § hatvannapos jogvesztése a leltárnál a késlekedést eleve kiüti."
         }
-      ],
-      "sourceKerdesSorszam": 23,
-      "sourceHash": "5ec86c95e918"
+      ]
     },
     {
       "question": "Mit mond a Mt. 189. § (3)–(5) bekezdése a biztosíték elhelyezéséről, visszafizetéséről és felhasználásáról?",
@@ -649,9 +603,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a Mt. 189. § (4) bekezdése a visszafizetést a jegybanki alapkamattal növelt összegre és a haladéktalan teljesítésre szabja. A feltétel a munkakörváltozás miatti (1) bekezdésbeli jogosultság elmúlása, vagy a munkaviszony megszűnése. A kamat a munkavállaló likviditási védelmének része."
         }
-      ],
-      "sourceKerdesSorszam": 24,
-      "sourceHash": "6d4426fff533"
+      ]
     },
     {
       "question": "Mit mond a Mt. 187. § a leltári mérték mérlegeléséről a 186. § plafonjain belül?",
@@ -676,9 +628,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a Mt. 187. § a körülmények mérlegelését rendeli a felelősség vagy a mérték megállapításánál. Különösen a biztonságos őrzésre vonatkozó munkáltatói kötelezettségek teljesítését és a munkavállaló távollétének tartamát kell figyelembe venni. A formálisan megállapított hiány nem automatikus teljes marasztalás, ha például a raktár zárhatatlan volt."
         }
-      ],
-      "sourceKerdesSorszam": 25,
-      "sourceHash": "a533c17b6d49"
+      ]
     },
     {
       "question": "Mit mond a Ptk. 6:528–530. § a járadékról, és hogyan kapcsolódik a munkavállalói kárfelelősséghez?",
@@ -703,9 +653,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a leltárhiánynál a Mt. 183. § a hiányt a leltárfelvételhez köti, tehát a mérték rendszerint számítható. A Ptk. 6:531. § akkor rendel általános kártérítést, ha a kár mértéke nem állapítható meg. A 179. § olyan káraira marad, ahol a forgalomkiesés nem számszerűsíthető; gondatlanságnál a négyhavi plafon akkor is zár."
         }
-      ],
-      "sourceKerdesSorszam": 26,
-      "sourceHash": "4adc23c99582"
+      ]
     },
     {
       "question": "Hogyan határolódik el a megőrzési hiány bérarányos viselése a leltár csoportos felelősségétől?",
@@ -730,9 +678,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a Mt. 186. § (3) bekezdése a csoportos leltár plafonját és az egyetemlegesség tilalmát együtt mondja ki. Ha a megosztást a megállapodás nem rendezi, a munkavállalók távolléti díjuk arányában felelnek. A megőrzési bérarány (181. § (3)) és a leltári távolléti díj-arány tehát rokon, de a leltárnál a hathavi együttes plafon és az egyetemlegesség tilalma különálló."
         }
-      ],
-      "sourceKerdesSorszam": 27,
-      "sourceHash": "e291f4260d13"
+      ]
     },
     {
       "question": "Mit kíván meg a leltárfelelősség a munkáltató előzetes tájékoztatásától és a leltározási jelenléttől?",
@@ -757,9 +703,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a Mt. 185. § (4) bekezdése a meghallgatási jogot adja; a puszta írásbeli közlés nem váltja fel. A munkáltató nem játszhatja le a leltárt a munkavállaló háta mögött, majd a 188. § határidejének végén közölheti az igényt. Az ismertetésnek és a meghallgatásnak a hatvannapos jogvesztő időn belül el kell férnie."
         }
-      ],
-      "sourceKerdesSorszam": 28,
-      "sourceHash": "f53e3bc6dc47"
+      ]
     }
   ]
 }

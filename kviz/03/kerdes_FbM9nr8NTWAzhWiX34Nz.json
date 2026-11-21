@@ -28,9 +28,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a munkajogi modell a polgári jogi semmisségi hatástól elválik. Az Mt. 29. § (1) bekezdése szerint az érvénytelen megállapodás alapján létrejött jogviszonyból származó jogokat és kötelezettségeket úgy kell tekinteni, mintha érvényes megállapodáson állnának. A Ptk. 6:108. § „teljesítést követelni nem lehet” fordulata a 31. § utalóklauzulája ellenére nem írja felül ezt a relatív hatályt. A díjazás és a védelmi szabályok a megszűnésig kötnek."
         }
-      ],
-      "sourceKerdesSorszam": 1,
-      "sourceHash": "ac64c4a4e501"
+      ]
     },
     {
       "question": "A munkavállaló sikeresen megtámadja a megállapodást megtévesztés miatt; másik perben a bíróság hivatalból észleli a szabályba ütköző semmisséget. Mely jogkövetkezményi megállapítások állják meg a helyüket?",
@@ -55,9 +53,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a megtámadás joghatása az érvénytelenség, majd a munkajogi felszámolási modell. Az Mt. 28. § (9) bekezdése szerint a sikeresen megtámadott megállapodás érvénytelen. Az Mt. 29. § (1) bekezdése a jogokat és kötelezettségeket érvényes megállapodásként rendeli viselni a megszüntetésig, és a munkáltatót haladéktalan, azonnali hatályú megszüntetésre kötelezi, ha az okot a felek nem hárítják el. A megtámadás előtti eljárás a 28. § (8) bekezdése szerinti írásbeli közlés."
         }
-      ],
-      "sourceKerdesSorszam": 2,
-      "sourceHash": "a8f098060fac"
+      ]
     },
     {
       "question": "Ha a munkáltatói jogkört nem az arra jogosított személy gyakorolta, mikor marad mégis érvényes a jognyilatkozat?",
@@ -82,9 +78,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a munkavállalói oldal eltérő szabályt kap. A munkavállaló személyesen vagy írásbeli meghatalmazott, akadályoztatásnál hozzátartozó útján nyilatkozik, és — ha a képviselet tartalma nem egyértelműen korlátozott — nem hivatkozhat a képviselő jogkörtúllépésére. Az Mt. 20. § (4) bekezdése a munkáltató hivatkozási terhét szabályozza a saját képviselő túllépésénél, nem szimmetrikus munkavállalói jogot. A tévedés a két oldal képviseleti szabályának szimmetrikusnak vélt olvasatából ered."
         }
-      ],
-      "sourceKerdesSorszam": 3,
-      "sourceHash": "ac2986ca8bb7"
+      ]
     },
     {
       "question": "Mi következik abból, ha a törvény szerint írásba foglalandó jognyilatkozatot a felek csak szóban tették meg, de a viszony már működött?",
@@ -109,9 +103,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, az állítás a polgári jogi konvalidációt helyettesíti a munkajogi orvoslás helyébe. Az Mt. 22. § (4) bekezdése a felek egyező akaratából történő teljesedésbe menetetelhez köti az érvénytelenségi jogkövetkezmény kizárását, nem a Ptk. 6:94. § szerinti, a teljesített rész erejéig ható konvalidációhoz. A munkajogi orvoslás tehát más szerkezetű: a szankció elmarad, ha a viszony mindkét fél akarata szerint már működött. A tévedés a két jogág alaki orvoslásának összecseréléséből ered."
         }
-      ],
-      "sourceKerdesSorszam": 4,
-      "sourceHash": "7d48c979089b"
+      ]
     },
     {
       "question": "A megtévesztés vagy jogellenes fenyegetés harmadik személytől ered. Mely megállapítások állják meg a helyüket a megtámadás alkalmazhatóságáról?",
@@ -136,9 +128,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a harmadik személyi tényállásnál is az alakító jog általános következménye él. Az Mt. 28. § (8) bekezdése az írásbeli közlést a (7) bekezdés szerinti határidőn belül követeli; a (9) bekezdés szerint a sikeresen megtámadott megállapodás érvénytelen. A határidő harminc nap a tévedés felismerésétől vagy a jogellenes fenyegetés megszűnésétől, hat hónapos abszolút zárral. Innentől a 29. § (1) bekezdése szerinti relatív hatály érvényesülhet."
         }
-      ],
-      "sourceKerdesSorszam": 5,
-      "sourceHash": "3ece7d6baab9"
+      ]
     },
     {
       "question": "A megszüntetés megtámadása miatti keresetindítás hogyan viszonyul a 287. § (1) bekezdés szerinti megszüntetés-jogellenességi keresethez, és mi a kereset halasztó hatálya?",
@@ -163,9 +153,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a perindítás főszabály szerint nem függeszti fel a megszüntetés hatályát. Az Mt. 287. § (5) bekezdése szerint a keresetlevél benyújtásának — az (1) bekezdés c)–d) pontjában foglaltakat kivéve — halasztó hatálya nincs. A c)–d) pont a kötelezettségszegési jogkövetkezmény és a fizetési felszólítás. A megszüntetés vitája tehát nem örökíti automatikusan a munkaviszonyt a jogerőig."
         }
-      ],
-      "sourceKerdesSorszam": 6,
-      "sourceHash": "270f29ccfe65"
+      ]
     },
     {
       "question": "A munkaszerződés egyik kikötése érvénytelen. Mi a részleges érvénytelenség jogkövetkezménye, és mikor dől meg a megállapodás egésze?",
@@ -190,9 +178,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a részleges érvénytelenség főszabálya a norma behelyettesítése. Az Mt. 29. § (3) bekezdése szerint: ha a megállapodás valamely része érvénytelen, helyette a munkaviszonyra vonatkozó szabályt kell alkalmazni. A megállapodás tehát nem omlik össze automatikusan minden részérvénytelenségnél. Ez elválik a 27. § (3) bekezdése szerinti lex specialis más jogkövetkezményétől, noha mindkettő a teljes érvénytelenség elkerülését szolgálhatja."
         }
-      ],
-      "sourceKerdesSorszam": 7,
-      "sourceHash": "98efdd41bd17"
+      ]
     },
     {
       "question": "Mely esetben nem alkalmazható a semmisség teljes érvénytelenségi hatása, noha a megállapodás semmisnek minősül?",
@@ -217,9 +203,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, az állítás elhagyja a lex specialis kivételt. Az Mt. 27. § (3) bekezdése kifejezetten kimondja: a semmis megállapodás érvénytelen, kivéve, ha a rendelkezést megállapító munkaviszonyra vonatkozó szabály más jogkövetkezményt fűz hozzá. A teljes érvénytelenség tehát nem automatikus. A tévedés a semmisségi minősítés és az érvénytelenségi joghatás azonosításából ered."
         }
-      ],
-      "sourceKerdesSorszam": 8,
-      "sourceHash": "a55088ada311"
+      ]
     },
     {
       "question": "Mi következik abból, ha a munkaviszony megszüntetésére irányuló jognyilatkozat érvénytelen?",
@@ -244,9 +228,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, az (1) bekezdés a megállapodás érvénytelenségénél a már létrejött jogviszony felszámolására szól, nem a megszüntető aktus érvénytelenségének szankciójára. Az Mt. 29. § (5) bekezdése a megszüntetésre irányuló jognyilatkozat érvénytelenségénél a 82–84. § megfelelő alkalmazását rendeli. A két helyzet ellentétes irányú: az egyik érvénytelen alapú viszony felszámolása, a másik érvénytelen megszüntetés jogellenességi szankciója. A tévedés az (1) és az (5) bekezdés összecseréléséből ered."
         }
-      ],
-      "sourceKerdesSorszam": 9,
-      "sourceHash": "0f00af1d2149"
+      ]
     },
     {
       "question": "Az Mt. 31. § Ptk.-utalólistája és a 30. § hogyan határolja el az érvénytelenségből származó kár felelősségi rendjét?",
@@ -271,9 +253,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, az állítás indokolatlanul a semmisségre szűkíti a 30. § hatályát. Az Mt. 30. § a megállapodás érvénytelenségéből származó kárról beszél, ideértve a 28. § (9) bekezdése szerinti sikeres megtámadás utáni érvénytelenséget is. A kárfelelősség az Mt. rendje szerint ítélendő meg, függetlenül attól, hogy a minősítés semmisségből vagy megtámadásból ered. A tévedés forrása a két alakzat procedurális elhatárolásának a kárjogra való átvitele."
         }
-      ],
-      "sourceKerdesSorszam": 10,
-      "sourceHash": "2659640dd393"
+      ]
     },
     {
       "question": "A munkavállaló tévedésre hivatkozva mikor támadhatja meg a megállapodást, és mikor zárul ki a megtámadás?",
@@ -298,9 +278,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a saját felróható vagy vállalt tévedés, illetve a belső motívum nem nyit megtámadást. Az Mt. 28. § (2) bekezdése kizárja azt, aki a tévedését felismerhette vagy a kockázatát vállalta; a (6) bekezdés szerint a fél titkos fenntartása vagy rejtett indoka a megállapodás érvényességét nem érinti. A tájékozódási teher a támadó félen marad. A belső, ki nem mondott motívum tehát nem akarathiba."
         }
-      ],
-      "sourceKerdesSorszam": 11,
-      "sourceHash": "0ffa6cdd70c5"
+      ]
     },
     {
       "question": "A 22. § (5) bekezdése szerinti kioktatási kötelezettség mikor áll fenn a határidőről, és miben tér el a (4) bekezdés alaki érvénytelenségétől?",
@@ -325,9 +303,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a határidő-kioktatás csak akkor kötelező, ha a határidő az elévülésnél rövidebb, és a mulasztás semmisséget sem eredményez. Az Mt. 22. § (5) bekezdése a határidőről való kioktatást ehhez a feltételhez köti; a mulasztás jogkövetkezménye a hat hónapos igényzár, nem a jognyilatkozat semmissége. A tévedés forrása a kioktatási kötelezettség feltétel nélküli és semmisségi olvasata."
         }
-      ],
-      "sourceKerdesSorszam": 12,
-      "sourceHash": "bae176b87c6a"
+      ]
     },
     {
       "question": "Miben tér el a tisztességtelen általános szerződési feltétel munkajogi kezelése a fogyasztói semmisségtől?",
@@ -352,9 +328,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a fogyasztói semmisség nem a munkajogi utalóklauzula következménye. Az Mt. 31. § a Ptk. 6:102. §-át hívja, nem a 6:103–6:104. § fogyasztói szabályait; a 6:102. § (5) bekezdése megtámadhatóságot ad. A megtámadás alakja és határideje a 28. § szerint harminc napos, írásbeli közléshez kötött. A tévedés a fogyasztói semmisség és a munkajogi ÁSZF-megtámadás összecseréléséből ered."
         }
-      ],
-      "sourceKerdesSorszam": 13,
-      "sourceHash": "a22daeb86c01"
+      ]
     },
     {
       "question": "A munkaszerződésbe foglalt lehetetlen feltétel és a nem feltételként kikötött, érthetetlen szerződési klauzula közül melyikre melyik norma az irányadó?",
@@ -379,9 +353,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a munkajogi feltétel mellőzéssel, nem teljes semmisséggel esik ki. Az Mt. 19. § (2) bekezdése szerint a megállapodást úgy kell elbírálni, mintha a felek az adott feltételt nem kötötték volna ki. A Ptk. 6:107. § (1) bekezdése a lehetetlen szolgáltatásra irányuló szerződést mint egészt semmisíti meg; ez a szolgáltatásra, nem a 19. § szerinti feltételre szabott. A tévedés forrása a két joghely hatókörének összecserélése."
         }
-      ],
-      "sourceKerdesSorszam": 14,
-      "sourceHash": "37b3d097afe4"
+      ]
     },
     {
       "question": "A munkáltató tudomására jut, hogy a munkavállaló foglalkoztatását kizáró ok áll fenn. Mi a helyes eljárás?",
@@ -406,9 +378,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a foglalkoztatási kizáró ok a relatív hatályú felszámolási kötelezettséget hívja. Ha a foglalkoztatási kizáró okot a munkavállaló hatósági bizonyítvánnyal nem tudja igazolni, vagy a kizáró ok a munkáltató tudomására jut, a munkáltató a 29. § (1) bekezdésének megfelelő alkalmazásával köteles a munkaviszonyt haladéktalanul, azonnali hatállyal megszüntetni. A 82–84. § a megszüntető jognyilatkozat érvénytelenségénél az (5) bekezdés szerint alkalmazandó, nem ennél a felszámolásnál. A megszüntetés az érvénytelenségi ok elhárításának elmaradásához kapcsolódik."
         }
-      ],
-      "sourceKerdesSorszam": 15,
-      "sourceHash": "a6151e75b21b"
+      ]
     },
     {
       "question": "Harmadik személy megtévesztése vagy jogellenes fenyegetése mikor nyitja meg a megállapodás megtámadását?",
@@ -433,9 +403,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, az (5) bekezdés éppen a harmadik személyes esetet emeli be. Az Mt. 28. § (4) bekezdése a másik fél jogellenes fenyegetését rendezi, az (5) bekezdés pedig ugyanezt a rendet alkalmazza, ha a fenyegetés harmadik személytől ered, és a másik fél tudott róla vagy tudnia kellett. A harmadik személy fenyegetése tehát a tudattartalmi feltétel mellett értékelhető. A tévedés a (4) bekezdés alanyi körének túlzott szűkítéséből ered."
         }
-      ],
-      "sourceKerdesSorszam": 16,
-      "sourceHash": "1eddb9198c26"
+      ]
     },
     {
       "question": "A felek munkaszerződésében egy kikötés munkaviszonyra vonatkozó szabályba ütközik, de a megsértett norma a kikötés mellőzését rendeli. Mely megállapítások állják meg a helyüket?",
@@ -460,9 +428,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a hivatalbóli észlelés éppen ezt zárja ki. Az Mt. 27. § (3) bekezdése szerint a semmisségre az érdekelt határidő nélkül hivatkozhat, a megállapodás semmisségét a bíróság hivatalból észleli; a munkaügyi perben ez azt is jelenti, hogy a bíróság a semmisségi okot akkor is vizsgálja, ha a fél csak más jogcímen perel. A tévedés a megtámadás alakító jellegének a semmisségre történő ráírásából ered."
         }
-      ],
-      "sourceKerdesSorszam": 17,
-      "sourceHash": "45156866225f"
+      ]
     },
     {
       "question": "Írni nem tudó munkavállaló írásbeli jognyilatkozata milyen alakiság mellett érvényes, és miben különbözik ez a 22. § (4) bekezdésének orvoslásától?",
@@ -487,9 +453,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a törvény nem a szóbeli formát, hanem a minősített okirati alakiságot engedi. Az Mt. 22. § (6) bekezdése közokiratot vagy a megjelölt teljes bizonyító erejű magánokiratot követel az írni nem tudó vagy nem képes személy írásbeli jognyilatkozatához. A (3) bekezdés szerint, amit írásba kellett foglalni, azt módosítani vagy megszüntetni is csak írásban lehet. A tévedés a felek akaratának az alaki kógencia fölé emeléséből ered."
         }
-      ],
-      "sourceKerdesSorszam": 18,
-      "sourceHash": "01c9907bad8b"
+      ]
     },
     {
       "question": "A munkavállaló a megszüntetés jogellenességét kívánja perelni. Miben tér el ez a kereseti út a megszüntetés megtámadásától?",
@@ -514,9 +478,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, az (1) bekezdés b) pontja közvetlen kereseti határidőt ad. Az Mt. 287. § (1) bekezdése szerint a keresetlevelet a munkáltatói jognyilatkozat közlésétől számított harminc napon belül kell előterjeszteni többek között a munkaviszony megszüntetésének jogellenességével kapcsolatos igény érvényesítése iránt. Ez nem követeli meg az előzetes írásbeli megtámadást. A (3) bekezdés kétfázisú rendje a megszüntetésre vonatkozó megállapodás vagy egyoldalú jognyilatkozat megtámadására szól."
         }
-      ],
-      "sourceKerdesSorszam": 19,
-      "sourceHash": "9e5dae81fbf6"
+      ]
     },
     {
       "question": "A munkáltató a munkaszerződés egyoldalú módosítását közli. Milyen tartamban és milyen feltétellel érvényesíthető az ezzel kapcsolatos igény?",
@@ -541,9 +503,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a perindítás önmagában nem függeszti fel a jognyilatkozat hatályát. Az Mt. 287. § (5) bekezdése szerint a keresetlevél benyújtásának — az (1) bekezdés c)–d) pontjában foglaltakat kivéve — halasztó hatálya nincs. Az egyoldalú munkaszerződés-módosítás vitája tehát nem tartozik a kivételek közé. A 288. § szerint a kollektív szerződés vagy a felek megállapodása szerinti békéltetés a 287. § határidejét nem érinti."
         }
-      ],
-      "sourceKerdesSorszam": 20,
-      "sourceHash": "7f1dccf989b0"
+      ]
     },
     {
       "question": "Milyen feltételek mellett jár a 29. § (2) bekezdése szerinti felmondási távolléti díj és a végkielégítés megfelelő alkalmazása, és mi nem helyettesíti ezt?",
@@ -568,9 +528,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a kártalanítás konjunktív feltételeken áll. Az Mt. 29. § (2) bekezdése a felmondási távolléti díjat és a végkielégítés megfelelő alkalmazását akkor rendeli, ha a munkaszerződés a munkáltató oldalán felmerült okból érvénytelen, és azt az (1) bekezdés alapján meg kell szüntetni. A munkavállalói oldali oknál ez a kártalanítás nem automatikus. A szankció a munkáltatói felmondás jogkövetkezményeit másolja, nem a polgári jogi in integrum restitutionem."
         }
-      ],
-      "sourceKerdesSorszam": 21,
-      "sourceHash": "881caf7f0aad"
+      ]
     },
     {
       "question": "Elektronikus dokumentum mikor minősül írásbelinek a munkajogi jognyilatkozatnál?",
@@ -595,9 +553,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, az elektronikus írásbeliség három kelléke együttesen kötelező. Az Mt. 22. § (2) bekezdés a) pontja a változatlan visszaidézésre, a nyilatkozattevő személyének és a jognyilatkozat megtétele időpontjának azonosítására alkalmas elektronikus dokumentumot követel. Azonosításra alkalmatlan vagy tartalmilag nem visszaidézhető üzenet nem minősül írásbelinek. Ha a nyilatkozatot írásba kellett foglalni, a (4) bekezdés szerinti érvénytelenség ekkor is felmerülhet, teljesedésbe meneteli orvoslással."
         }
-      ],
-      "sourceKerdesSorszam": 22,
-      "sourceHash": "7619126f1b8f"
+      ]
     },
     {
       "question": "A munkaviszonyra vonatkozó szabályba ütközés semmisségi tesztje miben különbözik a Ptk. tilos szerződésétől?",
@@ -622,9 +578,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a nyilvánvalóság a jóerkölcsi semmisség küszöbét emeli. Az Mt. 27. § (1) bekezdése a „nyilvánvalóan a jóerkölcsbe ütközik” fordulatot használja; a puszta erkölcsi helytelenítés tehát nem elegendő. A három önálló semmisségi ok — szabályba ütközés, megkerülés, nyilvánvaló jóerkölcs — egymás mellett áll. A (3) bekezdés a hivatalbóli észlelést és a határidő nélküli hivatkozást ehhez a minősítéshez köti."
         }
-      ],
-      "sourceKerdesSorszam": 23,
-      "sourceHash": "f00527997b39"
+      ]
     },
     {
       "question": "A tisztességtelen ÁSZF vizsgálatánál melyek a törvényi szempontok, és mi esik ki a teszt alól?",
@@ -649,9 +603,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a tisztességtelenség a jóhiszeműség és tisztesség megsértésével okozott egyoldalú, indokolatlan hátrány. A Ptk. 6:102. § (1) bekezdése szerint tisztességtelen az az általános szerződési feltétel, amely a szerződésből eredő jogokat és kötelezettségeket a jóhiszeműség és tisztesség követelményének megsértésével egyoldalúan és indokolatlanul a szerződési feltétel alkalmazójával szerződő fél hátrányára állapítja meg. A (2) bekezdés a szerződéskötéskori körülményeket, a szolgáltatás rendeltetését és a feltételnek a szerződés más részeivel való kapcsolatát rendeli vizsgálni. Az Mt. 31. § a jognyilatkozatra — ha az Mt. eltérően nem rendelkezik — a 6:102. §-t megfelelően alkalmazni rendeli."
         }
-      ],
-      "sourceKerdesSorszam": 24,
-      "sourceHash": "1cbdca188c55"
+      ]
     },
     {
       "question": "A munkaszerződésben a munkavállaló hátrányára módosító feltételt kötöttek ki. Mely megállapítások helytállóak?",
@@ -676,9 +628,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a tiltás a 27. § (1) bekezdése szerinti semmisséghez is vezethet. Az Mt. 19. § (1) bekezdése a feltételt eleve tiltja, és ez munkaviszonyra vonatkozó szabályba ütközésként a 27. § (1) bekezdése szerinti semmisségi ok lehet. A megtámadhatóság az Mt. 28. § szerinti akarathibákra — lényeges tévedés, közös téves feltevés, megtévesztés, jogellenes fenyegetés — és harminc napos, írásbeli közléshez kötött alakra szól. A tévedés a semmisség és a megtámadhatóság összecseréléséből ered."
         }
-      ],
-      "sourceKerdesSorszam": 25,
-      "sourceHash": "8518722000fa"
+      ]
     },
     {
       "question": "Mindkét fél ugyanabban a lényeges téves feltevésben volt a szerződéskötéskor. Ki támadhat, és mi zárja ki a megtámadást?",
@@ -703,9 +653,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a közös téves feltevés megtámadhatósági ok, nem semmisség. Az Mt. 28. § (1) bekezdése a közös téves feltevést a megtámadhatóság körében szabályozza; a 27. § a szabályba ütközést, a megkerülést, a nyilvánvaló jóerkölcsöt és a színlelést rendezi. A hivatalbóli észlelés a semmisséghez kötött. A tévedés a két érvénytelenségi alakzat összecseréléséből ered."
         }
-      ],
-      "sourceKerdesSorszam": 26,
-      "sourceHash": "501ca02db4e7"
+      ]
     },
     {
       "question": "A munkáltató a belső szabályzatában határozza meg a munkáltatói joggyakorlás rendjét. Milyen keretek között érvényes ez, és mi a jogkövetkezmény a jogosulatlan eljárásnál?",
@@ -730,9 +678,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a (2) bekezdés a jogszabályok keretei közé szorítja a rendalkotást. Az Mt. 20. § (2) bekezdése szerint a munkáltatói joggyakorlás rendjét — a jogszabályok keretei között — a munkáltató határozza meg. A jogszabályi keret tehát nem mellőzhető. A tévedés a munkáltatói szervezeti autonómia korlátlan olvasatából ered."
         }
-      ],
-      "sourceKerdesSorszam": 27,
-      "sourceHash": "a999c86b017d"
+      ]
     },
     {
       "question": "Összefüggésben hogyan határolható el a 29. § relatív hatálya a Ptk. érvénytelenségi jogkövetkezményeitől?",
@@ -757,9 +703,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, az Mt. nem a Ptk. érvényessé nyilvánítási útját követi. Az Mt. 29. § (1) bekezdése a működő jogviszonyt addig érvényesként viseli, amíg a munkáltató meg nem szünteti, vagy a felek az okot el nem hárítják; a Ptk. 6:110–6:111. § érvényessé nyilvánítása nem a munkajogi főút. A tévedés a polgári jogi orvoslás ráírásából ered."
         }
-      ],
-      "sourceKerdesSorszam": 28,
-      "sourceHash": "6eb766ff6ed8"
+      ]
     },
     {
       "question": "A felek színlelt „megbízási” megállapodást kötöttek, amely valójában munkaviszonyt leplez. Hogyan kell megítélni a jogviszonyt?",
@@ -784,9 +728,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a simulatio a valódi tartalom felé vezet. Az Mt. 27. § (2) bekezdése kimondja: a színlelt megállapodás semmis, ha pedig más megállapodást leplez, a leplezett megállapodás alapján kell megítélni — tehát a rejtett munkaviszony a mérce. Az (1) bekezdés szabályba ütközési, megkerülési és nyilvánvaló jóerkölcsi semmissége ettől a színlelési szabálytól külön áll. A (3) bekezdés szerinti hivatalbóli észlelés a semmisségi minősítéshez kötődik."
         }
-      ],
-      "sourceKerdesSorszam": 29,
-      "sourceHash": "69e053ee136c"
+      ]
     },
     {
       "question": "Mi következik abból, ha a munkáltató a felmondását sikeresen megtámadja saját jognyilatkozataként?",
@@ -811,9 +753,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a kivétel megakadályozza a szankció önkiszolgálását. Az Mt. 29. § (5) bekezdése a megszüntetésre irányuló jognyilatkozat érvénytelenségénél a 82–84. § megfelelő alkalmazását rendeli, de kifejezetten kivételként rögzíti a munkáltató saját jognyilatkozatának sikeres megtámadását. A munkáltató tehát nem termelheti ki magának a jogellenesség szankcióját. Az egyoldalú aktus (4) bekezdés szerinti joghatás-nélkülisége ettől a speciális szankciós utalószabálytól elválik."
         }
-      ],
-      "sourceKerdesSorszam": 30,
-      "sourceHash": "6f7b239b9e3d"
+      ]
     },
     {
       "question": "A 61. § (6) bekezdése vagy a 64. § (4) bekezdése szerinti igény érvényesítésénél milyen keresetindítási határidő irányadó?",
@@ -838,9 +778,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, az elévülési időn belüli érvényesítés a munkavállalói megszüntetés speciális köre. Az Mt. 287. § (1a) bekezdése a 61. § (6) és a 64. § (4) bekezdése szerinti igényre harminc napos kereseti határidőt ad; a (2) bekezdés a munkavállaló 40. § szerinti felmondásával és 78. § szerinti azonnali hatályú felmondásával kapcsolatos igényre szól. A két határidő-típus tehát nem felcserélhető. A tévedés abból ered, hogy az (1a) bekezdést a (2) bekezdés elévülési rendje alá vonják."
         }
-      ],
-      "sourceKerdesSorszam": 31,
-      "sourceHash": "bfc42d4ef854"
+      ]
     },
     {
       "question": "Gyakorlatban a munkaszerződést nem foglalták írásba, de a felek mindketten teljesítettek. Alkalmazható-e az érvénytelenség jogkövetkezménye?",
@@ -865,9 +803,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, az orvosláshoz mindkét fél egyező akarata kell. Az Mt. 22. § (4) bekezdése az érvénytelenségi jogkövetkezmény kizárását a felek egyező akaratából történő teljesedésbe menetelhez köti. Az egyik fél egyoldalú teljesítése önmagában nem elég. A tévedés az egyező akarat követelményének elhagyásából ered."
         }
-      ],
-      "sourceKerdesSorszam": 32,
-      "sourceHash": "afaf9414716c"
+      ]
     },
     {
       "question": "A munkáltató a megszüntető megállapodást akarathiba miatt kívánja érvényteleníteni. Milyen procedurális lépések következnek?",
@@ -892,9 +828,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a tizenöt nap a címzett rendelkezési ideje. Az Mt. 287. § (3) bekezdése az eredménytelenséget a közléstől számított tizenöt napos válaszhiányhoz vagy elutasításhoz köti, és a keresetet az eredménytelenség megállapításától számított harminc napon belül engedi. A (4) bekezdés a határidő utolsó napján postára adott keresetet határidőben beadottnak tekinti, és hat hónap elteltével az igényt lezárja. Az (5) bekezdés a keresetlevélnek — meghatározott kivételekkel — nem ad halasztó hatályt a megszüntetés vitájában."
         }
-      ],
-      "sourceKerdesSorszam": 33,
-      "sourceHash": "6705585e5877"
+      ]
     },
     {
       "question": "Mely esetben nem alkalmazható a 29. § (1) bekezdésének „mintha érvényes volna” klauzulája?",
@@ -919,9 +853,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a részleges érvénytelenség behelyettesítéssel, nem relatív hatállyal működik. Az Mt. 29. § (3) bekezdése az érvénytelen rész helyébe a munkaviszonyra vonatkozó szabályt rendeli; ha a felek az érvénytelen rész nélkül nem kötöttek volna, a megállapodás egésze dől. Az (1) bekezdés a teljes megállapodás érvénytelenségénél a már létrejött jogviszony viselését szabályozza. A két szerkezet tehát különböző."
         }
-      ],
-      "sourceKerdesSorszam": 34,
-      "sourceHash": "f421f621854f"
+      ]
     },
     {
       "question": "A Ptk. 6:107. § (2) bekezdése szerinti érthetetlen kikötés és az Mt. 19. § (2) bekezdése szerinti értelmezhetetlen feltétel miben tér el egymástól a jogkövetkezményben?",
@@ -946,9 +878,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, az Mt. 31. § a Ptk. megjelölt szakaszait csak akkor rendeli megfelelően alkalmazni, ha az Mt. eltérően nem rendelkezik. Az Mt. 19. § a feltételre lex specialis; a 6:107. § a szolgáltatás lehetetlenségére és a nem feltételként kikötött érthetetlen vagy ellentmondó klauzulára marad. A speciális Mt.-szabály megelőzi a Ptk. megfelelő alkalmazását. A tévedés abból ered, hogy a 31. § utalóklauzuláját a 19. § feletti elsőbbségként olvassák."
         }
-      ],
-      "sourceKerdesSorszam": 35,
-      "sourceHash": "149d747530b5"
+      ]
     },
     {
       "question": "A munkavállaló a munkáltató azonnali hatályú felmondásának jogellenességét pereli. Milyen határidő és milyen hatály irányadó?",
@@ -973,9 +903,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a perindítás önmagában nem függeszti fel a megszüntetést. Az Mt. 287. § (5) bekezdése a keresetlevél benyújtásától — az (1) bekezdés c)–d) pontja kivételével — megtagadja a halasztó hatályt. A megszüntetés jogellenességének vitája nem tartozik a kivételek közé. A kötelezettségszegési jogkövetkezmény és a fizetési felszólítás a kivételes, halasztó hatályú kör."
         }
-      ],
-      "sourceKerdesSorszam": 36,
-      "sourceHash": "0cc8593e7c55"
+      ]
     },
     {
       "question": "A munkáltató a munkavállaló kötelezettségszegése miatt jogkövetkezményt alkalmaz. Milyen kereseti sajátosságok érvényesülnek?",
@@ -1000,9 +928,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, az elévülési időn belüli érvényesítés a (2) bekezdés munkavállalói megszüntetési köre. Az Mt. 287. § (1) bekezdése a kötelezettségszegési jogkövetkezményre a közléstől számított harminc napot ad; a (2) bekezdés a munkavállaló 40. § szerinti felmondásával és 78. § szerinti azonnali hatályú felmondásával kapcsolatos igényre szól. A tévedés a határidő-típusok összekeveréséből ered."
         }
-      ],
-      "sourceKerdesSorszam": 37,
-      "sourceHash": "e223f71c5969"
+      ]
     },
     {
       "question": "A 31. § utalóklauzulája mely Ptk.-szabályokat hívja, és mit hagy kívül a munkajogi kárfelelősségen?",
@@ -1027,9 +953,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a fogyasztói szakaszok kívül esnek a munkajogi utaláson. Az Mt. 31. § a 6:102. §-t hívja, nem a 6:103–6:104. § fogyasztói szabályait; a 6:102. § (5) bekezdése megtámadhatóságot ad. A munkajogi megtámadás alakja és határideje a 28. § szerint harminc napos, írásbeli közléshez kötött. A tévedés a fogyasztói semmisség ráírásából ered."
         }
-      ],
-      "sourceKerdesSorszam": 38,
-      "sourceHash": "6947786313fa"
+      ]
     },
     {
       "question": "A munkáltató oldalán felmerült okból érvénytelen a szerződés, a felek az okot elhárítják. Kell-e megszüntetni a jogviszonyt?",
@@ -1054,9 +978,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, az elhárítás a felszámolási kötelezettség feltételes előfeltétele. Az Mt. 29. § (1) bekezdése szerint a munkáltató a jogviszonyt haladéktalanul, azonnali hatállyal köteles megszüntetni, feltéve, hogy az érvénytelenség okát a felek nem hárítják el, és e törvény eltérően nem rendelkezik. Ha az okot elhárítják, a megszüntetési kötelezettség nem áll be. A relatív hatály a megszűnésig vagy az elhárításig a jogokat érvényes megállapodásként viseli."
         }
-      ],
-      "sourceKerdesSorszam": 39,
-      "sourceHash": "a8f046f386a9"
+      ]
     },
     {
       "question": "A közzététellel közölt munkáltatói jognyilatkozat mikor minősül írásbelinek?",
@@ -1081,9 +1003,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, a közzétételi írásbeliség taxatív. Az Mt. 22. § (2) bekezdés b) pontja csak a megjelölt joghelyeken — például a 9. § (2), a 108. § (1) vagy a 193. § (2) bekezdése szerinti esetekben — tekinti a helyben szokásos közzétételt írásbelinek. A puszta faliújság-közlés e listán kívül nem pótolja az írásbeliséget. A tévedés a taxatív lista kiterjesztéséből ered."
         }
-      ],
-      "sourceKerdesSorszam": 40,
-      "sourceHash": "5560cda5a447"
+      ]
     },
     {
       "question": "A munkavállaló a megállapodást azért támadja, mert a másik fél jogellenes fenyegetéssel vette rá a megkötésre. Mettől számít a határidő?",
@@ -1108,9 +1028,7 @@
           "isCorrect": false,
           "rationale": "HAMIS, az alakiság a fenyegetésnél is írásbeli. Az Mt. 28. § (8) bekezdése a megtámadásra irányuló jognyilatkozatot a (7) bekezdés szerinti határidőn belül írásban követeli a másik féllel közölni. A (4) bekezdés a megtámadhatóságot adja, de az alakot nem enyhíti. A tévedés a kényszerhelyzetnek az alaki kógencia alóli mentesítésként való olvasásából ered."
         }
-      ],
-      "sourceKerdesSorszam": 41,
-      "sourceHash": "a1fc69305391"
+      ]
     },
     {
       "question": "A 29. § (2) bekezdése szerinti kártalanítás és a 30. § szerinti kártérítés hogyan viszonyul egymáshoz?",
@@ -1135,9 +1053,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a kártalanítás a felmondási jogkövetkezményeket másolja. Az Mt. 29. § (2) bekezdése szerint a munkáltató annyi időre járó távolléti díjat köteles fizetni, amennyi felmondása esetén járna, és megfelelően alkalmazni kell a végkielégítés szabályait is, ha a munkaszerződés a munkáltató oldalán felmerült okból érvénytelen, és azt az (1) bekezdés alapján meg kell szüntetni. Ez nem a polgári jogi in integrum restitutio. A szankció a munkáltatói felmondás mintáját követi."
         }
-      ],
-      "sourceKerdesSorszam": 42,
-      "sourceHash": "038c8682d9b1"
+      ]
     },
     {
       "question": "A munkáltató képviselője túllépte a belső jogkörét, de a munkavállaló a körülményekből alappal következtethetett a jogosultságra. Hivatkozhat-e a munkáltató a túllépésre?",
@@ -1162,9 +1078,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a látszat önálló orvoslás. Az Mt. 20. § (3) bekezdése a jogosulatlan eljárást érvénytelennek minősíti, kivéve a jogkör gyakorlójának jóváhagyását; jóváhagyás hiányában is érvényes, ha a munkavállaló alappal következtethetett a jogosultságra. A belső szervezeti rend önmagában nem dönti el a kifelé ható érvényességet. A (2) bekezdés a joggyakorlás rendjét a jogszabályok keretei között engedi meghatározni."
         }
-      ],
-      "sourceKerdesSorszam": 43,
-      "sourceHash": "3f90d40f3eff"
+      ]
     },
     {
       "question": "A semmisség hivatalbóli észlelése mit jelent a munkaügyi perben, ha a fél más jogcímen perel?",
@@ -1189,9 +1103,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a hivatalbóli észlelés nem függ a fél semmisségi keresetétől. Az Mt. 27. § (3) bekezdése a semmisségre határidő nélküli hivatkozást és hivatalbóli észlelést ad; a munkaügyi perben ez azt is jelenti, hogy a bíróság a semmisségi okot akkor is vizsgálja, ha a fél csak más jogcímen perel. A megtámadhatóság ezzel szemben alakító jog, írásbeli közléshez kötve. A lex specialis más jogkövetkezménye a (3) bekezdés szerint a teljes érvénytelenséget elvonhatja."
         }
-      ],
-      "sourceKerdesSorszam": 44,
-      "sourceHash": "9c984ed3f71e"
+      ]
     },
     {
       "question": "A 19. § (3) bekezdése szerinti függő feltétel idején mi a felek kötelezettsége, és mi a vétkes okozás hatása?",
@@ -1216,9 +1128,7 @@
           "isCorrect": true,
           "rationale": "IGAZ, a (3) bekezdés a függő állapot magatartási korlátját adja. Az Mt. 19. § (3) bekezdése a függő feltétel idejére tartózkodási kötelezettséget és a vétkes okozás kizáró hatályát rendeli: a feltétel bekövetkezésére vagy meghiúsulására nem hivatkozhat, aki azt vétkesen maga okozta. Ez elválik a (2) bekezdés mellőzéses érvénytelenségétől. Az (1) bekezdés a munkavállaló hátrányára módosító vagy a munkaviszonyt megszüntető feltételt eleve tiltja."
         }
-      ],
-      "sourceKerdesSorszam": 45,
-      "sourceHash": "35cf89a06b8e"
+      ]
     }
   ]
 }
