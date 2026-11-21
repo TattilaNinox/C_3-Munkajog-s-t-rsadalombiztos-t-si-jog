@@ -1,8 +1,9 @@
 {
   "kategoria": "C/3 Munkajog és társadalombiztosítási jog",
-  "forras": "jogedu C/3_2 memoriapalota_allomasok htmlTartalom + allomasok.tartalom",
+  "forras": "jogedu memoriapalota_allomasok htmlTartalom + allomasok.tartalom",
   "utvonal": 56,
   "allomas": 1219,
+  "megjegyzes": "Az utvonal.html a htmlTartalom valtozatlan masolata. Az allomas tartalom valtozatlan.",
   "items": [
     {
       "sorszam": 1,
@@ -10,6 +11,9 @@
       "title": "1. Az Mt. bevezető rendelkezései és jelentőségük.",
       "htmlChars": 228922,
       "htmlSha256": "cb5ff6fd15f537e24a39d203dc3f04762d50f63d1a32e1cf75173af9272a6726",
+      "htmlFile": "memoriautvonal/01/utvonal.html",
+      "metaFile": "memoriautvonal/01/utvonal.meta.json",
+      "metaSha256": "64e8d20393ed45f81fc8c2c2ad900a9962b71d53f02a443b0629eaaa3a1c9476",
       "allomasok": [
         {
           "file": "memoriautvonal/01/allomasok/01.json",
@@ -499,6 +503,9 @@
       "title": "2. A munkaviszonnyal kapcsolatos jognyilatkozatok, a jognyilatkozatok (...)",
       "htmlChars": 169779,
       "htmlSha256": "0d3367475e1c73b5c63b10ac5dadc3eaec53b960d2cdd1b912569bb0330cedbc",
+      "htmlFile": "memoriautvonal/02/utvonal.html",
+      "metaFile": "memoriautvonal/02/utvonal.meta.json",
+      "metaSha256": "0ee18a1bab68d8e99003bee52c0a5922aeab69b9366e3e1b3ba4f1d9d485ba0b",
       "allomasok": [
         {
           "file": "memoriautvonal/02/allomasok/01.json",
@@ -988,6 +995,9 @@
       "title": "3. Az érvénytelenség.",
       "htmlChars": 30083,
       "htmlSha256": "8c45325ffd20e4db25e81aa112d4756e7ffc72f44bbe6443d19b7427ed4ad872",
+      "htmlFile": "memoriautvonal/03/utvonal.html",
+      "metaFile": "memoriautvonal/03/utvonal.meta.json",
+      "metaSha256": "c169dd82dfbd5072a0dc763d9062a75dfd5323a952c0872f1fe717c0e4f96868",
       "allomasok": [
         {
           "file": "memoriautvonal/03/allomasok/01.json",
@@ -1109,6 +1119,9 @@
       "title": "4. A munkaviszony alanyai. A cselekvőképtelen munkavállaló.",
       "htmlChars": 76295,
       "htmlSha256": "a8d9d3125f5f1bc055136c32a33aacce10cc7d5d9e1e526e5cee46270522eb0e",
+      "htmlFile": "memoriautvonal/04/utvonal.html",
+      "metaFile": "memoriautvonal/04/utvonal.meta.json",
+      "metaSha256": "6b654ac3e5b0060907c6db97d6a7848fa49adb8409bb914c3946350a2761fad6",
       "allomasok": [
         {
           "file": "memoriautvonal/04/allomasok/01.json",
@@ -1366,6 +1379,9 @@
       "title": "5. A munkáltató személyében bekövetkező változás.",
       "htmlChars": 53677,
       "htmlSha256": "657e0d8cc96ea6a5f8a1f128294fac3dee8654e872fe83f3a7dc29a6d671cb82",
+      "htmlFile": "memoriautvonal/05/utvonal.html",
+      "metaFile": "memoriautvonal/05/utvonal.meta.json",
+      "metaSha256": "1c030b22bcb40280b64d987a3569fd7be585b5dd3d0395b8df2d9e1aa6e81d00",
       "allomasok": [
         {
           "file": "memoriautvonal/05/allomasok/01.json",
@@ -1559,6 +1575,9 @@
       "title": "6. A munkaviszony létesítése, a munkaszerződés tartalma, a munkáltató (...)",
       "htmlChars": 88262,
       "htmlSha256": "0715853c071d0101d82bc4943dab8d26d726bb5674bed18fbc4af118366a5a0b",
+      "htmlFile": "memoriautvonal/06/utvonal.html",
+      "metaFile": "memoriautvonal/06/utvonal.meta.json",
+      "metaSha256": "dc3ba087da54d26d4bbb9fbbbd96bd9314d982b42363373a2cc5d34a8842bdd0",
       "allomasok": [
         {
           "file": "memoriautvonal/06/allomasok/01.json",
@@ -1856,6 +1875,9 @@
       "title": "7. A munkaviszony kezdete; a próbaidő jogi természete, rendeltetése, időtartama.",
       "htmlChars": 17442,
       "htmlSha256": "d78a56a479f230504c76e5bd812e53496dd4cfff49b32b9b37e2da35e6fd75fa",
+      "htmlFile": "memoriautvonal/07/utvonal.html",
+      "metaFile": "memoriautvonal/07/utvonal.meta.json",
+      "metaSha256": "5b92ed71f9ad72528a62c59dd54b4c1e6c2d9b6cc0debb169506f5444c936b0e",
       "allomasok": [
         {
           "file": "memoriautvonal/07/allomasok/01.json",
@@ -1929,6 +1951,9 @@
       "title": "8. A munkaszerződés teljesítése, alapvető kötelezettségek, a (...)",
       "htmlChars": 70195,
       "htmlSha256": "2c2599c9ae9c0b8b4dd5492317b21c6418f279c98ad2acdd21102e9d39602006",
+      "htmlFile": "memoriautvonal/08/utvonal.html",
+      "metaFile": "memoriautvonal/08/utvonal.meta.json",
+      "metaSha256": "d60373a93e29ed4322bd446a412199193aba06376511f1abdcd694d419b59e65",
       "allomasok": [
         {
           "file": "memoriautvonal/08/allomasok/01.json",
@@ -2138,6 +2163,9 @@
       "title": "9. Az utasítás teljesítésének megtagadása, mentesülés a munkavégzési (...)",
       "htmlChars": 31847,
       "htmlSha256": "7f713cd9ab5f3d7b94127d25403d11d61d86321b59fbb67f179926f9ca847577",
+      "htmlFile": "memoriautvonal/09/utvonal.html",
+      "metaFile": "memoriautvonal/09/utvonal.meta.json",
+      "metaSha256": "1fb0d1e321c357ab79bded1bd128cca3d91e8853495631747348589e89c627e7",
       "allomasok": [
         {
           "file": "memoriautvonal/09/allomasok/01.json",
@@ -2267,6 +2295,9 @@
       "title": "10. Jogkövetkezmények a munkavállaló vétkes kötelezettségszegéséért.",
       "htmlChars": 20899,
       "htmlSha256": "041c2d311ba35434e4cd704da471be38427ca191357fbbe63170cd24718a290f",
+      "htmlFile": "memoriautvonal/10/utvonal.html",
+      "metaFile": "memoriautvonal/10/utvonal.meta.json",
+      "metaSha256": "3a075519609917170320e303a65d65b8b650e30c4d2cef7b9cb3b9f70948b515",
       "allomasok": [
         {
           "file": "memoriautvonal/10/allomasok/01.json",
@@ -2356,6 +2387,9 @@
       "title": "11. A munkaszerződés módosítása.",
       "htmlChars": 39415,
       "htmlSha256": "c2276181805fc6c8be5ac6f564c4c9ac60bcba3c0719547928d3b3acca6a6a21",
+      "htmlFile": "memoriautvonal/11/utvonal.html",
+      "metaFile": "memoriautvonal/11/utvonal.meta.json",
+      "metaSha256": "9c5defa1aecdf8a48a866612d8aaba79d29f8a64b0bf609928d4a4dad522490e",
       "allomasok": [
         {
           "file": "memoriautvonal/11/allomasok/01.json",
@@ -2469,6 +2503,9 @@
       "title": "12. A munkaviszony megszűnése és megszüntetése.",
       "htmlChars": 33192,
       "htmlSha256": "11d2e3a6295aa8c5b37e3baea63c0b67ec467e1ffee3dabeae8222309c035626",
+      "htmlFile": "memoriautvonal/12/utvonal.html",
+      "metaFile": "memoriautvonal/12/utvonal.meta.json",
+      "metaSha256": "ce60dc2a336be937c368dae436652d381bfe1cd5facd04165d26307640375f40",
       "allomasok": [
         {
           "file": "memoriautvonal/12/allomasok/01.json",
@@ -2598,6 +2635,9 @@
       "title": "13. A felmondás, a munkavállalói, illetve a munkáltatói felmondás szabályai (...)",
       "htmlChars": 39922,
       "htmlSha256": "ca8383f85971fc5df6b73ebea8970b9e1f257aa29b983978ccb0a0c9269a6d40",
+      "htmlFile": "memoriautvonal/13/utvonal.html",
+      "metaFile": "memoriautvonal/13/utvonal.meta.json",
+      "metaSha256": "db1d56fbfc3b067e3ed3ec5dc90975406d6ef10d50fc3d63d17bdb774eb0013d",
       "allomasok": [
         {
           "file": "memoriautvonal/13/allomasok/01.json",
@@ -2743,6 +2783,9 @@
       "title": "14. A felmondási tilalmak és a felmondási korlátozások, a felmondási idő (...)",
       "htmlChars": 32436,
       "htmlSha256": "c4fa4ea98bae1b61c68cc3e24f803c9ba5452f64c95ecdf20560e1dd8584c826",
+      "htmlFile": "memoriautvonal/14/utvonal.html",
+      "metaFile": "memoriautvonal/14/utvonal.meta.json",
+      "metaSha256": "9c4146bc14837434f7ea3265070d3a9e30da5b6a3466a1509bad5b81ad9a48a1",
       "allomasok": [
         {
           "file": "memoriautvonal/14/allomasok/01.json",
@@ -2880,6 +2923,9 @@
       "title": "15. A csoportos létszámcsökkentésre vonatkozó főbb szabályok.",
       "htmlChars": 27083,
       "htmlSha256": "722e07f6e1fd6489cd3dcd4af244b321cafe321f170e98775ecb7e71b1b47286",
+      "htmlFile": "memoriautvonal/15/utvonal.html",
+      "metaFile": "memoriautvonal/15/utvonal.meta.json",
+      "metaSha256": "9e5da1ca4ca73d0cf46d1610d611f869a1c31943e6e281a76a618c4de7f5654f",
       "allomasok": [
         {
           "file": "memoriautvonal/15/allomasok/01.json",
@@ -2977,6 +3023,9 @@
       "title": "16. A végkielégítés.",
       "htmlChars": 25126,
       "htmlSha256": "2dcb2aa30705bee79ed7a177276ac56fe6e381d3d28a54dca8a936fefdcaaaec",
+      "htmlFile": "memoriautvonal/16/utvonal.html",
+      "metaFile": "memoriautvonal/16/utvonal.meta.json",
+      "metaSha256": "fd0a6ee526899281e90a33bdfffa42f8ea2ca9079d408d1c40903a07dc76cc05",
       "allomasok": [
         {
           "file": "memoriautvonal/16/allomasok/01.json",
@@ -3082,6 +3131,9 @@
       "title": "17. Az azonnali hatályú felmondás feltételei, fajtái.",
       "htmlChars": 16767,
       "htmlSha256": "e5f9b932a7aec08a30a08db294d563cd0fd0afefb477d6df722e5851443155cc",
+      "htmlFile": "memoriautvonal/17/utvonal.html",
+      "metaFile": "memoriautvonal/17/utvonal.meta.json",
+      "metaSha256": "a9ad1a51ca88cf3b69f1764fc043f70346dd4e86e5dbe21566d59c3049cf8200",
       "allomasok": [
         {
           "file": "memoriautvonal/17/allomasok/01.json",
@@ -3163,6 +3215,9 @@
       "title": "18. Eljárás a munkaviszony megszüntetése (megszűnése) esetén.",
       "htmlChars": 16886,
       "htmlSha256": "1f58c21465a54857f139ea27470721046a6d9181773c5f7266d915d9e4802551",
+      "htmlFile": "memoriautvonal/18/utvonal.html",
+      "metaFile": "memoriautvonal/18/utvonal.meta.json",
+      "metaSha256": "74eb67d1fd86fc2cf910275ed4582c3c5fc716cae641e3cd1bf7c5617cb671e7",
       "allomasok": [
         {
           "file": "memoriautvonal/18/allomasok/01.json",
@@ -3244,6 +3299,9 @@
       "title": "19. A munkaviszony jogellenes megszüntetése és jogkövetkezményei.",
       "htmlChars": 26064,
       "htmlSha256": "4fce9653571d18b1bd3b850a8afbac530eb93e474d934be6d65bd16ab71cea77",
+      "htmlFile": "memoriautvonal/19/utvonal.html",
+      "metaFile": "memoriautvonal/19/utvonal.meta.json",
+      "metaSha256": "ce68eae68e7ce45747c857100e6bc3b11c36ac0c09cd67a71f7c50dbb554e41d",
       "allomasok": [
         {
           "file": "memoriautvonal/19/allomasok/01.json",
@@ -3365,6 +3423,9 @@
       "title": "20. A munka- és pihenőidő fogalmai, a napi munkaidőre, a munkaidőkeretre és (...)",
       "htmlChars": 58399,
       "htmlSha256": "954c047ed2aecabead39a6da0b185932b4e6d0b6606fcb92abe1e65167f417d1",
+      "htmlFile": "memoriautvonal/20/utvonal.html",
+      "metaFile": "memoriautvonal/20/utvonal.meta.json",
+      "metaSha256": "e5defe185e30fdce8cbf828497e4729d71767b620ad07e3a9aa2ed8989dffbbe",
       "allomasok": [
         {
           "file": "memoriautvonal/20/allomasok/01.json",
@@ -3574,6 +3635,9 @@
       "title": "21. A munkaidő vasárnapra vagy munkaszüneti napra történő beosztása. A (...)",
       "htmlChars": 29945,
       "htmlSha256": "d02f75cbed692414eaef2908cabd8f5c2149fd0f80538f485995e9e4f64b3503",
+      "htmlFile": "memoriautvonal/21/utvonal.html",
+      "metaFile": "memoriautvonal/21/utvonal.meta.json",
+      "metaSha256": "7475015eaff297c91f73dd4da360b8bd2d0a55e151e8f2f049ab347d943c8561",
       "allomasok": [
         {
           "file": "memoriautvonal/21/allomasok/01.json",
@@ -3687,6 +3751,9 @@
       "title": "22. A napi és a heti pihenőidőre, illetve a heti pihenőnapra vonatkozó (...)",
       "htmlChars": 32507,
       "htmlSha256": "fb47b1be85230ce14f64511592d6e90d19d776b2005cbd5487480fd325b5a0c5",
+      "htmlFile": "memoriautvonal/22/utvonal.html",
+      "metaFile": "memoriautvonal/22/utvonal.meta.json",
+      "metaSha256": "a3f172cff2d8571b16a479e5c0e96ec3da409b1de2647c36fc9d08374269bb59",
       "allomasok": [
         {
           "file": "memoriautvonal/22/allomasok/01.json",
@@ -3800,6 +3867,9 @@
       "title": "23. A rendkívüli munkaidő fogalma, elrendelése és elrendelésének korlátai (...)",
       "htmlChars": 40620,
       "htmlSha256": "e7123b17b354fdd25447ba8a78775789a2f2d8fc0c8d85ff1bad0fc09b911f51",
+      "htmlFile": "memoriautvonal/23/utvonal.html",
+      "metaFile": "memoriautvonal/23/utvonal.meta.json",
+      "metaSha256": "70bf9b7df297317a97d3d8ceb8565c23aa05a5ac337dc4028f13274f7b04ba7b",
       "allomasok": [
         {
           "file": "memoriautvonal/23/allomasok/01.json",
@@ -3953,6 +4023,9 @@
       "title": "24. A szabadság (alap- és pótszabadság) mértéke, kiadása, az apasági (...)",
       "htmlChars": 75085,
       "htmlSha256": "6149f259873dfe5ce2a7756615336047269c1b1f97382a06b92b398fb4c44028",
+      "htmlFile": "memoriautvonal/24/utvonal.html",
+      "metaFile": "memoriautvonal/24/utvonal.meta.json",
+      "metaSha256": "53b8cb2299e6be29475761e9b6bfb30ddb9554ee117bd52610df724717923b96",
       "allomasok": [
         {
           "file": "memoriautvonal/24/allomasok/01.json",
@@ -4226,6 +4299,9 @@
       "title": "25. A betegszabadság, a szülési szabadság és a fizetés nélküli szabadság, a (...)",
       "htmlChars": 83734,
       "htmlSha256": "b83db8475cd45283bfbb7b4da793bae0adba7c5fef81271bf536d078604d2565",
+      "htmlFile": "memoriautvonal/25/utvonal.html",
+      "metaFile": "memoriautvonal/25/utvonal.meta.json",
+      "metaSha256": "4a513f5635966cf9b06bd882db56ed540d7687b03feb870bb3ec3e04f38487b1",
       "allomasok": [
         {
           "file": "memoriautvonal/25/allomasok/01.json",
@@ -4515,6 +4591,9 @@
       "title": "26. A munka díjazása, díjazás munkavégzés hiányában, a távolléti díj számítása.",
       "htmlChars": 44707,
       "htmlSha256": "4353caa1da08b7f759f71238c612c32f4af5e2e5ead23480a62641bc08192ffa",
+      "htmlFile": "memoriautvonal/26/utvonal.html",
+      "metaFile": "memoriautvonal/26/utvonal.meta.json",
+      "metaSha256": "f19b501aaa863e48bd2287ca9e9d305a701856ba70f7d73798f3801fc0ed7592",
       "allomasok": [
         {
           "file": "memoriautvonal/26/allomasok/01.json",
@@ -4684,6 +4763,9 @@
       "title": "27. A munkabér védelme, a munkabérből való levonás szabályai, a jogalap (...)",
       "htmlChars": 109729,
       "htmlSha256": "e4d0e0d4c4c751156f8f24b21141f88e94653c16f40f073696f7fc17ecf2b4cd",
+      "htmlFile": "memoriautvonal/27/utvonal.html",
+      "metaFile": "memoriautvonal/27/utvonal.meta.json",
+      "metaSha256": "55b5b896687b1420ec9cc956046ab90743c16784a99f8928f5ff00d9d82c1ee8",
       "allomasok": [
         {
           "file": "memoriautvonal/27/allomasok/01.json",
@@ -5085,6 +5167,9 @@
       "title": "28. A munkáltató kártérítési felelőssége.",
       "htmlChars": 52600,
       "htmlSha256": "ee7b0fb2a984071d8b949ce89421cf874a31e2de71e7db1d19ced2abbd9b30d9",
+      "htmlFile": "memoriautvonal/28/utvonal.html",
+      "metaFile": "memoriautvonal/28/utvonal.meta.json",
+      "metaSha256": "6496c5059a1c00a0b98009c0594eb242272b0c3b80fc91ba8e72f34da25836a9",
       "allomasok": [
         {
           "file": "memoriautvonal/28/allomasok/01.json",
@@ -5302,6 +5387,9 @@
       "title": "29. A munkavállaló kártérítési felelőssége, a megőrzési felelősség, a (...)",
       "htmlChars": 66466,
       "htmlSha256": "ac963f8c99afd7e4141a08b01b2ef629582a7da1ee3941b8f74cc17ffebdec9a",
+      "htmlFile": "memoriautvonal/29/utvonal.html",
+      "metaFile": "memoriautvonal/29/utvonal.meta.json",
+      "metaSha256": "d3ca4da79c6e66fb041b752429154b41a20c52bf80698a24885e4ee43d37bb82",
       "allomasok": [
         {
           "file": "memoriautvonal/29/allomasok/01.json",
@@ -5511,6 +5599,9 @@
       "title": "30. A határozott idejű munkaviszonyra vonatkozó különös szabályok (...)",
       "htmlChars": 26895,
       "htmlSha256": "fd1d983acce60579614020ce2b63ba068fd47cd7a192008180c2d2d864bec635",
+      "htmlFile": "memoriautvonal/30/utvonal.html",
+      "metaFile": "memoriautvonal/30/utvonal.meta.json",
+      "metaSha256": "bd57f84784932f4b32055a3c31de77806430b6099e184bed50a78618628306d1",
       "allomasok": [
         {
           "file": "memoriautvonal/30/allomasok/01.json",
@@ -5608,6 +5699,9 @@
       "title": "31. A munkakör megosztása, több munkáltató által létesített munkaviszony, a (...)",
       "htmlChars": 23748,
       "htmlSha256": "defd26ed7241a6ae74b36052de4dbd82af670c2236f0a66d7d2b6ee18d55e776",
+      "htmlFile": "memoriautvonal/31/utvonal.html",
+      "metaFile": "memoriautvonal/31/utvonal.meta.json",
+      "metaSha256": "4685370f3c74ec0ba8bef771b67fab4507c49eca9b9f55319e54fd980ff9bd85",
       "allomasok": [
         {
           "file": "memoriautvonal/31/allomasok/01.json",
@@ -5697,6 +5791,9 @@
       "title": "32. A bedolgozói jogviszony és az egyszerűsített foglalkoztatásra vagy (...)",
       "htmlChars": 63546,
       "htmlSha256": "6b78c90a5250b6d146e4540ef7901ca2858a40edaf76dfb0f8ca3f34cbb3c207",
+      "htmlFile": "memoriautvonal/32/utvonal.html",
+      "metaFile": "memoriautvonal/32/utvonal.meta.json",
+      "metaSha256": "fce02b2e1c8df0be02f6b56f5ff07f211bb551da56d94f23f8207c83b1194060",
       "allomasok": [
         {
           "file": "memoriautvonal/32/allomasok/01.json",
@@ -5914,6 +6011,9 @@
       "title": "33. A köztulajdonban álló munkáltatóval fennálló munkaviszonyra vonatkozó (...)",
       "htmlChars": 31439,
       "htmlSha256": "e33efbdaf9a3da4fbaa190a74b501b50585473d430fca5de00d367ffcdbdcafb",
+      "htmlFile": "memoriautvonal/33/utvonal.html",
+      "metaFile": "memoriautvonal/33/utvonal.meta.json",
+      "metaSha256": "3150908cb3c382609d951cb7943f347077ed323f83835b40ef863616e75edf23",
       "allomasok": [
         {
           "file": "memoriautvonal/33/allomasok/01.json",
@@ -6011,6 +6111,9 @@
       "title": "34. A vezető állású munkavállalóra vonatkozó rendelkezések.",
       "htmlChars": 21794,
       "htmlSha256": "ca712ba63d9a496a844a2751c43445e7787ca39cb5ae37f95addd6d692d8bb00",
+      "htmlFile": "memoriautvonal/34/utvonal.html",
+      "metaFile": "memoriautvonal/34/utvonal.meta.json",
+      "metaSha256": "565080ef23a015c333c103581de4d08f57ddc4b8807d5baa5f19462f2f00392b",
       "allomasok": [
         {
           "file": "memoriautvonal/34/allomasok/01.json",
@@ -6092,6 +6195,9 @@
       "title": "35. A munkaerő-kölcsönzésre vonatkozó legfontosabb rendelkezések.",
       "htmlChars": 103669,
       "htmlSha256": "342b8972837a799d75e1a71a0ddd0a762f38bfeb16abff17424593f15d37ca19",
+      "htmlFile": "memoriautvonal/35/utvonal.html",
+      "metaFile": "memoriautvonal/35/utvonal.meta.json",
+      "metaSha256": "59718add28f503cd978819e598515a032731fa8a36390639105424dfb41d5725",
       "allomasok": [
         {
           "file": "memoriautvonal/35/allomasok/01.json",
@@ -6397,6 +6503,9 @@
       "title": "36. A munkaviszonyhoz kapcsolódó egyes megállapodások: a versenytilalmi (...)",
       "htmlChars": 31638,
       "htmlSha256": "ad81525534510a0d0b47a9e138696671d7defb062c4bfe772d13691fc988c257",
+      "htmlFile": "memoriautvonal/36/utvonal.html",
+      "metaFile": "memoriautvonal/36/utvonal.meta.json",
+      "metaSha256": "9bb032658f65f9457a3406fec696d3f16d4a7ecdbf766c79355b0ca81dd51997",
       "allomasok": [
         {
           "file": "memoriautvonal/36/allomasok/01.json",
@@ -6526,6 +6635,9 @@
       "title": "37. A kollektív szerződés megkötése és tartalma, hatálya, megszűnése.",
       "htmlChars": 57841,
       "htmlSha256": "18d72724833e71fa319676ad11fb252eec6b8ef95477ae891ae447877b21fb45",
+      "htmlFile": "memoriautvonal/37/utvonal.html",
+      "metaFile": "memoriautvonal/37/utvonal.meta.json",
+      "metaSha256": "bd995f1826dd5a4cf7a9d5c3df2fa1cb408ef984d27bb8a2572d805f6dc44f95",
       "allomasok": [
         {
           "file": "memoriautvonal/37/allomasok/01.json",
@@ -6727,6 +6839,9 @@
       "title": "38. A munkajogi igény érvényesítésének szabályai.",
       "htmlChars": 108929,
       "htmlSha256": "7fc9c83c905a1c7105feaaf671817c181a8886e37d17a5da47b07def679fdbca",
+      "htmlFile": "memoriautvonal/38/utvonal.html",
+      "metaFile": "memoriautvonal/38/utvonal.meta.json",
+      "metaSha256": "784fa758a31f1e3cbc2e9542f661199ce8ab90c311398a649cf35ee845801c10",
       "allomasok": [
         {
           "file": "memoriautvonal/38/allomasok/01.json",
@@ -7080,6 +7195,9 @@
       "title": "39. Kollektív munkaügyi vita.",
       "htmlChars": 37269,
       "htmlSha256": "686b1b07266283e75fbbe4cbc227f6b27f3bd18eb7b3db25d72e22a39295f81c",
+      "htmlFile": "memoriautvonal/39/utvonal.html",
+      "metaFile": "memoriautvonal/39/utvonal.meta.json",
+      "metaSha256": "018f8c375f59ada15d62b202ba9b722bc807ebf1fdf69a7651db948abf474e20",
       "allomasok": [
         {
           "file": "memoriautvonal/39/allomasok/01.json",
@@ -7225,6 +7343,9 @@
       "title": "40. A sztrájkhoz való jog a sztrájkról szóló 1989. évi VII. törvény (...)",
       "htmlChars": 28293,
       "htmlSha256": "3bd6bf795e3fd8213d214092212e1f2761bb09a180e3a2613e1b8b36b52ace9d",
+      "htmlFile": "memoriautvonal/40/utvonal.html",
+      "metaFile": "memoriautvonal/40/utvonal.meta.json",
+      "metaSha256": "680402e8067dc4eb9b720601040893b95c096dddbf187b46b06a56e58d2c2813",
       "allomasok": [
         {
           "file": "memoriautvonal/40/allomasok/01.json",
@@ -7338,6 +7459,9 @@
       "title": "41. A rendezett munkaügyi kapcsolatok követelménye",
       "htmlChars": 24098,
       "htmlSha256": "300df855f0fce5fc8b1ea4178f4d3235a89cea7e533dbe04f04276b6ab515692",
+      "htmlFile": "memoriautvonal/41/utvonal.html",
+      "metaFile": "memoriautvonal/41/utvonal.meta.json",
+      "metaSha256": "43bd71c51a169f5610cddb0da2a72566aa924bd9324ec362ed1f5961e0a2d742",
       "allomasok": [
         {
           "file": "memoriautvonal/41/allomasok/01.json",
@@ -7419,6 +7543,9 @@
       "title": "42. A Kit. hatálya, a központosított álláshelyállomány és az álláshely fogalma.",
       "htmlChars": 52456,
       "htmlSha256": "68c58a690df110337e57aa1edce3c877649ca3bc89c6701d8bb105bb63e4ed9e",
+      "htmlFile": "memoriautvonal/42/utvonal.html",
+      "metaFile": "memoriautvonal/42/utvonal.meta.json",
+      "metaSha256": "7bb48e0188a14bb40baee0cb0992f97a174e9de2abfe1b3b51ce69709247b09d",
       "allomasok": [
         {
           "file": "memoriautvonal/42/allomasok/01.json",
@@ -7564,6 +7691,9 @@
       "title": "43. A Kit. szerinti kormányzati szolgálati jogviszony és annak alanyai (...)",
       "htmlChars": 52889,
       "htmlSha256": "bab094ed6fddbcc30b7e895778427b28907009826b3fe16023e41f28e2055f5f",
+      "htmlFile": "memoriautvonal/43/utvonal.html",
+      "metaFile": "memoriautvonal/43/utvonal.meta.json",
+      "metaSha256": "5bce48e58f1a7bd9bdb99d06d256e4ff7b6d0c5ce89b924d16a761bc1c380d1e",
       "allomasok": [
         {
           "file": "memoriautvonal/43/allomasok/01.json",
@@ -7693,6 +7823,9 @@
       "title": "44. A Kit. szerinti kormányzati szolgálati jogviszony megszűnésére és (...)",
       "htmlChars": 69311,
       "htmlSha256": "99357834cc1541443349ebdfd08950adad871e7d14e3ef618992fc57db95b288",
+      "htmlFile": "memoriautvonal/44/utvonal.html",
+      "metaFile": "memoriautvonal/44/utvonal.meta.json",
+      "metaSha256": "69452e524e0b2b84720cf1be308d25f07e319af62b8ca0575a60c58451c12c9b",
       "allomasok": [
         {
           "file": "memoriautvonal/44/allomasok/01.json",
@@ -7854,6 +7987,9 @@
       "title": "45. A kormányzati szolgálati jogviszony tartalma, jogok és kötelezettségek.",
       "htmlChars": 38169,
       "htmlSha256": "6f6dde71586bdf0de2d38344165c4c5c4dbb809dcea3dc480d576b8ef44db0f6",
+      "htmlFile": "memoriautvonal/45/utvonal.html",
+      "metaFile": "memoriautvonal/45/utvonal.meta.json",
+      "metaSha256": "f7df15c26f35224b39ebe230736e54e94bb8f2bdda4620f55790a1afb0cf215a",
       "allomasok": [
         {
           "file": "memoriautvonal/45/allomasok/01.json",
@@ -7951,6 +8087,9 @@
       "title": "46. A Magyar Kormánytisztviselői Kar jogköre és az érdekegyeztetés",
       "htmlChars": 41849,
       "htmlSha256": "c57008f2e4ce9422fc3275a4293b627e7c6e9d579923b76325a1ca8e89d3f911",
+      "htmlFile": "memoriautvonal/46/utvonal.html",
+      "metaFile": "memoriautvonal/46/utvonal.meta.json",
+      "metaSha256": "fe71673a546a3a13dfd6246fde25ebf22e1556a6ff6a16d2b08c49fd19cc258a",
       "allomasok": [
         {
           "file": "memoriautvonal/46/allomasok/01.json",
@@ -8064,6 +8203,9 @@
       "title": "47. A bizalomvesztés, a méltatlanság és a fegyelmi eljárás, a kártérítés (Kttv.)",
       "htmlChars": 82191,
       "htmlSha256": "889befc205c1098fc1a1abd73f48772f6742623e2764de93cb6b4f50beebce90",
+      "htmlFile": "memoriautvonal/47/utvonal.html",
+      "metaFile": "memoriautvonal/47/utvonal.meta.json",
+      "metaSha256": "d22a46b4b3bc0b4fb26a879592c538d9585349edf601c0ad2a1c543a43f8d452",
       "allomasok": [
         {
           "file": "memoriautvonal/47/allomasok/01.json",
@@ -8361,6 +8503,9 @@
       "title": "48. Az érdemtelenség és a fegyelmi eljárás, a Közszolgálati Döntőbizottság (...)",
       "htmlChars": 109603,
       "htmlSha256": "3385b7524d63e97da793ec3d634c0567057f3c52c5fab13a37a6a877c340e5e2",
+      "htmlFile": "memoriautvonal/48/utvonal.html",
+      "metaFile": "memoriautvonal/48/utvonal.meta.json",
+      "metaSha256": "3a33966675ae8a823c27d8599f9958fed60ba3b233af58a0d310d9440e71747e",
       "allomasok": [
         {
           "file": "memoriautvonal/48/allomasok/01.json",
@@ -8706,6 +8851,9 @@
       "title": "49. A Kttv. hatálya. a Kttv. szerinti kormányzati szolgálati jogviszony (...)",
       "htmlChars": 17411,
       "htmlSha256": "8772634c7e0a6a7ced1fbc165929ae3eb6ca113c2689d9c03a00b021b1a86e11",
+      "htmlFile": "memoriautvonal/49/utvonal.html",
+      "metaFile": "memoriautvonal/49/utvonal.meta.json",
+      "metaSha256": "671c2686bdeeaf01d4063f468ae8284d06b24f98d778040044f99ec78a58fa1d",
       "allomasok": [
         {
           "file": "memoriautvonal/49/allomasok/01.json",
@@ -8779,6 +8927,9 @@
       "title": "50. A közalkalmazotti jogviszonyra vonatkozó szabályok, a közalkalmazotti (...)",
       "htmlChars": 87915,
       "htmlSha256": "bcd29a2063918c589ee162a5c0a38202dfa246194eb025551dfe8f1e59eaa134",
+      "htmlFile": "memoriautvonal/50/utvonal.html",
+      "metaFile": "memoriautvonal/50/utvonal.meta.json",
+      "metaSha256": "4fa2de7ccf02f8ddcd9f7cfbf0d1f147609c0e9969af2a0f2e81b93d55bc063a",
       "allomasok": [
         {
           "file": "memoriautvonal/50/allomasok/01.json",
@@ -9004,6 +9155,9 @@
       "title": "51. A kártérítési felelősségre vonatkozó főbb rendelkezések a (...)",
       "htmlChars": 7910,
       "htmlSha256": "1f7741bcf0f4f32ee966fd5f84ded315675f6c018d438b81df8a2f3d78564307",
+      "htmlFile": "memoriautvonal/51/utvonal.html",
+      "metaFile": "memoriautvonal/51/utvonal.meta.json",
+      "metaSha256": "58c91fa8d08309e11aefba78a6c59658f2c892938b1c9cc6c87d6f70206c83c1",
       "allomasok": [
         {
           "file": "memoriautvonal/51/allomasok/01.json",
@@ -9053,6 +9207,9 @@
       "title": "52. A közszolgálati jog fogalma, annak a magánmunkajogtól való (...)",
       "htmlChars": 42757,
       "htmlSha256": "3de0f588f381ee1bce47d0657de4461745553fa8ed1500ec442c7af6f1d2b584",
+      "htmlFile": "memoriautvonal/52/utvonal.html",
+      "metaFile": "memoriautvonal/52/utvonal.meta.json",
+      "metaSha256": "881afb79cfa9a905fe194a4d334f5206bb61ab9737607212e67f52ce79b75689",
       "allomasok": [
         {
           "file": "memoriautvonal/52/allomasok/01.json",
@@ -9198,6 +9355,9 @@
       "title": "53. A törvény célja, alapelvek, fontosabb fogalmak és értelmező rendelkezések.",
       "htmlChars": 37061,
       "htmlSha256": "72a0902efee07e2869453fa6ec6e9f445ed7bb240bfadd7e321bc8985d382af3",
+      "htmlFile": "memoriautvonal/53/utvonal.html",
+      "metaFile": "memoriautvonal/53/utvonal.meta.json",
+      "metaSha256": "5fb27cf1e9e550d3ad702bc452dc26cac90616c36858b3692bdd77760650f2f1",
       "allomasok": [
         {
           "file": "memoriautvonal/53/allomasok/01.json",
@@ -9311,6 +9471,9 @@
       "title": "54. A társadalombiztosítás ellátásai és az ellátásra jogosultak.",
       "htmlChars": 167763,
       "htmlSha256": "b8d62faa96d38df9f32bf773aa84c0bab543d02ef4373f0c413578404804b0d2",
+      "htmlFile": "memoriautvonal/54/utvonal.html",
+      "metaFile": "memoriautvonal/54/utvonal.meta.json",
+      "metaSha256": "27375647626105e6998a565594199da41db86f71834850f2830a5ca0e378428f",
       "allomasok": [
         {
           "file": "memoriautvonal/54/allomasok/01.json",
@@ -9768,6 +9931,9 @@
       "title": "55. A járulékfizetésre vonatkozó általános szabályok, megállapodás (...)",
       "htmlChars": 92906,
       "htmlSha256": "5a0b0dda59b0af4bd53c6dd650ae2d05cb234bf47d192e395f0650136b2446ea",
+      "htmlFile": "memoriautvonal/55/utvonal.html",
+      "metaFile": "memoriautvonal/55/utvonal.meta.json",
+      "metaSha256": "f1bf31523f1ed8d55cb839ebb8a979f69dd650ee37e578d520a1639e7c38a9cb",
       "allomasok": [
         {
           "file": "memoriautvonal/55/allomasok/01.json",
@@ -10033,6 +10199,9 @@
       "title": "56. Késedelem, mulasztás következményei, valamint az ellátásokhoz (...)",
       "htmlChars": 64277,
       "htmlSha256": "677d67010a45acee95a1529fbff30069ae12f300c4ca1371b4c03f3082136ba0",
+      "htmlFile": "memoriautvonal/56/utvonal.html",
+      "metaFile": "memoriautvonal/56/utvonal.meta.json",
+      "metaSha256": "3ca090182d17cab53321caea93ab22883ad123641e79a6600fa8c9605a62c955",
       "allomasok": [
         {
           "file": "memoriautvonal/56/allomasok/01.json",
