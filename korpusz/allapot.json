@@ -1,0 +1,725 @@
+{
+ "sema": 1,
+ "cim": "C/3 – Munkajog és társadalombiztosítási jog",
+ "jogallapot": "2026-12-09",
+ "ellenorizve": "2026-11-19",
+ "modszer": "A friss források a 2026-11-19-i központi összevetésből: Attila letöltése (net.jogtar.hu, mentett oldal) → átalakítás a korpusz szokása szerint → szakaszonkénti (20-as csoportokban mért) ujjlenyomat-összevetés a 2026.12.09-én hatályos időállapottal (tools/hatalyossag.py + tools/hatalyossag/osszevet.js); csak az került a korpuszba, ahol az eltérő csoportok száma 0 (ALLAPOT.md „S2 – korpuszcsere”, korpusz/manifest.json hatalyossag mezői). Az Art. a 2027.01.01-i időállapot (Attila döntése, 2026-11-19 18:00). Az allapot.json 2026-11-21-én, kizárólag a tárolóbeli bizonyítékból készült; új összevetés nem volt.",
+ "forrasok": [
+  {
+   "kod": "Korm102_1995",
+   "nev": "102/1995. (VIII. 25.) Korm. rendelet a keresőképtelenség és keresőképesség orvosi elbírálásáról és annak ellenőrzéséről",
+   "fajl": "102_1995. (VIII. 25.) Korm. rendelet a keresőképtelenség és keresőképesség orvosi elbírálásáról és annak ellenőrzéséről - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": "2026.10.28. –",
+   "allapot": "friss",
+   "megjegyzes": "2026-11-19: cserélve a 2026. december 9-én hatályos időállapotra (Attila letöltése; szakaszonként visszaellenőrizve). A Storage-ba még feltöltendő. Bizonyíték: korpusz/manifest.json (hatalyossag.allapot: friss, jogallapot 2026-12-09, ellenorizve 2026-11-19); ALLAPOT.md „S2 – korpuszcsere” szakasz.",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=99500102.kor",
+   "elteres": []
+  },
+  {
+   "kod": "NGM10_2025",
+   "nev": "10/2025. (IV. 30.) NGM rendelet a 2026. évi munkaszüneti napok körüli munkarendről",
+   "fajl": "10_2025. (IV. 30.) NGM rendelet a 2026. évi munkaszüneti napok körüli munkarendről - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": "2026.11.14. – 2026.12.31.",
+   "allapot": "friss",
+   "megjegyzes": "2026-11-19: új – a kiírásban megnevezett, hatályon kívül helyezett 15/2023. (VII. 13.) GFM rendelet helyébe lépett jogszabály (Attila döntése, 2026-11-19 18:44); net.jogtar.hu, szakaszonként visszaellenőrizve. A Storage-ba még feltöltendő. Bizonyíték: korpusz/manifest.json (hatalyossag.allapot: friss, jogallapot 2026-12-09, ellenorizve 2026-11-19); ALLAPOT.md „S2 – korpuszcsere” szakasz.",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a2500010.ngm",
+   "elteres": []
+  },
+  {
+   "kod": "Fhr",
+   "nev": "115/2021. (III. 10.) Korm. rendelet a foglalkoztatás-felügyeleti hatóság tevékenységéről",
+   "fajl": "115_2021. (III. 10.) Korm. rendelet a foglalkoztatás-felügyeleti hatóság tevékenységéről - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": "2026.01.04. –",
+   "allapot": "friss",
+   "megjegyzes": "2026-11-19: cserélve a 2026. december 9-én hatályos időállapotra (Attila letöltése; szakaszonként visszaellenőrizve). A Storage-ba még feltöltendő. Bizonyíték: korpusz/manifest.json (hatalyossag.allapot: friss, jogallapot 2026-12-09, ellenorizve 2026-11-19); ALLAPOT.md „S2 – korpuszcsere” szakasz.",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a2100115.kor",
+   "elteres": []
+  },
+  {
+   "kod": "Korm118_2001",
+   "nev": "118/2001. (VI. 30.) Korm. rendelet a munkaerő-kölcsönzési és a magán-munkaközvetítői tevékenység nyilvántartásba vételéről és folytatásának feltételeiről",
+   "fajl": "118_2001. (VI. 30.) Korm. rendelet a munkaerő-kölcsönzési és a magán-munkaközvetítői tevékenység nyilvántartásba vételéről és folytatásának feltételeiről - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": "2024.10.15. –",
+   "allapot": "friss",
+   "megjegyzes": "2026-11-19: cserélve a 2026. december 9-én hatályos időállapotra (Attila letöltése; szakaszonként visszaellenőrizve). A Storage-ba még feltöltendő. Bizonyíték: korpusz/manifest.json (hatalyossag.allapot: friss, jogallapot 2026-12-09, ellenorizve 2026-11-19); ALLAPOT.md „S2 – korpuszcsere” szakasz.",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a0100118.kor",
+   "elteres": []
+  },
+  {
+   "kod": "Hjkr",
+   "nev": "137/2024. (VI. 28.) Korm. rendelet a honvédek jogállásáról",
+   "fajl": "137_2024. (VI. 28.) Korm. rendelet a honvédek jogállásáról - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": "2026.07.18. –",
+   "allapot": "friss",
+   "megjegyzes": "2026-11-19: új – a kiírásban megnevezett, hatályon kívül helyezett 2012. évi CCV. törvény (Hjt.) helyébe lépett jogszabály (Attila döntése, 2026-11-19 18:44); net.jogtar.hu, szakaszonként visszaellenőrizve. A Storage-ba még feltöltendő. Bizonyíték: korpusz/manifest.json (hatalyossag.allapot: friss, jogallapot 2026-12-09, ellenorizve 2026-11-19); ALLAPOT.md „S2 – korpuszcsere” szakasz.",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a2400137.kor",
+   "elteres": []
+  },
+  {
+   "kod": "Sztrtv",
+   "nev": "1989. évi VII. törvény a sztrájkról",
+   "fajl": "1989. évi VII. törvény a sztrájkról - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=98900007.tv",
+   "elteres": []
+  },
+  {
+   "kod": "Tagdtv",
+   "nev": "1991. évi XXIX. törvény a munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről",
+   "fajl": "1991. évi XXIX. törvény a munkavállalói érdekképviseleti tagdíjfizetés önkéntességéről - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=99100029.tv",
+   "elteres": []
+  },
+  {
+   "kod": "Ktv",
+   "nev": "1992. évi XXIII. törvény a köztisztviselők jogállásáról",
+   "fajl": "1992. évi XXIII. törvény a köztisztviselők jogállásáról - Törvények és országgyűlési határozatok.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=99200023.tv",
+   "elteres": []
+  },
+  {
+   "kod": "ILO95",
+   "nev": "2000. évi LIV. törvény a munkabér védelméről szóló, a Nemzetközi Munkaügyi Konferencia 1949. évi 32. ülésszakán elfogadott 95. számú Egyezmény kihirdetéséről",
+   "fajl": "2000. évi LIV. törvény a munkabér védelméről szóló, a Nemzetközi Munkaügyi Konferencia 1949. évi 32. ülésszakán elfogadott 95. számú Egyezmény kihirdetéséről - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a0000054.tv",
+   "elteres": []
+  },
+  {
+   "kod": "ILO138",
+   "nev": "2000. évi LXIX. törvény a foglalkoztatás alsó korhatáráról szóló 138. számú ILO-egyezmény kihirdetéséről",
+   "fajl": "2000. évi LXIX. törvény a foglalkoztatás alsó korhatáráról szóló, a Nemzetközi Munkaügyi Konferencia 1973. évi 58. ülésszakán elfogadott 138. számú Egyezmény kihirdetéséről.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a0000069.tv",
+   "elteres": []
+  },
+  {
+   "kod": "ILO132",
+   "nev": "2000. évi LXVI. törvény a fizetett éves szabadságról szóló, a Nemzetközi Munkaügyi Konferencia 1970. évi 54. ülésszakán elfogadott 132. számú Egyezmény kihirdetéséről",
+   "fajl": "2000. évi LXVI. törvény a fizetett éves szabadságról szóló, a Nemzetközi Munkaügyi Konferencia 1970. évi 54. ülésszakán elfogadott 132. számú Egyezmény kihirdetéséről - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a0000066.tv",
+   "elteres": []
+  },
+  {
+   "kod": "ILO182",
+   "nev": "2001. évi XXVII. törvény a gyermekmunka legrosszabb formáiról szóló 182. számú ILO-egyezmény kihirdetéséről",
+   "fajl": "2001. évi XXVII. törvény a gyermekmunka legrosszabb formáinak betiltásáról és felszámolására irányuló azonnali lépésekről szóló, a Nemzetközi Munkaügyi Konferencia 1999. évi 87. üléss.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a0100027.tv",
+   "elteres": []
+  },
+  {
+   "kod": "Taktv",
+   "nev": "2009. évi CXXII. törvény a köztulajdonban álló gazdasági társaságok takarékosabb működéséről",
+   "fajl": "2009. évi CXXII. törvény a köztulajdonban álló gazdasági társaságok takarékosabb működéséről - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a0900122.tv",
+   "elteres": []
+  },
+  {
+   "kod": "Apbtv",
+   "nev": "2009. évi LXXIV. törvény az ágazati párbeszéd bizottságokról és a középszintű szociális párbeszéd egyes kérdéseiről",
+   "fajl": "2009. évi LXXIV. törvény az ágazati párbeszéd bizottságokról és a középszintű szociális párbeszéd egyes kérdéseiről - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": "2024.05.11. –",
+   "allapot": "friss",
+   "megjegyzes": "2026-11-19: cserélve a 2026. december 9-én hatályos időállapotra (Attila letöltése; szakaszonként visszaellenőrizve). A Storage-ba még feltöltendő. Bizonyíték: korpusz/manifest.json (hatalyossag.allapot: friss, jogallapot 2026-12-09, ellenorizve 2026-11-19); ALLAPOT.md „S2 – korpuszcsere” szakasz.",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a0900074.tv",
+   "elteres": []
+  },
+  {
+   "kod": "NAVSzjtv",
+   "nev": "2020. évi CXXX. törvény a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról",
+   "fajl": "2020. évi CXXX. törvény a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": "2026.11.14. –",
+   "allapot": "friss",
+   "megjegyzes": "2026-11-19: cserélve a 2026. december 9-én hatályos időállapotra (Attila letöltése; szakaszonként visszaellenőrizve). A Storage-ba még feltöltendő. Bizonyíték: korpusz/manifest.json (hatalyossag.allapot: friss, jogallapot 2026-12-09, ellenorizve 2026-11-19); ALLAPOT.md „S2 – korpuszcsere” szakasz.",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a2000130.tv",
+   "elteres": []
+  },
+  {
+   "kod": "Fszftv",
+   "nev": "2020. évi CXXXV. törvény a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről",
+   "fajl": "2020. évi CXXXV. törvény a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a2000135.tv",
+   "elteres": []
+  },
+  {
+   "kod": "Vmtv",
+   "nev": "2020. évi LVIII. törvény a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről",
+   "fajl": "2020. évi LVIII. törvény a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": "2026.08.14. –",
+   "allapot": "friss",
+   "megjegyzes": "2026-11-19: cserélve a 2026. december 9-én hatályos időállapotra (Attila letöltése; szakaszonként visszaellenőrizve). A Storage-ba még feltöltendő. Bizonyíték: korpusz/manifest.json (hatalyossag.allapot: friss, jogallapot 2026-12-09, ellenorizve 2026-11-19); ALLAPOT.md „S2 – korpuszcsere” szakasz.",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a2000058.tv",
+   "elteres": []
+  },
+  {
+   "kod": "Korm294_2011",
+   "nev": "294/2011. (XII. 22.) Korm. rendelet az önkéntes tartalékos rendszerhez kapcsolódóan, a munkáltatót megillető támogatásokra vonatkozó szabályokról",
+   "fajl": "294_2011. (XII. 22.) Korm. rendelet az önkéntes tartalékos rendszerhez kapcsolódóan, a munkáltatót megillető támogatásokra vonatkozó szabályokról - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a1100294.kor",
+   "elteres": []
+  },
+  {
+   "kod": "Ir97_81",
+   "nev": "31997L0081[1]",
+   "fajl": "31997L0081 A Tanács 97_81_EK irányelve (1997. december 15.) az UNIC.._.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "elteres": []
+  },
+  {
+   "kod": "Ir98_59",
+   "nev": "31998L0059[1]",
+   "fajl": "31998L0059 A Tanács 98_59_EK irányelve (1998. július 20.) a csoport.._.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "elteres": []
+  },
+  {
+   "kod": "Ir99_70",
+   "nev": "31999L0070[1]",
+   "fajl": "31999L0070 A Tanács 1999_70_EK irányelve (1999. június 28.) az ESZS.._.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "elteres": []
+  },
+  {
+   "kod": "Korm31_2012",
+   "nev": "31/2012. (III. 7.) Korm. rendelet a közszolgálati tisztviselőkkel szembeni fegyelmi eljárásról",
+   "fajl": "31_2012. (III. 7.) Korm. rendelet a közszolgálati tisztviselőkkel szembeni fegyelmi eljárásról - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": "2022.08.12. –",
+   "allapot": "friss",
+   "megjegyzes": "2026-11-19: cserélve a 2026. december 9-én hatályos időállapotra (Attila letöltése; szakaszonként visszaellenőrizve). A Storage-ba még feltöltendő. Bizonyíték: korpusz/manifest.json (hatalyossag.allapot: friss, jogallapot 2026-12-09, ellenorizve 2026-11-19); ALLAPOT.md „S2 – korpuszcsere” szakasz.",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a1200031.kor",
+   "elteres": []
+  },
+  {
+   "kod": "Ir2003_88",
+   "nev": "32003L0088",
+   "fajl": "32003L0088 Az Európai Parlament és a Tanács 2003_88_EK irányelve (2.._.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "elteres": []
+  },
+  {
+   "kod": "Ir2008_104",
+   "nev": "32008L0104[1]",
+   "fajl": "32008L0104 Az Európai Parlament és a Tanács 2008_104_EK irányelve (.._.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "elteres": []
+  },
+  {
+   "kod": "Ir2019_1152",
+   "nev": "32019L1152[1]",
+   "fajl": "32019L1152 Az Európai Parlament és a Tanács (EU) 2019_1152 irányelv.._.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "elteres": []
+  },
+  {
+   "kod": "Ir2019_1158",
+   "nev": "32019L1158[1]",
+   "fajl": "32019L1158 Az Európai Parlament és a Tanács (EU) 2019_1158 irányelv.._.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "elteres": []
+  },
+  {
+   "kod": "Korm335_2012",
+   "nev": "335/2012. (XII. 4.) Korm. rendelet a postai szolgáltatások nyújtásának és a hivatalos iratokkal kapcsolatos postai szolgáltatás részletes szabályairól, valamint a postai szolgáltatók általános szerződ",
+   "fajl": "335_2012. (XII. 4.) Korm. rendelet.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a1200335.kor",
+   "elteres": []
+  },
+  {
+   "kod": "NMr33",
+   "nev": "33/1998. (VI. 24.) NM rendelet a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről",
+   "fajl": "33_1998. (VI. 24.) NM rendelet a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=99800033.nm",
+   "elteres": []
+  },
+  {
+   "kod": "Korm426_2025",
+   "nev": "426/2025. (XII. 23.) Korm. rendelet a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról",
+   "fajl": "426_2025. (XII. 23.) Korm. rendelet a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": "2026.01.02. –",
+   "allapot": "friss",
+   "megjegyzes": "2026-11-19: új – a kiírásban megnevezett, hatályon kívül helyezett 573/2022. (XII. 23.) Korm. rendelet helyébe lépett jogszabály (Attila döntése, 2026-11-19 18:44); net.jogtar.hu, szakaszonként visszaellenőrizve. A Storage-ba még feltöltendő. Bizonyíték: korpusz/manifest.json (hatalyossag.allapot: friss, jogallapot 2026-12-09, ellenorizve 2026-11-19); ALLAPOT.md „S2 – korpuszcsere” szakasz.",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a2500426.kor",
+   "elteres": []
+  },
+  {
+   "kod": "Korm535_2022",
+   "nev": "535/2022. (XII. 21.) Korm. rendelet az apasági szabadság igénybevételéről és az azzal összefüggő költségek megtérítéséről",
+   "fajl": "535_2022. (XII. 21.) Korm. rendelet az apasági szabadság igénybevételéről és az azzal összefüggő költségek megtérítéséről - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a2200535.kor",
+   "elteres": []
+  },
+  {
+   "kod": "Korm69_2019",
+   "nev": "69/2019. (IV. 4.) Korm. rendelet a Közszolgálati Döntőbizottságról",
+   "fajl": "69_2019. (IV. 4.) Korm. rendelet a Közszolgálati Döntőbizottságról - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a1900069.kor",
+   "elteres": []
+  },
+  {
+   "kod": "IRM73_2009",
+   "nev": "73/2009. (XII. 22.) IRM rendelet a munkavállalói költségkedvezmény megállapításáról és érvényesítésének szabályairól",
+   "fajl": "73_2009. (XII. 22.) IRM rendelet a munkavállalói költségkedvezmény megállapításáról és érvényesítésének szabályairól - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a0900073.irm",
+   "elteres": []
+  },
+  {
+   "kod": "ISM7_2001",
+   "nev": "7/2001. (X. 4.) ISM rendelet a tanköteles fiatal munkavállaló sportcélú foglalkoztatásáról",
+   "fajl": "7_2001. (X. 4.) ISM rendelet a tanköteles fiatal munkavállaló sportcélú foglalkoztatásáról - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a0100007.ism",
+   "elteres": []
+  },
+  {
+   "kod": "Korm88_2019",
+   "nev": "88/2019. (IV. 23.) Korm. rendelet",
+   "fajl": "88_2019. (IV. 23.) Korm. rendelet.txt",
+   "idoallapot": "2026.11.07. –",
+   "allapot": "friss",
+   "megjegyzes": "2026-11-19: cserélve a 2026. december 9-én hatályos időállapotra (Attila letöltése; szakaszonként visszaellenőrizve). A Storage-ba még feltöltendő. Bizonyíték: korpusz/manifest.json (hatalyossag.allapot: friss, jogallapot 2026-12-09, ellenorizve 2026-11-19); ALLAPOT.md „S2 – korpuszcsere” szakasz.",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a1900088.kor",
+   "elteres": []
+  },
+  {
+   "kod": "R987_2009",
+   "nev": "Az Európai Parlament és a Tanács 987/2009/EK rendelete a 883/2004/EK rendelet végrehajtására vonatkozó eljárás megállapításáról",
+   "fajl": "987_2009_EK rendelet a 883_2004_EK rendelet végrehajtásáról.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "url": "https://eur-lex.europa.eu/legal-content/HU/ALL/?uri=CELEX:32009R0987",
+   "elteres": []
+  },
+  {
+   "kod": "Ir2001_23",
+   "nev": "A Tanács 2001/23/EK irányelve",
+   "fajl": "A Tanács 2001.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "elteres": []
+  },
+  {
+   "kod": "Alaptv",
+   "nev": "Magyarország Alaptörvénye",
+   "fajl": "Alaptörvény - Magyarország Alaptörvénye (2011. április 25.) - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": "a 2026. december 9-én hatályos szöveg (a manifest megjegyzése szerint; a kezdőnap a tárolóban nincs rögzítve)",
+   "allapot": "friss",
+   "megjegyzes": "2026-11-19: cserélve a már ellenőrzött, 2026. december 9-én hatályos szövegre (másik tételsor korpuszából). A Storage-ba még feltöltendő. Bizonyíték: korpusz/manifest.json (hatalyossag.allapot: friss, jogallapot 2026-12-09, ellenorizve 2026-11-19); ALLAPOT.md „S2 – korpuszcsere” szakasz.",
+   "elteres": []
+  },
+  {
+   "kod": "Art",
+   "nev": "2017. évi CL. törvény az adózás rendjéről",
+   "fajl": "Art. (új) - 2017. évi CL. törvény az adózás rendjéről - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": "2027.01.01. – 2027.12.31.",
+   "allapot": "friss",
+   "megjegyzes": "2026-11-19: cserélve a 2027-01-01-től hatályos időállapotra (Attila döntése, 2026-11-19 18:00; szakaszonként visszaellenőrizve). A Storage-ba még feltöltendő. Tényleges időállapot: 2027.01.01. – 2027.12.31. (jövőbeli időállapot; Attila döntése, 2026-11-19 18:00 – frissnek számít; a manifest hatalyossag.jogallapot: 2027-01-01). Bizonyíték: korpusz/manifest.json (hatalyossag.allapot: friss, jogallapot 2027-01-01, ellenorizve 2026-11-19); ALLAPOT.md „S2 – korpuszcsere” szakasz.",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a1700150.tv",
+   "elteres": []
+  },
+  {
+   "kod": "Cst",
+   "nev": "1998. évi LXXXIV. törvény a családok támogatásáról",
+   "fajl": "Cst. - 1998. évi LXXXIV. törvény a családok támogatásáról - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": "2026.10.01. – határozatlan",
+   "allapot": "friss",
+   "megjegyzes": "2026-11-19: cserélve a 2026. december 9-én hatályos időállapotra (Attila letöltése; szakaszonként visszaellenőrizve). A Storage-ba még feltöltendő. Bizonyíték: korpusz/manifest.json (hatalyossag.allapot: friss, jogallapot 2026-12-09, ellenorizve 2026-11-19); ALLAPOT.md „S2 – korpuszcsere” szakasz.",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=99800084.tv",
+   "elteres": []
+  },
+  {
+   "kod": "Csvt",
+   "nev": "2011. évi CCXI. törvény a családok védelméről",
+   "fajl": "Csvt. - 2011. évi CCXI. törvény a családok védelméről - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": "2026.10.24. –",
+   "allapot": "friss",
+   "megjegyzes": "2026-11-19: cserélve a 2026. december 9-én hatályos időállapotra (Attila letöltése; szakaszonként visszaellenőrizve). A Storage-ba még feltöltendő. Bizonyíték: korpusz/manifest.json (hatalyossag.allapot: friss, jogallapot 2026-12-09, ellenorizve 2026-11-19); ALLAPOT.md „S2 – korpuszcsere” szakasz.",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a1100211.tv",
+   "elteres": []
+  },
+  {
+   "kod": "Cstv",
+   "nev": "1991. évi XLIX. törvény a csődeljárásról és a felszámolási eljárásról",
+   "fajl": "Csődtv. - 1991. évi XLIX. törvény a csődeljárásról és a felszámolási eljárásról - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=99100049.tv",
+   "elteres": []
+  },
+  {
+   "kod": "Ebktv",
+   "nev": "2003. évi CXXV. törvény az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról",
+   "fajl": "Ebktv. - 2003. évi CXXV. törvény az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a0300125.tv",
+   "elteres": []
+  },
+  {
+   "kod": "Ebtv",
+   "nev": "1997. évi LXXXIII. törvény a kötelező egészségbiztosítás ellátásairól",
+   "fajl": "Ebtv. - 1997. évi LXXXIII. törvény a kötelező egészségbiztosítás ellátásairól - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=99700083.tv",
+   "elteres": []
+  },
+  {
+   "kod": "Efotv",
+   "nev": "2010. évi LXXV. törvény az egyszerűsített foglalkoztatásról",
+   "fajl": "Efo. tv. - 2010. évi LXXV. törvény az egyszerűsített foglalkoztatásról - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": "2026.01.01. –",
+   "allapot": "friss",
+   "megjegyzes": "2026-11-19: cserélve a 2026. december 9-én hatályos időállapotra (Attila letöltése; szakaszonként visszaellenőrizve). A Storage-ba még feltöltendő. Bizonyíték: korpusz/manifest.json (hatalyossag.allapot: friss, jogallapot 2026-12-09, ellenorizve 2026-11-19); ALLAPOT.md „S2 – korpuszcsere” szakasz.",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a1000075.tv",
+   "elteres": []
+  },
+  {
+   "kod": "Ir2000_78",
+   "nev": "32000L0078[1]",
+   "fajl": "Foglalkoztatási Irányelv (EU) - 32000L0078 A Tanács 2000_78_EK irán.._.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "elteres": []
+  },
+  {
+   "kod": "Fot",
+   "nev": "1998. évi XXVI. törvény a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról",
+   "fajl": "Fot. - 1998. évi XXVI. törvény a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=99800026.tv",
+   "elteres": []
+  },
+  {
+   "kod": "GDPR",
+   "nev": "(1) A természetes személyek személyes adataik kezelésével összefüggő védelme alapvető jog. Az Európai Unió Alapjogi Chartája (Charta) 8. cikkének (1) bekezdése és az Európai Unió működéséről szóló sze",
+   "fajl": "GDPR - AZ EURÓPAI PARLAMENT ÉS A TANÁCS 2016. április 27-i (EU) 2016_679 RENDELETE a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "elteres": []
+  },
+  {
+   "kod": "Hajtv",
+   "nev": "2018. évi CXIV. törvény a honvédelmi alkalmazottak jogállásáról",
+   "fajl": "Haj. tv. - 2018. évi CXIV. törvény a honvédelmi alkalmazottak jogállásáról - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a1800114.tv",
+   "elteres": []
+  },
+  {
+   "kod": "Hszt",
+   "nev": "2015. évi XLII. törvény a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról",
+   "fajl": "Hszt. (új) - 2015. évi XLII. törvény a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": "2026.10.01. – határozatlan",
+   "allapot": "friss",
+   "megjegyzes": "2026-11-19: cserélve a 2026. december 9-én hatályos időállapotra (Attila letöltése; szakaszonként visszaellenőrizve). A Storage-ba még feltöltendő. Bizonyíték: korpusz/manifest.json (hatalyossag.allapot: friss, jogallapot 2026-12-09, ellenorizve 2026-11-19); ALLAPOT.md „S2 – korpuszcsere” szakasz.",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a1500042.tv",
+   "elteres": []
+  },
+  {
+   "kod": "Infotv",
+   "nev": "2011. évi CXII. törvény az információs önrendelkezési jogról és az információszabadságról",
+   "fajl": "Info tv. - 2011. évi CXII. törvény az információs önrendelkezési jogról és az információszabadságról - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a1100112.tv",
+   "elteres": []
+  },
+  {
+   "kod": "Ir96_71",
+   "nev": "Kiküldetési Irányelv (EU) - 31996L0071 Az Európai Parlament És a Tanács 96/71/EK irányelve (1996. december 16.) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről",
+   "fajl": "Kiküldetési Irányelv (EU) - 31996L0071 Az Európai Parlament És a Ta....txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "elteres": []
+  },
+  {
+   "kod": "Kit",
+   "nev": "2018. évi CXXV. törvény a kormányzati igazgatásról",
+   "fajl": "Kit. - 2018. évi CXXV. törvény a kormányzati igazgatásról - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": "2026.11.14. –",
+   "allapot": "friss",
+   "megjegyzes": "2026-11-19: cserélve a 2026. december 9-én hatályos időállapotra (Attila letöltése; szakaszonként visszaellenőrizve). A Storage-ba még feltöltendő. Bizonyíték: korpusz/manifest.json (hatalyossag.allapot: friss, jogallapot 2026-12-09, ellenorizve 2026-11-19); ALLAPOT.md „S2 – korpuszcsere” szakasz.",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a1800125.tv",
+   "elteres": []
+  },
+  {
+   "kod": "Kjt",
+   "nev": "1992. évi XXXIII. törvény a közalkalmazottak jogállásáról",
+   "fajl": "Kjt. - 1992. évi XXXIII. törvény a közalkalmazottak jogállásáról - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=99200033.tv",
+   "elteres": []
+  },
+  {
+   "kod": "R883_2004",
+   "nev": "32004R0883",
+   "fajl": "Koordinációs Rendelet (EU) - 32004R0883 Az Európai Parlament és a T.._.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "elteres": []
+  },
+  {
+   "kod": "Kp",
+   "nev": "2017. évi I. törvény a közigazgatási perrendtartásról",
+   "fajl": "Kp. - 2017. évi I. törvény a közigazgatási perrendtartásról - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a1700001.tv",
+   "elteres": []
+  },
+  {
+   "kod": "Kttv",
+   "nev": "2011. évi CXCIX. törvény a közszolgálati tisztviselőkről",
+   "fajl": "Kttv. - 2011. évi CXCIX. törvény a közszolgálati tisztviselőkről - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": "2026.11.14. –",
+   "allapot": "friss",
+   "megjegyzes": "2026-11-19: cserélve a 2026. december 9-én hatályos időállapotra (Attila letöltése; szakaszonként visszaellenőrizve). A Storage-ba még feltöltendő. Bizonyíték: korpusz/manifest.json (hatalyossag.allapot: friss, jogallapot 2026-12-09, ellenorizve 2026-11-19); ALLAPOT.md „S2 – korpuszcsere” szakasz.",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a1100199.tv",
+   "elteres": []
+  },
+  {
+   "kod": "Kozvtv",
+   "nev": "2002. évi LV. törvény a közvetítői tevékenységről",
+   "fajl": "Közvetítői tv. - 2002. évi LV. törvény a közvetítői tevékenységről - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a0200055.tv",
+   "elteres": []
+  },
+  {
+   "kod": "Kut",
+   "nev": "2019. évi CVII. törvény a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról",
+   "fajl": "Küt. - 2019. évi CVII. törvény a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": "2026.11.14. –",
+   "allapot": "friss",
+   "megjegyzes": "2026-11-19: cserélve a 2026. december 9-én hatályos időállapotra (Attila letöltése; szakaszonként visszaellenőrizve). A Storage-ba még feltöltendő. Bizonyíték: korpusz/manifest.json (hatalyossag.allapot: friss, jogallapot 2026-12-09, ellenorizve 2026-11-19); ALLAPOT.md „S2 – korpuszcsere” szakasz.",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a1900107.tv",
+   "elteres": []
+  },
+  {
+   "kod": "Mt",
+   "nev": "2012. évi I. törvény a munka törvénykönyvéről",
+   "fajl": "Mt. (új) - 2012. évi I. törvény a munka törvénykönyvéről - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": "2026.11.14. –",
+   "allapot": "friss",
+   "megjegyzes": "2026-11-19: cserélve a 2026. december 9-én hatályos időállapotra (Attila letöltése; szakaszonként visszaellenőrizve). A Storage-ba még feltöltendő. Bizonyíték: korpusz/manifest.json (hatalyossag.allapot: friss, jogallapot 2026-12-09, ellenorizve 2026-11-19); ALLAPOT.md „S2 – korpuszcsere” szakasz.",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a1200001.tv",
+   "elteres": []
+  },
+  {
+   "kod": "Mvt",
+   "nev": "1993. évi XCIII. törvény a munkavédelemről",
+   "fajl": "Munkavéd. tv. - 1993. évi XCIII. törvény a munkavédelemről - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": "2026.10.01. –",
+   "allapot": "friss",
+   "megjegyzes": "2026-11-19: cserélve a 2026. december 9-én hatályos időállapotra (Attila letöltése; szakaszonként visszaellenőrizve). A Storage-ba még feltöltendő. Bizonyíték: korpusz/manifest.json (hatalyossag.allapot: friss, jogallapot 2026-12-09, ellenorizve 2026-11-19); ALLAPOT.md „S2 – korpuszcsere” szakasz.",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=99300093.tv",
+   "elteres": []
+  },
+  {
+   "kod": "Pp",
+   "nev": "2016. évi CXXX. törvény a polgári perrendtartásról",
+   "fajl": "Pp. (új) - 2016. évi CXXX. törvény a polgári perrendtartásról - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": "a 2026. december 9-én hatályos szöveg (a manifest megjegyzése szerint; a kezdőnap a tárolóban nincs rögzítve)",
+   "allapot": "friss",
+   "megjegyzes": "2026-11-19: cserélve a már ellenőrzött, 2026. december 9-én hatályos szövegre (másik tételsor korpuszából). A Storage-ba még feltöltendő. Bizonyíték: korpusz/manifest.json (hatalyossag.allapot: friss, jogallapot 2026-12-09, ellenorizve 2026-11-19); ALLAPOT.md „S2 – korpuszcsere” szakasz.",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a1600130.tv",
+   "elteres": []
+  },
+  {
+   "kod": "Ptk",
+   "nev": "2013. évi V. törvény a Polgári Törvénykönyvről",
+   "fajl": "Ptk. (új) - 2013. évi V. törvény a Polgári Törvénykönyvről - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": "a 2026. december 9-én hatályos szöveg (a manifest megjegyzése szerint; a kezdőnap a tárolóban nincs rögzítve)",
+   "allapot": "friss",
+   "megjegyzes": "2026-11-19: cserélve a már ellenőrzött, 2026. december 9-én hatályos szövegre (másik tételsor korpuszából). A Storage-ba még feltöltendő. Bizonyíték: korpusz/manifest.json (hatalyossag.allapot: friss, jogallapot 2026-12-09, ellenorizve 2026-11-19); ALLAPOT.md „S2 – korpuszcsere” szakasz.",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a1300005.tv",
+   "elteres": []
+  },
+  {
+   "kod": "Tbj",
+   "nev": "2019. évi CXXII. törvény a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről",
+   "fajl": "Tbj. (új) - 2019. évi CXXII. törvény a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a1900122.tv",
+   "elteres": []
+  },
+  {
+   "kod": "Tny",
+   "nev": "1997. évi LXXXI. törvény a társadalombiztosítási nyugellátásról",
+   "fajl": "Tny. - 1997. évi LXXXI. törvény a társadalombiztosítási nyugellátásról - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": "2026.09.27. – határozatlan",
+   "allapot": "friss",
+   "megjegyzes": "2026-11-19: cserélve a 2026. december 9-én hatályos időállapotra (Attila letöltése; szakaszonként visszaellenőrizve). A Storage-ba még feltöltendő. Bizonyíték: korpusz/manifest.json (hatalyossag.allapot: friss, jogallapot 2026-12-09, ellenorizve 2026-11-19); ALLAPOT.md „S2 – korpuszcsere” szakasz.",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=99700081.tv",
+   "elteres": []
+  },
+  {
+   "kod": "Vbt",
+   "nev": "2017. évi LX. törvény a választottbíráskodásról",
+   "fajl": "Vbt. (új) - 2017. évi LX. törvény a választottbíráskodásról - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a1700060.tv",
+   "elteres": []
+  },
+  {
+   "kod": "Vht",
+   "nev": "1994. évi LIII. törvény a bírósági végrehajtásról",
+   "fajl": "Vht. - 1994. évi LIII. törvény a bírósági végrehajtásról - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": "a 2026. december 9-én hatályos szöveg (a manifest megjegyzése szerint; a kezdőnap a tárolóban nincs rögzítve)",
+   "allapot": "friss",
+   "megjegyzes": "2026-11-19: cserélve a már ellenőrzött, 2026. december 9-én hatályos szövegre (másik tételsor korpuszából). A Storage-ba még feltöltendő. Bizonyíték: korpusz/manifest.json (hatalyossag.allapot: friss, jogallapot 2026-12-09, ellenorizve 2026-11-19); ALLAPOT.md „S2 – korpuszcsere” szakasz.",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=99400053.tv",
+   "elteres": []
+  },
+  {
+   "kod": "Aht",
+   "nev": "2011. évi CXCV. törvény az államháztartásról",
+   "fajl": "Áht. - 2011. évi CXCV. törvény az államháztartásról - Hatályos Jogszabályok Gyűjteménye.txt",
+   "idoallapot": null,
+   "allapot": "hianyzik",
+   "megjegyzes": "ELLENŐRIZETLEN: a fájl megvan, de a tárolóban nincs írott bizonyíték a megkövetelt (2026-12-09) időállapottal való összevetésre (a manifest sorában nincs hatalyossag, az ALLAPOT.md név szerint nem rögzíti). A „hianyzik” itt az ellenőrzött időállapot hiányát jelöli, nem a fájlét (a séma ellenőrizetlen állapotot nem ismer; a B/1 megoldása szerint).",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a1100195.tv",
+   "elteres": []
+  },
+  {
+   "kod": "GFM15_2023",
+   "nev": "15/2023. (VII. 13.) GFM rendelet a 2024. évi munkaszüneti napok kör",
+   "fajl": "15_2023. (VII. 13.) GFM rendelet a 2024. évi munkaszüneti napok kör.._.txt",
+   "idoallapot": null,
+   "allapot": "elavult",
+   "megjegyzes": "Hatályon kívül helyezett, nem előírt forrás (ALLAPOT.md „Hatályon kívül helyezett jogszabályok a kiírásban”, Attila döntése 2026-11-19 18:44; beallitas.json kiirasElirasok/tetelForras); helyette: 10/2025. (IV. 30.) NGM r. (21. tétel). Tájékoztatásként marad a korpuszban.",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a2300015.gfm",
+   "elteres": []
+  },
+  {
+   "kod": "Hjt",
+   "nev": "2012. évi CCV. törvény a honvédek jogállásáról",
+   "fajl": "2012. évi CCV. törvény a honvédek jogállásáról - Törvények és országgyűlési határozatok.txt",
+   "idoallapot": null,
+   "allapot": "elavult",
+   "megjegyzes": "Hatályon kívül helyezett, nem előírt forrás (ALLAPOT.md „Hatályon kívül helyezett jogszabályok a kiírásban”, Attila döntése 2026-11-19 18:44; beallitas.json kiirasElirasok/tetelForras); helyette: 137/2024. (VI. 28.) Korm. r. (25., 52. tétel). Tájékoztatásként marad a korpuszban.",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a1200205.tv",
+   "elteres": []
+  },
+  {
+   "kod": "Korm573_2022",
+   "nev": "573/2022. (XII. 23.) Korm. rendelet a kötelező legkisebb munkabér (",
+   "fajl": "573_2022. (XII. 23.) Korm. rendelet a kötelező legkisebb munkabér (.._.txt",
+   "idoallapot": null,
+   "allapot": "elavult",
+   "megjegyzes": "Hatályon kívül helyezett, nem előírt forrás (ALLAPOT.md „Hatályon kívül helyezett jogszabályok a kiírásban”, Attila döntése 2026-11-19 18:44; beallitas.json kiirasElirasok/tetelForras); helyette: 426/2025. (XII. 23.) Korm. r. (26., 34. tétel). Tájékoztatásként marad a korpuszban.",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a2200573.kor",
+   "elteres": []
+  },
+  {
+   "kod": "IM5_2023",
+   "nev": "5/2023. (VI. 19.) IM rendelet a békéltető testületi elnöki és tagsági feladat ellátására vonatkozó kiválasztási eljárás szabályairól és a békéltető testületi elnökök és tagok díjaz",
+   "fajl": "5_2023. (VI. 19.) IM rendelet a békéltető testületi elnöki és tagsági feladat ellátására vonatkozó kiválasztási eljárás szabályairól és a békéltető testületi elnökök és tagok díjaz.txt",
+   "idoallapot": "2026.07.21. –",
+   "allapot": "friss",
+   "megjegyzes": "2026-11-19: cserélve a 2026. december 9-én hatályos időállapotra (Attila letöltése; szakaszonként visszaellenőrizve). A Storage-ba még feltöltendő. Bizonyíték: korpusz/manifest.json (hatalyossag.allapot: friss, jogallapot 2026-12-09, ellenorizve 2026-11-19); ALLAPOT.md „S2 – korpuszcsere” szakasz.",
+   "url": "https://net.jogtar.hu/jogszabaly?docid=a2300005.im",
+   "elteres": []
+  }
+ ],
+ "teendok": [
+  {
+   "ki": "központi chat",
+   "mit": "A „hianyzik” (ELLENŐRIZETLEN) jelű előírt források szakaszonkénti összevetése a 2026-12-09-i időállapottal (uniós aktusoknál az EUR-Lex egységes szerkezetével); addig a kapu nyitott."
+  },
+  {
+   "ki": "Attila (az élesítés előtt, S8)",
+   "mit": "A 2026-11-19-én cserélt és az új korpuszfájlok Storage-feltöltése (manifest: „A Storage-ba még feltöltendő”)."
+  },
+  {
+   "ki": "Attila",
+   "mit": "A Kúria-lábjegyzet nélküli előírt iránymutatások alkalmazhatóságának ellenőrzése a Kúria honlapján (jelentesek/hatalyossag.md, „nincs lábjegyzet”)."
+  }
+ ],
+ "kovetkezmenyek": [
+  "Az S2 nem zárult: a friss források a 2026-11-19-i összevetésből jönnek; az ellenőrizetlen előírt források miatt a kapu nyitott.",
+  "API első olvasás (S4) S2 zárása előtt nem küldhető (gyártási szabályzat, S4 keretszabály 7).",
+  "A 21., 25., 26., 34., 52. tétel a hatályon kívül helyezett jogszabály helyett a helyébe lépett rendeletre épül (tetelForras)."
+ ]
+}
